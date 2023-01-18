@@ -849,23 +849,74 @@ el <wi type="G" value="26,7,">amor</wi>
 <sv id="b2_Corinthians-2-9">
 For to this end I also wrote, that I might know
 the proof of you, whether you
-<wi type="T" value="P"/> are obedient in all things.
+are obedient in all things.
+<t xml:lang="es"><wi type="G" value="1519,1,"/><wi type="G" value="1063,3,">Con</wi>
+<wi type="G" value="5124,2,">este fin</wi>
+<wi type="G" value="2532,4,">también</wi> les
+<wi type="G" value="1125,5,">escribí</wi>,
+<wi type="G" value="2443,6,">para</wi>
+<wi type="G" value="1097,7,">conocer</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="1382,9,">la prueba</wi></wi>
+<wi type="G" value="5216,10,">de ustedes</wi>,
+<wi type="G" value="1487,11,">si</wi>
+<wi type="G" value="2075,15,">son</wi>
+<wi type="G" value="5255,14,">obedientes</wi>
+<wi type="G" value="1519,12,">en</wi>
+<wi type="G" value="3956,13,">todo</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-2-10">
 Now I
 also forgive whomever you forgive anything. For if indeed I have forgiven
 anything, I have forgiven that one for your sakes in the presence of Christ,
-
+<t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>
+<wi type="G" value="3739,1,">a quien</wi>
+<wi type="G" value="5483,4,">ustedes perdonen</wi>
+<wi type="G" value="5100,3,">algo</wi>
+<wi type="G" value="2532,5,"/><wi type="G" value="1473,6,">yo</wi>
+<wi type="G" value="2532,7,">también</wi>.
+<wi type="G" value="1063,8,">Porque</wi>
+<wi type="G" value="1487,10,">si</wi>
+<wi type="G" value="1473,9,">yo</wi>
+<wi type="G" value="5483,12,">he perdonado</wi>
+<wi type="G" value="5100,11,">algo</wi>
+<wi type="G" value="3739,13,">a quien</wi>
+<wi type="G" value="5483,14,">he perdonado</wi>,
+ha sido
+<wi type="G" value="1223,15,">por</wi>
+<wi type="G" value="5209,16,">causa de ustedes</wi>
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="4383,18,">la presencia</wi>
+<wi type="G" value="5547,19,">de Cristo</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-2-11">
 that no advantage may be gained over us by Satan; for we are not
 ignorant of his schemes.
+<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
+<wi type="G" value="5259,4,"/><wi type="G" value="3588,5,"><wi type="G" value="4567,6,">Satanas</wi></wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="3361,2,">no</wi>
+<wi type="G" value="4122,3,">gane ventaja</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `no gane ventaja,
+<citebib id="RVG2012"/> dice `no seamos engañados.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `πλεονεκτηθωμεν´
+se traduce como tener más, ganar ventaja, defraudar.
+</rf></rb>
+<t xml:lang="es">;
 
+<wi type="G" value="1063,8,">pues</wi>
+<wi type="G" value="3756,7,">no</wi>
+<wi type="G" value="50,12,">somos ignorantes</wi>
+<wi type="G" value="846,9,">de sus</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="3540,11,">esquemas</wi></wi>.
+</t>
 </sv></cm><cm>
 
 <sv id="b2_Corinthians-2-12">
 Now when I came to Troas for the Good News of Christ, and when a door was
 opened to me in the Lord,
+<t xml:lang="es">Ahora cuando vine a Troas por la Buena Nueva de Cristo,
+y cuando el Señor me abrió una puerta,</t>
 </sv>
 <sv id="b2_Corinthians-2-13">
 I had no relief for my spirit, because I
