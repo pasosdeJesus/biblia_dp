@@ -915,13 +915,42 @@ se traduce como tener más, ganar ventaja, defraudar.
 <sv id="b2_Corinthians-2-12">
 Now when I came to Troas for the Good News of Christ, and when a door was
 opened to me in the Lord,
-<t xml:lang="es">Ahora cuando vine a Troas por la Buena Nueva de Cristo,
-y cuando el Señor me abrió una puerta,</t>
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="2064,1,">cuando vine</wi>
+<wi type="G" value="1519,3,">a</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="5174,5,">Troas</wi></wi>
+<wi type="G" value="1519,6,">por</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="2098,8,">la Buena Nueva</wi></wi>
+<wi type="G" value="3588,9,"><wi type="G" value="5547,10,">de Cristo</wi></wi>,
+<wi type="G" value="2532,11,">y</wi> cuando
+<wi type="G" value="2374,12,">una puerta</wi>
+<wi type="G" value="455,14,">fue abierta</wi>
+<wi type="G" value="3427,13,">para mi</wi>
+<wi type="G" value="1722,15,">por</wi>
+<wi type="G" value="2962,16,">el Señor</wi>,
+</t>
 </sv>
 <sv id="b2_Corinthians-2-13">
 I had no relief for my spirit, because I
 didn´t find Titus, my brother, but taking my leave of them, I went out into
 Macedonia.
+<t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
+<wi type="G" value="2192,2,">tuve</wi>
+<wi type="G" value="425,3,">descanso</wi> en
+<wi type="G" value="3450,6,">mi</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="4151,5,">espíritu</wi></wi>,
+<wi type="G" value="3165,10,">porque</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="3361,8,">no</wi>
+<wi type="G" value="2147,9,">encontré a</wi>
+<wi type="G" value="5103,11,">Tito</wi>,
+<wi type="G" value="3450,14,">mi</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="80,13,">hermano</wi></wi>,
+<wi type="G" value="235,15,">pero</wi>
+<wi type="G" value="657,16,">despidiendome</wi>
+<wi type="G" value="846,17,">de ellos</wi>
+<wi type="G" value="1831,18,">fui</wi>
+<wi type="G" value="1519,19,">a</wi>
+<wi type="G" value="3109,20,">Macedonia</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-2-14">
 Now thanks be to God, who always leads us in triumph in
