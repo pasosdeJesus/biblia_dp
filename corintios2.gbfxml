@@ -897,7 +897,7 @@ ignorant of his schemes.
 </t>
 <rb xml:lang="es"><wi type="G" value="3361,2,">no</wi>
 <wi type="G" value="4122,3,">gane ventaja</wi><rf>
-<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `no gane ventaja,
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `no gane ventaja,´
 <citebib id="RVG2012"/> dice `no seamos engañados.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `πλεονεκτηθωμεν´
 se traduce como tener más, ganar ventaja, defraudar.
@@ -956,10 +956,47 @@ Macedonia.
 Now thanks be to God, who always leads us in triumph in
 Christ, and reveals through us the sweet aroma of his knowledge in every
 place.
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi>
+<wi type="G" value="5485,4,">gracias a</wi>
+<wi type="G" value="2316,3,">Dios</wi>,
+<wi type="G" value="3588,5,"/><wi type="G" value="3842,6,">que siempre</wi>
+<wi type="G" value="2248,8,">nos</wi>
+<wi type="G" value="2358,7,">guía</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="5547,11,">Cristo</wi></wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen al `triunfo en Cristo,´
+<citebib id="RVG2012"/> dice `hace que siempre triunfemos en Cristo´
+pero no hay palabra en <citebib id="TR"/> para triunfo o triunfar.</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="5319,18,">reveló</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="3744,14,">el aroma</wi></wi>
+<wi type="G" value="3588,15,"><wi type="G" value="1108,16,">del conocimiento</wi></wi>
+<wi type="G" value="846,17,">de Él</wi>
+<wi type="G" value="1223,19,">por</wi>
+<wi type="G" value="2257,20,">nosotros</wi>
+<wi type="G" value="1722,21,">en</wi>
+<wi type="G" value="3956,22,">todo</wi>
+<wi type="G" value="5117,23,">lugar</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-2-15">
 For we are a sweet aroma of Christ to God, in those who are
 saved, and in those who perish;
+<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
+<wi type="G" value="2070,4,">somos</wi>
+<wi type="G" value="2175,3,">aroma fragante</wi>
+<wi type="G" value="5547,2,">de Cristo</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">para Dios</wi></wi>,
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="3588,8,">los que</wi>
+<wi type="G" value="4982,9,">son salvados</wi>,
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="1722,11,">en</wi>
+<wi type="G" value="3588,12,">los que</wi>
+<wi type="G" value="622,13,">perecen</wi>;</t>
 </sv>
 <sv id="b2_Corinthians-2-16">
 to the one a stench from death to
