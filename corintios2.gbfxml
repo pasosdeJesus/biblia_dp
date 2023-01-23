@@ -990,11 +990,11 @@ saved, and in those who perish;
 <wi type="G" value="2175,3,">aroma fragante</wi>
 <wi type="G" value="5547,2,">de Cristo</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="2316,6,">para Dios</wi></wi>,
-<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="1722,7,">entre</wi>
 <wi type="G" value="3588,8,">los que</wi>
 <wi type="G" value="4982,9,">son salvados</wi>,
 <wi type="G" value="2532,10,">y</wi>
-<wi type="G" value="1722,11,">en</wi>
+<wi type="G" value="1722,11,">entre</wi>
 <wi type="G" value="3588,12,">los que</wi>
 <wi type="G" value="622,13,">perecen</wi>;</t>
 </sv>
@@ -1002,20 +1002,85 @@ saved, and in those who perish;
 to the one a stench from death to
 death; to the other a sweet aroma from life to life. Who is sufficient for
 these things?
+<t xml:lang="es"><wi type="G" value="3739,1,">para unos</wi>
+<wi type="G" value="3303,2,"/><wi type="G" value="3744,3,">olor</wi>
+<wi type="G" value="2288,4,">de muerte</wi>
+<wi type="G" value="1519,5,">para</wi>
+<wi type="G" value="2288,6,">muerte</wi>;
+<wi type="G" value="1161,8,">y</wi>
+<wi type="G" value="3739,7,">para otros</wi>
+<wi type="G" value="3744,9,">olor</wi>
+<wi type="G" value="2222,10,">de vida</wi>
+<wi type="G" value="1519,11,">para</wi>
+<wi type="G" value="2222,12,">vida</wi>.
+<wi type="G" value="2532,13,">Y</wi>
+¿<wi type="G" value="5101,16,">quien</wi> es
+<wi type="G" value="2425,17,">suficiente</wi>
+<wi type="G" value="4314,14,">para</wi>
+<wi type="G" value="5023,15,">estas cosas</wi>?</t>
 </sv>
+
 <sv id="b2_Corinthians-2-17">
 For we are not as so many, peddling the word of God. But
 as of sincerity, but as of God, in the sight of God, we speak in Christ.
-
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3756,1,">no</wi>
+<wi type="G" value="2070,3,">somos</wi>
+<wi type="G" value="5613,4,">como</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="4183,6,">muchos</wi>, </t>
+<rb xml:lang="es"><wi type="G" value="2585,7,">mercaderes falsos</wi><rf>
+<citebib id="WEB"/> dice `vendiendo,´
+<citebib id="KJV2003"/> dice `que corrompen,´
+<citebib id="RVG2012"/> dice `mercaderes falsos.´
+Según <citebib id="Thayer-BLB"/> la palabra `καπηλευοντες´
+se traduce como  ser vendedor, hacer ganancias sordidas con algo,
+intentar hacer ganancia base enseñando la verdad divina,
+corromper, adulterar, los vendedores solían adulterar sus bienes
+por causa de la ganancia.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3588,8,"><wi type="G" value="3056,9,">de la palabra</wi></wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2316,11,">de Dios</wi></wi>.
+<wi type="G" value="235,12,">Sino</wi>
+<wi type="G" value="5613,13,">con</wi>
+<wi type="G" value="1537,14,"/><wi type="G" value="1505,15,">sinceridad</wi>,
+<wi type="G" value="235,16,"/><wi type="G" value="5613,17,">como</wi>
+<wi type="G" value="1537,18,">de</wi>
+<wi type="G" value="2316,19,">Dios</wi>,
+<wi type="G" value="2714,20,">a la vista</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="2316,22,">de Dios</wi></wi>,
+<wi type="G" value="2980,25,">hablamos</wi>
+<wi type="G" value="1722,23,">en</wi>
+<wi type="G" value="5547,24,">Cristo</wi>.</t>
 <cl/>
-
-
 </sv></cm></sc>
+
 <sc id="b2_Corinthians-3">
 <cm>
 <sv id="b2_Corinthians-3-1">
 Are we beginning again to commend ourselves? Or do we need, as do
 some, letters of commendation to you or from you?
+<t xml:lang="es">¿<wi type="G" value="3825,2,">Nuevamente</wi>
+<wi type="G" value="756,1,">empezamos</wi>
+<wi type="G" value="4921,4,">a elogiarnos</wi>
+<wi type="G" value="1438,3,">a nosotros mismos</wi>?
+¿<wi type="G" value="1487,5,">O</wi>
+<wi type="G" value="3361,6,"/><wi type="G" value="5535,7,">necesitamos</wi>,
+<wi type="G" value="5613,8,">como</wi>
+<wi type="G" value="5100,9,">algunos</wi>,
+<wi type="G" value="1992,11,">cartas</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4956,10,">de recomendación</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2013"/> dicen `de elogios,´
+<citebib id="RVG2012"/> dice `de recomendación.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `συστατικων´
+se traduce como de elogios, de introducción.
+</rf></rb>
+<t xml:lang="es"><wi type="G" value="4314,12,">para</wi>
+<wi type="G" value="5209,13,">ustedes</wi>
+<wi type="G" value="2228,14,">o</wi>
+<wi type="G" value="1537,15,">de</wi>
+<wi type="G" value="4956,17,">recomendación</wi>
+<wi type="G" value="5216,16,">de ustedes</wi>?</t>
 </sv>
 <sv id="b2_Corinthians-3-2">
 You
