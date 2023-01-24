@@ -1083,16 +1083,54 @@ se traduce como de elogios, de introducción.
 <wi type="G" value="5216,16,">de ustedes</wi>?</t>
 </sv>
 <sv id="b2_Corinthians-3-2">
-You
-<wi type="T" value="P"/> are our
+You are our
 letter, written in our hearts, known and read by all men;
+<t xml:lang="es"><wi type="G" value="5210,4,">Ustedes</wi>
+<wi type="G" value="2075,5,">son</wi>
+<wi type="G" value="2257,3,">nuestra</wi>
+<wi type="G" value="3588,1,"><wi type="G" value="1992,2,">carta</wi></wi>,
+<wi type="G" value="1449,6,">escrita</wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="2257,10,">nuestros</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2588,9,">corazones</wi></wi>,
+<wi type="G" value="1097,11,">conocida</wi>
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="314,13,">leída</wi>
+<wi type="G" value="5259,14,">por</wi>
+<wi type="G" value="3956,15,">todos</wi>
+<wi type="G" value="444,16,">los hombres</wi>;
+</t>
 </sv>
 <sv id="b2_Corinthians-3-3">
-being revealed
-that you
-<wi type="T" value="P"/> are a letter of Christ, ministered by us, written not with ink,
+being revealed that you
+ are a letter of Christ, ministered by us, written not with ink,
 but with the Spirit of the living God; not in tablets of stone, but in
 tablets that are hearts of flesh.
+<t xml:lang="es"><wi type="G" value="5319,1,">siendo revelado</wi>
+<wi type="G" value="3754,2,">que</wi>
+<wi type="G" value="2075,3,">ustedes son</wi>
+<wi type="G" value="1992,4,">la carta</wi>
+<wi type="G" value="5547,5,">de Cristo</wi>,
+<wi type="G" value="1247,6,">ministrada</wi>
+<wi type="G" value="5259,7,">por</wi>
+<wi type="G" value="2257,8,">nosotros</wi>,
+<wi type="G" value="1449,9,">escrita</wi>
+<wi type="G" value="3756,10,">no</wi>
+<wi type="G" value="3188,11,">con tinta</wi>,
+<wi type="G" value="235,12,">sino</wi>
+<wi type="G" value="4151,13,">con el Espíritu</wi>
+<wi type="G" value="2316,14,">del Dios</wi>
+<wi type="G" value="2198,15,">vivo</wi>;
+<wi type="G" value="3756,16,">no</wi>
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="4109,18,">tablas</wi>
+<wi type="G" value="3035,19,">de piedra</wi>,
+<wi type="G" value="235,20,">sino</wi>
+<wi type="G" value="1722,21,">en</wi>
+<wi type="G" value="4109,22,">tablas</wi>
+<wi type="G" value="4560,24,">de carne</wi>
+<wi type="G" value="2588,23,">del corazón</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-3-4">
 Such confidence we have through Christ
