@@ -1147,11 +1147,45 @@ toward God;
 <sv id="b2_Corinthians-3-5">
 not that we are sufficient of ourselves, to account anything
 as from ourselves; but our sufficiency is from God;
+<t xml:lang="es"><wi type="G" value="3756,1,">no</wi>
+<wi type="G" value="3754,2,">porque</wi>
+<wi type="G" value="2070,4,">seamos</wi>
+<wi type="G" value="2425,3,">suficientes</wi>
+<wi type="G" value="575,5,">por</wi>
+<wi type="G" value="1438,6,">nosotros mismos</wi>,
+<wi type="G" value="3049,7,">para pensar</wi>
+<wi type="G" value="5100,8,">algo</wi>
+<wi type="G" value="5613,9,">como</wi>
+<wi type="G" value="1537,10,">de</wi>
+<wi type="G" value="1438,11,">nosotros</wi>;
+<wi type="G" value="235,12,">sino que</wi>
+<wi type="G" value="2257,15,">nuestra</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="2426,14,">suficiencia</wi></wi>
+es <wi type="G" value="1537,16,">de</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="2316,18,">Dios</wi></wi>;
+</t>
 </sv>
 <sv id="b2_Corinthians-3-6">
 who also made us
 sufficient as servants of a new covenant; not of the letter, but of the
 Spirit. For the letter kills, but the Spirit gives life.
+<t xml:lang="es"><wi type="G" value="3739,1,">quien</wi>
+<wi type="G" value="2532,2,">también</wi>
+<wi type="G" value="2248,4,">nos</wi>
+<wi type="G" value="2427,3,">hizo</wi>
+<wi type="G" value="1249,5,">ministros capaces</wi>
+<wi type="G" value="2537,6,">de un nuevo</wi>
+<wi type="G" value="1242,7,">pacto</wi>;
+<wi type="G" value="3756,8,">no</wi>
+<wi type="G" value="1121,9,">de letra</wi>,
+<wi type="G" value="235,10,">sino</wi>
+<wi type="G" value="4151,11,">del Espíritu</wi>.
+<wi type="G" value="3588,12,"/><wi type="G" value="1063,13,">Pues</wi>
+<wi type="G" value="1121,14,">la letra</wi>
+<wi type="G" value="615,15,">mata</wi>,
+<wi type="G" value="3588,16,"/><wi type="G" value="1161,17,">pero</wi>
+<wi type="G" value="4151,18,">el Espíritu</wi>
+<wi type="G" value="2227,19,">da vida</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-3-7">
 But if the
