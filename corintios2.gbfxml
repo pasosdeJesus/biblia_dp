@@ -1194,16 +1194,17 @@ children of Israel could not look steadfastly on the face of Moses for the
 glory of his face; which was passing away:
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="1487,1,">si</wi>
-<wi type="G" value="33588,3,"><wi type="G" value="1248,4,">la ministración</wi></wi>
+<wi type="G" value="3588,3,"><wi type="G" value="1248,4,">la ministración</wi></wi>
 <wi type="G" value="3588,5,"><wi type="G" value="2288,6,">de lo  muerto</wi></wi>,
-con <wi type="G" value="1121,8,">las letras</wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="1121,8,">las letras</wi>
 <wi type="G" value="1795,9,">esculpidas</wi>
 <wi type="G" value="1722,10,">sobre</wi>
 <wi type="G" value="3037,11,">piedras</wi>,
 <wi type="G" value="1096,12,">fue</wi>
 <wi type="G" value="1722,13,">con</wi>
 <wi type="G" value="1391,14,">gloria</wi>,
-<wi type="G" value="5620,15,">tal que</wi>
+<wi type="G" value="5620,15,">tanto que</wi>
 <wi type="G" value="3588,19,"><wi type="G" value="5207,20,">los hijos</wi></wi>
 <wi type="G" value="2474,21,">de Israel</wi>
 <wi type="G" value="3361,16,">no</wi>
@@ -1211,7 +1212,7 @@ con <wi type="G" value="1121,8,">las letras</wi>
 <wi type="G" value="816,18,">mirar fijamente</wi>
 <wi type="G" value="1519,22,">al</wi>
 <wi type="G" value="3588,23,"><wi type="G" value="4383,24,">rostro</wi></wi>
-<wi type="G" value="3475,26,">de Moisés</wi>
+<wi type="G" value="3475,25,">de Moisés</wi>
 <wi type="G" value="1223,26,">por</wi>
 <wi type="G" value="3588,27,"><wi type="G" value="1391,28,">la gloria</wi></wi>
 <wi type="G" value="846,31,">de su</wi>
@@ -1235,11 +1236,27 @@ be with much more glory?
 <sv id="b2_Corinthians-3-9">
 For if the service of condemnation has glory,
 the service of righteousness exceeds much more in glory.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="1248,4,">la ministración</wi></wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2633,6,">de la condenación</wi></wi>
+fue <wi type="G" value="1391,7,">gloriosa</wi>,
+<wi type="G" value="4183,8,">mucho</wi>
+<wi type="G" value="3123,9,">más</wi>
+<wi type="G" value="4052,10,">abundará</wi>
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="1391,16,">gloria</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="1248,12,">la ministración</wi></wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1343,14,">de la rectitud</wi></wi>.</t>
 </sv>
 <sv id="b2_Corinthians-3-10">
 For most
 assuredly that which has been made glorious has not been made glorious in
 this respect, by reason of the glory that surpasses.
+<t xml:lang="es">Pues con más seguridad lo que se ha hecho glorioso
+no se ha hecho glorioso en este aspecto, por causa de la gloria
+que lo sobrepasa.
+</t>
 </sv>
 <sv id="b2_Corinthians-3-11">
 For if that which
