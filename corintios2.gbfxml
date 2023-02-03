@@ -1342,20 +1342,53 @@ of the old covenant the same veil remains, because in Christ it passes away.
 <wi type="G" value="3739,22,">el cual</wi>
 <wi type="G" value="5100,23,"/><wi type="G" value="1722,24,">en</wi>
 <wi type="G" value="5547,25,">Cristo</wi>
-<wi type="G" value="2673,26,">pasó</wi>.
+<rb xml:lang="es"><wi type="G" value="2673,26,">es quitado</wi><rf>
+<citebib id="RVG2012"/> dice `es quitado,´
+<citebib id="WEB"/> dice `pasa.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `καταργέω´
+significa hacer que algo cese, terminarlo o abolirlo.
+</rf></rb>
+<t xml:lang="es">.</t>
 </t>
-
 </sv>
 <sv id="b2_Corinthians-3-15">
 But to this day, when Moses is read, a veil lies on their heart.
-
+<t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>
+<wi type="G" value="2193,2,">hasta</wi>
+<wi type="G" value="4594,3,">ahora</wi>,
+<wi type="G" value="2259,4,">cuando</wi>
+<wi type="G" value="314,5,">leen a</wi>
+<wi type="G" value="3475,6,">Moisés</wi>,
+<wi type="G" value="2571,7,">el velo</wi>
+<wi type="G" value="2749,12,">permanece</wi>
+<wi type="G" value="1909,8,">en</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="2588,10,">el corazón</wi></wi>
+<wi type="G" value="846,11,">de ellos</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-3-16">
 But whenever one turns to the Lord, the veil is taken away.
+<t xml:lang="es"><wi type="G" value="1161,2,">Más</wi>
+<wi type="G" value="2259,1,">cuando</wi>
+<wi type="G" value="302,3,">alguno</wi>
+<wi type="G" value="1994,4,">se convierta</wi>
+<wi type="G" value="4314,5,">al</wi>
+<wi type="G" value="2962,6,">Señor</wi>,
+<wi type="G" value="3588,8,"><wi type="G" value="2571,9,">el velo</wi></wi>
+<wi type="G" value="4014,7,">le será quitado</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-3-17">
 Now
 the Lord is the Spirit and where the Spirit of the Lord is, there is liberty.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi>
+<wi type="G" value="2962,3,">el Señor</wi>
+<wi type="G" value="2076,6,">es</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="4151,5,">Espíritu</wi></wi>
+<wi type="G" value="1161,8,">y</wi>
+<wi type="G" value="3757,7,">donde</wi> está
+<wi type="G" value="3588,9,"><wi type="G" value="4151,10,">el Espíritu</wi></wi>
+<wi type="G" value="2962,11,">del Señor</wi>,
+<wi type="G" value="1563,12,">hay</wi>
+<wi type="G" value="1657,13,">libertad</wi>.</t>
 
 </sv>
 <sv id="b2_Corinthians-3-18">
