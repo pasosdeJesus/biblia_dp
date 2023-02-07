@@ -1489,6 +1489,27 @@ es <wi type="G" value="1722,9,">para</wi>
 in whom the god of this world has blinded the minds of the
 unbelieving, that the light of the Good News of the glory of Christ, who is the
 image of God, should not dawn on them.
+<t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="3739,2,">quienes</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2316,4,">el dios</wi></wi>
+<wi type="G" value="5127,7,">de este</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="165,6,">mundo</wi></wi>
+<wi type="G" value="5186,8,">ha cegado</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="3540,10,">las mentes</wi></wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="571,12,">de los incredulos</wi>,
+<wi type="G" value="1519,13,"/><wi type="G" value="3588,14,"/><wi type="G" value="3361,15,">para que no</wi>
+<wi type="G" value="846,17,">los</wi>
+<wi type="G" value="826,16,">iluminara</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="5462,19,">la luz</wi></wi>
+<wi type="G" value="3588,20,"><wi type="G" value="2098,21,">de la Buena Nueva</wi></wi>
+<wi type="G" value="3588,22,"><wi type="G" value="1391,23,">de la gloria</wi></wi>
+<wi type="G" value="3588,24,"><wi type="G" value="5547,25,">de Cristo</wi></wi>,
+<wi type="G" value="3739,26,">quien</wi>
+<wi type="G" value="2076,27,">es</wi>
+<wi type="G" value="1504,28,">la imagen</wi>
+<wi type="G" value="3588,29,"><wi type="G" value="2316,30,">de Dios</wi></wi>,
+.
+</t>
 </sv>
 <sv id="b2_Corinthians-4-5">
 For we don´t preach ourselves,
@@ -1650,7 +1671,8 @@ But all things are of God, who reconciled us to
 himself through Jesus Christ, and gave to us the ministry of reconciliation;
 
 </sv>
-<sv id="b2_Corinthians-5-19">
+<sv id="b2_Corinthians-5-
+19">
 namely, that God was in Christ reconciling the world to himself, not
 reckoning to them their trespasses, and having committed to us the word of
 reconciliation.
