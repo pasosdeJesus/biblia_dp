@@ -1615,11 +1615,43 @@ quedar perdido, no saber que decidir.
 <sv id="b2_Corinthians-4-9">
 pursued, yet
 not forsaken; struck down, yet not destroyed;
+<t xml:lang="es"><wi type="G" value="1377,1,">perseguidos</wi>,
+<wi type="G" value="235,2,">pero</wi>
+<wi type="G" value="3756,3,">no</wi>
+<wi type="G" value="1459,4,">abandonados</wi>; </t>
+<rb xml:lang="es"><wi type="G" value="2598,5,">despreciados</wi><rf>
+<citebib id="WEB"/> dice `golpeados,´
+<citebib id="KJV2003"/> dice `expulsados,´
+<citebib id="RVG2012"/> dice `abatidos.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`καταβαλλομενοι´  se traduce como
+expulsado, tirado al piso, postrado, poner en una posición más baja,
+poner un fundamento.
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="235,6,">pero</wi>
+<wi type="G" value="3756,7,">no</wi>
+<wi type="G" value="622,8,">destruidos</wi>;</t>
 </sv>
 <sv id="b2_Corinthians-4-10">
 always carrying in the
 body the putting to death of the Lord Jesus, that the life of Jesus may also
 be revealed in our body.
+<t xml:lang="es"><wi type="G" value="3842,1,">siempre</wi>
+<wi type="G" value="4064,10,">cargando</wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="4983,9,">el cuerpo</wi></wi>
+<wi type="G" value="3588,2,"><wi type="G" value="3500,3,">la muerte</wi></wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2962,5,">del Señor</wi></wi>
+<wi type="G" value="2424,6,">Jesús</wi>,
+<wi type="G" value="2443,11,">para que</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="2222,14,">la vida</wi></wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2424,16,">de Jesús</wi></wi>
+<wi type="G" value="2532,12,">también</wi>
+<wi type="G" value="5319,21,">pueda ser revelada</wi>
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="2257,20,">nuestro</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="4983,19,">cuerpo</wi></wi>.</t>
 </sv>
 <sv id="b2_Corinthians-4-11">
 For we who live are always delivered to death
