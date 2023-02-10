@@ -1560,10 +1560,57 @@ es <wi type="G" value="3739,10,">quien</wi>
 <sv id="b2_Corinthians-4-7">
 But we have this treasure in clay vessels, that the exceeding greatness
 of the power may be of God, and not from ourselves.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="2192,1,">tenemos</wi>
+<wi type="G" value="5126,5,">este</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2344,4,">tesoro</wi></wi>
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="4632,8,">vasijas</wi>
+<wi type="G" value="3749,7,">de barro</wi>,
+<wi type="G" value="2443,9,">para que</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="5236,11,">la excelencia</wi></wi>
+<wi type="G" value="3588,12,"><wi type="G" value="1411,13,">del poder</wi></wi>
+<wi type="G" value="5600,14,">sea</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2316,16,">de Dios</wi></wi>,
+<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="3361,18,">no</wi>
+<wi type="G" value="1537,19,">de</wi>
+<wi type="G" value="2257,20,">nosotros</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-4-8">
 We are pressed on
 every side, yet not crushed; perplexed, yet not to despair;
+<t xml:lang="es">Estamos </t>
+<rb xml:lang="es"><wi type="G" value="2346,3,">presionados</wi><rf>
+<citebib id="WEB"/> dice `presionados
+<citebib id="KJV2003"/> dice `en problemas,´
+<citebib id="RVG2012"/> dice `atribulados.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`θλιβομενοι´ se traduce como presionados (como uvas), comprimidos, metafora
+de afligido, en problemas.
+</rf></rb>
+<t xml:lang="es"><wi type="G" value="1722,1,">por</wi>
+<wi type="G" value="3956,2,">todos lados</wi>,
+<wi type="G" value="235,4,">pero</wi>
+<wi type="G" value="3756,5,">no</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4729,6,">angustiados</wi><rf>
+<citebib id="WEB"/> dice `aplastados,´
+<citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen `angustiados.´
+</rf></rb>
+<t xml:lang="es">; </t>
+<rb xml:lang="es"><wi type="G" value="639,7,">en dificultades</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `perplejos,´
+<citebib id="RVG2012"/> dice `en apuros.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`απορουμενοι´ se traduce como en duda, estar perplejo, quedarse sin recursos,
+quedar perdido, no saber que decidir.
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="235,8,">pero</wi>
+<wi type="G" value="3756,9,">no</wi>
+<wi type="G" value="1820,10,">desesperados</wi>;
+</t>
 </sv>
 <sv id="b2_Corinthians-4-9">
 pursued, yet
