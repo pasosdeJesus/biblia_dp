@@ -1648,7 +1648,7 @@ be revealed in our body.
 <wi type="G" value="3588,13,"><wi type="G" value="2222,14,">la vida</wi></wi>
 <wi type="G" value="3588,15,"><wi type="G" value="2424,16,">de Jesús</wi></wi>
 <wi type="G" value="2532,12,">también</wi>
-<wi type="G" value="5319,21,">pueda ser revelada</wi>
+<wi type="G" value="5319,21,">se manifieste</wi>
 <wi type="G" value="1722,17,">en</wi>
 <wi type="G" value="2257,20,">nuestro</wi>
 <wi type="G" value="3588,18,"><wi type="G" value="4983,19,">cuerpo</wi></wi>.</t>
@@ -1657,9 +1657,36 @@ be revealed in our body.
 For we who live are always delivered to death
 for Jesus´ sake, that the life also of Jesus may be revealed in our mortal
 flesh.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="104,1,">siempre</wi>
+<wi type="G" value="2249,3,">nosotros</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="2198,5,">vivimos</wi>
+<wi type="G" value="3860,8,">siendo entregados</wi>
+<wi type="G" value="1519,6,">a</wi>
+<wi type="G" value="2288,7,">muerte</wi>
+<wi type="G" value="1223,9,">por</wi>
+<wi type="G" value="2424,10,">Jesús</wi>,
+<wi type="G" value="2443,11,">para que</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="2222,14,">la vida</wi></wi>
+<wi type="G" value="2532,12,">también</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2424,16,">de Jesús</wi></wi>
+<wi type="G" value="5319,17,">sea manifestada</wi>
+<wi type="G" value="1722,18,">en</wi>
+<wi type="G" value="2257,22,">nuestra</wi>
+<wi type="G" value="4561,21,">carne</wi>
+<wi type="G" value="3588,19,"/><wi type="G" value="2349,20,">mortal</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-4-12">
 So then death works in us, but life in you.
+<t xml:lang="es"><wi type="G" value="5620,1,">De manera que</wi>
+<wi type="G" value="2288,4,">la muerte</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="3303,3,"/><wi type="G" value="1754,7,">obre</wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="2254,6,">nosotros</wi>,
+<wi type="G" value="3588,8,"/><wi type="G" value="1161,9,">y</wi>
+<wi type="G" value="2222,10,">la vida</wi>
+<wi type="G" value="1722,11,">en</wi>
+<wi type="G" value="5213,12,">ustedes</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-4-13">
 But having the
