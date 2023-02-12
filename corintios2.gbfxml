@@ -1692,11 +1692,48 @@ So then death works in us, but life in you.
 But having the
 same spirit of faith, according to that which is written, «I believed, and
 therefore I spoke.» We also believe, and therefore also we speak;
-
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="2192,1,">teniendo</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="846,4,">el mismo</wi>
+<wi type="G" value="4151,5,">espíritu</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="4102,7,">de fe</wi></wi>,
+<wi type="G" value="2596,8,">de acuerdo</wi> 
+<wi type="G" value="3588,9,">al cual</wi>
+<wi type="G" value="1125,10,">está escrito</wi>
+«<wi type="G" value="4100,11,">Creí</wi>,
+<wi type="G" value="1352,12,">y por eso</wi>
+<wi type="G" value="2980,13,">hablé</wi>.»
+<wi type="G" value="2532,14,">También</wi>
+<wi type="G" value="2249,15,">nosotros</wi>
+<wi type="G" value="4100,16,">creímos</wi>,
+<wi type="G" value="2532,18,">y</wi>
+<wi type="G" value="1352,17,">por eso</wi>
+<wi type="G" value="2980,19,">hablamos</wi>;
+</t>
 </sv>
 <sv id="b2_Corinthians-4-14">
 knowing that he who raised the Lord Jesus will raise us also with
 Jesus, and will present us with you.
+<t xml:lang="es"><wi type="G" value="1492,1,">sabiendo</wi>
+<wi type="G" value="3754,2,">que</wi>
+<wi type="G" value="3588,3,">el que</wi>
+<wi type="G" value="1453,4,">resucitó</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2962,6,">al Señor</wi></wi>
+<wi type="G" value="2424,7,">Jesús</wi>
+<wi type="G" value="2532,8,">también</wi>
+<wi type="G" value="2248,9,">nos</wi>
+<wi type="G" value="1453,12,">resucitará</wi> </t>
+<rb xml:lang="es"><wi type="G" value="1223,10,">por</wi><rf><citebib id="WEB"/>
+y <citebib id="RVG2012"/> dicen `con.´ Según <citebib id="Thayer-BLB"/>
+la palabra griega `δια´ se traduce como  por, mediante, con, a causa de.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2424,11,">Jesús</wi>,
+<wi type="G" value="2532,13,">y</wi> nos
+<wi type="G" value="3936,14,">presentará</wi>
+<wi type="G" value="4862,15,">con</wi>
+<wi type="G" value="5213,16,">ustedes</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-4-15">
 For all things are for your sakes,
