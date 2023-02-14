@@ -1764,6 +1764,21 @@ se traduce como abundar, exceder, pemanecer, aumentar, redundar.
 <sv id="b2_Corinthians-4-16">
 Therefore we don´t faint, but though our
 outward man is decaying, yet our inward man is renewed day by day.
+<t xml:lang="es"><wi type="G" value="1352,1,">Entonces</wi>
+<wi type="G" value="3756,2,">no</wi>
+<wi type="G" value="1573,3,">desmayemos</wi>,
+<wi type="G" value="235,4,">pues</wi>
+<wi type="G" value="1487,5,">aunque</wi>
+<wi type="G" value="2257,9,">nuestro</wi>
+<wi type="G" value="444,10,">hombre</wi>
+<wi type="G" value="2532,6,"/><wi type="G" value="3588,7,"/><wi type="G" value="1854,8,">exterior</wi>
+<wi type="G" value="1311,11,">esté decayendo</wi>,
+<wi type="G" value="235,12,"/><wi type="G" value="3588,13,"/><wi type="G" value="2081,14,">el interior</wi>
+<wi type="G" value="341,15,">es renovado</wi>
+<wi type="G" value="2250,16,">día</wi>
+<wi type="G" value="2532,17,">a</wi>
+<wi type="G" value="2250,18,">día</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-4-17">
 For
