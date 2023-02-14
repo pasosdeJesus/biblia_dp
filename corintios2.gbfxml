@@ -1697,7 +1697,7 @@ therefore I spoke.» We also believe, and therefore also we speak;
 <wi type="G" value="3588,3,"/><wi type="G" value="846,4,">el mismo</wi>
 <wi type="G" value="4151,5,">espíritu</wi>
 <wi type="G" value="3588,6,"><wi type="G" value="4102,7,">de fe</wi></wi>,
-<wi type="G" value="2596,8,">de acuerdo</wi> 
+<wi type="G" value="2596,8,">de acuerdo</wi>
 <wi type="G" value="3588,9,">al cual</wi>
 <wi type="G" value="1125,10,">está escrito</wi>
 «<wi type="G" value="4100,11,">Creí</wi>,
@@ -1724,7 +1724,8 @@ Jesus, and will present us with you.
 <wi type="G" value="2248,9,">nos</wi>
 <wi type="G" value="1453,12,">resucitará</wi> </t>
 <rb xml:lang="es"><wi type="G" value="1223,10,">por</wi><rf><citebib id="WEB"/>
-y <citebib id="RVG2012"/> dicen `con.´ Según <citebib id="Thayer-BLB"/>
+y <citebib id="RVG2012"/> dicen `con.´
+Según <citebib id="Thayer-BLB"/>
 la palabra griega `δια´ se traduce como  por, mediante, con, a causa de.
 </rf></rb>
 <t xml:lang="es">
@@ -1739,6 +1740,26 @@ la palabra griega `δια´ se traduce como  por, mediante, con, a causa de.
 For all things are for your sakes,
 that the grace, being multiplied through the many, may cause the thanksgiving
 to abound to the glory of God.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3956,3,">todo esto</wi> es
+<wi type="G" value="1223,4,">por</wi>
+<wi type="G" value="5209,5,">ustedes</wi>,
+<wi type="G" value="2443,6,">para que</wi>
+<wi type="G" value="4121,9,">la abundante</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="5485,8,">gracia</wi></wi>, </t>
+<rb xml:lang="es"><wi type="G" value="4052,15,">pueda aumentar</wi><rf>
+<citebib id="WEB"/> dice `sea multiplicada,´
+<citebib id="KJV2003"/> dice `redunde,´
+<citebib id="RVG2012"/> dice `sobreabunde.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `περισσευση´
+se traduce como abundar, exceder, pemanecer, aumentar, redundar.
+</rf></rb>
+<t xml:lang="es"><wi type="G" value="1223,10,">por</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="2169,14,">el agradecimiento</wi></wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="4119,12,">de muchos</wi>
+<wi type="G" value="1519,16,">para</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="1391,18,">la gloria</wi></wi>
+<wi type="G" value="3588,19,"><wi type="G" value="2316,20,">de Dios</wi></wi>.</t>
 </sv>
 <sv id="b2_Corinthians-4-16">
 Therefore we don´t faint, but though our
