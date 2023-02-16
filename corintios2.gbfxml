@@ -1833,10 +1833,50 @@ eternal.
 For we know that if the earthly house of our tent is dissolved, we
 have a building from God, a house not made with hands, eternal, in the
 heavens.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1492,1,">sabemos</wi>
+<wi type="G" value="3754,3,">que</wi>
+<wi type="G" value="1437,4,">si</wi>
+<wi type="G" value="2257,7,">nuestra</wi>
+<wi type="G" value="3614,8,">casa</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="1919,6,">terrenal</wi>, </t>
+<rb xml:lang="es"><wi type="G" value="3588,9,"><wi type="G" value="4636,10,">el tabernáculo</wi></wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `el tabernáculo,´
+<citebib id="RVG2012"/> dice `habitación.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `σκήνους´
+se traduce como un tabernáculo, una tienda, metafora del cuerpo humano.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2647,11,">se disuelve</wi>
+<wi type="G" value="2192,15,">tenemos</wi>
+<wi type="G" value="3619,12,">una construcción</wi>
+<wi type="G" value="1537,13,">de</wi>
+<wi type="G" value="2316,14,">Dios</wi>,
+<wi type="G" value="3614,16,">una casa</wi>
+<wi type="G" value="886,17,">no hecha con manos</wi>,
+<wi type="G" value="166,18,">eterna</wi>,
+<wi type="G" value="1722,19,">en</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="3772,21,">los cielos</wi></wi>.</t>
 </sv>
 <sv id="b2_Corinthians-5-2">
 For most assuredly in this we groan, longing to be clothed with
 our habitation which is from heaven;
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="1063,2,">entonces</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="5129,4,">este</wi>
+<wi type="G" value="4727,5,">gemimos</wi>,
+<wi type="G" value="1971,13,">deseando</wi> </t>
+<rb xml:lang="es"><wi type="G" value="1902,12,">estar vestidos</wi> con<rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `vestidos,´
+<citebib id="RVG2012"/> dice `sobrevestidos.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `ἐπενδύσασθαι´
+se traduce como estar vestido.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2257,8,">nuestra</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="3613,7,">casa</wi></wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="1537,10,"/><wi type="G" value="3772,11,">celestial</wi>;</t>
 </sv>
 <sv id="b2_Corinthians-5-3">
 if so be that being clothed we will
