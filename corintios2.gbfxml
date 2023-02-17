@@ -1881,11 +1881,35 @@ se traduce como estar vestido.
 <sv id="b2_Corinthians-5-3">
 if so be that being clothed we will
 not be found naked.
+<t xml:lang="es"><wi type="G" value="2532,2,">y</wi>
+<wi type="G" value="1489,1,">si</wi>
+estamos <wi type="G" value="1746,3,">vestidos</wi>
+<wi type="G" value="3756,4,">no</wi>
+<wi type="G" value="2147,6,">seremos hallados</wi>
+<wi type="G" value="1131,5,">desnudos</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-5-4">
 For indeed we who are in this tent do groan, being
 burdened; not that we desire to be unclothed, but that we desire to be
 clothed, that what is mortal may be swallowed up by life.
+<t xml:lang="es"><wi type="G" value="2532,1,"><wi type="G" value="1063,2,">Pues</wi></wi>
+<wi type="G" value="3588,3,"><wi type="G" value="5607,4,">los que estamos</wi></wi>
+<wi type="G" value="1722,5,">en</wi> este
+<wi type="G" value="3588,6,"><wi type="G" value="4636,7,">tabernáculo</wi></wi>
+<wi type="G" value="4727,8,">gemimos</wi>,
+<wi type="G" value="916,9,">estando cargados</wi>;
+<wi type="G" value="3756,12,">no</wi> <wi type="G" value="1909,10,"><wi type="G"
+value="3739,11,">es que</wi></wi>
+<wi type="G" value="2309,13,">queramos</wi>
+<wi type="G" value="1562,14,">quedar sin ropa</wi>,
+<wi type="G" value="235,15,">sino</wi>
+<wi type="G" value="1902,16,">vestidos</wi>,
+<wi type="G" value="2443,17,">para que</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="2349,20,">lo mortal</wi></wi>
+<wi type="G" value="2666,18,">sea devorado</wi>
+<wi type="G" value="5259,21,">por</wi>
+<wi type="G" value="3588,22,"><wi type="G" value="2222,23,">la vida</wi></wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-5-5">
 Now he who
