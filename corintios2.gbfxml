@@ -1941,7 +1941,7 @@ at home in the body, we are absent from the Lord;
 <wi type="G" value="1492,5,">sabemos</wi>
 <wi type="G" value="3754,6,">que</wi>
 <wi type="G" value="2532,4,">mientras</wi>
-<wi type="G" value="1736,7,">estemos</wi>
+<wi type="G" value="1736,7,">estemos presentes</wi>
 <wi type="G" value="1722,8,">en</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="4983,10,">el cuerpo</wi></wi>,
 <wi type="G" value="1553,11,">estamos ausentes</wi>
@@ -1977,16 +1977,64 @@ be absent from the body, and to be at home with the Lord.
 <sv id="b2_Corinthians-5-9">
 Therefore also
 we make it our aim, whether at home or absent, to be well pleasing to him.
+<t xml:lang="es"><wi type="G" value="2532,2,">Y</wi>
+<wi type="G" value="1352,1,">entonces</wi>
+<wi type="G" value="5389,3,">trabajemos</wi>
+para que <wi type="G" value="1535,4,">bien</wi>
+<wi type="G" value="1736,5,">presentes</wi>
+<wi type="G" value="1535,6,">o bien</wi>
+<wi type="G" value="1553,7,">ausentes</wi>,
+<wi type="G" value="1511,10,">seamos</wi>
+<wi type="G" value="2101,8,">aceptables</wi>
+<wi type="G" value="846,9,">ante Él</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-5-10">
 For we must all be revealed before the judgment seat of Christ; that
 each one may receive the things in the body, according to what he has done,
 whether good or bad.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3956,3,">todos</wi>
+<wi type="G" value="2248,4,">nosotros</wi>
+<wi type="G" value="1163,6,">debemos</wi>
+<wi type="G" value="5319,5,">presentarnos</wi>
+<wi type="G" value="1715,7,">ante</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="968,9,">el trono del juicio</wi></wi>
+<wi type="G" value="3588,10,"><wi type="G" value="5547,11,">de Cristo</wi></wi>;
+<wi type="G" value="2443,12,">para que</wi>
+<wi type="G" value="1538,14,">cada uno</wi>
+<wi type="G" value="2865,13,">reciba</wi>
+<wi type="G" value="1223,16,">en</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="4983,18,">el cuerpo</wi></wi>,
+<wi type="G" value="3588,15,">lo que</wi>  es
+<wi type="G" value="4314,19,">acorde</wi>
+<wi type="G" value="3739,20,">a</wi> lo
+que <wi type="G" value="4238,21,">ha hecho</wi>,
+<wi type="G" value="1535,22,">bien sea</wi>
+<wi type="G" value="18,23,">bueno</wi>
+<wi type="G" value="1535,24,">o</wi>
+<wi type="G" value="2556,25,">malo</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-5-11">
 Knowing therefore the fear of the Lord, we
 persuade men, but we are revealed to God; and I hope that we are revealed
 also in your consciences.
+<t xml:lang="es"><wi type="G" value="1492,1,">Conociendo</wi>
+<wi type="G" value="3767,2,">por tanto</wi>
+que
+<wi type="G" value="3588,3,"><wi type="G" value="5401,4,">el temor</wi></wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2962,6,">del Señor</wi></wi>,
+<wi type="G" value="3982,8,">persuadimos</wi> a
+<wi type="G" value="444,7,">hombres</wi>,
+<wi type="G" value="1161,10,">pero</wi>
+<wi type="G" value="5319,11,">nos manifestamos</wi>
+en <wi type="G" value="2316,9,">Dios</wi>
+<wi type="G" value="1161,13,">y</wi>
+<wi type="G" value="1679,12,">confiamos</wi> que
+<wi type="G" value="2532,14,">también</wi>
+<wi type="G" value="5319,19,">nos manifestaremos</wi>
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="5216,18,">sus</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="4893,17,">conciencias</wi></wi>.</t>
 </sv>
 <sv id="b2_Corinthians-5-12">
 For we are not commending ourselves to you
