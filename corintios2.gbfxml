@@ -2089,11 +2089,53 @@ de si, loco.
 <sv id="b2_Corinthians-5-14">
 For the love of Christ constrains us;
 because we judge thus, that one died for all, therefore all died.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">Pues</wi> 
+<wi type="G" value="26,3,">el amor</wi> 
+<wi type="G" value="3588,4,"><wi type="G" value="5547,5,">de Cristo</wi></wi> 
+<wi type="G" value="2248,7,">nos</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4912,6,">restringe</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen  `constraint us´
+que puede traducirse como nos restringe.
+<citebib id="RVG2012"/> dice `nos constriñe.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `συνεχει´ se 
+traduce como sostener, presionar por todos lados, agarrar completamente,
+detener.
+</rf></rb>
+<t xml:lang="es">;
+<wi type="G" value="5124,9,">porque</wi> 
+<wi type="G" value="2919,8,">así juzgamos</wi>, 
+<wi type="G" value="3754,10,">que</wi>
+<wi type="G" value="1487,11,">si</wi> 
+<wi type="G" value="1520,12,">uno</wi> 
+<wi type="G" value="599,15,">murió</wi> 
+<wi type="G" value="5228,13,">por</wi> 
+<wi type="G" value="3956,14,">todos</wi>, 
+<wi type="G" value="686,16,">entonces</wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="3956,18,">todos</wi> 
+<wi type="G" value="599,19,">murieron</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-5-15">
 He
 died for all, that those who live should no longer live to themselves, but to
 him who for their sakes died and rose again.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi> 
+<wi type="G" value="599,4,">Él murió</wi> 
+<wi type="G" value="5228,2,">por</wi> 
+<wi type="G" value="3956,3,">todos</wi>, 
+<wi type="G" value="2443,5,">para que</wi> 
+<wi type="G" value="3588,6,">aquellos que</wi> 
+<wi type="G" value="2198,7,">viven</wi> 
+<wi type="G" value="3371,8,">ya no</wi>
+<wi type="G" value="2198,10,">vivan</wi> 
+<wi type="G" value="1438,9,">para si mismos</wi>, 
+<wi type="G" value="235,11,">sino</wi> 
+para <wi type="G" value="3588,12,">el que</wi> 
+<wi type="G" value="599,15,">murió</wi> 
+<wi type="G" value="5228,13,">por</wi> 
+<wi type="G" value="846,14,">ellos</wi> 
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="1453,17,">resucitó</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-5-16">
 Therefore we know no one
