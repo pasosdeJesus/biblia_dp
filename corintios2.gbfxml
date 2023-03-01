@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
 <sb id="b2_Corinthians" type="" xml:lang="">
 <tt>Paul´s Second Letter to the Corinthians
 <t xml:lang="es">Segunda carta de Pablo a los Corintios</t>
@@ -2163,14 +2162,56 @@ flesh, yet now we know him so no more.
 Therefore if anyone is in
 Christ, he is a new creation. The old things have passed away. Behold, all
 things have become new.
+<t xml:lang="es"><wi type="G" value="5620,1,">Por tanto</wi>
+<wi type="G" value="1487,2,">si</wi>
+<wi type="G" value="5100,3,">alguien</wi> está
+<wi type="G" value="1722,4,">en</wi>
+<wi type="G" value="5547,5,">Cristo</wi>, es
+<wi type="G" value="2537,6,">nueva</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="2937,7,">creación</wi><rf>
+<citebib id="WEB"/> dice `creación´,
+<citebib id="KJV2003"/> y <citebib id="RVG2012"/>
+dice `criatura,´  segun <citebib id="Thayer-BLB"/> el sustantivo
+griego `κτισις,´  se traduce como criatura, creación, construcción, ordenanza.
+</rf></rb>
+<t xml:lang="es">.
+<wi type="G" value="3588,8,"/><wi type="G" value="744,9,">Las cosas viejas</wi>
+<wi type="G" value="3928,10,">pasaron</wi>;
+<wi type="G" value="2400,11,">observen</wi>,
+<wi type="G" value="3588,14,"/><wi type="G" value="3956,15,">todas las cosas</wi></t>
+<rb xml:lang="es"><wi type="G" value="1096,12,">son hechas</wi><rf>
+<citebib id="RVG2012"/> dice `son hechas,´
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `have become,´
+que puede traducirse como `han llegado a ser.´
+Según <citebib id="Thayer-BLB"/> el verbo griega
+`γεγονεν´ se traduce como  ser, ocurrir, hacer, llegar a ser, recibir
+existencia.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2537,13,">nuevas</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-5-18">
 But all things are of God, who reconciled us to
 himself through Jesus Christ, and gave to us the ministry of reconciliation;
-
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3956,3,">todas las cosas</wi>
+son <wi type="G" value="1537,4,">de</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">Dios</wi></wi>,
+<wi type="G" value="3588,7,">quien</wi>
+<wi type="G" value="2248,9,">nos</wi>
+<wi type="G" value="2644,8,">reconcilió</wi>
+<wi type="G" value="1438,10,">con Él mismo</wi>
+<wi type="G" value="1223,11,">por</wi>
+<wi type="G" value="2424,12,">Jesús</wi>
+<wi type="G" value="5547,13,">Cristo</wi>,
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="2254,16,">nos</wi>
+<wi type="G" value="1325,15,">dio</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="1248,18,">el ministerio</wi></wi>
+<wi type="G" value="3588,19,"><wi type="G" value="2643,20,">de la reconciliación</wi></wi>.</t>
 </sv>
-<sv id="b2_Corinthians-5-
-19">
+<sv id="b2_Corinthians-5-19">
 namely, that God was in Christ reconciling the world to himself, not
 reckoning to them their trespasses, and having committed to us the word of
 reconciliation.
