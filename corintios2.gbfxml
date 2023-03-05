@@ -2209,18 +2209,57 @@ son <wi type="G" value="1537,4,">de</wi>
 <wi type="G" value="2254,16,">nos</wi>
 <wi type="G" value="1325,15,">dio</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="1248,18,">el ministerio</wi></wi>
-<wi type="G" value="3588,19,"><wi type="G" value="2643,20,">de la reconciliación</wi></wi>.</t>
+<wi type="G" value="3588,19,"><wi type="G" value="2643,20,">de la reconciliación</wi></wi>;</t>
 </sv>
 <sv id="b2_Corinthians-5-19">
 namely, that God was in Christ reconciling the world to himself, not
 reckoning to them their trespasses, and having committed to us the word of
 reconciliation.
+<t xml:lang="es"><wi type="G" value="5613,1,">es decir</wi>,
+<wi type="G" value="3754,2,">que</wi>
+<wi type="G" value="2316,3,">Dios</wi>
+<wi type="G" value="2258,4,">estuvo</wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="5547,6,">Cristo</wi>
+<wi type="G" value="2644,8,">reconciliando</wi>
+<wi type="G" value="2889,7,">al mundo</wi>
+<wi type="G" value="1438,9,">consigo mismo</wi>,
+<wi type="G" value="3361,10,">no</wi>
+<wi type="G" value="3049,11,"><wi type="G" value="846,12,">imputándoles</wi></wi>
+<wi type="G" value="846,15,">sus</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="3900,14,">transgresiones</wi></wi>,
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="5087,17,">poniendo</wi>
+<wi type="G" value="1722,18,">en</wi>
+<wi type="G" value="2254,19,">nosotros</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="3056,21,">la palabra</wi></wi>
+<wi type="G" value="3588,22,"><wi type="G" value="2643,23,">de la reconciliación</wi></wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-5-20">
 We are therefore ambassadors on behalf of Christ, as
 though God were entreating by us. We beg you on behalf of Christ, be
 <wi type="T" value="P"/>
 reconciled to God.
+<t xml:lang="es"><wi type="G" value="3767,3,">Entonces</wi>
+<wi type="G" value="4243,4,">somos embajadores</wi>
+<wi type="G" value="5228,1,">de</wi>
+<wi type="G" value="5547,2,">Cristo</wi>,
+<wi type="G" value="5613,5,">como si</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2316,7,">Dios</wi></wi> </t>
+<rb xml:lang="es"><wi type="G" value="3870,8,">rogara</wi>
+<wi type="G" value="1223,9,">por medio de</wi>
+<wi type="G" value="2257,10,">nosotros</wi><rf><citebib id="WEB"/> dice
+`como si Dios estuviera rogando por nosotros,´
+<citebib id="KJV2003"/> dice `como si Dios les rogara por medio de nosotros´,
+<citebib id="RVG2012"/> dice `como si Dios rogara por medio de nosotros.´</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="1189,11,">les suplicamos</wi>
+<wi type="G" value="5228,12,">en</wi>
+<wi type="G" value="5547,13,">nombre de Cristo</wi>,
+que <wi type="G" value="2644,14,">se reconcilien</wi>
+con <wi type="G" value="3588,15,"><wi type="G" value="2316,16,">Dios</wi></wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-5-21">
 For him who knew no sin he made to be sin on our
