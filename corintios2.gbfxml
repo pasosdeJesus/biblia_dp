@@ -2264,17 +2264,41 @@ con <wi type="G" value="3588,15,"><wi type="G" value="2316,16,">Dios</wi></wi>.
 <sv id="b2_Corinthians-5-21">
 For him who knew no sin he made to be sin on our
 behalf; so that in him we might become the righteousness of God.
-
+<t xml:lang="es"><wi type="G"
+value="1063,2,">Pues</wi>
+<wi type="G" value="3588,1,">al que</wi>
+<wi type="G" value="3361,3,">no</wi>
+<wi type="G" value="1097,4,">conoció</wi>
+<wi type="G" value="266,8,">pecado</wi>,
+<wi type="G" value="4160,9,">lo hizo</wi>
+<wi type="G" value="266,5,">pecado</wi>
+<wi type="G" value="5228,6,">por causa</wi>
+<wi type="G" value="2257,7,">nuestra</wi>;
+<wi type="G" value="2443,10,">para que</wi>
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="846,16,">Él</wi>
+<wi type="G" value="1096,12,"><wi type="G" value="2249,11,">fuésemos</wi></wi>
+<wi type="G" value="1343,13,">la rectitud</wi>
+<wi type="G" value="2316,14,">de Dios</wi>.
+</t>
 <cl/>
-
-
 </sv></cm></sc>
 <sc id="b2_Corinthians-6">
 <cm>
 <sv id="b2_Corinthians-6-1">
 Working together, we entreat also that you
-<wi type="T" value="P"/> not receive the
+not receive the
 grace of God in vain,
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="4903,1,">obrando juntos</wi>, les
+<wi type="G" value="3870,4,">pedimos</wi>
+<wi type="G" value="2532,3,">también</wi> que
+<wi type="G" value="3361,5,">no</wi>
+<wi type="G" value="1209,12,"><wi type="G" value="5209,13,">reciban</wi></wi>
+<wi type="G" value="1519,6,">en</wi>
+<wi type="G" value="2756,7,">vano</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="5485,9,">la gracia</wi></wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2316,11,">de Dios</wi></wi>.</t>
 </sv>
 <sv id="b2_Corinthians-6-2">
 for he says,
