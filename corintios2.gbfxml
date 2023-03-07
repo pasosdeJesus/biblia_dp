@@ -2302,20 +2302,57 @@ grace of God in vain,
 </sv>
 <sv id="b2_Corinthians-6-2">
 for he says,
-
+<t xml:lang="es"><wi type="G" value="1063,2,">pues</wi>
+<wi type="G" value="3004,1,">Él dice</wi>,</t>
 <cl/><fp>
 «At an acceptable time I listened to you,
+<t xml:lang="es">«<wi type="G" value="2540,3,">En un tiempo</wi>
+<wi type="G" value="1184,4,">aceptable</wi>
+<wi type="G" value="4675,6,">te</wi>
+<wi type="G" value="1873,5,">escuché</wi>,</t>
 <cl/>
 In a day of salvation I helped you.»
+<t xml:lang="es"><wi type="G" value="2532,7,">Y</wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="2250,9,">el día</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4991,10,">de salvación</wi><rf>
+<citebib id="KJV2003"/> y <citebib id="WEB"/> aquí y al final
+de este versículo dicen `salvación,´
+<citebib id="RVG2012"/> dice `salud.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `σωτηριας´ usada aquí
+y al final del versículo se traduce especialmente como salvación, pero 
+también con salvo, librado y salud. De las otras veces que esta palabra 
+aparece en el nuevo testamento, en ninguna se ha traducido como salud.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="4671,12,">te</wi>
+<wi type="G" value="997,11,">ayudé</wi>.</t>
 </fp>
 
 <cl/>
 Behold, now is the acceptable time. Behold, now is the day of salvation.
-
+<t xml:lang="es"><wi type="G" value="2400,13,">Observa</wi>,
+<wi type="G" value="3568,14,">ahora</wi> es
+<wi type="G" value="2540,15,">el tiempo</wi>
+<wi type="G" value="2144,16,">aceptable</wi>.
+<wi type="G" value="2400,17,">Observa</wi>,
+<wi type="G" value="3568,18,">ahora</wi> es
+<wi type="G" value="2250,19,">el día</wi>
+<wi type="G" value="4991,20,">de salvación</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-6-3">
 We give no occasion of stumbling in anything, that our service may not
 be blamed,
+<t xml:lang="es"><wi type="G" value="3367,1,">No</wi>
+<wi type="G" value="1325,4,">damos</wi>
+<wi type="G" value="4349,5,">ocasión de tropiezo</wi>
+<wi type="G" value="1722,2,">en</wi>
+<wi type="G" value="3367,3,">nada</wi>,
+<wi type="G" value="2443,6,">para que</wi> nuestro
+<wi type="G" value="3588,9,"><wi type="G" value="1248,10,">servicio</wi></wi>
+<wi type="G" value="3361,7,">no</wi>
+<wi type="G" value="3469,8,">pueda ser culpado</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-6-4">
 but in everything commending ourselves, as servants of God,
