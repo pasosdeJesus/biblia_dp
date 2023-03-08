@@ -2322,7 +2322,8 @@ de este versículo dicen `salvación,´
 Según <citebib id="Thayer-BLB"/> la palabra griega `σωτηριας´ usada aquí
 y al final del versículo se traduce especialmente como salvación, pero 
 también con salvo, librado y salud. De las otras veces que esta palabra 
-aparece en el nuevo testamento, en ninguna se ha traducido como salud.
+aparece en el nuevo testamento --en esta traducción--, en ninguna se ha 
+traducido como salud.
 </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="4671,12,">te</wi>
@@ -2351,17 +2352,52 @@ be blamed,
 <wi type="G" value="2443,6,">para que</wi> nuestro
 <wi type="G" value="3588,9,"><wi type="G" value="1248,10,">servicio</wi></wi>
 <wi type="G" value="3361,7,">no</wi>
-<wi type="G" value="3469,8,">pueda ser culpado</wi>.
+<wi type="G" value="3469,8,">pueda ser culpado</wi>,
 </t>
 </sv>
 <sv id="b2_Corinthians-6-4">
 but in everything commending ourselves, as servants of God,
 in great endurance, in afflictions, in hardships, in distresses,
+<t xml:lang="es"><wi type="G" value="235,1,">pero</wi> 
+<wi type="G" value="1722,2,">en</wi> 
+<wi type="G" value="3956,3,">todo</wi> 
+<wi type="G" value="1438,5,">nos</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4921,4,">aprobamos</wi><rf>
+<citebib id="WEB"/> dice `recomendamos,´
+<citebib id="KJV2003"/> dice `aprobamos,´
+<citebib id="RVG2012"/> dice `habiéndonos.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `συνιστωντες´
+significa poner juntos, estar con, comprender.
+</rf></rb>
+<t xml:lang="es">, 
+<wi type="G" value="5613,6,">como</wi> 
+<wi type="G" value="1249,8,">siervos</wi> 
+<wi type="G" value="2316,7,">de Dios</wi>
+<wi type="G" value="1722,9,">en</wi> 
+<wi type="G" value="4183,11,">gran</wi> 
+<wi type="G" value="5281,10,">paciencia</wi>, 
+<wi type="G" value="1722,12,">en</wi> 
+<wi type="G" value="2347,13,">aflicción</wi>, 
+<wi type="G" value="1722,14,">en</wi> 
+<wi type="G" value="318,15,">necesidades</wi>, 
+<wi type="G" value="1722,16,">en</wi> 
+<wi type="G" value="4730,17,">dificultades</wi> </t>
 </sv>
 <sv id="b2_Corinthians-6-5">
 in
 beatings, in imprisonments, in riots, in labors, in watchings, in fastings;
-
+<t xml:lang="es"><wi type="G" value="1722,1,">en</wi> 
+<wi type="G" value="4127,2,">azotes</wi>, 
+<wi type="G" value="1722,3,">en</wi> 
+<wi type="G" value="5438,4,">prisiones</wi>, 
+<wi type="G" value="1722,5,">en</wi> 
+<wi type="G" value="181,6,">turbas</wi>, 
+<wi type="G" value="1722,7,">en</wi> 
+<wi type="G" value="2873,8,">trabajos</wi>,
+<wi type="G" value="1722,9,">en</wi> 
+<wi type="G" value="70,10,">vigilias</wi>, 
+<wi type="G" value="1722,11,">en</wi> 
+<wi type="G" value="3521,12,">ayunos</wi>; </t>
 </sv>
 <sv id="b2_Corinthians-6-6">
 in pureness, in knowledge, in patience, in kindness, in the Holy Spirit,
