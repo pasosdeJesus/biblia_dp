@@ -2320,9 +2320,9 @@ In a day of salvation I helped you.»
 de este versículo dicen `salvación,´
 <citebib id="RVG2012"/> dice `salud.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `σωτηριας´ usada aquí
-y al final del versículo se traduce especialmente como salvación, pero 
-también con salvo, librado y salud. De las otras veces que esta palabra 
-aparece en el nuevo testamento --en esta traducción--, en ninguna se ha 
+y al final del versículo se traduce especialmente como salvación, pero
+también con salvo, librado y salud. De las otras veces que esta palabra
+aparece en el nuevo testamento --en esta traducción--, en ninguna se ha
 traducido como salud.
 </rf></rb>
 <t xml:lang="es">
@@ -2358,9 +2358,9 @@ be blamed,
 <sv id="b2_Corinthians-6-4">
 but in everything commending ourselves, as servants of God,
 in great endurance, in afflictions, in hardships, in distresses,
-<t xml:lang="es"><wi type="G" value="235,1,">pero</wi> 
-<wi type="G" value="1722,2,">en</wi> 
-<wi type="G" value="3956,3,">todo</wi> 
+<t xml:lang="es"><wi type="G" value="235,1,">pero</wi>
+<wi type="G" value="1722,2,">en</wi>
+<wi type="G" value="3956,3,">todo</wi>
 <wi type="G" value="1438,5,">nos</wi> </t>
 <rb xml:lang="es"><wi type="G" value="4921,4,">aprobamos</wi><rf>
 <citebib id="WEB"/> dice `recomendamos,´
@@ -2369,47 +2369,87 @@ in great endurance, in afflictions, in hardships, in distresses,
 Según <citebib id="Thayer-BLB"/> la palabra griega `συνιστωντες´
 significa poner juntos, estar con, comprender.
 </rf></rb>
-<t xml:lang="es">, 
-<wi type="G" value="5613,6,">como</wi> 
-<wi type="G" value="1249,8,">siervos</wi> 
+<t xml:lang="es">,
+<wi type="G" value="5613,6,">como</wi>
+<wi type="G" value="1249,8,">siervos</wi>
 <wi type="G" value="2316,7,">de Dios</wi>
-<wi type="G" value="1722,9,">en</wi> 
-<wi type="G" value="4183,11,">gran</wi> 
-<wi type="G" value="5281,10,">paciencia</wi>, 
-<wi type="G" value="1722,12,">en</wi> 
-<wi type="G" value="2347,13,">aflicción</wi>, 
-<wi type="G" value="1722,14,">en</wi> 
-<wi type="G" value="318,15,">necesidades</wi>, 
-<wi type="G" value="1722,16,">en</wi> 
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="4183,11,">gran</wi>
+<wi type="G" value="5281,10,">paciencia</wi>,
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="2347,13,">aflicción</wi>,
+<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="318,15,">necesidades</wi>,
+<wi type="G" value="1722,16,">en</wi>
 <wi type="G" value="4730,17,">dificultades</wi> </t>
 </sv>
 <sv id="b2_Corinthians-6-5">
 in
 beatings, in imprisonments, in riots, in labors, in watchings, in fastings;
-<t xml:lang="es"><wi type="G" value="1722,1,">en</wi> 
-<wi type="G" value="4127,2,">azotes</wi>, 
-<wi type="G" value="1722,3,">en</wi> 
-<wi type="G" value="5438,4,">prisiones</wi>, 
-<wi type="G" value="1722,5,">en</wi> 
-<wi type="G" value="181,6,">turbas</wi>, 
-<wi type="G" value="1722,7,">en</wi> 
+<t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="4127,2,">azotes</wi>,
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="5438,4,">prisiones</wi>,
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="181,6,">turbas</wi>,
+<wi type="G" value="1722,7,">en</wi>
 <wi type="G" value="2873,8,">trabajos</wi>,
-<wi type="G" value="1722,9,">en</wi> 
-<wi type="G" value="70,10,">vigilias</wi>, 
-<wi type="G" value="1722,11,">en</wi> 
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="70,10,">vigilias</wi>,
+<wi type="G" value="1722,11,">en</wi>
 <wi type="G" value="3521,12,">ayunos</wi>; </t>
 </sv>
 <sv id="b2_Corinthians-6-6">
 in pureness, in knowledge, in patience, in kindness, in the Holy Spirit,
 in sincere love,
+<t xml:lang="es"><wi type="G" value="1722,1,">en</wi> </t>
+<rb xml:lang="es"><wi type="G" value="54,2,">pureza</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `pureza,´
+<citebib id="RVG2012"/> dice `castidad.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `αγνοτητι´
+se traduce como ambos.
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="1108,4,">conocimiento</wi>,
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="3115,6,">paciencia</wi>,
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="5544,8,">amabilidad</wi>,
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="4151,10,">el Espíritu</wi>
+<wi type="G" value="40,11,">Santo</wi>,
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="26,13,">amor</wi>
+
+<wi type="G" value="505,14,">sincero</wi>, </t>
 </sv>
 <sv id="b2_Corinthians-6-7">
 in the word of truth, in the power of God; by the armor
 of righteousness on the right hand and on the left,
+<t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="3056,2,">la palabra</wi>
+<wi type="G" value="225,3,">de verdad</wi>,
+<wi type="G" value="1722,4,">en</wi>
+<wi type="G" value="1411,5,">el poder</wi>
+<wi type="G" value="2316,6,">de Dios</wi>;
+<wi type="G" value="1223,7,">por</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,8,"><wi type="G" value="3696,9,">las armas</wi></wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `armadura,´
+<citebib id="RVG2012"/> dice `armas.´
+Según <citebib id="Thayer-BLB"/> el sustantivo plural `οπλων´
+se traduce como  un instrumento o herramienta empleado para
+preparar algo, armas.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3588,10,"><wi type="G" value="1343,11,">de la justicia</wi></wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="1188,13,">en la mano derecha</wi>
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="710,15,">en la izquierda</wi>, </t>
 </sv>
 <sv id="b2_Corinthians-6-8">
-by glory and
-dishonor, by evil report and good report; as deceivers, and yet true;
+by glory and dishonor, by evil report and good report;
+as deceivers, and yet true;
 </sv>
 <sv id="b2_Corinthians-6-9">
 as
