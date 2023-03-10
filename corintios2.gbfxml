@@ -2450,11 +2450,39 @@ preparar algo, armas.
 <sv id="b2_Corinthians-6-8">
 by glory and dishonor, by evil report and good report;
 as deceivers, and yet true;
+<t xml:lang="es"><wi type="G" value="1223,1,">por</wi>
+<wi type="G" value="1391,2,">honor</wi>
+<wi type="G" value="2532,3,">pero</wi>
+<wi type="G" value="819,4,">deshonor</wi>,
+<wi type="G" value="1223,5,">por</wi>
+<wi type="G" value="1426,6,">mala fama</wi>
+<wi type="G" value="2532,7,">pero</wi>
+<wi type="G" value="2162,8,">buena fama</wi>;
+<wi type="G" value="5613,9,">como</wi>
+<wi type="G" value="4108,10,">engañadores</wi>
+<wi type="G" value="2532,11,">pero</wi>
+<wi type="G" value="227,12,">verdaderos</wi>;
+</t>
 </sv>
 <sv id="b2_Corinthians-6-9">
 as
 unknown, and yet well known; as dying, and behold, we live; as punished, and
 not killed;
+<t xml:lang="es"><wi type="G" value="5613,1,">como</wi>
+<wi type="G" value="50,2,">desconocidos</wi>
+<wi type="G" value="2532,3,">pero</wi>
+<wi type="G" value="1921,4,">conocidos</wi>;
+<wi type="G" value="5613,5,">como</wi>
+<wi type="G" value="599,6,">agonizantes</wi>,
+<wi type="G" value="2532,7,">pero</wi>
+<wi type="G" value="2400,8,">observen</wi>,
+<wi type="G" value="2198,9,">vivimos</wi>;
+<wi type="G" value="5613,10,">como</wi>
+<wi type="G" value="3811,11,">castigados</wi>,
+<wi type="G" value="2532,12,">pero</wi>
+<wi type="G" value="3361,13,">no</wi>
+<wi type="G" value="2289,14,">asesinados</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-6-10">
 as sorrowful, yet always rejoicing; as poor, yet making
