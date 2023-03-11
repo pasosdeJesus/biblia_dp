@@ -2461,7 +2461,7 @@ as deceivers, and yet true;
 <wi type="G" value="5613,9,">como</wi>
 <wi type="G" value="4108,10,">engañadores</wi>
 <wi type="G" value="2532,11,">pero</wi>
-<wi type="G" value="227,12,">verdaderos</wi>;
+<wi type="G" value="227,12,">auténticos</wi>;
 </t>
 </sv>
 <sv id="b2_Corinthians-6-9">
@@ -2487,13 +2487,44 @@ not killed;
 <sv id="b2_Corinthians-6-10">
 as sorrowful, yet always rejoicing; as poor, yet making
 many rich; as having nothing, and yet possessing all things.
-
+<t xml:lang="es"><wi type="G" value="5613,1,">como</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3076,2,">afligidos</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen dicen `tristes,´
+<citebib id="RVG2012"/> dice `doloridos.´ Según <citebib id="Thayer-BLB"/>
+la palabra griega `λυπουμενοι´  se traduce como hacer triste, afectar
+con tristeza, ofender.
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="1161,4,">pero</wi>
+<wi type="G" value="104,3,">siempre</wi>
+<wi type="G" value="5463,5,">gozosos</wi>;
+<wi type="G" value="5613,6,">como</wi>
+<wi type="G" value="4434,7,">pobres</wi>,
+<wi type="G" value="1161,9,">pero</wi>
+<wi type="G" value="4148,10,">enriqueciendo</wi>
+<wi type="G" value="4183,8,">a muchos</wi>;
+<wi type="G" value="5613,11,">como</wi>
+<wi type="G" value="3367,12,">no</wi>
+<wi type="G" value="2192,13,">teniendo</wi> nada,
+<wi type="G" value="2532,14,">pero</wi>
+<wi type="G" value="2722,16,">poseyendo</wi>
+<wi type="G" value="3956,15,">todas las cosas</wi>.
+</t>
 </sv></cm><cm>
 
 <sv id="b2_Corinthians-6-11">
 Our mouth is open to you, Corinthians. Our heart is enlarged.
-
+<t xml:lang="es"><wi type="G" value="2257,3,">Nuestra</wi>
+<wi type="G" value="3588,1,"><wi type="G" value="4750,2,">boca</wi></wi>
+<wi type="G" value="455,4,">está abierta</wi>
+<wi type="G" value="4314,5,">para</wi>
+<wi type="G" value="5209,6,">ustedes</wi>,
+<wi type="G" value="2881,7,">Corintios</wi>.
+<wi type="G" value="2257,10,">Nuestro</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2588,9,">corazón</wi></wi>
+<wi type="G" value="4115,11,">se ensancha</wi>.</t>
 </sv>
+
 <sv id="b2_Corinthians-6-12">
 You
 <wi type="T" value="P"/> are not restricted by us, but you
