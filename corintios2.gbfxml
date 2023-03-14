@@ -2526,24 +2526,89 @@ Our mouth is open to you, Corinthians. Our heart is enlarged.
 </sv>
 
 <sv id="b2_Corinthians-6-12">
-You
-<wi type="T" value="P"/> are not restricted by us, but you
-<wi type="T" value="P"/> are restricted by your
+You are not restricted by us, but you
+are restricted by your
 own affections.
+<t xml:lang="es"><wi type="G" value="4729,2,">Ustedes</wi>
+<wi type="G" value="3756,1,">no</wi> </t>
+<rb xml:lang="es"><wi type="GC" value="2">están limitados</wi><rf>
+<citebib id="WEB"/> dice `restricted,´
+<citebib id="KJV2003"/> dice `straitened´ ambos pueden traducirse como
+`restringidos,´
+<citebib id="RVG2012"/> dice `estrechos.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `στενοχωρεισθε´
+se traduce como
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="1722,3,">por</wi>
+<wi type="G" value="2254,4,">nosotros</wi>,
+<wi type="G" value="1161,6,">pero</wi>
+<wi type="G" value="4729,5,">están limitados</wi>
+<wi type="G" value="1722,7,">por</wi>
+<wi type="G" value="5216,10,">sus propias</wi> </t>
+<rb xml:lang="es">
+<wi type="G" value="3588,8,"><wi type="G" value="4698,9,">entrañas</wi></wi><rf>
+<citebib id="WEB"/> dice `affections´ que puede traducirse como inclinaciones,
+<citebib id="KJV2003"/> dice `bowels´ que puede traducirse como intestinos,
+y <citebib id="RVG2012"/> dicen `entrañas.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `σπλαγχνοις´ se traduce
+como intestinos u órganos internos (corazón, pulmones, hígado,  etc.)
+</rf></rb>
+<t xml:lang="es">. </t>
 </sv>
 <sv id="b2_Corinthians-6-13">
 Now in return, I speak as to my children, you
-<wi type="T" value="P"/> also
-be open wide.
+also be open wide.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi>
+<wi type="G" value="489,4,">a cambio</wi>
+de <wi type="G" value="846,3,">esto</wi>,
+les <wi type="G" value="3004,7,">hablo</wi>
+<wi type="G" value="5613,5,">como</wi> a
+<wi type="G" value="5043,6,">hijos</wi>,
+<wi type="G" value="2532,9,">también</wi>
+<wi type="G" value="5210,10,">ustedes</wi>
+<wi type="G" value="4115,8,">ensánchense</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-6-14">
 Don´t be unequally yoked with unbelievers, for what
 fellowship have righteousness and iniquity? Or what communion has light with
 darkness?
+<t xml:lang="es">
+<wi type="G" value="3361,1,">No</wi>
+<wi type="G" value="1096,2,">estén</wi>
+<wi type="G" value="2086,3,">en yugo desigual</wi>
+<wi type="G" value="571,4,">con incrédulos</wi>,
+<wi type="G" value="1063,6,">pues</wi>
+¿<wi type="G" value="5101,5,">qué</wi>
+<wi type="G" value="3352,7,">amistad</wi>
+<wi type="G" value="1343,8,">tiene la rectitud</wi>
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="458,10,">la iniquidad</wi>?
+<wi type="G" value="1161,12,">O</wi>
+¿<wi type="G" value="5101,11,">qué</wi>
+<wi type="G" value="2842,13,">comunión</wi>
+<wi type="G" value="5457,14,">tiene la luz</wi>
+<wi type="G" value="4314,15,">con</wi>
+<wi type="G" value="4655,16,">las tinieblas</wi>?
+</t>
 </sv>
 <sv id="b2_Corinthians-6-15">
 What agreement has Christ with Belial? Or what portion has a
 believer with an unbeliever?
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
+¿<wi type="G" value="5101,1,">Qué</wi>
+<wi type="G" value="4857,3,">acuerdo</wi>
+<wi type="G" value="5547,4,">tiene Cristo</wi>
+<wi type="G" value="4314,5,">con</wi>
+<wi type="G" value="955,6,">Belial</wi>?
+<wi type="G" value="2228,7,">O</wi> 
+¿<wi type="G" value="5101,8,">qué</wi>
+<wi type="G" value="3310,9,">porción</wi>
+<wi type="G" value="4103,10,">tiene un creyente</wi>
+<wi type="G" value="3326,11,">con</wi>
+<wi type="G" value="571,12,">un incrédulo</wi>?
+</t>
 </sv>
 <sv id="b2_Corinthians-6-16">
 What agreement has a temple of God with
