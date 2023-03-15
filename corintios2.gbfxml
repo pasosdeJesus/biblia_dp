@@ -2602,7 +2602,7 @@ believer with an unbeliever?
 <wi type="G" value="5547,4,">tiene Cristo</wi>
 <wi type="G" value="4314,5,">con</wi>
 <wi type="G" value="955,6,">Belial</wi>?
-<wi type="G" value="2228,7,">O</wi> 
+<wi type="G" value="2228,7,">O</wi>
 ¿<wi type="G" value="5101,8,">qué</wi>
 <wi type="G" value="3310,9,">porción</wi>
 <wi type="G" value="4103,10,">tiene un creyente</wi>
@@ -2615,22 +2615,65 @@ What agreement has a temple of God with
 idols? For you are a temple of the living God. Even as God said, «I will
 dwell in them, and walk in them; and I will be their God, and they will be my
 people.»
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+¿<wi type="G" value="5101,1,">Qué</wi>
+<wi type="G" value="4783,3,">acuerdo</wi>
+<wi type="G" value="3485,4,">tiene el templo</wi>
+<wi type="G" value="2316,5,">de Dios</wi>
+<wi type="G" value="3326,6,">con</wi>
+<wi type="G" value="1497,7,">los ídolos</wi>?
+<wi type="G" value="1063,9,">Pues</wi>
+<wi type="G" value="5210,8,">tu</wi>
+<wi type="G" value="2075,12,">eres</wi>
+<wi type="G" value="3485,10,">el templo</wi>
+<wi type="G" value="2316,11,">del Dios</wi>
+<wi type="G" value="2198,13,">vivo</wi>.
+<wi type="G" value="2531,14,">Como</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="2316,17,">Dios</wi></wi>
+<wi type="G" value="2036,15,">dijo</wi>,
+«<wi type="G" value="3754,18,"/><wi type="G" value="1774,19,">Moraré</wi>
+<wi type="G" value="2532,22,">y</wi>
+<wi type="G" value="1704,23,">caminaré</wi>
+<wi type="G" value="1722,20,">en</wi>
+<wi type="G" value="846,21,">ellos</wi>,
+<wi type="G" value="2532,24,">y</wi>
+<wi type="G" value="2071,25,">seré</wi>
+<wi type="G" value="846,26,">su</wi>
+<wi type="G" value="2316,27,">Dios</wi>,
+<wi type="G" value="2532,28,">y</wi>
+<wi type="G" value="846,29,">ellos</wi>
+<wi type="G" value="2071,30,">serán</wi>
+<wi type="G" value="3427,31,">mi</wi>
+<wi type="G" value="2992,32,">pueblo</wi>.»
+</t>
 </sv>
 <sv id="b2_Corinthians-6-17">
 Therefore,
-
+<t xml:lang="es"><wi type="G" value="1352,1,">Por tanto</wi></t>
 <cl/>
-«`Come
-<wi type="T" value="P"/> out from among them,
+«`Come out from among them,
+<t xml:lang="es">«`<wi type="G" value="1831,2,">Salgan</wi>
+<wi type="G" value="1537,3,">de</wi>
+<wi type="G" value="3319,4,">en medio</wi>
+<wi type="G" value="846,5,">de ellos</wi>,</t>
 <cl/>
-And be
-<wi type="T" value="P"/> separate,´ says the Lord,
+And be separate,´ says the Lord,
+<t xml:lang="es"><wi type="G" value="2532,6,">Y</wi>
+<wi type="G" value="873,7,">sepárense</wi>,
+<wi type="G" value="3004,8,">dijo</wi>
+<wi type="G" value="2962,9,">el Señor</wi>,</t>
 <cl/>
 `Touch no unclean thing.
+<t xml:lang="es">`<wi type="G" value="2532,10,">Y</wi>
+<wi type="G" value="3361,12,">no</wi>
+<wi type="G" value="680,13,">toquen</wi>
+<wi type="G" value="169,11,">lo impuro</wi>.</t>
 <cl/>
 I will receive you.
+<t xml:lang="es"><wi type="G" value="2504,14,">Yo</wi>
+<wi type="G" value="5209,16,">los</wi>
+<wi type="G" value="1523,15,">recibiré</wi>.</t>
 <cl/>
-
 </sv>
 <sv id="b2_Corinthians-6-18">
 I will be to you a Father.
