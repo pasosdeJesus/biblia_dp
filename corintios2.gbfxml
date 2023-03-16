@@ -2677,14 +2677,26 @@ I will receive you.
 </sv>
 <sv id="b2_Corinthians-6-18">
 I will be to you a Father.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="2071,2,">seré</wi>
+<wi type="G" value="1519,4,">para</wi>
+<wi type="G" value="5213,3,">ustedes</wi>
+<wi type="G" value="3962,5,">un Padre</wi>.</t>
 <cl/>
-You
-<wi type="T" value="P"/> will be to me sons and daughters,´
-
-
+You will be to me sons and daughters,´
+<t xml:lang="es"><wi type="G" value="2532,6,">Y</wi>
+<wi type="G" value="5210,7,">ustedes</wi>
+<wi type="G" value="2071,8,">serán</wi>
+<wi type="G" value="1519,10,">para</wi>
+<wi type="G" value="3427,9,">mi</wi>
+<wi type="G" value="5207,11,">hijos</wi>
+<wi type="G" value="2532,12,">e</wi>
+<wi type="G" value="2364,13,">hijas</wi>,´</t>
 <cl/>
 says the Lord Almighty.»
-
+<t xml:lang="es"><wi type="G" value="3004,14,">dice</wi>
+<wi type="G" value="2962,15,">el Señor</wi>
+<wi type="G" value="3841,16,">Todopoderoso</wi>.»</t>
 </sv></cm></sc>
 <sc id="b2_Corinthians-7">
 <cm>
@@ -2692,6 +2704,24 @@ says the Lord Almighty.»
 Having therefore these promises, beloved, let us cleanse ourselves
 from all defilement of flesh and spirit, perfecting holiness in the fear of
 God.
+<t xml:lang="es"><wi type="G" value="2192,3,">Teniendo</wi>
+<wi type="G" value="3767,2,">entonces</wi>
+<wi type="G" value="3778,1,">estas</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="1860,5,">promesas</wi></wi>,
+<wi type="G" value="27,6,">amados</wi>,
+<wi type="G" value="2511,7,"><wi type="G" value="1438,8,">limpiémonos</wi></wi>
+<wi type="G" value="575,9,">de</wi>
+<wi type="G" value="3956,10,">toda</wi>
+<wi type="G" value="3436,11,">inmundicia</wi>
+<wi type="G" value="4561,12,">de la carne</wi>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="4151,14,">espíritu</wi>,
+<wi type="G" value="2005,15,">perfeccionando</wi>
+<wi type="G" value="42,16,">la santidad</wi>
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="5401,18,">el temor</wi>
+<wi type="G" value="2316,19,">de Dios</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-7-2">
 Open your hearts to us. We wronged no one. We corrupted no one. We
