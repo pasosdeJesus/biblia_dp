@@ -2713,9 +2713,9 @@ God.
 <wi type="G" value="575,9,">de</wi>
 <wi type="G" value="3956,10,">toda</wi>
 <wi type="G" value="3436,11,">inmundicia</wi>
-<wi type="G" value="4561,12,">de la carne</wi>
+<wi type="G" value="4561,12,">de carne</wi>
 <wi type="G" value="2532,13,">y</wi>
-<wi type="G" value="4151,14,">espíritu</wi>,
+<wi type="G" value="4151,14,">de espíritu</wi>,
 <wi type="G" value="2005,15,">perfeccionando</wi>
 <wi type="G" value="42,16,">la santidad</wi>
 <wi type="G" value="1722,17,">en</wi>
@@ -2726,13 +2726,43 @@ God.
 <sv id="b2_Corinthians-7-2">
 Open your hearts to us. We wronged no one. We corrupted no one. We
 took advantage of no one.
+<t xml:lang="es"></t>
+<rb xml:lang="es"><wi type="G" value="5562,1,"><wi type="G" value="2248,2,">Recibannos</wi></wi><rf>
+<citebib id="WEB"/> dice `abran sus corazones a nosotros,´
+<citebib id="KJV2003"/> dice `recíbannos,´
+<citebib id="RVG2012"/> dice `Admítannos en su corazón.´
+Según <citebib id="Thayer-BLB"/> el verbo griego
+`χωρησατε´ se traduce como  dejar espacio, retirar, avanzar,
+hacer espacio para recibir o contener algo.
+</rf></rb>
+<t xml:lang="es">. <wi type="G" value="3762,3,">No</wi>
+<wi type="G" value="91,4,">le hicimos daño</wi>
+<wi type="GC" value="3">a nadie</wi>.
+<wi type="G" value="3762,5,">A nadie</wi>
+<wi type="G" value="5351,6,">corrompimos</wi>.
+<wi type="G" value="3762,7,">A nadie</wi>
+<wi type="G" value="4122,8,">hemos defraudado</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-7-3">
-I say this not to condemn you
-<wi type="T" value="P"/>, for I have
-said before, that you
-<wi type="T" value="P"/> are in our hearts to die together and live
+I say this not to condemn you, for I have
+said before, that you are in our hearts to die together and live
 together.
+<t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
+<wi type="G" value="3004,4,">digo</wi> esto
+<wi type="G" value="4314,2,">para</wi>
+<wi type="G" value="2633,3,">condenarlos</wi>,
+<wi type="G" value="1063,6,">pues</wi>
+<wi type="G" value="4280,5,">he dicho antes</wi>,
+<wi type="G" value="3754,7,">que</wi>
+<wi type="G" value="2075,12,">ustedes están</wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="2257,11,">nuestros</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="2588,10,">corazones</wi></wi>
+<wi type="G" value="1519,13,">para</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="4880,15,">morir</wi>
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="4800,17,">vivir juntos</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-7-4">
 Great is my boldness of speech toward you. Great is my
