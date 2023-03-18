@@ -2768,11 +2768,61 @@ together.
 Great is my boldness of speech toward you. Great is my
 boasting on your behalf. I am filled with comfort. I overflow with joy in all
 our affliction.
+<t xml:lang="es"><wi type="G" value="4183,1,">Grande</wi> es 
+<wi type="G" value="3427,2,">mi</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3954,3,">confianza</wi><rf>
+<citebib id="WEB"/> dice `valor al hablar,´
+<citebib id="RVG2012"/> dice `Tengo mucha confianza."
+Según <citebib id="Thayer-BLB"/> la palabra griega `παρρησια´
+se traduce como libertad al hablar (abiertamente, sin ambigüedad)
+confianza libre de temores, seguridad.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="4314,4,">en</wi> 
+<wi type="G" value="5209,5,">ustedes</wi>,
+<wi type="G" value="4183,6,">Grandemente</wi> 
+<wi type="G" value="3427,7,">me</wi> 
+<wi type="G" value="2746,8,">glorio</wi> 
+<wi type="G" value="5228,9,">en</wi> 
+<wi type="G" value="5216,10,">ustedes</wi>,
+<wi type="G" value="4137,11,">Estoy plenamente</wi> 
+<wi type="G" value="3588,12,"><wi type="G" value="3874,13,">reconfortado</wi></wi>,
+<wi type="G" value="5248,14,">Sobreabundo</wi> en 
+<wi type="G" value="3588,15,"><wi type="G" value="5479,16,">gozo</wi></wi> 
+<wi type="G" value="1909,17,">por</wi> 
+<wi type="G" value="3956,18,">todas</wi> 
+<wi type="G" value="2257,21,">nuestras</wi> 
+<wi type="G" value="3588,19,"><wi type="G" value="2347,20,">aflicciones</wi></wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-7-5">
 For even when we had come into Macedonia, our flesh had
 no relief, but we were afflicted on every side. Fightings were outside. Fear
 was inside.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> 
+<wi type="G" value="2532,1,">aún cuando</wi> 
+<wi type="G" value="2064,3,">fuimos</wi> 
+<wi type="G" value="1519,5,">a</wi> 
+<wi type="G" value="3109,6,">Macedonia</wi>, 
+<wi type="G" value="2257,4,">nuestra</wi> 
+<wi type="G" value="3588,10,"><wi type="G" value="4561,11,">carne</wi></wi>
+<wi type="G" value="3762,7,">no</wi> 
+<wi type="G" value="2192,8,">tuvo</wi> 
+<wi type="G" value="425,9,">reposo</wi>,
+<wi type="G" value="235,13,">sino que</wi> 
+<wi type="G" value="2257,12,"><wi type="G" value="2346,16,">estuvimos afligidos</wi></wi> 
+<wi type="G" value="1722,14,">por</wi> 
+<wi type="G" value="3956,15,">todas partes</wi>.
+<wi type="G" value="1855,17,">Por fuera</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3163,18,">disputas</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/>dicen `peleas,´
+<citebib id="RVG2012"/> dice `cuestiones.´
+Según <citebib id="Thayer-BLB"/> la palabra griega 
+`μαχαι´ se traduce como pelea o combate, en batalla, disputas, discusiones.</rf></rb>
+<t xml:lang="es">.
+<wi type="G" value="2081,19,">Por dentro</wi> 
+<wi type="G" value="5401,20,">temores</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-7-6">
 Nevertheless, he who comforts the lowly, God, comforted us
