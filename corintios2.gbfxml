@@ -825,7 +825,7 @@ swallowed up with his excessive sorrow.
 <wi type="G" value="5209,4,">ustedes</wi>
 <wi type="G" value="5483,5,">perdonen</wi>
 <wi type="G" value="2532,6,">y</wi>
-<wi type="G" value="3870,7,">conforten</wi>,
+<wi type="G" value="3870,7,">animen</wi>,
 <wi type="G" value="3381,8,">no sea que</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="5108,14,">alguno así</wi>
 <wi type="G" value="2666,12,">sea consumido</wi> por
@@ -2768,7 +2768,7 @@ together.
 Great is my boldness of speech toward you. Great is my
 boasting on your behalf. I am filled with comfort. I overflow with joy in all
 our affliction.
-<t xml:lang="es"><wi type="G" value="4183,1,">Grande</wi> es 
+<t xml:lang="es"><wi type="G" value="4183,1,">Grande</wi> es
 <wi type="G" value="3427,2,">mi</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3954,3,">confianza</wi><rf>
 <citebib id="WEB"/> dice `valor al hablar,´
@@ -2778,20 +2778,20 @@ se traduce como libertad al hablar (abiertamente, sin ambigüedad)
 confianza libre de temores, seguridad.
 </rf></rb>
 <t xml:lang="es">
-<wi type="G" value="4314,4,">en</wi> 
+<wi type="G" value="4314,4,">en</wi>
 <wi type="G" value="5209,5,">ustedes</wi>,
-<wi type="G" value="4183,6,">Grandemente</wi> 
-<wi type="G" value="3427,7,">me</wi> 
-<wi type="G" value="2746,8,">glorio</wi> 
-<wi type="G" value="5228,9,">en</wi> 
+<wi type="G" value="4183,6,">Grandemente</wi>
+<wi type="G" value="3427,7,">me</wi>
+<wi type="G" value="2746,8,">glorio</wi>
+<wi type="G" value="5228,9,">en</wi>
 <wi type="G" value="5216,10,">ustedes</wi>,
-<wi type="G" value="4137,11,">Estoy plenamente</wi> 
+<wi type="G" value="4137,11,">Estoy plenamente</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="3874,13,">reconfortado</wi></wi>,
-<wi type="G" value="5248,14,">Sobreabundo</wi> en 
-<wi type="G" value="3588,15,"><wi type="G" value="5479,16,">gozo</wi></wi> 
-<wi type="G" value="1909,17,">por</wi> 
-<wi type="G" value="3956,18,">todas</wi> 
-<wi type="G" value="2257,21,">nuestras</wi> 
+<wi type="G" value="5248,14,">Sobreabundo</wi> en
+<wi type="G" value="3588,15,"><wi type="G" value="5479,16,">gozo</wi></wi>
+<wi type="G" value="1909,17,">por</wi>
+<wi type="G" value="3956,18,">todas</wi>
+<wi type="G" value="2257,21,">nuestras</wi>
 <wi type="G" value="3588,19,"><wi type="G" value="2347,20,">aflicciones</wi></wi>.
 </t>
 </sv>
@@ -2799,40 +2799,78 @@ confianza libre de temores, seguridad.
 For even when we had come into Macedonia, our flesh had
 no relief, but we were afflicted on every side. Fightings were outside. Fear
 was inside.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> 
-<wi type="G" value="2532,1,">aún cuando</wi> 
-<wi type="G" value="2064,3,">fuimos</wi> 
-<wi type="G" value="1519,5,">a</wi> 
-<wi type="G" value="3109,6,">Macedonia</wi>, 
-<wi type="G" value="2257,4,">nuestra</wi> 
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2532,1,">aún cuando</wi>
+<wi type="G" value="2064,3,">fuimos</wi>
+<wi type="G" value="1519,5,">a</wi>
+<wi type="G" value="3109,6,">Macedonia</wi>,
+<wi type="G" value="2257,4,">nuestra</wi>
 <wi type="G" value="3588,10,"><wi type="G" value="4561,11,">carne</wi></wi>
-<wi type="G" value="3762,7,">no</wi> 
-<wi type="G" value="2192,8,">tuvo</wi> 
+<wi type="G" value="3762,7,">no</wi>
+<wi type="G" value="2192,8,">tuvo</wi>
 <wi type="G" value="425,9,">reposo</wi>,
-<wi type="G" value="235,13,">sino que</wi> 
-<wi type="G" value="2257,12,"><wi type="G" value="2346,16,">estuvimos afligidos</wi></wi> 
-<wi type="G" value="1722,14,">por</wi> 
+<wi type="G" value="235,13,">sino que</wi>
+<wi type="G" value="2257,12,"><wi type="G" value="2346,16,">estuvimos afligidos</wi></wi>
+<wi type="G" value="1722,14,">por</wi>
 <wi type="G" value="3956,15,">todas partes</wi>.
 <wi type="G" value="1855,17,">Por fuera</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3163,18,">disputas</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/>dicen `peleas,´
 <citebib id="RVG2012"/> dice `cuestiones.´
-Según <citebib id="Thayer-BLB"/> la palabra griega 
+Según <citebib id="Thayer-BLB"/> la palabra griega
 `μαχαι´ se traduce como pelea o combate, en batalla, disputas, discusiones.</rf></rb>
 <t xml:lang="es">.
-<wi type="G" value="2081,19,">Por dentro</wi> 
+<wi type="G" value="2081,19,">Por dentro</wi>
 <wi type="G" value="5401,20,">temores</wi>.
 </t>
 </sv>
 <sv id="b2_Corinthians-7-6">
 Nevertheless, he who comforts the lowly, God, comforted us
 by the coming of Titus;
+<t xml:lang="es"><wi type="G" value="235,1,">Sin embargo</wi>,
+<wi type="G" value="3588,2,">el que</wi>
+<wi type="G" value="3870,3,">reconforta</wi>
+a <wi type="G" value="3588,4,">los</wi>
+<wi type="G" value="5011,5,">humildes</wi>,
+<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>,
+<wi type="G" value="2248,7,">nos</wi>
+<wi type="G" value="3870,6,">reconfortó</wi>
+<wi type="G" value="1722,10,">con</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="3952,12,">la llegada</wi></wi>
+<wi type="G" value="5103,13,">de Tito</wi>;</t>
 </sv>
 <sv id="b2_Corinthians-7-7">
 and not by his coming only, but also by the
 comfort with which he was comforted in you, while he told us of your longing,
 your mourning, and your zeal for me; so that I rejoiced still more.
-
+<t xml:lang="es"><wi type="G" value="1161,3,">y</wi>
+<wi type="G" value="3756,1,">no</wi>
+<wi type="G" value="3440,2,">solo</wi>
+<wi type="G" value="1722,4,">con</wi>
+<wi type="G" value="846,7,">su</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="3952,6,">llegada</wi></wi>;
+<wi type="G" value="235,8,">sino</wi>
+<wi type="G" value="2532,9,">también</wi>
+<wi type="G" value="1722,10,">con</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="3874,12,">el consuelo</wi></wi>
+<wi type="G" value="3739,13,">con el que</wi>
+<wi type="G" value="3870,14,">fue consolado</wi>
+<wi type="G" value="1909,15,">en</wi>
+<wi type="G" value="5213,16,">ustedes</wi>,
+cuando <wi type="G" value="2254,18,">nos</wi>
+<wi type="G" value="312,17,">decía</wi>
+<wi type="G" value="5216,20,">de sus</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="1972,21,">anhelos</wi></wi>,
+<wi type="G" value="5216,23,">de sus</wi>
+<wi type="G" value="3588,22,"><wi type="G" value="3602,24,">lamentos</wi></wi>
+<wi type="G" value="5216,26,">de su</wi>
+<wi type="G" value="3588,25,"><wi type="G" value="2205,27,">celo</wi></wi>
+<wi type="G" value="5228,28,">por</wi>
+<wi type="G" value="1700,29,">mi</wi>;
+<wi type="G" value="5620,30,">así que</wi>
+<wi type="G" value="3165,31,">me</wi>
+<wi type="G" value="5463,33,">gocé</wi>
+<wi type="G" value="3123,32,">aún más</wi>. </t>
 </sv></cm><cm>
 
 <sv id="b2_Corinthians-7-8">
