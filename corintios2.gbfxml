@@ -2877,15 +2877,53 @@ cuando <wi type="G" value="2254,18,">nos</wi>
 For though I made you sorry with my letter, I do not regret it, though I
 did regret it. For I see that my letter made you sorry, though just for a
 while.
+<t xml:lang="es"><wi type="G" value="2532,3,"/><wi type="G" value="3754,1,">Pues</wi>
+<wi type="G" value="1487,2,">aun cuando</wi>
+<wi type="G" value="5209,5,">los</wi>
+<wi type="G" value="3076,4,">hice apenar</wi>
+<wi type="G" value="1722,6,">con</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="1992,8,">una carta</wi></wi>,
+<wi type="G" value="3756,9,">no</wi>
+<wi type="G" value="3338,10,">me arrepiento</wi>,
+<wi type="G" value="1487,11,">aunque</wi>
+<wi type="G" value="2532,12,"/><wi type="G" value="3338,13,">me arrepentí</wi>.
+<wi type="G" value="1063,15,">Pues</wi>
+<wi type="G" value="991,14,">veo</wi>
+<wi type="G" value="3754,16,">que</wi>
+<wi type="G" value="1565,19,">la misma</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="1992,18,">carta</wi></wi>
+<wi type="G" value="5209,25,">los</wi>
+<wi type="G" value="3076,24,">apenó</wi>,
+<wi type="G" value="1487,20,">más</wi>
+<wi type="G" value="2532,21,"/><wi type="G" value="4314,22,">sólo por</wi>
+<wi type="G" value="5610,23,">un tiempo</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-7-9">
-I now rejoice, not that you
-<wi type="T" value="P"/> were made sorry, but that
-you
-<wi type="T" value="P"/> were made sorry to repentance. For you
-<wi type="T" value="P"/> were made sorry in a
-godly way, that you
-<wi type="T" value="P"/> might suffer loss by us in nothing.
+I now rejoice, not that you were made sorry, but that
+you were made sorry to repentance. For you
+were made sorry in a godly way, that you
+might suffer loss by us in nothing.
+<t xml:lang="es"><wi type="G" value="3568,1,">Ahora</wi>
+<wi type="G" value="5463,2,">me regocijo</wi>,
+<wi type="G" value="3756,3,">no</wi>
+<wi type="G" value="3754,4,">porque</wi>
+<wi type="G" value="3076,5,">se hubieran apenado</wi>,
+<wi type="G" value="235,6,">sino</wi>
+<wi type="G" value="3754,7,">porque</wi>
+<wi type="G" value="3076,8,">se apenaron</wi>
+<wi type="G" value="1519,9,">para</wi>
+<wi type="G" value="3341,10,">arrepentirse</wi>.
+<wi type="G" value="1063,12,">Pues</wi>
+<wi type="G" value="3076,11,">fueron apenados</wi>
+<wi type="G" value="2596,13,">de una manera</wi>
+<wi type="G" value="2316,14,">de Dios</wi>,
+<wi type="G" value="2443,15,">para que</wi>
+<wi type="G" value="1722,16,">en</wi>
+<wi type="G" value="3367,17,">nada</wi>
+<wi type="G" value="2210,18,">sufrieran pérdida</wi>
+<wi type="G" value="1537,19,">por</wi>
+<wi type="G" value="2257,20,">nosotros</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-7-10">
 For godly
