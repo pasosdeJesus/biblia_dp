@@ -3092,16 +3092,31 @@ received him.
 <sv id="b2_Corinthians-7-16">
 I rejoice that in everything I am of good courage
 concerning you.
-
+<t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
+<wi type="G" value="5463,1,">me gozo</wi>
+<wi type="G" value="3754,3,">porque</wi>
+<wi type="G" value="1722,4,">en</wi>
+<wi type="G" value="3956,5,">todo</wi>
+<wi type="G" value="2292,6,">tengo confianza</wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="5213,8,">ustedes</wi>.</t>
 <cl/>
-
-
 </sv></cm></sc>
 <sc id="b2_Corinthians-8">
 <cm>
 <sv id="b2_Corinthians-8-1">
 Moreover, brothers, we make known to you the grace of God which has
 been given in the assemblies of Macedonia;
+<t xml:lang="es"><wi type="G" value="1161,2,">Además</wi>,
+<wi type="G" value="80,4,">hermanos</wi>,
+<wi type="G" value="5213,3,">les</wi>
+<wi type="G" value="1107,1,">les damos a conocer</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="5485,6,">la gracia</wi></wi>
+que <wi type="G" value="3588,7,"><wi type="G" value="2316,8,">Dios</wi></wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="1325,10,">ha dado</wi>
+<wi type="G" value="1722,11,">a</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="1577,13,">las iglesias</wi></wi>
+<wi type="G" value="3588,14,"><wi type="G" value="3109,15,">de Macedonia</wi></wi>;</t>
 </sv>
 <sv id="b2_Corinthians-8-2">
 how that in much proof of
