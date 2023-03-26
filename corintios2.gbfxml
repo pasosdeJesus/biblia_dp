@@ -3110,7 +3110,7 @@ been given in the assemblies of Macedonia;
 <t xml:lang="es"><wi type="G" value="1161,2,">Además</wi>,
 <wi type="G" value="80,4,">hermanos</wi>,
 <wi type="G" value="5213,3,">les</wi>
-<wi type="G" value="1107,1,">les damos a conocer</wi>
+<wi type="G" value="1107,1,">damos a conocer</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="5485,6,">la gracia</wi></wi>
 que <wi type="G" value="3588,7,"><wi type="G" value="2316,8,">Dios</wi></wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="1325,10,">ha dado</wi>
@@ -3122,10 +3122,43 @@ que <wi type="G" value="3588,7,"><wi type="G" value="2316,8,">Dios</wi></wi>
 how that in much proof of
 affliction the abundance of their joy and their deep poverty abounded to the
 riches of their liberality.
+<t xml:lang="es"><wi type="G" value="3754,1,">como</wi>
+<wi type="G" value="1722,2,">en</wi>
+<wi type="G" value="4183,3,">gran</wi>
+<wi type="G" value="1382,4,">prueba</wi>
+<wi type="G" value="2347,5,">de aflicción</wi>
+fue <wi type="G" value="3588,6,"><wi type="G" value="4050,7,">abundante</wi></wi>
+<wi type="G" value="846,10,">su</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="5479,9,">gozo</wi></wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="2596,13,"/><wi type="G" value="899,14,">la profundidad</wi>
+<wi type="G" value="846,16,">de su</wi>
+<wi type="G" value="4432,15,">pobreza</wi>
+<wi type="G" value="4052,17,">abundó</wi>
+<wi type="G" value="1519,18,">en</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="4149,20,">riqueza</wi></wi>
+<wi type="G" value="846,23,">de su</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="572,22,">generosidad</wi></wi>.</t>
 </sv>
 <sv id="b2_Corinthians-8-3">
 For according to their power, I testify, yes
 and beyond their power, they gave of their own accord,
+<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi> 
+<wi type="G" value="2596,2,">de</wi> sus
+<wi type="G" value="1411,3,">fuerzas</wi>,
+<wi type="G" value="3140,4,">doy testimonio</wi>,
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="5228,6,">más allá</wi> de sus
+<wi type="G" value="1411,7,">fuerzas</wi>, </t>
+<rb xml:lang="es"><wi type="G" value="830,8,">por su propia voluntad</wi><rf>
+<citebib id="WEB"/> dice `of their own accord´ que según
+<citebib id="GTranslator"/> traduce `por su propia voluntad´
+y <citebib id="KJV2003"/> dice `willing of themselves´
+que <citebib id="GTranslator"/> traduce como `dispuestos de sí mismos.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `αυθαιρετοι´
+se traduce como voluntariamente, de libre elección, por su propia voluntad.
+</rf></rb>
+<t xml:lang="es">.</t>
 </sv>
 <sv id="b2_Corinthians-8-4">
 begging us with
