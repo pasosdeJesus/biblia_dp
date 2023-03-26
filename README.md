@@ -11,10 +11,10 @@ Puede ver lo traducido en formato HTML en:
 
 Vea más sobre el formato y las posibilidades de
 conversión en 
-<https://github.com/pasosdeJesus/biblia_dp/blob/master/formatos.txt>
+<https://gitlab.com/pasosdeJesus/biblia_dp/-/blob/main/formatos.txt>
 
 Vea más sobre el uso de las herramientas de conversión en
-<https://github.com/pasosdeJesus/biblia_dp/blob/master/Instala.txt>
+<https://gitlab.com/pasosdeJesus/biblia_dp/-/blob/main/formatos.txt>
 
 
 
