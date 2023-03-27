@@ -3143,7 +3143,7 @@ fue <wi type="G" value="3588,6,"><wi type="G" value="4050,7,">abundante</wi></wi
 <sv id="b2_Corinthians-8-3">
 For according to their power, I testify, yes
 and beyond their power, they gave of their own accord,
-<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi> 
+<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
 <wi type="G" value="2596,2,">de</wi> sus
 <wi type="G" value="1411,3,">fuerzas</wi>,
 <wi type="G" value="3140,4,">doy testimonio</wi>,
@@ -3158,12 +3158,24 @@ que <citebib id="GTranslator"/> traduce como `dispuestos de sí mismos.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `αυθαιρετοι´
 se traduce como voluntariamente, de libre elección, por su propia voluntad.
 </rf></rb>
-<t xml:lang="es">.</t>
+<t xml:lang="es">, </t>
 </sv>
 <sv id="b2_Corinthians-8-4">
 begging us with
 much entreaty to receive this grace and the fellowship in the service to the
 saints.
+<t xml:lang="es"><wi type="G" value="1189,4,"><wi type="G" value="2257,5,">rogándonos</wi></wi>
+<wi type="G" value="3326,1,">con</wi>
+<wi type="G" value="4183,2,">mucho</wi>
+<wi type="G" value="3874,3,">animo</wi>
+<wi type="G" value="2248,18,"><wi type="G" value="1209,17,">que recibiéramos</wi></wi>
+<wi type="G" value="3588,6,"><wi type="G" value="5485,7,">el regalo</wi></wi>
+
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="2842,10,">la fraternidad</wi></wi> con
+<wi type="G" value="3588,11,"><wi type="G" value="1248,12,">el servicio</wi></wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="1519,14,">de</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="40,16,">los santos</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-8-5">
 This was not as we had hoped, but first they gave their own
