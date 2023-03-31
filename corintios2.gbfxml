@@ -3293,7 +3293,7 @@ who were the first to start a year ago, not only to do, but also to be
 willing.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="1722,3,">en</wi>
-<wi type="G" value="5129,4,">esto</wi> 
+<wi type="G" value="5129,4,">esto</wi>
 <wi type="G" value="1325,5,">doy</wi> mi
 <wi type="G" value="1106,2,">consejo</wi>:
 <wi type="G" value="1063,7,">porque</wi>
@@ -3316,10 +3316,40 @@ willing.
 But now complete the doing also, that as there was the
 readiness to be willing, so there may be the completion also out of your
 ability.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="2532,3,">entonces</wi>
+<wi type="G" value="3570,1,">ahora</wi>
+<wi type="G" value="2005,6,">completen</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="4160,5,">haciendo</wi>,
+<wi type="G" value="3704,7,">que</wi>
+<wi type="G" value="2509,8,">así como</wi> hubo
+<wi type="G" value="3588,9,"><wi type="G" value="4288,10,">prontitud</wi></wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="2309,12,">para querer</wi>,
+<wi type="G" value="3779,13,">así</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="2005,16,">completen</wi>
+<wi type="G" value="2532,14,">también</wi>
+<wi type="G" value="1537,17,">con</wi>
+<wi type="G" value="3588,18,">lo que</wi>
+<wi type="G" value="2192,19,">tienen</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-8-12">
 For if the readiness is there, it is acceptable according to
 what you have, not according to what you don´t have.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="4288,4,">la voluntad</wi></wi>
+<wi type="G" value="4295,5,">está</wi>,
+es <wi type="G" value="2144,10,">aceptable</wi>
+<wi type="G" value="2526,6,">de acuerdo a</wi>
+lo <wi type="G" value="1437,7,">que</wi>
+<wi type="G" value="5100,9,">una persona</wi>
+<wi type="G" value="2192,8,">tiene</wi>
+y <wi type="G" value="3756,11,">no</wi>
+<wi type="G" value="2526,12,">de acuerdo</wi>
+a lo que
+<wi type="G" value="3756,13,">no</wi>
+<wi type="G" value="2192,14,">tienen</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-8-13">
 For this is not
