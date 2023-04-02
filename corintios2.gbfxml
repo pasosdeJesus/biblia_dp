@@ -3369,14 +3369,14 @@ also may become a supply for your lack; that there may be equality.
 <t xml:lang="es"><wi type="G" value="23,9p,">Sino</wi>
 <wi type="G" value="1537,10p,">por</wi>
 <wi type="G" value="2471,11p,">la igualdad</wi>.
-Para que 
+Para que
 <wi type="G" value="3588,16p,"><wi type="G" value="5216,17p,">su</wi>
 <wi type="G" value="4051,18p,">abundancia</wi></wi>
 <wi type="G" value="1722,12p,">en</wi>
 <wi type="G" value="3588,13p,"><wi type="G" value="3568,14p,"/><wi type="G" value="2540,15p,">este tiempo</wi></wi>
 sea <wi type="G" value="1519,19p,">para</wi>
-<wi type="G" value="5303,22p,">la necesidad</wi></wi>
-<wi type="G" value="3588,20p,"><wi type="G" value="1565,21p,">de ellos</wi>;
+<wi type="G" value="5303,22p,">la necesidad</wi>
+<wi type="G" value="3588,20p,"><wi type="G" value="1565,21p,">de ellos</wi></wi>;
 y <wi type="G" value="2443,1,">que</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="4051,5,">la abundancia</wi></wi>
 <wi type="G" value="1565,4,">de ellos</wi>
@@ -3390,15 +3390,39 @@ y <wi type="G" value="2443,1,">que</wi>
 <wi type="G" value="2471,13,">igualdad</wi>. </t>
 </sv>
 <sv id="b2_Corinthians-8-15">
-As
-it is written, «He who gathered much had nothing left over, and he who
+As it is written, «He who gathered much had nothing left over, and he who
 gathered little had no lack.»
-
+<t xml:lang="es"><wi type="G" value="2531,1,">Como</wi>
+<wi type="G" value="1125,2,">está escrito</wi>,
+«<wi type="G" value="3588,3,">Al que</wi>
+tuvo
+<wi type="G" value="3588,4,"><wi type="G" value="4183,5,">mucho</wi></wi>
+<wi type="G" value="3756,6,">no</wi>
+<wi type="G" value="4121,7,">le sobró</wi>,
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="3588,9,">al que</wi>
+tuvo
+<wi type="G" value="3588,10,"><wi type="G" value="3641,11,">poco</wi></wi>
+<wi type="G" value="3756,12,">no</wi>
+<wi type="G" value="1641,13,">le faltó</wi>.»</t>
 </sv></cm><cm>
 
 <sv id="b2_Corinthians-8-16">
 But thanks be to God, who puts the same earnest care for you into the
 heart of Titus.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="5485,1,">gracias</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2316,4,">a Dios</wi></wi>,
+
+<wi type="G" value="3588,5,">que</wi>
+<wi type="G" value="1325,6,">puso</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="846,8,">el mismo</wi>
+<wi type="G" value="4710,9,">cuidado sincero</wi>
+<wi type="G" value="5228,10,">por</wi>
+<wi type="G" value="5216,11,">ustedes</wi>
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="2588,14,">el corazón</wi></wi>
+<wi type="G" value="51013,15,">de Tito</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-8-17">
 For he indeed accepted our exhortation, but being
