@@ -3422,16 +3422,39 @@ heart of Titus.
 <wi type="G" value="5216,11,">ustedes</wi>
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="2588,14,">el corazón</wi></wi>
-<wi type="G" value="51013,15,">de Tito</wi>.</t>
+<wi type="G" value="5103,15,">de Tito</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-8-17">
 For he indeed accepted our exhortation, but being
 himself very earnest, he went out to you of his own accord.
+<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="3303,3,">de hecho</wi>
+<wi type="G" value="1209,5,">él aceptó</wi>
+<wi type="G" value="3874,4,">la exhortación</wi>,
+<wi type="G" value="1161,7,">y</wi>
+<wi type="G" value="5225,8,">siendo</wi>
+<wi type="G" value="4705,6,">diligente</wi>,
+<wi type="G" value="830,9,">por cuenta propia</wi>
+<wi type="G" value="1831,10,">fue</wi>
+<wi type="G" value="4314,11,">a</wi>
+<wi type="G" value="5209,12,">ustedes</wi>. </t>
 </sv>
 <sv id="b2_Corinthians-8-18">
 We have
 sent together with him the brother whose praise in the Good News is known
 through all the assemblies.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="4842,1,">hemos enviado</wi>
+<wi type="G" value="3326,3,">junto con</wi>
+<wi type="G" value="846,4,">él</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="80,6,">al hermano</wi></wi>
+<wi type="G" value="3739,7,">cuya</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="1868,9,">alabanza</wi></wi>
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2098,12,">el Evangelio</wi></wi>
+es <wi type="G" value="1223,13,">por</wi>
+<wi type="G" value="3956,14,">todas</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="1577,16,">las iglesias</wi></wi>.</t>
 </sv>
 <sv id="b2_Corinthians-8-19">
 Not only so, but who was also appointed by
