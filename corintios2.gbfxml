@@ -3505,7 +3505,13 @@ administered by us.
 <sv id="b2_Corinthians-8-21">
 Having regard for honorable things, not only in the
 sight of the Lord, but also in the sight of men.
-<t xml:lang="es"><wi type="G" value="4306,1,">Teniendo en cuenta</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4306,1,">Procurando</wi><rf>
+<citebib id="WEB"/> dice `Teniendo en cuenta,´
+<citebib id="KJV2003"/> dice `Previniendo,´
+<citebib id="RVG2012"/> dice `Procurando.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `προνοουμενοι´
+se traduce como preveer, proveer, pensar de antemano, cuidar.
+</rf></rb>
 <rb xml:lang="es"><wi type="G" value="2570,2,">lo bueno</wi><rf>
 <citebib id="WEB"/> dice `honorable,´
 <citebib id="RV1960"/> y <citebib id="KJV2003"/> dicen `honesto.´
