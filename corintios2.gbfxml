@@ -3505,12 +3505,53 @@ administered by us.
 <sv id="b2_Corinthians-8-21">
 Having regard for honorable things, not only in the
 sight of the Lord, but also in the sight of men.
+<t xml:lang="es"><wi type="G" value="4306,1,">Teniendo en cuenta</wi> </t>
+<rb xml:lang="es"><wi type="G" value="2570,2,">lo bueno</wi><rf>
+<citebib id="WEB"/> dice `honorable,´
+<citebib id="RV1960"/> y <citebib id="KJV2003"/> dicen `honesto.´
+La palabra griega `καλὰ´ la hemos traducido mayoritariamente como
+`bueno.´ Según <citebib id="Thayer-BLB"/> se traduce como hermosos, excelente,
+eminente, util, recomendable, admirable, bueno, genuino, noble, honorable.
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="3756,3,">no</wi>
+<wi type="G" value="3440,4,">solo</wi>
+<wi type="G" value="1799,5,">a la vista</wi>
+<wi type="G" value="2962,6,">del Señor</wi>,
+<wi type="G" value="235,7,">sino</wi>
+<wi type="G" value="2532,8,">también</wi>
+<wi type="G" value="1799,9,">a la vista</wi>
+<wi type="G" value="444,10,">de la gente</wi>. </t>
 </sv>
 <sv id="b2_Corinthians-8-22">
 We have sent with them
 our brother, whom we have many times proved earnest in many things, but now
 much more earnest, by reason of the great confidence which he has in you.
-
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="846,3,">les</wi>
+<wi type="G" value="4842,1,">hemos enviado a</wi>
+<wi type="G" value="2257,6,">nuestro</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="80,5,">hermano</wi></wi>,
+<wi type="G" value="3739,7,">a quien</wi>
+<wi type="G" value="4178,11,">en muchas oportunidades</wi> </t>
+<rb xml:lang="es"><wi type="G" value="1381,8,">hemos comprobado</wi><rf>
+<citebib id="WEB"/> dice `proved,´
+<citebib id="RVG2012"/> dice `experimentado.´
+Hemos traducido la palabra griega `εδοκιμασαμεν´ como
+discernir, ensayar, aprobar, demostrar, probar, examinar.
+</rf></rb>
+<t xml:lang="es"><wi type="G" value="4705,12,">diligente</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="4183,10,">muchas cosas</wi>,
+<wi type="G" value="1161,15,">pero</wi>
+<wi type="G" value="5607,13,"/><wi type="G" value="3570,14,">ahora</wi>
+<wi type="G" value="4183,16,">mucho</wi>
+<wi type="G" value="4706,17,">más diligente</wi>,
+<wi type="G" value="4183,19,">por la gran</wi>
+<wi type="G" value="4006,18,">confianza</wi>
+<wi type="G" value="3588,20,"/><wi type="G" value="1519,21,">en</wi>
+<wi type="G" value="5209,22,">ustedes</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-8-23">
 As for Titus, he is my partner and fellow worker for you. As for our
