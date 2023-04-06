@@ -3562,16 +3562,44 @@ discernir, ensayar, aprobar, demostrar, probar, examinar.
 <sv id="b2_Corinthians-8-23">
 As for Titus, he is my partner and fellow worker for you. As for our
 brothers, they are the apostles of the assemblies, the glory of Christ.
-
+<t xml:lang="es"><wi type="G" value="1535,1,">Respecto</wi>
+<wi type="G" value="5228,2,">a</wi>
+<wi type="G" value="5103,3,">Tito</wi>,
+es <wi type="G" value="1699,5,">mi</wi>
+<wi type="G" value="2844,4,">compañero</wi>
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="4904,9,">colega de trabajo</wi>
+<wi type="G" value="1519,7,">con</wi>
+<wi type="G" value="5209,8,">ustedes</wi>.
+<wi type="G" value="1535,10,">Respecto</wi> a
+<wi type="G" value="2257,12,">nuestros</wi>
+<wi type="G" value="80,11,">hermanos</wi>,
+son <wi type="G" value="652,13,">apóstoles</wi>
+<wi type="G" value="1577,14,">de las iglesias</wi>,
+<wi type="G" value="1391,15,">la gloria</wi>
+<wi type="G" value="5547,16,">de Cristo</wi> .</t>
 </sv>
 <sv id="b2_Corinthians-8-24">
 Therefore show
 <wi type="T" value="P"/> the proof of your love to them in front of the
 assemblies, and of our boasting on your behalf.
-
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="3767,2,">Entonces</wi>
+<wi type="G" value="1731,14,">muestren</wi>
+<wi type="G" value="1732,3,">la prueba</wi>
+<wi type="G" value="5216,6,">de su</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="26,5,">amor</wi></wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="2257,8,">de nuestro</wi>
+<wi type="G" value="2746,9,">orgullo</wi>
+<wi type="G" value="5228,10,">por</wi>
+<wi type="G" value="5216,11,">ustedes</wi>
+<wi type="G" value="1519,12,">a</wi>
+<wi type="G" value="846,13,">ellos</wi>
+<wi type="G" value="2532,15,">y</wi>
+<wi type="G" value="1519,16,"/><wi type="G" value="4383,17,">frente a</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="1577,19,">las iglesias</wi></wi>.
+</t>
 <cl/>
-
-
 </sv></cm></sc>
 <sc id="b2_Corinthians-9">
 <cm>
