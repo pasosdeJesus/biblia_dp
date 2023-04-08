@@ -3639,7 +3639,7 @@ past. Your zeal has stirred up very many of them.
 <wi type="G" value="4070,15,">hace un año</wi>.
 <wi type="G" value="2532,16,">Y</wi>
 <wi type="G" value="1537,18,">con</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="2205,20,">celo</wi></wi>
+<wi type="G" value="3588,17,"><wi type="G" value="2205,20,">el celo</wi></wi>
 <wi type="G" value="5216,19,">de ustedes</wi>
 <wi type="G" value="2042,21,">han animado</wi>
 <wi type="G" value="3588,22,"><wi type="G" value="4119,23,">a muchos</wi></wi>.
@@ -3648,14 +3648,50 @@ past. Your zeal has stirred up very many of them.
 <sv id="b2_Corinthians-9-3">
 But I have sent the
 brothers that our boasting on your behalf may not be in vain in this respect,
-that, just as I said, you
-<wi type="T" value="P"/> may be prepared,
+that, just as I said, you may be prepared,
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="3992,1,">he enviado</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="80,4,">hermanos</wi></wi>
+<wi type="G" value="2443,5,">para que</wi>
+<wi type="G" value="2257,9,">nuestro</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="2745,8,">orgullo</wi></wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="5228,11,">por</wi>
+<wi type="G" value="5216,12,">ustedes</wi>
+<wi type="G" value="3361,6,">no</wi>
+<wi type="G" value="2758,13,">sea en vano</wi>
+<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="5129,17,">esta</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="3313,16,">parte</wi></wi>,
+<wi type="G" value="2443,18,">que</wi>,
+<wi type="G" value="2531,19,">tal como</wi>
+<wi type="G" value="3004,20,">dije</wi>,
+<wi type="G" value="5600,22,">estén</wi>
+<wi type="G" value="3903,21,">preparados</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-9-4">
 so that I won´t by any
 means, if there come with me any of Macedonia and find you unprepared, we (to
-say nothing of you
-<wi type="T" value="P"/>) should be disappointed in this confident boasting.
+say nothing of you) should be disappointed in this confident boasting.
+<t xml:lang="es"><wi type="G" value="3381,1,">No sea</wi> que
+<wi type="G" value="1437,2,">si</wi>
+<wi type="G" value="2064,3,">vienen</wi>
+<wi type="G" value="4862,4,"><wi type="G" value="1698,5,">conmigo</wi></wi>
+los <wi type="G" value="3110,6,">de Macedonia</wi>
+<wi type="G" value="5209,9,">los</wi>
+<wi type="G" value="2532,7,"/><wi type="G" value="2147,8,">encuentren</wi>
+<wi type="G" value="532,10,">desprevenidos</wi>,
+<wi type="G" value="2443,13,">y que</wi>
+<wi type="G" value="2249,12,">nosotros</wi>
+(<wi type="G" value="3361,14,">no</wi>
+<wi type="G" value="3004,15,">decimos</wi>
+<wi type="G" value="5210,16,">de ustedes</wi>)
+<wi type="G" value="2617,11,">seamos avergonzados</wi>,
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="3778,20,">este</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="5287,19,">confiado</wi></wi>
+<wi type="G" value="3588,21,"><wi type="G" value="2746,22,">orgullo</wi></wi>.
+</t>
 
 </sv>
 <sv id="b2_Corinthians-9-5">
