@@ -3791,20 +3791,46 @@ everything, may abound to every good work.
 </sv>
 <sv id="b2_Corinthians-9-9">
 As it is written,
-
+<t xml:lang="es"><wi type="G" value="2531,1,">Como</wi>
+<wi type="G" value="1125,2,">está escrito</wi></t>
 <cl/><fp>
 «He has scattered abroad, he has given to the poor.
+<t xml:lang="es">«<wi type="G" value="4650,3,">Esparció</wi>,
+<wi type="G" value="1325,4,">le ha dado</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="3993,6,">al pobre</wi></wi>.</t>
 <cl/>
 His righteousness remains forever.»
+<t xml:lang="es"><wi type="G" value="846,9,">Su</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="1343,8,">rectitud</wi></wi>
+<wi type="G" value="3306,10,">permanece</wi>
+<wi type="G" value="1519,11,">para</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="165,13,">siempre</wi></wi>.»</t>
 </fp>
-
 <cl/>
-
 </sv>
 <sv id="b2_Corinthians-9-10">
 Now may he who supplies seed to the sower and bread for food, supply
 and multiply your seed for sowing, and increase the fruits of your
 righteousness;
+<t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>
+<wi type="G" value="3588,1,">el que</wi>
+<wi type="G" value="2023,3,">suple</wi>
+<wi type="G" value="4690,4,">la semilla</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="4687,6,">al sembrador</wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="5524,11,">suple</wi>
+<wi type="G" value="740,8,">el pan</wi>
+<wi type="G" value="1519,9,">como</wi>
+<wi type="G" value="1035,10,">comida</wi>,
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="4129,13,">multiplicará</wi>
+<wi type="G" value="5216,16,">su</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="4703,15,">semilla</wi></wi>
+<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="837,18,">aumentara</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="1081,20,">los frutos</wi></wi>
+<wi type="G" value="5216,23,">de su</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="1343,22,">rectitud</wi></wi>;</t>
 </sv>
 <sv id="b2_Corinthians-9-11">
 you
