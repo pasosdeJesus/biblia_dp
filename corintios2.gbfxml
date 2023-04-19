@@ -3880,21 +3880,22 @@ seeing that through the
 proof given by this service, they glorify God for the obedience of your
 confession to the Good News of Christ, and for the liberality of your
 contribution to them and to all;
-<t xml:lang="es"><wi type="G" value="1223,">Por</wi>
+<t xml:lang="es"><wi type="G" value="1223,1,">Por</wi>
 <wi type="G" value="3588,2,"><wi type="G" value="1382,3,">la experiencia</wi></wi>
 <wi type="G" value="3778,6,">de este</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="1248,5,">servicio</wi></wi>,
-<wi type="G" value="132,7,">ellos glorifican a</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>,
+<wi type="G" value="1392,7,">ellos glorifican a</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>;
 <wi type="G" value="1909,10,">por</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="5292,12,">la obediencia</wi></wi>
-<wi type="G" value="5216,10,">que ustedes</wi>
+<wi type="G" value="5216,15,">que ustedes</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="3671,14,">profesan</wi></wi>
-al <wi type="G" value="3588,17,"><wi type="G" value="2098,18,">evangelio</wi></wi>
+<wi type="G" value="1519,16,">al</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="2098,18,">evangelio</wi></wi>
 <wi type="G" value="3588,19,"><wi type="G" value="5547,20,">de Cristo</wi></wi>,
-<wi type="G" value="2532,2,">y</wi> por
+<wi type="G" value="2532,21,">y</wi> por
 <wi type="G" value="572,22,">la generosa</wi>
-<wi type="G" value="388,23,"><wi type="G" value="2842,24,">contribución</wi></wi>
+<wi type="G" value="3588,23,"><wi type="G" value="2842,24,">contribución</wi></wi>
 <wi type="G" value="1519,25,">para</wi>
 <wi type="G" value="846,26,">ellos</wi>
 <wi type="G" value="2532,27,">y</wi>
@@ -3911,10 +3912,11 @@ por <wi type="G" value="1162,3,">las suplicas</wi>
 <wi type="G" value="846,2,">de ellos</wi>
 <wi type="G" value="5228,4,">por</wi>
 <wi type="G" value="5216,5,">ustedes</wi>,
-<wi type="G" value="1971,7,">desean</wi>
-<wi type="G" value="5235,10,">abundante</wi>
+que <wi type="G" value="5209,7,">les</wi>
+<wi type="G" value="1971,6,">desean</wi>
+<wi type="G" value="1223,8,"/><wi type="G" value="3588,9,"/><wi type="G" value="5235,10,">abundante</wi>
 <wi type="G" value="5485,11,">gracia</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="236,13,">de Dios</wi></wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">de Dios</wi></wi>
 <wi type="G" value="1909,14,">en</wi>
 <wi type="G" value="5213,15,">ustedes</wi>.
 </t>
@@ -3922,11 +3924,12 @@ por <wi type="G" value="1162,3,">las suplicas</wi>
 <sv id="b2_Corinthians-9-15">
 Now thanks be to God for his unspeakable gift!
 <t xml:lang="es">¡<wi type="G" value="5485,1,">Gracias</wi>
-<wi type="G" value="1909,5,">a Dios</wi>
+<wi type="G" value="1909,5,">a</wi>
+i<wi type="G" value="3588,3,"><wi type="G" value="2316,4,">Dios</wi></wi>
 <wi type="G" value="1161,2,">por</wi>
 <wi type="G" value="846,8,">su</wi>
 <wi type="G" value="1431,9,">don</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,6,"/><wi type="G" value="41,7,">impronunciable</wi><rf>
+<rb xml:lang="es"><wi type="G" value="3588,6,"/><wi type="G" value="411,7,">impronunciable</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `impronunciable,´
 <citebib id="RVG2012"/> dice `inefable.´
 </rf></rb>
@@ -3940,11 +3943,70 @@ Now thanks be to God for his unspeakable gift!
 Now I Paul, myself, entreat you by the humility and gentleness of
 Christ; I who in your presence am lowly among you, but being absent am of
 good courage toward you.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="1473,3,"><wi type="G" value="846,1,">yo mismo</wi></wi>
+<wi type="G" value="3972,4,">Pablo</wi>,
+<wi type="G" value="5209,6,">los</wi>
+<wi type="G" value="3870,5,">animo</wi>
+<wi type="G" value="1223,7,">por</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="4236,9,">la humildad</wi></wi>
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="1932,11,">la mansedumbre</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="5547,13,">de Cristo</wi></wi>;
+yo <wi type="G" value="3739,14,">quien</wi>
+<wi type="G" value="2596,15,"/>estando
+<wi type="G" value="4383,16,">presente</wi>
+soy </t>
+<rb xml:lang="es"><wi type="G" value="3303,17,"/><wi type="G" value="5011,18,">humilde</wi><rf>
+<citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="RVG2012"/>dicen
+`bajo,´
+<citebib id="RV1960"/> dice `humilde.´
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="1722,19,">entre</wi>
+<wi type="G" value="5213,20,">ustedes</wi>,
+<wi type="G" value="1161,22,">pero</wi>
+<wi type="G" value="548,21,">al estar ausente</wi> </t>
+<rb xml:lang="es"><wi type="G" value="2292,23,">soy osado</wi><rf>
+<citebib id="WEB"/> dice `buen temperamento´,
+<citebib id="KJV2003"/> dice `valiente´,
+<citebib id="RVG2012"/> dice `confiado,´
+<citebib id="RV1960"/> dice `osado.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `θαρρῶ´
+se traduce como ser valiente, ser confiado, tener confianza.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="1519,24,">con</wi>
+<wi type="G" value="5209,25,">ustedes</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-10-2">
 Yes, I beg you that I may not, when present,
 show courage with the confidence with which I intend to be bold against some,
 who consider us to be walking according to the flesh.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>, les
+<wi type="G" value="1189,1,">ruego</wi> que
+yo <wi type="G" value="3361,4,">no</wi>
+<wi type="G" value="2292,6,">tenga que ser osado</wi> cuando
+<wi type="G" value="3588,3,"/><wi type="G" value="3918,5,">este presente</wi>,
+con </t>
+<rb xml:lang="es"><wi type="G" value="3588,7,"><wi type="G" value="4006,8,">la
+confianza</wi></wi><rf><citebib id="WEB"/> dice `la confianza,´
+<citebib id="RV1960"/> dice `estoy dispuesto a proceder.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `πεποιθήσει´
+se traduce como confianza
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3049,10,">que pienso</wi>
+<wi type="G" value="5111,11,">atreverme</wi>
+<wi type="G" value="1909,12,">contra</wi>
+<wi type="G" value="5100,13,">algunos</wi>,
+<wi type="G" value="3739,9,">que</wi>
+<wi type="G" value="2248,16,">nos</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="3049,15,">consideran</wi>
+<wi type="G" value="5613,17,">como si</wi>
+<wi type="G" value="4043,20,">camináramos</wi>
+<wi type="G" value="2596,18,">de acuerdo a</wi>
+<wi type="G" value="4561,19,">la carne</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-10-3">
 For though we walk
