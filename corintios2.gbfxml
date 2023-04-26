@@ -4174,12 +4174,58 @@ es
 Let such a person
 consider this, that what we are in word by letters when we are absent, such
 are we also in deed when we are present.
+<t xml:lang="es"><wi type="G" value="3049,2,">Que</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="5108,4,">tal persona</wi>
+<wi type="G" value="3049,2,">considere</wi>
+<wi type="G" value="5124,1,">esto</wi>,
+<wi type="G" value="3754,5,">que</wi>
+<wi type="G" value="3634,6,">tal como</wi>
+<wi type="G" value="2070,7,">somos</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="3056,9,">en palabra</wi></wi>
+<wi type="G" value="1223,10,">por</wi>
+<wi type="G" value="1992,11,">cartas</wi>
+<wi type="G" value="548,12,">cuando estamos ausentes</wi>,
+
+<wi type="G" value="5108,13,">así</wi>
+<wi type="G" value="2532,14,">también</wi> somos
+<wi type="G" value="3588,16,"><wi type="G" value="2041,17,">en obra</wi></wi>
+<wi type="G" value="3918,15,">cuando estamos presentes</wi>,</t>
 </sv>
 <sv id="b2_Corinthians-10-12">
 For we are not bold to number
 or compare ourselves with some of those who commend themselves. But they
 themselves, measuring themselves by themselves, and comparing themselves with
 themselves, are without understanding.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3756,1,">no</wi>
+<wi type="G" value="5111,3,">nos atrevemos</wi> </t>
+<rb xml:lang="es"><wi type="G" value="1469,4,">a contarnos</wi><rf>
+<citebib id="WEB"/> dice `number,´ <citebib id="KJV"/>
+dice `make ourselves of the number´ que puede traducisers como numerarnos,
+<citebib id="RVG2012"/> dice `entremeternos.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `εγκριναι´ 
+puede traducirse como juzgar entre, juzgar a alguno para ser admitido en cierta
+clase.
+ </rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2228,5,">o</wi>
+<wi type="G" value="4793,6,"><wi type="G" value="1438,7,">compararnos</wi></wi>
+<wi type="G" value="5100,8,">con alguno</wi>
+de los que
+<wi type="G" value="4921,11,">se recomiendan</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="1438,10,">a si mismos</wi>.
+<wi type="G" value="235,12,">Pero</wi>
+<wi type="G" value="846,13,">los que</wi>
+<wi type="G" value="1438,15,">se</wi>
+<wi type="G" value="3354,17,">miden</wi>
+<wi type="G" value="1722,14,">con</wi>
+<wi type="G" value="1438,16,">ellos mismos</wi>,
+<wi type="G" value="2532,18,">y</wi>
+<wi type="G" value="1438,20,">se</wi>
+<wi type="G" value="4793,19,">comparan</wi>
+<wi type="G" value="1438,21,">consigo mismos</wi>,
+<wi type="G" value="3756,22,">no</wi>
+<wi type="G" value="4920,23,">tienen entendimiento</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-10-13">
 But we will not boast beyond
