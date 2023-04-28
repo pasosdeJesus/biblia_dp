@@ -4174,7 +4174,7 @@ es
 Let such a person
 consider this, that what we are in word by letters when we are absent, such
 are we also in deed when we are present.
-<t xml:lang="es"><wi type="G" value="3049,2,">Que</wi>
+<t xml:lang="es">Que
 <wi type="G" value="3588,3,"/><wi type="G" value="5108,4,">tal persona</wi>
 <wi type="G" value="3049,2,">considere</wi>
 <wi type="G" value="5124,1,">esto</wi>,
@@ -4231,11 +4231,58 @@ de los que
 But we will not boast beyond
 proper limits, but within the boundaries with which God appointed to us,
 which reach even to you.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="2249,1,">nosotros</wi>
+<wi type="G" value="3780,3,">no</wi>
+<wi type="G" value="2744,7,">presumiremos</wi>
+<wi type="G" value="1519,4,">de</wi>
+<wi type="G" value="3588,5,">cosas</wi>
+<wi type="G" value="280,6,">sin medida</wi>,
+<wi type="G" value="235,8,">sino</wi>
+<wi type="G" value="2596,9,">de acuerdo a</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="3358,11,">la medida</wi></wi></t>
+<rb xml:lang="es"><wi type="G" value="3588,12,"><wi type="G" value="2583,13,">de la regla</wi></wi><rf>
+<citebib id="WEB"/> no la traduce,
+<citebib id="KJV2003"/> y <citebib id="RVG2012"/>
+dicen `de la regla.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `κανών´
+se traduce como regla, línea, una vara o pieza de madera a lo que se
+pegan las cosas para mantenerlas derechas, esfera de actividad.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3739,14,">que</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="2316,18,">Dios</wi></wi>
+<wi type="G" value="2254,16,">nos</wi>
+<wi type="G" value="3307,15,">ha establecido</wi>,
+<wi type="G" value="3358,19,">una medida</wi>
+<wi type="G" value="2185,20,">para llegar</wi>
+<wi type="G" value="2532,22,">incluso</wi>
+<wi type="G" value="891,21,">hasta</wi>
+<wi type="G" value="5216,23,">ustedes</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-10-14">
 For we don´t stretch ourselves too much, as
 though we didn´t reach to you. For we came even as far as to you with the
 Good News of Christ,
+<t xml:lang="es"><wi type="G" value="1063,2,">Porque</wi>
+<wi type="G" value="3756,1,">no</wi>
+<wi type="G" value="1438,9,8,">nos</wi>
+<wi type="G" value="5239,8,">extendimos</wi>,
+<wi type="G" value="5613,3,">como</wi> para
+<wi type="G" value="3361,4,">no</wi>
+<wi type="G" value="2185,5,">alcanzarlos</wi>
+<wi type="G" value="1519,6,">a</wi>
+<wi type="G" value="5209,7,">ustedes</wi>.
+<wi type="G" value="1063,11,">Pues</wi>
+<wi type="G" value="5348,14,">vinimos</wi>
+<wi type="G" value="891,10,">hasta</wi>
+<wi type="G" value="5216,13,">ustedes</wi>
+<wi type="G" value="2532,12,">también</wi>
+<wi type="G" value="1722,15,">con</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="2098,17,">el evangelio</wi></wi>
+<wi type="G" value="3588,18,"><wi type="G" value="5547,19,">de Cristo</wi></wi>,
+</t>
 </sv>
 <sv id="b2_Corinthians-10-15">
 not boasting beyond proper limits in other men´s
