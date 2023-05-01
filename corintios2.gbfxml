@@ -4339,17 +4339,45 @@ But «he who boasts, let him boast in the Lord.»
 <wi type="G" value="2962,5,">el Señor</wi>.»
 </sv>
 <sv id="b2_Corinthians-10-18">
-For it
-isn´t he who commends himself who is approved, but whom the Lord commends.
+For it isn´t he who commends himself who is approved,
+but whom the Lord commends.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3756,1,">no</wi> es
+<wi type="G" value="3588,3,">el que</wi>
+<wi type="G" value="4921,5,">se recomienda</wi>
+<wi type="G" value="1438,4,">a si mismo</wi>
+<wi type="G" value="1565,6,">quien</wi>
+<wi type="G" value="2076,7,">es</wi>
+<wi type="G" value="1384,8,">aprobado</wi>
+<wi type="G" value="235,9,">sino</wi>
+<wi type="G" value="3739,10,">a quien</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2962,12,">el Señor</wi></wi>
+<wi type="G" value="4921,13,">recomienda</wi>.</t>
 <cl/>
 </sv></cm></sc>
 <sc id="b2_Corinthians-11">
 <cm>
 <sv id="b2_Corinthians-11-1">
 I wish that you
-<wi type="T" value="P"/> would bear with me in a little foolishness,
+would bear with me in a little foolishness,
 but indeed you
-<wi type="T" value="P"/> do bear with me.
+do bear with me.
+<t xml:lang="es"><wi type="G" value="3785,1,">Yo deseo</wi> que
+<wi type="G" value="430,2,">ustedes soporten</wi>
+<wi type="G" value="3397,4,">un poco</wi>
+<wi type="G" value="3450,3,">mi</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,5,"><wi type="G" value="877,6,">locura</wi></wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen tontería,
+<citebib id="RVG2012"/> dice locura.
+Según <citebib id="Thayer-BLB"/> la palabra griega `αφροσυνη´
+se traduce como tontería, sin sentido.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="235,7,">pero</wi>
+<wi type="G" value="2532,8,">de hecho</wi> la
+<wi type="G" value="430,9,">soportan</wi>
+<wi type="G" value="3450,10,">conmigo</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-11-2">
 For I am jealous over you with a
