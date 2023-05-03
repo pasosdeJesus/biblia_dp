@@ -4406,9 +4406,9 @@ simplicity that is in Christ.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="5399,1,">temo</wi>
 <wi type="G" value="3381,3,">no sea</wi>,
-que <wi type="G" value="5613,4,">como</wi>
+<wi type="G" value="5613,4,">como</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="3789,6,">la serpiente</wi></wi>
-<wi type="G" value="1818,8,">engañó a</wi>
+que <wi type="G" value="1818,8,">engañó a</wi>
 <wi type="G" value="2096,7,">Eva</wi>
 <wi type="G" value="1722,9,">con</wi>
 <wi type="G" value="846,12,">su</wi>
@@ -4426,16 +4426,50 @@ que <wi type="G" value="5613,4,">como</wi>
 <sv id="b2_Corinthians-11-4">
 For if he who comes preaches another
 Jesus, whom we did not preach, or if you
-<wi type="T" value="P"/> receive a different spirit,
+receive a different spirit,
 which you
-<wi type="T" value="P"/> did not receive, or a different «good news», which you
-<wi type="T" value="P"/> did not
+ did not receive, or a different «good news», which you
+did not
 accept, you
-<wi type="T" value="P"/> put up with that well enough.
+put up with that well enough.
+<t xml:lang="es"><wi type="G" value="1063,3,">Pues</wi>
+<wi type="G" value="3303,2,">de hecho</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="3588,4,">el que</wi>
+<wi type="G" value="2064,5,">viene</wi>
+<wi type="G" value="2784,8,">predica a</wi>
+<wi type="G" value="243,6,">otro</wi>
+<wi type="G" value="2424,7,">Jesús</wi>,
+<wi type="G" value="3739,9,">que</wi>
+<wi type="G" value="3756,10,">no</wi>
+<wi type="G" value="2784,11,">hayamos predicado</wi>,
+<wi type="G" value="2228,12,">o</wi>
+si <wi type="G" value="2983,15,">ustedes reciben</wi>
+<wi type="G" value="2087,14,">otro</wi>
+<wi type="G" value="4151,13,">espíritu</wi>
+<wi type="G" value="3739,16,">que</wi>
+<wi type="G" value="3756,17,">no</wi>
+<wi type="G" value="2983,18,">habían recibido</wi>,
+<wi type="G" value="2228,19,">u</wi>
+<wi type="G" value="2087,21,">otro</wi>
+<wi type="G" value="2098,20,">evangelio</wi>
+<wi type="G" value="3739,22,">que</wi>
+<wi type="G" value="3756,23,">no</wi>
+<wi type="G" value="1209,24,">habían aceptado</wi>,
+<wi type="G" value="2573,25,">bien</wi>
+<wi type="G" value="430,26,">lo sufrirían</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-11-5">
 For I reckon that I am
 not at all behind the very best apostles.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3049,1,">pienso</wi> que
+<wi type="G" value="3367,3,">no</wi>
+<wi type="G" value="5302,4,">me he quedado atrás</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="5228,6,">de</wi>
+<wi type="G" value="3029,7,">los grandes</wi>
+<wi type="G" value="652,8,">apóstoles</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-11-6">
 But though I am unskilled in
