@@ -4511,12 +4511,51 @@ of charge?
 <sv id="b2_Corinthians-11-8">
 I robbed other assemblies, taking wages from them that I
 might serve you.
+<t xml:lang="es">
+<wi type="G" value="4813,3,">He despojado</wi> a
+<wi type="G" value="243,1,">otras</wi>
+<wi type="G" value="1577,2,">iglesias</wi>,
+<wi type="G" value="2983,4,">tomando</wi>
+<wi type="G" value="3800,5,">salarios</wi> de ellas
+<wi type="G" value="4314,6,">para</wi>
+<wi type="G" value="1248,9,">servirlos</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="5216,8,">a ustedes</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-11-9">
 When I was present with you and was in need, I wasn´t a
 burden on anyone, for the brothers, when they came from Macedonia, supplied
 the measure of my need. In everything I kept myself from being burdensome to
 you, and I will continue to do so.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3918,2,">cuando estuve presente</wi>
+<wi type="G" value="4314,3,">con</wi>
+<wi type="G" value="5209,4,">ustedes</wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="5302,6,">necesité</wi>,
+<wi type="G" value="3756,7,">no</wi>
+<wi type="G" value="2655,8,">fui una carga</wi>
+para <wi type="G" value="3762,9,">nadie</wi>,
+<wi type="G" value="1063,11,">pues</wi>
+<wi type="G" value="3588,10,">lo que</wi>
+<wi type="G" value="3450,13,">me</wi>
+<wi type="G" value="5303,12,">faltaba</wi>
+<wi type="G" value="4322,14,">lo suplieron</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="80,16,">los hermanos</wi></wi>
+<wi type="G" value="2064,17,">que vinieron</wi>
+<wi type="G" value="575,18,">de</wi>
+<wi type="G" value="3109,19,">Macedonia</wi>.
+<wi type="G" value="2532,20,">Y</wi>
+<wi type="G" value="1722,21,">en</wi>
+<wi type="G" value="3956,22,">todo</wi>
+<wi type="G" value="1683,25,">me</wi>
+<wi type="G" value="5083,26,">he guardado</wi>
+<wi type="G" value="4,23,">de ser carga</wi>
+<wi type="G" value="5213,24,">para ustedes</wi>,
+<wi type="G" value="2532,27,">y</wi>
+así
+<wi type="G" value="5083,28,">me guardaré</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-11-10">
 As the truth of Christ is in me, no
