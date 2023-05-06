@@ -4479,15 +4479,29 @@ revealed to you in all things.
 <wi type="G" value="1487,1,">aunque</wi> soy
 <wi type="G" value="2532,3,"/><wi type="G" value="2399,4,">simple</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="3056,6,">al hablar</wi></wi>,
-<wi type="G" value="235,7,"/><wi type="G" value="3756,8,">no</wi> lo soy en
-<wi type="G" value="3588,9,"><wi type="G" value="1108,10,">conocer</wi></wi>,
-<wi type="G" value="235,11,">más</wi> <wi type="G" value="3956,13,">hemos sido</wi>
-<wi type="G" value="5319,14,">manifestados</wi>
-<wi type="G" value="1722,12,">por completo</wi>
-<wi type="G" value="1519,17,">entre</wi>
-<wi type="G" value="5209,18,">ustedes</wi>
-<wi type="G" value="1722,15,">en</wi>
-<wi type="G" value="3956,16,">todas las cosas</wi>. </t>
+<wi type="G" value="235,7,"/><wi type="G" value="3756,8,">no</wi> en
+<wi type="G" value="3588,9,"><wi type="G" value="1108,10,">conocimiento</wi></wi>.
+<wi type="G" value="235,11,">Más</wi>
+<wi type="G" value="1722,12,">del</wi>
+<wi type="G" value="3956,13,">todo</wi> </t>
+<rb xml:lang="es"><wi type="G" value="5319,14,">hemos dado a conocer,</wi><rf>
+<citebib id="WEB"/> dice `en toda forma hemos sido revelados a ustedes
+en todas las cosas´,
+<citebib id="KJV2003"/> dice `hemos sido completamente hechos manifiestos
+entre ustedes en todas las cosas,´
+<citebib id="RVG2012"/> dice `en todo ya somos del todo manifiestos a ustedes,´
+<citebib id="RV1960"/> dice `en todo y por todo os lo hemos demostrado,´
+<citebib id="DHH"/> dice `y esto lo hemos demostrado
+a ustedes siempre y en todos nuestros hechos.´
+Según <citebib id="Thayer-BLB"/> el verbo griego `φανερωθεντες´
+se traduce como hacer manifiesto o visible lo que ha estado
+escondido o desconocido.
+La palabra
+</rf></rb>
+y <wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="3956,16,">todo</wi>
+<wi type="G" value="1519,17,">a</wi>
+<wi type="G" value="5209,18,">ustedes</wi>. </t>
 </sv>
 <sv id="b2_Corinthians-11-7">
 Or did I commit a sin in humbling myself
@@ -4560,10 +4574,34 @@ así
 <sv id="b2_Corinthians-11-10">
 As the truth of Christ is in me, no
 one will stop me from this boasting in the regions of Achaia.
+<t xml:lang="es"><wi type="G" value="3754,6,">Como</wi>
+<wi type="G" value="225,2,">la verdad</wi>
+<wi type="G" value="5547,3,">de Cristo</wi>
+<wi type="G" value="2076,1,">está</wi>
+<wi type="G" value="1722,4,">en</wi>
+<wi type="G" value="1698,5,">mi</wi>,
+<wi type="G" value="3756,10,">nadie</wi>
+<wi type="G" value="1519,12,"/><wi type="G" value="1691,13,">me</wi>
+<wi type="G" value="4972,11,">detendrá</wi>
+<wi type="G" value="3778,9,">de esta</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="2746,8,">gloria</wi></wi>
+<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2824,16,">las regiones</wi></wi>
+<wi type="G" value="3588,17,"><wi type="G" value="882,18,">de Acaya</wi></wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-11-11">
 Why?
 Because I don´t love you? God knows.
+<t xml:lang="es">¿<wi type="G" value="1223,1,">Por</wi>
+<wi type="G" value="5101,2,3,">qué</wi>?
+¿Es <wi type="G" value="3754,3,">qué</wi>
+<wi type="G" value="3756,4,">no</wi>
+<wi type="G" value="5209,6,">los</wi>
+<wi type="G" value="25,5,">amo</wi>?
+<wi type="G" value="3588,7,"><wi type="G" value="2316,8,,">Dios</wi></wi>
+<wi type="G" value="1492,9,">lo sabe</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-11-12">
 But what I do, that I will do,
