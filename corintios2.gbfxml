@@ -4498,6 +4498,7 @@ se traduce como hacer manifiesto o visible lo que ha estado
 escondido o desconocido.
 La palabra
 </rf></rb>
+<t xml:lang="es">
 y <wi type="G" value="1722,15,">en</wi>
 <wi type="G" value="3956,16,">todo</wi>
 <wi type="G" value="1519,17,">a</wi>
@@ -4607,10 +4608,38 @@ Because I don´t love you? God knows.
 But what I do, that I will do,
 that I may cut off occasion from them that desire an occasion, that in which
 they boast, they may be found even as we.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="3739,1,">lo que</wi>
+<wi type="G" value="4160,3,">hago</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="4160,5,">haré</wi>,
+<wi type="G" value="2443,6,">para</wi>
+<wi type="G" value="1581,7,">cortarle</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="874,9,">ocasión</wi></wi>
+<wi type="G" value="3588,10,">a los que</wi>
+<wi type="G" value="2309,11,">desean</wi>
+<wi type="G" value="874,12,">una ocasión</wi>,
+<wi type="G" value="2443,13,"/><wi type="G" value="1722,14,">de</wi> 
+<wi type="G" value="3739,15,">la cual</wi>
+<wi type="G" value="2744,16,">gloriarse</wi>,
+<wi type="G" value="2147,17,">para ser hallados</wi>
+<wi type="G" value="2532,19,">así</wi>
+<wi type="G" value="2531,18,">como</wi>
+<wi type="G" value="2249,20,">nosotros</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-11-13">
 For such men are false
 apostles, deceitful workers, masquerading as Christ´s apostles.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="5108,3,">tales</wi> son
+<wi type="G" value="5570,4,">falsos apóstoles</wi>,
+<wi type="G" value="2040,5,">trabajadores</wi>
+<wi type="G" value="1386,6,">engañosos</wi>,
+<wi type="G" value="3345,7,">haciéndose pasar</wi>
+<wi type="G" value="1519,8,">por</wi>
+<wi type="G" value="652,9,">apóstoles</wi>
+<wi type="G" value="5547,10,">de Cristo</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-11-14">
 And no
