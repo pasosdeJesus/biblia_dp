@@ -4725,11 +4725,22 @@ boasting.
 </sv>
 <sv id="b2_Corinthians-11-18">
 Seeing that many boast after the flesh, I will also boast.
-
+<t xml:lang="es"><wi type="G" value="1893,1,">Viendo que</wi> 
+<wi type="G" value="4183,2,">muchos</wi> 
+<wi type="G" value="2744,3,">se glorian</wi> 
+<wi type="G" value="2596,4,">respecto a</wi> 
+<wi type="G" value="3588,5,"><wi type="G" value="4561,6,">la carne</wi></wi>, 
+<wi type="G" value="2504,7,">yo</wi> 
+<wi type="G" value="2744,8,">me gloriaré</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-11-19">
-For you
-<wi type="T" value="P"/> bear with the foolish gladly, being wise.
+For you bear with the foolish gladly, being wise.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> 
+<wi type="G" value="430,3,">ustedes soportan</wi> 
+<wi type="G" value="2234,1,">alegres</wi> a 
+<wi type="G" value="3588,4,"/><wi type="G" value="878,5,">los necios</wi>, 
+<wi type="G" value="5607,7,">siendo</wi> 
+<wi type="G" value="5429,6,">sabios</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-11-20">
 For
