@@ -4725,33 +4725,70 @@ boasting.
 </sv>
 <sv id="b2_Corinthians-11-18">
 Seeing that many boast after the flesh, I will also boast.
-<t xml:lang="es"><wi type="G" value="1893,1,">Viendo que</wi> 
-<wi type="G" value="4183,2,">muchos</wi> 
-<wi type="G" value="2744,3,">se glorian</wi> 
-<wi type="G" value="2596,4,">respecto a</wi> 
-<wi type="G" value="3588,5,"><wi type="G" value="4561,6,">la carne</wi></wi>, 
-<wi type="G" value="2504,7,">yo</wi> 
+<t xml:lang="es"><wi type="G" value="1893,1,">Viendo que</wi>
+<wi type="G" value="4183,2,">muchos</wi>
+<wi type="G" value="2744,3,">se glorian</wi>
+<wi type="G" value="2596,4,">respecto a</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="4561,6,">la carne</wi></wi>,
+<wi type="G" value="2504,7,">yo</wi>
 <wi type="G" value="2744,8,">me gloriaré</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-11-19">
 For you bear with the foolish gladly, being wise.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> 
-<wi type="G" value="430,3,">ustedes soportan</wi> 
-<wi type="G" value="2234,1,">alegres</wi> a 
-<wi type="G" value="3588,4,"/><wi type="G" value="878,5,">los necios</wi>, 
-<wi type="G" value="5607,7,">siendo</wi> 
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="430,3,">ustedes soportan</wi>
+<wi type="G" value="2234,1,">alegres</wi> a
+<wi type="G" value="3588,4,"/><wi type="G" value="878,5,">los necios</wi>,
+<wi type="G" value="5607,7,">siendo</wi>
 <wi type="G" value="5429,6,">sabios</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-11-20">
-For
-you
-<wi type="T" value="P"/> bear with a man, if he brings you into bondage, if he devours you,
+For you
+ bear with a man, if he brings you into bondage, if he devours you,
 if he takes you captive, if he exalts himself, if he strikes you on the face.
-
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="430,1,">ustedes soportan</wi>
+<wi type="G" value="1487,3,">si</wi>
+<wi type="G" value="5100,4,">alguno</wi>,
+<wi type="G" value="5209,5,">los</wi>
+<wi type="G" value="2615,6,">esclaviza</wi>,
+<wi type="G" value="1487,7,">si</wi>
+<wi type="G" value="5100,8,">alguno</wi>,
+los <wi type="G" value="2719,9,">devora</wi>,
+<wi type="G" value="1487,10,">si</wi>
+<wi type="G" value="5100,11,">alguno</wi>
+los <wi type="G" value="2983,12,">lleva cautivos</wi>,
+<wi type="G" value="1487,13,">si</wi>
+<wi type="G" value="5100,14,">alguno</wi>
+<wi type="G" value="1869,15,">se exalta a si mismo</wi>,
+<wi type="G" value="1487,16,">si</wi>
+<wi type="G" value="5100,17,">alguno</wi>
+<wi type="G" value="5209,18,">los</wi>
+<wi type="G" value="1194,21,">golpea</wi>
+<wi type="G" value="1519,19,">en</wi>
+<wi type="G" value="4383,20,">el rostro</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-11-21">
 I speak by way of disparagement, as though we had been weak. Yet
 however any is bold (I speak in foolishness), I am bold also.
+<t xml:lang="es"><wi type="G" value="3004,3,">Hablo</wi>
+<wi type="G" value="2596,1,">respecto a</wi>
+<wi type="G" value="819,2,">la deshonra</wi>,
+<wi type="G" value="5613,4,">como</wi>
+<wi type="G" value="3754,5,">si</wi>
+<wi type="G" value="2249,6,">nosotros</wi>
+<wi type="G" value="770,7,">fuéramos débiles</wi>.
+<wi type="G" value="1161,10,">Pero</wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="3739,9,">lo que</wi>
+<wi type="G" value="302,11,"/><wi type="G" value="5100,12,">cualquiera</wi>
+<wi type="G" value="5111,13,">es valiente</wi>
+(<wi type="G" value="3004,16,">hablo</wi>
+<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="877,15,">locura</wi>),
+<wi type="G" value="2504,18,">yo</wi>
+<wi type="G" value="5111,17,">soy valiente</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-11-22">
 Are they
