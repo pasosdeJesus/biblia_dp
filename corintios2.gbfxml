@@ -4791,14 +4791,45 @@ however any is bold (I speak in foolishness), I am bold also.
 </t>
 </sv>
 <sv id="b2_Corinthians-11-22">
-Are they
-Hebrews? So am I. Are they Israelites? So am I. Are they the seed of Abraham?
+Are they Hebrews? So am I. Are they Israelites?
+So am I. Are they the seed of Abraham?
 So am I.
+<t xml:lang="es">¿<wi type="G" value="1526,2,">Son</wi>
+<wi type="G" value="1445,1,">hebreos</wi>?
+<wi type="G" value="2504,3,">Yo</wi> lo soy.
+¿<wi type="G" value="1526,5,">Son ellos</wi>
+<wi type="G" value="2475,4,">Israelitas</wi>?
+<wi type="G" value="2504,6,">Yo</wi> lo soy.
+¿<wi type="G" value="1526,9,">Son ellos</wi>
+<wi type="G" value="4690,7,">semilla</wi>
+<wi type="G" value="11,8,">de Abraham</wi>?
+<wi type="G" value="2504,10,">Yo</wi> lo soy.</t>
 </sv>
 <sv id="b2_Corinthians-11-23">
 Are they servants of Christ? (I speak as one beside himself) I
 am more so; in labors more abundantly, in prisons more abundantly, in stripes
 above measure, in deaths often.
+<t xml:lang="es">
+¿<wi type="G" value="1526,3,">Son ellos</wi>
+<wi type="G" value="1249,1,">siervos</wi>
+<wi type="G" value="5547,2,">de Cristo</wi>?
+(<wi type="G" value="2980,5,">hablo</wi> como
+<wi type="G" value="3912,4,">loco</wi>)
+<wi type="G" value="1473,7,">Yo</wi> lo soy
+<wi type="G" value="5228,6,">más</wi>;
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="2873,9,">obras</wi>
+<wi type="G" value="4056,10,">más abundantemente</wi>,
+<wi type="G" value="1722,11,">en</wi>
+<wi type="G" value="4127,12,">azotes</wi>
+<wi type="G" value="5234,13,">sin medida</wi>,
+<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="5438,15,">prisión</wi>
+<wi type="G" value="4056,16,">más frecuente</wi>,
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="2288,18,">muertes</wi>
+<wi type="G" value="4178,19,">comúnmente</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-11-24">
 Five times from the Jews I received
