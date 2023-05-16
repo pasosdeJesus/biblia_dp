@@ -4854,19 +4854,75 @@ the deep.
 <wi type="G" value="3489,6,">naufragios</wi>.
 <wi type="G" value="4160,11,">He estado</wi>
 <wi type="G" value="3574,7,">noche y día</wi>
-<wi type="G" value="1722,8,">en</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="1037,10,">lo profundo</wi></wi>.</t>
+<wi type="G" value="1722,8,">en</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,9,"><wi type="G" value="1037,10,">lo
+profundo</wi></wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `en lo profundo,´
+<citebib id="RVG2012"/> dice `en lo profundo del mar.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `βυθῷ´
+se traduce como el fondo del mar.
+ </rf></rb>
+<t xml:lang="es">.</t>
 </sv>
 <sv id="b2_Corinthians-11-26">
 I have been in travels often, perils of rivers, perils of
 robbers, perils from my countrymen, perils from the Gentiles, perils in the
 city, perils in the wilderness, perils in the sea, perils among false
 brothers;
+<t xml:lang="es"><wi type="G" value="4178,2,">A menudo</wi> he estado en
+<wi type="G" value="3597,1,">viajes</wi>,
+con <wi type="G" value="2794,3,">peligros</wi> en
+<wi type="G" value="4215,4,">ríos</wi>,
+<wi type="G" value="2794,5,">peligros</wi>
+<wi type="G" value="3027,6,">de ladrones</wi>,
+<wi type="G" value="2794,7,">peligros</wi>
+<wi type="G" value="1537,8,">por</wi> mis
+<wi type="G" value="1085,9,">coetáneos</wi>,
+<wi type="G" value="2794,10,">peligros</wi>
+<wi type="G" value="1537,11,">por</wi>
+<wi type="G" value="1484,12,">los Gentiles</wi>,
+<wi type="G" value="2794,13,">peligros</wi>
+<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="4172,15,">la ciudad</wi>,
+<wi type="G" value="2794,16,">peligros</wi>
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="2047,18,">el desierto</wi>,
+<wi type="G" value="2794,19,">peligros</wi>
+<wi type="G" value="1722,20,">en</wi>
+<wi type="G" value="2281,21,">el mar</wi>,
+<wi type="G" value="2794,22,">peligros</wi>
+<wi type="G" value="1722,23,">entre</wi>
+<wi type="G" value="5569,24,">falsos hermanos</wi>;</t>
 </sv>
 <sv id="b2_Corinthians-11-27">
 in labor and travail, in watchings often, in hunger and
 thirst, in fastings often, and in cold and nakedness.
-
+<t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="2873,2,">trabajo</wi>
+<wi type="G" value="2532,3,">y</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3449,4,">dolor</wi><rf>
+<citebib id="WEB"/> dice `travail,´
+<citebib id="KJV2003"/> dice `painfulness,´
+<citebib id="RVG2012"/> dice `fatigas.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `μόχθος´
+se traduce como un trabajo difícil y duro.
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="70,6,">vigilias</wi>
+<wi type="G" value="4178,7,">frecuentes</wi>,
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="3042,9,">hambre</wi>
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="1373,11,">sed</wi>,
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="3521,13,">ayunos</wi>
+<wi type="G" value="4178,14,">frecuentes</wi>,
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="5592,16,">frío</wi>
+<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="1132,18,">desnudez</wi>.
+</t>
 </sv></cm><cm>
 
 <sv id="b2_Corinthians-11-28">
