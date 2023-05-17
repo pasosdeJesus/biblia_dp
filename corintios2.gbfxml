@@ -4928,10 +4928,44 @@ se traduce como un trabajo difícil y duro.
 <sv id="b2_Corinthians-11-28">
 Besides those things that are outside, there is that which presses on
 me daily, anxiety for all the assemblies.
+<rb xml:lang="es"><wi type="G" value="5565,1,">Además</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="3924,3,">fuera de esto</wi>
+<rf><citebib id="WEB"/> dice 
+`además de esas cosas que están afuera,´
+<citebib id="KJV2003"/> dice `Además de las cosas que están fuera,´
+<citebib id="RVG2012"/> dice `sin otras cosas además.
+Según <citebib id="Thayer-BLB"/> el adverbio griego `χωρις´ se 
+traduce como aparte, además, y el adverbio `παρεκτος´ se traduce
+como excepto, con la excepción, además. </rf></rb>
+<t xml:lang="es">, está
+<wi type="G" value="3588,4,">lo que</wi>
+<wi type="G" value="3450,6,">me</wi>
+<wi type="G" value="1999,5,">agobia</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="2596,8,"/><wi type="G" value="2250,9,">diariamente</wi>,
+<wi type="G" value="3588,10,"><wi type="G" value="3308,11,">el cuidado</wi></wi>
+<wi type="G" value="3956,12,">por todas</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1577,14,">las iglesias</wi></wi>.</t>
 </sv>
 <sv id="b2_Corinthians-11-29">
 Who is weak, and I am not
 weak? Who is caused to stumble, and I don´t burn with indignation?
+<t xml:lang="es">¿<wi type="G" value="5101,1,">Quién</wi> </t>
+<rb xml:lang="es"><wi type="G" value="770,2,">es débil</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen débil,
+<citebib id="RVG2012"/> dice enfermo. Según
+<citebib id="Thayer-BLB"/> el verbo `ασθενει´ se
+traduce como débil, sin fuerza, necesitado, pobre o enfermo.</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="3756,4,">no</wi>
+soy yo <wi type="G" value="770,5,">débil</wi>?
+¿<wi type="G" value="5101,6,">A quien</wi>
+<wi type="G" value="4624,7,">se escandaliza</wi>,
+<wi type="G" value="2532,8,">y</wi>
+yo <wi type="G" value="3756,9,">no</wi>
+<wi type="G" value="1473,10,">me</wi>
+<wi type="G" value="4448,11,">quemo</wi>?
+</t>
 </sv>
 <sv id="b2_Corinthians-11-30">
 If I
