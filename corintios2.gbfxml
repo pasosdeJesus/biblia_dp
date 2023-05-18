@@ -4930,11 +4930,11 @@ Besides those things that are outside, there is that which presses on
 me daily, anxiety for all the assemblies.
 <rb xml:lang="es"><wi type="G" value="5565,1,">Además</wi>
 <wi type="G" value="3588,2,"/><wi type="G" value="3924,3,">fuera de esto</wi>
-<rf><citebib id="WEB"/> dice 
+<rf><citebib id="WEB"/> dice
 `además de esas cosas que están afuera,´
 <citebib id="KJV2003"/> dice `Además de las cosas que están fuera,´
 <citebib id="RVG2012"/> dice `sin otras cosas además.
-Según <citebib id="Thayer-BLB"/> el adverbio griego `χωρις´ se 
+Según <citebib id="Thayer-BLB"/> el adverbio griego `χωρις´ se
 traduce como aparte, además, y el adverbio `παρεκτος´ se traduce
 como excepto, con la excepción, además. </rf></rb>
 <t xml:lang="es">, está
@@ -4970,11 +4970,33 @@ yo <wi type="G" value="3756,9,">no</wi>
 <sv id="b2_Corinthians-11-30">
 If I
 must boast, I will boast of the things that concern my weakness.
+<t xml:lang="es"><wi type="G" value="1487,1,">Si</wi>
+<wi type="G" value="1163,3,">debo</wi>
+<wi type="G" value="2744,2,">gloriarme</wi>,
+<wi type="G" value="2744,8,">me gloriaré</wi>
+<wi type="G" value="3588,4,">de</wi>
+<wi type="G" value="3588,5,">lo que</wi> es 
+<wi type="G" value="3450,7,">mi</wi>
+<wi type="G" value="769,6,">debilidad</wi></wi>.</t>
 </sv>
 <sv id="b2_Corinthians-11-31">
-The
-God and Father of the Lord Jesus Christ, he who is blessed forevermore, knows
-that I don´t lie.
+The God and Father of the Lord Jesus Christ,
+he who is blessed forevermore, knows that I don´t lie.
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="2316,2,">El Dios</wi></wi>
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="3962,4,">Padre</wi>
+<wi type="G" value="2257,7,">de nuestro</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2962,6,">Señor</wi></wi>
+<wi type="G" value="2424,8,">Jesús</wi>
+<wi type="G" value="5547,9,">Cristo</wi>,
+<wi type="G" value="3588,11,"/><wi type="G" value="5607,12,">que es</wi>
+<wi type="G" value="2128,13,">bendito</wi>
+<wi type="G" value="1519,14,">por</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="165,16,">siempre</wi></wi>,
+<wi type="G" value="1492,10,">sabe</wi>
+<wi type="G" value="3754,17,">que</wi>
+<wi type="G" value="3756,18,">no</wi>
+<wi type="G" value="5574,19,">miento</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-11-32">
 In Damascus the governor under Aretas the king
