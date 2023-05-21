@@ -5082,10 +5082,38 @@ lo <wi type="G" value="1492,18,">se</wi>,
 I
 know such a man (whether in the body, or outside of the body, I don´t know;
 God knows),
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="1492,2,">conocí a</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="5108,4,">tal</wi>
+<wi type="G" value="444,5,">hombre</wi>
+(<wi type="G" value="1535,9,">si</wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="4983,8,">el cuerpo</wi>,
+<wi type="G" value="1535,6,">o</wi>
+<wi type="G" value="1622,10,">fuera</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="4983,12,">del cuerpo</wi></wi>,
+<wi type="G" value="3756,13,">no</wi> lo
+<wi type="G" value="1492,14,">se</wi>;
+<wi type="G" value="3588,15,"><wi type="G" value="2316,16,">Dios</wi></wi>
+lo <wi type="G" value="1492,17,">sabe</wi>),</t>
 </sv>
 <sv id="b2_Corinthians-12-4">
 how he was caught up into Paradise, and heard unspeakable
 words, which it is not lawful for a man to utter.
+<t xml:lang="es"><wi type="G" value="3754,1,">como</wi>
+<wi type="G" value="726,2,">fue llevado</wi>
+<wi type="G" value="1519,3,">al</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="3857,5,">paraíso</wi></wi>,
+<wi type="G" value="2532,6,">y</wi>
+que <wi type="G" value="191,7,">escuchó</wi>
+<wi type="G" value="4487,9,">palabras</wi>
+<wi type="G" value="731,8,">impronunciables</wi>,
+<wi type="G" value="3739,10,">que</wi>
+<wi type="G" value="3756,11,">no</wi>
+<wi type="G" value="1832,12,">es permitido</wi> que
+<wi type="G" value="444,13,">los hombres</wi>
+<wi type="G" value="2980,14,">pronuncien</wi>.
+</t>
 </sv>
 <sv id="b2_Corinthians-12-5">
 On behalf of such a
