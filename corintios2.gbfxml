@@ -5308,10 +5308,28 @@ mighty works.
 </sv>
 <sv id="b2_Corinthians-12-13">
 For what is there in which you
-<wi type="T" value="P"/> were made inferior to
+were made inferior to
 the rest of the assemblies, unless it is that I myself was not a burden to
 you? Forgive me this wrong.
-
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+¿<wi type="G" value="5101,1,">qué</wi>
+<wi type="G" value="2076,3,">es</wi>
+<wi type="G" value="3739,4,">en lo que</wi>
+<wi type="G" value="2274,5,">han sido inferiores</wi>
+<wi type="G" value="5228,6,">a</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="3062,8,">otras</wi>
+<wi type="G" value="1577,9,">iglesias</wi>,
+<wi type="G" value="3361,11,"/><wi type="G" value="1487,10,">excepto</wi>
+<wi type="G" value="3754,12,">en que</wi>
+<wi type="G" value="1473,14,">yo</wi>
+<wi type="G" value="846,13,">mismo</wi>
+<wi type="G" value="3756,15,">no</wi>
+<wi type="G" value="2655,16,">he sido carga</wi> para
+<wi type="G" value="5216,17,">ustedes</wi>?
+<wi type="G" value="5483,18,"><wi type="G" value="3427,19,">Perdónenme</wi></wi>
+<wi type="G" value="3778,22,">ese</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="93,21,">error</wi></wi>.
+</t>
 </sv></cm><cm>
 
 <sv id="b2_Corinthians-12-14">
@@ -5319,6 +5337,32 @@ Behold, this is the third time I am ready to come to you, and I will
 not be a burden to you; for I seek not your possessions, but you. For the
 children ought not to save up for the parents, but the parents for the
 children.
+<t xml:lang="es"><wi type="G" value="2400,1,">Observen</wi>, es
+<wi type="G" value="5154,2,">la tercera vez</wi> que
+<wi type="G" value="2192,4,">estoy</wi>
+<wi type="G" value="2093,3,">listo</wi>
+<wi type="G" value="2064,5,">para ir</wi>
+<wi type="G" value="4314,6,">donde</wi>
+<wi type="G" value="5209,7,">ustedes</wi>,
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="3756,9,">no</wi>
+<wi type="G" value="2655,10,">seré carga</wi>
+<wi type="G" value="5216,11,">para ustedes</wi>;
+<wi type="G" value="1063,13,">pues</wi>
+<wi type="G" value="3756,12,">no</wi>
+<wi type="G" value="2212,14,">busco</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="5216,16,">lo de ustedes</wi>
+<wi type="G" value="235,17,">sino</wi>
+<wi type="G" value="5209,18,">a ustedes</wi>.
+<wi type="G" value="1063,20,">Pues</wi>
+<wi type="G" value="3588,22,"><wi type="G" value="5043,23,">los hijos</wi></wi>
+<wi type="G" value="3756,19,">no</wi>
+<wi type="G" value="3784,21,">deberían</wi>
+<wi type="G" value="2343,26,">ahorrar</wi>  para
+<wi type="G" value="3588,24,"><wi type="G" value="1118,25,">los padres</wi></wi>,
+<wi type="G" value="235,27,">sino</wi>
+<wi type="G" value="3588,28,"><wi type="G" value="1118,29,">los padres</wi></wi>
+para <wi type="G" value="3588,30,"><wi type="G" value="5043,31,">los hijos</wi></wi>.</t>
 </sv>
 <sv id="b2_Corinthians-12-15">
 I will most gladly spend and be spent for your souls. If I
