@@ -5403,14 +5403,39 @@ myself burden you. But, being crafty, I caught you with deception.
 </t>
 </sv>
 <sv id="b2_Corinthians-12-17">
-Did
-I take advantage of you by anyone of them whom I have sent to you?
+Did I take advantage of you by anyone of them whom I have sent to you?
+<t xml:lang="es">
+¿<wi type="G" value="3361,1,"/><wi type="G" value="4122,9,">Me he aprovechado</wi>
+<wi type="G" value="4314,5,">de</wi>
+<wi type="G" value="5209,6,">ustedes</wi>
+<wi type="G" value="1223,7,">por</wi>
+<wi type="G" value="5100,2,">alguno</wi>
+<wi type="G" value="846,8,">de los</wi>
+<wi type="G" value="3739,3,">que</wi>
+<wi type="G" value="5209,10,">les</wi>
+<wi type="G" value="649,4,">he enviado</wi>?</t>
 </sv>
 <sv id="b2_Corinthians-12-18">
-I
-exhorted Titus, and I sent the brother with him. Did Titus take any advantage
-of you? Didn´t we walk in the same spirit? Didn´t we walk in the same steps?
-
+I exhorted Titus, and I sent the brother with him. Did Titus take any
+advantage of you? Didn´t we walk in the same spirit? Didn´t we walk in
+the same steps?
+<t xml:lang="es">
+<wi type="G" value="3870,1,">Animé a</wi>
+<wi type="G" value="5103,2,">Tito</wi>,
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="4882,4,">envié</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="80,6,">al hermano</wi></wi>.
+¿<wi type="G" value="5103,11,">Tito</wi>
+<wi type="G" value="3361,7,"/><wi type="G" value="5100,8,"/><wi type="G" value="4122,9,">se aprovechó</wi>
+<wi type="G" value="5209,10,">de ustedes</wi>?
+¿<wi type="G" value="3756,12,">No</wi>
+<wi type="G" value="4043,16,">caminamos</wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="846,14,">en el mismo</wi>
+<wi type="G" value="4151,15,">espíritu</wi>?
+¿<wi type="G" value="3756,17,">Ni</wi>
+<wi type="G" value="3588,18,"/><wi type="G" value="846,19,">en los mismos</wi>
+<wi type="G" value="2487,20,">pasos</wi>?
+</t>
 </sv>
 <sv id="b2_Corinthians-12-19">
 Again, do you
