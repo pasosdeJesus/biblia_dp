@@ -5660,19 +5660,49 @@ unless indeed you are disqualified.
 </sv>
 <sv id="b2_Corinthians-13-6">
 But I hope that you will know that we aren´t disqualified.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="1679,1,">espero</wi>
+<wi type="G" value="3754,3,">que</wi>
+<wi type="G" value="1097,4,">sepan</wi>
+<wi type="G" value="3754,5,">que</wi>
+<wi type="G" value="2249,6,">nosotros</wi>
+<wi type="G" value="3756,7,">no</wi>
+<wi type="G" value="2070,8,">estamos</wi>
+<wi type="G" value="96,9,">descalificados</wi>.</t>
 
 </sv></cm><cm>
 
 <sv id="b2_Corinthians-13-7">
-Now I pray to God that you
-<wi type="T" value="P"/> do no evil; not that we may appear
+Now I pray to God that you do no evil; not that we may appear
 approved, but that you
-<wi type="T" value="P"/> may do that which is honorable, though we are as
-reprobate.
+may do that which is honorable, though we are as reprobate.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="2172,1,">oro</wi>
+<wi type="G" value="4314,3,">a</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2316,5,">Dios</wi></wi> que
+<wi type="G" value="5209,8,">ustedes</wi>
+<wi type="G" value="3367,10,">no</wi>
+<wi type="G" value="3361,6,"/><wi type="G" value="4160,7,">hagan</wi>
+<wi type="G" value="2556,9,">mal</wi>;
+<wi type="G" value="3756,11,">no</wi>
+<wi type="G" value="2443,12,">para que</wi>
+<wi type="G" value="2249,13,">nosotros</wi>
+<wi type="G" value="5316,15,">parezcamos</wi>
+<wi type="G" value="1384,14,">aprobados</wi>,
+<wi type="G" value="235,16,">sino</wi>
+<wi type="G" value="2443,17,">que</wi>
+<wi type="G" value="5210,18,">ustedes</wi>
+<wi type="G" value="4160,21,">hagan</wi>
+<wi type="G" value="3588,19,">lo que</wi>
+<wi type="G" value="2570,20,">es honorable</wi>,
+<wi type="G" value="1161,23,">aún cuando</wi>
+<wi type="G" value="2249,22,">nosotros</wi>
+<wi type="G" value="5600,26,">seamos</wi>
+<wi type="G" value="5613,24,">como</wi>
+<wi type="G" value="96,25,">reprobados</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-13-8">
 For we can do nothing against the truth, but for the truth.
-
 </sv>
 <sv id="b2_Corinthians-13-9">
 For we rejoice when we are weak and you
