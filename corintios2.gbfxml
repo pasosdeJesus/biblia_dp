@@ -5703,11 +5703,34 @@ may do that which is honorable, though we are as reprobate.
 </sv>
 <sv id="b2_Corinthians-13-8">
 For we can do nothing against the truth, but for the truth.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3756,1,">nada</wi>
+<wi type="G" value="1410,3,">podemos hacer</wi>
+<wi type="G" value="5100,4,"/><wi type="G" value="2596,5,">contra</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="225,7,">la verdad</wi></wi>,
+<wi type="G" value="235,8,">sino</wi>
+<wi type="G" value="5228,9,">por</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="225,11,">la</wi></wi> verdad.</t>
 </sv>
 <sv id="b2_Corinthians-13-9">
 For we rejoice when we are weak and you
-<wi type="T" value="P"/> are strong. And this we
+are strong. And this we
 also pray for, even your perfecting.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2249,4,">nos</wi>
+<wi type="G" value="5463,1,">gozamos</wi>
+<wi type="G" value="3752,3,">cuando</wi>
+<wi type="G" value="770,5,">somos débiles</wi>
+<wi type="G" value="1161,7,">y</wi>
+<wi type="G" value="5210,6,">ustedes</wi>
+<wi type="G" value="5600,9,">son</wi>
+<wi type="G" value="1415,8,">fuertes</wi>.
+<wi type="G" value="1161,11,">Y</wi>
+<wi type="G" value="2532,12,">también</wi>
+<wi type="G" value="2172,13,">rogamos</wi>
+<wi type="G" value="5124,10,">por esto</wi>, por
+<wi type="G" value="3588,14,"/><wi type="G" value="5216,15,">su</wi>
+<wi type="G" value="2676,16,">perfeccionamiento</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-13-10">
 For this cause I write these
