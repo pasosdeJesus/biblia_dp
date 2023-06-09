@@ -5784,22 +5784,38 @@ mind, live in peace, and the God of love and peace will be with you.
 </sv>
 <sv id="b2_Corinthians-13-12">
 Greet one another with a holy kiss.
+<t xml:lang="es"><wi type="G" value="782,1,">Salúdense</wi>
+<wi type="G" value="240,2,">unos a otros</wi>
+<wi type="G" value="1722,3,">con</wi>
+<wi type="G" value="5370,5,">un beso</wi>
+<wi type="G" value="40,4,">santo</wi>.</t>
 </sv>
 <sv id="b2_Corinthians-13-13">
 All the saints greet you.
-
+<t xml:lang="es"><wi type="G" value="3956,5,">Que todos</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="40,4,">los santos</wi>
+<wi type="G" value="5209,2,">los</wi>
+<wi type="G" value="782,1,">saluden</wi></t>
 </sv>
 <sv id="b2_Corinthians-13-14">
 The grace of the Lord Jesus Christ, the love of God, and the communion
 of the Holy Spirit, be with you all. Amen.
-
+<t xml:lang="es">Que <wi type="G" value="3588,1,"><wi type="G" value="5485,2,">la gracia</wi></wi> 
+<wi type="G" value="3588,3,"><wi type="G" value="2962,4,">del Señor</wi></wi> 
+<wi type="G" value="2424,5,">Jesús</wi> 
+<wi type="G" value="5547,6,">Cristo</wi>, 
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="26,9,">el amor</wi></wi> 
+<wi type="G" value="3588,10,"><wi type="G" value="2316,11,">de Dios</wi></wi>,
+<wi type="G" value="2532,12,">y</wi> 
+<wi type="G" value="3588,13,"><wi type="G" value="2842,14,">la comunión</wi></wi> 
+<wi type="G" value="3588,15,"><wi type="G" value="40,16,">del Santo</wi></wi> 
+<wi type="G" value="4151,17,">Espíritu</wi>, 
+estén <wi type="G" value="3326,18,">con</wi> 
+<wi type="G" value="3956,19,">todos</wi> 
+<wi type="G" value="5216,20,">ustedes</wi>. 
+<wi type="G" value="281,21,">Amén</wi>.</t>
 <cl/>
-
-
 <cl/>
-
-
 </sv></cm></sc>
 </sb>
-
-
