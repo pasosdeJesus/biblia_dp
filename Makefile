@@ -5,7 +5,7 @@
 
 include Make.inc
 
-SOURCE_GBFXML=mateo.gbfxml marcos.gbfxml lucas.gbfxml juan.gbfxml hechos.gbfxml romanos.gbfxml corintios1.gbfxml corintios2.gbfxml
+SOURCE_GBFXML=mateo.gbfxml marcos.gbfxml lucas.gbfxml juan.gbfxml hechos.gbfxml romanos.gbfxml corintios1.gbfxml corintios2.gbfxml galatas.gbfxml
 
 EXT_DOCBOOK=xdbk
 

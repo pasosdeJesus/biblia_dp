@@ -25,7 +25,7 @@ nuestro
 <wi type="G" value="3588,14,"><wi type="G" value="2316,15,">de Dios</wi></wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="5607,17,">que está</wi>
 <wi type="G" value="1722,18,">en</wi>
-<wi type="G" value="2882,19,">Corintio</wi>,
+<wi type="G" value="2882,19,">Corinto</wi>,
 <wi type="G" value="4862,20,">con</wi>
 <wi type="G" value="3956,23,">todos</wi>
 <wi type="G" value="3588,21,"/><wi type="G" value="40,22,">los santos</wi>
@@ -198,7 +198,7 @@ have you uninformed,
 context allows may also be correctly translated «brothers and sisters» or
 «siblings.»<t xml:lang="es">
 La palabra para «hermanos» aqui y donde el contexto lo permite puede
-traducirse correctamente como «hermanos y hermanas.»
+traducirse correctamente como «hermanos y hermanas».
 </t></rf>
 </rb>
  concerning our affliction which happened to us in Asia, that
@@ -303,7 +303,7 @@ that, for the gift bestowed on us by means of many,
 <wi type="G" value="2248,14,">nosotros</wi> fue
 <wi type="G" value="1537,9,">por intermedio</wi>
 <wi type="G" value="4183,10,">de muchas</wi>
-<wi type="G" value="4383,11,">personas</wi>,<rf>
+<wi type="G" value="4383,11,">personas</wi><rf>
 <citebib id="WEB"/> dice `que, por el don que nos ha sido otorgado por
 medio de muchos,´
 <citebib id="RV1960"/> dice `por el don concedido a nosotros por medio de
@@ -315,7 +315,8 @@ preferimos el verbo "fue"
 </rf></rb>
 
 thanks may be given by many persons on your behalf.
-<t xml:lang="es"><wi type="G" value="1223,16,">para que</wi>
+<t xml:lang="es">,
+<wi type="G" value="1223,16,">para que</wi>
 <wi type="G" value="4183,17,">muchos</wi>
 <wi type="G" value="2168,18,">den gracias</wi>
 <wi type="G" value="5228,19,">de parte</wi>
@@ -343,8 +344,14 @@ se traduce como orgullo, gozo, gloria, en lo que me glorio.
 <wi type="G" value="2257,11,">de nuestra</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="4893,10,">conciencia</wi></wi>,
 <wi type="G" value="3754,12,">que</wi>
-<wi type="G" value="1722,13,">en</wi>
-<wi type="G" value="572,14,">santidad</wi>
+<wi type="G" value="1722,13,">en</wi> </t>
+<rb xml:lang="es"><wi type="G" value="572,14,">simplicidad</wi><rf>
+<citebib id="WEB"/> dice `santidad,´
+<citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen `simplicidad.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `ἁπλότητι´ se
+traduce como la virtud del que está libre de presunción e hipocrecia,
+no buscador de lo propio, generoso.
+</rf></rb>
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="1505,16,">sinceridad</wi>
 <wi type="G" value="2316,17,">de Dios</wi>,
@@ -519,7 +526,7 @@ toward you was not «Yes and no.»
 <wi type="G" value="1096,13,">fue</wi>
 «<wi type="G" value="3483,14,">Si</wi>
 <wi type="G" value="2532,15,">y</wi>
-<wi type="G" value="3756,16,">no</wi>.»</t>
+<wi type="G" value="3756,16,">no</wi>».</t>
 </sv>
 <sv id="b2_Corinthians-1-19">
 For the Son of God, Jesus Christ, who
@@ -551,7 +558,7 @@ no,» but in him is «Yes.»
 <wi type="G" value="1722,27,">en</wi>
 <wi type="G" value="846,28,">Él</wi>
 <wi type="G" value="1096,29,">ha sido</wi>
-«<wi type="G" value="3483,26,">Si</wi>.»
+«<wi type="G" value="3483,26,">Si</wi>».
 </t>
 </sv>
 <sv id="b2_Corinthians-1-20">
@@ -1701,7 +1708,7 @@ therefore I spoke.» We also believe, and therefore also we speak;
 <wi type="G" value="1125,10,">está escrito</wi>
 «<wi type="G" value="4100,11,">Creí</wi>,
 <wi type="G" value="1352,12,">y por eso</wi>
-<wi type="G" value="2980,13,">hablé</wi>.»
+<wi type="G" value="2980,13,">hablé</wi>».
 <wi type="G" value="2532,14,">También</wi>
 <wi type="G" value="2249,15,">nosotros</wi>
 <wi type="G" value="4100,16,">creímos</wi>,
@@ -2644,7 +2651,7 @@ people.»
 <wi type="G" value="846,29,">ellos</wi>
 <wi type="G" value="2071,30,">serán</wi>
 <wi type="G" value="3427,31,">mi</wi>
-<wi type="G" value="2992,32,">pueblo</wi>.»
+<wi type="G" value="2992,32,">pueblo</wi>».
 </t>
 </sv>
 <sv id="b2_Corinthians-6-17">
@@ -2696,7 +2703,7 @@ You will be to me sons and daughters,´
 says the Lord Almighty.»
 <t xml:lang="es"><wi type="G" value="3004,14,">dice</wi>
 <wi type="G" value="2962,15,">el Señor</wi>
-<wi type="G" value="3841,16,">Todopoderoso</wi>.»</t>
+<wi type="G" value="3841,16,">Todopoderoso</wi>».</t>
 </sv></cm></sc>
 <sc id="b2_Corinthians-7">
 <cm>
@@ -3404,7 +3411,7 @@ tuvo
 tuvo
 <wi type="G" value="3588,10,"><wi type="G" value="3641,11,">poco</wi></wi>
 <wi type="G" value="3756,12,">no</wi>
-<wi type="G" value="1641,13,">le faltó</wi>.»</t>
+<wi type="G" value="1641,13,">le faltó</wi>».</t>
 </sv></cm><cm>
 
 <sv id="b2_Corinthians-8-16">
@@ -3804,7 +3811,7 @@ His righteousness remains forever.»
 <wi type="G" value="3588,7,"><wi type="G" value="1343,8,">rectitud</wi></wi>
 <wi type="G" value="3306,10,">permanece</wi>
 <wi type="G" value="1519,11,">para</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="165,13,">siempre</wi></wi>.»</t>
+<wi type="G" value="3588,12,"><wi type="G" value="165,13,">siempre</wi></wi>».</t>
 </fp>
 <cl/>
 </sv>
@@ -4168,7 +4175,7 @@ es
 <wi type="G" value="772,14,">débil</wi>,
 <wi type="G" value="2532,15,">y</wi> su
 <wi type="G" value="3588,16,"><wi type="G" value="3056,17,">discurso</wi></wi>
-<wi type="G" value="1848,18,">menospreciable</wi>.»</t>
+<wi type="G" value="1848,18,">menospreciable</wi>».</t>
 </sv>
 <sv id="b2_Corinthians-10-11">
 Let such a person
@@ -4336,7 +4343,7 @@ But «he who boasts, let him boast in the Lord.»
 <wi type="G" value="2744,3,">se glorie</wi>, que
 <wi type="G" value="2744,6,">se glorie</wi>
 <wi type="G" value="1722,4,">en</wi>
-<wi type="G" value="2962,5,">el Señor</wi>.»
+<wi type="G" value="2962,5,">el Señor</wi>».
 </sv>
 <sv id="b2_Corinthians-10-18">
 For it isn´t he who commends himself who is approved,
@@ -5216,7 +5223,7 @@ Christ may rest on me.
 <wi type="G" value="1411,11,">poder</wi>
 <wi type="G" value="5048,15,">se perfecciona</wi>
 <wi type="G" value="1722,13,">en</wi>
-<wi type="G" value="769,14,">la debilidad</wi>.»
+<wi type="G" value="769,14,">la debilidad</wi>».
 <wi type="G" value="2236,16,">Con gusto</wi>
 <wi type="G" value="3767,17,">entonces</wi>,
 <wi type="G" value="3123,18,">más bien</wi>
@@ -5542,7 +5549,7 @@ que <wi type="G" value="2064,3,">vengo</wi>
 <wi type="G" value="3144,9,">testigos</wi>
 <wi type="G" value="2476,12,">se establecerá</wi>
 <wi type="G" value="3956,13,">toda</wi>
-<wi type="G" value="4487,14,">verdad</wi>.»
+<wi type="G" value="4487,14,">verdad</wi>».
 </t>
 </sv>
 
@@ -5814,7 +5821,10 @@ of the Holy Spirit, be with you all. Amen.
 estén <wi type="G" value="3326,18,">con</wi> 
 <wi type="G" value="3956,19,">todos</wi> 
 <wi type="G" value="5216,20,">ustedes</wi>. 
-<wi type="G" value="281,21,">Amén</wi>.</t>
+<wi type="G" value="281,21,">Amén</wi><rb xml:lang="es">.<rf>
+<citebib id="KJV2003"/> tiene un colofón que traducido es "La segunda
+epístola a los Corintios fue escrita desde Filipo, una ciudad de Macedonia,
+por Tito y Lucas.</rf></rb></t>
 <cl/>
 <cl/>
 </sv></cm></sc>
