@@ -352,6 +352,7 @@ Según <citebib id="Thayer-BLB"/> la palabra griega `ἁπλότητι´ se
 traduce como la virtud del que está libre de presunción e hipocrecia,
 no buscador de lo propio, generoso.
 </rf></rb>
+<t xml:lang="es">
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="1505,16,">sinceridad</wi>
 <wi type="G" value="2316,17,">de Dios</wi>,
@@ -1081,7 +1082,7 @@ some, letters of commendation to you or from you?
 Según <citebib id="Thayer-BLB"/> la palabra griega `συστατικων´
 se traduce como de elogios, de introducción.
 </rf></rb>
-<t xml:lang="es"><wi type="G" value="4314,12,">para</wi>
+<t xml:lang="es"> <wi type="G" value="4314,12,">para</wi>
 <wi type="G" value="5209,13,">ustedes</wi>
 <wi type="G" value="2228,14,">o</wi>
 <wi type="G" value="1537,15,">de</wi>
@@ -1348,6 +1349,7 @@ of the old covenant the same veil remains, because in Christ it passes away.
 <wi type="G" value="3739,22,">el cual</wi>
 <wi type="G" value="5100,23,"/><wi type="G" value="1722,24,">en</wi>
 <wi type="G" value="5547,25,">Cristo</wi>
+</t>
 <rb xml:lang="es"><wi type="G" value="2673,26,">es quitado</wi><rf>
 <citebib id="RVG2012"/> dice `es quitado,´
 <citebib id="WEB"/> dice `pasa.´
@@ -1355,7 +1357,6 @@ Según <citebib id="Thayer-BLB"/> la palabra griega `καταργέω´
 significa hacer que algo cese, terminarlo o abolirlo.
 </rf></rb>
 <t xml:lang="es">.</t>
-</t>
 </sv>
 <sv id="b2_Corinthians-3-15">
 But to this day, when Moses is read, a veil lies on their heart.
