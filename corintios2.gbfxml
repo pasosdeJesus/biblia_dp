@@ -2307,7 +2307,7 @@ grace of God in vain,
 <wi type="G" value="1519,6,">en</wi>
 <wi type="G" value="2756,7,">vano</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="5485,9,">la gracia</wi></wi>
-<wi type="G" value="3588,10,"><wi type="G" value="2316,11,">de Dios</wi></wi>.</t>
+<wi type="G" value="3588,10,"><wi type="G" value="2316,11,">de Dios</wi></wi>,</t>
 </sv>
 <sv id="b2_Corinthians-6-2">
 for he says,
@@ -2326,7 +2326,7 @@ In a day of salvation I helped you.»
 <wi type="G" value="2250,9,">el día</wi> </t>
 <rb xml:lang="es"><wi type="G" value="4991,10,">de salvación</wi><rf>
 <citebib id="KJV2003"/> y <citebib id="WEB"/> aquí y al final
-de este versículo dicen `salvación,´
+de este versículo dice `salvación,´
 <citebib id="RVG2012"/> dice `salud.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `σωτηριας´ usada aquí
 y al final del versículo se traduce especialmente como salvación, pero
@@ -2336,16 +2336,16 @@ traducido como salud.
 </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="4671,12,">te</wi>
-<wi type="G" value="997,11,">ayudé</wi>.</t>
+<wi type="G" value="997,11,">ayudé</wi>».</t>
 </fp>
 
 <cl/>
 Behold, now is the acceptable time. Behold, now is the day of salvation.
-<t xml:lang="es"><wi type="G" value="2400,13,">Observa</wi>,
+<t xml:lang="es"><wi type="G" value="2400,13,">Mira</wi>,
 <wi type="G" value="3568,14,">ahora</wi> es
 <wi type="G" value="2540,15,">el tiempo</wi>
 <wi type="G" value="2144,16,">aceptable</wi>.
-<wi type="G" value="2400,17,">Observa</wi>,
+<wi type="G" value="2400,17,">Mira</wi>,
 <wi type="G" value="3568,18,">ahora</wi> es
 <wi type="G" value="2250,19,">el día</wi>
 <wi type="G" value="4991,20,">de salvación</wi>.</t>
@@ -2546,7 +2546,7 @@ own affections.
 `restringidos,´
 <citebib id="RVG2012"/> dice `estrechos.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `στενοχωρεισθε´
-se traduce como
+se traduce como estar en un lugar estrecho, comprimir.
 </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1722,3,">por</wi>
