@@ -2793,7 +2793,7 @@ confianza libre de temores, seguridad.
 <wi type="G" value="3427,7,">me</wi>
 <wi type="G" value="2746,8,">glorio</wi>
 <wi type="G" value="5228,9,">en</wi>
-<wi type="G" value="5216,10,">ustedes</wi>,
+<wi type="G" value="5216,10,">ustedes</wi>.
 <wi type="G" value="4137,11,">Estoy plenamente</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="3874,13,">reconfortado</wi></wi>,
 <wi type="G" value="5248,14,">Sobreabundo</wi> en
@@ -2824,7 +2824,7 @@ was inside.
 <wi type="G" value="3956,15,">todas partes</wi>.
 <wi type="G" value="1855,17,">Por fuera</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3163,18,">disputas</wi><rf>
-<citebib id="WEB"/> y <citebib id="KJV2003"/>dicen `peleas,´
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `peleas,´
 <citebib id="RVG2012"/> dice `cuestiones.´
 Según <citebib id="Thayer-BLB"/> la palabra griega
 `μαχαι´ se traduce como pelea o combate, en batalla, disputas, discusiones.</rf></rb>
@@ -2971,7 +2971,7 @@ demonstrated yourselves to be pure in the matter.
 <wi type="G" value="4710,13,">el cuidado</wi>
 <wi type="G" value="2716,11,">obró</wi>
 <wi type="G" value="5213,12,">en ustedes</wi>.
-<wi type="G" value="235,14,">Si</wi>,
+¡<wi type="G" value="235,14,">Si</wi>
 <wi type="G" value="627,15,">la defensa</wi>,
 <wi type="G" value="235,16,">si</wi>
 <wi type="G" value="24,17,">la indignación</wi>,
@@ -2983,7 +2983,7 @@ demonstrated yourselves to be pure in the matter.
 <wi type="G" value="2205,23,">el celo</wi>,
 <wi type="G" value="235,24,">si</wi>
 <wi type="G" value="1557,25,">la venganza</wi>!
-i<wi type="G" value="1722,26,">En</wi>
+<wi type="G" value="1722,26,">En</wi>
 <wi type="G" value="3956,27,">todo</wi>
 <wi type="G" value="1438,29,">se</wi>
 <wi type="G" value="4921,28,">han mostrado</wi>
