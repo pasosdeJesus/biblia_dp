@@ -3936,13 +3936,15 @@ que <wi type="G" value="5209,7,">les</wi>
 Now thanks be to God for his unspeakable gift!
 <t xml:lang="es">¡<wi type="G" value="5485,1,">Gracias</wi>
 <wi type="G" value="1909,5,">a</wi>
-i<wi type="G" value="3588,3,"><wi type="G" value="2316,4,">Dios</wi></wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2316,4,">Dios</wi></wi>
 <wi type="G" value="1161,2,">por</wi>
 <wi type="G" value="846,8,">su</wi>
 <wi type="G" value="1431,9,">don</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,6,"/><wi type="G" value="411,7,">impronunciable</wi><rf>
+<rb xml:lang="es"><wi type="G" value="3588,6,"/><wi type="G" value="411,7,">indescriptible</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `impronunciable,´
-<citebib id="RVG2012"/> dice `inefable.´
+<citebib id="RVG2012"/> dice `inefable.´ Según
+<citebib id="Thayer-BLB"/> la palabra griega `ἀνεκδιηγήτῳ´ se traduce
+como impronunciable, indescriptible.
 </rf></rb>
 <t xml:lang="es">!</t>
 <cl/>
