@@ -2164,7 +2164,7 @@ flesh, yet now we know him so no more.
 <wi type="G" value="3568,18,">ahora</wi>
 <wi type="G" value="235,17,">ya</wi>
 <wi type="G" value="3765,19,">no</wi> lo
-<wi type="G" value="1097,20,">conocemos</wi> así.</t>	
+<wi type="G" value="1097,20,">conocemos</wi> así.</t>
 </sv>
 <sv id="b2_Corinthians-5-17">
 Therefore if anyone is in
@@ -3694,10 +3694,10 @@ los <wi type="G" value="3110,6,">de Macedonia</wi>
 <wi type="G" value="532,10,">desprevenidos</wi>,
 <wi type="G" value="2443,13,">y que</wi>
 <wi type="G" value="2249,12,">nosotros</wi>
+<wi type="G" value="2617,11,">seamos avergonzados</wi>
 (<wi type="G" value="3361,14,">no</wi>
 <wi type="G" value="3004,15,">decimos</wi>
-<wi type="G" value="5210,16,">de ustedes</wi>)
-<wi type="G" value="2617,11,">seamos avergonzados</wi>,
+<wi type="G" value="5210,16,">de ustedes</wi>),
 <wi type="G" value="1722,17,">en</wi>
 <wi type="G" value="3778,20,">este</wi>
 <wi type="G" value="3588,18,"><wi type="G" value="5287,19,">confiado</wi></wi>
@@ -3971,7 +3971,7 @@ yo <wi type="G" value="3739,14,">quien</wi>
 <wi type="G" value="4383,16,">presente</wi>
 soy </t>
 <rb xml:lang="es"><wi type="G" value="3303,17,"/><wi type="G" value="5011,18,">humilde</wi><rf>
-<citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="RVG2012"/>dicen
+<citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen
 `bajo,´
 <citebib id="RV1960"/> dice `humilde.´
 </rf></rb>
@@ -4055,7 +4055,7 @@ throwing down imaginations and every high thing
 that is exalted against the knowledge of God, and bringing every thought into
 captivity to the obedience of Christ;
 <t xml:lang="es"><wi type="G" value="2507,2,">derrumbando</wi>
-<wi type="G" value="3053,1,">imaginaciones</wi> i
+<wi type="G" value="3053,1,">imaginaciones</wi>
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="3956,4,">toda</wi>
 <wi type="G" value="5313,5,">cosa elevada</wi>
@@ -4344,12 +4344,13 @@ done.
 </sv>
 <sv id="b2_Corinthians-10-17">
 But «he who boasts, let him boast in the Lord.»
-<wi type="G" value="1161,2,">Sino</wi>
+<t xml:lang="es"><wi type="G" value="1161,2,">Sino</wi>
 «<wi type="G" value="3588,1,">el que</wi>
 <wi type="G" value="2744,3,">se glorie</wi>, que
 <wi type="G" value="2744,6,">se glorie</wi>
 <wi type="G" value="1722,4,">en</wi>
 <wi type="G" value="2962,5,">el Señor</wi>».
+</t>
 </sv>
 <sv id="b2_Corinthians-10-18">
 For it isn´t he who commends himself who is approved,
