@@ -4477,7 +4477,7 @@ si <wi type="G" value="2983,15,">ustedes reciben</wi>
 <sv id="b2_Corinthians-11-5">
 For I reckon that I am
 not at all behind the very best apostles.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es"><wi type="G" value="1063,2,">Porque</wi>
 <wi type="G" value="3049,1,">pienso</wi> que
 <wi type="G" value="3367,3,">no</wi>
 <wi type="G" value="5302,4,">me he quedado atrás</wi>
@@ -4510,7 +4510,6 @@ a ustedes siempre y en todos nuestros hechos.´
 Según <citebib id="Thayer-BLB"/> el verbo griego `φανερωθεντες´
 se traduce como hacer manifiesto o visible lo que ha estado
 escondido o desconocido.
-La palabra
 </rf></rb>
 <t xml:lang="es">
 y <wi type="G" value="1722,15,">en</wi>
@@ -4530,12 +4529,12 @@ of charge?
 <wi type="G" value="1683,4,">a mi mismo</wi>
 <wi type="G" value="2443,6,">para</wi>
 <wi type="G" value="5312,8,"><wi type="G" value="5210,7,">exaltarlos</wi></wi>?,
-<wi type="G" value="3754,9,">porque</wi>
+<wi type="G" value="3754,9,">pues</wi>
 <wi type="G" value="5213,16,">les</wi>
 <wi type="G" value="2097,15,">prediqué</wi>
 <wi type="G" value="2098,14,">el evangelio</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="3588,12,"><wi type="G" value="2316,13,">de Dios</wi></wi>
-<wi type="G" value="1432,10,">gratuitamente</wi>?</t>
+<wi type="G" value="1432,10,">gratuitamente</wi></t>
 </sv>
 <sv id="b2_Corinthians-11-8">
 I robbed other assemblies, taking wages from them that I
@@ -4947,7 +4946,7 @@ me daily, anxiety for all the assemblies.
 <rf><citebib id="WEB"/> dice
 `además de esas cosas que están afuera,´
 <citebib id="KJV2003"/> dice `Además de las cosas que están fuera,´
-<citebib id="RVG2012"/> dice `sin otras cosas además.
+<citebib id="RVG2012"/> dice `sin otras cosas además.´
 Según <citebib id="Thayer-BLB"/> el adverbio griego `χωρις´ se
 traduce como aparte, además, y el adverbio `παρεκτος´ se traduce
 como excepto, con la excepción, además. </rf></rb>
