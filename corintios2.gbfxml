@@ -5574,7 +5574,7 @@ that, if I come again, I will not spare;
 <wi type="G" value="3568,10,">ahora</wi>,
 <wi type="G" value="548,9,">estando ausente</wi>,
 <wi type="G" value="1125,11,">les escribo</wi>
-i<wi type="G" value="3588,12,">a los que</wi>
+<wi type="G" value="3588,12,">a los que</wi>
 <wi type="G" value="4258,13,">habían pecado</wi>
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="3956,17,">a todos</wi>
@@ -5585,10 +5585,11 @@ i<wi type="G" value="3588,12,">a los que</wi>
 <wi type="G" value="3825,23,">otra vez</wi>,
 <wi type="G" value="1519,21,"/><wi type="G" value="3756,24,">no</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,22,"><wi type="G" value="5339,25,">seré indulgente</wi></wi><rf>
-<citebib id="WEB"/> dice `no me guardaré´</rf></rb>
+<citebib id="WEB"/> dice `no me guardaré´
 <citebib id="RVG2012"/> dice `no perdonaré.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `φεισομαι´
 se traduce como abstenerse o tratar con indulgencia.
+</rf></rb>
 <t xml:lang="es">;</t>
 </sv>
 <sv id="b2_Corinthians-13-3">
