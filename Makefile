@@ -9,10 +9,10 @@ SOURCE_GBFXML=mateo.gbfxml marcos.gbfxml lucas.gbfxml juan.gbfxml hechos.gbfxml 
 
 EXT_DOCBOOK=xdbk
 
-VS_SWORDBOOK_I=II Corinthians
-#VS_SWORDBOOK_I=Acts
-VS_SWORDBOOK=II_Corinthians
-#VS_SWORDBOOK=Acts
+VS_SWORDBOOK_I=Galatians
+#VS_SWORDBOOK_I=II Corinthians
+VS_SWORDBOOK=Galatians
+#VS_SWORDBOOK=II_Corinthians
 
 # Variables requeridas por comdocbook.mak
 SOURCES=$(PROYECTO).$(EXT_DOCBOOK)
