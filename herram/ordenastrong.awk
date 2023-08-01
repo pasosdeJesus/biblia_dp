@@ -1,5 +1,6 @@
 
 /[0-9]*:[0-9]*/ {
+  # print "*OJO : FNR=" FNR
   if (ultpos ~ /^[0-9]*$/) {
     lin="";
     for (i=1; i<=ultpos; i++) {
@@ -22,6 +23,7 @@
 }
 
 /[0-9]*,.*/ {
+  # print "*OJO , FNR=" FNR
   split($0, e, /,/);
   if (ver[e[1]] != "") {
     print FILENAME ":" FNR ": Repetido el " e[1] "-esimo en " nant > "/dev/stderr";
@@ -43,7 +45,7 @@ END {
   lin = "";
   print "ultpos=" ultpos > "/dev/stderr";
   if (ultpos !~ /^[0-9]*:[0-9]*$/) {
-    print "posición no entera" ultpos > "/dev/stderr";
+    print "posición no entera: '" ultpos "'"> "/dev/stderr";
     error = 1;
   } else if (ultpos <= 0) {
     print "ultpos negativo" > "/dev/stderr";

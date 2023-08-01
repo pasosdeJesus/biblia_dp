@@ -11,6 +11,7 @@
   <!ENTITY romanos SYSTEM "romanos.gbfxml">
   <!ENTITY corintios1 SYSTEM "corintios1.gbfxml">
   <!ENTITY corintios2 SYSTEM "corintios2.gbfxml">
+  <!ENTITY galatas SYSTEM "galatas.gbfxml">
 
   <!ENTITY biblio SYSTEM "biblio.gbfxml">
   ]>
@@ -30,7 +31,8 @@
 &hechos;
 &romanos;
 &corintios1;
- --> 
 &corintios2;
+ --> 
+&galatas;
 &biblio;
 </gbfxml>

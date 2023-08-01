@@ -10,7 +10,7 @@ Paul, an apostle (not from men, neither through man, but through
 Jesus Christ, and God the Father, who raised him from the dead), 
 <t xml:lang="es"><wi type="G" value="3972,1,">Pablo</wi>,
 <wi type="G" value="652,2,">apóstol</wi> 
-(<wi type="G" value="3576,3,">no</wi> 
+(<wi type="G" value="3756,3,">no</wi> 
 <wi type="G" value="575,4,">de</wi> 
 <wi type="G" value="444,5,">hombres</wi>, 
 <wi type="G" value="3761,6,">ni</wi> 
@@ -23,7 +23,7 @@ Jesus Christ, and God the Father, who raised him from the dead),
 <wi type="G" value="2532,13,">y</wi> 
 <wi type="G" value="2316,14,">Dios</wi> 
 <wi type="G" value="3962,15,">Padre</wi>, 
-<wi type="G" value="388,16,">que</wi> 
+<wi type="G" value="3588,16,">que</wi> 
 <wi type="G" value="846,18,">lo</wi> 
 <wi type="G" value="1453,17,">resucitó</wi> 
 <wi type="G" value="1537,19,">de</wi> 
@@ -33,12 +33,21 @@ Jesus Christ, and God the Father, who raised him from the dead),
 <sv id="Galatians-1-2">
 and all
 the 
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi> 
+<wi type="G" value="3956,5,">todos</wi></t>
 <rb>brothers
-<t xml:lang="es"/><rf>The word for «brothers» here and where context allows may
-also be correctly translated «brothers and sisters» or «siblings.»<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="80,6,">los hermanos</wi></t><rf>The word for «brothers» here and where context allows may
+also be correctly translated «brothers and sisters» or «siblings.»
+<t xml:lang="es">La palabra para «hermanos» aquí y donde el contexto
+lo permita puede traducirse correctamente también como
+«hermanos y hermanas.»</t></rf>
 </rb>
  who
 are with me, to the assemblies of Galatia: 
+<t xml:lang="es"><wi type="G" value="3588,7,">que</wi> están 
+<wi type="G" value="3588,2,"/><wi type="G" value="4862,3,"><wi type="G" value="1698,4,">conmigo</wi></wi>, 
+<wi type="G" value="1577,8,">a las iglesias</wi> 
+<wi type="G" value="3588,9,"><wi type="G" value="1053,10,">de Galacia</wi></wi>:</t>
 </sv>
 <sv id="Galatians-1-3">
 Grace to you and peace from
