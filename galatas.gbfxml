@@ -89,17 +89,40 @@ y <wi type="G" value="4190,15,">malvado</wi>,
 <wi type="G" value="2532,21,">y</wi>
 <wi type="G" value="3962,22,">Padre</wi></t>
 </sv>
+
 <sv id="Galatians-1-5">
 to whom be the glory forever and ever.
 Amen.
+<t xml:lang="es"><wi type="G" value="3739,1,">a quien</wi> sea
+<wi type="G" value="3588,2,"><wi type="G" value="1391,3,">la gloria</wi></wi>
+<wi type="G" value="1519,4,">por</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="165,6,">siempre</wi></wi>
+y <wi type="G" value="3588,7,"><wi type="G" value="165,8,">siempre</wi></wi>.
+<wi type="G" value="281,9,">Amén</wi>.</t>
 </sv></cm><cm>
 
 <sv id="Galatians-1-6">
 I marvel that you
-<wi type="T" value="P"/> are so quickly deserting him who called you in
+are so quickly deserting him who called you in
 the grace of Christ to a different «good news»;
+<t xml:lang="es"><wi type="G" value="2296,1,">Me asombra</wi>
+<wi type="G" value="3754,2,">que</wi> 
+<wi type="G" value="3779,3,">tan</wi>
+<wi type="G" value="5030,4,">rápido</wi>
+<wi type="G" value="3346,5,">se cambiaron</wi> 
+<wi type="G" value="575,6,">del</wi>
+<wi type="G" value="3588,7,">que</wi>
+<wi type="G" value="5209,9,">los</wi>
+<wi type="G" value="2564,8,">llamó</wi>
+<wi type="G" value="1722,10,">a</wi>
+<wi type="G" value="5485,11,">la gracia</wi>
+<wi type="G" value="5547,12,">de Cristo</wi>,
+<wi type="G" value="1519,13,">a</wi>
+<wi type="G" value="2087,14,">otra</wi>
+«<wi type="G" value="2098,15,">buena nueva</wi>»;</t>
 </sv>
-		<sv id="Galatians-1-7">
+
+<sv id="Galatians-1-7">
 and there isn´t another
 «good news.» Only there are some who trouble you, and want to pervert the Good News
 of Christ.
