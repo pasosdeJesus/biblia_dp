@@ -106,10 +106,10 @@ I marvel that you
 are so quickly deserting him who called you in
 the grace of Christ to a different «good news»;
 <t xml:lang="es"><wi type="G" value="2296,1,">Me asombra</wi>
-<wi type="G" value="3754,2,">que</wi> 
+<wi type="G" value="3754,2,">que</wi>
 <wi type="G" value="3779,3,">tan</wi>
 <wi type="G" value="5030,4,">rápido</wi>
-<wi type="G" value="3346,5,">se cambiaron</wi> 
+<wi type="G" value="3346,5,">se cambiaron</wi>
 <wi type="G" value="575,6,">del</wi>
 <wi type="G" value="3588,7,">que</wi>
 <wi type="G" value="5209,9,">los</wi>
@@ -126,6 +126,22 @@ the grace of Christ to a different «good news»;
 and there isn´t another
 «good news.» Only there are some who trouble you, and want to pervert the Good News
 of Christ.
+<t xml:lang="es"><wi type="G" value="3739,1,">de la cual</wi>
+<wi type="G" value="3756,2,">no</wi>
+<wi type="G" value="2076,3,">hay</wi>
+<wi type="G" value="243,4,">otra</wi>.
+<wi type="G" value="1487,5,"><wi type="G" value="3361,6,">Aunque</wi></wi>
+<wi type="G" value="1526,8,">hay</wi>
+<wi type="G" value="5100,7,">algunos</wi>
+<wi type="G" value="3588,9,">que</wi>
+<wi type="G" value="5209,11,">los</wi>
+<wi type="G" value="5015,10,">perturban</wi>
+<wi type="G" value="2532,12,">y</wi>
+que <wi type="G" value="2309,13,">quieren</wi>
+<wi type="G" value="3344,14,">pervertir</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2098,16,">la Buena Nueva</wi></wi>
+<wi type="G" value="3588,17,"><wi type="G" value="5547,18,">de Cristo</wi></wi>.
+ </t>
 </sv>
 		<sv id="Galatians-1-8">
 But even though we, or an angel from heaven, should preach to
