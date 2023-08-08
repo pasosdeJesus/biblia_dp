@@ -188,17 +188,57 @@ any «good news» other than that which you
 For am I now seeking the favor of men, or of God? Or am I striving to
 please men? For if I were still pleasing men, I wouldn´t be a servant of
 Christ.
+<t xml:lang="es">¿<wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="737,1,">ahora</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3982,4,">busco el favor</wi><rf>
+<citebib id="WEB"/> dice `busco el favor´,
+<citebib id="KJV2003"/> y <citebib id="RVG2012"/> dice `persuado.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `πειθω´
+se traduce como persuadir (hacer amigos, buscar el favor, ganarse buena
+voluntad), ser persuadido o confiar o ser de confianza.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="444,3,">de los hombres</wi>,
+<wi type="G" value="2228,5,">o</wi> el
+<wi type="G" value="3588,6,"><wi type="G" value="2316,7,">de Dios</wi></wi>?
+¿<wi type="G" value="2228,8,">O</wi>
+<wi type="G" value="2212,9,">busco</wi>
+<wi type="G" value="700,11,">complacer</wi> a
+<wi type="G" value="444,10,">los hombres</wi>?
+<wi type="G" value="1063,13,">Pues</wi>
+<wi type="G" value="1487,12,">si</wi>
+<wi type="G" value="700,16,">estuviera complaciendo a</wi>
+<wi type="G" value="2089,14,"/><wi type="G" value="444,15,">los hombres</wi>,
+<wi type="G" value="3756,19,">no</wi>
+<wi type="G" value="302,20,"/><wi type="G" value="2252,21,">sería</wi>
+<wi type="G" value="1401,18,">un servidor</wi>
+<wi type="G" value="5547,17,">de Cristo</wi>.
+</t>
 </sv>
-		<sv id="Galatians-1-11">
+<sv id="Galatians-1-11">
 But I make known to you, brothers, concerning the Good News which
 was preached by me, that it is not according to man.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="5213,3,">les</wi>
+<wi type="G" value="1107,1,">certifico</wi>,
+<wi type="G" value="80,4,">hermanos</wi>,
+<wi type="G" value="3588,5,">que</wi>
+<wi type="G" value="2098,6,">la Buena Nueva</wi>
+<wi type="G" value="3588,7,">que</wi>
+<wi type="G" value="2097,8,">fue predicada</wi>
+<wi type="G" value="5259,9,">por</wi>
+<wi type="G" value="1700,10,">mi</wi>,
+<wi type="G" value="3754,11,"/><wi type="G" value="3756,12,">no</wi>
+<wi type="G" value="2076,13,">es</wi>
+<wi type="G" value="2596,14,">de acuerdo</wi>
+<wi type="G" value="444,15,">a los hombres</wi>.</t>
 </sv>
-		<sv id="Galatians-1-12">
+<sv id="Galatians-1-12">
 For neither did I
 receive it from man, nor was I taught it, but it came to me through
 revelation of Jesus Christ.
 </sv>
-		<sv id="Galatians-1-13">
+<sv id="Galatians-1-13">
 For you
 <wi type="T" value="P"/> have heard of my way of living
 in time past in the Jews´ religion, how that beyond measure I persecuted the
