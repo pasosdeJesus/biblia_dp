@@ -257,22 +257,58 @@ For you
 <wi type="T" value="P"/> have heard of my way of living
 in time past in the Jews´ religion, how that beyond measure I persecuted the
 assembly of God, and ravaged it.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="191,1,">han oído</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="1699,4,">de mi</wi> </t>
+<rb xml:lang="es"><wi type="G" value="391,5,">manera de vivir</wi><rf>
+<citebib id="WEB"/> dice `forma de vivir´
+<citebib id="KJV2003"/> dice `conversación.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`αναστροφην´ se traduce como manera de vivir, conducta, comportamiento.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="4218,6,">pasada</wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2454,9,">la religión judía</wi></wi>,
+<wi type="G" value="3754,10,">como</wi>
+<wi type="G" value="1377,13,">yo perseguía</wi>
+<wi type="G" value="2596,11,"/><wi type="G" value="5236,12,">sin medida</wi>
+a <wi type="G" value="3588,14,"><wi type="G" value="1577,15,">la iglesia</wi></wi>
+<wi type="G" value="3588,16,"><wi type="G" value="2316,17,">de Dios</wi></wi>
+<wi type="G" value="2532,18,">y</wi>
+<wi type="G" value="846,20,">la</wi>
+<wi type="G" value="4199,19,">devastaba</wi>.</t>
 </sv>
-		<sv id="Galatians-1-14">
+<sv id="Galatians-1-14">
 I advanced in the Jews´ religion
 beyond many of my own age among my countrymen, being more exceedingly zealous
 for the traditions of my fathers.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="4298,2,">aventajaba</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2454,5,">la religión judía</wi></wi>
+<wi type="G" value="5228,6,">a</wi>
+<wi type="G" value="4183,7,">muchos</wi> de
+<wi type="G" value="4915,8,">los de mi edad</wi>
+<wi type="G" value="1722,9,">entre</wi> los
+<wi type="G" value="3450,12,">de mi</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="1085,11,">nación</wi></wi>,
+<wi type="G" value="5225,15,">siendo</wi>
+<wi type="G" value="4056,13,">más</wi>
+<wi type="G" value="2207,14,">celoso</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="3967,17,">por las tradiciones</wi>
+<wi type="G" value="3450,18,">de mis</wi>
+<wi type="G" value="3862,19,">padres</wi>.</t>
 </sv>
-		<sv id="Galatians-1-15">
+<sv id="Galatians-1-15">
 But when it was the good pleasure of
 God, who separated me from my mother´s womb, and called me through his grace,
-
 </sv>
-		<sv id="Galatians-1-16">
+<sv id="Galatians-1-16">
 to reveal his Son in me, that I might preach him among the Gentiles, I
 didn´t immediately confer with flesh and blood,
 </sv>
-		<sv id="Galatians-1-17">
+<sv id="Galatians-1-17">
 nor did I go up to
 Jerusalem to those who were apostles before me, but I went away into Arabia.
 Then I returned to Damascus.
