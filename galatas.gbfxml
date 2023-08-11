@@ -303,17 +303,50 @@ for the traditions of my fathers.
 <sv id="Galatians-1-15">
 But when it was the good pleasure of
 God, who separated me from my mother´s womb, and called me through his grace,
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="3753,1,">cuando</wi>
+<wi type="G" value="2106,3,">le complació</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2316,5,">a Dios</wi></wi>,
+<wi type="G" value="3588,6,">quien</wi>
+<wi type="G" value="3165,8,">me</wi>
+<wi type="G" value="873,7,">aparto</wi>
+<wi type="G" value="1537,9,">desde</wi>
+<wi type="G" value="2836,10,">el vientre</wi>
+<wi type="G" value="3450,12,">de mi</wi>
+<wi type="G" value="3384,11,">madre</wi>,
+<wi type="G" value="2532,13,">y</wi> me
+<wi type="G" value="2564,14,">llamó</wi>
+<wi type="G" value="1223,15,">por</wi>
+<wi type="G" value="846,18,">su</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="5485,17,">gracia</wi></wi>,
+</t>
 </sv>
 <sv id="Galatians-1-16">
 to reveal his Son in me, that I might preach him among the Gentiles, I
 didn´t immediately confer with flesh and blood,
+<t xml:lang="es"><wi type="G" value="601,1,">revelar</wi>
+<wi type="G" value="846,4,">a su</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="5207,3,">Hijo</wi></wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="1698,6,">mí</wi>,
+<wi type="G" value="2443,7,">para que</wi>
+<wi type="G" value="846,9,">lo</wi>
+<wi type="G" value="2097,8,">predicara</wi>
+<wi type="G" value="1722,10,">entre</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="1484,12,">los gentiles</wi></wi>, yo
+<wi type="G" value="2112,13,">de inmediato</wi>
+<wi type="G" value="3756,14,">no</wi>
+<wi type="G" value="4323,15,">me dediqué</wi>
+<wi type="G" value="4561,16,">con carne</wi>
+<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="129,18,">sangre</wi>,</t>
 </sv>
 <sv id="Galatians-1-17">
 nor did I go up to
 Jerusalem to those who were apostles before me, but I went away into Arabia.
 Then I returned to Damascus.
 </sv>
-		<sv id="Galatians-1-18">
+<sv id="Galatians-1-18">
 Then after three years I went up to
 Jerusalem to visit Peter, and stayed with him fifteen days.
 </sv>
