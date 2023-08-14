@@ -345,12 +345,45 @@ didn´t immediately confer with flesh and blood,
 nor did I go up to
 Jerusalem to those who were apostles before me, but I went away into Arabia.
 Then I returned to Damascus.
+<t xml:lang="es"><wi type="G" value="3761,1,">ni</wi>
+<wi type="G" value="424,2,">fui</wi>
+<wi type="G" value="1519,3,">a</wi>
+<wi type="G" value="2414,4,">Jerusalén</wi>
+<wi type="G" value="4314,5,">donde</wi>
+<wi type="G" value="3588,6,">los que</wi> fueron
+<wi type="G" value="652,9,">apóstoles</wi>
+<wi type="G" value="4253,7,">antes que</wi> i
+<wi type="G" value="1700,8,">yo</wi>,
+<wi type="G" value="235,10,">sino</wi>
+<wi type="G" value="565,11,">fui</wi>
+<wi type="G" value="1519,12,">a</wi>
+<wi type="G" value="688,13,">Arabia</wi>.
+<wi type="G" value="2532,14,">Y</wi>
+<wi type="G" value="5290,16,">regresé</wi>
+<wi type="G" value="3825,15,">de nuevo</wi>
+<wi type="G" value="1519,17,">a</wi>
+<wi type="G" value="1154,18,">Damasco</wi>.</t>
 </sv>
 <sv id="Galatians-1-18">
 Then after three years I went up to
 Jerusalem to visit Peter, and stayed with him fifteen days.
+<t xml:lang="es"><wi type="G" value="1899,1,">Entonces</wi>
+<wi type="G" value="3326,2,">después</wi>
+<wi type="G" value="5140,4,">de tres</wi>
+<wi type="G" value="2094,3,">años</wi>
+<wi type="G" value="424,5,">fui</wi>
+<wi type="G" value="1519,6,">a</wi>
+<wi type="G" value="2414,7,">Jerusalén</wi>
+<wi type="G" value="2477,8,">a ver a</wi>
+<wi type="G" value="4074,9,">Pedro</wi>,
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="1961,11,">estuve</wi>
+<wi type="G" value="4314,12,">con</wi>
+<wi type="G" value="846,13,">él</wi>
+<wi type="G" value="1178,15,">quince</wi>
+<wi type="G" value="2250,14,">días</wi>.</t>
 </sv>
-		<sv id="Galatians-1-19">
+<sv id="Galatians-1-19">
 But of the
 other apostles I saw no one, except James, the Lord´s brother.
 </sv>
