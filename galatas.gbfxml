@@ -434,12 +434,32 @@ unknown by face to the assemblies of Judea which were in Christ,
 <wi type="G" value="5547,12,">Cristo</wi>.</t>
 </sv>
 <sv id="Galatians-1-23">
-but
-they only heard: «He who once persecuted us now preaches the faith that he
+but they only heard: «He who once persecuted us now preaches the faith that he
 once tried to destroy.»
+<t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
+<wi type="G" value="3440,1,">sólo</wi>
+<wi type="G" value="2258,4,">habían</wi>
+<wi type="G" value="191,3,">oído</wi>
+«<wi type="G" value="3588,6,">Aquel</wi>
+<wi type="G" value="3754,5,">que</wi>
+<wi type="G" value="2248,8,">nos</wi>
+<wi type="G" value="1377,7,">perseguía</wi>
+<wi type="G" value="4218,9,">en el pasado</wi>,
+<wi type="G" value="3568,10,">ahora</wi>
+<wi type="G" value="2097,11,">predica</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="4102,13,">la fe</wi></wi>
+<wi type="G" value="3739,14,">que</wi>
+<wi type="G" value="4218,15,">antes</wi>
+<wi type="G" value="4199,16,">devastaba</wi>.»
+</t>
 </sv>
 <sv id="Galatians-1-24">
 And they glorified God in me.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="1392,2,">glorificaban a</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">Dios</wi></wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="1698,4,">mi</wi>.</t>
 <cl/>
 </sv></cm></sc>
 <sc id="Galatians-2">
