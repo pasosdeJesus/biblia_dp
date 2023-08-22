@@ -467,14 +467,50 @@ And they glorified God in me.
 <sv id="Galatians-2-1">
 Then after a period of fourteen years I went up again to Jerusalem
 with Barnabas, taking Titus also with me.
+<t xml:lang="es"><wi type="G" value="1899,1,">Entonces</wi>,
+<wi type="G" value="1223,2,">después</wi>
+<wi type="G" value="1180,3,">de catorce</wi>
+<wi type="G" value="2094,4,">años</wi>
+<wi type="G" value="305,6,">fui</wi>
+<wi type="G" value="3825,5,">de nuevo</wi>
+<wi type="G" value="1519,7,">a</wi>
+<wi type="G" value="2414,8,">Jerusalén</wi>
+<wi type="G" value="3326,9,">con</wi>
+<wi type="G" value="921,10,">Barnabas</wi>,
+<wi type="G" value="4838,11,">llevando</wi>
+<wi type="G" value="2532,12,">también a</wi> 
+<wi type="G" value="5103,13,">Tito</wi>.
+</t>
 </sv>
-		<sv id="Galatians-2-2">
+<sv id="Galatians-2-2">
 I went up by revelation, and I
 laid before them the Good News which I preach among the Gentiles, but privately
 before those who were respected, for fear that I might be running, or had
 run, in vain.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="305,1,">fui</wi>
+<wi type="G" value="2596,3,">por</wi>
+<wi type="G" value="602,4,">revelación</wi>,
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="846,7,">les</wi>
+<wi type="G" value="394,6,">comuniqué</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2098,9,">la Buena Nueva</wi></wi>
+<wi type="G" value="3739,10,">que</wi>
+<wi type="G" value="2784,11,">había predicado</wi>
+<wi type="G" value="1722,12,">entre</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1484,14,">los gentiles</wi></wi>,
+<wi type="G" value="2596,15,"/><wi type="G" value="1161,17,">pero</wi>
+<wi type="G" value="2398,16,">en privado</wi>
+<wi type="G" value="3588,18,">a los que</wi>
+<wi type="G" value="1380,19,">eran de reputación</wi>,
+<wi type="G" value="3381,20,">para no</wi>
+<wi type="G" value="5143,23,">estar corriendo</wi>,
+<wi type="G" value="2228,24,">o</wi>
+<wi type="G" value="5143,25,">haber corrido</wi>
+<wi type="G" value="1519,21,">en</wi>
+<wi type="G" value="2756,22,">vano</wi>.</t>
 </sv>
-		<sv id="Galatians-2-3">
+<sv id="Galatians-2-3">
 But not even Titus, who was with me, being a Greek, was
 compelled to be circumcised.
 </sv>
