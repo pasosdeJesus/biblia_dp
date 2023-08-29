@@ -606,12 +606,60 @@ circumcision
 <sv id="Galatians-2-8">
 (for he who appointed Peter to the apostleship of the
 circumcision appointed me also to the Gentiles);
+<t xml:lang="es">(<wi type="G" value="1063,2,">pues</wi>
+<wi type="G" value="3588,1,">el que</wi> </t>
+<rb xml:lang="es"><wi type="G" value="1754,3,">designó a</wi><rf>
+<citebib id="WEB"/> dice `designó,´
+<citebib id="KJV"/> dice `llevo efectivamente,´
+<citebib id="RVG2012"/> dice `hizo por.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `ενεργησας´
+se traduce como obrar, efectuar, forjar
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="4074,4,">Pedro</wi>
+<wi type="G" value="1519,5,">al</wi>
+<wi type="G" value="651,6,">apostolado</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="4061,8,">de la circuncisión</wi></wi>
+<wi type="G" value="2532,10,">también</wi>
+<wi type="G" value="1698,11,">me</wi>
+<wi type="G" value="1754,9,">designó</wi>
+<wi type="G" value="1519,12,">a</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1484,14,">los gentiles</wi></wi>);</t>
 </sv>
 <sv id="Galatians-2-9">
 and when they perceived
 the grace that was given to me, James and Cephas and John, they who were
 reputed to be pillars, gave to me and Barnabas the right hand of fellowship,
 that we should go to the Gentiles, and they to the circumcision.
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi> cuando
+<wi type="G" value="1097,2,">percibieron</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="5485,4,">la gracia</wi></wi>
+<wi type="G" value="3588,5,">que</wi>
+<wi type="G" value="3427,7,">me</wi>
+<wi type="G" value="1325,6,">fue dada</wi>,
+<wi type="G" value="2385,8,">Santiago</wi>
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="2786,10,">Cefas</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="2491,12,">Juan</wi>,
+<wi type="G" value="3588,13,">que</wi>
+<wi type="G" value="1380,14,">tenían reputación</wi>
+<wi type="G" value="1511,16,">de ser</wi>
+<wi type="G" value="4769,15,">pilares</wi>,
+nos <wi type="G" value="1325,18,">dieron</wi>
+<wi type="G" value="1698,19,">a mi</wi>
+<wi type="G" value="2532,20,">y</wi> a
+<wi type="G" value="921,21,">Barnabas</wi>
+<wi type="G" value="1188,17,">las manos derechas</wi>
+<wi type="G" value="2842,22,">de fraternidad</wi>,
+<wi type="G" value="2443,23,">para que</wi>
+<wi type="G" value="2249,24,">nosotros</wi> fueramos
+<wi type="G" value="1519,25,">a</wi>
+<wi type="G" value="3588,26,"><wi type="G" value="1484,27,">los gentiles</wi></wi>,
+<wi type="G" value="1161,29,">y</wi>
+<wi type="G" value="846,28,">ellos</wi>
+<wi type="G" value="1519,30,">a</wi>
+<wi type="G" value="3588,31,"><wi type="G" value="4061,32,">la circuncisión</wi></wi>.</t>
 </sv>
 <sv id="Galatians-2-10">
 They
