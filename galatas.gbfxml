@@ -665,9 +665,25 @@ nos <wi type="G" value="1325,18,">dieron</wi>
 They
 only asked us to remember the poorwhich very thing I was also zealous to
 do.
+<t xml:lang="es"><wi type="G" value="3440,1,">Sólo</wi>
+<wi type="G" value="2443,4,">que</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="3421,5,">recordáramos a</wi>
+<wi type="G" value="4434,3,">los  pobres</wi>,
+<wi type="G" value="846,9,">lo mismo</wi>
+<wi type="G" value="3739,6,">que</wi>
+<wi type="G" value="2532,7,"/>yo </t>
+<rb xml:lang="es">yo <wi type="G" value="4704,8,">era diligente</wi><rf>
+<citebib id="WEB"/> dice `celoso´, <citebib id="KJV2003"/> dice  `ansioso´
+<citebib id="RVG2012"/> dice `solicito.´
+Según <citebib id="BLB"/> la palabra griega `εσπουδασα´ se traduce
+como diligente, presto, ansioso, laborar, estudiar.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="5124,10,"/><wi type="G" value="4160,11,">en hacer</wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Galatians-2-11">
 But when Peter came to Antioch, I resisted him to the face, because he
 stood condemned.
