@@ -687,11 +687,45 @@ como diligente, presto, ansioso, laborar, estudiar.
 <sv id="Galatians-2-11">
 But when Peter came to Antioch, I resisted him to the face, because he
 stood condemned.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="3753,1,">cuando</wi>
+<wi type="G" value="2064,3,">vino</wi>
+<wi type="G" value="4074,4,">Pedro</wi>
+<wi type="G" value="1519,5,">a</wi>
+<wi type="G" value="490,6,">Antioquía</wi>,
+<wi type="G" value="846,9,">lo</wi>
+<wi type="G" value="436,10,">resistí</wi>
+<wi type="G" value="2596,7,">en</wi>
+<wi type="G" value="4383,8,">el rostro</wi>,
+<wi type="G" value="3754,11,">porque</wi>
+<wi type="G" value="2258,13,">era de</wi>
+<wi type="G" value="2607,12,">condenar</wi>.</t>
 </sv>
 <sv id="Galatians-2-12">
 For before some people came from James, he ate with
 the Gentiles. But when they came, he drew back and separated himself, fearing
 those who were of the circumcision.
+<t xml:lang="es"><wi type="G" value="1063,3,">Pues</wi>
+<wi type="G" value="4253,1,">antes</wi>
+<wi type="G" value="3588,2,">de eso</wi>
+<wi type="G" value="5100,5,">algunos</wi>
+<wi type="G" value="2064,4,">vinieron</wi>
+<wi type="G" value="575,6,">de parte de</wi>
+<wi type="G" value="2385,7,">Jacobo</wi>,
+<wi type="G" value="4906,11,">quien comía</wi>
+<wi type="G" value="3326,8,">con</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="1484,10,">los gentiles</wi></wi>.
+<wi type="G" value="1161,13,">Pero</wi>
+<wi type="G" value="3753,12,">cuando</wi>
+<wi type="G" value="2064,14,">vinieron</wi>,
+<wi type="G" value="5288,15,">él se retiró</wi>
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="1438,18,">se</wi>
+<wi type="G" value="873,17,">separó</wi>,
+<wi type="G" value="5399,19,">temiendo</wi>
+<wi type="G" value="3588,20,">a los que</wi>
+<wi type="G" value="1537,21,">eran</wi>
+<wi type="G" value="4061,22,">de la circuncisión</wi>.</t>
 </sv>
 <sv id="Galatians-2-13">
 And the rest of the Jews joined him
