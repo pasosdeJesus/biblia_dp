@@ -476,7 +476,7 @@ with Barnabas, taking Titus also with me.
 <wi type="G" value="1519,7,">a</wi>
 <wi type="G" value="2414,8,">Jerusalén</wi>
 <wi type="G" value="3326,9,">con</wi>
-<wi type="G" value="921,10,">Barnabas</wi>,
+<wi type="G" value="921,10,">Bernabé</wi>,
 <wi type="G" value="4838,11,">llevando</wi>
 <wi type="G" value="2532,12,">también a</wi>
 <wi type="G" value="5103,13,">Tito</wi>.
@@ -649,7 +649,7 @@ that we should go to the Gentiles, and they to the circumcision.
 nos <wi type="G" value="1325,18,">dieron</wi>
 <wi type="G" value="1698,19,">a mi</wi>
 <wi type="G" value="2532,20,">y</wi> a
-<wi type="G" value="921,21,">Barnabas</wi>
+<wi type="G" value="921,21,">Bernabé</wi>
 <wi type="G" value="1188,17,">las manos derechas</wi>
 <wi type="G" value="2842,22,">de fraternidad</wi>,
 <wi type="G" value="2443,23,">para que</wi>
@@ -731,15 +731,61 @@ those who were of the circumcision.
 And the rest of the Jews joined him
 in his hypocrisy; so that even Barnabas was carried away with their
 hypocrisy.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="3062,6,">los otros</wi>
+<wi type="G" value="2453,7,">judíos</wi> </t>
+<wi type="G" value="2532,4,">también</wi>
+<rb xml:lang="es">
+<wi type="G" value="846,3,">se</wi>
+<wi type="G" value="4942,2,">unieron en su hipocresía</wi><rf>
+<citebib id="WEB"/> dice `unieron en su hipocresía´,
+<citebib id="KJV2003"/> dice `encubrieron´,
+<citebib id="RVG2012"/> dice `simulación participaban.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`συνυπεκριθησαν´ significa encubrir o actuar de manera hipócrita.
+</rf></rb>
+<t xml:lang="es">;
+<wi type="G" value="5620,8,">incluso</wi>
+<wi type="G" value="921,10,">Bernabé</wi>
+<wi type="G" value="2532,9,">también</wi>
+<wi type="G" value="4879,11,">se asoció con</wi>
+<wi type="G" value="846,12,">su</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="5272,14,">hipocresía</wi></wi>.</t>
 </sv>
 <sv id="Galatians-2-14">
 But when I saw that they didn´t walk uprightly according to
 the truth of the Good News, I said to Peter before them all, «If you, being a
 Jew, live as the Gentiles do, and not as the Jews do, why do you compel the
 Gentiles to live as the Jews do?
-
-</sv></cm><cm>
-
+<t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>
+<wi type="G" value="3753,2,">cuando</wi>
+<wi type="G" value="1492,3,">vi</wi>
+<wi type="G" value="3754,4,">que</wi>
+<wi type="G" value="3756,5,">no</wi>
+<wi type="G" value="3716,6,">caminaban rectamente</wi>
+<wi type="G" value="4314,7,">de acuerdo a</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="225,9,">la verdad</wi></wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2098,11,">de la Buena Nueva</wi></wi>,
+<wi type="G" value="2036,12,">le dije</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="4074,14,">a Pedro</wi></wi>
+<wi type="G" value="1715,15,">frente</wi>
+<wi type="G" value="3956,16,">a todos</wi>,
+«<wi type="G" value="1487,17,">Si</wi>
+<wi type="G" value="4771,18,">ustedes</wi>,
+<wi type="G" value="5225,20,">siendo</wi>
+<wi type="G" value="2453,19,">judíos</wi>,
+<wi type="G" value="2198,22,">viven</wi>
+<wi type="G" value="1483,21,">como gentiles</wi>,
+<wi type="G" value="2532,23,">y</wi>
+<wi type="G" value="3756,24,">no</wi>
+<wi type="G" value="2452,25,">como judíos</wi>,
+¿<wi type="G" value="5101,26,">por qué</wi>
+<wi type="G" value="315,29,">obligan</wi>
+<wi type="G" value="3588,27,"><wi type="G" value="1484,28,">a los gentiles</wi></wi>
+<wi type="G" value="2450,30,">a vivir como judíos</wi>?
+</t>
+</sv></cm>
+<cm>
 <sv id="Galatians-2-15">
 «We, being Jews by nature, and not Gentile sinners,
 </sv>
