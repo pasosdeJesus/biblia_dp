@@ -925,17 +925,54 @@ loved me, and gave himself up for me.
 I don´t make void the grace of
 God. For if righteousness is through the law, then Christ died for
 nothing!»
+<t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
+<wi type="G" value="114,2,">hago vana</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="5485,4,">la gracia</wi></wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">de Dios</wi></wi>.
+¡<wi type="G" value="1063,8,">Pues</wi>
+<wi type="G" value="1487,7,">si</wi>
+<wi type="G" value="1343,11,">la justicia</wi> fuera
+<wi type="G" value="1223,9,">por</wi>
+<wi type="G" value="3551,10,">la ley</wi>,
+<wi type="G" value="686,12,">entonces</wi>
+<wi type="G" value="5547,13,">Cristo</wi>
+<wi type="G" value="599,15,">murió</wi>
+<wi type="G" value="1432,14,">en vano</wi>!»
+</t>
 
 <cl/>
+</sv></cm>
 
-
-</sv></cm></sc>
+</sc>
 <sc id="Galatians-3">
 <cm>
 <sv id="Galatians-3-1">
 Foolish Galatians, who has bewitched you not to obey the truth,
 before whose eyes Jesus Christ was openly set forth among you as crucified?
-
+<t xml:lang="es"><wi type="G" value="5599,1,">Oh</wi>
+<wi type="G" value="1052,3,">Gálatas</wi>
+<wi type="G" value="453,2,">necios</wi>,
+<wi type="G" value="5101,4,">quien</wi>
+<wi type="G" value="5209,5,">los</wi>
+<wi type="G" value="940,6,">encantó</wi> para que
+<wi type="G" value="3361,9,">no</wi>
+<wi type="G" value="3982,10,">obedezcan a</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="225,8,">la verdad</wi></wi>,
+<wi type="G" value="2596,12,">frente</wi>
+<wi type="G" value="3739,11,">a sus</wi>
+<wi type="G" value="3788,13,">ojos</wi>
+<wi type="G" value="2424,14,">Jesús</wi>
+<wi type="G" value="5547,15,">Cristo</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4270,16,">había sido anunciado</wi><rf>
+<citebib id="WEB"/> dice `fue puesto abiertamente,´
+<citebib id="KJV2003"/> dice `fue puesto evidentemente,´
+<citebib id="RVG2012"/> dice `fue ya descrito.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `προεγραφη´
+significa escribir antes, presentar abiertamente, anunciar.
+</rf></rb>
+como <wi type="G" value="4717,19,">crucificado</wi>
+<wi type="G" value="1722,17,">entre</wi>
+<wi type="G" value="5213,18,">ustedes</wi>? </t>
 </sv>
 <sv id="Galatians-3-2">
 I just want to learn this from you. Did you
