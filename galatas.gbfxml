@@ -1010,14 +1010,35 @@ now completed in the flesh?
 <wi type="G" value="4561,7,">en la carne</wi>?</t>
 </sv>
 <sv id="Galatians-3-4">
-Did
-you
-<wi type="T" value="P"/> suffer so many things in vain, if it is indeed in vain?
+Did you suffer so many things in vain, if it is indeed in vain?
+<t xml:lang="es">¿<wi type="G" value="3958,2,">Sufrieron</wi>
+<wi type="G" value="5118,1,">tantas cosas</wi>
+<wi type="G" value="1500,3,">en vano</wi>,
+<wi type="G" value="1489,4,">si</wi>
+<wi type="G" value="2532,5,">también</wi> fue
+<wi type="G" value="1500,6,">en vano</wi>?</t>
 </sv>
 <sv id="Galatians-3-5">
 He
 therefore who supplies the Spirit to you, and works miracles among you, does
 he do it by the works of the law, or by hearing of faith?
+<t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
+<wi type="G" value="3588,1,">el que</wi>
+<wi type="G" value="5213,4,">les</wi>
+<wi type="G" value="2023,3,">dio</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="4151,6,">el Espíritu</wi></wi>,
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="1754,8,">ha obrado</wi>
+<wi type="G" value="1411,9,">milagros</wi>
+<wi type="G" value="1722,10,">entre</wi>
+<wi type="G" value="5213,11,">ustedes</wi>, fue
+<wi type="G" value="1537,12,">por</wi>
+<wi type="G" value="2041,13,">las obras</wi>
+<wi type="G" value="3551,14,">de la ley</wi>,
+<wi type="G" value="2228,15,">o</wi>
+<wi type="G" value="1537,16,">por</wi>
+<wi type="G" value="189,17,">el escuchar</wi>
+<wi type="G" value="4102,18,">de la fe</wi>?</t>
 </sv>
 <sv id="Galatians-3-6">
 Even as
