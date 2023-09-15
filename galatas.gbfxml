@@ -1106,60 +1106,92 @@ with the faithful Abraham.
 For as many as are of the works of the law
 are under a curse. For it is written, «Cursed is everyone who doesn´t
 continue in all things that are written in the book of the law, to do them.»
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> 
-<wi type="G" value="3745,1,">tantos como</wi> 
-<wi type="G" value="1526,6,">son</wi> 
-<wi type="G" value="1537,3,">de</wi> 
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3745,1,">tantos como</wi>
+<wi type="G" value="1526,6,">son</wi>
+<wi type="G" value="1537,3,">de</wi>
 <wi type="G" value="2041,4,">las obras</wi>
-<wi type="G" value="3551,5,">de la ley</wi> 
-<wi type="G" value="1526,9,">están</wi> 
+<wi type="G" value="3551,5,">de la ley</wi>
+<wi type="G" value="1526,9,">están</wi>
 <wi type="G" value="5259,7,">bajo</wi>
-<wi type="G" value="2671,8,">maldición</wi>. 
-<wi type="G" value="1063,11,">Pues</wi> 
-<wi type="G" value="1125,10,">está escrito</wi>,  
-«<wi type="G" value="1944,12,">Maldito</wi> 
-<wi type="G" value="3956,13,">todo aquel</wi> 
-<wi type="G" value="3739,14,">que</wi> 
-<wi type="G" value="3756,15,">no</wi> 
-<wi type="G" value="1696,16,">siga</wi>
-<wi type="G" value="1722,17,">en</wi> 
-<wi type="G" value="3956,18,">todas las cosas</wi> 
-<wi type="G" value="3588,19,">que</wi> 
-<wi type="G" value="1125,20,">están escritas</wi> 
-<wi type="G" value="1722,21,">en</wi> 
-<wi type="G" value="3588,22,"><wi type="G" value="975,23,">el libro</wi></wi> 
-<wi type="G" value="3588,24,"><wi type="G" value="3551,25,">de la ley</wi></wi>, 
+<wi type="G" value="2671,8,">maldición</wi>.
+<wi type="G" value="1063,11,">Pues</wi>
+<wi type="G" value="1125,10,">está escrito</wi>,
+«<wi type="G" value="1944,12,">Maldito</wi>
+<wi type="G" value="3956,13,">todo aquel</wi>
+<wi type="G" value="3739,14,">que</wi>
+<wi type="G" value="3756,15,">no</wi>
+<wi type="G" value="1696,16,">permanezca</wi>
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="3956,18,">todas las cosas</wi>
+<wi type="G" value="3588,19,">que</wi>
+<wi type="G" value="1125,20,">están escritas</wi>
+<wi type="G" value="1722,21,">en</wi>
+<wi type="G" value="3588,22,"><wi type="G" value="975,23,">el libro</wi></wi>
+<wi type="G" value="3588,24,"><wi type="G" value="3551,25,">de la ley</wi></wi>,
 <wi type="G" value="3588,26,"/><wi type="G" value="4160,27,"><wi type="G" value="846,28,">para hacerlas</wi></wi>.»
 </t>
 </sv>
 <sv id="Galatians-3-11">
 Now that no man is justified by the law before God is evident, for,
 «The righteous will live by faith.»
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> ahora 
-<wi type="G" value="3754,1,">que</wi> 
-<wi type="G" value="3762,5,">ningún hombre</wi> 
-<wi type="G" value="1344,6,">es justificado</wi> 
-<wi type="G" value="1722,3,">por</wi> 
-<wi type="G" value="3551,4,">la ley</wi> 
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> ahora
+<wi type="G" value="3754,1,">que</wi>
+<wi type="G" value="3762,5,">ningún hombre</wi>
+<wi type="G" value="1344,6,">es justificado</wi>
+<wi type="G" value="1722,3,">por</wi>
+<wi type="G" value="3551,4,">la ley</wi>
 <wi type="G" value="3844,7,">ante</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi> 
-<wi type="G" value="1212,10,">es evidente</wi>, 
-<wi type="G" value="3754,11,">pues</wi>
-«<wi type="G" value="3588,12,"/><wi type="G" value="1342,13,">El justo</wi> 
-<wi type="G" value="2198,16,">vivirá</wi> 
-<wi type="G" value="1537,14,">por</wi> 
+<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>
+<wi type="G" value="1212,10,">es evidente</wi>,
+<wi type="G" value="3754,11,">porque</wi>
+«<wi type="G" value="3588,12,"/><wi type="G" value="1342,13,">El justo</wi>
+<wi type="G" value="2198,16,">vivirá</wi>
+<wi type="G" value="1537,14,">por</wi>
 <wi type="G" value="4102,15,">la fe</wi>.»
 </t>
 </sv>
 <sv id="Galatians-3-12">
 The law is not of faith, but, «The
 man who does them will live by them.»
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3551,3,">la ley</wi>
+<wi type="G" value="3756,4,">no</wi>
+<wi type="G" value="2076,5,">es</wi>
+<wi type="G" value="1537,6,">de</wi>
+<wi type="G" value="4102,7,">fe</wi>,
+<wi type="G" value="235,8,">pero</wi>
+«<wi type="G" value="444,12,">El hombre</wi> que
+<wi type="G" value="846,11,">los</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="4160,10,">haga</wi>
+<wi type="G" value="2198,13,">vivirá</wi>
+<wi type="G" value="1722,14,">por</wi>
+<wi type="G" value="846,15,">ellos</wi>.»
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Galatians-3-13">
 Christ redeemed us from the curse of the law, having become a curse for
 us. For it is written, «Cursed is everyone who hangs on a tree,»
+<t xml:lang="es"><wi type="G" value="5547,1,">Cristo</wi>
+<wi type="G" value="2248,2,">nos</wi>
+<wi type="G" value="1805,3,">redimió</wi>
+<wi type="G" value="1537,4,">de</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2671,6,">la maldición</wi></wi>
+<wi type="G" value="3588,7,"><wi type="G" value="3551,8,">de la ley</wi></wi>,
+<wi type="G" value="1096,9,">haciéndose</wi>
+<wi type="G" value="2671,12,">maldición</wi>
+<wi type="G" value="5228,10,">por</wi>
+<wi type="G" value="2257,11,">nosotros</wi>.
+<wi type="G" value="1063,14,">Pues</wi>
+<wi type="G" value="1125,13,">está escrito</wi>
+«<wi type="G" value="1944,15,">Maldito</wi>
+<wi type="G" value="3956,16,">todo aquel</wi>
+<wi type="G" value="3588,17,">que</wi>
+<wi type="G" value="2910,18,">sea colgado</wi>
+<wi type="G" value="1909,19,">en</wi>
+<wi type="G" value="3586,20,">un madero</wi>,»</t>
 </sv>
 <sv id="Galatians-3-14">
 that
