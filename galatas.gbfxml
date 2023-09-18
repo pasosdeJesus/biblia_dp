@@ -1290,6 +1290,20 @@ lo <wi type="G" value="208,20,">anuló</wi>,
 <sv id="Galatians-3-18">
 For if the inheritance is of the law, it is no more of promise;
 but God has granted it to Abraham by promise.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2817,6,">la herencia</wi></wi>
+es <wi type="G" value="1537,3,">por</wi>
+<wi type="G" value="3551,4,">la ley</wi>, ya
+<wi type="G" value="3765,7,">no</wi> es
+<wi type="G" value="1537,8,">por</wi>
+<wi type="G" value="1860,9,">la promesa</wi>;
+<wi type="G" value="3588,10,"/><wi type="G" value="1161,11,">sino</wi> que
+<wi type="G" value="3588,16,"><wi type="G" value="2316,17,">Dios</wi></wi>
+se la <wi type="G" value="5483,15,">concedió a</wi>
+<wi type="G" value="11,12,">Abraham</wi>
+<wi type="G" value="1223,13,">por</wi>
+<wi type="G" value="1860,14,">la promesa</wi>.</t>
 </sv></cm>
 
 <cm>
@@ -1297,6 +1311,25 @@ but God has granted it to Abraham by promise.
 What then is the law? It was added because of transgressions, until the
 seed should come to whom the promise has been made. It was ordained through
 angels by the hand of a mediator.
+<t xml:lang="es">¿<wi type="G" value="5101,1,">Cuando</wi> es
+<wi type="G" value="3767,2,">entonces</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="3551,4,">la ley</wi></wi>?
+<wi type="G" value="4369,8,">Fue añadida</wi>
+<wi type="G" value="5484,7,">a causa</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="3847,6,">de las transgresiones</wi></wi>,
+<wi type="G" value="891,9,">hasta</wi> que
+<wi type="G" value="3588,12,"><wi type="G" value="4690,13,">la semilla</wi></wi>
+<wi type="G" value="2064,11,">llegara a</wi>
+<wi type="G" value="3739,10,">aquel</wi>
+<wi type="G" value="3739,14,">por quien</wi>
+<wi type="G" value="1861,15,">la promesa había sido hecha</wi>.
+<wi type="G" value="1299,16,">Fue ordenada</wi>
+<wi type="G" value="1223,17,">por</wi>
+<wi type="G" value="32,18,">ángeles</wi>
+<wi type="G" value="1722,19,">por</wi>
+<wi type="G" value="5495,20,">la mano</wi>
+<wi type="G" value="3316,21,">de un mediador</wi>.
+</t>
 </sv>
 <sv id="Galatians-3-20">
 Now a mediator is not between one,
