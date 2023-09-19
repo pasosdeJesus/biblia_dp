@@ -1334,11 +1334,41 @@ angels by the hand of a mediator.
 <sv id="Galatians-3-20">
 Now a mediator is not between one,
 but God is one.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi>
+<wi type="G" value="3316,3,">el mediador</wi>
+<wi type="G" value="3756,5,">no</wi>
+<wi type="G" value="2076,6,">es</wi>
+<wi type="G" value="1520,4,">de uno</wi>,
+<wi type="G" value="3588,7,"/><wi type="G" value="1161,8,">pero</wi>
+<wi type="G" value="2316,9,">Dios</wi>
+<wi type="G" value="2076,11,">es</wi>
+<wi type="G" value="1520,10,">uno</wi>
+.</t>
 </sv>
 <sv id="Galatians-3-21">
 Is the law then against the promises of God? Certainly
 not! For if there had been a law given which could make alive, most assuredly
 righteousness would have been of the law.
+<t xml:lang="es">¿Está <wi type="G" value="3588,1,"/><wi type="G" value="3767,2,">entonces</wi>
+<wi type="G" value="3551,3,">la ley</wi>
+<wi type="G" value="2596,4,">contra</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="1860,6,">la promesa</wi></wi>
+<wi type="G" value="3588,7,"><wi type="G" value="2316,8,">de Dios</wi></wi>?
+¡<wi type="G" value="3361,9,"><wi type="G" value="1096,10,">De ninguna manera</wi></wi>!
+<wi type="G" value="1063,12,">Pues</wi>
+<wi type="G" value="1487,11,">si</wi>
+<wi type="G" value="1325,13,">hubiera sido dada</wi>
+<wi type="G" value="3551,14,">una ley</wi>
+<wi type="G" value="3588,15,">que</wi>
+<wi type="G" value="1410,16,">pudiera</wi>
+<wi type="G" value="2227,17,">dar vida</wi>,
+<wi type="G" value="3689,18,">con seguridad</wi>
+<wi type="G" value="3588,23,"><wi type="G" value="1343,24,">la justicia</wi></wi>
+<wi type="G" value="302,19,">habría</wi>
+<wi type="G" value="2258,22,">sido</wi>
+<wi type="G" value="1537,20,">por</wi>
+<wi type="G" value="3551,21,">la ley</wi>.
+</t>
 </sv>
 <sv id="Galatians-3-22">
 But the Scriptures imprisoned
