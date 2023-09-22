@@ -1439,10 +1439,27 @@ are no longer under a tutor.
 For you
 <wi type="T" value="P"/> are all children of God,
 through faith in Christ Jesus.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3956,1,">todos</wi>
+<wi type="G" value="2075,5,">ustedes son</wi>
+<wi type="G" value="5207,3,">hijos</wi>
+<wi type="G" value="2316,4,">de Dios</wi>
+<wi type="G" value="1223,6,">por</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="4102,8,">la fe</wi></wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="5547,10,">Cristo</wi>
+<wi type="G" value="2424,11,">Jesús</wi>.</t>
 </sv>
 <sv id="Galatians-3-27">
 For as many of you as were baptized into
 Christ have put on Christ.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3745,1,">todos los que</wi>
+<wi type="G" value="907,5,">han sido bautizados</wi>
+<wi type="G" value="1519,3,">en</wi>
+<wi type="G" value="5547,4,">Cristo</wi>,
+<wi type="G" value="1746,7,">han sido revestidos en</wi>
+<wi type="G" value="5547,6,">Cristo</wi>.</t>
 </sv>
 <sv id="Galatians-3-28">
 There is neither Jew nor Greek, there is
