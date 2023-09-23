@@ -1465,17 +1465,49 @@ Christ have put on Christ.
 There is neither Jew nor Greek, there is
 neither slave nor free man, there is neither male nor female; for you are all
 one in Christ Jesus.
+<t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
+<wi type="G" value="1762,2,">hay</wi>
+<wi type="G" value="2453,3,">Judío</wi>
+<wi type="G" value="3761,4,">ni</wi>
+<wi type="G" value="1672,5,">Griego</wi>,
+<wi type="G" value="3756,6,">no</wi> 
+<wi type="G" value="1762,7,">hay</wi>
+<wi type="G" value="1401,8,">esclavo</wi>
+<wi type="G" value="3761,9,">ni</wi>
+<wi type="G" value="1658,10,">libre</wi>,
+<wi type="G" value="3756,11,">no</wi> 
+<wi type="G" value="1762,12,">hay</wi>
+<wi type="G" value="730,13,">hombre</wi>
+<wi type="G" value="2532,14,">ni</wi>
+<wi type="G" value="2338,15,">mujer</wi>;
+<wi type="G" value="1063,17,">pues</wi>
+<wi type="G" value="3956,16,">todos</wi>
+<wi type="G" value="5210,18,">ustedes</wi>
+<wi type="G" value="2075,20,">son</wi>
+<wi type="G" value="1520,19,">uno</wi>
+<wi type="G" value="1722,21,">en</wi>
+<wi type="G" value="5547,22,">Cristo</wi>
+<wi type="G" value="2424,23,">Jesús</wi>. </t>
 </sv>
 <sv id="Galatians-3-29">
-If you
-<wi type="T" value="P"/> are Christ´s, then you
-<wi type="T" value="P"/> are
+If you are Christ´s, then you are
 Abraham´s seed and heirs according to promise.
-
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="5210,3,">ustedes</wi> son
+<wi type="G" value="5547,4,">de Cristo</wi>,
+<wi type="G" value="686,5,">entonces</wi>
+<wi type="G" value="2075,9,">son</wi>
+de
+<wi type="G" value="4690,8,">la semilla</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="11,7,">de Abraham</wi>
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="2818,13,">herederos</wi>
+<wi type="G" value="2596,11,">de acuerdo</wi> a
+<wi type="G" value="1860,12,">la promesa</wi>.</t>
 <cl/>
-
-
-</sv></cm></sc>
+</sv></cm>
+</sc>
 <sc id="Galatians-4">
 <cm>
 <sv id="Galatians-4-1">
