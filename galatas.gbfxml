@@ -1470,12 +1470,12 @@ one in Christ Jesus.
 <wi type="G" value="2453,3,">Judío</wi>
 <wi type="G" value="3761,4,">ni</wi>
 <wi type="G" value="1672,5,">Griego</wi>,
-<wi type="G" value="3756,6,">no</wi> 
+<wi type="G" value="3756,6,">no</wi>
 <wi type="G" value="1762,7,">hay</wi>
 <wi type="G" value="1401,8,">esclavo</wi>
 <wi type="G" value="3761,9,">ni</wi>
 <wi type="G" value="1658,10,">libre</wi>,
-<wi type="G" value="3756,11,">no</wi> 
+<wi type="G" value="3756,11,">no</wi>
 <wi type="G" value="1762,12,">hay</wi>
 <wi type="G" value="730,13,">hombre</wi>
 <wi type="G" value="2532,14,">ni</wi>
@@ -1513,10 +1513,31 @@ de
 <sv id="Galatians-4-1">
 But I say that so long as the heir is a child, he is no different
 from a bondservant, though he is lord of all;
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> les
+<wi type="G" value="3004,1,">digo</wi> que
+<wi type="G" value="1909,3,"/><wi type="G" value="3745,4,"/><wi type="G" value="5550,5,">mientras</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2818,7,">el heredero</wi></wi>
+<wi type="G" value="2076,9,">sea</wi>
+<wi type="G" value="3516,8,">un niño</wi>,
+<wi type="G" value="3762,10,">en nada</wi>
+<wi type="G" value="1308,11,">difiere del</wi>
+<wi type="G" value="1401,12,">siervo</wi>,
+aunque <wi type="G" value="5607,15,">sea</wi>
+<wi type="G" value="2962,13,">señor</wi>
+<wi type="G" value="3956,14,">de todo</wi>;</t>
 </sv>
 <sv id="Galatians-4-2">
 but is under guardians and
 stewards until the day appointed by the father.
+<t xml:lang="es"><wi type="G" value="235,1,">sino que</wi>
+<wi type="G" value="2076,4,">está</wi>
+<wi type="G" value="5259,2,">bajo</wi>
+<wi type="G" value="2012,3,">tutores</wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="3623,6,">administradores</wi>
+<wi type="G" value="891,7,">hasta</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="4287,9,">el día dispuesto</wi></wi> por
+<wi type="G" value="3588,10,"><wi type="G" value="3962,11,">el padre</wi></wi>.</t>
 </sv>
 <sv id="Galatians-4-3">
 So we also, when we were
