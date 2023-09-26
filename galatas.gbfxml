@@ -1542,11 +1542,38 @@ stewards until the day appointed by the father.
 <sv id="Galatians-4-3">
 So we also, when we were
 children, were held in bondage under the elemental principles of the world.
+<t xml:lang="es"><wi type="G" value="3779,1,">Así</wi>
+<wi type="G" value="2532,2,">también</wi>
+<wi type="G" value="2249,3,">nosotros</wi>,
+<wi type="G" value="3753,4,">cuando</wi>
+<wi type="G" value="1510,5,">eramos</wi>
+<wi type="G" value="3516,6,">niños</wi>,
+<wi type="G" value="1510,12,">eramos</wi>
+<wi type="G" value="1402,13,">siervos</wi>
+<wi type="G" value="5259,7,">bajo</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="4747,9,">los principios elementales</wi></wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2889,11,">del mundo</wi></wi>.
+</t>
 </sv>
 <sv id="Galatians-4-4">
 But when
 the fullness of the time came, God sent out his Son, born to a woman, born
 under the law,
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="3753,1,">cuando</wi>
+<wi type="G" value="2064,3,">se</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="4138,5,">completó</wi></wi>
+<wi type="G" value="3588,6,"><wi type="G" value="5550,7,">el tiempo</wi></wi>,
+<wi type="G" value="3588,9,"><wi type="G" value="2316,10,">Dios</wi></wi>
+<wi type="G" value="1821,8,">envío</wi> a
+<wi type="G" value="846,13,">su</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="5207,12,">Hijo</wi></wi>,
+<wi type="G" value="1096,14,">nacido</wi>
+<wi type="G" value="1537,15,">de</wi>
+<wi type="G" value="1135,16,">mujer</wi>,
+<wi type="G" value="1096,17,">nacido</wi>
+<wi type="G" value="5259,18,">bajo</wi>
+<wi type="G" value="3551,19,">la ley</wi>,</t>
 </sv>
 <sv id="Galatians-4-5">
 that he might redeem those who were under the law, that
