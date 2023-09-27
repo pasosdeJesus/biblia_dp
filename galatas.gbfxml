@@ -1578,17 +1578,41 @@ under the law,
 <sv id="Galatians-4-5">
 that he might redeem those who were under the law, that
 we might receive the adoption of children.
+<t xml:lang="es"><wi type="G" value="1805,5,">para redimir a</wi>
+<wi type="G" value="3588,2,">los que</wi>
+<wi type="G" value="2443,1,">que</wi>
+estaban
+<wi type="G" value="5259,3,">bajo</wi>
+<wi type="G" value="3551,4,">la ley</wi>,
+<wi type="G" value="2443,6,">para que</wi>
+<wi type="G" value="618,9,">recibieran</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="5206,8,">la adopción como hijos</wi></wi>.</t>
 </sv>
 <sv id="Galatians-4-6">
-And because you
-<wi type="T" value="P"/> are
+And because you are
 children, God sent out the Spirit of his Son into your hearts, crying,
-«
-<rb>Abba,
-<t xml:lang="es"/><rf>Abba is a Greek spelling for the Chaldee word for «Father» or
-«Daddy» used in a familiar, respectful, and loving way.<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3754,1,">porque</wi>
+<wi type="G" value="2075,3,">ustedes son</wi>
+<wi type="G" value="5207,4,">hijos</wi>,
+<wi type="G" value="3588,6,"><wi type="G" value="2316,7,">Dios</wi></wi>
+<wi type="G" value="1821,5,">envió</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="4151,9,">el Espíritu</wi></wi>
+<wi type="G" value="846,12,">de su</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="5207,11,">Hijo</wi></wi>
+<wi type="G" value="1519,13,">a</wi>
+<wi type="G" value="5216,16,">sus</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2588,15,">corazones</wi></wi>,
+que <wi type="G" value="2896,17,">clama</wi>,</t>
+«<rb>Abba,
+<t xml:lang="es">¡<wi type="G" value="5,18,">Abba</wi></t><rf>Abba is a Greek spelling for the Chaldee word
+for «Father» or «Daddy» used in a familiar, respectful, and loving way.
+<t xml:lang="es">Abba es una pronunciación griega de la palabra Caleda para
+«Papa» or «Papi» usada de una forma familiar, respetuosa y amorosa.
+</t></rf>
 </rb>
  Father!»
+<t xml:lang="es"><wi type="G" value="3588,19,"><wi type="G" value="3962,20,">Padre</wi></wi>!»</t>
 </sv>
 <sv id="Galatians-4-7">
 So
