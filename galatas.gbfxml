@@ -1615,14 +1615,38 @@ for «Father» or «Daddy» used in a familiar, respectful, and loving way.
 <t xml:lang="es"><wi type="G" value="3588,19,"><wi type="G" value="3962,20,">Padre</wi></wi>!»</t>
 </sv>
 <sv id="Galatians-4-7">
-So
-you are no longer a bondservant, but a son; and if a son, then an heir of God
-through Christ.
+So you are no longer a bondservant, but a son;
+and if a son, then an heir of God through Christ.
+<t xml:lang="es"><wi type="G" value="5620,1,">Así que</wi>
+<wi type="G" value="3765,2,">ya no</wi>
+<wi type="G" value="1488,3,">eres</wi>
+<wi type="G" value="1401,4,">siervo</wi>,
+<wi type="G" value="235,5,">sino</wi>
+<wi type="G" value="5207,6,">hijo</wi>;
+<wi type="G" value="1161,8,">y</wi>
+<wi type="G" value="1487,7,">si</wi>
+<wi type="G" value="5207,9,">hijo</wi>,
+<wi type="G" value="2532,10,">también</wi>
+<wi type="G" value="2818,11,">heredero</wi>
+<wi type="G" value="2316,12,">de Dios</wi>
+<wi type="G" value="1223,13,">por medio</wi>
+<wi type="G" value="5547,14,">de Cristo</wi>.
+</t>
 </sv>
 <sv id="Galatians-4-8">
 However at that time, not knowing God, you
-<wi type="T" value="P"/> were in
-bondage to those who by nature are not gods.
+were in bondage to those who by nature are not gods.
+<t xml:lang="es"><wi type="G" value="235,1,">Sin embargo</wi>
+<wi type="G" value="5119,2,">en ese entonces</wi>, al
+<wi type="G" value="3303,3,"/><wi type="G" value="3756,4,">no</wi>
+<wi type="G" value="1492,5,">conocer a</wi>
+<wi type="G" value="2316,6,">Dios</wi>,
+<wi type="G" value="1398,7,">sirvieron a</wi>
+<wi type="G" value="3588,8,">aquellos que</wi>
+<wi type="G" value="5449,10,">por naturaleza</wi>
+<wi type="G" value="3361,9,">no</wi>
+<wi type="G" value="5607,11,">son</wi>
+<wi type="G" value="2316,12,">dioses</wi>.</t>
 </sv>
 <sv id="Galatians-4-9">
 But now that you
