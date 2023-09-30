@@ -1689,13 +1689,36 @@ You observe days, months, seasons, and years.
 </sv>
 <sv id="Galatians-4-11">
 I am afraid for you, that I might have wasted my labor for you.
-
+<t xml:lang="es"><wi type="G" value="5399,1,">Temo por</wi>
+<wi type="G" value="5209,2,">ustedes</wi>,
+<wi type="G" value="3381,3,">no sea que</wi>
+<wi type="G" value="2872,5,">yo haya trabajado</wi>
+<wi type="G" value="1519,6,">por</wi>
+<wi type="G" value="5209,7,">ustedes</wi>
+<wi type="G" value="1500,4,">en vano</wi>.</t>
 </sv>
 <sv id="Galatians-4-12">
 I beg you, brothers, become as I am, for I also have become as you
-<wi type="T" value="P"/>
-are. You
-<wi type="T" value="P"/> did me no wrong,
+are. You did me no wrong,
+<t xml:lang="es"><wi type="G" value="5216,10,">Les</wi>
+<wi type="G" value="1189,9,">ruego</wi>,
+<wi type="G" value="80,8,">hermanos</wi>,
+<wi type="G" value="1096,1,">sean</wi>
+<wi type="G" value="5613,2,">como</wi>
+<wi type="G" value="1473,3,">yo</wi>,
+<wi type="G" value="3754,4,">pues</wi> también
+<wi type="G" value="2504,5,">yo</wi> he sido
+<wi type="G" value="5613,6,">como</wi>
+<wi type="G" value="5210,7,">ustedes</wi>.
+<wi type="G" value="3762,11,">No</wi>
+<wi type="G" value="3165,12,">me</wi> </t>
+<rb xml:lang="es"><wi type="G" value="91,13,">han hecho agravio</wi><rf>
+<citebib id="WEB"/> dice `mal,´
+<citebib id="KJV2003"/> dice `herido,´
+<citebib id="RVG2012"/> dice `agravio.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`ηδικησατε´ puede traducirse como actuar injustamente, hacer mal y herir.</rf></rb>
+<t xml:lang="es">.</t>
 </sv>
 <sv id="Galatians-4-13">
 but you
