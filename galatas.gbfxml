@@ -1718,22 +1718,49 @@ are. You did me no wrong,
 <citebib id="RVG2012"/> dice `agravio.´
 Según <citebib id="Thayer-BLB"/> la palabra griega
 `ηδικησατε´ puede traducirse como actuar injustamente, hacer mal y herir.</rf></rb>
-<t xml:lang="es">.</t>
+<t xml:lang="es">,</t>
 </sv>
 <sv id="Galatians-4-13">
-but you
-<wi type="T" value="P"/> know that because of
+but you know that because of
 weakness of the flesh I preached the Good News to you the first time.
+<t xml:lang="es"><wi type="G" value="1161,2,">y</wi>
+<wi type="G" value="1492,1,">ustedes saben</wi>
+<wi type="G" value="3754,3,">como</wi>
+<wi type="G" value="1223,4,">en</wi>
+<wi type="G" value="769,5,">enfermedad</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="4561,7,">de la carne</wi></wi>
+<wi type="G" value="5213,9,">los</wi>
+<wi type="G" value="2097,8,">evangelicé</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="4386,11,">al comienzo</wi>.
+</t>
 </sv>
 <sv id="Galatians-4-14">
-That
-which was a temptation to you in my flesh, you
-<wi type="T" value="P"/> didn´t despise nor
-reject; but you
-<wi type="T" value="P"/> received me as an angel of God, even as Christ Jesus.
+That which was a temptation to you in my flesh, you
+didn´t despise nor reject; but you
+received me as an angel of God, even as Christ Jesus.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi> a
+<wi type="G" value="3450,4,">mi</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="3986,3,">tentación</wi></wi>
+<wi type="G" value="3588,5,">que</wi>
+estaba <wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="3450,9,">mi</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="4561,8,">carne</wi></wi>,
+<wi type="G" value="3756,10,">no</wi>
+<wi type="G" value="1848,11,">despreciaron</wi>
+<wi type="G" value="3761,12,">ni</wi>
+<wi type="G" value="1609,13,">rechazaron</wi>;
+<wi type="G" value="235,14,">sino que</wi>
+<wi type="G" value="3165,19,">me</wi>
+<wi type="G" value="1209,18,">recibieron</wi>
+<wi type="G" value="5613,15,">como</wi>
+a <wi type="G" value="32,16,">un ángel</wi>
+<wi type="G" value="2316,17,">de Dios</wi>,
+<wi type="G" value="5613,20,">como</wi>
+a <wi type="G" value="5547,21,">Cristo</wi>
+<wi type="G" value="2424,22,">Jesús</wi>.</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Galatians-4-15">
 What was the blessing you enjoyed? For I testify to you that, if
 possible, you
