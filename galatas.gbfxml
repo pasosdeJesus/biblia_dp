@@ -1764,11 +1764,33 @@ a <wi type="G" value="5547,21,">Cristo</wi>
 <sv id="Galatians-4-15">
 What was the blessing you enjoyed? For I testify to you that, if
 possible, you
-<wi type="T" value="P"/> would have plucked out your eyes and given them to me.
+would have plucked out your eyes and given them to me.
+<t xml:lang="es">¿<wi type="G" value="5101,1,">Dónde</wi>
+<wi type="G" value="2258,3,">está</wi>
+<wi type="G" value="3767,2,">entonces</wi>
+<wi type="G" value="5216,6,">su</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="3108,5,">bendición</wi></wi>?
+<wi type="G" value="1063,8,">Pues</wi>
+<wi type="G" value="5213,9,">les</wi>
+<wi type="G" value="3140,7,">doy testimonio</wi>,
+<wi type="G" value="3754,10,">que</wi>
+<wi type="G" value="1487,11,">si</wi>
+hubiera sido
+<wi type="G" value="1415,12,">posible</wi>,
+<wi type="G" value="5216,15,">se</wi>
+<wi type="G" value="1846,16,">se hubieran sacado</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="3788,14,">los ojos</wi></wi> y
+<wi type="G" value="3427,19,">me</wi>
+<wi type="G" value="302,17,"/><wi type="G" value="1325,18,">los hubieran dado</wi>. </t>
 
 </sv>
 <sv id="Galatians-4-16">
 So then, have I become your enemy by telling you the truth?
+<t xml:lang="es"><wi type="G" value="5620,1,">Entonces</wi>,
+¿<wi type="G" value="1096,4,">me he convertido</wi> en
+<wi type="G" value="5216,3,">su</wi>
+<wi type="G" value="2190,2,">enemigo</wi> por
+<wi type="G" value="226,5,"><wi type="G" value="5213,6,">decirles la verdad</wi></wi>?</t>
 </sv>
 <sv id="Galatians-4-17">
 They
