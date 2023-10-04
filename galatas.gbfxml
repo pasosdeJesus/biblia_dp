@@ -1795,15 +1795,46 @@ So then, have I become your enemy by telling you the truth?
 <sv id="Galatians-4-17">
 They
 zealously seek you in no good way. No, they desire to alienate you, that
-you
-<wi type="T" value="P"/> may seek them.
+you may seek them.
+<t xml:lang="es"><wi type="G" value="5209,2,">Los</wi>
+<wi type="G" value="2206,1,">celan</wi>
+pero
+<wi type="G" value="3756,3,">no</wi>
+<wi type="G" value="2573,4,">bien</wi>.
+<wi type="G" value="235,5,">Sino que</wi>,
+<wi type="G" value="2309,8,">quieren</wi> </t>
+<rb xml:lang="es"><wi type="G" value="1576,6,">sacarlos</wi><rf><citebib id="WEB"/> dice
+`alienarlos,´
+<citebib id="KJV2003"/> dice `excluirlos,´
+<citebib id="RVG2012"/> dice `echar fuera.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `εκκλεισαι´
+se traduce como sacar, prevenir que se aproxime.
+</rf></rb>
+<t xml:lang="es"><wi type="G" value="5209,7,">ustedes</wi>,
+<wi type="G" value="2443,9,">para que</wi> ustedes
+<wi type="G" value="846,10,">los</wi>
+<wi type="G" value="2206,11,">celen</wi>.</t>
 </sv>
 <sv id="Galatians-4-18">
 But it is always good to be zealous in a good
 cause, and not only when I am present with you.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> es
+<wi type="G" value="2570,1,">bueno</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="2206,4,">celar</wi>
+<wi type="G" value="3842,7,">siempre</wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="2570,6,">lo bueno</wi>,
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="3361,9,">no</wi>
+<wi type="G" value="3440,10,">sólo</wi>
+<wi type="G" value="1722,11,">mientras</wi>
+<wi type="G" value="3165,14,">yo</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="3918,13,">estoy presente</wi>
+<wi type="G" value="4314,15,">con</wi>
+<wi type="G" value="5209,16,">ustedes</wi>.</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Galatians-4-19">
 My little children, of whom I am again in travail until Christ is
 formed in you
