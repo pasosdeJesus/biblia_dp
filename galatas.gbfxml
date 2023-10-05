@@ -1838,16 +1838,40 @@ cause, and not only when I am present with you.
 <sv id="Galatians-4-19">
 My little children, of whom I am again in travail until Christ is
 formed in you
+<t xml:lang="es"><wi type="G" value="3450,2,">Mis</wi>
+<wi type="G" value="5040,1,">hijitos</wi>,
+<wi type="G" value="3739,3,">de quienes</wi>
+<wi type="G" value="5605,5,">estoy en trabajo de parto</wi>
+<wi type="G" value="3825,4,">nuevamente</wi>
+<wi type="G" value="891,6,">hasta</wi>
+<wi type="G" value="3739,7,">que</wi>
+<wi type="G" value="5547,9,">Cristo</wi>
+<wi type="G" value="3445,8,">se forme</wi>
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="5213,11,">ustedes</wi>.</t>
 </sv>
 <sv id="Galatians-4-20">
 but I could wish to be present with you now, and to
 change my tone, for I am perplexed about you.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="2309,1,">quisiera</wi>
+<wi type="G" value="3918,3,">estar presente</wi>
+<wi type="G" value="4314,4,">con</wi>
+<wi type="G" value="5209,5,">ustedes</wi>
+<wi type="G" value="737,6,">ahora</wi>,
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="236,8,">cambiar</wi>
+<wi type="G" value="3450,11,">mi</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="5456,10,">tono</wi></wi>,
+<wi type="G" value="3754,12,">pues</wi>
+<wi type="G" value="639,13,">estoy perplejo</wi>
+<wi type="G" value="1722,14,">respecto a</wi>
+<wi type="G" value="5213,15,">ustedes</wi>.
+</t>
 </sv>
 <sv id="Galatians-4-21">
-Tell me, you
-<wi type="T" value="P"/> that
-desire to be under the law, don´t you
-<wi type="T" value="P"/> listen to the law?
+Tell me, you that desire to be under the law, don´t you
+listen to the law?
 </sv>
 <sv id="Galatians-4-22">
 For it is
