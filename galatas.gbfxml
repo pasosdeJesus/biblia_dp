@@ -1872,11 +1872,35 @@ change my tone, for I am perplexed about you.
 <sv id="Galatians-4-21">
 Tell me, you that desire to be under the law, don´t you
 listen to the law?
+<t xml:lang="es"><wi type="G" value="3004,1,"><wi type="G"
+value="3427,2,">Díganme</wi></wi>,
+<wi type="G" value="3588,3,">los que</wi>
+<wi type="G" value="2309,6,">quieren</wi>
+<wi type="G" value="1511,7,">estar</wi>
+<wi type="G" value="5259,4,">bajo</wi>
+<wi type="G" value="3551,5,">la ley</wi>,
+¿<wi type="G" value="3756,10,">No</wi>
+<wi type="G" value="191,11,">han escuchado</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="3551,9,">la ley</wi></wi>?</t>
 </sv>
 <sv id="Galatians-4-22">
 For it is
 written that Abraham had two sons, one by the handmaid, and one by the free
 woman.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1125,1,">está escrito</wi>
+<wi type="G" value="3754,3,">que</wi>
+<wi type="G" value="11,4,">Abraham</wi>
+<wi type="G" value="2192,7,">tuvo</wi>
+<wi type="G" value="1417,5,">dos</wi>
+<wi type="G" value="5207,6,">hijos</wi>,
+<wi type="G" value="1520,8,">uno</wi>
+<wi type="G" value="1537,9,">de</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="3814,11,">la sierva</wi></wi>,
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="1520,13,">el otro</wi>
+<wi type="G" value="1537,14,">de</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="1658,16,">la mujer libre</wi>.</t>
 </sv>
 <sv id="Galatians-4-23">
 However, the son by the handmaid was born according to the
