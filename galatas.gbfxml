@@ -1984,21 +1984,49 @@ free, which is the mother of us all.
 </sv>
 <sv id="Galatians-4-27">
 For it is written,
-
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1125,1,">está escrito</wi></t>
 <cl/><fp>
 «Rejoice, you barren who don´t bear.
+<t xml:lang="es">«<wi type="G" value="2165,3,">Alégrate</wi>,
+<wi type="G" value="4723,4,">estéril</wi>
+<wi type="G" value="3588,5,">que</wi>
+<wi type="G" value="3756,6,">no</wi>
+<wi type="G" value="5088,7,">das a luz</wi>.</t>
 <cl/>
 Break forth and shout, you that don´t travail.
+<t xml:lang="es"><wi type="G" value="4486,8,">estalla</wi>
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="994,10,">grita</wi>,
+<wi type="G" value="3588,11,">la que</wi>
+<wi type="G" value="3756,12,">no</wi>
+<wi type="G" value="5605,13,">tienes dolores de parto</wi>.</t>
 <cl/>
 For more are the children of the desolate than of her who has a
 husband.»
+<t xml:lang="es"><wi type="G" value="3754,14,">Pues</wi>
+<wi type="G" value="4183,15,">muchos</wi>
+<wi type="G" value="3123,20,">más</wi>
+son <wi type="G" value="3588,16,"><wi type="G" value="5043,17,">los hijos</wi></wi>
+<wi type="G" value="3588,18,"/><wi type="G" value="2048,19,">de la abandonada</wi>
+<wi type="G" value="2228,21,">que</wi> los
+<wi type="G" value="3588,22,">de la que</wi>
+<wi type="G" value="2192,23,">tiene</wi>
+<wi type="G" value="3588,24,"><wi type="G" value="435,25,">esposo</wi></wi>.»</t>
 </fp>
+</sv></cm>
 
-
-</sv></cm><cm>
-
+<cm>
 <sv id="Galatians-4-28">
 Now we, brothers, as Isaac was, are children of promise.
+<t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>,
+<wi type="G" value="2249,1,">nosotros</wi>,
+<wi type="G" value="80,3,">hermanos</wi>,
+<wi type="G" value="2596,4,">tal como</wi>
+<wi type="G" value="2464,5,">Isaac</wi>,
+<wi type="G" value="2070,8,">somos</wi>
+<wi type="G" value="5043,7,">hijos</wi>
+<wi type="G" value="1860,6,">de la promesa</wi>.</t>
 </sv>
 <sv id="Galatians-4-29">
 But as
