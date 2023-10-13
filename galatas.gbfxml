@@ -2074,16 +2074,35 @@ handmaid will not inherit with the son of the free woman.»
 <sv id="Galatians-4-31">
 So then,
 brothers, we are not children of a handmaid, but of the free woman.
-
+<t xml:lang="es"><wi type="G" value="686,1,">Así que entonces</wi>,
+<wi type="G" value="80,2,">hermanos</wi>,
+<wi type="G" value="3756,3,">no</wi>
+<wi type="G" value="2070,4,">somos</wi>
+<wi type="G" value="5043,6,">hijos</wi>
+<wi type="G" value="3814,5,">de la sierva</wi>,
+<wi type="G" value="235,7,">sino</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="1658,9,">de la mujer libre</wi>.</t>
 <cl/>
-
-
 </sv></cm></sc>
 <sc id="Galatians-5">
 <cm>
 <sv id="Galatians-5-1">
 Stand firm therefore in the liberty by which Christ has made us
 free, and don´t be entangled again with a yoke of bondage.
+<t xml:lang="es"><wi type="G" value="4739,8,">Permanezcan firmes</wi>,
+<wi type="G" value="3767,3,">entonces</wi>, en
+<wi type="G" value="3588,1,"><wi type="G" value="1657,2,">la libertad</wi></wi>
+<wi type="G" value="3739,4,">por la cual</wi>
+<wi type="G" value="5547,5,">Cristo</wi>
+<wi type="G" value="2248,6,">nos</wi>
+<wi type="G" value="1659,7,">ha hecho libres</wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="3361,10,">no</wi>
+<wi type="G" value="1758,14,">se unzan</wi>
+<wi type="G" value="3825,11,">nuevamente</wi>
+<wi type="G" value="2218,12,">un yugo</wi>
+<wi type="G" value="1397,13,">de esclavitud</wi>.
+</t>
 </sv>
 <sv id="Galatians-5-2">
 Behold, I,
