@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"encoding="UTF-8"?>
 
-<sb id="Galatians" type="" xml:lang="">
+<sb id="Galatians"type=""xml:lang="">
 <tt>Paul´s Letter to the Galatians
 <t xml:lang="es"/>Carta de Pablo a los Gálatas</tt>
 <sc id="Galatians-1">
@@ -8,35 +8,35 @@
 <sv id="Galatians-1-1">
 Paul, an apostle (not from men, neither through man, but through
 Jesus Christ, and God the Father, who raised him from the dead),
-<t xml:lang="es"><wi type="G" value="3972,1,">Pablo</wi>,
-<wi type="G" value="652,2,">apóstol</wi>
-(<wi type="G" value="3756,3,">no</wi>
-<wi type="G" value="575,4,">de</wi>
-<wi type="G" value="444,5,">hombres</wi>,
-<wi type="G" value="3761,6,">ni</wi>
-<wi type="G" value="1223,7,">por</wi>
-<wi type="G" value="444,8,">hombres</wi>,
-<wi type="G" value="235,9,">sino</wi>
-<wi type="G" value="1223,10,">por</wi>
-<wi type="G" value="2424,11,">Jesús</wi>
-<wi type="G" value="5547,12,">Cristo</wi>,
-<wi type="G" value="2532,13,">y</wi>
-<wi type="G" value="2316,14,">Dios</wi>
-<wi type="G" value="3962,15,">Padre</wi>,
-<wi type="G" value="3588,16,">que</wi>
-<wi type="G" value="846,18,">lo</wi>
-<wi type="G" value="1453,17,">resucitó</wi>
-<wi type="G" value="1537,19,">de</wi>
-<wi type="G" value="3498,20,">los muertos</wi>),
+<t xml:lang="es"><wi type="G"value="3972,1,">Pablo</wi>,
+<wi type="G"value="652,2,">apóstol</wi>
+(<wi type="G"value="3756,3,">no</wi>
+<wi type="G"value="575,4,">de</wi>
+<wi type="G"value="444,5,">hombres</wi>,
+<wi type="G"value="3761,6,">ni</wi>
+<wi type="G"value="1223,7,">por</wi>
+<wi type="G"value="444,8,">hombres</wi>,
+<wi type="G"value="235,9,">sino</wi>
+<wi type="G"value="1223,10,">por</wi>
+<wi type="G"value="2424,11,">Jesús</wi>
+<wi type="G"value="5547,12,">Cristo</wi>,
+<wi type="G"value="2532,13,">y</wi>
+<wi type="G"value="2316,14,">Dios</wi>
+<wi type="G"value="3962,15,">Padre</wi>,
+<wi type="G"value="3588,16,">que</wi>
+<wi type="G"value="846,18,">lo</wi>
+<wi type="G"value="1453,17,">resucitó</wi>
+<wi type="G"value="1537,19,">de</wi>
+<wi type="G"value="3498,20,">los muertos</wi>),
 </t>
 </sv>
 <sv id="Galatians-1-2">
 and all
 the
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
-<wi type="G" value="3956,5,">todos</wi></t>
+<t xml:lang="es"><wi type="G"value="2532,1,">y</wi>
+<wi type="G"value="3956,5,">todos</wi></t>
 <rb>brothers
-<t xml:lang="es"><wi type="G" value="80,6,">los hermanos</wi></t><rf>The word for «brothers» here and where context allows may
+<t xml:lang="es"><wi type="G"value="80,6,">los hermanos</wi></t><rf>The word for «brothers» here and where context allows may
 also be correctly translated «brothers and sisters» or «siblings.»
 <t xml:lang="es">La palabra para «hermanos» aquí y donde el contexto
 lo permita puede traducirse correctamente también como
@@ -44,153 +44,153 @@ lo permita puede traducirse correctamente también como
 </rb>
  who
 are with me, to the assemblies of Galatia:
-<t xml:lang="es"><wi type="G" value="3588,7,">que</wi> están
-<wi type="G" value="3588,2,"/><wi type="G" value="4862,3,"><wi type="G" value="1698,4,">conmigo</wi></wi>,
-<wi type="G" value="1577,8,">a las iglesias</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="1053,10,">de Galacia</wi></wi>:</t>
+<t xml:lang="es"><wi type="G"value="3588,7,">que</wi> están
+<wi type="G"value="3588,2,"/><wi type="G"value="4862,3,"><wi type="G"value="1698,4,">conmigo</wi></wi>,
+<wi type="G"value="1577,8,">a las iglesias</wi>
+<wi type="G"value="3588,9,"><wi type="G"value="1053,10,">de Galacia</wi></wi>:</t>
 </sv>
 <sv id="Galatians-1-3">
 Grace to you and peace from
 God the Father, and our Lord Jesus Christ,
-<t xml:lang="es"><wi type="G" value="5485,1,">Gracia</wi>
-sea <wi type="G" value="5213,2,">a ustedes</wi>
-<wi type="G" value="2532,3,">y</wi>
-<wi type="G" value="1515,4,">paz</wi>
-<wi type="G" value="575,5,">de</wi>
-<wi type="G" value="2316,6,">Dios</wi>
-<wi type="G" value="3962,7,">Padre</wi>,
-<wi type="G" value="2532,8,">y</wi> de
-<wi type="G" value="2257,10,">nuestro</wi>
-<wi type="G" value="2962,9,">Señor</wi>
-<wi type="G" value="2424,11,">Jesús</wi>
-<wi type="G" value="5547,12,">Cristo</wi>.</t>
+<t xml:lang="es"><wi type="G"value="5485,1,">Gracia</wi>
+sea <wi type="G"value="5213,2,">a ustedes</wi>
+<wi type="G"value="2532,3,">y</wi>
+<wi type="G"value="1515,4,">paz</wi>
+<wi type="G"value="575,5,">de</wi>
+<wi type="G"value="2316,6,">Dios</wi>
+<wi type="G"value="3962,7,">Padre</wi>,
+<wi type="G"value="2532,8,">y</wi> de
+<wi type="G"value="2257,10,">nuestro</wi>
+<wi type="G"value="2962,9,">Señor</wi>
+<wi type="G"value="2424,11,">Jesús</wi>
+<wi type="G"value="5547,12,">Cristo</wi>.</t>
 </sv>
 <sv id="Galatians-1-4">
 who gave himself for our
 sins, that he might deliver us out of this present evil age, according to the
 will of our God and Father
-<t xml:lang="es"><wi type="G" value="3588,1,">quien</wi>
-<wi type="G" value="1438,3,">se</wi>
-<wi type="G" value="1325,2,">se entregó</wi>
-<wi type="G" value="5228,4,">por</wi>
-<wi type="G" value="2257,7,">nuestros</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="266,6,">pecados</wi></wi>,
-<wi type="G" value="3704,8,">para</wi>
-<wi type="G" value="1807,9,"><wi type="G" value="2248,10,">liberarnos</wi></wi>
-<wi type="G" value="1537,11,">de</wi>
-<wi type="G" value="3588,12,">este</wi>
-<wi type="G" value="165,14,">mundo</wi>
-<wi type="G" value="1764,13,">presente</wi>
-y <wi type="G" value="4190,15,">malvado</wi>,
-<wi type="G" value="2596,16,">de acuerdo</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="2307,18,">a la voluntad</wi></wi>
-<wi type="G" value="2257,23,">de nuestro</wi>
-<wi type="G" value="3588,19,"><wi type="G" value="2316,20,">Dios</wi></wi>
-<wi type="G" value="2532,21,">y</wi>
-<wi type="G" value="3962,22,">Padre</wi></t>
+<t xml:lang="es"><wi type="G"value="3588,1,">quien</wi>
+<wi type="G"value="1438,3,">se</wi>
+<wi type="G"value="1325,2,">se entregó</wi>
+<wi type="G"value="5228,4,">por</wi>
+<wi type="G"value="2257,7,">nuestros</wi>
+<wi type="G"value="3588,5,"><wi type="G"value="266,6,">pecados</wi></wi>,
+<wi type="G"value="3704,8,">para</wi>
+<wi type="G"value="1807,9,"><wi type="G"value="2248,10,">liberarnos</wi></wi>
+<wi type="G"value="1537,11,">de</wi>
+<wi type="G"value="3588,12,">este</wi>
+<wi type="G"value="165,14,">mundo</wi>
+<wi type="G"value="1764,13,">presente</wi>
+y <wi type="G"value="4190,15,">malvado</wi>,
+<wi type="G"value="2596,16,">de acuerdo</wi>
+<wi type="G"value="3588,17,"><wi type="G"value="2307,18,">a la voluntad</wi></wi>
+<wi type="G"value="2257,23,">de nuestro</wi>
+<wi type="G"value="3588,19,"><wi type="G"value="2316,20,">Dios</wi></wi>
+<wi type="G"value="2532,21,">y</wi>
+<wi type="G"value="3962,22,">Padre</wi></t>
 </sv>
 
 <sv id="Galatians-1-5">
 to whom be the glory forever and ever.
 Amen.
-<t xml:lang="es"><wi type="G" value="3739,1,">a quien</wi> sea
-<wi type="G" value="3588,2,"><wi type="G" value="1391,3,">la gloria</wi></wi>
-<wi type="G" value="1519,4,">por</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="165,6,">siempre</wi></wi>
-y <wi type="G" value="3588,7,"><wi type="G" value="165,8,">siempre</wi></wi>.
-<wi type="G" value="281,9,">Amén</wi>.</t>
+<t xml:lang="es"><wi type="G"value="3739,1,">a quien</wi> sea
+<wi type="G"value="3588,2,"><wi type="G"value="1391,3,">la gloria</wi></wi>
+<wi type="G"value="1519,4,">por</wi>
+<wi type="G"value="3588,5,"><wi type="G"value="165,6,">siempre</wi></wi>
+y <wi type="G"value="3588,7,"><wi type="G"value="165,8,">siempre</wi></wi>.
+<wi type="G"value="281,9,">Amén</wi>.</t>
 </sv></cm><cm>
 
 <sv id="Galatians-1-6">
 I marvel that you
 are so quickly deserting him who called you in
 the grace of Christ to a different «good news»;
-<t xml:lang="es"><wi type="G" value="2296,1,">Me asombra</wi>
-<wi type="G" value="3754,2,">que</wi>
-<wi type="G" value="3779,3,">tan</wi>
-<wi type="G" value="5030,4,">rápido</wi>
-<wi type="G" value="3346,5,">se cambiaron</wi>
-<wi type="G" value="575,6,">del</wi>
-<wi type="G" value="3588,7,">que</wi>
-<wi type="G" value="5209,9,">los</wi>
-<wi type="G" value="2564,8,">llamó</wi>
-<wi type="G" value="1722,10,">a</wi>
-<wi type="G" value="5485,11,">la gracia</wi>
-<wi type="G" value="5547,12,">de Cristo</wi>,
-<wi type="G" value="1519,13,">a</wi>
-<wi type="G" value="2087,14,">otra</wi>
-«<wi type="G" value="2098,15,">buena nueva</wi>»;</t>
+<t xml:lang="es"><wi type="G"value="2296,1,">Me asombra</wi>
+<wi type="G"value="3754,2,">que</wi>
+<wi type="G"value="3779,3,">tan</wi>
+<wi type="G"value="5030,4,">rápido</wi>
+<wi type="G"value="3346,5,">se cambiaron</wi>
+<wi type="G"value="575,6,">del</wi>
+<wi type="G"value="3588,7,">que</wi>
+<wi type="G"value="5209,9,">los</wi>
+<wi type="G"value="2564,8,">llamó</wi>
+<wi type="G"value="1722,10,">a</wi>
+<wi type="G"value="5485,11,">la gracia</wi>
+<wi type="G"value="5547,12,">de Cristo</wi>,
+<wi type="G"value="1519,13,">a</wi>
+<wi type="G"value="2087,14,">otra</wi>
+«<wi type="G"value="2098,15,">buena nueva</wi>»;</t>
 </sv>
 
 <sv id="Galatians-1-7">
 and there isn´t another
 «good news.» Only there are some who trouble you, and want to pervert the Good News
 of Christ.
-<t xml:lang="es"><wi type="G" value="3739,1,">de la cual</wi>
-<wi type="G" value="3756,2,">no</wi>
-<wi type="G" value="2076,3,">hay</wi>
-<wi type="G" value="243,4,">otra</wi>.
-<wi type="G" value="1487,5,"><wi type="G" value="3361,6,">Aunque</wi></wi>
-<wi type="G" value="1526,8,">hay</wi>
-<wi type="G" value="5100,7,">algunos</wi>
-<wi type="G" value="3588,9,">que</wi>
-<wi type="G" value="5209,11,">los</wi>
-<wi type="G" value="5015,10,">perturban</wi>
-<wi type="G" value="2532,12,">y</wi>
-que <wi type="G" value="2309,13,">quieren</wi>
-<wi type="G" value="3344,14,">pervertir</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="2098,16,">la Buena Nueva</wi></wi>
-<wi type="G" value="3588,17,"><wi type="G" value="5547,18,">de Cristo</wi></wi>.
+<t xml:lang="es"><wi type="G"value="3739,1,">de la cual</wi>
+<wi type="G"value="3756,2,">no</wi>
+<wi type="G"value="2076,3,">hay</wi>
+<wi type="G"value="243,4,">otra</wi>.
+<wi type="G"value="1487,5,"><wi type="G"value="3361,6,">Aunque</wi></wi>
+<wi type="G"value="1526,8,">hay</wi>
+<wi type="G"value="5100,7,">algunos</wi>
+<wi type="G"value="3588,9,">que</wi>
+<wi type="G"value="5209,11,">los</wi>
+<wi type="G"value="5015,10,">perturban</wi>
+<wi type="G"value="2532,12,">y</wi>
+que <wi type="G"value="2309,13,">quieren</wi>
+<wi type="G"value="3344,14,">pervertir</wi>
+<wi type="G"value="3588,15,"><wi type="G"value="2098,16,">la Buena Nueva</wi></wi>
+<wi type="G"value="3588,17,"><wi type="G"value="5547,18,">de Cristo</wi></wi>.
  </t>
 </sv>
 <sv id="Galatians-1-8">
 But even though we, or an angel from heaven, should preach to
 you any «good news» other than that which we preached to you, let him be cursed.
-<t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>
-<wi type="G" value="2532,2,"/><wi type="G" value="1437,3,">aún</wi> si
-<wi type="G" value="2249,4,">nosotros</wi>,
-<wi type="G" value="2228,5,">o</wi>
-<wi type="G" value="32,6,">un ángel</wi>
-<wi type="G" value="1537,7,">del</wi>
-<wi type="G" value="3772,8,">cielo</wi>,
-<wi type="G" value="5213,10,">les</wi>
-<wi type="G" value="2097,9,">predica una «buena nueva» diferente</wi>;
-<wi type="G" value="3844,11,">a</wi>
-<wi type="G" value="3739,12,">la que</wi>
-<wi type="G" value="5213,14,">les</wi>
-<wi type="G" value="2097,13,">hemos predicado</wi>,
-<wi type="G" value="331,15,">maldito</wi>
-<wi type="G" value="2077,16,">sea</wi>.
+<t xml:lang="es"><wi type="G"value="235,1,">Pero</wi>
+<wi type="G"value="2532,2,"/><wi type="G"value="1437,3,">aún</wi> si
+<wi type="G"value="2249,4,">nosotros</wi>,
+<wi type="G"value="2228,5,">o</wi>
+<wi type="G"value="32,6,">un ángel</wi>
+<wi type="G"value="1537,7,">del</wi>
+<wi type="G"value="3772,8,">cielo</wi>,
+<wi type="G"value="5213,10,">les</wi>
+<wi type="G"value="2097,9,">predica una «buena nueva» diferente</wi>;
+<wi type="G"value="3844,11,">a</wi>
+<wi type="G"value="3739,12,">la que</wi>
+<wi type="G"value="5213,14,">les</wi>
+<wi type="G"value="2097,13,">hemos predicado</wi>,
+<wi type="G"value="331,15,">maldito</wi>
+<wi type="G"value="2077,16,">sea</wi>.
 </t>
 </sv>
 <sv id="Galatians-1-9">
 As we have said before, so I now say again: if any man preaches to you
 any «good news» other than that which you
-<wi type="T" value="P"/> received, let him be cursed.
-<t xml:lang="es"><wi type="G" value="5613,1,">Como</wi>
-<wi type="G" value="4280,2,">antes dijimos</wi>,
-<wi type="G" value="2532,3,">así</wi>
-<wi type="G" value="3004,6,">lo digo</wi>
-<wi type="G" value="737,4,">ahora</wi>:
-<wi type="G" value="3825,5,">de nuevo</wi>
-<wi type="G" value="1487,7,">si</wi>
-<wi type="G" value="5100,8,">alguien</wi>
-<wi type="G" value="5209,9,">les</wi>
-<wi type="G" value="2097,10,">predica una «buena nueva» diferente</wi>
-<wi type="G" value="3844,11,">a</wi>
-<wi type="G" value="3739,12,">la que</wi>
-<wi type="G" value="3880,13,">han recibido</wi>,
-<wi type="G" value="331,14,">maldito</wi>
-<wi type="G" value="2077,15,">sea</wi>.
+<wi type="T"value="P"/> received, let him be cursed.
+<t xml:lang="es"><wi type="G"value="5613,1,">Como</wi>
+<wi type="G"value="4280,2,">antes dijimos</wi>,
+<wi type="G"value="2532,3,">así</wi>
+<wi type="G"value="3004,6,">lo digo</wi>
+<wi type="G"value="737,4,">ahora</wi>:
+<wi type="G"value="3825,5,">de nuevo</wi>
+<wi type="G"value="1487,7,">si</wi>
+<wi type="G"value="5100,8,">alguien</wi>
+<wi type="G"value="5209,9,">les</wi>
+<wi type="G"value="2097,10,">predica una «buena nueva» diferente</wi>
+<wi type="G"value="3844,11,">a</wi>
+<wi type="G"value="3739,12,">la que</wi>
+<wi type="G"value="3880,13,">han recibido</wi>,
+<wi type="G"value="331,14,">maldito</wi>
+<wi type="G"value="2077,15,">sea</wi>.
 </t>
 </sv>
 <sv id="Galatians-1-10">
 For am I now seeking the favor of men, or of God? Or am I striving to
 please men? For if I were still pleasing men, I wouldn´t be a servant of
 Christ.
-<t xml:lang="es">¿<wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="737,1,">ahora</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3982,4,">busco el favor</wi><rf>
+<t xml:lang="es">¿<wi type="G"value="1063,2,">Pues</wi>
+<wi type="G"value="737,1,">ahora</wi> </t>
+<rb xml:lang="es"><wi type="G"value="3982,4,">busco el favor</wi><rf>
 <citebib id="WEB"/> dice `busco el favor´,
 <citebib id="KJV2003"/> y <citebib id="RVG2012"/> dice `persuado.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `πειθω´
@@ -198,268 +198,268 @@ se traduce como persuadir (hacer amigos, buscar el favor, ganarse buena
 voluntad), ser persuadido o confiar o ser de confianza.
 </rf></rb>
 <t xml:lang="es">
-<wi type="G" value="444,3,">de los hombres</wi>,
-<wi type="G" value="2228,5,">o</wi> el
-<wi type="G" value="3588,6,"><wi type="G" value="2316,7,">de Dios</wi></wi>?
-¿<wi type="G" value="2228,8,">O</wi>
-<wi type="G" value="2212,9,">busco</wi>
-<wi type="G" value="700,11,">complacer</wi> a
-<wi type="G" value="444,10,">los hombres</wi>?
-<wi type="G" value="1063,13,">Pues</wi>
-<wi type="G" value="1487,12,">si</wi>
-<wi type="G" value="700,16,">estuviera complaciendo a</wi>
-<wi type="G" value="2089,14,"/><wi type="G" value="444,15,">los hombres</wi>,
-<wi type="G" value="3756,19,">no</wi>
-<wi type="G" value="302,20,"/><wi type="G" value="2252,21,">sería</wi>
-<wi type="G" value="1401,18,">un servidor</wi>
-<wi type="G" value="5547,17,">de Cristo</wi>.
+<wi type="G"value="444,3,">de los hombres</wi>,
+<wi type="G"value="2228,5,">o</wi> el
+<wi type="G"value="3588,6,"><wi type="G"value="2316,7,">de Dios</wi></wi>?
+¿<wi type="G"value="2228,8,">O</wi>
+<wi type="G"value="2212,9,">busco</wi>
+<wi type="G"value="700,11,">complacer</wi> a
+<wi type="G"value="444,10,">los hombres</wi>?
+<wi type="G"value="1063,13,">Pues</wi>
+<wi type="G"value="1487,12,">si</wi>
+<wi type="G"value="700,16,">estuviera complaciendo a</wi>
+<wi type="G"value="2089,14,"/><wi type="G"value="444,15,">los hombres</wi>,
+<wi type="G"value="3756,19,">no</wi>
+<wi type="G"value="302,20,"/><wi type="G"value="2252,21,">sería</wi>
+<wi type="G"value="1401,18,">un servidor</wi>
+<wi type="G"value="5547,17,">de Cristo</wi>.
 </t>
 </sv>
 <sv id="Galatians-1-11">
 But I make known to you, brothers, concerning the Good News which
 was preached by me, that it is not according to man.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G" value="5213,3,">les</wi>
-<wi type="G" value="1107,1,">certifico</wi>,
-<wi type="G" value="80,4,">hermanos</wi>,
-<wi type="G" value="3588,5,">que</wi>
-<wi type="G" value="2098,6,">la Buena Nueva</wi>
-<wi type="G" value="3588,7,">que</wi>
-<wi type="G" value="2097,8,">fue predicada</wi>
-<wi type="G" value="5259,9,">por</wi>
-<wi type="G" value="1700,10,">mi</wi>,
-<wi type="G" value="3754,11,"/><wi type="G" value="3756,12,">no</wi>
-<wi type="G" value="2076,13,">es</wi>
-<wi type="G" value="2596,14,">de acuerdo</wi>
-<wi type="G" value="444,15,">a los hombres</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Pero</wi>
+<wi type="G"value="5213,3,">les</wi>
+<wi type="G"value="1107,1,">certifico</wi>,
+<wi type="G"value="80,4,">hermanos</wi>,
+<wi type="G"value="3588,5,">que</wi>
+<wi type="G"value="2098,6,">la Buena Nueva</wi>
+<wi type="G"value="3588,7,">que</wi>
+<wi type="G"value="2097,8,">fue predicada</wi>
+<wi type="G"value="5259,9,">por</wi>
+<wi type="G"value="1700,10,">mi</wi>,
+<wi type="G"value="3754,11,"/><wi type="G"value="3756,12,">no</wi>
+<wi type="G"value="2076,13,">es</wi>
+<wi type="G"value="2596,14,">de acuerdo</wi>
+<wi type="G"value="444,15,">a los hombres</wi>.</t>
 </sv>
 <sv id="Galatians-1-12">
 For neither did I
 receive it from man, nor was I taught it, but it came to me through
 revelation of Jesus Christ.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="3761,1,">ni</wi>
-<wi type="G" value="1473,3,">yo</wi>
-<wi type="G" value="846,7,">lo</wi>
-<wi type="G" value="3880,6,">recibí</wi>
-<wi type="G" value="3844,4,">de</wi>
-<wi type="G" value="444,5,">hombres</wi>,
-<wi type="G" value="3777,8,">ni</wi> me
-<wi type="G" value="1321,9,">fue enseñado</wi>,
-<wi type="G" value="235,10,">sino</wi>
-<wi type="G" value="1223,11,">por</wi>
-<wi type="G" value="602,12,">la revelación</wi>
-<wi type="G" value="2424,13,">de Jesús</wi>
-<wi type="G" value="5547,14,">Cristo</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1063,2,">Pues</wi>
+<wi type="G"value="3761,1,">ni</wi>
+<wi type="G"value="1473,3,">yo</wi>
+<wi type="G"value="846,7,">lo</wi>
+<wi type="G"value="3880,6,">recibí</wi>
+<wi type="G"value="3844,4,">de</wi>
+<wi type="G"value="444,5,">hombres</wi>,
+<wi type="G"value="3777,8,">ni</wi> me
+<wi type="G"value="1321,9,">fue enseñado</wi>,
+<wi type="G"value="235,10,">sino</wi>
+<wi type="G"value="1223,11,">por</wi>
+<wi type="G"value="602,12,">la revelación</wi>
+<wi type="G"value="2424,13,">de Jesús</wi>
+<wi type="G"value="5547,14,">Cristo</wi>.</t>
 </sv>
 <sv id="Galatians-1-13">
 For you
-<wi type="T" value="P"/> have heard of my way of living
+<wi type="T"value="P"/> have heard of my way of living
 in time past in the Jews´ religion, how that beyond measure I persecuted the
 assembly of God, and ravaged it.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="191,1,">han oído</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="1699,4,">de mi</wi> </t>
-<rb xml:lang="es"><wi type="G" value="391,5,">manera de vivir</wi><rf>
+<t xml:lang="es"><wi type="G"value="1063,2,">Pues</wi>
+<wi type="G"value="191,1,">han oído</wi>
+<wi type="G"value="3588,3,"/><wi type="G"value="1699,4,">de mi</wi> </t>
+<rb xml:lang="es"><wi type="G"value="391,5,">manera de vivir</wi><rf>
 <citebib id="WEB"/> dice `forma de vivir´
 <citebib id="KJV2003"/> dice `conversación.´
 Según <citebib id="Thayer-BLB"/> la palabra griega
 `αναστροφην´ se traduce como manera de vivir, conducta, comportamiento.
 </rf></rb>
 <t xml:lang="es">
-<wi type="G" value="4218,6,">pasada</wi>
-<wi type="G" value="1722,7,">en</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="2454,9,">la religión judía</wi></wi>,
-<wi type="G" value="3754,10,">como</wi>
-<wi type="G" value="1377,13,">yo perseguía</wi>
-<wi type="G" value="2596,11,"/><wi type="G" value="5236,12,">sin medida</wi>
-a <wi type="G" value="3588,14,"><wi type="G" value="1577,15,">la iglesia</wi></wi>
-<wi type="G" value="3588,16,"><wi type="G" value="2316,17,">de Dios</wi></wi>
-<wi type="G" value="2532,18,">y</wi>
-<wi type="G" value="846,20,">la</wi>
-<wi type="G" value="4199,19,">devastaba</wi>.</t>
+<wi type="G"value="4218,6,">pasada</wi>
+<wi type="G"value="1722,7,">en</wi>
+<wi type="G"value="3588,8,"><wi type="G"value="2454,9,">la religión judía</wi></wi>,
+<wi type="G"value="3754,10,">como</wi>
+<wi type="G"value="1377,13,">yo perseguía</wi>
+<wi type="G"value="2596,11,"/><wi type="G"value="5236,12,">sin medida</wi>
+a <wi type="G"value="3588,14,"><wi type="G"value="1577,15,">la iglesia</wi></wi>
+<wi type="G"value="3588,16,"><wi type="G"value="2316,17,">de Dios</wi></wi>
+<wi type="G"value="2532,18,">y</wi>
+<wi type="G"value="846,20,">la</wi>
+<wi type="G"value="4199,19,">devastaba</wi>.</t>
 </sv>
 <sv id="Galatians-1-14">
 I advanced in the Jews´ religion
 beyond many of my own age among my countrymen, being more exceedingly zealous
 for the traditions of my fathers.
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
-<wi type="G" value="4298,2,">aventajaba</wi>
-<wi type="G" value="1722,3,">en</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="2454,5,">la religión judía</wi></wi>
-<wi type="G" value="5228,6,">a</wi>
-<wi type="G" value="4183,7,">muchos</wi> de
-<wi type="G" value="4915,8,">los de mi edad</wi>
-<wi type="G" value="1722,9,">entre</wi> los
-<wi type="G" value="3450,12,">de mi</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="1085,11,">nación</wi></wi>,
-<wi type="G" value="5225,15,">siendo</wi>
-<wi type="G" value="4056,13,">más</wi>
-<wi type="G" value="2207,14,">celoso</wi>
-<wi type="G" value="3588,16,"/><wi type="G" value="3967,17,">por las tradiciones</wi>
-<wi type="G" value="3450,18,">de mis</wi>
-<wi type="G" value="3862,19,">padres</wi>.</t>
+<t xml:lang="es"><wi type="G"value="2532,1,">Y</wi>
+<wi type="G"value="4298,2,">aventajaba</wi>
+<wi type="G"value="1722,3,">en</wi>
+<wi type="G"value="3588,4,"><wi type="G"value="2454,5,">la religión judía</wi></wi>
+<wi type="G"value="5228,6,">a</wi>
+<wi type="G"value="4183,7,">muchos</wi> de
+<wi type="G"value="4915,8,">los de mi edad</wi>
+<wi type="G"value="1722,9,">entre</wi> los
+<wi type="G"value="3450,12,">de mi</wi>
+<wi type="G"value="3588,10,"><wi type="G"value="1085,11,">nación</wi></wi>,
+<wi type="G"value="5225,15,">siendo</wi>
+<wi type="G"value="4056,13,">más</wi>
+<wi type="G"value="2207,14,">celoso</wi>
+<wi type="G"value="3588,16,"/><wi type="G"value="3967,17,">por las tradiciones</wi>
+<wi type="G"value="3450,18,">de mis</wi>
+<wi type="G"value="3862,19,">padres</wi>.</t>
 </sv>
 <sv id="Galatians-1-15">
 But when it was the good pleasure of
 God, who separated me from my mother´s womb, and called me through his grace,
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G" value="3753,1,">cuando</wi>
-<wi type="G" value="2106,3,">le complació</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="2316,5,">a Dios</wi></wi>,
-<wi type="G" value="3588,6,">quien</wi>
-<wi type="G" value="3165,8,">me</wi>
-<wi type="G" value="873,7,">aparto</wi>
-<wi type="G" value="1537,9,">desde</wi>
-<wi type="G" value="2836,10,">el vientre</wi>
-<wi type="G" value="3450,12,">de mi</wi>
-<wi type="G" value="3384,11,">madre</wi>,
-<wi type="G" value="2532,13,">y</wi> me
-<wi type="G" value="2564,14,">llamó</wi>
-<wi type="G" value="1223,15,">por</wi>
-<wi type="G" value="846,18,">su</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="5485,17,">gracia</wi></wi>,
+<t xml:lang="es"><wi type="G"value="1161,2,">Pero</wi>
+<wi type="G"value="3753,1,">cuando</wi>
+<wi type="G"value="2106,3,">le complació</wi>
+<wi type="G"value="3588,4,"><wi type="G"value="2316,5,">a Dios</wi></wi>,
+<wi type="G"value="3588,6,">quien</wi>
+<wi type="G"value="3165,8,">me</wi>
+<wi type="G"value="873,7,">aparto</wi>
+<wi type="G"value="1537,9,">desde</wi>
+<wi type="G"value="2836,10,">el vientre</wi>
+<wi type="G"value="3450,12,">de mi</wi>
+<wi type="G"value="3384,11,">madre</wi>,
+<wi type="G"value="2532,13,">y</wi> me
+<wi type="G"value="2564,14,">llamó</wi>
+<wi type="G"value="1223,15,">por</wi>
+<wi type="G"value="846,18,">su</wi>
+<wi type="G"value="3588,16,"><wi type="G"value="5485,17,">gracia</wi></wi>,
 </t>
 </sv>
 <sv id="Galatians-1-16">
 to reveal his Son in me, that I might preach him among the Gentiles, I
 didn´t immediately confer with flesh and blood,
-<t xml:lang="es"><wi type="G" value="601,1,">revelar</wi>
-<wi type="G" value="846,4,">a su</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="5207,3,">Hijo</wi></wi>
-<wi type="G" value="1722,5,">en</wi>
-<wi type="G" value="1698,6,">mí</wi>,
-<wi type="G" value="2443,7,">para que</wi>
-<wi type="G" value="846,9,">lo</wi>
-<wi type="G" value="2097,8,">predicara</wi>
-<wi type="G" value="1722,10,">entre</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="1484,12,">los gentiles</wi></wi>, yo
-<wi type="G" value="2112,13,">de inmediato</wi>
-<wi type="G" value="3756,14,">no</wi>
-<wi type="G" value="4323,15,">me dediqué</wi>
-<wi type="G" value="4561,16,">con carne</wi>
-<wi type="G" value="2532,17,">y</wi>
-<wi type="G" value="129,18,">sangre</wi>,</t>
+<t xml:lang="es"><wi type="G"value="601,1,">revelar</wi>
+<wi type="G"value="846,4,">a su</wi>
+<wi type="G"value="3588,2,"><wi type="G"value="5207,3,">Hijo</wi></wi>
+<wi type="G"value="1722,5,">en</wi>
+<wi type="G"value="1698,6,">mí</wi>,
+<wi type="G"value="2443,7,">para que</wi>
+<wi type="G"value="846,9,">lo</wi>
+<wi type="G"value="2097,8,">predicara</wi>
+<wi type="G"value="1722,10,">entre</wi>
+<wi type="G"value="3588,11,"><wi type="G"value="1484,12,">los gentiles</wi></wi>, yo
+<wi type="G"value="2112,13,">de inmediato</wi>
+<wi type="G"value="3756,14,">no</wi>
+<wi type="G"value="4323,15,">me dediqué</wi>
+<wi type="G"value="4561,16,">con carne</wi>
+<wi type="G"value="2532,17,">y</wi>
+<wi type="G"value="129,18,">sangre</wi>,</t>
 </sv>
 <sv id="Galatians-1-17">
 nor did I go up to
 Jerusalem to those who were apostles before me, but I went away into Arabia.
 Then I returned to Damascus.
-<t xml:lang="es"><wi type="G" value="3761,1,">ni</wi>
-<wi type="G" value="424,2,">fui</wi>
-<wi type="G" value="1519,3,">a</wi>
-<wi type="G" value="2414,4,">Jerusalén</wi>
-<wi type="G" value="4314,5,">donde</wi>
-<wi type="G" value="3588,6,">los que</wi> fueron
-<wi type="G" value="652,9,">apóstoles</wi>
-<wi type="G" value="4253,7,">antes que</wi> i
-<wi type="G" value="1700,8,">yo</wi>,
-<wi type="G" value="235,10,">sino</wi>
-<wi type="G" value="565,11,">fui</wi>
-<wi type="G" value="1519,12,">a</wi>
-<wi type="G" value="688,13,">Arabia</wi>.
-<wi type="G" value="2532,14,">Y</wi>
-<wi type="G" value="5290,16,">regresé</wi>
-<wi type="G" value="3825,15,">de nuevo</wi>
-<wi type="G" value="1519,17,">a</wi>
-<wi type="G" value="1154,18,">Damasco</wi>.</t>
+<t xml:lang="es"><wi type="G"value="3761,1,">ni</wi>
+<wi type="G"value="424,2,">fui</wi>
+<wi type="G"value="1519,3,">a</wi>
+<wi type="G"value="2414,4,">Jerusalén</wi>
+<wi type="G"value="4314,5,">donde</wi>
+<wi type="G"value="3588,6,">los que</wi> fueron
+<wi type="G"value="652,9,">apóstoles</wi>
+<wi type="G"value="4253,7,">antes que</wi> i
+<wi type="G"value="1700,8,">yo</wi>,
+<wi type="G"value="235,10,">sino</wi>
+<wi type="G"value="565,11,">fui</wi>
+<wi type="G"value="1519,12,">a</wi>
+<wi type="G"value="688,13,">Arabia</wi>.
+<wi type="G"value="2532,14,">Y</wi>
+<wi type="G"value="5290,16,">regresé</wi>
+<wi type="G"value="3825,15,">de nuevo</wi>
+<wi type="G"value="1519,17,">a</wi>
+<wi type="G"value="1154,18,">Damasco</wi>.</t>
 </sv>
 <sv id="Galatians-1-18">
 Then after three years I went up to
 Jerusalem to visit Peter, and stayed with him fifteen days.
-<t xml:lang="es"><wi type="G" value="1899,1,">Entonces</wi>
-<wi type="G" value="3326,2,">después</wi>
-<wi type="G" value="5140,4,">de tres</wi>
-<wi type="G" value="2094,3,">años</wi>
-<wi type="G" value="424,5,">fui</wi>
-<wi type="G" value="1519,6,">a</wi>
-<wi type="G" value="2414,7,">Jerusalén</wi>
-<wi type="G" value="2477,8,">a ver a</wi>
-<wi type="G" value="4074,9,">Pedro</wi>,
-<wi type="G" value="2532,10,">y</wi>
-<wi type="G" value="1961,11,">estuve</wi>
-<wi type="G" value="4314,12,">con</wi>
-<wi type="G" value="846,13,">él</wi>
-<wi type="G" value="1178,15,">quince</wi>
-<wi type="G" value="2250,14,">días</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1899,1,">Entonces</wi>
+<wi type="G"value="3326,2,">después</wi>
+<wi type="G"value="5140,4,">de tres</wi>
+<wi type="G"value="2094,3,">años</wi>
+<wi type="G"value="424,5,">fui</wi>
+<wi type="G"value="1519,6,">a</wi>
+<wi type="G"value="2414,7,">Jerusalén</wi>
+<wi type="G"value="2477,8,">a ver a</wi>
+<wi type="G"value="4074,9,">Pedro</wi>,
+<wi type="G"value="2532,10,">y</wi>
+<wi type="G"value="1961,11,">estuve</wi>
+<wi type="G"value="4314,12,">con</wi>
+<wi type="G"value="846,13,">él</wi>
+<wi type="G"value="1178,15,">quince</wi>
+<wi type="G"value="2250,14,">días</wi>.</t>
 </sv>
 <sv id="Galatians-1-19">
 But of the
 other apostles I saw no one, except James, the Lord´s brother.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G" value="2087,1,">de los otros</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="652,4,">apóstoles</wi></wi>
-<wi type="G" value="3756,5,">a ninguno</wi>
-<wi type="G" value="1492,6,">vi</wi>,
-<wi type="G" value="1487,7,">excepto a</wi>
-<wi type="G" value="3361,8,"/><wi type="G" value="2385,9,">Santiago</wi>,
-<wi type="G" value="3588,10,"><wi type="G" value="80,11,">el hermano</wi></wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2962,13,">del Señor</wi></wi>.</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Pero</wi>
+<wi type="G"value="2087,1,">de los otros</wi>
+<wi type="G"value="3588,3,"><wi type="G"value="652,4,">apóstoles</wi></wi>
+<wi type="G"value="3756,5,">a ninguno</wi>
+<wi type="G"value="1492,6,">vi</wi>,
+<wi type="G"value="1487,7,">excepto a</wi>
+<wi type="G"value="3361,8,"/><wi type="G"value="2385,9,">Santiago</wi>,
+<wi type="G"value="3588,10,"><wi type="G"value="80,11,">el hermano</wi></wi>
+<wi type="G"value="3588,12,"><wi type="G"value="2962,13,">del Señor</wi></wi>.</t>
 </sv>
 <sv id="Galatians-1-20">
 Now
 about the things which I write to you, behold, before God, I´m not lying.
-<t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>
-<wi type="G" value="3739,1,">de esto</wi> que
-<wi type="G" value="5213,4,">les</wi>
-<wi type="G" value="1125,3,">escribí</wi>,
-<wi type="G" value="2400,5,">vean</wi>
-<wi type="G" value="1799,6,">delante</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="2316,8,">de Dios</wi></wi>,
-<wi type="G" value="3754,9,">que</wi>
-<wi type="G" value="3756,10,">no</wi>
-<wi type="G" value="5574,11,">estoy mintiendo</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Ahora</wi>
+<wi type="G"value="3739,1,">de esto</wi> que
+<wi type="G"value="5213,4,">les</wi>
+<wi type="G"value="1125,3,">escribí</wi>,
+<wi type="G"value="2400,5,">vean</wi>
+<wi type="G"value="1799,6,">delante</wi>
+<wi type="G"value="3588,7,"><wi type="G"value="2316,8,">de Dios</wi></wi>,
+<wi type="G"value="3754,9,">que</wi>
+<wi type="G"value="3756,10,">no</wi>
+<wi type="G"value="5574,11,">estoy mintiendo</wi>.</t>
 </sv>
 <sv id="Galatians-1-21">
 Then I came to the regions of Syria and Cilicia.
-<t xml:lang="es"><wi type="G" value="1899,1,">Después</wi>
-i<wi type="G" value="2064,2,">fui</wi>
-<wi type="G" value="1519,3,">a</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="2824,5,">las regiones</wi></wi>
-<wi type="G" value="3588,6,"><wi type="G" value="4947,7,">de Siria</wi></wi>
-<wi type="G" value="2532,8,">y</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="2791,10,">Cilicia</wi></wi>.</t>
+<t xml:lang="es"><wi type="G"value="1899,1,">Después</wi>
+i<wi type="G"value="2064,2,">fui</wi>
+<wi type="G"value="1519,3,">a</wi>
+<wi type="G"value="3588,4,"><wi type="G"value="2824,5,">las regiones</wi></wi>
+<wi type="G"value="3588,6,"><wi type="G"value="4947,7,">de Siria</wi></wi>
+<wi type="G"value="2532,8,">y</wi>
+<wi type="G"value="3588,9,"><wi type="G"value="2791,10,">Cilicia</wi></wi>.</t>
 </sv>
 <sv id="Galatians-1-22">
 I was still
 unknown by face to the assemblies of Judea which were in Christ,
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="2252,1,">yo era</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="4383,5,">un rostro</wi></wi>
-<wi type="G" value="50,3,">desconocido</wi> para
-<wi type="G" value="3588,6,"><wi type="G" value="1577,7,">las iglesias</wi></wi>
-<wi type="G" value="3588,8,"><wi type="G" value="2449,9,">de Judea</wi></wi>
-<wi type="G" value="3588,10,">que estaban</wi>
-<wi type="G" value="1722,11,">en</wi>
-<wi type="G" value="5547,12,">Cristo</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Y</wi>
+<wi type="G"value="2252,1,">yo era</wi>
+<wi type="G"value="3588,4,"><wi type="G"value="4383,5,">un rostro</wi></wi>
+<wi type="G"value="50,3,">desconocido</wi> para
+<wi type="G"value="3588,6,"><wi type="G"value="1577,7,">las iglesias</wi></wi>
+<wi type="G"value="3588,8,"><wi type="G"value="2449,9,">de Judea</wi></wi>
+<wi type="G"value="3588,10,">que estaban</wi>
+<wi type="G"value="1722,11,">en</wi>
+<wi type="G"value="5547,12,">Cristo</wi>.</t>
 </sv>
 <sv id="Galatians-1-23">
 but they only heard: «He who once persecuted us now preaches the faith that he
 once tried to destroy.»
-<t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
-<wi type="G" value="3440,1,">sólo</wi>
-<wi type="G" value="2258,4,">habían</wi>
-<wi type="G" value="191,3,">oído</wi>
-«<wi type="G" value="3588,6,">Aquel</wi>
-<wi type="G" value="3754,5,">que</wi>
-<wi type="G" value="2248,8,">nos</wi>
-<wi type="G" value="1377,7,">perseguía</wi>
-<wi type="G" value="4218,9,">en el pasado</wi>,
-<wi type="G" value="3568,10,">ahora</wi>
-<wi type="G" value="2097,11,">predica</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="4102,13,">la fe</wi></wi>
-<wi type="G" value="3739,14,">que</wi>
-<wi type="G" value="4218,15,">antes</wi>
-<wi type="G" value="4199,16,">devastaba</wi>.»
+<t xml:lang="es"><wi type="G"value="1161,2,">pero</wi>
+<wi type="G"value="3440,1,">sólo</wi>
+<wi type="G"value="2258,4,">habían</wi>
+<wi type="G"value="191,3,">oído</wi>
+«<wi type="G"value="3588,6,">Aquel</wi>
+<wi type="G"value="3754,5,">que</wi>
+<wi type="G"value="2248,8,">nos</wi>
+<wi type="G"value="1377,7,">perseguía</wi>
+<wi type="G"value="4218,9,">en el pasado</wi>,
+<wi type="G"value="3568,10,">ahora</wi>
+<wi type="G"value="2097,11,">predica</wi>
+<wi type="G"value="3588,12,"><wi type="G"value="4102,13,">la fe</wi></wi>
+<wi type="G"value="3739,14,">que</wi>
+<wi type="G"value="4218,15,">antes</wi>
+<wi type="G"value="4199,16,">devastaba</wi>.»
 </t>
 </sv>
 <sv id="Galatians-1-24">
 And they glorified God in me.
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
-<wi type="G" value="1392,2,">glorificaban a</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">Dios</wi></wi>
-<wi type="G" value="1722,3,">en</wi>
-<wi type="G" value="1698,4,">mi</wi>.</t>
+<t xml:lang="es"><wi type="G"value="2532,1,">Y</wi>
+<wi type="G"value="1392,2,">glorificaban a</wi>
+<wi type="G"value="3588,5,"><wi type="G"value="2316,6,">Dios</wi></wi>
+<wi type="G"value="1722,3,">en</wi>
+<wi type="G"value="1698,4,">mi</wi>.</t>
 <cl/>
 </sv></cm></sc>
 <sc id="Galatians-2">
@@ -467,19 +467,19 @@ And they glorified God in me.
 <sv id="Galatians-2-1">
 Then after a period of fourteen years I went up again to Jerusalem
 with Barnabas, taking Titus also with me.
-<t xml:lang="es"><wi type="G" value="1899,1,">Entonces</wi>,
-<wi type="G" value="1223,2,">después</wi>
-<wi type="G" value="1180,3,">de catorce</wi>
-<wi type="G" value="2094,4,">años</wi>
-<wi type="G" value="305,6,">fui</wi>
-<wi type="G" value="3825,5,">de nuevo</wi>
-<wi type="G" value="1519,7,">a</wi>
-<wi type="G" value="2414,8,">Jerusalén</wi>
-<wi type="G" value="3326,9,">con</wi>
-<wi type="G" value="921,10,">Bernabé</wi>,
-<wi type="G" value="4838,11,">llevando</wi>
-<wi type="G" value="2532,12,">también a</wi>
-<wi type="G" value="5103,13,">Tito</wi>.
+<t xml:lang="es"><wi type="G"value="1899,1,">Entonces</wi>,
+<wi type="G"value="1223,2,">después</wi>
+<wi type="G"value="1180,3,">de catorce</wi>
+<wi type="G"value="2094,4,">años</wi>
+<wi type="G"value="305,6,">fui</wi>
+<wi type="G"value="3825,5,">de nuevo</wi>
+<wi type="G"value="1519,7,">a</wi>
+<wi type="G"value="2414,8,">Jerusalén</wi>
+<wi type="G"value="3326,9,">con</wi>
+<wi type="G"value="921,10,">Bernabé</wi>,
+<wi type="G"value="4838,11,">llevando</wi>
+<wi type="G"value="2532,12,">también a</wi>
+<wi type="G"value="5103,13,">Tito</wi>.
 </t>
 </sv>
 <sv id="Galatians-2-2">
@@ -487,128 +487,128 @@ I went up by revelation, and I
 laid before them the Good News which I preach among the Gentiles, but privately
 before those who were respected, for fear that I might be running, or had
 run, in vain.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="305,1,">fui</wi>
-<wi type="G" value="2596,3,">por</wi>
-<wi type="G" value="602,4,">revelación</wi>,
-<wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="846,7,">les</wi>
-<wi type="G" value="394,6,">comuniqué</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="2098,9,">la Buena Nueva</wi></wi>
-<wi type="G" value="3739,10,">que</wi>
-<wi type="G" value="2784,11,">había predicado</wi>
-<wi type="G" value="1722,12,">entre</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="1484,14,">los gentiles</wi></wi>,
-<wi type="G" value="2596,15,"/><wi type="G" value="1161,17,">pero</wi>
-<wi type="G" value="2398,16,">en privado</wi>
-<wi type="G" value="3588,18,">a los que</wi>
-<wi type="G" value="1380,19,">eran de reputación</wi>,
-<wi type="G" value="3381,20,">para no</wi>
-<wi type="G" value="5143,23,">estar corriendo</wi>,
-<wi type="G" value="2228,24,">o</wi>
-<wi type="G" value="5143,25,">haber corrido</wi>
-<wi type="G" value="1519,21,">en</wi>
-<wi type="G" value="2756,22,">vano</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Y</wi>
+<wi type="G"value="305,1,">fui</wi>
+<wi type="G"value="2596,3,">por</wi>
+<wi type="G"value="602,4,">revelación</wi>,
+<wi type="G"value="2532,5,">y</wi>
+<wi type="G"value="846,7,">les</wi>
+<wi type="G"value="394,6,">comuniqué</wi>
+<wi type="G"value="3588,8,"><wi type="G"value="2098,9,">la Buena Nueva</wi></wi>
+<wi type="G"value="3739,10,">que</wi>
+<wi type="G"value="2784,11,">había predicado</wi>
+<wi type="G"value="1722,12,">entre</wi>
+<wi type="G"value="3588,13,"><wi type="G"value="1484,14,">los gentiles</wi></wi>,
+<wi type="G"value="2596,15,"/><wi type="G"value="1161,17,">pero</wi>
+<wi type="G"value="2398,16,">en privado</wi>
+<wi type="G"value="3588,18,">a los que</wi>
+<wi type="G"value="1380,19,">eran de reputación</wi>,
+<wi type="G"value="3381,20,">para no</wi>
+<wi type="G"value="5143,23,">estar corriendo</wi>,
+<wi type="G"value="2228,24,">o</wi>
+<wi type="G"value="5143,25,">haber corrido</wi>
+<wi type="G"value="1519,21,">en</wi>
+<wi type="G"value="2756,22,">vano</wi>.</t>
 </sv>
 <sv id="Galatians-2-3">
 But not even Titus, who was with me, being a Greek, was
 compelled to be circumcised.
-<t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>
-<wi type="G" value="3761,2,">ni aún</wi>
-<wi type="G" value="5103,3,">Tito</wi>,
-<wi type="G" value="3588,4,">quien estaba</wi>
-<wi type="G" value="4862,5,"><wi type="G" value="1698,6,">conmigo</wi></wi>,
-<wi type="G" value="5607,8,">siendo</wi>
-<wi type="G" value="1672,7,">griego</wi>,
-<wi type="G" value="315,9,">fue obligado a</wi>
-<wi type="G" value="4059,10,">circuncidarse</wi>.
+<t xml:lang="es"><wi type="G"value="235,1,">Pero</wi>
+<wi type="G"value="3761,2,">ni aún</wi>
+<wi type="G"value="5103,3,">Tito</wi>,
+<wi type="G"value="3588,4,">quien estaba</wi>
+<wi type="G"value="4862,5,"><wi type="G"value="1698,6,">conmigo</wi></wi>,
+<wi type="G"value="5607,8,">siendo</wi>
+<wi type="G"value="1672,7,">griego</wi>,
+<wi type="G"value="315,9,">fue obligado a</wi>
+<wi type="G"value="4059,10,">circuncidarse</wi>.
 </t>
 </sv>
 <sv id="Galatians-2-4">
 This was because of the false brothers
 secretly brought in, who stole in to spy out our liberty which we have in
 Christ Jesus, that they might bring us into bondage;
-<t xml:lang="es"><wi type="G" value="1161,2,">Esto</wi>
-<wi type="G" value="1223,1,">debido a</wi>
-<wi type="G" value="5569,5,">los falsos hermanos</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="3920,4,">traídos en secreto</wi>,
-<wi type="G" value="3748,6,">que</wi> <wi type="G" value="3922,7,">vinieron a</wi>
-<wi type="G" value="2684,8,">espiar</wi>
-<wi type="G" value="2257,11,">nuestra</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="1657,10,">libertad</wi></wi>
-<wi type="G" value="3739,12,">que</wi>
-<wi type="G" value="2192,13,">tenemos</wi>
-<wi type="G" value="1722,14,">en</wi>
-<wi type="G" value="5547,15,">Cristo</wi>
-<wi type="G" value="2424,16,">Jesús</wi>,
-<wi type="G" value="2443,17,">para</wi>
-<wi type="G" value="2615,19,"><wi type="G" value="2248,18,">hacernos esclavos</wi></wi>;</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Esto</wi>
+<wi type="G"value="1223,1,">debido a</wi>
+<wi type="G"value="5569,5,">los falsos hermanos</wi>
+<wi type="G"value="3588,3,"/><wi type="G"value="3920,4,">traídos en secreto</wi>,
+<wi type="G"value="3748,6,">que</wi> <wi type="G"value="3922,7,">vinieron a</wi>
+<wi type="G"value="2684,8,">espiar</wi>
+<wi type="G"value="2257,11,">nuestra</wi>
+<wi type="G"value="3588,9,"><wi type="G"value="1657,10,">libertad</wi></wi>
+<wi type="G"value="3739,12,">que</wi>
+<wi type="G"value="2192,13,">tenemos</wi>
+<wi type="G"value="1722,14,">en</wi>
+<wi type="G"value="5547,15,">Cristo</wi>
+<wi type="G"value="2424,16,">Jesús</wi>,
+<wi type="G"value="2443,17,">para</wi>
+<wi type="G"value="2615,19,"><wi type="G"value="2248,18,">hacernos esclavos</wi></wi>;</t>
 </sv>
 <sv id="Galatians-2-5">
 to whom we gave no place in the way of subjection,
 not for an hour, that the truth of the Good News
 might continue with you.
-<t xml:lang="es"><wi type="G" value="3739,1,">a quienes</wi>
-<wi type="G" value="3761,2,">no</wi>
-<wi type="G" value="1502,5,">les dimos lugar</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="5292,7,">de sujeción</wi></wi>,
-ni <wi type="G" value="4314,3,">por</wi>
-<wi type="G" value="5610,4,">una hora</wi>,
-<wi type="G" value="2443,8,">para que</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="225,10,">la verdad</wi></wi>
-<wi type="G" value="3588,11,"><wi type="G" value="2098,12,">de la Buena Nueva</wi></wi>
-<wi type="G" value="1265,13,">pudiera continuar</wi>
-<wi type="G" value="4314,14,">con</wi>
-<wi type="G" value="5209,15,">ustedes</wi>.</t>
+<t xml:lang="es"><wi type="G"value="3739,1,">a quienes</wi>
+<wi type="G"value="3761,2,">no</wi>
+<wi type="G"value="1502,5,">les dimos lugar</wi>
+<wi type="G"value="3588,6,"><wi type="G"value="5292,7,">de sujeción</wi></wi>,
+ni <wi type="G"value="4314,3,">por</wi>
+<wi type="G"value="5610,4,">una hora</wi>,
+<wi type="G"value="2443,8,">para que</wi>
+<wi type="G"value="3588,9,"><wi type="G"value="225,10,">la verdad</wi></wi>
+<wi type="G"value="3588,11,"><wi type="G"value="2098,12,">de la Buena Nueva</wi></wi>
+<wi type="G"value="1265,13,">pudiera continuar</wi>
+<wi type="G"value="4314,14,">con</wi>
+<wi type="G"value="5209,15,">ustedes</wi>.</t>
 </sv>
 <sv id="Galatians-2-6">
 But from those who were reputed to be important
 (whatever they were, it makes no difference to me; God doesn´t show
 partiality to man)they, I say, who were respected imparted nothing to me,
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G" value="575,1,">de</wi>
-<wi type="G" value="3588,3,">los que</wi>
-<wi type="G" value="1380,4,">eran reconocidos</wi>
-<wi type="G" value="1511,5,">de ser</wi>
-<wi type="G" value="5100,6,">algo</wi>
-(<wi type="G" value="3697,7,">sea lo que</wi>
-<wi type="G" value="4218,8,"/><wi type="G" value="2258,9,">fuere</wi>,
-<wi type="G" value="3762,10,">no</wi>
-<wi type="G" value="1308,12,">hay diferencia</wi>
-<wi type="G" value="3427,11,">para mi</wi>;
-<wi type="G" value="2316,14,">Dios</wi>
-<wi type="G" value="3756,16,">no</wi>
-<wi type="G" value="2983,17,">acepta</wi>
-<wi type="G" value="4383,13,">lo que aparenta</wi>
-<wi type="G" value="444,15,">el hombre</wi>),
-<wi type="G" value="1063,19,">pues</wi>,
-<wi type="G" value="3588,20,">los que</wi>
-<wi type="G" value="1380,21,">eran reconocidos</wi>
-<wi type="G" value="3762,22,">nada</wi>
-<wi type="G" value="1698,18,">me</wi>
-<wi type="G" value="4323,23,">aportaron</wi>,</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Pero</wi>
+<wi type="G"value="575,1,">de</wi>
+<wi type="G"value="3588,3,">los que</wi>
+<wi type="G"value="1380,4,">eran reconocidos</wi>
+<wi type="G"value="1511,5,">de ser</wi>
+<wi type="G"value="5100,6,">algo</wi>
+(<wi type="G"value="3697,7,">sea lo que</wi>
+<wi type="G"value="4218,8,"/><wi type="G"value="2258,9,">fuere</wi>,
+<wi type="G"value="3762,10,">no</wi>
+<wi type="G"value="1308,12,">hay diferencia</wi>
+<wi type="G"value="3427,11,">para mi</wi>;
+<wi type="G"value="2316,14,">Dios</wi>
+<wi type="G"value="3756,16,">no</wi>
+<wi type="G"value="2983,17,">acepta</wi>
+<wi type="G"value="4383,13,">lo que aparenta</wi>
+<wi type="G"value="444,15,">el hombre</wi>),
+<wi type="G"value="1063,19,">pues</wi>,
+<wi type="G"value="3588,20,">los que</wi>
+<wi type="G"value="1380,21,">eran reconocidos</wi>
+<wi type="G"value="3762,22,">nada</wi>
+<wi type="G"value="1698,18,">me</wi>
+<wi type="G"value="4323,23,">aportaron</wi>,</t>
 </sv>
 <sv id="Galatians-2-7">
 but to the contrary, when they saw that I had been entrusted with the
 Good News for the uncircumcision, even as Peter with the Good News for the
 circumcision
-<t xml:lang="es"><wi type="G" value="235,1,">pero</wi>
-<wi type="G" value="5121,2,">por el contrario</wi>,
-<wi type="G" value="1492,3,">cuando vieron</wi>
-<wi type="G" value="3754,4,">que</wi>
-<wi type="G" value="4100,5,">se me había confiado</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="2098,7,">la Buena Nueva</wi></wi>
-<wi type="G" value="3588,8,"><wi type="G" value="203,9,">de los incircuncisos</wi></wi>,
-<wi type="G" value="2531,10,">como a</wi>
-<wi type="G" value="4074,11,">Pedro</wi> con la
-<wi type="G" value="3588,12,"><wi type="G" value="4061,13,">de los circuncisos</wi></wi></t>
+<t xml:lang="es"><wi type="G"value="235,1,">pero</wi>
+<wi type="G"value="5121,2,">por el contrario</wi>,
+<wi type="G"value="1492,3,">cuando vieron</wi>
+<wi type="G"value="3754,4,">que</wi>
+<wi type="G"value="4100,5,">se me había confiado</wi>
+<wi type="G"value="3588,6,"><wi type="G"value="2098,7,">la Buena Nueva</wi></wi>
+<wi type="G"value="3588,8,"><wi type="G"value="203,9,">de los incircuncisos</wi></wi>,
+<wi type="G"value="2531,10,">como a</wi>
+<wi type="G"value="4074,11,">Pedro</wi> con la
+<wi type="G"value="3588,12,"><wi type="G"value="4061,13,">de los circuncisos</wi></wi></t>
 </sv>
 <sv id="Galatians-2-8">
 (for he who appointed Peter to the apostleship of the
 circumcision appointed me also to the Gentiles);
-<t xml:lang="es">(<wi type="G" value="1063,2,">pues</wi>
-<wi type="G" value="3588,1,">el que</wi> </t>
-<rb xml:lang="es"><wi type="G" value="1754,3,">designó a</wi><rf>
+<t xml:lang="es">(<wi type="G"value="1063,2,">pues</wi>
+<wi type="G"value="3588,1,">el que</wi> </t>
+<rb xml:lang="es"><wi type="G"value="1754,3,">designó a</wi><rf>
 <citebib id="WEB"/> dice `designó,´
 <citebib id="KJV"/> dice `llevo efectivamente,´
 <citebib id="RVG2012"/> dice `hizo por.´
@@ -616,70 +616,70 @@ Según <citebib id="Thayer-BLB"/> la palabra griega `ενεργησας´
 se traduce como obrar, efectuar, forjar
 </rf></rb>
 <t xml:lang="es">
-<wi type="G" value="4074,4,">Pedro</wi>
-<wi type="G" value="1519,5,">al</wi>
-<wi type="G" value="651,6,">apostolado</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="4061,8,">de la circuncisión</wi></wi>
-<wi type="G" value="2532,10,">también</wi>
-<wi type="G" value="1698,11,">me</wi>
-<wi type="G" value="1754,9,">designó</wi>
-<wi type="G" value="1519,12,">a</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="1484,14,">los gentiles</wi></wi>);</t>
+<wi type="G"value="4074,4,">Pedro</wi>
+<wi type="G"value="1519,5,">al</wi>
+<wi type="G"value="651,6,">apostolado</wi>
+<wi type="G"value="3588,7,"><wi type="G"value="4061,8,">de la circuncisión</wi></wi>
+<wi type="G"value="2532,10,">también</wi>
+<wi type="G"value="1698,11,">me</wi>
+<wi type="G"value="1754,9,">designó</wi>
+<wi type="G"value="1519,12,">a</wi>
+<wi type="G"value="3588,13,"><wi type="G"value="1484,14,">los gentiles</wi></wi>);</t>
 </sv>
 <sv id="Galatians-2-9">
 and when they perceived
 the grace that was given to me, James and Cephas and John, they who were
 reputed to be pillars, gave to me and Barnabas the right hand of fellowship,
 that we should go to the Gentiles, and they to the circumcision.
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi> cuando
-<wi type="G" value="1097,2,">percibieron</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="5485,4,">la gracia</wi></wi>
-<wi type="G" value="3588,5,">que</wi>
-<wi type="G" value="3427,7,">me</wi>
-<wi type="G" value="1325,6,">fue dada</wi>,
-<wi type="G" value="2385,8,">Santiago</wi>
-<wi type="G" value="2532,9,">y</wi>
-<wi type="G" value="2786,10,">Cefas</wi>
-<wi type="G" value="2532,11,">y</wi>
-<wi type="G" value="2491,12,">Juan</wi>,
-<wi type="G" value="3588,13,">que</wi>
-<wi type="G" value="1380,14,">tenían reputación</wi>
-<wi type="G" value="1511,16,">de ser</wi>
-<wi type="G" value="4769,15,">pilares</wi>,
-nos <wi type="G" value="1325,18,">dieron</wi>
-<wi type="G" value="1698,19,">a mi</wi>
-<wi type="G" value="2532,20,">y</wi> a
-<wi type="G" value="921,21,">Bernabé</wi>
-<wi type="G" value="1188,17,">las manos derechas</wi>
-<wi type="G" value="2842,22,">de fraternidad</wi>,
-<wi type="G" value="2443,23,">para que</wi>
-<wi type="G" value="2249,24,">nosotros</wi> fueramos
-<wi type="G" value="1519,25,">a</wi>
-<wi type="G" value="3588,26,"><wi type="G" value="1484,27,">los gentiles</wi></wi>,
-<wi type="G" value="1161,29,">y</wi>
-<wi type="G" value="846,28,">ellos</wi>
-<wi type="G" value="1519,30,">a</wi>
-<wi type="G" value="3588,31,"><wi type="G" value="4061,32,">la circuncisión</wi></wi>.</t>
+<t xml:lang="es"><wi type="G"value="2532,1,">y</wi> cuando
+<wi type="G"value="1097,2,">percibieron</wi>
+<wi type="G"value="3588,3,"><wi type="G"value="5485,4,">la gracia</wi></wi>
+<wi type="G"value="3588,5,">que</wi>
+<wi type="G"value="3427,7,">me</wi>
+<wi type="G"value="1325,6,">fue dada</wi>,
+<wi type="G"value="2385,8,">Santiago</wi>
+<wi type="G"value="2532,9,">y</wi>
+<wi type="G"value="2786,10,">Cefas</wi>
+<wi type="G"value="2532,11,">y</wi>
+<wi type="G"value="2491,12,">Juan</wi>,
+<wi type="G"value="3588,13,">que</wi>
+<wi type="G"value="1380,14,">tenían reputación</wi>
+<wi type="G"value="1511,16,">de ser</wi>
+<wi type="G"value="4769,15,">pilares</wi>,
+nos <wi type="G"value="1325,18,">dieron</wi>
+<wi type="G"value="1698,19,">a mi</wi>
+<wi type="G"value="2532,20,">y</wi> a
+<wi type="G"value="921,21,">Bernabé</wi>
+<wi type="G"value="1188,17,">las manos derechas</wi>
+<wi type="G"value="2842,22,">de fraternidad</wi>,
+<wi type="G"value="2443,23,">para que</wi>
+<wi type="G"value="2249,24,">nosotros</wi> fueramos
+<wi type="G"value="1519,25,">a</wi>
+<wi type="G"value="3588,26,"><wi type="G"value="1484,27,">los gentiles</wi></wi>,
+<wi type="G"value="1161,29,">y</wi>
+<wi type="G"value="846,28,">ellos</wi>
+<wi type="G"value="1519,30,">a</wi>
+<wi type="G"value="3588,31,"><wi type="G"value="4061,32,">la circuncisión</wi></wi>.</t>
 </sv>
 <sv id="Galatians-2-10">
 They
 only asked us to remember the poorwhich very thing I was also zealous to
 do.
-<t xml:lang="es"><wi type="G" value="3440,1,">Sólo</wi>
-<wi type="G" value="2443,4,">que</wi>
-<wi type="G" value="3588,2,"/><wi type="G" value="3421,5,">recordáramos a</wi>
-<wi type="G" value="4434,3,">los  pobres</wi>,
-<wi type="G" value="846,9,">lo mismo</wi>
-<wi type="G" value="3739,6,">que</wi>
-<wi type="G" value="2532,7,"/>yo </t>
-<rb xml:lang="es">yo <wi type="G" value="4704,8,">era diligente</wi><rf>
+<t xml:lang="es"><wi type="G"value="3440,1,">Sólo</wi>
+<wi type="G"value="2443,4,">que</wi>
+<wi type="G"value="3588,2,"/><wi type="G"value="3421,5,">recordáramos a</wi>
+<wi type="G"value="4434,3,">los  pobres</wi>,
+<wi type="G"value="846,9,">lo mismo</wi>
+<wi type="G"value="3739,6,">que</wi>
+<wi type="G"value="2532,7,"/>yo </t>
+<rb xml:lang="es">yo <wi type="G"value="4704,8,">era diligente</wi><rf>
 <citebib id="WEB"/> dice `celoso´, <citebib id="KJV2003"/> dice  `ansioso´
 <citebib id="RVG2012"/> dice `solicito.´
 Según <citebib id="BLB"/> la palabra griega `εσπουδασα´ se traduce
 como diligente, presto, ansioso, laborar, estudiar.
 </rf></rb>
 <t xml:lang="es">
-<wi type="G" value="5124,10,"/><wi type="G" value="4160,11,">en hacer</wi>.
+<wi type="G"value="5124,10,"/><wi type="G"value="4160,11,">en hacer</wi>.
 </t>
 </sv></cm>
 
@@ -687,57 +687,57 @@ como diligente, presto, ansioso, laborar, estudiar.
 <sv id="Galatians-2-11">
 But when Peter came to Antioch, I resisted him to the face, because he
 stood condemned.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G" value="3753,1,">cuando</wi>
-<wi type="G" value="2064,3,">vino</wi>
-<wi type="G" value="4074,4,">Pedro</wi>
-<wi type="G" value="1519,5,">a</wi>
-<wi type="G" value="490,6,">Antioquía</wi>,
-<wi type="G" value="846,9,">lo</wi>
-<wi type="G" value="436,10,">resistí</wi>
-<wi type="G" value="2596,7,">en</wi>
-<wi type="G" value="4383,8,">el rostro</wi>,
-<wi type="G" value="3754,11,">porque</wi>
-<wi type="G" value="2258,13,">era de</wi>
-<wi type="G" value="2607,12,">condenar</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Pero</wi>
+<wi type="G"value="3753,1,">cuando</wi>
+<wi type="G"value="2064,3,">vino</wi>
+<wi type="G"value="4074,4,">Pedro</wi>
+<wi type="G"value="1519,5,">a</wi>
+<wi type="G"value="490,6,">Antioquía</wi>,
+<wi type="G"value="846,9,">lo</wi>
+<wi type="G"value="436,10,">resistí</wi>
+<wi type="G"value="2596,7,">en</wi>
+<wi type="G"value="4383,8,">el rostro</wi>,
+<wi type="G"value="3754,11,">porque</wi>
+<wi type="G"value="2258,13,">era de</wi>
+<wi type="G"value="2607,12,">condenar</wi>.</t>
 </sv>
 <sv id="Galatians-2-12">
 For before some people came from James, he ate with
 the Gentiles. But when they came, he drew back and separated himself, fearing
 those who were of the circumcision.
-<t xml:lang="es"><wi type="G" value="1063,3,">Pues</wi>
-<wi type="G" value="4253,1,">antes</wi>
-<wi type="G" value="3588,2,">de eso</wi>
-<wi type="G" value="5100,5,">algunos</wi>
-<wi type="G" value="2064,4,">vinieron</wi>
-<wi type="G" value="575,6,">de parte de</wi>
-<wi type="G" value="2385,7,">Jacobo</wi>,
-<wi type="G" value="4906,11,">quien comía</wi>
-<wi type="G" value="3326,8,">con</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="1484,10,">los gentiles</wi></wi>.
-<wi type="G" value="1161,13,">Pero</wi>
-<wi type="G" value="3753,12,">cuando</wi>
-<wi type="G" value="2064,14,">vinieron</wi>,
-<wi type="G" value="5288,15,">él se retiró</wi>
-<wi type="G" value="2532,16,">y</wi>
-<wi type="G" value="1438,18,">se</wi>
-<wi type="G" value="873,17,">separó</wi>,
-<wi type="G" value="5399,19,">temiendo</wi>
-<wi type="G" value="3588,20,">a los que</wi>
-<wi type="G" value="1537,21,">eran</wi>
-<wi type="G" value="4061,22,">de la circuncisión</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1063,3,">Pues</wi>
+<wi type="G"value="4253,1,">antes</wi>
+<wi type="G"value="3588,2,">de eso</wi>
+<wi type="G"value="5100,5,">algunos</wi>
+<wi type="G"value="2064,4,">vinieron</wi>
+<wi type="G"value="575,6,">de parte de</wi>
+<wi type="G"value="2385,7,">Jacobo</wi>,
+<wi type="G"value="4906,11,">quien comía</wi>
+<wi type="G"value="3326,8,">con</wi>
+<wi type="G"value="3588,9,"><wi type="G"value="1484,10,">los gentiles</wi></wi>.
+<wi type="G"value="1161,13,">Pero</wi>
+<wi type="G"value="3753,12,">cuando</wi>
+<wi type="G"value="2064,14,">vinieron</wi>,
+<wi type="G"value="5288,15,">él se retiró</wi>
+<wi type="G"value="2532,16,">y</wi>
+<wi type="G"value="1438,18,">se</wi>
+<wi type="G"value="873,17,">separó</wi>,
+<wi type="G"value="5399,19,">temiendo</wi>
+<wi type="G"value="3588,20,">a los que</wi>
+<wi type="G"value="1537,21,">eran</wi>
+<wi type="G"value="4061,22,">de la circuncisión</wi>.</t>
 </sv>
 <sv id="Galatians-2-13">
 And the rest of the Jews joined him
 in his hypocrisy; so that even Barnabas was carried away with their
 hypocrisy.
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="3062,6,">los otros</wi>
-<wi type="G" value="2453,7,">judíos</wi> </t>
-<wi type="G" value="2532,4,">también</wi>
+<t xml:lang="es"><wi type="G"value="2532,1,">Y</wi>
+<wi type="G"value="3588,5,"/><wi type="G"value="3062,6,">los otros</wi>
+<wi type="G"value="2453,7,">judíos</wi> </t>
+<wi type="G"value="2532,4,">también</wi>
 <rb xml:lang="es">
-<wi type="G" value="846,3,">se</wi>
-<wi type="G" value="4942,2,">unieron en su hipocresía</wi><rf>
+<wi type="G"value="846,3,">se</wi>
+<wi type="G"value="4942,2,">unieron en su hipocresía</wi><rf>
 <citebib id="WEB"/> dice `unieron en su hipocresía´,
 <citebib id="KJV2003"/> dice `encubrieron´,
 <citebib id="RVG2012"/> dice `simulación participaban.´
@@ -745,57 +745,57 @@ Según <citebib id="Thayer-BLB"/> la palabra griega
 `συνυπεκριθησαν´ significa encubrir o actuar de manera hipócrita.
 </rf></rb>
 <t xml:lang="es">;
-<wi type="G" value="5620,8,">incluso</wi>
-<wi type="G" value="921,10,">Bernabé</wi>
-<wi type="G" value="2532,9,">también</wi>
-<wi type="G" value="4879,11,">se asoció con</wi>
-<wi type="G" value="846,12,">su</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="5272,14,">hipocresía</wi></wi>.</t>
+<wi type="G"value="5620,8,">incluso</wi>
+<wi type="G"value="921,10,">Bernabé</wi>
+<wi type="G"value="2532,9,">también</wi>
+<wi type="G"value="4879,11,">se asoció con</wi>
+<wi type="G"value="846,12,">su</wi>
+<wi type="G"value="3588,13,"><wi type="G"value="5272,14,">hipocresía</wi></wi>.</t>
 </sv>
 <sv id="Galatians-2-14">
 But when I saw that they didn´t walk uprightly according to
 the truth of the Good News, I said to Peter before them all, «If you, being a
 Jew, live as the Gentiles do, and not as the Jews do, why do you compel the
 Gentiles to live as the Jews do?
-<t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>
-<wi type="G" value="3753,2,">cuando</wi>
-<wi type="G" value="1492,3,">vi</wi>
-<wi type="G" value="3754,4,">que</wi>
-<wi type="G" value="3756,5,">no</wi>
-<wi type="G" value="3716,6,">caminaban rectamente</wi>
-<wi type="G" value="4314,7,">de acuerdo a</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="225,9,">la verdad</wi></wi>
-<wi type="G" value="3588,10,"><wi type="G" value="2098,11,">de la Buena Nueva</wi></wi>,
-<wi type="G" value="2036,12,">le dije</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="4074,14,">a Pedro</wi></wi>
-<wi type="G" value="1715,15,">frente</wi>
-<wi type="G" value="3956,16,">a todos</wi>,
-«<wi type="G" value="1487,17,">Si</wi>
-<wi type="G" value="4771,18,">ustedes</wi>,
-<wi type="G" value="5225,20,">siendo</wi>
-<wi type="G" value="2453,19,">judíos</wi>,
-<wi type="G" value="2198,22,">viven</wi>
-<wi type="G" value="1483,21,">como gentiles</wi>,
-<wi type="G" value="2532,23,">y</wi>
-<wi type="G" value="3756,24,">no</wi>
-<wi type="G" value="2452,25,">como judíos</wi>,
-¿<wi type="G" value="5101,26,">por qué</wi>
-<wi type="G" value="315,29,">obligan</wi>
-<wi type="G" value="3588,27,"><wi type="G" value="1484,28,">a los gentiles</wi></wi>
-<wi type="G" value="2450,30,">a vivir como judíos</wi>?
+<t xml:lang="es"><wi type="G"value="235,1,">Pero</wi>
+<wi type="G"value="3753,2,">cuando</wi>
+<wi type="G"value="1492,3,">vi</wi>
+<wi type="G"value="3754,4,">que</wi>
+<wi type="G"value="3756,5,">no</wi>
+<wi type="G"value="3716,6,">caminaban rectamente</wi>
+<wi type="G"value="4314,7,">de acuerdo a</wi>
+<wi type="G"value="3588,8,"><wi type="G"value="225,9,">la verdad</wi></wi>
+<wi type="G"value="3588,10,"><wi type="G"value="2098,11,">de la Buena Nueva</wi></wi>,
+<wi type="G"value="2036,12,">le dije</wi>
+<wi type="G"value="3588,13,"><wi type="G"value="4074,14,">a Pedro</wi></wi>
+<wi type="G"value="1715,15,">frente</wi>
+<wi type="G"value="3956,16,">a todos</wi>,
+«<wi type="G"value="1487,17,">Si</wi>
+<wi type="G"value="4771,18,">ustedes</wi>,
+<wi type="G"value="5225,20,">siendo</wi>
+<wi type="G"value="2453,19,">judíos</wi>,
+<wi type="G"value="2198,22,">viven</wi>
+<wi type="G"value="1483,21,">como gentiles</wi>,
+<wi type="G"value="2532,23,">y</wi>
+<wi type="G"value="3756,24,">no</wi>
+<wi type="G"value="2452,25,">como judíos</wi>,
+¿<wi type="G"value="5101,26,">por qué</wi>
+<wi type="G"value="315,29,">obligan</wi>
+<wi type="G"value="3588,27,"><wi type="G"value="1484,28,">a los gentiles</wi></wi>
+<wi type="G"value="2450,30,">a vivir como judíos</wi>?
 </t>
 </sv></cm>
 <cm>
 <sv id="Galatians-2-15">
 «We, being Jews by nature, and not Gentile sinners,
-<t xml:lang="es">«<wi type="G" value="2249,1,">Nosotros</wi>,
-<wi type="G" value="2453,3,">judíos</wi>
-<wi type="G" value="5449,2,">por naturaleza</wi>
-<wi type="G" value="2532,4,">y</wi>
-<wi type="G" value="3756,5,">no</wi>
-<wi type="G" value="268,8,">pecadores</wi>
-<wi type="G" value="1537,6,">de</wi>
-<wi type="G" value="1484,7,">los gentiles</wi>, </t>
+<t xml:lang="es">«<wi type="G"value="2249,1,">Nosotros</wi>,
+<wi type="G"value="2453,3,">judíos</wi>
+<wi type="G"value="5449,2,">por naturaleza</wi>
+<wi type="G"value="2532,4,">y</wi>
+<wi type="G"value="3756,5,">no</wi>
+<wi type="G"value="268,8,">pecadores</wi>
+<wi type="G"value="1537,6,">de</wi>
+<wi type="G"value="1484,7,">los gentiles</wi>, </t>
 </sv>
 <sv id="Galatians-2-16">
 yet knowing
@@ -803,141 +803,141 @@ that a man is not justified by the works of the law but through the faith of
 Jesus Christ, even we believed in Christ Jesus, that we might be justified by
 faith in Christ, and not by the works of the law, because no flesh will be
 justified by the works of the law.
-<t xml:lang="es"><wi type="G" value="1492,1,">sabiendo</wi>
-<wi type="G" value="3754,2,">que</wi>
-<wi type="G" value="444,5,">el hombre</wi>
-<wi type="G" value="3756,3,">no</wi>
-<wi type="G" value="1344,4,">se justifica</wi>
-<wi type="G" value="1537,6,">por</wi>
-<wi type="G" value="2041,7,">las obras</wi>
-<wi type="G" value="3551,8,">de la ley</wi>
-<wi type="G" value="1437,9,"><wi type="G" value="3361,10,">sino</wi></wi>
-<wi type="G" value="1223,11,">mediante</wi>
-<wi type="G" value="4102,12,">la fe</wi>
-<wi type="G" value="2424,13,">de Jesús</wi>
-<wi type="G" value="5547,14,">Cristo</wi>,
-<wi type="G" value="2532,15,">incluso</wi>
-<wi type="G" value="2249,16,"><wi type="G" value="4100,20,">creímos</wi></wi>
-<wi type="G" value="1519,17,">en</wi>
-<wi type="G" value="5547,18,">Cristo</wi>
-<wi type="G" value="2424,19,">Jesús</wi>
-<wi type="G" value="2443,21,">para</wi>
-<wi type="G" value="1344,22,">ser justificados</wi>
-<wi type="G" value="1537,23,">por</wi>
-<wi type="G" value="4102,24,">la fe</wi>
-<wi type="G" value="5547,25,">de Cristo</wi>,
-<wi type="G" value="2532,26,">y</wi>
-<wi type="G" value="3756,27,">no</wi>
-<wi type="G" value="1537,28,">por</wi>
-<wi type="G" value="2041,29,">las obras</wi>
-<wi type="G" value="3551,30,">de la ley</wi>;
-<wi type="G" value="1360,31,">pues</wi>
-<wi type="G" value="3756,32,">ninguna</wi>
-<wi type="G" value="3956,37,"/><wi type="G" value="4561,38,">carne</wi>
-<wi type="G" value="1344,33,">será justificada</wi>
-<wi type="G" value="1537,34,">por</wi>
-<wi type="G" value="2041,35,">las obras</wi>
-<wi type="G" value="3551,36,">de la ley</wi>. </t>
+<t xml:lang="es"><wi type="G"value="1492,1,">sabiendo</wi>
+<wi type="G"value="3754,2,">que</wi>
+<wi type="G"value="444,5,">el hombre</wi>
+<wi type="G"value="3756,3,">no</wi>
+<wi type="G"value="1344,4,">se justifica</wi>
+<wi type="G"value="1537,6,">por</wi>
+<wi type="G"value="2041,7,">las obras</wi>
+<wi type="G"value="3551,8,">de la ley</wi>
+<wi type="G"value="1437,9,"><wi type="G"value="3361,10,">sino</wi></wi>
+<wi type="G"value="1223,11,">mediante</wi>
+<wi type="G"value="4102,12,">la fe</wi>
+<wi type="G"value="2424,13,">de Jesús</wi>
+<wi type="G"value="5547,14,">Cristo</wi>,
+<wi type="G"value="2532,15,">incluso</wi>
+<wi type="G"value="2249,16,"><wi type="G"value="4100,20,">creímos</wi></wi>
+<wi type="G"value="1519,17,">en</wi>
+<wi type="G"value="5547,18,">Cristo</wi>
+<wi type="G"value="2424,19,">Jesús</wi>
+<wi type="G"value="2443,21,">para</wi>
+<wi type="G"value="1344,22,">ser justificados</wi>
+<wi type="G"value="1537,23,">por</wi>
+<wi type="G"value="4102,24,">la fe</wi>
+<wi type="G"value="5547,25,">de Cristo</wi>,
+<wi type="G"value="2532,26,">y</wi>
+<wi type="G"value="3756,27,">no</wi>
+<wi type="G"value="1537,28,">por</wi>
+<wi type="G"value="2041,29,">las obras</wi>
+<wi type="G"value="3551,30,">de la ley</wi>;
+<wi type="G"value="1360,31,">pues</wi>
+<wi type="G"value="3756,32,">ninguna</wi>
+<wi type="G"value="3956,37,"/><wi type="G"value="4561,38,">carne</wi>
+<wi type="G"value="1344,33,">será justificada</wi>
+<wi type="G"value="1537,34,">por</wi>
+<wi type="G"value="2041,35,">las obras</wi>
+<wi type="G"value="3551,36,">de la ley</wi>. </t>
 </sv>
 <sv id="Galatians-2-17">
 But if, while we sought to be
 justified in Christ, we ourselves also were found sinners, is Christ a
 servant of sin? Certainly not!
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="1487,1,">si</wi>,
-<wi type="G" value="2212,3,">mientras buscamos</wi>
-<wi type="G" value="1344,4,">ser justificados</wi>
-<wi type="G" value="1722,5,">en</wi>
-<wi type="G" value="5547,6,">Cristo</wi>,
-<wi type="G" value="2532,8,">también</wi>
-<wi type="G" value="846,9,">nosotros</wi>
-<wi type="G" value="2147,7,">somos hallados</wi>
-<wi type="G" value="268,10,">pecadores</wi>,
-¿es <wi type="G" value="687,11,">entonces</wi>
-<wi type="G" value="5547,12,">Cristo</wi>
-<wi type="G" value="1249,14,">ministro</wi>
-<wi type="G" value="266,13,">del pecado</wi>?
-¡<wi type="G" value="3361,15,"><wi type="G" value="1096,16,">Ciertamente no</wi></wi>!</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Y</wi>
+<wi type="G"value="1487,1,">si</wi>,
+<wi type="G"value="2212,3,">mientras buscamos</wi>
+<wi type="G"value="1344,4,">ser justificados</wi>
+<wi type="G"value="1722,5,">en</wi>
+<wi type="G"value="5547,6,">Cristo</wi>,
+<wi type="G"value="2532,8,">también</wi>
+<wi type="G"value="846,9,">nosotros</wi>
+<wi type="G"value="2147,7,">somos hallados</wi>
+<wi type="G"value="268,10,">pecadores</wi>,
+¿es <wi type="G"value="687,11,">entonces</wi>
+<wi type="G"value="5547,12,">Cristo</wi>
+<wi type="G"value="1249,14,">ministro</wi>
+<wi type="G"value="266,13,">del pecado</wi>?
+¡<wi type="G"value="3361,15,"><wi type="G"value="1096,16,">Ciertamente no</wi></wi>!</t>
 </sv>
 <sv id="Galatians-2-18">
 For if I build up again those things
 which I destroyed, I prove myself a law-breaker.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="1487,1,">si</wi>
-<wi type="G" value="3618,7,">construyo</wi>
-<wi type="G" value="3825,6,">nuevamente</wi>
-<wi type="G" value="5023,5,">las cosas</wi>
-<wi type="G" value="3739,3,">que</wi>
-<wi type="G" value="2647,4,">destruí</wi>,
-<wi type="G" value="1683,9,">me</wi>
-<wi type="G" value="4921,10,">hago</wi>
-<wi type="G" value="3848,8,">un quebrantador de la ley</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1063,2,">Pues</wi>
+<wi type="G"value="1487,1,">si</wi>
+<wi type="G"value="3618,7,">construyo</wi>
+<wi type="G"value="3825,6,">nuevamente</wi>
+<wi type="G"value="5023,5,">las cosas</wi>
+<wi type="G"value="3739,3,">que</wi>
+<wi type="G"value="2647,4,">destruí</wi>,
+<wi type="G"value="1683,9,">me</wi>
+<wi type="G"value="4921,10,">hago</wi>
+<wi type="G"value="3848,8,">un quebrantador de la ley</wi>.</t>
 </sv>
 <sv id="Galatians-2-19">
 For I, through the
 law, died to the law, that I might live to God.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="1473,1,">yo</wi>,
-<wi type="G" value="1223,3,">por</wi>
-<wi type="G" value="3551,4,">la ley</wi>,
-<wi type="G" value="599,6,">morí</wi>
-<wi type="G" value="3551,5,">a la ley</wi>,
-<wi type="G" value="2443,7,">para</wi>
-<wi type="G" value="2198,9,">poder vivir a</wi>
-<wi type="G" value="2316,8,">Dios</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1063,2,">Pues</wi>
+<wi type="G"value="1473,1,">yo</wi>,
+<wi type="G"value="1223,3,">por</wi>
+<wi type="G"value="3551,4,">la ley</wi>,
+<wi type="G"value="599,6,">morí</wi>
+<wi type="G"value="3551,5,">a la ley</wi>,
+<wi type="G"value="2443,7,">para</wi>
+<wi type="G"value="2198,9,">poder vivir a</wi>
+<wi type="G"value="2316,8,">Dios</wi>.</t>
 </sv>
 <sv id="Galatians-2-20">
 I have been crucified
 with Christ, and it is no longer I that live, but Christ living in me. That
 life which I now live in the flesh, I live by faith in the Son of God, who
 loved me, and gave himself up for me.
-<t xml:lang="es"><wi type="G" value="4957,2,">Crucificado con</wi>
-<wi type="G" value="5547,1,">Cristo</wi>,
-<wi type="G" value="1161,4,">y</wi>
-<wi type="G" value="3765,5,">no</wi> <wi type="G" value="2198,3,">vivo</wi>
-<wi type="G" value="1473,6,">yo</wi>,
-<wi type="G" value="1161,8,">pero</wi>
-<wi type="G" value="5547,11,">Cristo</wi>
-<wi type="G" value="2198,7,">vive</wi>
-<wi type="G" value="1722,9,">en</wi>
-<wi type="G" value="1698,10,">mí</wi>.
-<wi type="G" value="1161,13,">Y</wi>
-<wi type="G" value="3739,12,">la vida</wi> que
-<wi type="G" value="3568,14,">ahora</wi>
-<wi type="G" value="2198,15,">vivo</wi>
-<wi type="G" value="1722,16,">en</wi>
-<wi type="G" value="4561,17,">la carne</wi>,
-<wi type="G" value="2198,20,">la vivo</wi>
-<wi type="G" value="1722,18,">por</wi>
-<wi type="G" value="4102,19,">fe</wi> en
-<wi type="G" value="3588,21,"/><wi type="G" value="3588,22,"><wi type="G" value="5207,23,">el Hijo</wi></wi>
-<wi type="G" value="3588,24,"><wi type="G" value="2316,25,">de Dios</wi></wi>,
-<wi type="G" value="3588,26,">quien</wi>
-<wi type="G" value="3165,28,">me</wi>
-<wi type="G" value="25,27,">amó</wi>,
-<wi type="G" value="2532,29,">y</wi> quien
-<wi type="G" value="1438,31,">se</wi>
-<wi type="G" value="3860,30,">entregó</wi>
-<wi type="G" value="5228,32,">por</wi>
-<wi type="G" value="1700,33,">mi</wi>.</t>
+<t xml:lang="es"><wi type="G"value="4957,2,">Crucificado con</wi>
+<wi type="G"value="5547,1,">Cristo</wi>,
+<wi type="G"value="1161,4,">y</wi>
+<wi type="G"value="3765,5,">no</wi> <wi type="G"value="2198,3,">vivo</wi>
+<wi type="G"value="1473,6,">yo</wi>,
+<wi type="G"value="1161,8,">pero</wi>
+<wi type="G"value="5547,11,">Cristo</wi>
+<wi type="G"value="2198,7,">vive</wi>
+<wi type="G"value="1722,9,">en</wi>
+<wi type="G"value="1698,10,">mí</wi>.
+<wi type="G"value="1161,13,">Y</wi>
+<wi type="G"value="3739,12,">la vida</wi> que
+<wi type="G"value="3568,14,">ahora</wi>
+<wi type="G"value="2198,15,">vivo</wi>
+<wi type="G"value="1722,16,">en</wi>
+<wi type="G"value="4561,17,">la carne</wi>,
+<wi type="G"value="2198,20,">la vivo</wi>
+<wi type="G"value="1722,18,">por</wi>
+<wi type="G"value="4102,19,">fe</wi> en
+<wi type="G"value="3588,21,"/><wi type="G"value="3588,22,"><wi type="G"value="5207,23,">el Hijo</wi></wi>
+<wi type="G"value="3588,24,"><wi type="G"value="2316,25,">de Dios</wi></wi>,
+<wi type="G"value="3588,26,">quien</wi>
+<wi type="G"value="3165,28,">me</wi>
+<wi type="G"value="25,27,">amó</wi>,
+<wi type="G"value="2532,29,">y</wi> quien
+<wi type="G"value="1438,31,">se</wi>
+<wi type="G"value="3860,30,">entregó</wi>
+<wi type="G"value="5228,32,">por</wi>
+<wi type="G"value="1700,33,">mi</wi>.</t>
 </sv>
 <sv id="Galatians-2-21">
 I don´t make void the grace of
 God. For if righteousness is through the law, then Christ died for
 nothing!»
-<t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
-<wi type="G" value="114,2,">hago vana</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="5485,4,">la gracia</wi></wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">de Dios</wi></wi>.
-¡<wi type="G" value="1063,8,">Pues</wi>
-<wi type="G" value="1487,7,">si</wi>
-<wi type="G" value="1343,11,">la justicia</wi> fuera
-<wi type="G" value="1223,9,">por</wi>
-<wi type="G" value="3551,10,">la ley</wi>,
-<wi type="G" value="686,12,">entonces</wi>
-<wi type="G" value="5547,13,">Cristo</wi>
-<wi type="G" value="599,15,">murió</wi>
-<wi type="G" value="1432,14,">en vano</wi>!»
+<t xml:lang="es"><wi type="G"value="3756,1,">No</wi>
+<wi type="G"value="114,2,">hago vana</wi>
+<wi type="G"value="3588,3,"><wi type="G"value="5485,4,">la gracia</wi></wi>
+<wi type="G"value="3588,5,"><wi type="G"value="2316,6,">de Dios</wi></wi>.
+¡<wi type="G"value="1063,8,">Pues</wi>
+<wi type="G"value="1487,7,">si</wi>
+<wi type="G"value="1343,11,">la justicia</wi> fuera
+<wi type="G"value="1223,9,">por</wi>
+<wi type="G"value="3551,10,">la ley</wi>,
+<wi type="G"value="686,12,">entonces</wi>
+<wi type="G"value="5547,13,">Cristo</wi>
+<wi type="G"value="599,15,">murió</wi>
+<wi type="G"value="1432,14,">en vano</wi>!»
 </t>
 
 <cl/>
@@ -949,21 +949,21 @@ nothing!»
 <sv id="Galatians-3-1">
 Foolish Galatians, who has bewitched you not to obey the truth,
 before whose eyes Jesus Christ was openly set forth among you as crucified?
-<t xml:lang="es"><wi type="G" value="5599,1,">Oh</wi>
-<wi type="G" value="1052,3,">Gálatas</wi>
-<wi type="G" value="453,2,">necios</wi>,
-<wi type="G" value="5101,4,">quien</wi>
-<wi type="G" value="5209,5,">los</wi>
-<wi type="G" value="940,6,">encantó</wi> para que
-<wi type="G" value="3361,9,">no</wi>
-<wi type="G" value="3982,10,">obedezcan a</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="225,8,">la verdad</wi></wi>,
-<wi type="G" value="2596,12,">frente</wi>
-<wi type="G" value="3739,11,">a sus</wi>
-<wi type="G" value="3788,13,">ojos</wi>
-<wi type="G" value="2424,14,">Jesús</wi>
-<wi type="G" value="5547,15,">Cristo</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4270,16,">había sido anunciado</wi><rf>
+<t xml:lang="es"><wi type="G"value="5599,1,">Oh</wi>
+<wi type="G"value="1052,3,">Gálatas</wi>
+<wi type="G"value="453,2,">necios</wi>,
+<wi type="G"value="5101,4,">quien</wi>
+<wi type="G"value="5209,5,">los</wi>
+<wi type="G"value="940,6,">encantó</wi> para que
+<wi type="G"value="3361,9,">no</wi>
+<wi type="G"value="3982,10,">obedezcan a</wi>
+<wi type="G"value="3588,7,"><wi type="G"value="225,8,">la verdad</wi></wi>,
+<wi type="G"value="2596,12,">frente</wi>
+<wi type="G"value="3739,11,">a sus</wi>
+<wi type="G"value="3788,13,">ojos</wi>
+<wi type="G"value="2424,14,">Jesús</wi>
+<wi type="G"value="5547,15,">Cristo</wi> </t>
+<rb xml:lang="es"><wi type="G"value="4270,16,">había sido anunciado</wi><rf>
 <citebib id="WEB"/> dice `fue puesto abiertamente,´
 <citebib id="KJV2003"/> dice `fue puesto evidentemente,´
 <citebib id="RVG2012"/> dice `fue ya descrito.´
@@ -971,202 +971,202 @@ Según <citebib id="Thayer-BLB"/> la palabra griega `προεγραφη´
 significa escribir antes, presentar abiertamente, anunciar.
 </rf></rb>
 <t xml:lang="es">
-como <wi type="G" value="4717,19,">crucificado</wi>
-<wi type="G" value="1722,17,">entre</wi>
-<wi type="G" value="5213,18,">ustedes</wi>? </t>
+como <wi type="G"value="4717,19,">crucificado</wi>
+<wi type="G"value="1722,17,">entre</wi>
+<wi type="G"value="5213,18,">ustedes</wi>? </t>
 </sv>
 <sv id="Galatians-3-2">
 I just want to learn this from you. Did you
 receive the Spirit by
 the works of the law, or by hearing of faith?
-<t xml:lang="es"><wi type="G" value="3440,2,">Sólo</wi>
-<wi type="G" value="2309,3,">quiero</wi>
-<wi type="G" value="3129,4,">saber</wi>
-<wi type="G" value="5124,1,">esto</wi>
-<wi type="G" value="575,5,">de</wi>
-<wi type="G" value="5216,6,">ustedes</wi>.
-¿<wi type="G" value="2983,12,">Recibieron</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4151,11,">el Espíritu</wi></wi>
-<wi type="G" value="1537,7,">por</wi>
-<wi type="G" value="2041,8,">las obras</wi>
-<wi type="G" value="3551,9,">de la ley</wi>,
-<wi type="G" value="2228,13,">o</wi>
-<wi type="G" value="1537,14,">por</wi>
-<wi type="G" value="189,15,">el escuchar</wi>
-<wi type="G" value="4102,16,">de la fe</wi>?
+<t xml:lang="es"><wi type="G"value="3440,2,">Sólo</wi>
+<wi type="G"value="2309,3,">quiero</wi>
+<wi type="G"value="3129,4,">saber</wi>
+<wi type="G"value="5124,1,">esto</wi>
+<wi type="G"value="575,5,">de</wi>
+<wi type="G"value="5216,6,">ustedes</wi>.
+¿<wi type="G"value="2983,12,">Recibieron</wi>
+<wi type="G"value="3588,10,"><wi type="G"value="4151,11,">el Espíritu</wi></wi>
+<wi type="G"value="1537,7,">por</wi>
+<wi type="G"value="2041,8,">las obras</wi>
+<wi type="G"value="3551,9,">de la ley</wi>,
+<wi type="G"value="2228,13,">o</wi>
+<wi type="G"value="1537,14,">por</wi>
+<wi type="G"value="189,15,">el escuchar</wi>
+<wi type="G"value="4102,16,">de la fe</wi>?
 </t>
 </sv>
 <sv id="Galatians-3-3">
 Are you so foolish?
 Having begun in the Spirit, are you
 now completed in the flesh?
-<t xml:lang="es">¿<wi type="G" value="2075,3,">Son</wi>
-<wi type="G" value="3779,1,">tan</wi>
-<wi type="G" value="453,2,">necios</wi>?
-<wi type="G" value="1728,4,">Habiendo comenzado</wi>
-<wi type="G" value="4151,5,">en el Espíritu</wi>,
-¿<wi type="G" value="3568,6,">ahora</wi>
-<wi type="G" value="2005,8,">se completan</wi>
-<wi type="G" value="4561,7,">en la carne</wi>?</t>
+<t xml:lang="es">¿<wi type="G"value="2075,3,">Son</wi>
+<wi type="G"value="3779,1,">tan</wi>
+<wi type="G"value="453,2,">necios</wi>?
+<wi type="G"value="1728,4,">Habiendo comenzado</wi>
+<wi type="G"value="4151,5,">en el Espíritu</wi>,
+¿<wi type="G"value="3568,6,">ahora</wi>
+<wi type="G"value="2005,8,">se completan</wi>
+<wi type="G"value="4561,7,">en la carne</wi>?</t>
 </sv>
 <sv id="Galatians-3-4">
 Did you suffer so many things in vain, if it is indeed in vain?
-<t xml:lang="es">¿<wi type="G" value="3958,2,">Sufrieron</wi>
-<wi type="G" value="5118,1,">tantas cosas</wi>
-<wi type="G" value="1500,3,">en vano</wi>,
-<wi type="G" value="1489,4,">si</wi>
-<wi type="G" value="2532,5,">también</wi> fue
-<wi type="G" value="1500,6,">en vano</wi>?</t>
+<t xml:lang="es">¿<wi type="G"value="3958,2,">Sufrieron</wi>
+<wi type="G"value="5118,1,">tantas cosas</wi>
+<wi type="G"value="1500,3,">en vano</wi>,
+<wi type="G"value="1489,4,">si</wi>
+<wi type="G"value="2532,5,">también</wi> fue
+<wi type="G"value="1500,6,">en vano</wi>?</t>
 </sv>
 <sv id="Galatians-3-5">
 He
 therefore who supplies the Spirit to you, and works miracles among you, does
 he do it by the works of the law, or by hearing of faith?
-<t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
-<wi type="G" value="3588,1,">el que</wi>
-<wi type="G" value="5213,4,">les</wi>
-<wi type="G" value="2023,3,">dio</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="4151,6,">el Espíritu</wi></wi>,
-<wi type="G" value="2532,7,">y</wi>
-<wi type="G" value="1754,8,">ha obrado</wi>
-<wi type="G" value="1411,9,">milagros</wi>
-<wi type="G" value="1722,10,">entre</wi>
-<wi type="G" value="5213,11,">ustedes</wi>, fue
-<wi type="G" value="1537,12,">por</wi>
-<wi type="G" value="2041,13,">las obras</wi>
-<wi type="G" value="3551,14,">de la ley</wi>,
-<wi type="G" value="2228,15,">o</wi>
-<wi type="G" value="1537,16,">por</wi>
-<wi type="G" value="189,17,">el escuchar</wi>
-<wi type="G" value="4102,18,">de la fe</wi>?</t>
+<t xml:lang="es"><wi type="G"value="3767,2,">Entonces</wi>
+<wi type="G"value="3588,1,">el que</wi>
+<wi type="G"value="5213,4,">les</wi>
+<wi type="G"value="2023,3,">dio</wi>
+<wi type="G"value="3588,5,"><wi type="G"value="4151,6,">el Espíritu</wi></wi>,
+<wi type="G"value="2532,7,">y</wi>
+<wi type="G"value="1754,8,">ha obrado</wi>
+<wi type="G"value="1411,9,">milagros</wi>
+<wi type="G"value="1722,10,">entre</wi>
+<wi type="G"value="5213,11,">ustedes</wi>, fue
+<wi type="G"value="1537,12,">por</wi>
+<wi type="G"value="2041,13,">las obras</wi>
+<wi type="G"value="3551,14,">de la ley</wi>,
+<wi type="G"value="2228,15,">o</wi>
+<wi type="G"value="1537,16,">por</wi>
+<wi type="G"value="189,17,">el escuchar</wi>
+<wi type="G"value="4102,18,">de la fe</wi>?</t>
 </sv>
 <sv id="Galatians-3-6">
 Even as Abraham «believed God, and it was counted to him for righteousness.»
-<t xml:lang="es"><wi type="G" value="2531,1,">Incluso como</wi>
-<wi type="G" value="11,2,">Abraham</wi>
-«<wi type="G" value="4100,3,">le creyó a</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="2316,5,">Dios</wi></wi>,
-<wi type="G" value="2532,6,">y</wi>
-<wi type="G" value="846,8,">le</wi>
-<wi type="G" value="3049,7,">fue contado</wi>
-<wi type="G" value="1519,9,">por</wi>
-<wi type="G" value="1343,10,">justicia</wi>.»
+<t xml:lang="es"><wi type="G"value="2531,1,">Incluso como</wi>
+<wi type="G"value="11,2,">Abraham</wi>
+«<wi type="G"value="4100,3,">le creyó a</wi>
+<wi type="G"value="3588,4,"><wi type="G"value="2316,5,">Dios</wi></wi>,
+<wi type="G"value="2532,6,">y</wi>
+<wi type="G"value="846,8,">le</wi>
+<wi type="G"value="3049,7,">fue contado</wi>
+<wi type="G"value="1519,9,">por</wi>
+<wi type="G"value="1343,10,">justicia</wi>.»
 </t>
 </sv>
 <sv id="Galatians-3-7">
 Know therefore that those who are of faith, the same are children of
 Abraham.
-<t xml:lang="es"><wi type="G" value="1097,1,">Sepan</wi>
-<wi type="G" value="686,2,">entonces</wi>
-<wi type="G" value="3754,3,">que</wi>
-<wi type="G" value="3588,4,">los que</wi> son
-<wi type="G" value="1537,5,">de</wi>
-<wi type="G" value="4102,6,">fe</wi>,
-<wi type="G" value="3778,7,">también</wi>
-<wi type="G" value="1526,8,">son</wi>
-<wi type="G" value="5207,9,">hijos</wi>
-<wi type="G" value="11,10,">de Abraham</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1097,1,">Sepan</wi>
+<wi type="G"value="686,2,">entonces</wi>
+<wi type="G"value="3754,3,">que</wi>
+<wi type="G"value="3588,4,">los que</wi> son
+<wi type="G"value="1537,5,">de</wi>
+<wi type="G"value="4102,6,">fe</wi>,
+<wi type="G"value="3778,7,">también</wi>
+<wi type="G"value="1526,8,">son</wi>
+<wi type="G"value="5207,9,">hijos</wi>
+<wi type="G"value="11,10,">de Abraham</wi>.</t>
 </sv>
 <sv id="Galatians-3-8">
 The Scripture, foreseeing that God would justify the Gentiles
 by faith, preached the Good News beforehand to Abraham, saying, «In you all the
 nations will be blessed.»
-<t xml:lang="es"><wi type="G" value="1161,2,,">Y</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="1124,4,">la escritura</wi></wi>,
-<wi type="G" value="4275,1,">previendo</wi>
-<wi type="G" value="3754,5,">que</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="2316,12,">Dios</wi></wi>
-<wi type="G" value="1344,8,">justificaría a</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="1484,10,">los gentiles</wi></wi>
-<wi type="G" value="1537,6,">por</wi>
-<wi type="G" value="4102,7,">la fe</wi>,
-<wi type="G" value="4283,13,">evangelizó con anticipación a</wi>
-<wi type="G" value="3588,14,"/><wi type="G" value="11,15,">Abraham</wi>,
-«<wi type="G" value="3754,16,"/><wi type="G" value="2127,17,">Serán benditas</wi>
-<wi type="G" value="1722,18,">en</wi>
-<wi type="G" value="4671,19,">ti</wi>,
-<wi type="G" value="3956,20,">todas</wi>
-<wi type="G" value="3588,21,"><wi type="G" value="1484,22,">las naciones</wi></wi>.»
+<t xml:lang="es"><wi type="G"value="1161,2,,">Y</wi>
+<wi type="G"value="3588,3,"><wi type="G"value="1124,4,">la escritura</wi></wi>,
+<wi type="G"value="4275,1,">previendo</wi>
+<wi type="G"value="3754,5,">que</wi>
+<wi type="G"value="3588,11,"><wi type="G"value="2316,12,">Dios</wi></wi>
+<wi type="G"value="1344,8,">justificaría a</wi>
+<wi type="G"value="3588,9,"><wi type="G"value="1484,10,">los gentiles</wi></wi>
+<wi type="G"value="1537,6,">por</wi>
+<wi type="G"value="4102,7,">la fe</wi>,
+<wi type="G"value="4283,13,">evangelizó con anticipación a</wi>
+<wi type="G"value="3588,14,"/><wi type="G"value="11,15,">Abraham</wi>,
+«<wi type="G"value="3754,16,"/><wi type="G"value="2127,17,">Serán benditas</wi>
+<wi type="G"value="1722,18,">en</wi>
+<wi type="G"value="4671,19,">ti</wi>,
+<wi type="G"value="3956,20,">todas</wi>
+<wi type="G"value="3588,21,"><wi type="G"value="1484,22,">las naciones</wi></wi>.»
 </t>
 </sv>
 <sv id="Galatians-3-9">
 So then, those who are of faith are blessed
 with the faithful Abraham.
-<t xml:lang="es"><wi type="G" value="5620,1,">Así entonces</wi>,
-<wi type="G" value="3588,2,">los que</wi> son
-<wi type="G" value="1537,3,">de</wi>
-<wi type="G" value="4102,4,">fe</wi>
-<wi type="G" value="2127,5,">son benditos</wi>
-<wi type="G" value="4862,6,">junto con</wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="4103,8,">el fiel</wi>
-<wi type="G" value="11,9,">Abraham</wi>.
+<t xml:lang="es"><wi type="G"value="5620,1,">Así entonces</wi>,
+<wi type="G"value="3588,2,">los que</wi> son
+<wi type="G"value="1537,3,">de</wi>
+<wi type="G"value="4102,4,">fe</wi>
+<wi type="G"value="2127,5,">son benditos</wi>
+<wi type="G"value="4862,6,">junto con</wi>
+<wi type="G"value="3588,7,"/><wi type="G"value="4103,8,">el fiel</wi>
+<wi type="G"value="11,9,">Abraham</wi>.
 </t>
 </sv>
 <sv id="Galatians-3-10">
 For as many as are of the works of the law
 are under a curse. For it is written, «Cursed is everyone who doesn´t
 continue in all things that are written in the book of the law, to do them.»
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="3745,1,">tantos como</wi>
-<wi type="G" value="1526,6,">son</wi>
-<wi type="G" value="1537,3,">de</wi>
-<wi type="G" value="2041,4,">las obras</wi>
-<wi type="G" value="3551,5,">de la ley</wi>
-<wi type="G" value="1526,9,">están</wi>
-<wi type="G" value="5259,7,">bajo</wi>
-<wi type="G" value="2671,8,">maldición</wi>.
-<wi type="G" value="1063,11,">Pues</wi>
-<wi type="G" value="1125,10,">está escrito</wi>,
-«<wi type="G" value="1944,12,">Maldito</wi>
-<wi type="G" value="3956,13,">todo aquel</wi>
-<wi type="G" value="3739,14,">que</wi>
-<wi type="G" value="3756,15,">no</wi>
-<wi type="G" value="1696,16,">permanezca</wi>
-<wi type="G" value="1722,17,">en</wi>
-<wi type="G" value="3956,18,">todas las cosas</wi>
-<wi type="G" value="3588,19,">que</wi>
-<wi type="G" value="1125,20,">están escritas</wi>
-<wi type="G" value="1722,21,">en</wi>
-<wi type="G" value="3588,22,"><wi type="G" value="975,23,">el libro</wi></wi>
-<wi type="G" value="3588,24,"><wi type="G" value="3551,25,">de la ley</wi></wi>,
-<wi type="G" value="3588,26,"/><wi type="G" value="4160,27,"><wi type="G" value="846,28,">para hacerlas</wi></wi>.»
+<t xml:lang="es"><wi type="G"value="1063,2,">Pues</wi>
+<wi type="G"value="3745,1,">tantos como</wi>
+<wi type="G"value="1526,6,">son</wi>
+<wi type="G"value="1537,3,">de</wi>
+<wi type="G"value="2041,4,">las obras</wi>
+<wi type="G"value="3551,5,">de la ley</wi>
+<wi type="G"value="1526,9,">están</wi>
+<wi type="G"value="5259,7,">bajo</wi>
+<wi type="G"value="2671,8,">maldición</wi>.
+<wi type="G"value="1063,11,">Pues</wi>
+<wi type="G"value="1125,10,">está escrito</wi>,
+«<wi type="G"value="1944,12,">Maldito</wi>
+<wi type="G"value="3956,13,">todo aquel</wi>
+<wi type="G"value="3739,14,">que</wi>
+<wi type="G"value="3756,15,">no</wi>
+<wi type="G"value="1696,16,">permanezca</wi>
+<wi type="G"value="1722,17,">en</wi>
+<wi type="G"value="3956,18,">todas las cosas</wi>
+<wi type="G"value="3588,19,">que</wi>
+<wi type="G"value="1125,20,">están escritas</wi>
+<wi type="G"value="1722,21,">en</wi>
+<wi type="G"value="3588,22,"><wi type="G"value="975,23,">el libro</wi></wi>
+<wi type="G"value="3588,24,"><wi type="G"value="3551,25,">de la ley</wi></wi>,
+<wi type="G"value="3588,26,"/><wi type="G"value="4160,27,"><wi type="G"value="846,28,">para hacerlas</wi></wi>.»
 </t>
 </sv>
 <sv id="Galatians-3-11">
 Now that no man is justified by the law before God is evident, for,
 «The righteous will live by faith.»
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> ahora
-<wi type="G" value="3754,1,">que</wi>
-<wi type="G" value="3762,5,">ningún hombre</wi>
-<wi type="G" value="1344,6,">es justificado</wi>
-<wi type="G" value="1722,3,">por</wi>
-<wi type="G" value="3551,4,">la ley</wi>
-<wi type="G" value="3844,7,">ante</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>
-<wi type="G" value="1212,10,">es evidente</wi>,
-<wi type="G" value="3754,11,">porque</wi>
-«<wi type="G" value="3588,12,"/><wi type="G" value="1342,13,">El justo</wi>
-<wi type="G" value="2198,16,">vivirá</wi>
-<wi type="G" value="1537,14,">por</wi>
-<wi type="G" value="4102,15,">la fe</wi>.»
+<t xml:lang="es"><wi type="G"value="1161,2,">Pero</wi> ahora
+<wi type="G"value="3754,1,">que</wi>
+<wi type="G"value="3762,5,">ningún hombre</wi>
+<wi type="G"value="1344,6,">es justificado</wi>
+<wi type="G"value="1722,3,">por</wi>
+<wi type="G"value="3551,4,">la ley</wi>
+<wi type="G"value="3844,7,">ante</wi>
+<wi type="G"value="3588,8,"><wi type="G"value="2316,9,">Dios</wi></wi>
+<wi type="G"value="1212,10,">es evidente</wi>,
+<wi type="G"value="3754,11,">porque</wi>
+«<wi type="G"value="3588,12,"/><wi type="G"value="1342,13,">El justo</wi>
+<wi type="G"value="2198,16,">vivirá</wi>
+<wi type="G"value="1537,14,">por</wi>
+<wi type="G"value="4102,15,">la fe</wi>.»
 </t>
 </sv>
 <sv id="Galatians-3-12">
 The law is not of faith, but, «The
 man who does them will live by them.»
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="3551,3,">la ley</wi>
-<wi type="G" value="3756,4,">no</wi>
-<wi type="G" value="2076,5,">es</wi>
-<wi type="G" value="1537,6,">de</wi>
-<wi type="G" value="4102,7,">fe</wi>,
-<wi type="G" value="235,8,">pero</wi>
-«<wi type="G" value="444,12,">El hombre</wi> que
-<wi type="G" value="846,11,">los</wi>
-<wi type="G" value="3588,9,"/><wi type="G" value="4160,10,">haga</wi>
-<wi type="G" value="2198,13,">vivirá</wi>
-<wi type="G" value="1722,14,">por</wi>
-<wi type="G" value="846,15,">ellos</wi>.»
+<t xml:lang="es"><wi type="G"value="3588,1,"/><wi type="G"value="1161,2,">Y</wi>
+<wi type="G"value="3551,3,">la ley</wi>
+<wi type="G"value="3756,4,">no</wi>
+<wi type="G"value="2076,5,">es</wi>
+<wi type="G"value="1537,6,">de</wi>
+<wi type="G"value="4102,7,">fe</wi>,
+<wi type="G"value="235,8,">pero</wi>
+«<wi type="G"value="444,12,">El hombre</wi> que
+<wi type="G"value="846,11,">los</wi>
+<wi type="G"value="3588,9,"/><wi type="G"value="4160,10,">haga</wi>
+<wi type="G"value="2198,13,">vivirá</wi>
+<wi type="G"value="1722,14,">por</wi>
+<wi type="G"value="846,15,">ellos</wi>.»
 </t>
 </sv></cm>
 
@@ -1174,90 +1174,90 @@ man who does them will live by them.»
 <sv id="Galatians-3-13">
 Christ redeemed us from the curse of the law, having become a curse for
 us. For it is written, «Cursed is everyone who hangs on a tree,»
-<t xml:lang="es"><wi type="G" value="5547,1,">Cristo</wi>
-<wi type="G" value="2248,2,">nos</wi>
-<wi type="G" value="1805,3,">redimió</wi>
-<wi type="G" value="1537,4,">de</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2671,6,">la maldición</wi></wi>
-<wi type="G" value="3588,7,"><wi type="G" value="3551,8,">de la ley</wi></wi>,
-<wi type="G" value="1096,9,">haciéndose</wi>
-<wi type="G" value="2671,12,">maldición</wi>
-<wi type="G" value="5228,10,">por</wi>
-<wi type="G" value="2257,11,">nosotros</wi>.
-<wi type="G" value="1063,14,">Pues</wi>
-<wi type="G" value="1125,13,">está escrito</wi>
-«<wi type="G" value="1944,15,">Maldito</wi>
-<wi type="G" value="3956,16,">todo aquel</wi>
-<wi type="G" value="3588,17,">que</wi>
-<wi type="G" value="2910,18,">sea colgado</wi>
-<wi type="G" value="1909,19,">en</wi>
-<wi type="G" value="3586,20,">un madero</wi>,»</t>
+<t xml:lang="es"><wi type="G"value="5547,1,">Cristo</wi>
+<wi type="G"value="2248,2,">nos</wi>
+<wi type="G"value="1805,3,">redimió</wi>
+<wi type="G"value="1537,4,">de</wi>
+<wi type="G"value="3588,5,"><wi type="G"value="2671,6,">la maldición</wi></wi>
+<wi type="G"value="3588,7,"><wi type="G"value="3551,8,">de la ley</wi></wi>,
+<wi type="G"value="1096,9,">haciéndose</wi>
+<wi type="G"value="2671,12,">maldición</wi>
+<wi type="G"value="5228,10,">por</wi>
+<wi type="G"value="2257,11,">nosotros</wi>.
+<wi type="G"value="1063,14,">Pues</wi>
+<wi type="G"value="1125,13,">está escrito</wi>
+«<wi type="G"value="1944,15,">Maldito</wi>
+<wi type="G"value="3956,16,">todo aquel</wi>
+<wi type="G"value="3588,17,">que</wi>
+<wi type="G"value="2910,18,">sea colgado</wi>
+<wi type="G"value="1909,19,">en</wi>
+<wi type="G"value="3586,20,">un madero</wi>,»</t>
 </sv>
 <sv id="Galatians-3-14">
 that
 the blessing of Abraham might come on the Gentiles through Christ Jesus; that
 we might receive the promise of the Spirit through faith.
-<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2129,6,">la bendición</wi></wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="11,8,">de Abraham</wi>
-<wi type="G" value="1096,9,">pudiera venir</wi>
-<wi type="G" value="1519,2,">a</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="1484,4,">los gentiles</wi></wi>
-<wi type="G" value="1722,10,">por</wi>
-<wi type="G" value="5547,11,">Cristo</wi>
-<wi type="G" value="2424,12,">Jesús</wi>;
-<wi type="G" value="2443,13,">para que</wi>
-<wi type="G" value="2983,18,">pudiéramos recibir</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="1860,15,">la promesa</wi></wi>
-<wi type="G" value="3588,16,"><wi type="G" value="4151,17,">del Espíritu</wi></wi>
-<wi type="G" value="1223,19,">por</wi>
-<wi type="G" value="3588,20,"><wi type="G" value="4102,21,">la fe</wi></wi>.
+<t xml:lang="es"><wi type="G"value="2443,1,">para que</wi>
+<wi type="G"value="3588,5,"><wi type="G"value="2129,6,">la bendición</wi></wi>
+<wi type="G"value="3588,7,"/><wi type="G"value="11,8,">de Abraham</wi>
+<wi type="G"value="1096,9,">pudiera venir</wi>
+<wi type="G"value="1519,2,">a</wi>
+<wi type="G"value="3588,3,"><wi type="G"value="1484,4,">los gentiles</wi></wi>
+<wi type="G"value="1722,10,">por</wi>
+<wi type="G"value="5547,11,">Cristo</wi>
+<wi type="G"value="2424,12,">Jesús</wi>;
+<wi type="G"value="2443,13,">para que</wi>
+<wi type="G"value="2983,18,">pudiéramos recibir</wi>
+<wi type="G"value="3588,14,"><wi type="G"value="1860,15,">la promesa</wi></wi>
+<wi type="G"value="3588,16,"><wi type="G"value="4151,17,">del Espíritu</wi></wi>
+<wi type="G"value="1223,19,">por</wi>
+<wi type="G"value="3588,20,"><wi type="G"value="4102,21,">la fe</wi></wi>.
 </t>
 </sv>
 <sv id="Galatians-3-15">
 Brothers, speaking
 of human terms, though it is only a man´s covenant, yet when it has been
 confirmed, no one makes it void, or adds to it.
-<t xml:lang="es"><wi type="G" value="80,1,">Hermanos</wi>,
-<wi type="G" value="3004,4,">hablo</wi>
-<wi type="G" value="2596,2,">en términos</wi>
-<wi type="G" value="444,3,">humanos</wi>,
-<wi type="G" value="3676,5,">aunque</wi>
-<wi type="G" value="1242,8,">un pacto</wi> sea
-<wi type="G" value="444,6,">de hombres</wi>,
-<wi type="G" value="2964,7,">de confirmarse</wi>,
-<wi type="G" value="3762,9,">nadie</wi>
-<wi type="G" value="114,10,">lo invalida</wi>
-<wi type="G" value="2228,11,">ni</wi>
-<wi type="G" value="1928,12,">le agrega nada</wi>.</t>
+<t xml:lang="es"><wi type="G"value="80,1,">Hermanos</wi>,
+<wi type="G"value="3004,4,">hablo</wi>
+<wi type="G"value="2596,2,">en términos</wi>
+<wi type="G"value="444,3,">humanos</wi>,
+<wi type="G"value="3676,5,">aunque</wi>
+<wi type="G"value="1242,8,">un pacto</wi> sea
+<wi type="G"value="444,6,">de hombres</wi>,
+<wi type="G"value="2964,7,">de confirmarse</wi>,
+<wi type="G"value="3762,9,">nadie</wi>
+<wi type="G"value="114,10,">lo invalida</wi>
+<wi type="G"value="2228,11,">ni</wi>
+<wi type="G"value="1928,12,">le agrega nada</wi>.</t>
 </sv>
 <sv id="Galatians-3-16">
 Now the promises were
 spoken to Abraham and to his seed. He doesn´t say, «To seeds,» as of many,
 but as of one, «To your seed,» which is Christ.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="11,3,">a Abraham</wi>
-<wi type="G" value="4483,4,">le fueron dadas</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="1860,6,">las promesas</wi></wi>
-<wi type="G" value="2532,7,">y</wi>
-<wi type="G" value="846,10,">a su</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="4690,9,">semilla</wi></wi>.
-<wi type="G" value="3756,11,">No</wi>
-<wi type="G" value="3004,12,">dice</wi>,
-«<wi type="G" value="2532,13,">Y</wi> a <wi type="G" value="3588,14,"><wi type="G" value="4690,15,">las semillas</wi></wi>,»
-<wi type="G" value="5613,16,">como</wi>
-<wi type="G" value="1909,17,">respecto a</wi>
-<wi type="G" value="4183,18,">muchas</wi>,
-<wi type="G" value="235,19,">sino</wi>
-<wi type="G" value="5613,20,">como</wi>
-<wi type="G" value="1909,21,">respecto a</wi>
-<wi type="G" value="1520,22,">una</wi>,
-<wi type="G" value="2532,23,">Y</wi>
-«<wi type="G" value="4675,26,">tu</wi>
-<wi type="G" value="3588,24,"><wi type="G" value="4690,25,">semilla</wi></wi>,»
-<wi type="G" value="3739,27,">que</wi>
-<wi type="G" value="2076,28,">es</wi>
-<wi type="G" value="5547,29,">Cristo</wi>.
+<t xml:lang="es"><wi type="G"value="3588,1,"/><wi type="G"value="1161,2,">Y</wi>
+<wi type="G"value="11,3,">a Abraham</wi>
+<wi type="G"value="4483,4,">le fueron dadas</wi>
+<wi type="G"value="3588,5,"><wi type="G"value="1860,6,">las promesas</wi></wi>
+<wi type="G"value="2532,7,">y</wi>
+<wi type="G"value="846,10,">a su</wi>
+<wi type="G"value="3588,8,"><wi type="G"value="4690,9,">semilla</wi></wi>.
+<wi type="G"value="3756,11,">No</wi>
+<wi type="G"value="3004,12,">dice</wi>,
+«<wi type="G"value="2532,13,">Y</wi> a <wi type="G"value="3588,14,"><wi type="G"value="4690,15,">las semillas</wi></wi>,»
+<wi type="G"value="5613,16,">como</wi>
+<wi type="G"value="1909,17,">respecto a</wi>
+<wi type="G"value="4183,18,">muchas</wi>,
+<wi type="G"value="235,19,">sino</wi>
+<wi type="G"value="5613,20,">como</wi>
+<wi type="G"value="1909,21,">respecto a</wi>
+<wi type="G"value="1520,22,">una</wi>,
+<wi type="G"value="2532,23,">Y</wi>
+«<wi type="G"value="4675,26,">tu</wi>
+<wi type="G"value="3588,24,"><wi type="G"value="4690,25,">semilla</wi></wi>,»
+<wi type="G"value="3739,27,">que</wi>
+<wi type="G"value="2076,28,">es</wi>
+<wi type="G"value="5547,29,">Cristo</wi>.
 </t>
 </sv>
 <sv id="Galatians-3-17">
@@ -1265,45 +1265,45 @@ Now I say this. A
 covenant confirmed beforehand by God in Christ, the law, which came four
 hundred thirty years after, does not annul, so as to make the promise of no
 effect.
-<t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>
-<wi type="G" value="3004,3,">digo</wi>
-<wi type="G" value="5124,1,">esto</wi>.
-<wi type="G" value="1242,4,">El pacto</wi>
-<wi type="G" value="4300,5,">confirmado con anterioridad</wi>
-<wi type="G" value="5259,6,">por</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="2316,8,">Dios</wi></wi>
-<wi type="G" value="1519,9,">en</wi>
-<wi type="G" value="5547,10,">Cristo</wi>,
-<wi type="G" value="3551,18,">la ley</wi>,
-<wi type="G" value="3588,11,">que</wi>
-<wi type="G" value="1096,17,">vino</wi>
-<wi type="G" value="5071,14,">cuatrocientos</wi>
-<wi type="G" value="2532,15,"/><wi type="G" value="5144,16,">treinta</wi>
-<wi type="G" value="2094,13,">años</wi>
-<wi type="G" value="3326,12,">después</wi>,
-<wi type="G" value="3756,19,">no</wi>
-lo <wi type="G" value="208,20,">anuló</wi>,
-<wi type="G" value="3588,22,"/><wi type="G" value="1519,21,">como para</wi>
-<wi type="G" value="2673,23,">dejar sin efecto a</wi>
-<wi type="G" value="3588,24,"><wi type="G" value="1860,25,">la promesa</wi></wi>. </t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Ahora</wi>
+<wi type="G"value="3004,3,">digo</wi>
+<wi type="G"value="5124,1,">esto</wi>.
+<wi type="G"value="1242,4,">El pacto</wi>
+<wi type="G"value="4300,5,">confirmado con anterioridad</wi>
+<wi type="G"value="5259,6,">por</wi>
+<wi type="G"value="3588,7,"><wi type="G"value="2316,8,">Dios</wi></wi>
+<wi type="G"value="1519,9,">en</wi>
+<wi type="G"value="5547,10,">Cristo</wi>,
+<wi type="G"value="3551,18,">la ley</wi>,
+<wi type="G"value="3588,11,">que</wi>
+<wi type="G"value="1096,17,">vino</wi>
+<wi type="G"value="5071,14,">cuatrocientos</wi>
+<wi type="G"value="2532,15,"/><wi type="G"value="5144,16,">treinta</wi>
+<wi type="G"value="2094,13,">años</wi>
+<wi type="G"value="3326,12,">después</wi>,
+<wi type="G"value="3756,19,">no</wi>
+lo <wi type="G"value="208,20,">anuló</wi>,
+<wi type="G"value="3588,22,"/><wi type="G"value="1519,21,">como para</wi>
+<wi type="G"value="2673,23,">dejar sin efecto a</wi>
+<wi type="G"value="3588,24,"><wi type="G"value="1860,25,">la promesa</wi></wi>. </t>
 </sv>
 <sv id="Galatians-3-18">
 For if the inheritance is of the law, it is no more of promise;
 but God has granted it to Abraham by promise.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="1487,1,">si</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2817,6,">la herencia</wi></wi>
-es <wi type="G" value="1537,3,">por</wi>
-<wi type="G" value="3551,4,">la ley</wi>, ya
-<wi type="G" value="3765,7,">no</wi> es
-<wi type="G" value="1537,8,">por</wi>
-<wi type="G" value="1860,9,">la promesa</wi>;
-<wi type="G" value="3588,10,"/><wi type="G" value="1161,11,">sino</wi> que
-<wi type="G" value="3588,16,"><wi type="G" value="2316,17,">Dios</wi></wi>
-se la <wi type="G" value="5483,15,">concedió a</wi>
-<wi type="G" value="11,12,">Abraham</wi>
-<wi type="G" value="1223,13,">por</wi>
-<wi type="G" value="1860,14,">la promesa</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1063,2,">Pues</wi>
+<wi type="G"value="1487,1,">si</wi>
+<wi type="G"value="3588,5,"><wi type="G"value="2817,6,">la herencia</wi></wi>
+es <wi type="G"value="1537,3,">por</wi>
+<wi type="G"value="3551,4,">la ley</wi>, ya
+<wi type="G"value="3765,7,">no</wi> es
+<wi type="G"value="1537,8,">por</wi>
+<wi type="G"value="1860,9,">la promesa</wi>;
+<wi type="G"value="3588,10,"/><wi type="G"value="1161,11,">sino</wi> que
+<wi type="G"value="3588,16,"><wi type="G"value="2316,17,">Dios</wi></wi>
+se la <wi type="G"value="5483,15,">concedió a</wi>
+<wi type="G"value="11,12,">Abraham</wi>
+<wi type="G"value="1223,13,">por</wi>
+<wi type="G"value="1860,14,">la promesa</wi>.</t>
 </sv></cm>
 
 <cm>
@@ -1311,200 +1311,200 @@ se la <wi type="G" value="5483,15,">concedió a</wi>
 What then is the law? It was added because of transgressions, until the
 seed should come to whom the promise has been made. It was ordained through
 angels by the hand of a mediator.
-<t xml:lang="es">¿<wi type="G" value="5101,1,">Cuando</wi> es
-<wi type="G" value="3767,2,">entonces</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="3551,4,">la ley</wi></wi>?
-<wi type="G" value="4369,8,">Fue añadida</wi>
-<wi type="G" value="5484,7,">a causa</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="3847,6,">de las transgresiones</wi></wi>,
-<wi type="G" value="891,9,">hasta</wi> que
-<wi type="G" value="3588,12,"><wi type="G" value="4690,13,">la semilla</wi></wi>
-<wi type="G" value="2064,11,">llegara a</wi>
-<wi type="G" value="3739,10,">aquel</wi>
-<wi type="G" value="3739,14,">por quien</wi>
-<wi type="G" value="1861,15,">la promesa había sido hecha</wi>.
-<wi type="G" value="1299,16,">Fue ordenada</wi>
-<wi type="G" value="1223,17,">por</wi>
-<wi type="G" value="32,18,">ángeles</wi>
-<wi type="G" value="1722,19,">por</wi>
-<wi type="G" value="5495,20,">la mano</wi>
-<wi type="G" value="3316,21,">de un mediador</wi>.
+<t xml:lang="es">¿<wi type="G"value="5101,1,">Cuando</wi> es
+<wi type="G"value="3767,2,">entonces</wi>
+<wi type="G"value="3588,3,"><wi type="G"value="3551,4,">la ley</wi></wi>?
+<wi type="G"value="4369,8,">Fue añadida</wi>
+<wi type="G"value="5484,7,">a causa</wi>
+<wi type="G"value="3588,5,"><wi type="G"value="3847,6,">de las transgresiones</wi></wi>,
+<wi type="G"value="891,9,">hasta</wi> que
+<wi type="G"value="3588,12,"><wi type="G"value="4690,13,">la semilla</wi></wi>
+<wi type="G"value="2064,11,">llegara a</wi>
+<wi type="G"value="3739,10,">aquel</wi>
+<wi type="G"value="3739,14,">por quien</wi>
+<wi type="G"value="1861,15,">la promesa había sido hecha</wi>.
+<wi type="G"value="1299,16,">Fue ordenada</wi>
+<wi type="G"value="1223,17,">por</wi>
+<wi type="G"value="32,18,">ángeles</wi>
+<wi type="G"value="1722,19,">por</wi>
+<wi type="G"value="5495,20,">la mano</wi>
+<wi type="G"value="3316,21,">de un mediador</wi>.
 </t>
 </sv>
 <sv id="Galatians-3-20">
 Now a mediator is not between one,
 but God is one.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi>
-<wi type="G" value="3316,3,">el mediador</wi>
-<wi type="G" value="3756,5,">no</wi>
-<wi type="G" value="2076,6,">es</wi>
-<wi type="G" value="1520,4,">de uno</wi>,
-<wi type="G" value="3588,7,"/><wi type="G" value="1161,8,">pero</wi>
-<wi type="G" value="2316,9,">Dios</wi>
-<wi type="G" value="2076,11,">es</wi>
-<wi type="G" value="1520,10,">uno</wi>
+<t xml:lang="es"><wi type="G"value="3588,1,"/><wi type="G"value="1161,2,">Ahora</wi>
+<wi type="G"value="3316,3,">el mediador</wi>
+<wi type="G"value="3756,5,">no</wi>
+<wi type="G"value="2076,6,">es</wi>
+<wi type="G"value="1520,4,">de uno</wi>,
+<wi type="G"value="3588,7,"/><wi type="G"value="1161,8,">pero</wi>
+<wi type="G"value="2316,9,">Dios</wi>
+<wi type="G"value="2076,11,">es</wi>
+<wi type="G"value="1520,10,">uno</wi>
 .</t>
 </sv>
 <sv id="Galatians-3-21">
 Is the law then against the promises of God? Certainly
 not! For if there had been a law given which could make alive, most assuredly
 righteousness would have been of the law.
-<t xml:lang="es">¿Está <wi type="G" value="3588,1,"/><wi type="G" value="3767,2,">entonces</wi>
-<wi type="G" value="3551,3,">la ley</wi>
-<wi type="G" value="2596,4,">contra</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="1860,6,">la promesa</wi></wi>
-<wi type="G" value="3588,7,"><wi type="G" value="2316,8,">de Dios</wi></wi>?
-¡<wi type="G" value="3361,9,"><wi type="G" value="1096,10,">De ninguna manera</wi></wi>!
-<wi type="G" value="1063,12,">Pues</wi>
-<wi type="G" value="1487,11,">si</wi>
-<wi type="G" value="1325,13,">hubiera sido dada</wi>
-<wi type="G" value="3551,14,">una ley</wi>
-<wi type="G" value="3588,15,">que</wi>
-<wi type="G" value="1410,16,">pudiera</wi>
-<wi type="G" value="2227,17,">dar vida</wi>,
-<wi type="G" value="3689,18,">con seguridad</wi>
-<wi type="G" value="3588,23,"><wi type="G" value="1343,24,">la justicia</wi></wi>
-<wi type="G" value="302,19,">habría</wi>
-<wi type="G" value="2258,22,">sido</wi>
-<wi type="G" value="1537,20,">por</wi>
-<wi type="G" value="3551,21,">la ley</wi>.
+<t xml:lang="es">¿Está <wi type="G"value="3588,1,"/><wi type="G"value="3767,2,">entonces</wi>
+<wi type="G"value="3551,3,">la ley</wi>
+<wi type="G"value="2596,4,">contra</wi>
+<wi type="G"value="3588,5,"><wi type="G"value="1860,6,">la promesa</wi></wi>
+<wi type="G"value="3588,7,"><wi type="G"value="2316,8,">de Dios</wi></wi>?
+¡<wi type="G"value="3361,9,"><wi type="G"value="1096,10,">De ninguna manera</wi></wi>!
+<wi type="G"value="1063,12,">Pues</wi>
+<wi type="G"value="1487,11,">si</wi>
+<wi type="G"value="1325,13,">hubiera sido dada</wi>
+<wi type="G"value="3551,14,">una ley</wi>
+<wi type="G"value="3588,15,">que</wi>
+<wi type="G"value="1410,16,">pudiera</wi>
+<wi type="G"value="2227,17,">dar vida</wi>,
+<wi type="G"value="3689,18,">con seguridad</wi>
+<wi type="G"value="3588,23,"><wi type="G"value="1343,24,">la justicia</wi></wi>
+<wi type="G"value="302,19,">habría</wi>
+<wi type="G"value="2258,22,">sido</wi>
+<wi type="G"value="1537,20,">por</wi>
+<wi type="G"value="3551,21,">la ley</wi>.
 </t>
 </sv>
 <sv id="Galatians-3-22">
 But the Scriptures imprisoned
 all things under sin, that the promise by faith in Jesus Christ might be
 given to those who believe.
-<t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="1124,4,">la escritura</wi></wi>
-<wi type="G" value="4788,2,">encerró</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="3956,6,">todo</wi>
-<wi type="G" value="5259,7,">bajo</wi>
-<wi type="G" value="266,8,">el pecado</wi>,
-<wi type="G" value="2443,9,">para que</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="1860,11,">la promesa</wi></wi>
-<wi type="G" value="1537,12,">por</wi>
-<wi type="G" value="4102,13,">la fe</wi>
-<wi type="G" value="2424,14,">de Jesús</wi>
-<wi type="G" value="5547,15,">el Cristo</wi>
-<wi type="G" value="1325,16,">pudiera ser dada</wi>
-<wi type="G" value="3588,17,">a los que</wi>
-<wi type="G" value="4100,18,">creen</wi>.</t>
+<t xml:lang="es"><wi type="G"value="235,1,">Pero</wi>
+<wi type="G"value="3588,3,"><wi type="G"value="1124,4,">la escritura</wi></wi>
+<wi type="G"value="4788,2,">encerró</wi>
+<wi type="G"value="3588,5,"/><wi type="G"value="3956,6,">todo</wi>
+<wi type="G"value="5259,7,">bajo</wi>
+<wi type="G"value="266,8,">el pecado</wi>,
+<wi type="G"value="2443,9,">para que</wi>
+<wi type="G"value="3588,10,"><wi type="G"value="1860,11,">la promesa</wi></wi>
+<wi type="G"value="1537,12,">por</wi>
+<wi type="G"value="4102,13,">la fe</wi>
+<wi type="G"value="2424,14,">de Jesús</wi>
+<wi type="G"value="5547,15,">el Cristo</wi>
+<wi type="G"value="1325,16,">pudiera ser dada</wi>
+<wi type="G"value="3588,17,">a los que</wi>
+<wi type="G"value="4100,18,">creen</wi>.</t>
 </sv>
 <sv id="Galatians-3-23">
 But before faith came, we were kept in
 custody under the law, confined for the faith which should afterwards be
 revealed.
-<t xml:lang="es"><wi type="G" value="3588,2,"/><wi type="G" value="1161,3,">Pero</wi>
-<wi type="G" value="4253,1,">antes</wi>
-que <wi type="G" value="3588,5,"><wi type="G" value="4102,6,">la fe</wi></wi>
-<wi type="G" value="2064,4,">viniera</wi>,
-<wi type="G" value="5432,9,">estábamos mantenidos en custodia</wi>
-<wi type="G" value="5259,7,">bajo</wi>
-<wi type="G" value="3551,8,">la ley</wi>,
-<wi type="G" value="4788,10,">confinados</wi>
-<wi type="G" value="1519,11,">para</wi>
-<wi type="G" value="4102,14,">la fe</wi>
-<wi type="G" value="3588,12,">que</wi>
-<wi type="G" value="3195,13,">después sería</wi>
-<wi type="G" value="601,15,">revelada</wi>.
+<t xml:lang="es"><wi type="G"value="3588,2,"/><wi type="G"value="1161,3,">Pero</wi>
+<wi type="G"value="4253,1,">antes</wi>
+que <wi type="G"value="3588,5,"><wi type="G"value="4102,6,">la fe</wi></wi>
+<wi type="G"value="2064,4,">viniera</wi>,
+<wi type="G"value="5432,9,">estábamos mantenidos en custodia</wi>
+<wi type="G"value="5259,7,">bajo</wi>
+<wi type="G"value="3551,8,">la ley</wi>,
+<wi type="G"value="4788,10,">confinados</wi>
+<wi type="G"value="1519,11,">para</wi>
+<wi type="G"value="4102,14,">la fe</wi>
+<wi type="G"value="3588,12,">que</wi>
+<wi type="G"value="3195,13,">después sería</wi>
+<wi type="G"value="601,15,">revelada</wi>.
 </t>
 </sv>
 <sv id="Galatians-3-24">
 So that the law has become our tutor to bring us to Christ,
 that we might be justified by faith.
-<t xml:lang="es"><wi type="G" value="5620,1,">Entonces</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="3551,3,">la ley</wi></wi>
-<wi type="G" value="1096,6,">fue</wi>
-<wi type="G" value="2257,5,">nuestro</wi>
-<wi type="G" value="3807,4,">tutor</wi>
-<wi type="G" value="1519,7,">a</wi>
-<wi type="G" value="5547,8,">Cristo</wi>,
-<wi type="G" value="2443,9,">para que</wi>
-<wi type="G" value="1344,12,">fuéramos justificados</wi>
-<wi type="G" value="1537,10,">por</wi>
-<wi type="G" value="4102,11,">la fe</wi>.</t>
+<t xml:lang="es"><wi type="G"value="5620,1,">Entonces</wi>
+<wi type="G"value="3588,2,"><wi type="G"value="3551,3,">la ley</wi></wi>
+<wi type="G"value="1096,6,">fue</wi>
+<wi type="G"value="2257,5,">nuestro</wi>
+<wi type="G"value="3807,4,">tutor</wi>
+<wi type="G"value="1519,7,">a</wi>
+<wi type="G"value="5547,8,">Cristo</wi>,
+<wi type="G"value="2443,9,">para que</wi>
+<wi type="G"value="1344,12,">fuéramos justificados</wi>
+<wi type="G"value="1537,10,">por</wi>
+<wi type="G"value="4102,11,">la fe</wi>.</t>
 </sv>
 <sv id="Galatians-3-25">
 But now that faith has come, we
 are no longer under a tutor.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G" value="2064,1,">vino</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="4102,4,">la fe</wi>, y
-<wi type="G" value="3765,5,">ya no</wi>
-<wi type="G" value="2070,8,">estamos</wi>
-<wi type="G" value="5259,6,">bajo</wi>
-<wi type="G" value="3807,7,">el tutor</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Pero</wi>
+<wi type="G"value="2064,1,">vino</wi>
+<wi type="G"value="3588,3,"/><wi type="G"value="4102,4,">la fe</wi>, y
+<wi type="G"value="3765,5,">ya no</wi>
+<wi type="G"value="2070,8,">estamos</wi>
+<wi type="G"value="5259,6,">bajo</wi>
+<wi type="G"value="3807,7,">el tutor</wi>.</t>
 </sv>
 <sv id="Galatians-3-26">
 For you
-<wi type="T" value="P"/> are all children of God,
+<wi type="T"value="P"/> are all children of God,
 through faith in Christ Jesus.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="3956,1,">todos</wi>
-<wi type="G" value="2075,5,">ustedes son</wi>
-<wi type="G" value="5207,3,">hijos</wi>
-<wi type="G" value="2316,4,">de Dios</wi>
-<wi type="G" value="1223,6,">por</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="4102,8,">la fe</wi></wi>
-<wi type="G" value="1722,9,">en</wi>
-<wi type="G" value="5547,10,">Cristo</wi>
-<wi type="G" value="2424,11,">Jesús</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1063,2,">Pues</wi>
+<wi type="G"value="3956,1,">todos</wi>
+<wi type="G"value="2075,5,">ustedes son</wi>
+<wi type="G"value="5207,3,">hijos</wi>
+<wi type="G"value="2316,4,">de Dios</wi>
+<wi type="G"value="1223,6,">por</wi>
+<wi type="G"value="3588,7,"><wi type="G"value="4102,8,">la fe</wi></wi>
+<wi type="G"value="1722,9,">en</wi>
+<wi type="G"value="5547,10,">Cristo</wi>
+<wi type="G"value="2424,11,">Jesús</wi>.</t>
 </sv>
 <sv id="Galatians-3-27">
 For as many of you as were baptized into
 Christ have put on Christ.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="3745,1,">todos los que</wi>
-<wi type="G" value="907,5,">han sido bautizados</wi>
-<wi type="G" value="1519,3,">en</wi>
-<wi type="G" value="5547,4,">Cristo</wi>,
-<wi type="G" value="1746,7,">han sido revestidos en</wi>
-<wi type="G" value="5547,6,">Cristo</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1063,2,">Pues</wi>
+<wi type="G"value="3745,1,">todos los que</wi>
+<wi type="G"value="907,5,">han sido bautizados</wi>
+<wi type="G"value="1519,3,">en</wi>
+<wi type="G"value="5547,4,">Cristo</wi>,
+<wi type="G"value="1746,7,">han sido revestidos en</wi>
+<wi type="G"value="5547,6,">Cristo</wi>.</t>
 </sv>
 <sv id="Galatians-3-28">
 There is neither Jew nor Greek, there is
 neither slave nor free man, there is neither male nor female; for you are all
 one in Christ Jesus.
-<t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
-<wi type="G" value="1762,2,">hay</wi>
-<wi type="G" value="2453,3,">Judío</wi>
-<wi type="G" value="3761,4,">ni</wi>
-<wi type="G" value="1672,5,">Griego</wi>,
-<wi type="G" value="3756,6,">no</wi>
-<wi type="G" value="1762,7,">hay</wi>
-<wi type="G" value="1401,8,">esclavo</wi>
-<wi type="G" value="3761,9,">ni</wi>
-<wi type="G" value="1658,10,">libre</wi>,
-<wi type="G" value="3756,11,">no</wi>
-<wi type="G" value="1762,12,">hay</wi>
-<wi type="G" value="730,13,">hombre</wi>
-<wi type="G" value="2532,14,">ni</wi>
-<wi type="G" value="2338,15,">mujer</wi>;
-<wi type="G" value="1063,17,">pues</wi>
-<wi type="G" value="3956,16,">todos</wi>
-<wi type="G" value="5210,18,">ustedes</wi>
-<wi type="G" value="2075,20,">son</wi>
-<wi type="G" value="1520,19,">uno</wi>
-<wi type="G" value="1722,21,">en</wi>
-<wi type="G" value="5547,22,">Cristo</wi>
-<wi type="G" value="2424,23,">Jesús</wi>. </t>
+<t xml:lang="es"><wi type="G"value="3756,1,">No</wi>
+<wi type="G"value="1762,2,">hay</wi>
+<wi type="G"value="2453,3,">Judío</wi>
+<wi type="G"value="3761,4,">ni</wi>
+<wi type="G"value="1672,5,">Griego</wi>,
+<wi type="G"value="3756,6,">no</wi>
+<wi type="G"value="1762,7,">hay</wi>
+<wi type="G"value="1401,8,">esclavo</wi>
+<wi type="G"value="3761,9,">ni</wi>
+<wi type="G"value="1658,10,">libre</wi>,
+<wi type="G"value="3756,11,">no</wi>
+<wi type="G"value="1762,12,">hay</wi>
+<wi type="G"value="730,13,">hombre</wi>
+<wi type="G"value="2532,14,">ni</wi>
+<wi type="G"value="2338,15,">mujer</wi>;
+<wi type="G"value="1063,17,">pues</wi>
+<wi type="G"value="3956,16,">todos</wi>
+<wi type="G"value="5210,18,">ustedes</wi>
+<wi type="G"value="2075,20,">son</wi>
+<wi type="G"value="1520,19,">uno</wi>
+<wi type="G"value="1722,21,">en</wi>
+<wi type="G"value="5547,22,">Cristo</wi>
+<wi type="G"value="2424,23,">Jesús</wi>. </t>
 </sv>
 <sv id="Galatians-3-29">
 If you are Christ´s, then you are
 Abraham´s seed and heirs according to promise.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="1487,1,">si</wi>
-<wi type="G" value="5210,3,">ustedes</wi> son
-<wi type="G" value="5547,4,">de Cristo</wi>,
-<wi type="G" value="686,5,">entonces</wi>
-<wi type="G" value="2075,9,">son</wi>
+<t xml:lang="es"><wi type="G"value="1161,2,">Y</wi>
+<wi type="G"value="1487,1,">si</wi>
+<wi type="G"value="5210,3,">ustedes</wi> son
+<wi type="G"value="5547,4,">de Cristo</wi>,
+<wi type="G"value="686,5,">entonces</wi>
+<wi type="G"value="2075,9,">son</wi>
 de
-<wi type="G" value="4690,8,">la semilla</wi>
-<wi type="G" value="3588,6,"/><wi type="G" value="11,7,">de Abraham</wi>
-<wi type="G" value="2532,10,">y</wi>
-<wi type="G" value="2818,13,">herederos</wi>
-<wi type="G" value="2596,11,">de acuerdo</wi> a
-<wi type="G" value="1860,12,">la promesa</wi>.</t>
+<wi type="G"value="4690,8,">la semilla</wi>
+<wi type="G"value="3588,6,"/><wi type="G"value="11,7,">de Abraham</wi>
+<wi type="G"value="2532,10,">y</wi>
+<wi type="G"value="2818,13,">herederos</wi>
+<wi type="G"value="2596,11,">de acuerdo</wi> a
+<wi type="G"value="1860,12,">la promesa</wi>.</t>
 <cl/>
 </sv></cm>
 </sc>
@@ -1513,206 +1513,206 @@ de
 <sv id="Galatians-4-1">
 But I say that so long as the heir is a child, he is no different
 from a bondservant, though he is lord of all;
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> les
-<wi type="G" value="3004,1,">digo</wi> que
-<wi type="G" value="1909,3,"/><wi type="G" value="3745,4,"/><wi type="G" value="5550,5,">mientras</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="2818,7,">el heredero</wi></wi>
-<wi type="G" value="2076,9,">sea</wi>
-<wi type="G" value="3516,8,">un niño</wi>,
-<wi type="G" value="3762,10,">en nada</wi>
-<wi type="G" value="1308,11,">difiere del</wi>
-<wi type="G" value="1401,12,">siervo</wi>,
-aunque <wi type="G" value="5607,15,">sea</wi>
-<wi type="G" value="2962,13,">señor</wi>
-<wi type="G" value="3956,14,">de todo</wi>;</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Y</wi> les
+<wi type="G"value="3004,1,">digo</wi> que
+<wi type="G"value="1909,3,"/><wi type="G"value="3745,4,"/><wi type="G"value="5550,5,">mientras</wi>
+<wi type="G"value="3588,6,"><wi type="G"value="2818,7,">el heredero</wi></wi>
+<wi type="G"value="2076,9,">sea</wi>
+<wi type="G"value="3516,8,">un niño</wi>,
+<wi type="G"value="3762,10,">en nada</wi>
+<wi type="G"value="1308,11,">difiere del</wi>
+<wi type="G"value="1401,12,">siervo</wi>,
+aunque <wi type="G"value="5607,15,">sea</wi>
+<wi type="G"value="2962,13,">señor</wi>
+<wi type="G"value="3956,14,">de todo</wi>;</t>
 </sv>
 <sv id="Galatians-4-2">
 but is under guardians and
 stewards until the day appointed by the father.
-<t xml:lang="es"><wi type="G" value="235,1,">sino que</wi>
-<wi type="G" value="2076,4,">está</wi>
-<wi type="G" value="5259,2,">bajo</wi>
-<wi type="G" value="2012,3,">tutores</wi>
-<wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="3623,6,">administradores</wi>
-<wi type="G" value="891,7,">hasta</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="4287,9,">el día dispuesto</wi></wi> por
-<wi type="G" value="3588,10,"><wi type="G" value="3962,11,">el padre</wi></wi>.</t>
+<t xml:lang="es"><wi type="G"value="235,1,">sino que</wi>
+<wi type="G"value="2076,4,">está</wi>
+<wi type="G"value="5259,2,">bajo</wi>
+<wi type="G"value="2012,3,">tutores</wi>
+<wi type="G"value="2532,5,">y</wi>
+<wi type="G"value="3623,6,">administradores</wi>
+<wi type="G"value="891,7,">hasta</wi>
+<wi type="G"value="3588,8,"><wi type="G"value="4287,9,">el día dispuesto</wi></wi> por
+<wi type="G"value="3588,10,"><wi type="G"value="3962,11,">el padre</wi></wi>.</t>
 </sv>
 <sv id="Galatians-4-3">
 So we also, when we were
 children, were held in bondage under the elemental principles of the world.
-<t xml:lang="es"><wi type="G" value="3779,1,">Así</wi>
-<wi type="G" value="2532,2,">también</wi>
-<wi type="G" value="2249,3,">nosotros</wi>,
-<wi type="G" value="3753,4,">cuando</wi>
-<wi type="G" value="1510,5,">eramos</wi>
-<wi type="G" value="3516,6,">niños</wi>,
-<wi type="G" value="1510,12,">eramos</wi>
-<wi type="G" value="1402,13,">siervos</wi>
-<wi type="G" value="5259,7,">bajo</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="4747,9,">los principios elementales</wi></wi>
-<wi type="G" value="3588,10,"><wi type="G" value="2889,11,">del mundo</wi></wi>.
+<t xml:lang="es"><wi type="G"value="3779,1,">Así</wi>
+<wi type="G"value="2532,2,">también</wi>
+<wi type="G"value="2249,3,">nosotros</wi>,
+<wi type="G"value="3753,4,">cuando</wi>
+<wi type="G"value="1510,5,">eramos</wi>
+<wi type="G"value="3516,6,">niños</wi>,
+<wi type="G"value="1510,12,">eramos</wi>
+<wi type="G"value="1402,13,">siervos</wi>
+<wi type="G"value="5259,7,">bajo</wi>
+<wi type="G"value="3588,8,"><wi type="G"value="4747,9,">los principios elementales</wi></wi>
+<wi type="G"value="3588,10,"><wi type="G"value="2889,11,">del mundo</wi></wi>.
 </t>
 </sv>
 <sv id="Galatians-4-4">
 But when
 the fullness of the time came, God sent out his Son, born to a woman, born
 under the law,
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G" value="3753,1,">cuando</wi>
-<wi type="G" value="2064,3,">se</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="4138,5,">completó</wi></wi>
-<wi type="G" value="3588,6,"><wi type="G" value="5550,7,">el tiempo</wi></wi>,
-<wi type="G" value="3588,9,"><wi type="G" value="2316,10,">Dios</wi></wi>
-<wi type="G" value="1821,8,">envío</wi> a
-<wi type="G" value="846,13,">su</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="5207,12,">Hijo</wi></wi>,
-<wi type="G" value="1096,14,">nacido</wi>
-<wi type="G" value="1537,15,">de</wi>
-<wi type="G" value="1135,16,">mujer</wi>,
-<wi type="G" value="1096,17,">nacido</wi>
-<wi type="G" value="5259,18,">bajo</wi>
-<wi type="G" value="3551,19,">la ley</wi>,</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Pero</wi>
+<wi type="G"value="3753,1,">cuando</wi>
+<wi type="G"value="2064,3,">se</wi>
+<wi type="G"value="3588,4,"><wi type="G"value="4138,5,">completó</wi></wi>
+<wi type="G"value="3588,6,"><wi type="G"value="5550,7,">el tiempo</wi></wi>,
+<wi type="G"value="3588,9,"><wi type="G"value="2316,10,">Dios</wi></wi>
+<wi type="G"value="1821,8,">envío</wi> a
+<wi type="G"value="846,13,">su</wi>
+<wi type="G"value="3588,11,"><wi type="G"value="5207,12,">Hijo</wi></wi>,
+<wi type="G"value="1096,14,">nacido</wi>
+<wi type="G"value="1537,15,">de</wi>
+<wi type="G"value="1135,16,">mujer</wi>,
+<wi type="G"value="1096,17,">nacido</wi>
+<wi type="G"value="5259,18,">bajo</wi>
+<wi type="G"value="3551,19,">la ley</wi>,</t>
 </sv>
 <sv id="Galatians-4-5">
 that he might redeem those who were under the law, that
 we might receive the adoption of children.
-<t xml:lang="es"><wi type="G" value="1805,5,">para redimir a</wi>
-<wi type="G" value="3588,2,">los que</wi>
-<wi type="G" value="2443,1,">que</wi>
+<t xml:lang="es"><wi type="G"value="1805,5,">para redimir a</wi>
+<wi type="G"value="3588,2,">los que</wi>
+<wi type="G"value="2443,1,">que</wi>
 estaban
-<wi type="G" value="5259,3,">bajo</wi>
-<wi type="G" value="3551,4,">la ley</wi>,
-<wi type="G" value="2443,6,">para que</wi>
-<wi type="G" value="618,9,">recibieran</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="5206,8,">la adopción como hijos</wi></wi>.</t>
+<wi type="G"value="5259,3,">bajo</wi>
+<wi type="G"value="3551,4,">la ley</wi>,
+<wi type="G"value="2443,6,">para que</wi>
+<wi type="G"value="618,9,">recibieran</wi>
+<wi type="G"value="3588,7,"><wi type="G"value="5206,8,">la adopción como hijos</wi></wi>.</t>
 </sv>
 <sv id="Galatians-4-6">
 And because you are
 children, God sent out the Spirit of his Son into your hearts, crying,
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="3754,1,">porque</wi>
-<wi type="G" value="2075,3,">ustedes son</wi>
-<wi type="G" value="5207,4,">hijos</wi>,
-<wi type="G" value="3588,6,"><wi type="G" value="2316,7,">Dios</wi></wi>
-<wi type="G" value="1821,5,">envió</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="4151,9,">el Espíritu</wi></wi>
-<wi type="G" value="846,12,">de su</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="5207,11,">Hijo</wi></wi>
-<wi type="G" value="1519,13,">a</wi>
-<wi type="G" value="5216,16,">sus</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="2588,15,">corazones</wi></wi>,
-que <wi type="G" value="2896,17,">clama</wi>,</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Y</wi>
+<wi type="G"value="3754,1,">porque</wi>
+<wi type="G"value="2075,3,">ustedes son</wi>
+<wi type="G"value="5207,4,">hijos</wi>,
+<wi type="G"value="3588,6,"><wi type="G"value="2316,7,">Dios</wi></wi>
+<wi type="G"value="1821,5,">envió</wi>
+<wi type="G"value="3588,8,"><wi type="G"value="4151,9,">el Espíritu</wi></wi>
+<wi type="G"value="846,12,">de su</wi>
+<wi type="G"value="3588,10,"><wi type="G"value="5207,11,">Hijo</wi></wi>
+<wi type="G"value="1519,13,">a</wi>
+<wi type="G"value="5216,16,">sus</wi>
+<wi type="G"value="3588,14,"><wi type="G"value="2588,15,">corazones</wi></wi>,
+que <wi type="G"value="2896,17,">clama</wi>,</t>
 «<rb>Abba,
-<t xml:lang="es">¡<wi type="G" value="5,18,">Abba</wi></t><rf>Abba is a Greek spelling for the Chaldee word
+<t xml:lang="es">¡<wi type="G"value="5,18,">Abba</wi></t><rf>Abba is a Greek spelling for the Chaldee word
 for «Father» or «Daddy» used in a familiar, respectful, and loving way.
 <t xml:lang="es">Abba es una pronunciación griega de la palabra Caleda para
 «Papa» or «Papi» usada de una forma familiar, respetuosa y amorosa.
 </t></rf>
 </rb>
  Father!»
-<t xml:lang="es"><wi type="G" value="3588,19,"><wi type="G" value="3962,20,">Padre</wi></wi>!»</t>
+<t xml:lang="es"><wi type="G"value="3588,19,"><wi type="G"value="3962,20,">Padre</wi></wi>!»</t>
 </sv>
 <sv id="Galatians-4-7">
 So you are no longer a bondservant, but a son;
 and if a son, then an heir of God through Christ.
-<t xml:lang="es"><wi type="G" value="5620,1,">Así que</wi>
-<wi type="G" value="3765,2,">ya no</wi>
-<wi type="G" value="1488,3,">eres</wi>
-<wi type="G" value="1401,4,">siervo</wi>,
-<wi type="G" value="235,5,">sino</wi>
-<wi type="G" value="5207,6,">hijo</wi>;
-<wi type="G" value="1161,8,">y</wi>
-<wi type="G" value="1487,7,">si</wi>
-<wi type="G" value="5207,9,">hijo</wi>,
-<wi type="G" value="2532,10,">también</wi>
-<wi type="G" value="2818,11,">heredero</wi>
-<wi type="G" value="2316,12,">de Dios</wi>
-<wi type="G" value="1223,13,">por medio</wi>
-<wi type="G" value="5547,14,">de Cristo</wi>.
+<t xml:lang="es"><wi type="G"value="5620,1,">Así que</wi>
+<wi type="G"value="3765,2,">ya no</wi>
+<wi type="G"value="1488,3,">eres</wi>
+<wi type="G"value="1401,4,">siervo</wi>,
+<wi type="G"value="235,5,">sino</wi>
+<wi type="G"value="5207,6,">hijo</wi>;
+<wi type="G"value="1161,8,">y</wi>
+<wi type="G"value="1487,7,">si</wi>
+<wi type="G"value="5207,9,">hijo</wi>,
+<wi type="G"value="2532,10,">también</wi>
+<wi type="G"value="2818,11,">heredero</wi>
+<wi type="G"value="2316,12,">de Dios</wi>
+<wi type="G"value="1223,13,">por medio</wi>
+<wi type="G"value="5547,14,">de Cristo</wi>.
 </t>
 </sv>
 <sv id="Galatians-4-8">
 However at that time, not knowing God, you
 were in bondage to those who by nature are not gods.
-<t xml:lang="es"><wi type="G" value="235,1,">Sin embargo</wi>
-<wi type="G" value="5119,2,">en ese entonces</wi>, al
-<wi type="G" value="3303,3,"/><wi type="G" value="3756,4,">no</wi>
-<wi type="G" value="1492,5,">conocer a</wi>
-<wi type="G" value="2316,6,">Dios</wi>,
-<wi type="G" value="1398,7,">sirvieron a</wi>
-<wi type="G" value="3588,8,">aquellos que</wi>
-<wi type="G" value="5449,10,">por naturaleza</wi>
-<wi type="G" value="3361,9,">no</wi>
-<wi type="G" value="5607,11,">son</wi>
-<wi type="G" value="2316,12,">dioses</wi>.</t>
+<t xml:lang="es"><wi type="G"value="235,1,">Sin embargo</wi>
+<wi type="G"value="5119,2,">en ese entonces</wi>, al
+<wi type="G"value="3303,3,"/><wi type="G"value="3756,4,">no</wi>
+<wi type="G"value="1492,5,">conocer a</wi>
+<wi type="G"value="2316,6,">Dios</wi>,
+<wi type="G"value="1398,7,">sirvieron a</wi>
+<wi type="G"value="3588,8,">aquellos que</wi>
+<wi type="G"value="5449,10,">por naturaleza</wi>
+<wi type="G"value="3361,9,">no</wi>
+<wi type="G"value="5607,11,">son</wi>
+<wi type="G"value="2316,12,">dioses</wi>.</t>
 </sv>
 <sv id="Galatians-4-9">
 But now that you
 have come to know God, or rather to be known by God, why do you
 turn back again to the weak and miserable elemental principles, to which you
 desire to be in bondage all over again?
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G" value="3568,1,">ahora</wi> que
-<wi type="G" value="1097,3,">han conocido a</wi>
-<wi type="G" value="2316,4,">Dios</wi>,
-<wi type="G" value="1161,6,">y</wi>
-<wi type="G" value="3123,5,">mejor</wi>
+<t xml:lang="es"><wi type="G"value="1161,2,">Pero</wi>
+<wi type="G"value="3568,1,">ahora</wi> que
+<wi type="G"value="1097,3,">han conocido a</wi>
+<wi type="G"value="2316,4,">Dios</wi>,
+<wi type="G"value="1161,6,">y</wi>
+<wi type="G"value="3123,5,">mejor</wi>
 que
-<wi type="G" value="1097,7,">son conocidos</wi>
-<wi type="G" value="5259,8,">por</wi>
-<wi type="G" value="2316,9,">Dios</wi>,
-¿<wi type="G" value="4459,10,">por qué</wi>
-<wi type="G" value="1994,11,">vuelven</wi>
-<wi type="G" value="3825,12,"/><wi type="G" value="1909,13,">a</wi>
-los <wi type="G" value="772,15,">débiles</wi>
-<wi type="G" value="3588,14,"/><wi type="G" value="2532,16,">y</wi>
-<wi type="G" value="4434,17,">miserables</wi>
-<wi type="G" value="4747,18,">elementos</wi>,
-<wi type="G" value="3739,19,">de los que</wi>
-<wi type="G" value="2309,23,">quieren</wi>
-<wi type="G" value="1398,22,">ser esclavos</wi>
-<wi type="G" value="509,21,"/><wi type="G" value="3825,20,">nuevamente</wi>?
+<wi type="G"value="1097,7,">son conocidos</wi>
+<wi type="G"value="5259,8,">por</wi>
+<wi type="G"value="2316,9,">Dios</wi>,
+¿<wi type="G"value="4459,10,">por qué</wi>
+<wi type="G"value="1994,11,">vuelven</wi>
+<wi type="G"value="3825,12,"/><wi type="G"value="1909,13,">a</wi>
+los <wi type="G"value="772,15,">débiles</wi>
+<wi type="G"value="3588,14,"/><wi type="G"value="2532,16,">y</wi>
+<wi type="G"value="4434,17,">miserables</wi>
+<wi type="G"value="4747,18,">elementos</wi>,
+<wi type="G"value="3739,19,">de los que</wi>
+<wi type="G"value="2309,23,">quieren</wi>
+<wi type="G"value="1398,22,">ser esclavos</wi>
+<wi type="G"value="509,21,"/><wi type="G"value="3825,20,">nuevamente</wi>?
  </t>
 </sv>
 <sv id="Galatians-4-10">
 You observe days, months, seasons, and years.
-<t xml:lang="es"><wi type="G" value="3906,2,">Ustedes guardan</wi>
-<wi type="G" value="2250,1,">días</wi>,
-<wi type="G" value="2532,3,">y</wi>
-<wi type="G" value="3376,4,">meses</wi>
-<wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="2540,6,">temporadas</wi>
-<wi type="G" value="2532,7,">y</wi>
-<wi type="G" value="1763,8,">años</wi>.</t>
+<t xml:lang="es"><wi type="G"value="3906,2,">Ustedes guardan</wi>
+<wi type="G"value="2250,1,">días</wi>,
+<wi type="G"value="2532,3,">y</wi>
+<wi type="G"value="3376,4,">meses</wi>
+<wi type="G"value="2532,5,">y</wi>
+<wi type="G"value="2540,6,">temporadas</wi>
+<wi type="G"value="2532,7,">y</wi>
+<wi type="G"value="1763,8,">años</wi>.</t>
 </sv>
 <sv id="Galatians-4-11">
 I am afraid for you, that I might have wasted my labor for you.
-<t xml:lang="es"><wi type="G" value="5399,1,">Temo por</wi>
-<wi type="G" value="5209,2,">ustedes</wi>,
-<wi type="G" value="3381,3,">no sea que</wi>
-<wi type="G" value="2872,5,">yo haya trabajado</wi>
-<wi type="G" value="1519,6,">por</wi>
-<wi type="G" value="5209,7,">ustedes</wi>
-<wi type="G" value="1500,4,">en vano</wi>.</t>
+<t xml:lang="es"><wi type="G"value="5399,1,">Temo por</wi>
+<wi type="G"value="5209,2,">ustedes</wi>,
+<wi type="G"value="3381,3,">no sea que</wi>
+<wi type="G"value="2872,5,">yo haya trabajado</wi>
+<wi type="G"value="1519,6,">por</wi>
+<wi type="G"value="5209,7,">ustedes</wi>
+<wi type="G"value="1500,4,">en vano</wi>.</t>
 </sv>
 <sv id="Galatians-4-12">
 I beg you, brothers, become as I am, for I also have become as you
 are. You did me no wrong,
-<t xml:lang="es"><wi type="G" value="5216,10,">Les</wi>
-<wi type="G" value="1189,9,">ruego</wi>,
-<wi type="G" value="80,8,">hermanos</wi>,
-<wi type="G" value="1096,1,">sean</wi>
-<wi type="G" value="5613,2,">como</wi>
-<wi type="G" value="1473,3,">yo</wi>,
-<wi type="G" value="3754,4,">pues</wi> también
-<wi type="G" value="2504,5,">yo</wi> he sido
-<wi type="G" value="5613,6,">como</wi>
-<wi type="G" value="5210,7,">ustedes</wi>.
-<wi type="G" value="3762,11,">No</wi>
-<wi type="G" value="3165,12,">me</wi> </t>
-<rb xml:lang="es"><wi type="G" value="91,13,">han hecho agravio</wi><rf>
+<t xml:lang="es"><wi type="G"value="5216,10,">Les</wi>
+<wi type="G"value="1189,9,">ruego</wi>,
+<wi type="G"value="80,8,">hermanos</wi>,
+<wi type="G"value="1096,1,">sean</wi>
+<wi type="G"value="5613,2,">como</wi>
+<wi type="G"value="1473,3,">yo</wi>,
+<wi type="G"value="3754,4,">pues</wi> también
+<wi type="G"value="2504,5,">yo</wi> he sido
+<wi type="G"value="5613,6,">como</wi>
+<wi type="G"value="5210,7,">ustedes</wi>.
+<wi type="G"value="3762,11,">No</wi>
+<wi type="G"value="3165,12,">me</wi> </t>
+<rb xml:lang="es"><wi type="G"value="91,13,">han hecho agravio</wi><rf>
 <citebib id="WEB"/> dice `mal,´
 <citebib id="KJV2003"/> dice `herido,´
 <citebib id="RVG2012"/> dice `agravio.´
@@ -1723,41 +1723,41 @@ Según <citebib id="Thayer-BLB"/> la palabra griega
 <sv id="Galatians-4-13">
 but you know that because of
 weakness of the flesh I preached the Good News to you the first time.
-<t xml:lang="es"><wi type="G" value="1161,2,">y</wi>
-<wi type="G" value="1492,1,">ustedes saben</wi>
-<wi type="G" value="3754,3,">como</wi>
-<wi type="G" value="1223,4,">en</wi>
-<wi type="G" value="769,5,">enfermedad</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="4561,7,">de la carne</wi></wi>
-<wi type="G" value="5213,9,">los</wi>
-<wi type="G" value="2097,8,">evangelicé</wi>
-<wi type="G" value="3588,10,"/><wi type="G" value="4386,11,">al comienzo</wi>.
+<t xml:lang="es"><wi type="G"value="1161,2,">y</wi>
+<wi type="G"value="1492,1,">ustedes saben</wi>
+<wi type="G"value="3754,3,">como</wi>
+<wi type="G"value="1223,4,">en</wi>
+<wi type="G"value="769,5,">enfermedad</wi>
+<wi type="G"value="3588,6,"><wi type="G"value="4561,7,">de la carne</wi></wi>
+<wi type="G"value="5213,9,">los</wi>
+<wi type="G"value="2097,8,">evangelicé</wi>
+<wi type="G"value="3588,10,"/><wi type="G"value="4386,11,">al comienzo</wi>.
 </t>
 </sv>
 <sv id="Galatians-4-14">
 That which was a temptation to you in my flesh, you
 didn´t despise nor reject; but you
 received me as an angel of God, even as Christ Jesus.
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi> a
-<wi type="G" value="3450,4,">mi</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="3986,3,">tentación</wi></wi>
-<wi type="G" value="3588,5,">que</wi>
-estaba <wi type="G" value="1722,6,">en</wi>
-<wi type="G" value="3450,9,">mi</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="4561,8,">carne</wi></wi>,
-<wi type="G" value="3756,10,">no</wi>
-<wi type="G" value="1848,11,">despreciaron</wi>
-<wi type="G" value="3761,12,">ni</wi>
-<wi type="G" value="1609,13,">rechazaron</wi>;
-<wi type="G" value="235,14,">sino que</wi>
-<wi type="G" value="3165,19,">me</wi>
-<wi type="G" value="1209,18,">recibieron</wi>
-<wi type="G" value="5613,15,">como</wi>
-a <wi type="G" value="32,16,">un ángel</wi>
-<wi type="G" value="2316,17,">de Dios</wi>,
-<wi type="G" value="5613,20,">como</wi>
-a <wi type="G" value="5547,21,">Cristo</wi>
-<wi type="G" value="2424,22,">Jesús</wi>.</t>
+<t xml:lang="es"><wi type="G"value="2532,1,">Y</wi> a
+<wi type="G"value="3450,4,">mi</wi>
+<wi type="G"value="3588,2,"><wi type="G"value="3986,3,">tentación</wi></wi>
+<wi type="G"value="3588,5,">que</wi>
+estaba <wi type="G"value="1722,6,">en</wi>
+<wi type="G"value="3450,9,">mi</wi>
+<wi type="G"value="3588,7,"><wi type="G"value="4561,8,">carne</wi></wi>,
+<wi type="G"value="3756,10,">no</wi>
+<wi type="G"value="1848,11,">despreciaron</wi>
+<wi type="G"value="3761,12,">ni</wi>
+<wi type="G"value="1609,13,">rechazaron</wi>;
+<wi type="G"value="235,14,">sino que</wi>
+<wi type="G"value="3165,19,">me</wi>
+<wi type="G"value="1209,18,">recibieron</wi>
+<wi type="G"value="5613,15,">como</wi>
+a <wi type="G"value="32,16,">un ángel</wi>
+<wi type="G"value="2316,17,">de Dios</wi>,
+<wi type="G"value="5613,20,">como</wi>
+a <wi type="G"value="5547,21,">Cristo</wi>
+<wi type="G"value="2424,22,">Jesús</wi>.</t>
 </sv></cm>
 
 <cm>
@@ -1765,323 +1765,323 @@ a <wi type="G" value="5547,21,">Cristo</wi>
 What was the blessing you enjoyed? For I testify to you that, if
 possible, you
 would have plucked out your eyes and given them to me.
-<t xml:lang="es">¿<wi type="G" value="5101,1,">Dónde</wi>
-<wi type="G" value="2258,3,">está</wi>
-<wi type="G" value="3767,2,">entonces</wi>
-<wi type="G" value="5216,6,">su</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="3108,5,">bendición</wi></wi>?
-<wi type="G" value="1063,8,">Pues</wi>
-<wi type="G" value="5213,9,">les</wi>
-<wi type="G" value="3140,7,">doy testimonio</wi>,
-<wi type="G" value="3754,10,">que</wi>
-<wi type="G" value="1487,11,">si</wi>
+<t xml:lang="es">¿<wi type="G"value="5101,1,">Dónde</wi>
+<wi type="G"value="2258,3,">está</wi>
+<wi type="G"value="3767,2,">entonces</wi>
+<wi type="G"value="5216,6,">su</wi>
+<wi type="G"value="3588,4,"><wi type="G"value="3108,5,">bendición</wi></wi>?
+<wi type="G"value="1063,8,">Pues</wi>
+<wi type="G"value="5213,9,">les</wi>
+<wi type="G"value="3140,7,">doy testimonio</wi>,
+<wi type="G"value="3754,10,">que</wi>
+<wi type="G"value="1487,11,">si</wi>
 hubiera sido
-<wi type="G" value="1415,12,">posible</wi>,
-<wi type="G" value="5216,15,">se</wi>
-<wi type="G" value="1846,16,">se hubieran sacado</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="3788,14,">los ojos</wi></wi> y
-<wi type="G" value="3427,19,">me</wi>
-<wi type="G" value="302,17,"/><wi type="G" value="1325,18,">los hubieran dado</wi>. </t>
+<wi type="G"value="1415,12,">posible</wi>,
+<wi type="G"value="5216,15,">se</wi>
+<wi type="G"value="1846,16,">se hubieran sacado</wi>
+<wi type="G"value="3588,13,"><wi type="G"value="3788,14,">los ojos</wi></wi> y
+<wi type="G"value="3427,19,">me</wi>
+<wi type="G"value="302,17,"/><wi type="G"value="1325,18,">los hubieran dado</wi>. </t>
 
 </sv>
 <sv id="Galatians-4-16">
 So then, have I become your enemy by telling you the truth?
-<t xml:lang="es"><wi type="G" value="5620,1,">Entonces</wi>,
-¿<wi type="G" value="1096,4,">me he convertido</wi> en
-<wi type="G" value="5216,3,">su</wi>
-<wi type="G" value="2190,2,">enemigo</wi> por
-<wi type="G" value="226,5,"><wi type="G" value="5213,6,">decirles la verdad</wi></wi>?</t>
+<t xml:lang="es"><wi type="G"value="5620,1,">Entonces</wi>,
+¿<wi type="G"value="1096,4,">me he convertido</wi> en
+<wi type="G"value="5216,3,">su</wi>
+<wi type="G"value="2190,2,">enemigo</wi> por
+<wi type="G"value="226,5,"><wi type="G"value="5213,6,">decirles la verdad</wi></wi>?</t>
 </sv>
 <sv id="Galatians-4-17">
 They
 zealously seek you in no good way. No, they desire to alienate you, that
 you may seek them.
-<t xml:lang="es"><wi type="G" value="5209,2,">Los</wi>
-<wi type="G" value="2206,1,">celan</wi>
+<t xml:lang="es"><wi type="G"value="5209,2,">Los</wi>
+<wi type="G"value="2206,1,">celan</wi>
 pero
-<wi type="G" value="3756,3,">no</wi>
-<wi type="G" value="2573,4,">bien</wi>.
-<wi type="G" value="235,5,">Sino que</wi>,
-<wi type="G" value="2309,8,">quieren</wi> </t>
-<rb xml:lang="es"><wi type="G" value="1576,6,">sacarlos</wi><rf><citebib id="WEB"/> dice
+<wi type="G"value="3756,3,">no</wi>
+<wi type="G"value="2573,4,">bien</wi>.
+<wi type="G"value="235,5,">Sino que</wi>,
+<wi type="G"value="2309,8,">quieren</wi> </t>
+<rb xml:lang="es"><wi type="G"value="1576,6,">sacarlos</wi><rf><citebib id="WEB"/> dice
 `alienarlos,´
 <citebib id="KJV2003"/> dice `excluirlos,´
 <citebib id="RVG2012"/> dice `echar fuera.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `εκκλεισαι´
 se traduce como sacar, prevenir que se aproxime.
 </rf></rb>
-<t xml:lang="es"><wi type="G" value="5209,7,">ustedes</wi>,
-<wi type="G" value="2443,9,">para que</wi> ustedes
-<wi type="G" value="846,10,">los</wi>
-<wi type="G" value="2206,11,">celen</wi>.</t>
+<t xml:lang="es"><wi type="G"value="5209,7,">ustedes</wi>,
+<wi type="G"value="2443,9,">para que</wi> ustedes
+<wi type="G"value="846,10,">los</wi>
+<wi type="G"value="2206,11,">celen</wi>.</t>
 </sv>
 <sv id="Galatians-4-18">
 But it is always good to be zealous in a good
 cause, and not only when I am present with you.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> es
-<wi type="G" value="2570,1,">bueno</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="2206,4,">celar</wi>
-<wi type="G" value="3842,7,">siempre</wi>
-<wi type="G" value="1722,5,">en</wi>
-<wi type="G" value="2570,6,">lo bueno</wi>,
-<wi type="G" value="2532,8,">y</wi>
-<wi type="G" value="3361,9,">no</wi>
-<wi type="G" value="3440,10,">sólo</wi>
-<wi type="G" value="1722,11,">mientras</wi>
-<wi type="G" value="3165,14,">yo</wi>
-<wi type="G" value="3588,12,"/><wi type="G" value="3918,13,">estoy presente</wi>
-<wi type="G" value="4314,15,">con</wi>
-<wi type="G" value="5209,16,">ustedes</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Pero</wi> es
+<wi type="G"value="2570,1,">bueno</wi>
+<wi type="G"value="3588,3,"/><wi type="G"value="2206,4,">celar</wi>
+<wi type="G"value="3842,7,">siempre</wi>
+<wi type="G"value="1722,5,">en</wi>
+<wi type="G"value="2570,6,">lo bueno</wi>,
+<wi type="G"value="2532,8,">y</wi>
+<wi type="G"value="3361,9,">no</wi>
+<wi type="G"value="3440,10,">sólo</wi>
+<wi type="G"value="1722,11,">mientras</wi>
+<wi type="G"value="3165,14,">yo</wi>
+<wi type="G"value="3588,12,"/><wi type="G"value="3918,13,">estoy presente</wi>
+<wi type="G"value="4314,15,">con</wi>
+<wi type="G"value="5209,16,">ustedes</wi>.</t>
 </sv></cm>
 
 <cm>
 <sv id="Galatians-4-19">
 My little children, of whom I am again in travail until Christ is
 formed in you
-<t xml:lang="es"><wi type="G" value="3450,2,">Mis</wi>
-<wi type="G" value="5040,1,">hijitos</wi>,
-<wi type="G" value="3739,3,">de quienes</wi>
-<wi type="G" value="5605,5,">estoy en trabajo de parto</wi>
-<wi type="G" value="3825,4,">nuevamente</wi>
-<wi type="G" value="891,6,">hasta</wi>
-<wi type="G" value="3739,7,">que</wi>
-<wi type="G" value="5547,9,">Cristo</wi>
-<wi type="G" value="3445,8,">se forme</wi>
-<wi type="G" value="1722,10,">en</wi>
-<wi type="G" value="5213,11,">ustedes</wi>.</t>
+<t xml:lang="es"><wi type="G"value="3450,2,">Mis</wi>
+<wi type="G"value="5040,1,">hijitos</wi>,
+<wi type="G"value="3739,3,">de quienes</wi>
+<wi type="G"value="5605,5,">estoy en trabajo de parto</wi>
+<wi type="G"value="3825,4,">nuevamente</wi>
+<wi type="G"value="891,6,">hasta</wi>
+<wi type="G"value="3739,7,">que</wi>
+<wi type="G"value="5547,9,">Cristo</wi>
+<wi type="G"value="3445,8,">se forme</wi>
+<wi type="G"value="1722,10,">en</wi>
+<wi type="G"value="5213,11,">ustedes</wi>.</t>
 </sv>
 <sv id="Galatians-4-20">
 but I could wish to be present with you now, and to
 change my tone, for I am perplexed about you.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="2309,1,">quisiera</wi>
-<wi type="G" value="3918,3,">estar presente</wi>
-<wi type="G" value="4314,4,">con</wi>
-<wi type="G" value="5209,5,">ustedes</wi>
-<wi type="G" value="737,6,">ahora</wi>,
-<wi type="G" value="2532,7,">y</wi>
-<wi type="G" value="236,8,">cambiar</wi>
-<wi type="G" value="3450,11,">mi</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="5456,10,">tono</wi></wi>,
-<wi type="G" value="3754,12,">pues</wi>
-<wi type="G" value="639,13,">estoy perplejo</wi>
-<wi type="G" value="1722,14,">respecto a</wi>
-<wi type="G" value="5213,15,">ustedes</wi>.
+<t xml:lang="es"><wi type="G"value="1161,2,">Y</wi>
+<wi type="G"value="2309,1,">quisiera</wi>
+<wi type="G"value="3918,3,">estar presente</wi>
+<wi type="G"value="4314,4,">con</wi>
+<wi type="G"value="5209,5,">ustedes</wi>
+<wi type="G"value="737,6,">ahora</wi>,
+<wi type="G"value="2532,7,">y</wi>
+<wi type="G"value="236,8,">cambiar</wi>
+<wi type="G"value="3450,11,">mi</wi>
+<wi type="G"value="3588,9,"><wi type="G"value="5456,10,">tono</wi></wi>,
+<wi type="G"value="3754,12,">pues</wi>
+<wi type="G"value="639,13,">estoy perplejo</wi>
+<wi type="G"value="1722,14,">respecto a</wi>
+<wi type="G"value="5213,15,">ustedes</wi>.
 </t>
 </sv>
 <sv id="Galatians-4-21">
 Tell me, you that desire to be under the law, don´t you
 listen to the law?
-<t xml:lang="es"><wi type="G" value="3004,1,"><wi type="G"
+<t xml:lang="es"><wi type="G"value="3004,1,"><wi type="G"
 value="3427,2,">Díganme</wi></wi>,
-<wi type="G" value="3588,3,">los que</wi>
-<wi type="G" value="2309,6,">quieren</wi>
-<wi type="G" value="1511,7,">estar</wi>
-<wi type="G" value="5259,4,">bajo</wi>
-<wi type="G" value="3551,5,">la ley</wi>,
-¿<wi type="G" value="3756,10,">No</wi>
-<wi type="G" value="191,11,">han escuchado</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="3551,9,">la ley</wi></wi>?</t>
+<wi type="G"value="3588,3,">los que</wi>
+<wi type="G"value="2309,6,">quieren</wi>
+<wi type="G"value="1511,7,">estar</wi>
+<wi type="G"value="5259,4,">bajo</wi>
+<wi type="G"value="3551,5,">la ley</wi>,
+¿<wi type="G"value="3756,10,">No</wi>
+<wi type="G"value="191,11,">han escuchado</wi>
+<wi type="G"value="3588,8,"><wi type="G"value="3551,9,">la ley</wi></wi>?</t>
 </sv>
 <sv id="Galatians-4-22">
 For it is
 written that Abraham had two sons, one by the handmaid, and one by the free
 woman.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="1125,1,">está escrito</wi>
-<wi type="G" value="3754,3,">que</wi>
-<wi type="G" value="11,4,">Abraham</wi>
-<wi type="G" value="2192,7,">tuvo</wi>
-<wi type="G" value="1417,5,">dos</wi>
-<wi type="G" value="5207,6,">hijos</wi>,
-<wi type="G" value="1520,8,">uno</wi>
-<wi type="G" value="1537,9,">de</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="3814,11,">la sierva</wi></wi>,
-<wi type="G" value="2532,12,">y</wi>
-<wi type="G" value="1520,13,">el otro</wi>
-<wi type="G" value="1537,14,">de</wi>
-<wi type="G" value="3588,15,"/><wi type="G" value="1658,16,">la mujer libre</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1063,2,">Pues</wi>
+<wi type="G"value="1125,1,">está escrito</wi>
+<wi type="G"value="3754,3,">que</wi>
+<wi type="G"value="11,4,">Abraham</wi>
+<wi type="G"value="2192,7,">tuvo</wi>
+<wi type="G"value="1417,5,">dos</wi>
+<wi type="G"value="5207,6,">hijos</wi>,
+<wi type="G"value="1520,8,">uno</wi>
+<wi type="G"value="1537,9,">de</wi>
+<wi type="G"value="3588,10,"><wi type="G"value="3814,11,">la sierva</wi></wi>,
+<wi type="G"value="2532,12,">y</wi>
+<wi type="G"value="1520,13,">el otro</wi>
+<wi type="G"value="1537,14,">de</wi>
+<wi type="G"value="3588,15,"/><wi type="G"value="1658,16,">la mujer libre</wi>.</t>
 </sv>
 <sv id="Galatians-4-23">
 However, the son by the handmaid was born according to the
 flesh, but the son by the free woman was born through promise.
-<t xml:lang="es"><wi type="G" value="235,1,">Más</wi>
-<wi type="G" value="3303,3,">en verdad</wi>,
-<wi type="G" value="3588,2,">el</wi>
-<wi type="G" value="1537,4,">de</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="3814,6,">la sierva</wi></wi>
-<wi type="G" value="1080,9,">nació</wi>
-<wi type="G" value="2596,7,">según</wi>
-<wi type="G" value="4561,8,">la carne</wi>,
-<wi type="G" value="1161,11,">pero</wi>
-<wi type="G" value="3588,10,">el</wi>
-<wi type="G" value="1537,12,">de</wi>
-<wi type="G" value="3588,13,"/><wi type="G" value="1658,14,">la mujer libre</wi>
-fue <wi type="G" value="1223,15,">por</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="1860,17,">la promesa</wi></wi>.
+<t xml:lang="es"><wi type="G"value="235,1,">Más</wi>
+<wi type="G"value="3303,3,">en verdad</wi>,
+<wi type="G"value="3588,2,">el</wi>
+<wi type="G"value="1537,4,">de</wi>
+<wi type="G"value="3588,5,"><wi type="G"value="3814,6,">la sierva</wi></wi>
+<wi type="G"value="1080,9,">nació</wi>
+<wi type="G"value="2596,7,">según</wi>
+<wi type="G"value="4561,8,">la carne</wi>,
+<wi type="G"value="1161,11,">pero</wi>
+<wi type="G"value="3588,10,">el</wi>
+<wi type="G"value="1537,12,">de</wi>
+<wi type="G"value="3588,13,"/><wi type="G"value="1658,14,">la mujer libre</wi>
+fue <wi type="G"value="1223,15,">por</wi>
+<wi type="G"value="3588,16,"><wi type="G"value="1860,17,">la promesa</wi></wi>.
 </t>
 </sv>
 <sv id="Galatians-4-24">
 These
 things contain an allegory, for these are two covenants. One is from Mount
 Sinai, bearing children to bondage, which is Hagar.
-<t xml:lang="es"><wi type="G" value="3748,1,">Estas cosas</wi>
-<wi type="G" value="2076,2,">son</wi>
-<wi type="G" value="238,3,">una alegoría</wi>,
-<wi type="G" value="1063,5,">pues</wi>
-<wi type="G" value="3778,4,">aquellas</wi>
-<wi type="G" value="1526,6,">son</wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="1417,8,">los dos</wi>
-<wi type="G" value="1242,9,">pactos</wi>.
-<wi type="G" value="1520,10,">Uno</wi> el
-<wi type="G" value="3303,11,"/><wi type="G" value="575,12,">del</wi>
-<wi type="G" value="3735,13,">Monte</wi>
-<wi type="G" value="4614,14,">Sinaí</wi>,
-<wi type="G" value="1080,17,">que concibió</wi>
-<wi type="G" value="1519,15,">para</wi>
-<wi type="G" value="1397,16,">servidumbre</wi>,
-<wi type="G" value="3748,18,">que</wi>
-<wi type="G" value="2076,19,">es</wi>
-<wi type="G" value="28,20,">Agar</wi>.</t>
+<t xml:lang="es"><wi type="G"value="3748,1,">Estas cosas</wi>
+<wi type="G"value="2076,2,">son</wi>
+<wi type="G"value="238,3,">una alegoría</wi>,
+<wi type="G"value="1063,5,">pues</wi>
+<wi type="G"value="3778,4,">aquellas</wi>
+<wi type="G"value="1526,6,">son</wi>
+<wi type="G"value="3588,7,"/><wi type="G"value="1417,8,">los dos</wi>
+<wi type="G"value="1242,9,">pactos</wi>.
+<wi type="G"value="1520,10,">Uno</wi> el
+<wi type="G"value="3303,11,"/><wi type="G"value="575,12,">del</wi>
+<wi type="G"value="3735,13,">Monte</wi>
+<wi type="G"value="4614,14,">Sinaí</wi>,
+<wi type="G"value="1080,17,">que concibió</wi>
+<wi type="G"value="1519,15,">para</wi>
+<wi type="G"value="1397,16,">servidumbre</wi>,
+<wi type="G"value="3748,18,">que</wi>
+<wi type="G"value="2076,19,">es</wi>
+<wi type="G"value="28,20,">Agar</wi>.</t>
 </sv>
 <sv id="Galatians-4-25">
 For this Hagar is
 Mount Sinai in Arabia, and answers to the Jerusalem that exists now, for she
 is in bondage with her children.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="3588,1,">esta</wi>
-<wi type="G" value="28,3,">Agar</wi>
-<wi type="G" value="2076,6,">es</wi>
-<wi type="G" value="3735,5,">el Monte</wi>
-<wi type="G" value="4614,4,">Sinai</wi>
-<wi type="G" value="1722,7,">en</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="688,9,">Arabia</wi></wi>,
-<wi type="G" value="1161,11,">y</wi>
-<wi type="G" value="4960,10,">responde a</wi>
-<wi type="G" value="2419,14,">la Jerusalén</wi>
-<wi type="G" value="3588,12,">que</wi> es
-<wi type="G" value="3568,13,">ahora</wi>,
-<wi type="G" value="1161,16,">y</wi>
-<wi type="G" value="1398,15,">esta bajo servidumbre</wi>
-<wi type="G" value="3326,17,">con</wi>
-<wi type="G" value="846,20,">sus</wi>
-<wi type="G" value="3588,18,"><wi type="G" value="5043,19,">hijos</wi></wi>. </t>
+<t xml:lang="es"><wi type="G"value="1063,2,">Pues</wi>
+<wi type="G"value="3588,1,">esta</wi>
+<wi type="G"value="28,3,">Agar</wi>
+<wi type="G"value="2076,6,">es</wi>
+<wi type="G"value="3735,5,">el Monte</wi>
+<wi type="G"value="4614,4,">Sinai</wi>
+<wi type="G"value="1722,7,">en</wi>
+<wi type="G"value="3588,8,"><wi type="G"value="688,9,">Arabia</wi></wi>,
+<wi type="G"value="1161,11,">y</wi>
+<wi type="G"value="4960,10,">responde a</wi>
+<wi type="G"value="2419,14,">la Jerusalén</wi>
+<wi type="G"value="3588,12,">que</wi> es
+<wi type="G"value="3568,13,">ahora</wi>,
+<wi type="G"value="1161,16,">y</wi>
+<wi type="G"value="1398,15,">esta bajo servidumbre</wi>
+<wi type="G"value="3326,17,">con</wi>
+<wi type="G"value="846,20,">sus</wi>
+<wi type="G"value="3588,18,"><wi type="G"value="5043,19,">hijos</wi></wi>. </t>
 </sv>
 <sv id="Galatians-4-26">
 But the Jerusalem that is above is
 free, which is the mother of us all.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G" value="2419,4,">la Jerusalén</wi>
-<wi type="G" value="3588,1,">que</wi> está
-<wi type="G" value="507,3,">arriba</wi>
-<wi type="G" value="2076,6,">es</wi>
-<wi type="G" value="1658,5,">libre</wi>,
-<wi type="G" value="3748,7,">que</wi>
-<wi type="G" value="2076,8,">es</wi>
-<wi type="G" value="3384,9,">la madre</wi>
-<wi type="G" value="3956,10,">de todos</wi>
-<wi type="G" value="2257,11,">nosotros</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Pero</wi>
+<wi type="G"value="2419,4,">la Jerusalén</wi>
+<wi type="G"value="3588,1,">que</wi> está
+<wi type="G"value="507,3,">arriba</wi>
+<wi type="G"value="2076,6,">es</wi>
+<wi type="G"value="1658,5,">libre</wi>,
+<wi type="G"value="3748,7,">que</wi>
+<wi type="G"value="2076,8,">es</wi>
+<wi type="G"value="3384,9,">la madre</wi>
+<wi type="G"value="3956,10,">de todos</wi>
+<wi type="G"value="2257,11,">nosotros</wi>.</t>
 </sv>
 <sv id="Galatians-4-27">
 For it is written,
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="1125,1,">está escrito</wi></t>
+<t xml:lang="es"><wi type="G"value="1063,2,">Pues</wi>
+<wi type="G"value="1125,1,">está escrito</wi></t>
 <cl/><fp>
 «Rejoice, you barren who don´t bear.
-<t xml:lang="es">«<wi type="G" value="2165,3,">Alégrate</wi>,
-<wi type="G" value="4723,4,">estéril</wi>
-<wi type="G" value="3588,5,">que</wi>
-<wi type="G" value="3756,6,">no</wi>
-<wi type="G" value="5088,7,">das a luz</wi>.</t>
+<t xml:lang="es">«<wi type="G"value="2165,3,">Alégrate</wi>,
+<wi type="G"value="4723,4,">estéril</wi>
+<wi type="G"value="3588,5,">que</wi>
+<wi type="G"value="3756,6,">no</wi>
+<wi type="G"value="5088,7,">das a luz</wi>.</t>
 <cl/>
 Break forth and shout, you that don´t travail.
-<t xml:lang="es"><wi type="G" value="4486,8,">estalla</wi>
-<wi type="G" value="2532,9,">y</wi>
-<wi type="G" value="994,10,">clama</wi>,
-<wi type="G" value="3588,11,">la que</wi>
-<wi type="G" value="3756,12,">no</wi>
-<wi type="G" value="5605,13,">tiene dolores de parto</wi>.</t>
+<t xml:lang="es"><wi type="G"value="4486,8,">estalla</wi>
+<wi type="G"value="2532,9,">y</wi>
+<wi type="G"value="994,10,">clama</wi>,
+<wi type="G"value="3588,11,">la que</wi>
+<wi type="G"value="3756,12,">no</wi>
+<wi type="G"value="5605,13,">tiene dolores de parto</wi>.</t>
 <cl/>
 For more are the children of the desolate than of her who has a
 husband.»
-<t xml:lang="es"><wi type="G" value="3754,14,">Pues</wi>
-<wi type="G" value="4183,15,">muchos</wi>
-<wi type="G" value="3123,20,">más</wi>
-son <wi type="G" value="3588,16,"><wi type="G" value="5043,17,">los hijos</wi></wi>
-<wi type="G" value="3588,18,"/><wi type="G" value="2048,19,">de la abandonada</wi>
-<wi type="G" value="2228,21,">que</wi> los
-<wi type="G" value="3588,22,">de la que</wi>
-<wi type="G" value="2192,23,">tiene</wi>
-<wi type="G" value="3588,24,"><wi type="G" value="435,25,">esposo</wi></wi>.»</t>
+<t xml:lang="es"><wi type="G"value="3754,14,">Pues</wi>
+<wi type="G"value="4183,15,">muchos</wi>
+<wi type="G"value="3123,20,">más</wi>
+son <wi type="G"value="3588,16,"><wi type="G"value="5043,17,">los hijos</wi></wi>
+<wi type="G"value="3588,18,"/><wi type="G"value="2048,19,">de la abandonada</wi>
+<wi type="G"value="2228,21,">que</wi> los
+<wi type="G"value="3588,22,">de la que</wi>
+<wi type="G"value="2192,23,">tiene</wi>
+<wi type="G"value="3588,24,"><wi type="G"value="435,25,">esposo</wi></wi>.»</t>
 </fp>
 </sv></cm>
 
 <cm>
 <sv id="Galatians-4-28">
 Now we, brothers, as Isaac was, are children of promise.
-<t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>,
-<wi type="G" value="2249,1,">nosotros</wi>,
-<wi type="G" value="80,3,">hermanos</wi>,
-<wi type="G" value="2596,4,">tal como</wi>
-<wi type="G" value="2464,5,">Isaac</wi>,
-<wi type="G" value="2070,8,">somos</wi>
-<wi type="G" value="5043,7,">hijos</wi>
-<wi type="G" value="1860,6,">de la promesa</wi>.</t>
+<t xml:lang="es"><wi type="G"value="1161,2,">Ahora</wi>,
+<wi type="G"value="2249,1,">nosotros</wi>,
+<wi type="G"value="80,3,">hermanos</wi>,
+<wi type="G"value="2596,4,">tal como</wi>
+<wi type="G"value="2464,5,">Isaac</wi>,
+<wi type="G"value="2070,8,">somos</wi>
+<wi type="G"value="5043,7,">hijos</wi>
+<wi type="G"value="1860,6,">de la promesa</wi>.</t>
 </sv>
 <sv id="Galatians-4-29">
 But as
 then, he who was born according to the flesh persecuted him who was born
 according to the Spirit, so also it is now.
-<t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>
-<wi type="G" value="5618,2,">como</wi>
-<wi type="G" value="5119,3,">entonces</wi>,
-<wi type="G" value="3588,4,">el que</wi>
-<wi type="G" value="1080,7,">nació</wi>
-<wi type="G" value="2596,5,">de acuerdo a</wi>
-<wi type="G" value="4561,6,">la carne</wi>
-<wi type="G" value="1377,8,">perseguía</wi>
-<wi type="G" value="3588,9,">al que</wi>
+<t xml:lang="es"><wi type="G"value="235,1,">Pero</wi>
+<wi type="G"value="5618,2,">como</wi>
+<wi type="G"value="5119,3,">entonces</wi>,
+<wi type="G"value="3588,4,">el que</wi>
+<wi type="G"value="1080,7,">nació</wi>
+<wi type="G"value="2596,5,">de acuerdo a</wi>
+<wi type="G"value="4561,6,">la carne</wi>
+<wi type="G"value="1377,8,">perseguía</wi>
+<wi type="G"value="3588,9,">al que</wi>
 fue
-<wi type="G" value="2596,10,">de acuerdo</wi>
-<wi type="G" value="4151,11,">al Espíritu</wi>,
-<wi type="G" value="3779,12,">así</wi>
-<wi type="G" value="2532,13,">también</wi> es
-<wi type="G" value="3568,14,">ahora</wi>.</t>
+<wi type="G"value="2596,10,">de acuerdo</wi>
+<wi type="G"value="4151,11,">al Espíritu</wi>,
+<wi type="G"value="3779,12,">así</wi>
+<wi type="G"value="2532,13,">también</wi> es
+<wi type="G"value="3568,14,">ahora</wi>.</t>
 </sv>
 <sv id="Galatians-4-30">
 However what does the
 Scripture say?«Throw out the handmaid and her son, for the son of the
 handmaid will not inherit with the son of the free woman.»
-<t xml:lang="es"><wi type="G" value="235,1,">Sin embargo</wi>
-¿<wi type="G" value="5101,2,">qué</wi>
-<wi type="G" value="3004,3,">dice</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="1124,5,">la escritura</wi></wi>?
-«<wi type="G" value="1544,6,">Expulsa a</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="3814,8,">la sierva</wi></wi>
-<wi type="G" value="2532,9,">y</wi> a
-<wi type="G" value="846,12,">su</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="5207,11,">hijo</wi></wi>,
-<wi type="G" value="1063,14,">pues</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="5207,18,">el hijo</wi></wi>
-<wi type="G" value="3588,19,"><wi type="G" value="3814,20,">de la sierva</wi></wi>
-<wi type="G" value="3361,15,"/><wi type="G" value="3756,13,">no</wi>
-<wi type="G" value="2816,16,">heredará</wi>
-<wi type="G" value="3326,21,">con</wi>
-<wi type="G" value="3588,22,"><wi type="G" value="5207,23,">el hijo</wi></wi>
-  <wi type="G" value="3588,24,"/><wi type="G" value="1658,25,">de la mujer libre</wi>.»
+<t xml:lang="es"><wi type="G"value="235,1,">Sin embargo</wi>
+¿<wi type="G"value="5101,2,">qué</wi>
+<wi type="G"value="3004,3,">dice</wi>
+<wi type="G"value="3588,4,"><wi type="G"value="1124,5,">la escritura</wi></wi>?
+«<wi type="G"value="1544,6,">Expulsa a</wi>
+<wi type="G"value="3588,7,"><wi type="G"value="3814,8,">la sierva</wi></wi>
+<wi type="G"value="2532,9,">y</wi> a
+<wi type="G"value="846,12,">su</wi>
+<wi type="G"value="3588,10,"><wi type="G"value="5207,11,">hijo</wi></wi>,
+<wi type="G"value="1063,14,">pues</wi>
+<wi type="G"value="3588,17,"><wi type="G"value="5207,18,">el hijo</wi></wi>
+<wi type="G"value="3588,19,"><wi type="G"value="3814,20,">de la sierva</wi></wi>
+<wi type="G"value="3361,15,"/><wi type="G"value="3756,13,">no</wi>
+<wi type="G"value="2816,16,">heredará</wi>
+<wi type="G"value="3326,21,">con</wi>
+<wi type="G"value="3588,22,"><wi type="G"value="5207,23,">el hijo</wi></wi>
+  <wi type="G"value="3588,24,"/><wi type="G"value="1658,25,">de la mujer libre</wi>.»
 </t>
 </sv>
 <sv id="Galatians-4-31">
 So then,
 brothers, we are not children of a handmaid, but of the free woman.
-<t xml:lang="es"><wi type="G" value="686,1,">Así que entonces</wi>,
-<wi type="G" value="80,2,">hermanos</wi>,
-<wi type="G" value="3756,3,">no</wi>
-<wi type="G" value="2070,4,">somos</wi>
-<wi type="G" value="5043,6,">hijos</wi>
-<wi type="G" value="3814,5,">de la sierva</wi>,
-<wi type="G" value="235,7,">sino</wi>
-<wi type="G" value="3588,8,"/><wi type="G" value="1658,9,">de la mujer libre</wi>.</t>
+<t xml:lang="es"><wi type="G"value="686,1,">Así que entonces</wi>,
+<wi type="G"value="80,2,">hermanos</wi>,
+<wi type="G"value="3756,3,">no</wi>
+<wi type="G"value="2070,4,">somos</wi>
+<wi type="G"value="5043,6,">hijos</wi>
+<wi type="G"value="3814,5,">de la sierva</wi>,
+<wi type="G"value="235,7,">sino</wi>
+<wi type="G"value="3588,8,"/><wi type="G"value="1658,9,">de la mujer libre</wi>.</t>
 <cl/>
 </sv></cm></sc>
 <sc id="Galatians-5">
@@ -2089,37 +2089,63 @@ brothers, we are not children of a handmaid, but of the free woman.
 <sv id="Galatians-5-1">
 Stand firm therefore in the liberty by which Christ has made us
 free, and don´t be entangled again with a yoke of bondage.
-<t xml:lang="es"><wi type="G" value="4739,8,">Permanezcan firmes</wi>,
-<wi type="G" value="3767,3,">entonces</wi>, en
-<wi type="G" value="3588,1,"><wi type="G" value="1657,2,">la libertad</wi></wi>
-<wi type="G" value="3739,4,">por la cual</wi>
-<wi type="G" value="5547,5,">Cristo</wi>
-<wi type="G" value="2248,6,">nos</wi>
-<wi type="G" value="1659,7,">ha hecho libres</wi>,
-<wi type="G" value="2532,9,">y</wi>
-<wi type="G" value="3361,10,">no</wi>
-<wi type="G" value="1758,14,">se unzan</wi>
-<wi type="G" value="3825,11,">nuevamente</wi>
-<wi type="G" value="2218,12,">un yugo</wi>
-<wi type="G" value="1397,13,">de esclavitud</wi>.
+<t xml:lang="es"><wi type="G"value="4739,8,">Permanezcan firmes</wi>,
+<wi type="G"value="3767,3,">entonces</wi>, en
+<wi type="G"value="3588,1,"><wi type="G"value="1657,2,">la libertad</wi></wi>
+<wi type="G"value="3739,4,">por la cual</wi>
+<wi type="G"value="5547,5,">Cristo</wi>
+<wi type="G"value="2248,6,">nos</wi>
+<wi type="G"value="1659,7,">ha hecho libres</wi>,
+<wi type="G"value="2532,9,">y</wi>
+<wi type="G"value="3361,10,">no</wi>
+<wi type="G"value="1758,14,">se unzan</wi>
+<wi type="G"value="3825,11,">nuevamente</wi>
+<wi type="G"value="2218,12,">un yugo</wi>
+<wi type="G"value="1397,13,">de esclavitud</wi>.
 </t>
 </sv>
 <sv id="Galatians-5-2">
 Behold, I,
 Paul, tell you that if you
-<wi type="T" value="P"/> receive circumcision, Christ will profit you
+receive circumcision, Christ will profit you
 nothing.
+<t xml:lang="es"><wi type="G"value="1492,1,">Observen</wi>, 
+<wi type="G"value="1473,2,">yo</wi>, 
+<wi type="G"value="3972,3,">Pablo</wi>, 
+<wi type="G"value="5213,5,">les</wi> 
+<wi type="G"value="3004,4,">digo</wi> 
+<wi type="G"value="3754,6,">que</wi> 
+<wi type="G"value="1437,7,">si</wi> 
+<wi type="G"value="4059,8,">se circuncidan</wi>, 
+<wi type="G"value="5547,9,">Cristo</wi> 
+<wi type="G"value="3762,11,">no</wi> 
+<wi type="G"value="5209,10,">les</wi> 
+<wi type="G"value="5623,12,">servirá</wi> 
+<wi type="GC"value="11">de nada</wi>.
+</t>
 </sv>
 <sv id="Galatians-5-3">
 Yes, I testify again to every man who receives circumcision,
 that he is a debtor to do the whole law.
+<t xml:lang="es"><wi type="G"value="1161,2,">Pues</wi>, 
+<wi type="G"value="3143,1,">doy testimonio</wi> 
+<wi type="G"value="3825,3,">de nuevo</wi>
+<wi type="G"value="3956,4,">a todo</wi> 
+<wi type="G"value="444,5,">hombre</wi> 
+<wi type="G"value="4059,6,">que se circuncide</wi>,
+<wi type="G"value="3754,7,">que</wi> 
+<wi type="G"value="2076,9,">es</wi> 
+<wi type="G"value="3781,8,">deudor</wi> 
+<wi type="G"value="4160,13,">de cumplir</wi> 
+<wi type="G"value="3650,10,">toda</wi> 
+<wi type="G"value="3588,11,"><wi type="G"value="3551,12,">la ley</wi></wi>.</t>
 </sv>
 <sv id="Galatians-5-4">
 You
-<wi type="T" value="P"/> are alienated from
+<wi type="T"value="P"/> are alienated from
 Christ, you
-<wi type="T" value="P"/> who desire to be justified by the law. You
-<wi type="T" value="P"/> have fallen
+<wi type="T"value="P"/> who desire to be justified by the law. You
+<wi type="T"value="P"/> have fallen
 away from grace.
 </sv>
 <sv id="Galatians-5-5">
@@ -2132,9 +2158,9 @@ anything, nor uncircumcision, but faith working through love.
 </sv>
 <sv id="Galatians-5-7">
 You
-<wi type="T" value="P"/>
+<wi type="T"value="P"/>
 were running well! Who interfered with you that you
-<wi type="T" value="P"/> should not obey the
+<wi type="T"value="P"/> should not obey the
 truth?
 </sv>
 <sv id="Galatians-5-8">
@@ -2147,7 +2173,7 @@ yeast grows through the whole lump.
 <sv id="Galatians-5-10">
 I have confidence toward you in the
 Lord that you
-<wi type="T" value="P"/> will think no other way. But he who troubles you will bear
+<wi type="T"value="P"/> will think no other way. But he who troubles you will bear
 his judgment, whoever he is.
 
 </sv></cm><cm>
@@ -2162,7 +2188,7 @@ wish that those who disturb you would cut themselves off.
 </sv>
 <sv id="Galatians-5-13">
 For you
-<wi type="T" value="P"/>,
+<wi type="T"value="P"/>,
 brothers, were called for freedom. Only don´t use your freedom for gain to
 the flesh, but through love be servants to one another.
 </sv>
@@ -2173,27 +2199,27 @@ yourself.»
 </sv>
 <sv id="Galatians-5-15">
 But if you
-<wi type="T" value="P"/> bite and devour one another, be careful that
+<wi type="T"value="P"/> bite and devour one another, be careful that
 you
-<wi type="T" value="P"/> don´t consume one another.
+<wi type="T"value="P"/> don´t consume one another.
 </sv>
 <sv id="Galatians-5-16">
 But I say, walk by the Spirit, and
 you
-<wi type="T" value="P"/> won´t fulfill the lust of the flesh.
+<wi type="T"value="P"/> won´t fulfill the lust of the flesh.
 </sv>
 <sv id="Galatians-5-17">
 For the flesh lusts
 against the Spirit, and the Spirit against the flesh; and these are contrary
 to one other, that you
-<wi type="T" value="P"/> may not do the things that you
-<wi type="T" value="P"/> desire.
+<wi type="T"value="P"/> may not do the things that you
+<wi type="T"value="P"/> desire.
 
 </sv>
 <sv id="Galatians-5-18">
 But if you
-<wi type="T" value="P"/> are led by the Spirit, you
-<wi type="T" value="P"/> are not under the law.
+<wi type="T"value="P"/> are led by the Spirit, you
+<wi type="T"value="P"/> are not under the law.
 
 </sv>
 <sv id="Galatians-5-19">
@@ -2240,13 +2266,13 @@ and envying one another.
 <cm>
 <sv id="Galatians-6-1">
 Brothers, even if a man is caught in some fault, you
-<wi type="T" value="P"/> who are
+<wi type="T"value="P"/> who are
 spiritual must restore such a one in a spirit of gentleness; looking to
 yourself so that you also aren´t tempted.
 </sv>
 <sv id="Galatians-6-2">
 Bear
-<wi type="T" value="P"/> one another´s
+<wi type="T"value="P"/> one another´s
 burdens, and so fulfill the law of Christ.
 </sv>
 <sv id="Galatians-6-3">
