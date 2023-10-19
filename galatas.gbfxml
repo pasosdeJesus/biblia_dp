@@ -2168,13 +2168,33 @@ of righteousness.
 <sv id="Galatians-5-6">
 For in Christ Jesus neither circumcision amounts to
 anything, nor uncircumcision, but faith working through love.
+<t xml:lang="es"><wi type="G" value="1063,2,">Porque</wi>
+<wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="5547,3,">Cristo</wi>
+<wi type="G" value="2424,4,">Jesús</wi>
+<wi type="G" value="3777,5,">ni</wi>
+<wi type="G" value="4061,6,">la circuncisión</wi>
+<wi type="G" value="3777,9,">ni</wi>
+<wi type="G" value="203,10,">la falta de circuncisión</wi>
+<wi type="G" value="2480,8,">cuentan</wi> para
+<wi type="G" value="5100,7,">algo</wi>,
+<wi type="G" value="235,11,">sino que</wi>
+<wi type="G" value="4102,12,">la fe</wi>
+<wi type="G" value="1754,15,">obra</wi>
+<wi type="G" value="1223,13,">por</wi>
+<wi type="G" value="26,14,">el amor</wi>.</t>
 </sv>
 <sv id="Galatians-5-7">
-You
-<wi type="T" value="P"/>
-were running well! Who interfered with you that you
-<wi type="T" value="P"/> should not obey the
-truth?
+You were running well! Who interfered with you that you
+should not obey the truth?
+<t xml:lang="es">¡<wi type="G" value="5143,1,">Ustedes corrían</wi>
+<wi type="G" value="2573,2,">tan bien</wi>!
+¿<wi type="G" value="5101,3,">Quien</wi>
+<wi type="G" value="5209,4,">los</wi>
+<wi type="G" value="348,5,">convenció</wi> de
+<wi type="G" value="3361,8,">no</wi>
+<wi type="G" value="3982,9,">obedecer</wi> a
+<wi type="G" value="3588,6,"><wi type="G" value="225,7,">la verdad</wi></wi>?</t>
 </sv>
 <sv id="Galatians-5-8">
 This persuasion is not from him who calls you.
