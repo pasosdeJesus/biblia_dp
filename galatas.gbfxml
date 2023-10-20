@@ -2198,10 +2198,20 @@ should not obey the truth?
 </sv>
 <sv id="Galatians-5-8">
 This persuasion is not from him who calls you.
+<t xml:lang="es"><wi type="G" value="3588,1,">Esta</wi>
+<wi type="G" value="3988,2,">persuación</wi>
+<wi type="G" value="3756,3,">no</wi> es
+<wi type="G" value="1537,4,"><wi type="G" value="3588,5,">del que</wi></wi>
+<wi type="G" value="5209,7,">los</wi>
+<wi type="G" value="2564,6,">llamó</wi>.</t>
 </sv>
 <sv id="Galatians-5-9">
-A little
-yeast grows through the whole lump.
+A little yeast grows through the whole lump.
+<t xml:lang="es"><wi type="G" value="3398,1,">Un poco</wi>
+<wi type="G" value="2219,2,">de levadura</wi>
+<wi type="G" value="2220,6,">leuda</wi>
+<wi type="G" value="3650,3,">toda</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="5445,5,">la masa</wi></wi>.</t>
 </sv>
 <sv id="Galatians-5-10">
 I have confidence toward you in the
