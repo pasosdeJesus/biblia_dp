@@ -2214,20 +2214,60 @@ A little yeast grows through the whole lump.
 <wi type="G" value="3588,4,"><wi type="G" value="5445,5,">la masa</wi></wi>.</t>
 </sv>
 <sv id="Galatians-5-10">
-I have confidence toward you in the
-Lord that you
-<wi type="T" value="P"/> will think no other way. But he who troubles you will bear
+I have confidence toward you in the Lord that you
+will think no other way. But he who troubles you will bear
 his judgment, whoever he is.
-
-</sv></cm><cm>
-
+<t xml:lang="es"><wi type="G" value="1473,1,">Yo</wi>
+<wi type="G" value="3982,2,">confío</wi>
+<wi type="G" value="1519,3,">de</wi>
+<wi type="G" value="5209,4,">ustedes</wi>
+<wi type="G" value="1722,5,">mediante</wi>
+<wi type="G" value="2962,6,">el Señor</wi>
+<wi type="G" value="3754,7,">que</wi>
+<wi type="G" value="3762,8,">no</wi>
+<wi type="G" value="5426,10,">pensarán</wi>
+<wi type="G" value="243,9,">de otra manera</wi>.
+<wi type="G" value="1161,12,">Pero</wi>
+<wi type="G" value="3588,11,">el que</wi>
+<wi type="G" value="5209,14,">los</wi>
+<wi type="G" value="5015,13,">perturba</wi>
+<wi type="G" value="941,15,">llevará</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="2917,17,">el juicio</wi>
+<wi type="G" value="302,19,">quienquiera</wi>
+<wi type="G" value="3748,18,">que</wi>
+<wi type="G" value="5600,20,">sea</wi>.</t>
+</sv></cm>
+<cm>
 <sv id="Galatians-5-11">
 But I, brothers, if I still preach circumcision, why am I still
 persecuted? Then the stumbling block of the cross has been removed.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="1473,1,">yo</wi>,
+<wi type="G" value="80,3,">hermanos</wi>,
+<wi type="G" value="1487,4,">si</wi>
+<wi type="G" value="2089,6,">aún</wi>
+<wi type="G" value="2784,7,">predicara</wi>
+<wi type="G" value="4061,5,">la circuncisión</wi>
+¿<wi type="G" value="5101,8,">Por qué</wi>
+<wi type="G" value="2089,9,">sigo</wi>
+<wi type="G" value="1377,10,">siendo perseguido</wi>?
+<wi type="G" value="686,11,">Más</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,13,"><wi type="G"
+value="4625,14,">la piedra de tropiezo</wi></wi><rf>
+<citebib id="WEB"/> dice `piedra de tropiezo,´
+<citebib id="KJV2003"/> dice `la ofensa,´
+<citebib id="RVG2012"/> dice `el escandalo.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`σκανδαλον´ se traduce como ofensa, piedra de tropiezo, ocasión de caer.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3588,15,"><wi type="G" value="4716,16,">de la cruz</wi></wi>
+<wi type="G" value="2673,12,">ha sido quitada</wi>.
+</t>
 </sv>
 <sv id="Galatians-5-12">
-I
-wish that those who disturb you would cut themselves off.
+I wish that those who disturb you would cut themselves off.
+<t xml:lang="es">Desearía que los perturban se cortaran ellos mismos.</t>
 </sv>
 <sv id="Galatians-5-13">
 For you
