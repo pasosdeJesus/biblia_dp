@@ -2267,13 +2267,34 @@ Según <citebib id="Thayer-BLB"/> la palabra griega
 </sv>
 <sv id="Galatians-5-12">
 I wish that those who disturb you would cut themselves off.
-<t xml:lang="es">Desearía que los perturban se cortaran ellos mismos.</t>
+<t xml:lang="es"><wi type="G" value="2532,2,">Y</wi>
+<wi type="G" value="3785,1,">Desearía que</wi>
+<wi type="G" value="3588,4,">los que</wi>
+<wi type="G" value="5209,6,">los</wi>
+<wi type="G" value="387,5,">perturban</wi>
+<wi type="G" value="609,3,">se cortaran</wi>.</t>
 </sv>
 <sv id="Galatians-5-13">
-For you
-<wi type="T" value="P"/>,
-brothers, were called for freedom. Only don´t use your freedom for gain to
+For you, brothers, were called for freedom.
+Only don´t use your freedom for gain to
 the flesh, but through love be servants to one another.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="5210,1,">ustedes</wi>,
+<wi type="G" value="80,6,">hermanos</wi>,
+<wi type="G" value="2564,5,">fueron llamados</wi>
+<wi type="G" value="1909,3,">a</wi>
+<wi type="G" value="1657,4,">la libertad</wi>.
+<wi type="G" value="3440,7,">Sólo</wi> que
+<wi type="G" value="3361,8,">no</wi> sea
+<wi type="G" value="3588,9,"><wi type="G" value="1657,10,">libertad</wi></wi>
+<wi type="G" value="1519,11,">como</wi>
+<wi type="G" value="874,12,">ocasión</wi> para
+<wi type="G" value="3588,13,"><wi type="G" value="4561,14,">la carne</wi></wi>,
+<wi type="G" value="235,15,">sino</wi>
+<wi type="G" value="1223,16,">por</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="26,18,">amor</wi></wi>
+<wi type="G" value="1398,19,">sirvanse</wi>
+<wi type="G" value="240,20,">los unos a otros</wi>.</t>
 </sv>
 <sv id="Galatians-5-14">
 For the whole
