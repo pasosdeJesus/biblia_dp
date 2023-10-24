@@ -2300,12 +2300,36 @@ the flesh, but through love be servants to one another.
 For the whole
 law is fulfilled in one word, in this: «You shall love your neighbor as
 yourself.»
+<wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3956,3,">toda</wi>
+<wi type="G" value="3551,4,">la ley</wi>
+<wi type="G" value="4137,8,">se cumple</wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="1520,6,">una</wi>
+<wi type="G" value="3056,7,">palabra</wi>,
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="3588,10,">esta</wi>:
+«<wi type="G" value="25,11,">Amarás</wi> a
+<wi type="G" value="4675,14,">tu</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="4139,13,">prójimo</wi>
+<wi type="G" value="5613,15,">como</wi> a
+<wi type="G" value="1438,16,">ti mismo</wi>.»
 </sv>
 <sv id="Galatians-5-15">
-But if you
-<wi type="T" value="P"/> bite and devour one another, be careful that
-you
-<wi type="T" value="P"/> don´t consume one another.
+But if you bite and devour one another, be careful that
+you don´t consume one another.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="1143,4,">se muerden</wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="2719,6,">devoran</wi>
+<wi type="G" value="240,3,">entre si</wi>,
+<wi type="G" value="991,7,">tengan cuidado</wi>
+que <wi type="G" value="3361,8,">no</wi>
+<wi type="G" value="355,11,">se consuman</wi>
+<wi type="G" value="240,10,">unos</wi>
+<wi type="G" value="5259,9,">a</wi>
+<wi type="G" value="240,10,">otros</wi>.</t>
 </sv>
 <sv id="Galatians-5-16">
 But I say, walk by the Spirit, and
