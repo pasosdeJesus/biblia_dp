@@ -2327,28 +2327,59 @@ you don´t consume one another.
 <wi type="G" value="991,7,">tengan cuidado</wi>
 que <wi type="G" value="3361,8,">no</wi>
 <wi type="G" value="355,11,">se consuman</wi>
-<wi type="G" value="240,10,">unos</wi>
-<wi type="G" value="5259,9,">a</wi>
-<wi type="G" value="240,10,">otros</wi>.</t>
+<wi type="G" value="5259,9,"/><wi type="G" value="240,10,">unos a otros</wi>.
+</t>
 </sv>
 <sv id="Galatians-5-16">
 But I say, walk by the Spirit, and
-you
-<wi type="T" value="P"/> won´t fulfill the lust of the flesh.
+you won´t fulfill the lust of the flesh.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3004,1,">digo</wi>,
+<wi type="G" value="4043,4,">caminen</wi>
+<wi type="G" value="4151,3,">en  el Espíritu</wi>,
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="3756,8,">no</wi>
+<wi type="G" value="3361,9,"/><wi type="G" value="5055,10,">satisfagan</wi>
+<wi type="G" value="1939,6,">los deseos</wi>
+<wi type="G" value="4561,7,">de la carne</wi>.</t>
 </sv>
 <sv id="Galatians-5-17">
 For the flesh lusts
 against the Spirit, and the Spirit against the flesh; and these are contrary
 to one other, that you
-<wi type="T" value="P"/> may not do the things that you
-<wi type="T" value="P"/> desire.
-
+may not do the things that you desire.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="4561,3,">la carne</wi>
+<wi type="G" value="1937,4,">desea</wi>
+<wi type="G" value="2596,5,">contra</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="4151,7,">el Espíritu</wi></wi>,
+<wi type="G" value="3588,8,"/><wi type="G" value="1161,9,">y</wi>
+<wi type="G" value="4151,10,">el Espíritu</wi>
+<wi type="G" value="2596,11,">contra</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="4561,13,">la carne</wi></wi>;
+<wi type="G" value="1161,15,">y</wi>
+<wi type="G" value="5023,14,">estos</wi>
+<wi type="G" value="480,16,">son contrarios</wi>
+<wi type="G" value="240,17,">el uno del otro</wi>,
+<wi type="G" value="2443,18,">para que</wi>
+<wi type="G" value="3361,19,">no</wi>
+<wi type="G" value="4160,24,">hagan</wi>
+<wi type="G" value="5023,23,">las cosas</wi>
+<wi type="G" value="3739,20,">que</wi>
+<wi type="G" value="302,21,"/><wi type="G" value="2309,22,">quisieran</wi>.</t>
 </sv>
-<sv id="Galatians-5-18">
-But if you
-<wi type="T" value="P"/> are led by the Spirit, you
-<wi type="T" value="P"/> are not under the law.
 
+<sv id="Galatians-5-18">
+But if you are led by the Spirit, you
+are not under the law.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="71,4,">ustedes son guiados</wi>
+<wi type="G" value="4151,3,">por el Espíritu</wi>,
+<wi type="G" value="3756,5,">no</wi>
+<wi type="G" value="2075,6,">están</wi>
+<wi type="G" value="5259,7,">bajo</wi>
+<wi type="G" value="3551,8,">la ley</wi>.</t>
 </sv>
 <sv id="Galatians-5-19">
 Now the works of the flesh are obvious, which are: adultery, sexual
