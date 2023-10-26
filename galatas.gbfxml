@@ -2384,19 +2384,62 @@ are not under the law.
 <sv id="Galatians-5-19">
 Now the works of the flesh are obvious, which are: adultery, sexual
 immorality, uncleanness, lustfulness,
+<t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>
+<wi type="G" value="5318,1,">conocidas</wi> 
+<wi type="G" value="2076,3,">son</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2041,5,">las obras</wi></wi>
+<wi type="G" value="3588,6,"><wi type="G" value="4561,7,">de la carne</wi></wi>
+<wi type="G" value="3748,8,">que</wi>
+<wi type="G" value="2076,9,">son</wi>:
+<wi type="G" value="3430,10,">adulterio</wi>,
+<wi type="G" value="4202,11,">inmoralidad sexual</wi>,
+<wi type="G" value="167,12,">impureza</wi>,
+<wi type="G" value="766,13,">lujuria</wi>, </t>
 </sv>
 <sv id="Galatians-5-20">
 idolatry, sorcery, hatred,
 strife, jealousies, outbursts of anger, rivalries, divisions, heresies,
-
+<t xml:lang="es"><wi type="G" value="1495,1,">idolatría</wi>,
+<wi type="G" value="5331,2,">brujería</wi>,
+<wi type="G" value="2189,3,">hostilidad</wi>,
+<wi type="G" value="2054,4,">peleas</wi>,
+<wi type="G" value="2205,5,">celos</wi>,
+<wi type="G" value="2372,6,">ira</wi>,
+<wi type="G" value="2052,7,">rivalidades</wi>,
+<wi type="G" value="1370,8,">divisiones</wi>,
+<wi type="G" value="139,9,">herejías</wi>,
+</t>
 </sv>
+
 <sv id="Galatians-5-21">
 envyings, murders, drunkenness, orgies, and things like these; of which
 I forewarn you, even as I also forewarned you, that those who practice such
 things will not inherit the Kingdom of God.
+<t xml:lang="es"><wi type="G" value="5355,1,">envidia</wi>,
+<wi type="G" value="5408,2,">asesinatos</wi>,
+<wi type="G" value="3178,3,">embriaguez</wi>,
+<wi type="G" value="2970,4,">orgías</wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="5125,8,">cosas</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="3664,7,">como</wi>
+<wi type="GC" value="8">estas</wi>;
+<wi type="G" value="3739,9,">de las cuales</wi>
+<wi type="G" value="5213,11,">les</wi>
+<wi type="G" value="4302,10,">digo</wi>,
+<wi type="G" value="2531,12,">así como</wi> 
+<wi type="G" value="2532,13,">también</wi> les
+<wi type="G" value="4277,14,">había dicho</wi> ,
+<wi type="G" value="3754,15,">que</wi>
+<wi type="G" value="3588,16,">quienes</wi>
+<wi type="G" value="4238,19,">practiquen</wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="5108,18,">tales cosas</wi>
+<wi type="G" value="3756,22,">no</wi>
+<wi type="G" value="2816,23,">heredarán</wi>
+<wi type="G" value="932,20,">el Reino</wi>
+<wi type="G" value="2316,21,">de Dios</wi>.</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Galatians-5-22">
 But the fruit of the Spirit is love, joy, peace, patience, kindness,
 goodness, faithfulness,
