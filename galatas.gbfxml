@@ -2385,7 +2385,7 @@ are not under the law.
 Now the works of the flesh are obvious, which are: adultery, sexual
 immorality, uncleanness, lustfulness,
 <t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>
-<wi type="G" value="5318,1,">conocidas</wi> 
+<wi type="G" value="5318,1,">conocidas</wi>
 <wi type="G" value="2076,3,">son</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="2041,5,">las obras</wi></wi>
 <wi type="G" value="3588,6,"><wi type="G" value="4561,7,">de la carne</wi></wi>
@@ -2426,7 +2426,7 @@ things will not inherit the Kingdom of God.
 <wi type="G" value="3739,9,">de las cuales</wi>
 <wi type="G" value="5213,11,">les</wi>
 <wi type="G" value="4302,10,">digo</wi>,
-<wi type="G" value="2531,12,">así como</wi> 
+<wi type="G" value="2531,12,">así como</wi>
 <wi type="G" value="2532,13,">también</wi> les
 <wi type="G" value="4277,14,">había dicho</wi> ,
 <wi type="G" value="3754,15,">que</wi>
@@ -2443,10 +2443,28 @@ things will not inherit the Kingdom of God.
 <sv id="Galatians-5-22">
 But the fruit of the Spirit is love, joy, peace, patience, kindness,
 goodness, faithfulness,
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="2590,3,">el fruto</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="4151,5,">del Espíritu</wi></wi>
+<wi type="G" value="2076,6,">es</wi>
+<wi type="G" value="26,7,">amor</wi>,
+<wi type="G" value="5479,8,">gozo</wi>,
+<wi type="G" value="1515,9,">paz</wi>,
+<wi type="G" value="3115,10,">paciencia</wi>,
+<wi type="G" value="5544,11,">bondad</wi>,
+<wi type="G" value="19,12,">benignidad</wi>,
+<wi type="G" value="4102,13,">fe</wi>, </t>
 </sv>
 <sv id="Galatians-5-23">
 gentleness, and self-control. Against such
 things there is no law.
+<t xml:lang="es"><wi type="G" value="4236,1,">mansedumbre</wi>,
+<wi type="G" value="1466,2,">templanza</wi>.
+<wi type="G" value="2596,3,">Contra</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="5108,5,">tales cosas</wi>
+<wi type="G" value="3756,6,">no</wi>
+<wi type="G" value="2076,7,">hay</wi>
+<wi type="G" value="3551,8,">ley</wi>.</t>
 </sv>
 <sv id="Galatians-5-24">
 Those who belong to Christ have crucified the
