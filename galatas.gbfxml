@@ -2584,10 +2584,33 @@ neighbor.
 </sv>
 <sv id="Galatians-6-5">
 For each man will bear his own burden.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1538,1,">cada quien</wi>
+<wi type="G" value="941,6,">llevará</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="2398,4,">su propia</wi>
+<wi type="G" value="5413,5,">carga</wi>.</t>
 </sv>
 <sv id="Galatians-6-6">
 But let him who is
 taught in the word share all good things with him who teaches.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="3588,3,">quien</wi>
+<wi type="G" value="2727,4,">es instruido</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="3056,6,">en la palabra</wi></wi> </t>
+<rb xml:lang="es"><wi type="G" value="2841,1,">que comparta</wi><rf>
+<citebib id="WEB"/> dice `comparta,´
+<citebib id="KJV2003"/> dice `comunique,´
+<citebib id="RVG2012"/> dice `comunique en todos los bienes.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `Κοινωνείτω´
+se traduce como hacer parte de, comunicar, distribuir.  Compartir con otros,
+comunicar, distribuir, hacer participe.
+</rf></rb>
+<t xml:lang="es">
+con <wi type="G" value="3588,7,">el que</wi> le
+<wi type="G" value="2727,8,">enseña</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="3956,10,">todas</wi>
+<wi type="G" value="18,11,">las buenas cosas</wi>.</t>
 </sv>
 <sv id="Galatians-6-7">
 Don´t be
