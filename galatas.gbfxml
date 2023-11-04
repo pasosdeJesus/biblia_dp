@@ -2615,24 +2615,65 @@ con <wi type="G" value="3588,7,">el que</wi> le
 <sv id="Galatians-6-7">
 Don´t be
 deceived. God is not mocked, for whatever a man sows, that he will also reap.
-
+<t xml:lang="es"><wi type="G" value="3361,1,">No</wi>
+<wi type="G" value="4105,2,">se engañen</wi>.
+<wi type="G" value="2316,3,">Dios</wi>
+<wi type="G" value="3756,4,">no</wi>
+<wi type="G" value="3456,5,">es burlado</wi>,
+<wi type="G" value="3739,6,"/><wi type="G" value="1063,7,">porque</wi>
+<wi type="G" value="1437,8,">todo</wi> lo que
+<wi type="G" value="444,10,">un hombre</wi>
+<wi type="G" value="4687,9,">siembra</wi>,
+<wi type="G" value="5124,11,">eso</wi>
+<wi type="G" value="2532,12,">también</wi>
+<wi type="G" value="2325,13,">cosechará</wi>.</t>
 </sv>
 <sv id="Galatians-6-8">
 For he who sows to his own flesh will from the flesh reap corruption.
 But he who sows to the Spirit will from the Spirit reap eternal life.
-
+<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
+<wi type="G" value="3588,2,">el que</wi>
+<wi type="G" value="4687,3,">siembra</wi>
+<wi type="G" value="1519,4,">para</wi>
+<wi type="G" value="1438,7,">su propia</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="4561,6,">carne</wi></wi>,
+<wi type="G" value="1537,8,">de</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="4561,10,">la carne</wi></wi>
+<wi type="G" value="2325,11,">cosechará</wi>
+<wi type="G" value="5356,12,">corrupción</wi>.
+<wi type="G" value="1161,14,">Pero</wi>
+<wi type="G" value="3588,13,">el que</wi>
+<wi type="G" value="4687,15,">siembra</wi>
+<wi type="G" value="1519,16,">para</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="4151,18,">el Espíritu</wi></wi>
+<wi type="G" value="1537,19,">del</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="4151,21,">Espíritu</wi></wi>
+<wi type="G" value="2325,22,">cosechará</wi>
+para
+<wi type="G" value="2222,23,">la vida</wi>
+<wi type="G" value="166,24,">eterna</wi>.</t>
 </sv>
 <sv id="Galatians-6-9">
 Let us not be weary in doing good, for we will reap in due season, if we
 don´t give up.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3361,5,">no</wi>
+<wi type="G" value="1573,6,">nos cansemos</wi>
+<wi type="G" value="4160,4,">de hacer</wi>
+<wi type="G" value="2570,3,">el bien</wi>,
+<wi type="G" value="1063,8,">porque</wi>
+<wi type="G" value="2325,10,">cosecharemos</wi>
+en <wi type="G" value="2540,7,">el tiempo</wi>
+<wi type="G" value="2398,9,">apropiado</wi>, si
+<wi type="G" value="3361,11,">no</wi>
+<wi type="G" value="1590,12,">nos rendimos</wi>.</t>
 </sv>
 <sv id="Galatians-6-10">
 So then, as we have opportunity, let´s do what is good
 toward all men, and especially toward those who are of the household of the
 faith.
-
-</sv></cm><cm>
-
+</sv></cm>
+<cm>
 <sv id="Galatians-6-11">
 See with what large letters I write to you with my own hand.
 </sv>
