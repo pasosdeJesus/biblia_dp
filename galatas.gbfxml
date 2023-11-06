@@ -2691,23 +2691,51 @@ faith.
 <cm>
 <sv id="Galatians-6-11">
 See with what large letters I write to you with my own hand.
-<t xml:lang="es"><wi type="G" value="1492,1,">Mira</wi>
-con <wi type="G" value="4080,2,">que larga</wi>
-<wi type="G" value="1121,4,">carta</wi>
-<wi type="G" value="5213,3,">te</wi>
+<t xml:lang="es"><wi type="G" value="1492,1,">Miren</wi>
+con <wi type="G" value="4080,2,">que grandes</wi>
+<wi type="G" value="1121,4,">letras</wi>
+<wi type="G" value="5213,3,">les</wi>
 <wi type="G" value="1125,5,">he escrito</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="1699,7,">con mi propia</wi>
 <wi type="G" value="5495,8,">mano</wi>.</t>
 </sv>
 <sv id="Galatians-6-12">
-As
-many as desire to look good in the flesh, they compel you to be circumcised;
+As many as desire to look good in the flesh, they compel you to be circumcised;
 only that they may not be persecuted for the cross of Christ.
+<t xml:lang="es"><wi type="G" value="3745,1,">Aquellos</wi> que
+<wi type="G" value="2309,2,">quieren</wi>
+<wi type="G" value="2146,3,">complacer</wi>
+<wi type="G" value="1722,4,">en</wi>
+<wi type="G" value="4561,5,">la carne</wi>,
+<wi type="G" value="3778,6,">ellos</wi>
+<wi type="G" value="5209,8,">los</wi>
+<wi type="G" value="315,7,">obligan</wi>
+<wi type="G" value="4059,9,">a circuncidarse</wi>,
+<wi type="G" value="3440,10,">sólo</wi> para
+<wi type="G" value="2443,11,"/><wi type="G" value="3361,12,">no</wi>
+<wi type="G" value="1377,17,">ser perseguidos</wi>
+por <wi type="G" value="3588,13,"><wi type="G" value="4716,14,">la cruz</wi></wi>
+<wi type="G" value="3588,15,"><wi type="G" value="5547,16,">de Cristo</wi></wi>.</t>
 </sv>
 <sv id="Galatians-6-13">
 For even
 they who receive circumcision don´t keep the law themselves, but they desire
 to have you circumcised, that they may boast in your flesh.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3761,1,">ni siquiera</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="846,5,">aquellos</wi> que
+<wi type="G" value="4059,4,">se circunciden</wi>
+<wi type="G" value="5442,7,">guardan</wi>
+<wi type="G" value="3551,6,">la ley</wi>,
+<wi type="G" value="235,8,">sino que</wi>
+<wi type="G" value="2309,9,">quieren</wi> que
+<wi type="G" value="5209,10,">ustedes</wi>
+<wi type="G" value="4059,11,">se circunciden</wi>,
+<wi type="G" value="2443,12,">para</wi>
+<wi type="G" value="2744,17,">enorgullecerse</wi>
+<wi type="G" value="1722,13,">en</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="5212,15,">su</wi>
+<wi type="G" value="4561,16,">carne</wi>. </t>
 </sv>
 <sv id="Galatians-6-14">
 But far be
