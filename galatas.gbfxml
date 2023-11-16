@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<sb id="Galatians" type="" xml:lang="">
-<tt>Paul´s Letter to the Galatians
+<sb id="Gálatas" type="" xml:lang="">
+<tt>Paul´s Letter to the Gálatas
 <t xml:lang="es"/>Carta de Pablo a los Gálatas</tt>
-<sc id="Galatians-1">
+<sc id="Gálatas-1">
 <cm>
-<sv id="Galatians-1-1">
+<sv id="Gálatas-1-1">
 Paul, an apostle (not from men, neither through man, but through
 Jesus Christ, and God the Father, who raised him from the dead),
 <t xml:lang="es"><wi type="G" value="3972,1,">Pablo</wi>,
@@ -30,11 +30,12 @@ Jesus Christ, and God the Father, who raised him from the dead),
 <wi type="G" value="3498,20,">los muertos</wi>),
 </t>
 </sv>
-<sv id="Galatians-1-2">
+<sv id="Gálatas-1-2">
 and all
 the
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
-<wi type="G" value="3956,5,">todos</wi></t>
+<wi type="G" value="3956,5,">todos</wi>
+</t>
 <rb>brothers
 <t xml:lang="es"><wi type="G" value="80,6,">los hermanos</wi></t><rf>The word for «brothers» here and where context allows may
 also be correctly translated «brothers and sisters» or «siblings.»
@@ -44,12 +45,13 @@ lo permita puede traducirse correctamente también como
 </rb>
  who
 are with me, to the assemblies of Galatia:
-<t xml:lang="es"><wi type="G" value="3588,7,">que</wi> están
+<t xml:lang="es">
+<wi type="G" value="3588,7,">que</wi> están
 <wi type="G" value="3588,2,"/><wi type="G" value="4862,3,"><wi type="G" value="1698,4,">conmigo</wi></wi>,
 <wi type="G" value="1577,8,">a las iglesias</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="1053,10,">de Galacia</wi></wi>:</t>
 </sv>
-<sv id="Galatians-1-3">
+<sv id="Gálatas-1-3">
 Grace to you and peace from
 God the Father, and our Lord Jesus Christ,
 <t xml:lang="es"><wi type="G" value="5485,1,">Gracia</wi>
@@ -63,9 +65,10 @@ sea <wi type="G" value="5213,2,">a ustedes</wi>
 <wi type="G" value="2257,10,">nuestro</wi>
 <wi type="G" value="2962,9,">Señor</wi>
 <wi type="G" value="2424,11,">Jesús</wi>
-<wi type="G" value="5547,12,">Cristo</wi>.</t>
+<wi type="G" value="5547,12,">Cristo</wi>,
+</t>
 </sv>
-<sv id="Galatians-1-4">
+<sv id="Gálatas-1-4">
 who gave himself for our
 sins, that he might deliver us out of this present evil age, according to the
 will of our God and Father
@@ -90,7 +93,7 @@ y <wi type="G" value="4190,15,">malvado</wi>,
 <wi type="G" value="3962,22,">Padre</wi></t>
 </sv>
 
-<sv id="Galatians-1-5">
+<sv id="Gálatas-1-5">
 to whom be the glory forever and ever.
 Amen.
 <t xml:lang="es"><wi type="G" value="3739,1,">a quien</wi> sea
@@ -101,7 +104,7 @@ y <wi type="G" value="3588,7,"><wi type="G" value="165,8,">siempre</wi></wi>.
 <wi type="G" value="281,9,">Amén</wi>.</t>
 </sv></cm><cm>
 
-<sv id="Galatians-1-6">
+<sv id="Gálatas-1-6">
 I marvel that you
 are so quickly deserting him who called you in
 the grace of Christ to a different «good news»;
@@ -122,7 +125,7 @@ the grace of Christ to a different «good news»;
 «<wi type="G" value="2098,15,">buena nueva</wi>»;</t>
 </sv>
 
-<sv id="Galatians-1-7">
+<sv id="Gálatas-1-7">
 and there isn´t another
 «good news.» Only there are some who trouble you, and want to pervert the Good News
 of Christ.
@@ -143,7 +146,7 @@ que <wi type="G" value="2309,13,">quieren</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="5547,18,">de Cristo</wi></wi>.
  </t>
 </sv>
-<sv id="Galatians-1-8">
+<sv id="Gálatas-1-8">
 But even though we, or an angel from heaven, should preach to
 you any «good news» other than that which we preached to you, let him be cursed.
 <t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>
@@ -163,7 +166,7 @@ you any «good news» other than that which we preached to you, let him be curse
 <wi type="G" value="2077,16,">sea</wi>.
 </t>
 </sv>
-<sv id="Galatians-1-9">
+<sv id="Gálatas-1-9">
 As we have said before, so I now say again: if any man preaches to you
 any «good news» other than that which you
 <wi type="T" value="P"/> received, let him be cursed.
@@ -184,15 +187,15 @@ any «good news» other than that which you
 <wi type="G" value="2077,15,">sea</wi>.
 </t>
 </sv>
-<sv id="Galatians-1-10">
+<sv id="Gálatas-1-10">
 For am I now seeking the favor of men, or of God? Or am I striving to
 please men? For if I were still pleasing men, I wouldn´t be a servant of
 Christ.
-<t xml:lang="es">¿<wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">¿<wi type="G" value="1063,2,">Acaso</wi>
 <wi type="G" value="737,1,">ahora</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3982,4,">busco el favor</wi><rf>
 <citebib id="WEB"/> dice `busco el favor´,
-<citebib id="KJV2003"/> y <citebib id="RVG2012"/> dice `persuado.´
+<citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen `persuado.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `πειθω´
 se traduce como persuadir (hacer amigos, buscar el favor, ganarse buena
 voluntad), ser persuadido o confiar o ser de confianza.
@@ -215,7 +218,7 @@ voluntad), ser persuadido o confiar o ser de confianza.
 <wi type="G" value="5547,17,">de Cristo</wi>.
 </t>
 </sv>
-<sv id="Galatians-1-11">
+<sv id="Gálatas-1-11">
 But I make known to you, brothers, concerning the Good News which
 was preached by me, that it is not according to man.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -233,7 +236,7 @@ was preached by me, that it is not according to man.
 <wi type="G" value="2596,14,">de acuerdo</wi>
 <wi type="G" value="444,15,">a los hombres</wi>.</t>
 </sv>
-<sv id="Galatians-1-12">
+<sv id="Gálatas-1-12">
 For neither did I
 receive it from man, nor was I taught it, but it came to me through
 revelation of Jesus Christ.
@@ -252,7 +255,7 @@ revelation of Jesus Christ.
 <wi type="G" value="2424,13,">de Jesús</wi>
 <wi type="G" value="5547,14,">Cristo</wi>.</t>
 </sv>
-<sv id="Galatians-1-13">
+<sv id="Gálatas-1-13">
 For you
 <wi type="T" value="P"/> have heard of my way of living
 in time past in the Jews´ religion, how that beyond measure I persecuted the
@@ -279,7 +282,7 @@ a <wi type="G" value="3588,14,"><wi type="G" value="1577,15,">la iglesia</wi></w
 <wi type="G" value="846,20,">la</wi>
 <wi type="G" value="4199,19,">devastaba</wi>.</t>
 </sv>
-<sv id="Galatians-1-14">
+<sv id="Gálatas-1-14">
 I advanced in the Jews´ religion
 beyond many of my own age among my countrymen, being more exceedingly zealous
 for the traditions of my fathers.
@@ -300,7 +303,7 @@ for the traditions of my fathers.
 <wi type="G" value="3450,18,">de mis</wi>
 <wi type="G" value="3862,19,">padres</wi>.</t>
 </sv>
-<sv id="Galatians-1-15">
+<sv id="Gálatas-1-15">
 But when it was the good pleasure of
 God, who separated me from my mother´s womb, and called me through his grace,
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -321,7 +324,7 @@ God, who separated me from my mother´s womb, and called me through his grace,
 <wi type="G" value="3588,16,"><wi type="G" value="5485,17,">gracia</wi></wi>,
 </t>
 </sv>
-<sv id="Galatians-1-16">
+<sv id="Gálatas-1-16">
 to reveal his Son in me, that I might preach him among the Gentiles, I
 didn´t immediately confer with flesh and blood,
 <t xml:lang="es"><wi type="G" value="601,1,">revelar</wi>
@@ -341,7 +344,7 @@ didn´t immediately confer with flesh and blood,
 <wi type="G" value="2532,17,">y</wi>
 <wi type="G" value="129,18,">sangre</wi>,</t>
 </sv>
-<sv id="Galatians-1-17">
+<sv id="Gálatas-1-17">
 nor did I go up to
 Jerusalem to those who were apostles before me, but I went away into Arabia.
 Then I returned to Damascus.
@@ -352,7 +355,7 @@ Then I returned to Damascus.
 <wi type="G" value="4314,5,">donde</wi>
 <wi type="G" value="3588,6,">los que</wi> fueron
 <wi type="G" value="652,9,">apóstoles</wi>
-<wi type="G" value="4253,7,">antes que</wi> i
+<wi type="G" value="4253,7,">antes que</wi>
 <wi type="G" value="1700,8,">yo</wi>,
 <wi type="G" value="235,10,">sino</wi>
 <wi type="G" value="565,11,">fui</wi>
@@ -364,7 +367,7 @@ Then I returned to Damascus.
 <wi type="G" value="1519,17,">a</wi>
 <wi type="G" value="1154,18,">Damasco</wi>.</t>
 </sv>
-<sv id="Galatians-1-18">
+<sv id="Gálatas-1-18">
 Then after three years I went up to
 Jerusalem to visit Peter, and stayed with him fifteen days.
 <t xml:lang="es"><wi type="G" value="1899,1,">Entonces</wi>
@@ -383,7 +386,7 @@ Jerusalem to visit Peter, and stayed with him fifteen days.
 <wi type="G" value="1178,15,">quince</wi>
 <wi type="G" value="2250,14,">días</wi>.</t>
 </sv>
-<sv id="Galatians-1-19">
+<sv id="Gálatas-1-19">
 But of the
 other apostles I saw no one, except James, the Lord´s brother.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -396,7 +399,7 @@ other apostles I saw no one, except James, the Lord´s brother.
 <wi type="G" value="3588,10,"><wi type="G" value="80,11,">el hermano</wi></wi>
 <wi type="G" value="3588,12,"><wi type="G" value="2962,13,">del Señor</wi></wi>.</t>
 </sv>
-<sv id="Galatians-1-20">
+<sv id="Gálatas-1-20">
 Now
 about the things which I write to you, behold, before God, I´m not lying.
 <t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>
@@ -410,17 +413,17 @@ about the things which I write to you, behold, before God, I´m not lying.
 <wi type="G" value="3756,10,">no</wi>
 <wi type="G" value="5574,11,">estoy mintiendo</wi>.</t>
 </sv>
-<sv id="Galatians-1-21">
+<sv id="Gálatas-1-21">
 Then I came to the regions of Syria and Cilicia.
 <t xml:lang="es"><wi type="G" value="1899,1,">Después</wi>
-i<wi type="G" value="2064,2,">fui</wi>
+<wi type="G" value="2064,2,">fui</wi>
 <wi type="G" value="1519,3,">a</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="2824,5,">las regiones</wi></wi>
 <wi type="G" value="3588,6,"><wi type="G" value="4947,7,">de Siria</wi></wi>
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="2791,10,">Cilicia</wi></wi>.</t>
 </sv>
-<sv id="Galatians-1-22">
+<sv id="Gálatas-1-22">
 I was still
 unknown by face to the assemblies of Judea which were in Christ,
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
@@ -433,7 +436,7 @@ unknown by face to the assemblies of Judea which were in Christ,
 <wi type="G" value="1722,11,">en</wi>
 <wi type="G" value="5547,12,">Cristo</wi>.</t>
 </sv>
-<sv id="Galatians-1-23">
+<sv id="Gálatas-1-23">
 but they only heard: «He who once persecuted us now preaches the faith that he
 once tried to destroy.»
 <t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
@@ -453,7 +456,7 @@ once tried to destroy.»
 <wi type="G" value="4199,16,">devastaba</wi>.»
 </t>
 </sv>
-<sv id="Galatians-1-24">
+<sv id="Gálatas-1-24">
 And they glorified God in me.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="1392,2,">glorificaban a</wi>
@@ -462,9 +465,9 @@ And they glorified God in me.
 <wi type="G" value="1698,4,">mi</wi>.</t>
 <cl/>
 </sv></cm></sc>
-<sc id="Galatians-2">
+<sc id="Gálatas-2">
 <cm>
-<sv id="Galatians-2-1">
+<sv id="Gálatas-2-1">
 Then after a period of fourteen years I went up again to Jerusalem
 with Barnabas, taking Titus also with me.
 <t xml:lang="es"><wi type="G" value="1899,1,">Entonces</wi>,
@@ -482,7 +485,7 @@ with Barnabas, taking Titus also with me.
 <wi type="G" value="5103,13,">Tito</wi>.
 </t>
 </sv>
-<sv id="Galatians-2-2">
+<sv id="Gálatas-2-2">
 I went up by revelation, and I
 laid before them the Good News which I preach among the Gentiles, but privately
 before those who were respected, for fear that I might be running, or had
@@ -510,10 +513,10 @@ run, in vain.
 <wi type="G" value="1519,21,">en</wi>
 <wi type="G" value="2756,22,">vano</wi>.</t>
 </sv>
-<sv id="Galatians-2-3">
+<sv id="Gálatas-2-3">
 But not even Titus, who was with me, being a Greek, was
 compelled to be circumcised.
-<t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>
+<t xml:lang="es"><wi type="G" value="235,1,">Pues</wi>
 <wi type="G" value="3761,2,">ni aún</wi>
 <wi type="G" value="5103,3,">Tito</wi>,
 <wi type="G" value="3588,4,">quien estaba</wi>
@@ -524,7 +527,7 @@ compelled to be circumcised.
 <wi type="G" value="4059,10,">circuncidarse</wi>.
 </t>
 </sv>
-<sv id="Galatians-2-4">
+<sv id="Gálatas-2-4">
 This was because of the false brothers
 secretly brought in, who stole in to spy out our liberty which we have in
 Christ Jesus, that they might bring us into bondage;
@@ -544,7 +547,7 @@ Christ Jesus, that they might bring us into bondage;
 <wi type="G" value="2443,17,">para</wi>
 <wi type="G" value="2615,19,"><wi type="G" value="2248,18,">hacernos esclavos</wi></wi>;</t>
 </sv>
-<sv id="Galatians-2-5">
+<sv id="Gálatas-2-5">
 to whom we gave no place in the way of subjection,
 not for an hour, that the truth of the Good News
 might continue with you.
@@ -561,7 +564,7 @@ ni <wi type="G" value="4314,3,">por</wi>
 <wi type="G" value="4314,14,">con</wi>
 <wi type="G" value="5209,15,">ustedes</wi>.</t>
 </sv>
-<sv id="Galatians-2-6">
+<sv id="Gálatas-2-6">
 But from those who were reputed to be important
 (whatever they were, it makes no difference to me; God doesn´t show
 partiality to man)they, I say, who were respected imparted nothing to me,
@@ -588,22 +591,22 @@ partiality to man)they, I say, who were respected imparted nothing to me,
 <wi type="G" value="1698,18,">me</wi>
 <wi type="G" value="4323,23,">aportaron</wi>,</t>
 </sv>
-<sv id="Galatians-2-7">
+<sv id="Gálatas-2-7">
 but to the contrary, when they saw that I had been entrusted with the
 Good News for the uncircumcision, even as Peter with the Good News for the
 circumcision
-<t xml:lang="es"><wi type="G" value="235,1,">pero</wi>
-<wi type="G" value="5121,2,">por el contrario</wi>,
+<t xml:lang="es"><wi type="G" value="235,1,">sino</wi>
+<wi type="G" value="5121,2,">lo contrario</wi>,
 <wi type="G" value="1492,3,">cuando vieron</wi>
 <wi type="G" value="3754,4,">que</wi>
 <wi type="G" value="4100,5,">se me había confiado</wi>
 <wi type="G" value="3588,6,"><wi type="G" value="2098,7,">la Buena Nueva</wi></wi>
-<wi type="G" value="3588,8,"><wi type="G" value="203,9,">de los incircuncisos</wi></wi>,
+<wi type="G" value="3588,8,"><wi type="G" value="203,9,">a los incircuncisos</wi></wi>,
 <wi type="G" value="2531,10,">como a</wi>
-<wi type="G" value="4074,11,">Pedro</wi> con la
-<wi type="G" value="3588,12,"><wi type="G" value="4061,13,">de los circuncisos</wi></wi></t>
+<wi type="G" value="4074,11,">Pedro</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="4061,13,">a los circuncisos</wi></wi></t>
 </sv>
-<sv id="Galatians-2-8">
+<sv id="Gálatas-2-8">
 (for he who appointed Peter to the apostleship of the
 circumcision appointed me also to the Gentiles);
 <t xml:lang="es">(<wi type="G" value="1063,2,">pues</wi>
@@ -626,7 +629,7 @@ se traduce como obrar, efectuar, forjar
 <wi type="G" value="1519,12,">a</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="1484,14,">los gentiles</wi></wi>);</t>
 </sv>
-<sv id="Galatians-2-9">
+<sv id="Gálatas-2-9">
 and when they perceived
 the grace that was given to me, James and Cephas and John, they who were
 reputed to be pillars, gave to me and Barnabas the right hand of fellowship,
@@ -661,7 +664,7 @@ nos <wi type="G" value="1325,18,">dieron</wi>
 <wi type="G" value="1519,30,">a</wi>
 <wi type="G" value="3588,31,"><wi type="G" value="4061,32,">la circuncisión</wi></wi>.</t>
 </sv>
-<sv id="Galatians-2-10">
+<sv id="Gálatas-2-10">
 They
 only asked us to remember the poorwhich very thing I was also zealous to
 do.
@@ -672,7 +675,7 @@ do.
 <wi type="G" value="846,9,">lo mismo</wi>
 <wi type="G" value="3739,6,">que</wi>
 <wi type="G" value="2532,7,"/>yo </t>
-<rb xml:lang="es">yo <wi type="G" value="4704,8,">era diligente</wi><rf>
+<rb xml:lang="es">ya <wi type="G" value="4704,8,">era diligente</wi><rf>
 <citebib id="WEB"/> dice `celoso´, <citebib id="KJV2003"/> dice  `ansioso´
 <citebib id="RVG2012"/> dice `solicito.´
 Según <citebib id="BLB"/> la palabra griega `εσπουδασα´ se traduce
@@ -684,7 +687,7 @@ como diligente, presto, ansioso, laborar, estudiar.
 </sv></cm>
 
 <cm>
-<sv id="Galatians-2-11">
+<sv id="Gálatas-2-11">
 But when Peter came to Antioch, I resisted him to the face, because he
 stood condemned.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -701,7 +704,7 @@ stood condemned.
 <wi type="G" value="2258,13,">era de</wi>
 <wi type="G" value="2607,12,">condenar</wi>.</t>
 </sv>
-<sv id="Galatians-2-12">
+<sv id="Gálatas-2-12">
 For before some people came from James, he ate with
 the Gentiles. But when they came, he drew back and separated himself, fearing
 those who were of the circumcision.
@@ -727,7 +730,7 @@ those who were of the circumcision.
 <wi type="G" value="1537,21,">eran</wi>
 <wi type="G" value="4061,22,">de la circuncisión</wi>.</t>
 </sv>
-<sv id="Galatians-2-13">
+<sv id="Gálatas-2-13">
 And the rest of the Jews joined him
 in his hypocrisy; so that even Barnabas was carried away with their
 hypocrisy.
@@ -752,7 +755,7 @@ Según <citebib id="Thayer-BLB"/> la palabra griega
 <wi type="G" value="846,12,">su</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="5272,14,">hipocresía</wi></wi>.</t>
 </sv>
-<sv id="Galatians-2-14">
+<sv id="Gálatas-2-14">
 But when I saw that they didn´t walk uprightly according to
 the truth of the Good News, I said to Peter before them all, «If you, being a
 Jew, live as the Gentiles do, and not as the Jews do, why do you compel the
@@ -786,7 +789,7 @@ Gentiles to live as the Jews do?
 </t>
 </sv></cm>
 <cm>
-<sv id="Galatians-2-15">
+<sv id="Gálatas-2-15">
 «We, being Jews by nature, and not Gentile sinners,
 <t xml:lang="es">«<wi type="G" value="2249,1,">Nosotros</wi>,
 <wi type="G" value="2453,3,">judíos</wi>
@@ -797,7 +800,7 @@ Gentiles to live as the Jews do?
 <wi type="G" value="1537,6,">de</wi>
 <wi type="G" value="1484,7,">los gentiles</wi>, </t>
 </sv>
-<sv id="Galatians-2-16">
+<sv id="Gálatas-2-16">
 yet knowing
 that a man is not justified by the works of the law but through the faith of
 Jesus Christ, even we believed in Christ Jesus, that we might be justified by
@@ -839,7 +842,7 @@ justified by the works of the law.
 <wi type="G" value="2041,35,">las obras</wi>
 <wi type="G" value="3551,36,">de la ley</wi>. </t>
 </sv>
-<sv id="Galatians-2-17">
+<sv id="Gálatas-2-17">
 But if, while we sought to be
 justified in Christ, we ourselves also were found sinners, is Christ a
 servant of sin? Certainly not!
@@ -859,7 +862,7 @@ servant of sin? Certainly not!
 <wi type="G" value="266,13,">del pecado</wi>?
 ¡<wi type="G" value="3361,15,"><wi type="G" value="1096,16,">Ciertamente no</wi></wi>!</t>
 </sv>
-<sv id="Galatians-2-18">
+<sv id="Gálatas-2-18">
 For if I build up again those things
 which I destroyed, I prove myself a law-breaker.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
@@ -873,7 +876,7 @@ which I destroyed, I prove myself a law-breaker.
 <wi type="G" value="4921,10,">hago</wi>
 <wi type="G" value="3848,8,">un quebrantador de la ley</wi>.</t>
 </sv>
-<sv id="Galatians-2-19">
+<sv id="Gálatas-2-19">
 For I, through the
 law, died to the law, that I might live to God.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
@@ -886,7 +889,7 @@ law, died to the law, that I might live to God.
 <wi type="G" value="2198,9,">poder vivir a</wi>
 <wi type="G" value="2316,8,">Dios</wi>.</t>
 </sv>
-<sv id="Galatians-2-20">
+<sv id="Gálatas-2-20">
 I have been crucified
 with Christ, and it is no longer I that live, but Christ living in me. That
 life which I now live in the flesh, I live by faith in the Son of God, who
@@ -921,7 +924,7 @@ loved me, and gave himself up for me.
 <wi type="G" value="5228,32,">por</wi>
 <wi type="G" value="1700,33,">mi</wi>.</t>
 </sv>
-<sv id="Galatians-2-21">
+<sv id="Gálatas-2-21">
 I don´t make void the grace of
 God. For if righteousness is through the law, then Christ died for
 nothing!»
@@ -936,7 +939,7 @@ nothing!»
 <wi type="G" value="3551,10,">la ley</wi>,
 <wi type="G" value="686,12,">entonces</wi>
 <wi type="G" value="5547,13,">Cristo</wi>
-<wi type="G" value="599,15,">murió</wi>
+<wi type="G" value="599,15,">habría muerto</wi>
 <wi type="G" value="1432,14,">en vano</wi>!»
 </t>
 
@@ -944,10 +947,10 @@ nothing!»
 </sv></cm>
 
 </sc>
-<sc id="Galatians-3">
+<sc id="Gálatas-3">
 <cm>
-<sv id="Galatians-3-1">
-Foolish Galatians, who has bewitched you not to obey the truth,
+<sv id="Gálatas-3-1">
+Foolish Gálatas, who has bewitched you not to obey the truth,
 before whose eyes Jesus Christ was openly set forth among you as crucified?
 <t xml:lang="es"><wi type="G" value="5599,1,">Oh</wi>
 <wi type="G" value="1052,3,">Gálatas</wi>
@@ -975,7 +978,7 @@ como <wi type="G" value="4717,19,">crucificado</wi>
 <wi type="G" value="1722,17,">entre</wi>
 <wi type="G" value="5213,18,">ustedes</wi>? </t>
 </sv>
-<sv id="Galatians-3-2">
+<sv id="Gálatas-3-2">
 I just want to learn this from you. Did you
 receive the Spirit by
 the works of the law, or by hearing of faith?
@@ -996,7 +999,7 @@ the works of the law, or by hearing of faith?
 <wi type="G" value="4102,16,">de la fe</wi>?
 </t>
 </sv>
-<sv id="Galatians-3-3">
+<sv id="Gálatas-3-3">
 Are you so foolish?
 Having begun in the Spirit, are you
 now completed in the flesh?
@@ -1009,7 +1012,7 @@ now completed in the flesh?
 <wi type="G" value="2005,8,">se completan</wi>
 <wi type="G" value="4561,7,">en la carne</wi>?</t>
 </sv>
-<sv id="Galatians-3-4">
+<sv id="Gálatas-3-4">
 Did you suffer so many things in vain, if it is indeed in vain?
 <t xml:lang="es">¿<wi type="G" value="3958,2,">Sufrieron</wi>
 <wi type="G" value="5118,1,">tantas cosas</wi>
@@ -1018,7 +1021,7 @@ Did you suffer so many things in vain, if it is indeed in vain?
 <wi type="G" value="2532,5,">también</wi> fue
 <wi type="G" value="1500,6,">en vano</wi>?</t>
 </sv>
-<sv id="Galatians-3-5">
+<sv id="Gálatas-3-5">
 He
 therefore who supplies the Spirit to you, and works miracles among you, does
 he do it by the works of the law, or by hearing of faith?
@@ -1040,7 +1043,7 @@ he do it by the works of the law, or by hearing of faith?
 <wi type="G" value="189,17,">el escuchar</wi>
 <wi type="G" value="4102,18,">de la fe</wi>?</t>
 </sv>
-<sv id="Galatians-3-6">
+<sv id="Gálatas-3-6">
 Even as Abraham «believed God, and it was counted to him for righteousness.»
 <t xml:lang="es"><wi type="G" value="2531,1,">Incluso como</wi>
 <wi type="G" value="11,2,">Abraham</wi>
@@ -1053,7 +1056,7 @@ Even as Abraham «believed God, and it was counted to him for righteousness.»
 <wi type="G" value="1343,10,">justicia</wi>.»
 </t>
 </sv>
-<sv id="Galatians-3-7">
+<sv id="Gálatas-3-7">
 Know therefore that those who are of faith, the same are children of
 Abraham.
 <t xml:lang="es"><wi type="G" value="1097,1,">Sepan</wi>
@@ -1067,7 +1070,7 @@ Abraham.
 <wi type="G" value="5207,9,">hijos</wi>
 <wi type="G" value="11,10,">de Abraham</wi>.</t>
 </sv>
-<sv id="Galatians-3-8">
+<sv id="Gálatas-3-8">
 The Scripture, foreseeing that God would justify the Gentiles
 by faith, preached the Good News beforehand to Abraham, saying, «In you all the
 nations will be blessed.»
@@ -1089,7 +1092,7 @@ nations will be blessed.»
 <wi type="G" value="3588,21,"><wi type="G" value="1484,22,">las naciones</wi></wi>.»
 </t>
 </sv>
-<sv id="Galatians-3-9">
+<sv id="Gálatas-3-9">
 So then, those who are of faith are blessed
 with the faithful Abraham.
 <t xml:lang="es"><wi type="G" value="5620,1,">Así entonces</wi>,
@@ -1102,7 +1105,7 @@ with the faithful Abraham.
 <wi type="G" value="11,9,">Abraham</wi>.
 </t>
 </sv>
-<sv id="Galatians-3-10">
+<sv id="Gálatas-3-10">
 For as many as are of the works of the law
 are under a curse. For it is written, «Cursed is everyone who doesn´t
 continue in all things that are written in the book of the law, to do them.»
@@ -1132,7 +1135,7 @@ continue in all things that are written in the book of the law, to do them.»
 <wi type="G" value="3588,26,"/><wi type="G" value="4160,27,"><wi type="G" value="846,28,">para hacerlas</wi></wi>.»
 </t>
 </sv>
-<sv id="Galatians-3-11">
+<sv id="Gálatas-3-11">
 Now that no man is justified by the law before God is evident, for,
 «The righteous will live by faith.»
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> ahora
@@ -1151,7 +1154,7 @@ Now that no man is justified by the law before God is evident, for,
 <wi type="G" value="4102,15,">la fe</wi>.»
 </t>
 </sv>
-<sv id="Galatians-3-12">
+<sv id="Gálatas-3-12">
 The law is not of faith, but, «The
 man who does them will live by them.»
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
@@ -1171,7 +1174,7 @@ man who does them will live by them.»
 </sv></cm>
 
 <cm>
-<sv id="Galatians-3-13">
+<sv id="Gálatas-3-13">
 Christ redeemed us from the curse of the law, having become a curse for
 us. For it is written, «Cursed is everyone who hangs on a tree,»
 <t xml:lang="es"><wi type="G" value="5547,1,">Cristo</wi>
@@ -1193,7 +1196,7 @@ us. For it is written, «Cursed is everyone who hangs on a tree,»
 <wi type="G" value="1909,19,">en</wi>
 <wi type="G" value="3586,20,">un madero</wi>,»</t>
 </sv>
-<sv id="Galatians-3-14">
+<sv id="Gálatas-3-14">
 that
 the blessing of Abraham might come on the Gentiles through Christ Jesus; that
 we might receive the promise of the Spirit through faith.
@@ -1214,7 +1217,7 @@ we might receive the promise of the Spirit through faith.
 <wi type="G" value="3588,20,"><wi type="G" value="4102,21,">la fe</wi></wi>.
 </t>
 </sv>
-<sv id="Galatians-3-15">
+<sv id="Gálatas-3-15">
 Brothers, speaking
 of human terms, though it is only a man´s covenant, yet when it has been
 confirmed, no one makes it void, or adds to it.
@@ -1231,7 +1234,7 @@ confirmed, no one makes it void, or adds to it.
 <wi type="G" value="2228,11,">ni</wi>
 <wi type="G" value="1928,12,">le agrega nada</wi>.</t>
 </sv>
-<sv id="Galatians-3-16">
+<sv id="Gálatas-3-16">
 Now the promises were
 spoken to Abraham and to his seed. He doesn´t say, «To seeds,» as of many,
 but as of one, «To your seed,» which is Christ.
@@ -1260,7 +1263,7 @@ but as of one, «To your seed,» which is Christ.
 <wi type="G" value="5547,29,">Cristo</wi>.
 </t>
 </sv>
-<sv id="Galatians-3-17">
+<sv id="Gálatas-3-17">
 Now I say this. A
 covenant confirmed beforehand by God in Christ, the law, which came four
 hundred thirty years after, does not annul, so as to make the promise of no
@@ -1287,7 +1290,7 @@ lo <wi type="G" value="208,20,">anuló</wi>,
 <wi type="G" value="2673,23,">dejar sin efecto a</wi>
 <wi type="G" value="3588,24,"><wi type="G" value="1860,25,">la promesa</wi></wi>. </t>
 </sv>
-<sv id="Galatians-3-18">
+<sv id="Gálatas-3-18">
 For if the inheritance is of the law, it is no more of promise;
 but God has granted it to Abraham by promise.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
@@ -1307,7 +1310,7 @@ se la <wi type="G" value="5483,15,">concedió a</wi>
 </sv></cm>
 
 <cm>
-<sv id="Galatians-3-19">
+<sv id="Gálatas-3-19">
 What then is the law? It was added because of transgressions, until the
 seed should come to whom the promise has been made. It was ordained through
 angels by the hand of a mediator.
@@ -1331,7 +1334,7 @@ angels by the hand of a mediator.
 <wi type="G" value="3316,21,">de un mediador</wi>.
 </t>
 </sv>
-<sv id="Galatians-3-20">
+<sv id="Gálatas-3-20">
 Now a mediator is not between one,
 but God is one.
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi>
@@ -1345,7 +1348,7 @@ but God is one.
 <wi type="G" value="1520,10,">uno</wi>
 .</t>
 </sv>
-<sv id="Galatians-3-21">
+<sv id="Gálatas-3-21">
 Is the law then against the promises of God? Certainly
 not! For if there had been a law given which could make alive, most assuredly
 righteousness would have been of the law.
@@ -1370,7 +1373,7 @@ righteousness would have been of the law.
 <wi type="G" value="3551,21,">la ley</wi>.
 </t>
 </sv>
-<sv id="Galatians-3-22">
+<sv id="Gálatas-3-22">
 But the Scriptures imprisoned
 all things under sin, that the promise by faith in Jesus Christ might be
 given to those who believe.
@@ -1390,7 +1393,7 @@ given to those who believe.
 <wi type="G" value="3588,17,">a los que</wi>
 <wi type="G" value="4100,18,">creen</wi>.</t>
 </sv>
-<sv id="Galatians-3-23">
+<sv id="Gálatas-3-23">
 But before faith came, we were kept in
 custody under the law, confined for the faith which should afterwards be
 revealed.
@@ -1409,7 +1412,7 @@ que <wi type="G" value="3588,5,"><wi type="G" value="4102,6,">la fe</wi></wi>
 <wi type="G" value="601,15,">revelada</wi>.
 </t>
 </sv>
-<sv id="Galatians-3-24">
+<sv id="Gálatas-3-24">
 So that the law has become our tutor to bring us to Christ,
 that we might be justified by faith.
 <t xml:lang="es"><wi type="G" value="5620,1,">Entonces</wi>
@@ -1424,7 +1427,7 @@ that we might be justified by faith.
 <wi type="G" value="1537,10,">por</wi>
 <wi type="G" value="4102,11,">la fe</wi>.</t>
 </sv>
-<sv id="Galatians-3-25">
+<sv id="Gálatas-3-25">
 But now that faith has come, we
 are no longer under a tutor.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -1435,7 +1438,7 @@ are no longer under a tutor.
 <wi type="G" value="5259,6,">bajo</wi>
 <wi type="G" value="3807,7,">el tutor</wi>.</t>
 </sv>
-<sv id="Galatians-3-26">
+<sv id="Gálatas-3-26">
 For you
 <wi type="T" value="P"/> are all children of God,
 through faith in Christ Jesus.
@@ -1450,7 +1453,7 @@ through faith in Christ Jesus.
 <wi type="G" value="5547,10,">Cristo</wi>
 <wi type="G" value="2424,11,">Jesús</wi>.</t>
 </sv>
-<sv id="Galatians-3-27">
+<sv id="Gálatas-3-27">
 For as many of you as were baptized into
 Christ have put on Christ.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
@@ -1461,7 +1464,7 @@ Christ have put on Christ.
 <wi type="G" value="1746,7,">han sido revestidos en</wi>
 <wi type="G" value="5547,6,">Cristo</wi>.</t>
 </sv>
-<sv id="Galatians-3-28">
+<sv id="Gálatas-3-28">
 There is neither Jew nor Greek, there is
 neither slave nor free man, there is neither male nor female; for you are all
 one in Christ Jesus.
@@ -1489,7 +1492,7 @@ one in Christ Jesus.
 <wi type="G" value="5547,22,">Cristo</wi>
 <wi type="G" value="2424,23,">Jesús</wi>. </t>
 </sv>
-<sv id="Galatians-3-29">
+<sv id="Gálatas-3-29">
 If you are Christ´s, then you are
 Abraham´s seed and heirs according to promise.
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
@@ -1508,9 +1511,9 @@ de
 <cl/>
 </sv></cm>
 </sc>
-<sc id="Galatians-4">
+<sc id="Gálatas-4">
 <cm>
-<sv id="Galatians-4-1">
+<sv id="Gálatas-4-1">
 But I say that so long as the heir is a child, he is no different
 from a bondservant, though he is lord of all;
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> les
@@ -1526,7 +1529,7 @@ aunque <wi type="G" value="5607,15,">sea</wi>
 <wi type="G" value="2962,13,">señor</wi>
 <wi type="G" value="3956,14,">de todo</wi>;</t>
 </sv>
-<sv id="Galatians-4-2">
+<sv id="Gálatas-4-2">
 but is under guardians and
 stewards until the day appointed by the father.
 <t xml:lang="es"><wi type="G" value="235,1,">sino que</wi>
@@ -1539,7 +1542,7 @@ stewards until the day appointed by the father.
 <wi type="G" value="3588,8,"><wi type="G" value="4287,9,">el día dispuesto</wi></wi> por
 <wi type="G" value="3588,10,"><wi type="G" value="3962,11,">el padre</wi></wi>.</t>
 </sv>
-<sv id="Galatians-4-3">
+<sv id="Gálatas-4-3">
 So we also, when we were
 children, were held in bondage under the elemental principles of the world.
 <t xml:lang="es"><wi type="G" value="3779,1,">Así</wi>
@@ -1555,7 +1558,7 @@ children, were held in bondage under the elemental principles of the world.
 <wi type="G" value="3588,10,"><wi type="G" value="2889,11,">del mundo</wi></wi>.
 </t>
 </sv>
-<sv id="Galatians-4-4">
+<sv id="Gálatas-4-4">
 But when
 the fullness of the time came, God sent out his Son, born to a woman, born
 under the law,
@@ -1575,7 +1578,7 @@ under the law,
 <wi type="G" value="5259,18,">bajo</wi>
 <wi type="G" value="3551,19,">la ley</wi>,</t>
 </sv>
-<sv id="Galatians-4-5">
+<sv id="Gálatas-4-5">
 that he might redeem those who were under the law, that
 we might receive the adoption of children.
 <t xml:lang="es"><wi type="G" value="1805,5,">para redimir a</wi>
@@ -1588,7 +1591,7 @@ estaban
 <wi type="G" value="618,9,">recibieran</wi>
 <wi type="G" value="3588,7,"><wi type="G" value="5206,8,">la adopción como hijos</wi></wi>.</t>
 </sv>
-<sv id="Galatians-4-6">
+<sv id="Gálatas-4-6">
 And because you are
 children, God sent out the Spirit of his Son into your hearts, crying,
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
@@ -1614,7 +1617,7 @@ for «Father» or «Daddy» used in a familiar, respectful, and loving way.
  Father!»
 <t xml:lang="es"><wi type="G" value="3588,19,"><wi type="G" value="3962,20,">Padre</wi></wi>!»</t>
 </sv>
-<sv id="Galatians-4-7">
+<sv id="Gálatas-4-7">
 So you are no longer a bondservant, but a son;
 and if a son, then an heir of God through Christ.
 <t xml:lang="es"><wi type="G" value="5620,1,">Así que</wi>
@@ -1633,7 +1636,7 @@ and if a son, then an heir of God through Christ.
 <wi type="G" value="5547,14,">de Cristo</wi>.
 </t>
 </sv>
-<sv id="Galatians-4-8">
+<sv id="Gálatas-4-8">
 However at that time, not knowing God, you
 were in bondage to those who by nature are not gods.
 <t xml:lang="es"><wi type="G" value="235,1,">Sin embargo</wi>
@@ -1648,7 +1651,7 @@ were in bondage to those who by nature are not gods.
 <wi type="G" value="5607,11,">son</wi>
 <wi type="G" value="2316,12,">dioses</wi>.</t>
 </sv>
-<sv id="Galatians-4-9">
+<sv id="Gálatas-4-9">
 But now that you
 have come to know God, or rather to be known by God, why do you
 turn back again to the weak and miserable elemental principles, to which you
@@ -1676,7 +1679,7 @@ los <wi type="G" value="772,15,">débiles</wi>
 <wi type="G" value="509,21,"/><wi type="G" value="3825,20,">nuevamente</wi>?
  </t>
 </sv>
-<sv id="Galatians-4-10">
+<sv id="Gálatas-4-10">
 You observe days, months, seasons, and years.
 <t xml:lang="es"><wi type="G" value="3906,2,">Ustedes guardan</wi>
 <wi type="G" value="2250,1,">días</wi>,
@@ -1687,7 +1690,7 @@ You observe days, months, seasons, and years.
 <wi type="G" value="2532,7,">y</wi>
 <wi type="G" value="1763,8,">años</wi>.</t>
 </sv>
-<sv id="Galatians-4-11">
+<sv id="Gálatas-4-11">
 I am afraid for you, that I might have wasted my labor for you.
 <t xml:lang="es"><wi type="G" value="5399,1,">Temo por</wi>
 <wi type="G" value="5209,2,">ustedes</wi>,
@@ -1697,7 +1700,7 @@ I am afraid for you, that I might have wasted my labor for you.
 <wi type="G" value="5209,7,">ustedes</wi>
 <wi type="G" value="1500,4,">en vano</wi>.</t>
 </sv>
-<sv id="Galatians-4-12">
+<sv id="Gálatas-4-12">
 I beg you, brothers, become as I am, for I also have become as you
 are. You did me no wrong,
 <t xml:lang="es"><wi type="G" value="5216,10,">Les</wi>
@@ -1720,7 +1723,7 @@ Según <citebib id="Thayer-BLB"/> la palabra griega
 `ηδικησατε´ puede traducirse como actuar injustamente, hacer mal y herir.</rf></rb>
 <t xml:lang="es">,</t>
 </sv>
-<sv id="Galatians-4-13">
+<sv id="Gálatas-4-13">
 but you know that because of
 weakness of the flesh I preached the Good News to you the first time.
 <t xml:lang="es"><wi type="G" value="1161,2,">y</wi>
@@ -1734,7 +1737,7 @@ weakness of the flesh I preached the Good News to you the first time.
 <wi type="G" value="3588,10,"/><wi type="G" value="4386,11,">al comienzo</wi>.
 </t>
 </sv>
-<sv id="Galatians-4-14">
+<sv id="Gálatas-4-14">
 That which was a temptation to you in my flesh, you
 didn´t despise nor reject; but you
 received me as an angel of God, even as Christ Jesus.
@@ -1761,7 +1764,7 @@ a <wi type="G" value="5547,21,">Cristo</wi>
 </sv></cm>
 
 <cm>
-<sv id="Galatians-4-15">
+<sv id="Gálatas-4-15">
 What was the blessing you enjoyed? For I testify to you that, if
 possible, you
 would have plucked out your eyes and given them to me.
@@ -1784,7 +1787,7 @@ hubiera sido
 <wi type="G" value="302,17,"/><wi type="G" value="1325,18,">los hubieran dado</wi>. </t>
 
 </sv>
-<sv id="Galatians-4-16">
+<sv id="Gálatas-4-16">
 So then, have I become your enemy by telling you the truth?
 <t xml:lang="es"><wi type="G" value="5620,1,">Entonces</wi>,
 ¿<wi type="G" value="1096,4,">me he convertido</wi> en
@@ -1792,7 +1795,7 @@ So then, have I become your enemy by telling you the truth?
 <wi type="G" value="2190,2,">enemigo</wi> por
 <wi type="G" value="226,5,"><wi type="G" value="5213,6,">decirles la verdad</wi></wi>?</t>
 </sv>
-<sv id="Galatians-4-17">
+<sv id="Gálatas-4-17">
 They
 zealously seek you in no good way. No, they desire to alienate you, that
 you may seek them.
@@ -1815,7 +1818,7 @@ se traduce como sacar, prevenir que se aproxime.
 <wi type="G" value="846,10,">los</wi>
 <wi type="G" value="2206,11,">celen</wi>.</t>
 </sv>
-<sv id="Galatians-4-18">
+<sv id="Gálatas-4-18">
 But it is always good to be zealous in a good
 cause, and not only when I am present with you.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> es
@@ -1835,7 +1838,7 @@ cause, and not only when I am present with you.
 </sv></cm>
 
 <cm>
-<sv id="Galatians-4-19">
+<sv id="Gálatas-4-19">
 My little children, of whom I am again in travail until Christ is
 formed in you
 <t xml:lang="es"><wi type="G" value="3450,2,">Mis</wi>
@@ -1850,7 +1853,7 @@ formed in you
 <wi type="G" value="1722,10,">en</wi>
 <wi type="G" value="5213,11,">ustedes</wi>.</t>
 </sv>
-<sv id="Galatians-4-20">
+<sv id="Gálatas-4-20">
 but I could wish to be present with you now, and to
 change my tone, for I am perplexed about you.
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
@@ -1869,7 +1872,7 @@ change my tone, for I am perplexed about you.
 <wi type="G" value="5213,15,">ustedes</wi>.
 </t>
 </sv>
-<sv id="Galatians-4-21">
+<sv id="Gálatas-4-21">
 Tell me, you that desire to be under the law, don´t you
 listen to the law?
 <t xml:lang="es"><wi type="G" value="3004,1,"><wi type="G"
@@ -1883,7 +1886,7 @@ value="3427,2,">Díganme</wi></wi>,
 <wi type="G" value="191,11,">han escuchado</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="3551,9,">la ley</wi></wi>?</t>
 </sv>
-<sv id="Galatians-4-22">
+<sv id="Gálatas-4-22">
 For it is
 written that Abraham had two sons, one by the handmaid, and one by the free
 woman.
@@ -1902,7 +1905,7 @@ woman.
 <wi type="G" value="1537,14,">de</wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="1658,16,">la mujer libre</wi>.</t>
 </sv>
-<sv id="Galatians-4-23">
+<sv id="Gálatas-4-23">
 However, the son by the handmaid was born according to the
 flesh, but the son by the free woman was born through promise.
 <t xml:lang="es"><wi type="G" value="235,1,">Más</wi>
@@ -1921,7 +1924,7 @@ fue <wi type="G" value="1223,15,">por</wi>
 <wi type="G" value="3588,16,"><wi type="G" value="1860,17,">la promesa</wi></wi>.
 </t>
 </sv>
-<sv id="Galatians-4-24">
+<sv id="Gálatas-4-24">
 These
 things contain an allegory, for these are two covenants. One is from Mount
 Sinai, bearing children to bondage, which is Hagar.
@@ -1944,7 +1947,7 @@ Sinai, bearing children to bondage, which is Hagar.
 <wi type="G" value="2076,19,">es</wi>
 <wi type="G" value="28,20,">Agar</wi>.</t>
 </sv>
-<sv id="Galatians-4-25">
+<sv id="Gálatas-4-25">
 For this Hagar is
 Mount Sinai in Arabia, and answers to the Jerusalem that exists now, for she
 is in bondage with her children.
@@ -1967,7 +1970,7 @@ is in bondage with her children.
 <wi type="G" value="846,20,">sus</wi>
 <wi type="G" value="3588,18,"><wi type="G" value="5043,19,">hijos</wi></wi>. </t>
 </sv>
-<sv id="Galatians-4-26">
+<sv id="Gálatas-4-26">
 But the Jerusalem that is above is
 free, which is the mother of us all.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -1982,7 +1985,7 @@ free, which is the mother of us all.
 <wi type="G" value="3956,10,">de todos</wi>
 <wi type="G" value="2257,11,">nosotros</wi>.</t>
 </sv>
-<sv id="Galatians-4-27">
+<sv id="Gálatas-4-27">
 For it is written,
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="1125,1,">está escrito</wi></t>
@@ -2017,7 +2020,7 @@ son <wi type="G" value="3588,16,"><wi type="G" value="5043,17,">los hijos</wi></
 </sv></cm>
 
 <cm>
-<sv id="Galatians-4-28">
+<sv id="Gálatas-4-28">
 Now we, brothers, as Isaac was, are children of promise.
 <t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>,
 <wi type="G" value="2249,1,">nosotros</wi>,
@@ -2028,7 +2031,7 @@ Now we, brothers, as Isaac was, are children of promise.
 <wi type="G" value="5043,7,">hijos</wi>
 <wi type="G" value="1860,6,">de la promesa</wi>.</t>
 </sv>
-<sv id="Galatians-4-29">
+<sv id="Gálatas-4-29">
 But as
 then, he who was born according to the flesh persecuted him who was born
 according to the Spirit, so also it is now.
@@ -2048,7 +2051,7 @@ fue
 <wi type="G" value="2532,13,">también</wi> es
 <wi type="G" value="3568,14,">ahora</wi>.</t>
 </sv>
-<sv id="Galatians-4-30">
+<sv id="Gálatas-4-30">
 However what does the
 Scripture say?«Throw out the handmaid and her son, for the son of the
 handmaid will not inherit with the son of the free woman.»
@@ -2071,7 +2074,7 @@ handmaid will not inherit with the son of the free woman.»
   <wi type="G" value="3588,24,"/><wi type="G" value="1658,25,">de la mujer libre</wi>.»
 </t>
 </sv>
-<sv id="Galatians-4-31">
+<sv id="Gálatas-4-31">
 So then,
 brothers, we are not children of a handmaid, but of the free woman.
 <t xml:lang="es"><wi type="G" value="686,1,">Así que entonces</wi>,
@@ -2084,8 +2087,8 @@ brothers, we are not children of a handmaid, but of the free woman.
 <wi type="G" value="3588,8,"/><wi type="G" value="1658,9,">de la mujer libre</wi>.</t>
 <cl/>
 </sv></cm></sc>
-<sc id="Galatians-5">
-<cm><sv id="Galatians-5-1">
+<sc id="Gálatas-5">
+<cm><sv id="Gálatas-5-1">
 Stand firm therefore in the liberty by which Christ has made us
 free, and don´t be entangled again with a yoke of bondage.
 <t xml:lang="es"><wi type="G" value="4739,8,">Permanezcan firmes</wi>,
@@ -2103,7 +2106,7 @@ free, and don´t be entangled again with a yoke of bondage.
 <wi type="G" value="1397,13,">de esclavitud</wi>.
 </t>
 </sv>
-<sv id="Galatians-5-2">
+<sv id="Gálatas-5-2">
 Behold, I,
 Paul, tell you that if you
 receive circumcision, Christ will profit you
@@ -2123,7 +2126,7 @@ nothing.
 <wi type="GC" value="11">de nada</wi>.
 </t>
 </sv>
-<sv id="Galatians-5-3">
+<sv id="Gálatas-5-3">
 Yes, I testify again to every man who receives circumcision,
 that he is a debtor to do the whole law.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pues</wi>,
@@ -2139,7 +2142,7 @@ that he is a debtor to do the whole law.
 <wi type="G" value="3650,10,">toda</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="3551,12,">la ley</wi></wi>.</t>
 </sv>
-<sv id="Galatians-5-4">
+<sv id="Gálatas-5-4">
 You are alienated from
 Christ, you who desire to be justified by the law. You
 have fallen away from grace.
@@ -2153,7 +2156,7 @@ los <wi type="G" value="3748,5,">que</wi>
 <wi type="G" value="1601,11,">Han caído</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="5485,10,">de la gracia</wi></wi>.</t>
 </sv>
-<sv id="Galatians-5-5">
+<sv id="Gálatas-5-5">
 For we, through the Spirit, by faith wait for the hope
 of righteousness.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
@@ -2165,7 +2168,7 @@ of righteousness.
 <wi type="G" value="1537,4,">por</wi>
 <wi type="G" value="4102,5,">la fe</wi> .</t>
 </sv>
-<sv id="Galatians-5-6">
+<sv id="Gálatas-5-6">
 For in Christ Jesus neither circumcision amounts to
 anything, nor uncircumcision, but faith working through love.
 <t xml:lang="es"><wi type="G" value="1063,2,">Porque</wi>
@@ -2184,7 +2187,7 @@ anything, nor uncircumcision, but faith working through love.
 <wi type="G" value="1223,13,">por</wi>
 <wi type="G" value="26,14,">el amor</wi>.</t>
 </sv>
-<sv id="Galatians-5-7">
+<sv id="Gálatas-5-7">
 You were running well! Who interfered with you that you
 should not obey the truth?
 <t xml:lang="es">¡<wi type="G" value="5143,1,">Ustedes corrían</wi>
@@ -2196,7 +2199,7 @@ should not obey the truth?
 <wi type="G" value="3982,9,">obedecer</wi> a
 <wi type="G" value="3588,6,"><wi type="G" value="225,7,">la verdad</wi></wi>?</t>
 </sv>
-<sv id="Galatians-5-8">
+<sv id="Gálatas-5-8">
 This persuasion is not from him who calls you.
 <t xml:lang="es"><wi type="G" value="3588,1,">Esta</wi>
 <wi type="G" value="3988,2,">persuación</wi>
@@ -2205,7 +2208,7 @@ This persuasion is not from him who calls you.
 <wi type="G" value="5209,7,">los</wi>
 <wi type="G" value="2564,6,">llamó</wi>.</t>
 </sv>
-<sv id="Galatians-5-9">
+<sv id="Gálatas-5-9">
 A little yeast grows through the whole lump.
 <t xml:lang="es"><wi type="G" value="3398,1,">Un poco</wi>
 <wi type="G" value="2219,2,">de levadura</wi>
@@ -2213,7 +2216,7 @@ A little yeast grows through the whole lump.
 <wi type="G" value="3650,3,">toda</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="5445,5,">la masa</wi></wi>.</t>
 </sv>
-<sv id="Galatians-5-10">
+<sv id="Gálatas-5-10">
 I have confidence toward you in the Lord that you
 will think no other way. But he who troubles you will bear
 his judgment, whoever he is.
@@ -2238,7 +2241,7 @@ his judgment, whoever he is.
 <wi type="G" value="5600,20,">sea</wi>.</t>
 </sv></cm>
 <cm>
-<sv id="Galatians-5-11">
+<sv id="Gálatas-5-11">
 But I, brothers, if I still preach circumcision, why am I still
 persecuted? Then the stumbling block of the cross has been removed.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -2265,7 +2268,7 @@ Según <citebib id="Thayer-BLB"/> la palabra griega
 <wi type="G" value="2673,12,">ha sido quitada</wi>.
 </t>
 </sv>
-<sv id="Galatians-5-12">
+<sv id="Gálatas-5-12">
 I wish that those who disturb you would cut themselves off.
 <t xml:lang="es"><wi type="G" value="2532,2,">Y</wi>
 <wi type="G" value="3785,1,">Desearía que</wi>
@@ -2274,7 +2277,7 @@ I wish that those who disturb you would cut themselves off.
 <wi type="G" value="387,5,">perturban</wi>
 <wi type="G" value="609,3,">se cortaran</wi>.</t>
 </sv>
-<sv id="Galatians-5-13">
+<sv id="Gálatas-5-13">
 For you, brothers, were called for freedom.
 Only don´t use your freedom for gain to
 the flesh, but through love be servants to one another.
@@ -2296,7 +2299,7 @@ the flesh, but through love be servants to one another.
 <wi type="G" value="1398,19,">sirvanse</wi>
 <wi type="G" value="240,20,">los unos a otros</wi>.</t>
 </sv>
-<sv id="Galatians-5-14">
+<sv id="Gálatas-5-14">
 For the whole
 law is fulfilled in one word, in this: «You shall love your neighbor as
 yourself.»
@@ -2315,7 +2318,7 @@ yourself.»
 <wi type="G" value="5613,15,">como</wi> a
 <wi type="G" value="1438,16,">ti mismo</wi>.»
 </sv>
-<sv id="Galatians-5-15">
+<sv id="Gálatas-5-15">
 But if you bite and devour one another, be careful that
 you don´t consume one another.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -2330,7 +2333,7 @@ que <wi type="G" value="3361,8,">no</wi>
 <wi type="G" value="5259,9,"/><wi type="G" value="240,10,">unos a otros</wi>.
 </t>
 </sv>
-<sv id="Galatians-5-16">
+<sv id="Gálatas-5-16">
 But I say, walk by the Spirit, and
 you won´t fulfill the lust of the flesh.
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
@@ -2343,7 +2346,7 @@ you won´t fulfill the lust of the flesh.
 <wi type="G" value="1939,6,">los deseos</wi>
 <wi type="G" value="4561,7,">de la carne</wi>.</t>
 </sv>
-<sv id="Galatians-5-17">
+<sv id="Gálatas-5-17">
 For the flesh lusts
 against the Spirit, and the Spirit against the flesh; and these are contrary
 to one other, that you
@@ -2369,7 +2372,7 @@ may not do the things that you desire.
 <wi type="G" value="302,21,"/><wi type="G" value="2309,22,">quisieran</wi>.</t>
 </sv>
 
-<sv id="Galatians-5-18">
+<sv id="Gálatas-5-18">
 But if you are led by the Spirit, you
 are not under the law.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -2381,7 +2384,7 @@ are not under the law.
 <wi type="G" value="5259,7,">bajo</wi>
 <wi type="G" value="3551,8,">la ley</wi>.</t>
 </sv>
-<sv id="Galatians-5-19">
+<sv id="Gálatas-5-19">
 Now the works of the flesh are obvious, which are: adultery, sexual
 immorality, uncleanness, lustfulness,
 <t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>
@@ -2396,7 +2399,7 @@ immorality, uncleanness, lustfulness,
 <wi type="G" value="167,12,">impureza</wi>,
 <wi type="G" value="766,13,">lujuria</wi>, </t>
 </sv>
-<sv id="Galatians-5-20">
+<sv id="Gálatas-5-20">
 idolatry, sorcery, hatred,
 strife, jealousies, outbursts of anger, rivalries, divisions, heresies,
 <t xml:lang="es"><wi type="G" value="1495,1,">idolatría</wi>,
@@ -2411,7 +2414,7 @@ strife, jealousies, outbursts of anger, rivalries, divisions, heresies,
 </t>
 </sv>
 
-<sv id="Galatians-5-21">
+<sv id="Gálatas-5-21">
 envyings, murders, drunkenness, orgies, and things like these; of which
 I forewarn you, even as I also forewarned you, that those who practice such
 things will not inherit the Kingdom of God.
@@ -2440,7 +2443,7 @@ things will not inherit the Kingdom of God.
 </sv></cm>
 
 <cm>
-<sv id="Galatians-5-22">
+<sv id="Gálatas-5-22">
 But the fruit of the Spirit is love, joy, peace, patience, kindness,
 goodness, faithfulness,
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
@@ -2455,7 +2458,7 @@ goodness, faithfulness,
 <wi type="G" value="19,12,">benignidad</wi>,
 <wi type="G" value="4102,13,">fe</wi>, </t>
 </sv>
-<sv id="Galatians-5-23">
+<sv id="Gálatas-5-23">
 gentleness, and self-control. Against such
 things there is no law.
 <t xml:lang="es"><wi type="G" value="4236,1,">mansedumbre</wi>,
@@ -2466,7 +2469,7 @@ things there is no law.
 <wi type="G" value="2076,7,">hay</wi>
 <wi type="G" value="3551,8,">ley</wi>.</t>
 </sv>
-<sv id="Galatians-5-24">
+<sv id="Gálatas-5-24">
 Those who belong to Christ have crucified the
 flesh with its passions and lusts.
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
@@ -2479,7 +2482,7 @@ flesh with its passions and lusts.
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="1939,13,">lujurias</wi></wi>.</t>
 </sv>
-<sv id="Galatians-5-25">
+<sv id="Gálatas-5-25">
 If we live by the Spirit, let´s also
 walk by the Spirit.
 <t xml:lang="es"><wi type="G" value="1487,1,">Si</wi>
@@ -2489,7 +2492,7 @@ en <wi type="G" value="4151,3,">el Espíritu</wi>,
 <wi type="G" value="2532,5,">también</wi>
 en <wi type="G" value="4151,4,">el Espíritu</wi>.</t>
 </sv>
-<sv id="Galatians-5-26">
+<sv id="Gálatas-5-26">
 Let´s not become conceited, provoking one another,
 and envying one another.
 <t xml:lang="es"><wi type="G" value="3361,1,">No</wi>
@@ -2503,9 +2506,9 @@ ni <wi type="G" value="5354,7,">envidiando</wi>
 
 
 </sv></cm></sc>
-<sc id="Galatians-6">
+<sc id="Gálatas-6">
 <cm>
-<sv id="Galatians-6-1">
+<sv id="Gálatas-6-1">
 Brothers, even if a man is caught in some fault, you
 who are spiritual must restore such a one in a spirit of gentleness; looking to
 yourself so that you also aren´t tempted.
@@ -2534,7 +2537,7 @@ seas
 <wi type="G" value="3985,23,">tentado</wi>
 .  </t>
 </sv>
-<sv id="Galatians-6-2">
+<sv id="Gálatas-6-2">
 Bear one another´s
 burdens, and so fulfill the law of Christ.
 <t xml:lang="es"><wi type="G" value="941,4,">Llévense</wi>
@@ -2546,7 +2549,7 @@ burdens, and so fulfill the law of Christ.
 <wi type="G" value="3588,8,"><wi type="G" value="3551,9,">la ley</wi></wi>
 <wi type="G" value="3588,10,"><wi type="G" value="5547,11,">de Cristo</wi></wi>.</t>
 </sv>
-<sv id="Galatians-6-3">
+<sv id="Gálatas-6-3">
 For if a man thinks himself
 to be something when he is nothing, he deceives himself.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
@@ -2562,7 +2565,7 @@ to be something when he is nothing, he deceives himself.
 <wi type="G" value="5422,10,">se engaña</wi>
 <wi type="G" value="1438,9,">a si mismo</wi>.</t>
 </sv>
-<sv id="Galatians-6-4">
+<sv id="Gálatas-6-4">
 But let each
 man test his own work, and then he will take pride in himself and not in his
 neighbor.
@@ -2582,7 +2585,7 @@ neighbor.
 <wi type="G" value="1519,17,">en</wi>
 <wi type="G" value="3588,18,"/><wi type="G" value="2087,19,">otro</wi>.</t>
 </sv>
-<sv id="Galatians-6-5">
+<sv id="Gálatas-6-5">
 For each man will bear his own burden.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="1538,1,">cada quien</wi>
@@ -2590,7 +2593,7 @@ For each man will bear his own burden.
 <wi type="G" value="3588,3,"/><wi type="G" value="2398,4,">su propia</wi>
 <wi type="G" value="5413,5,">carga</wi>.</t>
 </sv>
-<sv id="Galatians-6-6">
+<sv id="Gálatas-6-6">
 But let him who is
 taught in the word share all good things with him who teaches.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -2612,7 +2615,7 @@ con <wi type="G" value="3588,7,">el que</wi> le
 <wi type="G" value="3956,10,">todas</wi>
 <wi type="G" value="18,11,">las buenas cosas</wi>.</t>
 </sv>
-<sv id="Galatians-6-7">
+<sv id="Gálatas-6-7">
 Don´t be
 deceived. God is not mocked, for whatever a man sows, that he will also reap.
 <t xml:lang="es"><wi type="G" value="3361,1,">No</wi>
@@ -2628,7 +2631,7 @@ deceived. God is not mocked, for whatever a man sows, that he will also reap.
 <wi type="G" value="2532,12,">también</wi>
 <wi type="G" value="2325,13,">cosechará</wi>.</t>
 </sv>
-<sv id="Galatians-6-8">
+<sv id="Gálatas-6-8">
 For he who sows to his own flesh will from the flesh reap corruption.
 But he who sows to the Spirit will from the Spirit reap eternal life.
 <t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
@@ -2653,7 +2656,7 @@ para
 <wi type="G" value="2222,23,">la vida</wi>
 <wi type="G" value="166,24,">eterna</wi>.</t>
 </sv>
-<sv id="Galatians-6-9">
+<sv id="Gálatas-6-9">
 Let us not be weary in doing good, for we will reap in due season, if we
 don´t give up.
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
@@ -2668,7 +2671,7 @@ en <wi type="G" value="2540,7,">el tiempo</wi>
 <wi type="G" value="3361,11,">no</wi>
 <wi type="G" value="1590,12,">nos rendimos</wi>.</t>
 </sv>
-<sv id="Galatians-6-10">
+<sv id="Gálatas-6-10">
 So then, as we have opportunity, let´s do what is good
 toward all men, and especially toward those who are of the household of the
 faith.
@@ -2689,7 +2692,7 @@ faith.
 </t>
 </sv></cm>
 <cm>
-<sv id="Galatians-6-11">
+<sv id="Gálatas-6-11">
 See with what large letters I write to you with my own hand.
 <t xml:lang="es"><wi type="G" value="1492,1,">Miren</wi>
 con <wi type="G" value="4080,2,">que grandes</wi>
@@ -2699,7 +2702,7 @@ con <wi type="G" value="4080,2,">que grandes</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="1699,7,">con mi propia</wi>
 <wi type="G" value="5495,8,">mano</wi>.</t>
 </sv>
-<sv id="Galatians-6-12">
+<sv id="Gálatas-6-12">
 As many as desire to look good in the flesh, they compel you to be circumcised;
 only that they may not be persecuted for the cross of Christ.
 <t xml:lang="es"><wi type="G" value="3745,1,">Aquellos</wi> que
@@ -2717,7 +2720,7 @@ only that they may not be persecuted for the cross of Christ.
 por <wi type="G" value="3588,13,"><wi type="G" value="4716,14,">la cruz</wi></wi>
 <wi type="G" value="3588,15,"><wi type="G" value="5547,16,">de Cristo</wi></wi>.</t>
 </sv>
-<sv id="Galatians-6-13">
+<sv id="Gálatas-6-13">
 For even
 they who receive circumcision don´t keep the law themselves, but they desire
 to have you circumcised, that they may boast in your flesh.
@@ -2737,7 +2740,7 @@ to have you circumcised, that they may boast in your flesh.
 <wi type="G" value="3588,14,"/><wi type="G" value="5212,15,">su</wi>
 <wi type="G" value="4561,16,">carne</wi>. </t>
 </sv>
-<sv id="Galatians-6-14">
+<sv id="Gálatas-6-14">
 But far be
 it from me to boast, except in the cross of our Lord Jesus Christ, through
 which the world has been crucified to me, and I to the world.
@@ -2761,7 +2764,7 @@ which the world has been crucified to me, and I to the world.
 y <wi type="G" value="2504,21,">yo para</wi>
 <wi type="G" value="3588,22,"><wi type="G" value="2889,23,">el mundo</wi></wi>.</t>
 </sv>
-<sv id="Galatians-6-15">
+<sv id="Gálatas-6-15">
 For in
 Christ Jesus neither is circumcision anything, nor uncircumcision, but a new
 creation.
@@ -2779,7 +2782,7 @@ creation.
 <wi type="G" value="2537,12,">una nueva</wi>
 <wi type="G" value="2937,13,">criatura</wi>.</t>
 </sv>
-<sv id="Galatians-6-16">
+<sv id="Gálatas-6-16">
 As many as walk by this rule, peace and mercy be on them, and
 on God´s Israel.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi> para
@@ -2798,7 +2801,7 @@ sea
 <wi type="G" value="3588,14,"/><wi type="G" value="2474,15,">el Israel</wi>
 <wi type="G" value="3588,16,"><wi type="G" value="2316,17,">de Dios</wi></wi>.</t>
 </sv>
-<sv id="Galatians-6-17">
+<sv id="Gálatas-6-17">
 From now on, let no one cause me any trouble, for I
 bear the marks of the Lord Jesus branded on my body.
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="3064,2,">Desde ahora</wi>,
@@ -2818,7 +2821,7 @@ las <wi type="G" value="941,18,">llevo</wi>
 </t>
 </sv></cm><cm>
 
-<sv id="Galatians-6-18">
+<sv id="Gálatas-6-18">
 The grace of our Lord Jesus Christ be with your spirit, brothers.
 Amen.
 <t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="5485,2,">La gracia</wi></wi>
