@@ -1610,12 +1610,14 @@ que <wi type="G" value="2896,17,">clama</wi>,</t>
 «<rb>Abba,
 <t xml:lang="es">¡<wi type="G" value="5,18,">Abba</wi></t><rf>Abba is a Greek spelling for the Chaldee word
 for «Father» or «Daddy» used in a familiar, respectful, and loving way.
-<t xml:lang="es">Abba es una pronunciación griega de la palabra Caleda para
-«Papa» or «Papi» usada de una forma familiar, respetuosa y amorosa.
+<t xml:lang="es">Abba es una pronunciación griega de la palabra Caldea para
+«Papa» o «Papi» usada de una forma familiar, respetuosa y amorosa.
 </t></rf>
 </rb>
  Father!»
-<t xml:lang="es"><wi type="G" value="3588,19,"><wi type="G" value="3962,20,">Padre</wi></wi>!»</t>
+<t xml:lang="es">
+<wi type="G" value="3588,19,"><wi type="G" value="3962,20,">Padre</wi></wi>!»
+</t>
 </sv>
 <sv id="Gálatas-4-7">
 So you are no longer a bondservant, but a son;
@@ -1813,7 +1815,8 @@ pero
 Según <citebib id="Thayer-BLB"/> la palabra griega `εκκλεισαι´
 se traduce como sacar, prevenir que se aproxime.
 </rf></rb>
-<t xml:lang="es"><wi type="G" value="5209,7,">ustedes</wi>,
+<t xml:lang="es">
+a <wi type="G" value="5209,7,">ustedes</wi>,
 <wi type="G" value="2443,9,">para que</wi> ustedes
 <wi type="G" value="846,10,">los</wi>
 <wi type="G" value="2206,11,">celen</wi>.</t>
@@ -1821,7 +1824,7 @@ se traduce como sacar, prevenir que se aproxime.
 <sv id="Gálatas-4-18">
 But it is always good to be zealous in a good
 cause, and not only when I am present with you.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> es
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> es
 <wi type="G" value="2570,1,">bueno</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="2206,4,">celar</wi>
 <wi type="G" value="3842,7,">siempre</wi>
