@@ -31,12 +31,42 @@ to the saints who are at Ephesus, and the faithful in Christ Jesus:
 </sv>
 		<sv id="Ephesians-1-2">
 Grace to you and peace from God our Father and the Lord Jesus Christ.
-
+<t xml:lang="es"><wi type="G" value="5485,1,">Gracia</wi>
+<wi type="G" value="5213,2,">a ustedes</wi>
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="1515,4,">paz</wi>
+<wi type="G" value="575,5,">de</wi>
+<wi type="G" value="2316,6,">Dios</wi>
+<wi type="G" value="2257,8,">nuestro</wi>
+<wi type="G" value="3962,7,">Padre</wi>
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="2962,10,">del Señor</wi>
+<wi type="G" value="2424,11,">Jesús</wi>
+\<wi type="G" value="5547,12,">Cristo</wi>.</t>
 </sv></cm><cm>
 
 <sv id="Ephesians-1-3">
 Blessed be the God and Father of our Lord Jesus Christ, who has blessed
 us with every spiritual blessing in the heavenly places in Christ;
+<t xml:lang="es"><wi type="G" value="2128,1,">Bendito</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="2316,3,">el Dios</wi></wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="3962,5,">Padre</wi>
+<wi type="G" value="2257,8,">de nuestro</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2962,7,">Señor</wi></wi>
+<wi type="G" value="2424,9,">Jesús</wi>
+<wi type="G" value="5547,10,">Cristo</wi>,
+<wi type="G" value="3588,11,">quien</wi>
+<wi type="G" value="2248,13,">nos</wi>
+<wi type="G" value="2127,12,">ha bendecido</wi>
+<wi type="G" value="1722,14,">con</wi>
+<wi type="G" value="3956,15,">toda</wi>
+<wi type="G" value="2129,16,">bendición</wi>
+<wi type="G" value="4152,17,">espiritual</wi>
+<wi type="G" value="1722,18,">en</wi>
+<wi type="G" value="3588,19,"/><wi type="G" value="2032,20,">los lugares celestes</wi>
+<wi type="G" value="1722,21,">en</wi>
+<wi type="G" value="5547,22,">Cristo</wi>;</t>
 </sv>
 		<sv id="Ephesians-1-4">
 even
