@@ -144,12 +144,39 @@ the riches of his grace,
 <sv id="Ephesians-1-8">
 which he made to abound toward us in all wisdom
 and prudence,
+<t xml:lang="es"><wi type="G" value="3739,1,">que</wi>
+<wi type="G" value="4052,2,">hizo abundar</wi>
+<wi type="G" value="1519,3,">en</wi>
+<wi type="G" value="2248,4,">nosotros</wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="3956,6,">toda</wi>
+<wi type="G" value="4678,7,">sabiduría</wi>
+<wi type="G" value="2532,8,">y</wi>
+</t>
+<rb xml:lang="es">
+<wi type="G" value="5428,9,">prudencia</wi><rf><citebib id="WEB"/> y
+<citebib id="KJV2003"/> dicen prudencia,
+<citebib id="RVR1960"/> dice inteligencia.
+Según <citebib id="Thayer-BLB"/> la palabra griega `φρονησει`
+se traduce como entendimiento, sabiduría, prudencia.</rf></rb>
+<t xml:lang="es">,</t>
 </sv>
-		<sv id="Ephesians-1-9">
+<sv id="Ephesians-1-9">
 making known to us the mystery of his will, according to
 his good pleasure which he purposed in him
+<t xml:lang="es"><wi type="G" value="1107,1,"><wi type="G" value="2254,2,">dándonos a conocer</wi></wi>
+<wi type="G" value="3588,3,"><wi type="G" value="3466,4,">el misterio</wi></wi>
+<wi type="G" value="846,7,">de su</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2307,6,">voluntad</wi></wi>,
+<wi type="G" value="2596,8,">acorde a</wi>
+<wi type="G" value="846,11,">su</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="2107,10,">buen deseo</wi></wi>
+<wi type="G" value="3739,12,">que</wi>
+<wi type="G" value="4388,13,">se había propuesto</wi>
+<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="846,15,">si mismo</wi></t>
 </sv>
-		<sv id="Ephesians-1-10">
+<sv id="Ephesians-1-10">
 to an administration of the
 fullness of the times, to sum up all things in Christ, the things in the
 heavens, and the things on the earth, in him;
