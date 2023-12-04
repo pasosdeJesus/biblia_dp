@@ -234,12 +234,30 @@ we should be to the praise of his glory, we who had before hoped in Christ:
 </sv>
 <sv id="Ephesians-1-13">
 in whom you
-<wi type="T" value="P"/> also, having heard the word of the truth, the Good News
+also, having heard the word of the truth, the Good News
 of your salvation,in whom, having also believed, you
-<wi type="T" value="P"/> were sealed with
-the Holy Spirit of promise,
+were sealed with the Holy Spirit of promise,
+<t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="3739,2,">quien</wi>
+<wi type="G" value="5210,4,">ustedes</wi>
+<wi type="G" value="2532,3,">también</wi>,
+<wi type="G" value="191,5,">habiendo oído</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="3056,7,">la palabra</wi></wi>
+<wi type="G" value="3588,8,"><wi type="G" value="225,9,">de verdad</wi></wi>,
+<wi type="G" value="3588,10,"><wi type="G" value="2098,11,">las Buenas Nuevas</wi></wi>
+<wi type="G" value="5216,14,">de su</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="4991,13,">salvación</wi></wi>,
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="3739,16,">quien</wi>, habiendo
+<wi type="G" value="2532,17,">también</wi>
+<wi type="G" value="4100,18,">creído</wi>,
+<wi type="G" value="4972,19,">ustedes fueron sellados</wi>
+<wi type="G" value="3588,24,">con el</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="4151,21,">Espíritu</wi></wi>
+<wi type="G" value="40,25,">Santo</wi>
+<wi type="G" value="3588,22,"><wi type="G" value="1860,23,">de la promesa</wi></wi>. </t>
 </sv>
-		<sv id="Ephesians-1-14">
+<sv id="Ephesians-1-14">
 who is a pledge of our inheritance, to the
 redemption of God´s own possession, to the praise of his glory.
 </sv>
