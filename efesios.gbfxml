@@ -260,12 +260,37 @@ were sealed with the Holy Spirit of promise,
 <sv id="Ephesians-1-14">
 who is a pledge of our inheritance, to the
 redemption of God´s own possession, to the praise of his glory.
+<t xml:lang="es"><wi type="G" value="3739,1,">quien</wi>
+<wi type="G" value="2076,2,">es</wi>
+<wi type="G" value="728,3,">la garantía</wi>
+<wi type="G" value="2257,6,">de nuestra</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2817,5,">herencia</wi></wi>,
+<wi type="G" value="1519,7,">para</wi>
+<wi type="G" value="629,8,">la redención</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="4047,10,">de la posesión</wi></wi>,
+<wi type="G" value="1519,11,">para</wi>
+<wi type="G" value="1868,12,">la alabanza</wi>
+<wi type="G" value="846,15,">de</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1391,14,">su gloria</wi></wi>.</t>
 </sv>
-		<sv id="Ephesians-1-15">
+<sv id="Ephesians-1-15">
 For
 this cause I also, having heard of the faith in the Lord Jesus which is among
-you, and the love which you
-<wi type="T" value="P"/> have toward all the saints,
+you, and the love which you have toward all the saints,
+<t xml:lang="es"><wi type="G" value="1223,1,">Por esto</wi>
+<wi type="G" value="5124,2,"/><wi type="G" value="2504,3,">yo</wi> también,
+<wi type="G" value="191,4,">habiendo oído</wi>
+<wi type="G" value="2596,6,">de</wi>
+<wi type="G" value="5209,7,">su</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="4102,8,">fe</wi></wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2962,11,">el Señor</wi></wi>
+<wi type="G" value="2424,12,">Jesús</wi>,
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="26,15,">el amor</wi></wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="1519,17,">por</wi>
+<wi type="G" value="3956,18,">todos</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="40,20,">los santos</wi></wi>. </t>
 </sv>
 		<sv id="Ephesians-1-16">
 don´t
