@@ -293,8 +293,19 @@ you, and the love which you have toward all the saints,
 <wi type="G" value="3588,19,"><wi type="G" value="40,20,">los santos</wi></wi>. </t>
 </sv>
 		<sv id="Ephesians-1-16">
-don´t
-cease to give thanks for you, making mention of you in my prayers,
+don´t cease to give thanks for you, making mention of you in my prayers,
+<t xml:lang="es"><wi type="G" value="3756,1,">no</wi>
+<wi type="G" value="3973,2,">ceso</wi>
+<wi type="G" value="2168,3,">de dar gracias</wi>
+<wi type="G" value="5228,4,">por</wi>
+<wi type="G" value="5216,5,">ustedes</wi>,
+<wi type="G" value="4160,8,">haciendo</wi>
+<wi type="G" value="3417,6,">mención</wi>
+<wi type="G" value="5216,7,">de ustedes</wi>
+<wi type="G" value="1909,9,">en</wi>
+<wi type="G" value="3450,12,">mis</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="4335,11,">oraciones</wi></wi>,
+</t>
 </sv>
 		<sv id="Ephesians-1-17">
 that
