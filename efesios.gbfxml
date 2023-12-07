@@ -155,9 +155,9 @@ and prudence,
 </t>
 <rb xml:lang="es">
 <wi type="G" value="5428,9,">prudencia</wi><rf><citebib id="WEB"/> y
-<citebib id="KJV2003"/> dicen prudencia,
-<citebib id="RVR1960"/> dice inteligencia.
-Según <citebib id="Thayer-BLB"/> la palabra griega `φρονησει`
+<citebib id="KJV2003"/> dicen `prudencia´,
+<citebib id="RVR1960"/> dice `inteligencia´.
+Según <citebib id="Thayer-BLB"/> la palabra griega `φρονησει´
 se traduce como entendimiento, sabiduría, prudencia.</rf></rb>
 <t xml:lang="es">,</t>
 </sv>
@@ -307,21 +307,61 @@ don´t cease to give thanks for you, making mention of you in my prayers,
 <wi type="G" value="3588,10,"><wi type="G" value="4335,11,">oraciones</wi></wi>,
 </t>
 </sv>
-		<sv id="Ephesians-1-17">
+<sv id="Ephesians-1-17">
 that
 the God of our Lord Jesus Christ, the Father of glory, may give to you a
 spirit of wisdom and revelation in the knowledge of him;
+<t xml:lang="es"><wi type="G" value="2443,1,">que</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="2316,3,">el Dios</wi></wi>
+<wi type="G" value="2257,6,">de nuestro</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2962,5,">Señor</wi></wi>
+<wi type="G" value="2424,7,">Jesús</wi>
+<wi type="G" value="5547,8,">Cristo</wi>,
+<wi type="G" value="3588,9,"><wi type="G" value="3962,10,">el Padre</wi></wi>
+<wi type="G" value="3588,11,"><wi type="G" value="1391,12,">de gloria</wi></wi>,
+<wi type="G" value="1325,13,"><wi type="G" value="5213,14,">pueda darles</wi></wi>
+<wi type="G" value="4151,15,">el espíritu</wi>
+<wi type="G" value="4678,16,">de sabiduría</wi>
+<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="602,18,">revelación</wi>
+<wi type="G" value="1722,19,">en</wi> <wi type="G" value="1922,20,">el conocimiento</wi>
+<wi type="G" value="846,21,">de Él</wi>;</t>
 </sv>
-		<sv id="Ephesians-1-18">
-having the
-eyes of your
+<sv id="Ephesians-1-18">
+having the eyes of your
+<t xml:lang="es"><wi type="G" value="5461,1,">alumbrando</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="3788,3,">los ojos</wi></wi>
+<wi type="G" value="5216,6,">de sus</wi></t>
 <rb>hearts
-<t xml:lang="es"/><rf>TR reads «understanding» instead of «hearts»<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="3588,4,"><wi type="G"
+value="1271,5,">mentes</wi></wi></t><rf>TR reads «understanding» instead of «hearts»
+<t xml:lang="es"><citebib id="WEB"/> y <citebib id="RVG2012"/> dicen
+`corazones´ TR  y <citebib id="KJV2003"/> dicen `entendimiento.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `διανοιας´
+se traduce como mente, entendimiento, imaginación.
+ </t></rf>
 </rb>
-
 enlightened, that you
-<wi type="T" value="P"/> may know what is the hope of his calling, and what
+may know what is the hope of his calling, and what
 are the riches of the glory of his inheritance in the saints,
+<t xml:lang="es">
+<wi type="G" value="1519,7,">para</wi>
+<wi type="G" value="3588,8,">que</wi>
+<wi type="G" value="5209,10,">ustedes</wi>
+<wi type="G" value="1492,9,">puedan conocer</wi>
+<wi type="G" value="5101,11,">cual</wi>
+<wi type="G" value="2076,12,">es</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1680,14,">la esperanza</wi></wi>
+<wi type="G" value="846,17,">de su</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2821,16,">llamado</wi></wi>,
+<wi type="G" value="2532,18,">y</wi>
+<wi type="G" value="5101,19,">cuales</wi>
+son <wi type="G" value="3588,20,"><wi type="G" value="4149,21,">las riquezas</wi></wi>
+<wi type="G" value="3588,22,"><wi type="G" value="1391,23,">de gloria</wi></wi>
+<wi type="G" value="846,26,">de su</wi>
+<wi type="G" value="3588,24,"><wi type="G" value="2817,25,">herencia</wi></wi>
+<wi type="G" value="1722,27,">en</wi>
+<wi type="G" value="3588,28,"/><wi type="G" value="40,29,">los santos</wi>, </t>
 </sv>
 		<sv id="Ephesians-1-19">
 and what
