@@ -436,14 +436,40 @@ sobre <wi type="G" value="3956,11,">todo</wi>
 		<sv id="Ephesians-1-22">
 He put all things in subjection under his feet,
 and gave him to be head over all things for the assembly,
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi> </t>
+<rb xml:lang="es"><wi type="G" value="5293,3,">sometió</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `puso,´
+<citebib id="RVG2012"/> dice `sometió.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`ὑποτάσσω´ se traduce como poner bajo, subyugar, someterse, poner en sujeción.
+</rf></rb>
+ <t xml:lang="es">
+<wi type="G" value="3956,2,">todas las cosas</wi>
+<wi type="G" value="5259,4,">bajo</wi>
+<wi type="G" value="846,7,">sus</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="4228,6,">pies</wi></wi>,
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="846,9,">lo</wi>
+<wi type="G" value="1325,10,">dio</wi>
+por <wi type="G" value="2776,11,">cabeza</wi>
+<wi type="G" value="5228,12,">sobre</wi>
+<wi type="G" value="3956,13,">toda</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="1577,15,">la iglesia</wi></wi>,</t>
 </sv>
 		<sv id="Ephesians-1-23">
 which is his
 body, the fullness of him who fills all in all.
-
+<t xml:lang="es"><wi type="G" value="3748,1,">la cual</wi>
+<wi type="G" value="2076,2,">es</wi>
+<wi type="G" value="846,5,">su</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="4983,4,">cuerpo</wi></wi>,
+<wi type="G" value="3588,6,"><wi type="G" value="4138,7,">la plenitud</wi></wi>
+<wi type="G" value="3588,8,">del que lo</wi>
+<wi type="G" value="4137,12,">llena</wi>
+<wi type="G" value="3956,9,">todo</wi>
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="3956,11,">todo</wi>.</t>
 <cl/>
-
-
 </sv></cm></sc>
 <sc id="Ephesians-2">
 <cm>
