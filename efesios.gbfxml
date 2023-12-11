@@ -475,14 +475,39 @@ body, the fullness of him who fills all in all.
 <cm>
 <sv id="Ephesians-2-1">
 You were made alive when you
-<wi type="T" value="P"/> were dead in transgressions and
-sins,
+were dead in transgressions and sins,
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+para <wi type="G" value="5209,2,">ustedes</wi>
+<wi type="G" value="5607,3,">que estaban</wi>
+<wi type="G" value="3498,4,">muertos</wi> en
+<wi type="G" value="3588,5,"><wi type="G" value="3900,6,">transgresiones</wi></wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="266,9,">pecados</wi></wi>,</t>
 </sv>
-		<sv id="Ephesians-2-2">
+<sv id="Ephesians-2-2">
 in which you
-<wi type="T" value="P"/> once walked according to the course of this
+once walked according to the course of this
 world, according to the prince of the powers of the air, the spirit who now
 works in the children of disobedience;
+<t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="3739,2,">los que</wi>
+<wi type="G" value="4218,3,">antes</wi>
+<wi type="G" value="4043,4,">caminaron</wi>
+<wi type="G" value="2596,5,">de acuerdo</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="165,7,">al curso</wi></wi>
+<wi type="G" value="5127,10,">de este</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2889,9,">mundo</wi></wi>,
+<wi type="G" value="2596,11,">de acuerdo</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="758,13,">al príncipe</wi></wi>
+<wi type="G" value="3588,14,"><wi type="G" value="1849,15,">de la potestad</wi></wi>
+<wi type="G" value="3588,16,"><wi type="G" value="109,17,">del aire</wi></wi>,
+<wi type="G" value="3588,18,"><wi type="G" value="4151,19,">el espíritu</wi></wi>
+<wi type="G" value="3588,20,">que</wi>
+<wi type="G" value="3568,21,">ahora</wi>
+<wi type="G" value="1754,22,">obra</wi>
+<wi type="G" value="1722,23,">en</wi>
+<wi type="G" value="3588,24,"><wi type="G" value="5207,25,">los hijos</wi></wi>
+<wi type="G" value="3588,26,"><wi type="G" value="543,27,">de desobediencia</wi></wi>;</t>
 </sv>
 		<sv id="Ephesians-2-3">
 among whom we also all once lived
