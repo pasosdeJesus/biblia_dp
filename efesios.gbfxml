@@ -509,14 +509,57 @@ works in the children of disobedience;
 <wi type="G" value="3588,24,"><wi type="G" value="5207,25,">los hijos</wi></wi>
 <wi type="G" value="3588,26,"><wi type="G" value="543,27,">de desobediencia</wi></wi>;</t>
 </sv>
-		<sv id="Ephesians-2-3">
+<sv id="Ephesians-2-3">
 among whom we also all once lived
 in the lust of our flesh, doing the desires of the flesh and of the mind, and
 were by nature children of wrath, even as the rest.
+<t xml:lang="es"><wi type="G" value="1722,1,">entre</wi>
+<wi type="G" value="3739,2,">quienes</wi>
+<wi type="G" value="2532,3,">también</wi>
+<wi type="G" value="3956,5,">todos</wi>
+<wi type="G" value="2249,4,">nosotros</wi>
+<wi type="G" value="4218,7,">una vez</wi> </t>
+<rb xml:lang="es"><wi type="G" value="390,6,">vivimos</wi><rf>
+<citebib id="WEB"/> dice `vivimos´,
+<citebib id="KJV2003"/> dice `teníamos conversaciones.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `ανεστραφημεν´
+se traduce como dar vuelta, regresar, metaforicamente conducirse, comportarse,
+vivir. </rf></rb>
+<t xml:lang="es">
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="1939,10,">la lujuria</wi></wi>
+<wi type="G" value="2257,13,">de nuestra</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="4561,12,">carne</wi></wi>,
+<wi type="G" value="4160,14,">complaciendo</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2307,16,">los deseos</wi></wi>
+<wi type="G" value="3588,17,"><wi type="G" value="4561,18,">de la carne</wi></wi>
+<wi type="G" value="2532,19,">y</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="1271,21,">de la mente</wi></wi>,
+<wi type="G" value="2532,22,">y</wi>
+<wi type="G" value="5449,25,">por naturaleza</wi>
+<wi type="G" value="1510,23,">eramos</wi>
+<wi type="G" value="5043,24,">hijos</wi>
+<wi type="G" value="3709,26,">de la ira</wi>,
+<wi type="G" value="2532,28,">y</wi>
+<wi type="G" value="5613,27,">como</wi>
+<wi type="G" value="3588,29,"/><wi type="G" value="3062,30,">los demás</wi>.</t>
 </sv>
-		<sv id="Ephesians-2-4">
+<sv id="Ephesians-2-4">
 But God, being rich
 in mercy, for his great love with which he loved us,
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="2316,3,">Dios</wi>,
+<wi type="G" value="5607,5,">siendo</wi>
+<wi type="G" value="4145,4,">rico</wi>
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="1656,7,">misericordia</wi>,
+<wi type="G" value="1223,8,">por</wi>
+<wi type="G" value="846,12,">su</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="4183,10,">gran</wi>
+<wi type="G" value="26,11,">amor</wi>
+<wi type="G" value="3739,13,">con el que</wi>
+<wi type="G" value="2248,15,">nos</wi>
+<wi type="G" value="25,14,">amó</wi>,</t>
 </sv>
 		<sv id="Ephesians-2-5">
 even when we were
