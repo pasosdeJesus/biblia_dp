@@ -559,19 +559,42 @@ in mercy, for his great love with which he loved us,
 <wi type="G" value="26,11,">amor</wi>
 <wi type="G" value="3739,13,">con el que</wi>
 <wi type="G" value="2248,15,">nos</wi>
-<wi type="G" value="25,14,">amó</wi>,</t>
+<wi type="G" value="25,14,">amó</wi>.</t>
 </sv>
-		<sv id="Ephesians-2-5">
+<sv id="Ephesians-2-5">
 even when we were
 dead through our trespasses, made us alive together with Christ (by grace
-you
-<wi type="T" value="P"/> have been saved),
+you have been saved),
+<t xml:lang="es"><wi type="G" value="2532,1,">Aún</wi> cuando
+<wi type="G" value="2248,3,">nosotros</wi>
+<wi type="G" value="5607,2,">estábamos</wi>
+<wi type="G" value="3498,4,">muertos</wi>
+en <wi type="G" value="3588,5,"><wi type="G" value="3900,6,">pecados</wi></wi>,
+nos <wi type="G" value="4806,7,">hizo vivir juntamente con</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="5547,9,">Cristo</wi></wi>
+(<wi type="G" value="5485,10,">por gracia</wi>
+<wi type="G" value="2075,11,">ustedes han sido</wi>
+<wi type="G" value="4982,12,">salvados</wi>),</t>
 </sv>
-		<sv id="Ephesians-2-6">
+<sv id="Ephesians-2-6">
 and raised us up with him, and made us to sit
 with him in the heavenly places in Christ Jesus,
+<t xml:lang="es"><wi type="G" value="3588,6,"/><wi type="G" value="2532,1,">Y</wi> nos
+<wi type="G" value="4891,2,">ha resucitado</wi> con Él,
+<wi type="G" value="2532,3,">y</wi> nos
+<wi type="G" value="4776,4,">hizo sentar</wi> con Él
+<wi type="G" value="1722,5,">en</wi> </t>
+<rb xml:lang="es"><wi type="G" value="2032,7,">los cielos</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `lugares celestiales´,
+<citebib id="RVG2012"/> dice `los cielos´.
+Según <citebib id="Thayer-BLB"/> el adjetivo griego `επουρανιοις´
+se traduce como celestial, cielo, alto.
+</rf></rb>
+<wi type="G" value="1722,8,">con</wi>
+<wi type="G" value="5547,9,">Cristo</wi>
+<wi type="G" value="2424,10,">Jesús</wi>,</t>
 </sv>
-		<sv id="Ephesians-2-7">
+<sv id="Ephesians-2-7">
 that in the ages to
 come he might show the exceeding riches of his grace in kindness toward us in
 Christ Jesus;
