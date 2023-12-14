@@ -547,7 +547,8 @@ vivir. </rf></rb>
 <sv id="Ephesians-2-4">
 But God, being rich
 in mercy, for his great love with which he loved us,
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="2316,3,">Dios</wi>,
 <wi type="G" value="5607,5,">siendo</wi>
 <wi type="G" value="4145,4,">rico</wi>
@@ -565,7 +566,8 @@ in mercy, for his great love with which he loved us,
 even when we were
 dead through our trespasses, made us alive together with Christ (by grace
 you have been saved),
-<t xml:lang="es"><wi type="G" value="2532,1,">Aún</wi> cuando
+<t xml:lang="es">
+<wi type="G" value="2532,1,">Aún</wi> cuando
 <wi type="G" value="2248,3,">nosotros</wi>
 <wi type="G" value="5607,2,">estábamos</wi>
 <wi type="G" value="3498,4,">muertos</wi>
@@ -574,12 +576,14 @@ nos <wi type="G" value="4806,7,">hizo vivir juntamente con</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="5547,9,">Cristo</wi></wi>
 (<wi type="G" value="5485,10,">por gracia</wi>
 <wi type="G" value="2075,11,">ustedes han sido</wi>
-<wi type="G" value="4982,12,">salvados</wi>),</t>
+<wi type="G" value="4982,12,">salvados</wi>),
+</t>
 </sv>
 <sv id="Ephesians-2-6">
 and raised us up with him, and made us to sit
 with him in the heavenly places in Christ Jesus,
-<t xml:lang="es"><wi type="G" value="3588,6,"/><wi type="G" value="2532,1,">Y</wi> nos
+<t xml:lang="es">
+<wi type="G" value="3588,6,"/><wi type="G" value="2532,1,">Y</wi> nos
 <wi type="G" value="4891,2,">ha resucitado</wi> con Él,
 <wi type="G" value="2532,3,">y</wi> nos
 <wi type="G" value="4776,4,">hizo sentar</wi> con Él
@@ -590,6 +594,7 @@ with him in the heavenly places in Christ Jesus,
 Según <citebib id="Thayer-BLB"/> el adjetivo griego `επουρανιοις´
 se traduce como celestial, cielo, alto.
 </rf></rb>
+<t xml:lang="es">
 <wi type="G" value="1722,8,">con</wi>
 <wi type="G" value="5547,9,">Cristo</wi>
 <wi type="G" value="2424,10,">Jesús</wi>,</t>
@@ -598,13 +603,42 @@ se traduce como celestial, cielo, alto.
 that in the ages to
 come he might show the exceeding riches of his grace in kindness toward us in
 Christ Jesus;
+<t xml:lang="es"><wi type="G" value="2443,1,">Para</wi>
+<wi type="G" value="1731,2,">mostrarnos</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="165,5,">las épocas</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="1904,7,">por venir</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="5235,9,">las magnificas</wi>
+<wi type="G" value="4149,10,">riquezas</wi>
+<wi type="G" value="846,13,">de Su</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="5485,12,">gracia</wi></wi>
+<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="5544,15,">bondad</wi>
+<wi type="G" value="1909,16,">hacia</wi>
+<wi type="G" value="2248,17,">nosotros</wi>
+<wi type="G" value="1722,18,">en</wi>
+<wi type="G" value="5547,19,">Cristo</wi>
+<wi type="G" value="2424,20,">Jesús</wi>;</t>
 </sv>
-		<sv id="Ephesians-2-8">
-for by grace you
-<wi type="T" value="P"/> have been saved through faith, and
+<sv id="Ephesians-2-8">
+for by grace you have been saved through faith, and
 that not of yourselves; it is the gift of God,
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">pues</wi>
+<wi type="G" value="5485,3,">por gracia</wi>
+<wi type="G" value="2075,4,">han sido</wi>
+<wi type="G" value="4982,5,">salvados</wi>
+<wi type="G" value="1223,6,">mediante</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="4102,8,">la fe</wi></wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="5124,10,">esto</wi>
+<wi type="G" value="3756,11,">no</wi> es
+<wi type="G" value="1537,12,">por</wi>
+<wi type="G" value="5216,13,">ustedes mismos</wi>; es
+<wi type="G" value="3588,15,"><wi type="G" value="1435,16,">un regalo</wi></wi>
+<wi type="G" value="2316,14,">de Dios</wi>.</t>
 </sv>
-		<sv id="Ephesians-2-9">
+<sv id="Ephesians-2-9">
 not of works, that no one
 would boast.
 </sv>
