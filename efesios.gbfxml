@@ -636,28 +636,66 @@ that not of yourselves; it is the gift of God,
 <wi type="G" value="1537,12,">por</wi>
 <wi type="G" value="5216,13,">ustedes mismos</wi>; es
 <wi type="G" value="3588,15,"><wi type="G" value="1435,16,">un regalo</wi></wi>
-<wi type="G" value="2316,14,">de Dios</wi>.</t>
+<wi type="G" value="2316,14,">de Dios</wi>,</t>
 </sv>
 <sv id="Ephesians-2-9">
 not of works, that no one
 would boast.
+<t xml:lang="es"><wi type="G" value="3756,1,">no</wi>
+<wi type="G" value="1537,2,">por</wi>
+<wi type="G" value="2041,3,">obras</wi>,
+<wi type="G" value="2443,4,">para que</wi>
+<wi type="G" value="3361,5,"><wi type="G" value="5100,6,">ninguno</wi></wi>
+<wi type="G" value="2744,7,">pueda presumir</wi>.</t>
 </sv>
-		<sv id="Ephesians-2-10">
+<sv id="Ephesians-2-10">
 For we are his workmanship, created in Christ Jesus for
 good works, which God prepared before that we would walk in them.
-<t xml:lang="es">Pues somos su manufactura, creados en Jesús el Cristo para
-las buenas obras, las cuales Dios preparó antes de que fueramos
-entre estas. </t>
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2070,3,">somos</wi>
+<wi type="G" value="846,1,">Su</wi>
+<wi type="G" value="4161,4,">manufactura</wi>,
+<wi type="G" value="2936,5,">creados</wi>
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="5547,7,">Cristo</wi>
+<wi type="G" value="2424,8,">Jesús</wi>
+<wi type="G" value="1909,9,">para</wi>
+las <wi type="G" value="18,11,">buenas</wi>
+<wi type="G" value="2041,10,">obras</wi>,
+<wi type="G" value="3739,12,">las cuales</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2316,15,">Dios</wi></wi>
+<wi type="G" value="4282,13,">preparó</wi>
+<wi type="G" value="2443,16,">para que</wi>
+<wi type="G" value="4043,19,">anduviéramos</wi>
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="846,18,">estas</wi>. </t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Ephesians-2-11">
-Therefore remember that once you
-<wi type="T" value="P"/>, the Gentiles in the flesh, who
+Therefore remember that once you, the Gentiles in the flesh, who
 are called «uncircumcision» by that which is called «circumcision,» (in the
 flesh, made by hands);
+<t xml:lang="es"><wi type="G" value="1352,1,">Entonces</wi>
+<wi type="G" value="3421,2,">recuerden</wi>
+<wi type="G" value="3754,3,">que</wi>
+<wi type="G" value="5210,4,">ustedes</wi>
+<wi type="G" value="4218,5,">antes</wi>,
+<wi type="G" value="3588,6,"><wi type="G" value="1484,7,">gentiles</wi></wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="4561,9,">la carne</wi>,
+<wi type="G" value="3588,10,">que</wi> son
+<wi type="G" value="3004,11,">llamados</wi>
+<wi type="G" value="203,12,">incircuncisos</wi>
+<wi type="G" value="5259,13,">por</wi>
+<wi type="G" value="3588,14,">los que</wi> se
+<wi type="G" value="3004,15,">llaman</wi>
+<wi type="G" value="4061,16,">circuncisos</wi>,
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="4561,18,">la carne</wi>,
+<wi type="G" value="5499,19,">hecha por manos</wi>;</t>
 </sv>
-		<sv id="Ephesians-2-12">
+<sv id="Ephesians-2-12">
 that you
 <wi type="T" value="P"/> were at that time separate from
 Christ, alienated from the commonwealth of Israel, and strangers from the
