@@ -697,17 +697,53 @@ flesh, made by hands);
 </sv>
 <sv id="Ephesians-2-12">
 that you
-<wi type="T" value="P"/> were at that time separate from
+were at that time separate from
 Christ, alienated from the commonwealth of Israel, and strangers from the
 covenants of the promise, having no hope and without God in the world.
+<t xml:lang="es"><wi type="G" value="3754,1,">que</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="1565,6,">ese</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2540,5,">tiempo</wi></wi>
+<wi type="G" value="2258,2,">ustedes estaban</wi>
+<wi type="G" value="5565,7,">sin</wi>
+<wi type="G" value="5547,8,">Cristo</wi>,
+<wi type="G" value="526,9,">alejados</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="4174,11,">de la ciudadanía</wi></wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="2474,13,">de Israel</wi>,
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="3581,15,">extranjeros</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="1242,17,">al pacto</wi></wi>
+<wi type="G" value="3588,18,"><wi type="G" value="1860,19,">de la promesa</wi></wi>,
+<wi type="G" value="2192,22,"><wi type="G" value="3361,21,">carentes de</wi></wi>
+<wi type="G" value="1680,20,">esperanza</wi>
+<wi type="G" value="2532,23,">y</wi>
+<wi type="G" value="112,24,">de Dios</wi>
+<wi type="G" value="1722,25,">en</wi>
+<wi type="G" value="3588,26,"><wi type="G" value="2889,27,">el mundo</wi></wi>.
+</t>
+</sv>
+<sv id="Ephesians-2-13">
+But now in Christ Jesus you
+who once were far off are made near in
+the blood of Christ.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="3570,1,">ahora</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="5547,4,">Cristo</wi>
+<wi type="G" value="2424,5,">Jesús</wi>
+<wi type="G" value="5210,6,">ustedes</wi>
+<wi type="G" value="3588,7,">que</wi>
+<wi type="G" value="4218,8,">una vez</wi>
+<wi type="G" value="5607,9,">estuvieron</wi>
+<wi type="G" value="3112,10,">lejos</wi>
+<wi type="G" value="1096,12,">son</wi>
+<wi type="G" value="1451,11,">acercados</wi>
+<wi type="G" value="1722,13,">por</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="129,15,">la sangre</wi></wi>
+<wi type="G" value="3588,16,"><wi type="G" value="5547,17,">de Cristo</wi></wi>.</t>
 
 </sv>
-		<sv id="Ephesians-2-13">
-But now in Christ Jesus you
-<wi type="T" value="P"/> who once were far off are made near in
-the blood of Christ.
-</sv>
-		<sv id="Ephesians-2-14">
+<sv id="Ephesians-2-14">
 For he is our peace, who made both one, and broke
 down the middle wall of partition,
 </sv>
