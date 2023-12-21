@@ -782,7 +782,7 @@ create in himself one new man of the two, making peace;
 <wi type="G" value="1520,21,">un</wi>
 <wi type="G" value="2537,22,">nuevo</wi>
 <wi type="G" value="444,23,">hombre</wi>
-<wi type="G" value="4160,24,">haciendo</wi>
+y <wi type="G" value="4160,24,">haciendo</wi>
 <wi type="G" value="1515,25,">paz</wi>;
 </t>
 </sv>
@@ -790,32 +790,55 @@ create in himself one new man of the two, making peace;
 and might
 reconcile them both in one body to God through the cross, having killed the
 hostility thereby.
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="846,17,">Él</wi>
+<wi type="G" value="604,2,">reconcilió</wi>
+a <wi type="G" value="3588,3,"/><wi type="G" value="297,4,">ambos</wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="1520,6,">un</wi>
+<wi type="G" value="4983,7,">cuerpo</wi>
+para <wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>
+<wi type="G" value="1223,10,">por</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="4716,12,">la cruz</wi></wi>,
+<wi type="G" value="615,13,">destruyendo</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2189,15,">la
+hostilidad</wi></wi><wi type="G" value="1722,16,"/>.</t>
 </sv>
-		<sv id="Ephesians-2-17">
+<sv id="Ephesians-2-17">
 He came and preached peace to you who were far off
 and to those who were near.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="2064,2,">vino</wi>
+<wi type="G" value="2097,3,">y predicó</wi>
+<wi type="G" value="1515,4,">paz</wi> para
+<wi type="G" value="5213,5,">ustedes</wi>
+<wi type="G" value="3588,6,">que</wi> estaban
+<wi type="G" value="3112,7,">lejos</wi>
+<wi type="G" value="2532,8,">y</wi> para
+<wi type="G" value="3588,9,">los que</wi>
+estaban <wi type="G" value="1451,10,">cerca</wi>.</t>
 </sv>
 		<sv id="Ephesians-2-18">
 For through him we both have our access in
 one Spirit to the Father.
 </sv>
-		<sv id="Ephesians-2-19">
+<sv id="Ephesians-2-19">
 So then you
 <wi type="T" value="P"/> are no longer strangers and
 foreigners, but you
 <wi type="T" value="P"/> are fellow citizens with the saints, and of the
 household of God,
 </sv>
-		<sv id="Ephesians-2-20">
+<sv id="Ephesians-2-20">
 being built on the foundation of the apostles and
 prophets, Christ Jesus himself being the chief cornerstone;
 </sv>
-		<sv id="Ephesians-2-21">
+<sv id="Ephesians-2-21">
 in whom the
 whole building, fitted together, grows into a holy temple in the Lord;
 
 </sv>
-		<sv id="Ephesians-2-22">
+<sv id="Ephesians-2-22">
 in whom you
 <wi type="T" value="P"/> also are built together for a habitation of God in the
 Spirit.
