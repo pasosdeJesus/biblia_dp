@@ -821,13 +821,37 @@ estaban <wi type="G" value="1451,10,">cerca</wi>.</t>
 		<sv id="Ephesians-2-18">
 For through him we both have our access in
 one Spirit to the Father.
+<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
+<wi type="G" value="1223,2,">por</wi>
+<wi type="G" value="846,3,">Él</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="297,8,">ambos</wi>
+<wi type="G" value="2192,4,">tenemos</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="4318,6,">entrada</wi></wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="1520,10,">un</wi>
+<wi type="G" value="4151,11,">Espíritu</wi>
+<wi type="G" value="4314,12,">al</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="3962,14,">Padre</wi></wi>.</t>
 </sv>
 <sv id="Ephesians-2-19">
 So then you
-<wi type="T" value="P"/> are no longer strangers and
+are no longer strangers and
 foreigners, but you
-<wi type="T" value="P"/> are fellow citizens with the saints, and of the
+are fellow citizens with the saints, and of the
 household of God,
+<t xml:lang="es"><wi type="G" value="686,1,">Entonces</wi> 
+<wi type="G" value="3767,2,">ahora</wi>
+<wi type="G" value="3765,3,">ya no</wi>
+<wi type="G" value="2075,4,">son</wi>
+<wi type="G" value="3581,5,">extraños</wi>
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="3941,7,">extranjeros</wi>,
+<wi type="G" value="235,8,">sino</wi>
+<wi type="G" value="4847,9,">conciudadanos</wi> con
+<wi type="G" value="3588,10,"/><wi type="G" value="40,11,">los santos</wi>,
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="3609,13,">de la casa</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2316,15,">de Dios</wi></wi>,</t>
 </sv>
 <sv id="Ephesians-2-20">
 being built on the foundation of the apostles and
