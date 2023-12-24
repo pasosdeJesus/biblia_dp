@@ -839,7 +839,7 @@ are no longer strangers and
 foreigners, but you
 are fellow citizens with the saints, and of the
 household of God,
-<t xml:lang="es"><wi type="G" value="686,1,">Entonces</wi> 
+<t xml:lang="es"><wi type="G" value="686,1,">Entonces</wi>
 <wi type="G" value="3767,2,">ahora</wi>
 <wi type="G" value="3765,3,">ya no</wi>
 <wi type="G" value="2075,4,">son</wi>
@@ -856,11 +856,33 @@ household of God,
 <sv id="Ephesians-2-20">
 being built on the foundation of the apostles and
 prophets, Christ Jesus himself being the chief cornerstone;
+<t xml:lang="es"><wi type="G" value="2026,1,">construido</wi>
+<wi type="G" value="1909,2,">sobre</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2310,4,">el fundamento</wi></wi>
+<wi type="G" value="3588,5,"><wi type="G" value="652,6,">de los apóstoles</wi></wi>
+<wi type="G" value="2532,7,">y</wi>
+
+<wi type="G" value="4396,8,">de los profetas</wi>,
+<wi type="G" value="5607,9,">siendo</wi>
+<wi type="G" value="846,11,">Él</wi>,
+<wi type="G" value="2424,12,">Jesús</wi>
+<wi type="G" value="5547,13,">Cristo</wi>,
+<wi type="G" value="204,10,">la piedra fundamental</wi>;</t>
 </sv>
 <sv id="Ephesians-2-21">
 in whom the
 whole building, fitted together, grows into a holy temple in the Lord;
-
+<t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="3739,2,">quien</wi>
+<wi type="G" value="3956,3,">todo</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="3619,5,">el edificio</wi></wi>,
+<wi type="G" value="4883,6,">es armado</wi>,
+<wi type="G" value="837,7,">creciendo</wi>
+<wi type="G" value="1519,8,">para</wi> ser
+<wi type="G" value="3485,9,">un templo</wi>
+<wi type="G" value="40,10,">santo</wi>
+<wi type="G" value="1722,11,">en</wi>
+<wi type="G" value="2962,12,">el Señor</wi>;</t>
 </sv>
 <sv id="Ephesians-2-22">
 in whom you
