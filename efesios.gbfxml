@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0" encoding="utf-8"?>
 
 <sb id="Ephesians" type="" xml:lang="">
 <tt>Paul´s Letter to the Ephesians<t xml:lang="es"/></tt>
@@ -885,19 +884,35 @@ whole building, fitted together, grows into a holy temple in the Lord;
 <wi type="G" value="2962,12,">el Señor</wi>;</t>
 </sv>
 <sv id="Ephesians-2-22">
-in whom you
-<wi type="T" value="P"/> also are built together for a habitation of God in the
+in whom you also are built together for a habitation of God in the
 Spirit.
-
+<t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="3739,2,">quien</wi>
+<wi type="G" value="5210,4,">ustedes</wi>
+<wi type="G" value="2532,3,">también</wi>
+<wi type="G" value="4925,5,">son edificados juntamente</wi>
+<wi type="G" value="1519,6,">como</wi> 
+<wi type="G" value="2732,7,">habitación</wi>
+para <wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="4151,11,">el Espíritu</wi>.</t>
 <cl/>
-
-
 </sv></cm></sc>
 <sc id="Ephesians-3">
 <cm>
 <sv id="Ephesians-3-1">
 For this cause I, Paul, am the prisoner of Christ Jesus on behalf
 of you Gentiles,
+<t xml:lang="es"><wi type="G" value="5484,2,">Por</wi> 
+<wi type="G" value="5127,1,">esto</wi>
+<wi type="G" value="1473,3,">yo</wi>,
+<wi type="G" value="3972,4,">Pablo</wi>,
+<wi type="G" value="3588,5,"><wi type="G" value="1198,6,">prisionero</wi></wi>
+<wi type="G" value="3588,7,"><wi type="G" value="5547,8,">de Cristo</wi></wi>
+<wi type="G" value="2424,9,">Jesús</wi>
+<wi type="G" value="5228,10,">por</wi>
+<wi type="G" value="5216,11,">ustedes</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="1484,13,">Gentiles</wi></wi>,</t>
 </sv>
 		<sv id="Ephesians-3-2">
 if it is so that you
