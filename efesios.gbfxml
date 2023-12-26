@@ -914,17 +914,37 @@ of you Gentiles,
 <wi type="G" value="5216,11,">ustedes</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="1484,13,">Gentiles</wi></wi>,</t>
 </sv>
-		<sv id="Ephesians-3-2">
+<sv id="Ephesians-3-2">
 if it is so that you
-<wi type="T" value="P"/> have heard of the
-administration of that grace of God which was given me toward you;
+have heard of the administration of that grace of God which was 
+given me toward you;
+<t xml:lang="es"><wi type="G" value="1489,1,">si</wi> 
+es que <wi type="G" value="191,2,">han oído</wi> 
+<wi type="G" value="3588,3,"><wi type="G" value="3622,4,">de la administración</wi></wi> 
+<wi type="G" value="3588,5,"><wi type="G" value="5485,6,">de la gracia</wi></wi> 
+<wi type="G" value="3588,7,"><wi type="G" value="2316,8,">de Dios</wi></wi> 
+<wi type="G" value="3588,9,">que</wi> 
+<wi type="G" value="3427,11,">me</wi> 
+<wi type="G" value="1325,10,">fue dada</wi> 
+<wi type="G" value="1519,12,">para</wi> 
+<wi type="G" value="5209,13,">ustedes</wi>;</t>
 </sv>
-		<sv id="Ephesians-3-3">
-how
-that by revelation the mystery was made known to me, as I wrote before in few
-words,
+<sv id="Ephesians-3-3">
+how that by revelation the mystery was made known to me, 
+as I wrote before in few words,
+<t xml:lang="es"><wi type="G" value="3754,1,">que</wi> 
+<wi type="G" value="2596,2,">por</wi> 
+<wi type="G" value="602,3,">revelación</wi> 
+<wi type="G" value="3427,5,">me</wi> 
+<wi type="G" value="1107,4,">fue dado a conocer</wi> 
+<wi type="G" value="3588,6,"><wi type="G" value="3466,7,">el misterio</wi></wi>,
+<wi type="G" value="2531,8,">como</wi> 
+<wi type="G" value="4270,9,">escribí antes</wi> 
+<wi type="G" value="1722,10,">en</wi> 
+<wi type="G" value="3641,11,">pocas palabras</wi>,
+</t>
 </sv>
-		<sv id="Ephesians-3-4">
+<sv id="Ephesians-3-4">
 by which, when you
 <wi type="T" value="P"/> read, you
 <wi type="T" value="P"/> can perceive my
