@@ -981,17 +981,44 @@ holy apostles and prophets in the Spirit;
 <wi type="G" value="1722,20,">en</wi>
 <wi type="G" value="4151,21,">el Espíritu</wi>;</t>
 </sv>
-		<sv id="Ephesians-3-6">
+<sv id="Ephesians-3-6">
 that the Gentiles are fellow
 heirs, and fellow members of the body, and fellow partakers of his promise in
 Christ Jesus through the Good News,
+<t xml:lang="es"><wi type="G" value="3588,2,">que</wi>
+<wi type="G" value="1484,3,">los gentiles</wi>
+<wi type="G" value="1511,1,">son</wi>
+<wi type="G" value="4789,4,">herederos</wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="4954,6,">del mismo cuerpo</wi>,
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="4830,8,">copartícipes</wi>
+<wi type="G" value="846,11,">de su</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="1860,10,">promesa</wi></wi>
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="5547,14,">Cristo</wi></wi>
+<wi type="G" value="1223,15,">por</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="2098,17,">el evangelio</wi></wi>.</t>
 </sv>
-		<sv id="Ephesians-3-7">
+<sv id="Ephesians-3-7">
 of which I was made a servant, according
 to the gift of that grace of God which was given me according to the working
 of his power.
+<t xml:lang="es"><wi type="G" value="3739,1,">del cual</wi>
+<wi type="G" value="1096,2,">fui hecho</wi>
+<wi type="G" value="1249,3,">servidor</wi>,
+<wi type="G" value="2596,4,">de acuerdo</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="1431,6,">al don</wi></wi>
+<wi type="G" value="3588,7,"><wi type="G" value="5485,8,">de la gracia</wi></wi>
+<wi type="G" value="3588,9,"><wi type="G" value="2316,10,">de Dios</wi></wi>
+que <wi type="G" value="3427,13,">me</wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="1325,12,">fue dado</wi>
+<wi type="G" value="2596,14,">por</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="1753,16,">la obra</wi></wi>
+<wi type="G" value="846,19,">de su</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="1411,18,">poder</wi></wi>.</t>
 </sv>
-		<sv id="Ephesians-3-8">
+<sv id="Ephesians-3-8">
 To me, the very least of all saints, was this grace given,
 to preach to the Gentiles the unsearchable riches of Christ,
 </sv>
