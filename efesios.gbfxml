@@ -1021,18 +1021,68 @@ que <wi type="G" value="3427,13,">me</wi>
 <sv id="Ephesians-3-8">
 To me, the very least of all saints, was this grace given,
 to preach to the Gentiles the unsearchable riches of Christ,
+<t xml:lang="es"><wi type="G" value="1698,1,">A mi</wi>,
+<wi type="G" value="3588,2,">que</wi> soy
+<wi type="G" value="1647,3,">el menor</wi>
+<wi type="G" value="3956,4,">de todos</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="40,6,">los santos</wi>,
+me <wi type="G" value="1325,7,">fue dada</wi>
+<wi type="G" value="3778,10,">esta</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="5485,9,">gracia</wi></wi>,
+<wi type="G" value="2097,14,">predicar</wi>
+<wi type="G" value="1722,11,">entre</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="1484,13,">los gentiles</wi></wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="421,16,">las insondables</wi>
+<wi type="G" value="4149,17,">riquezas</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="5547,19,">de Cristo</wi></wi>.
+</t>
 </sv>
-		<sv id="Ephesians-3-9">
+<sv id="Ephesians-3-9">
 and to make
 all men see what is the
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="5461,2,">hacer</wi> que
+<wi type="G" value="3956,3,">todos</wi>
+<wi type="GC" value="2">vean</wi>
+<wi type="G" value="5101,4,">cual</wi> es la</t>
 <rb>administration
-<t xml:lang="es"/><rf>TR reads «fellowship» instead
-of «administration»<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="3588,5,"><wi type="G" value="2842,6,">participación</wi></wi></t><rf>TR reads
+of «administration»
+<t xml:lang="es"><citebib id="WEB"/> dice  `administración´ con nota al
+pie "TR dice  «compañia» en lugar de «administración»."
+<citebib id="KJV2003"/> dice  `compañia,´
+<citebib id="RVG2012"/> dice `dispensación.´
+Según <citebib id="TR-BLB"/> la palabra griega `κοινωνια` se traduce
+como asociación, comunidad, comunión, participación, la participación que
+se tiene en algo, contribución.
+</t>
+</rf>
 </rb>
  of the mystery which for ages has been hidden in God,
 who created all things through Jesus Christ;
+<t xml:lang="es"><wi type="G" value="3588,7,"><wi type="G" value="3466,8,">del misterio</wi></wi>
+<wi type="G" value="3588,9,">que</wi> </t>
+<rb xml:lang="es"><wi type="G" value="575,11,">por</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="165,13,">eras</wi></wi><rf>
+<citebib id="WEB"/> dice `por eras,´
+<citebib id="KJV2003"/> dice `desde el comienzo del mundo,´
+<citebib id="RVG2012"/> dice `por siglos.´
+Según <citebib id="TR-BLB"/> la palabra griega `αιωνων´ es sustantivo plural
+siempre, mundo, nunca, por siempre, eras, eterno.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="613,10,">ha estado escondido</wi>
+<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2316,16,">Dios</wi></wi>,
+<wi type="G" value="3588,17,">quien</wi>
+<wi type="G" value="2936,20,">creó</wi>
+<wi type="G" value="3588,18,"/><wi type="G" value="3956,19,">todas las cosas</wi>
+<wi type="G" value="1223,21,">por</wi>
+<wi type="G" value="2424,22,">Jesús</wi>
+<wi type="G" value="5547,23,">Cristo</wi>;
+</t>
 </sv>
-		<sv id="Ephesians-3-10">
+<sv id="Ephesians-3-10">
 to the intent that now
 through the assembly the manifold wisdom of God might be made known to the
 principalities and the powers in the heavenly places,
