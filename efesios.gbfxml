@@ -1086,12 +1086,37 @@ siempre, mundo, nunca, por siempre, eras, eterno.
 to the intent that now
 through the assembly the manifold wisdom of God might be made known to the
 principalities and the powers in the heavenly places,
+<t xml:lang="es">
+<wi type="G" value="2443,1,">con la intención que</wi>
+<wi type="G" value="3568,3,">ahora</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="746,5,">los principados</wi></wi>
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="1849,8,">potestades</wi></wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="2032,11,">los lugares celestes</wi>.
+<wi type="G" value="1107,2,">conocieran</wi>
+<wi type="G" value="1223,12,">mediante</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1577,14,">la iglesia</wi></wi>,
+<wi type="G" value="3588,15,"/><wi type="G" value="4182,16,">la multiforme</wi>
+<wi type="G" value="4678,17,">sabiduría</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="2316,19,">de Dios</wi></wi>.
+</t>
 </sv>
-		<sv id="Ephesians-3-11">
+<sv id="Ephesians-3-11">
 according to the
 eternal purpose which he purposed in Christ Jesus our Lord;
+<t xml:lang="es"><wi type="G" value="2596,1,">de acuerdo</wi>
+<wi type="G" value="4286,2,">al propósito</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="165,4,">eterno</wi></wi>
+<wi type="G" value="3739,5,">que</wi>
+<wi type="G" value="4160,6,">se había hecho</wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="5547,8,">Cristo</wi>
+<wi type="G" value="2424,9,">Jesús</wi>
+<wi type="G" value="2257,12,">nuestro</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2962,11,">Señor</wi></wi>;</t>
 </sv>
-		<sv id="Ephesians-3-12">
+<sv id="Ephesians-3-12">
 in whom we
 have boldness and access in confidence through our faith in him.
 
