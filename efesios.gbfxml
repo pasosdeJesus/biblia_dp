@@ -1155,12 +1155,37 @@ que
 
 <sv id="Ephesians-3-14">
 For this cause, I bow my knees to the Father of our Lord Jesus Christ,
+<t xml:lang="es">
+<wi type="G" value="5484,2,">Por</wi>
+<wi type="G" value="5127,1,">esto</wi>,
+<wi type="G" value="2578,3,">doblo</wi>
+<wi type="G" value="3450,6,">mis</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="1119,5,">rodillas</wi></wi>
+<wi type="G" value="4314,7,">al</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="3962,9,">Padre</wi></wi>
+<wi type="G" value="2257,12,">de nuestro</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2962,11,">Señor</wi></wi>
+<wi type="G" value="2424,13,">Jesús</wi>
+<wi type="G" value="5547,14,">Cristo</wi>,
+</t>
 
 </sv>
-		<sv id="Ephesians-3-15">
+<sv id="Ephesians-3-15">
 from whom every family in heaven and on earth is named,
+<t xml:lang="es">
+<wi type="G" value="1537,1,">de</wi>
+<wi type="G" value="3739,2,">quien</wi>
+<wi type="G" value="3956,3,">toda</wi>
+<wi type="G" value="3965,4,">familia</wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="3772,6,">el cielo</wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="1909,8,">sobre</wi>
+<wi type="G" value="1093,9,">la tierra</wi>
+<wi type="G" value="3687,10,">es nombrada</wi>.
+</t>
 </sv>
-		<sv id="Ephesians-3-16">
+<sv id="Ephesians-3-16">
 that he
 would grant you, according to the riches of his glory, that you
 <wi type="T" value="P"/> may be
