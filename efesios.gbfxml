@@ -1217,8 +1217,7 @@ being rooted and grounded in love,
 <wi type="G" value="3588,8,"><wi type="G" value="2588,9,">corazones</wi></wi>
 <wi type="G" value="1223,4,">por</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="4102,6,">la fe</wi></wi>;
-para que
-<wi type="G" value="4492,13,">estando plantados</wi>
+<wi type="G" value="4492,13,">plantados</wi>
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="2311,15,">cimentados</wi>
 <wi type="G" value="1722,11,">en</wi>
@@ -1227,14 +1226,40 @@ para que
 <sv id="Ephesians-3-18">
 may be strengthened to comprehend
 with all the saints what is the breadth and length and height and depth,
-
+<t xml:lang="es">
+<wi type="G" value="2443,1,">para que</wi>
+<wi type="G" value="1840,2,">puedan</wi>
+<wi type="G" value="2638,3,">comprender</wi>
+<wi type="G" value="4862,4,">con</wi>
+<wi type="G" value="3956,5,">todos</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="40,7,">los santos</wi>
+<wi type="G" value="5101,8,">cual</wi> es
+<wi type="G" value="3588,9,"><wi type="G" value="4114,10,">la amplitud</wi></wi>,
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="3372,12,">la longitud</wi>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="899,14,">la profundidad</wi>
+<wi type="G" value="2532,15,">y</wi>
+<wi type="G" value="5311,16,">la altura</wi>,</t>
 </sv>
-		<sv id="Ephesians-3-19">
+<sv id="Ephesians-3-19">
 and to know Christ´s love which surpasses knowledge, that you
-<wi type="T" value="P"/> may
-be filled with all the fullness of God.
+may be filled with all the fullness of God.
+<t xml:lang="es"><wi type="G" value="5037,2,">y</wi>
+<wi type="G" value="1097,1,">entender</wi>
+<wi type="G" value="26,7,">el amor</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="5547,9,">de Cristo</wi></wi>
+<wi type="G" value="3588,5,">que</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="5235,4,">sobrepasa</wi>
+<wi type="G" value="1108,6,">conocimiento</wi>
+<wi type="G" value="2443,10,">y que</wi>
+<wi type="G" value="4137,11,">sean llenos</wi>
+<wi type="G" value="1519,12,">con</wi>
+<wi type="G" value="3956,13,">toda</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="4138,15,">la llenura</wi></wi>
+<wi type="G" value="3588,16,"><wi type="G" value="2316,17,">de Dios</wi></wi>.</t>
 </sv>
-		<sv id="Ephesians-3-20">
+<sv id="Ephesians-3-20">
 Now to him who is able to do
 exceedingly abundantly above all that we ask or think, according to the power
 that works in us,
