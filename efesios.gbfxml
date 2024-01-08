@@ -1305,13 +1305,36 @@ Jesus to all generations forever and ever. Amen.
 <sv id="Ephesians-4-1">
 I therefore, the prisoner in the Lord, beg you to walk worthily of
 the calling with which you
-<wi type="T" value="P"/> were called,
+ were called,
+<t xml:lang="es"><wi type="G" value="3767,2,">Por esto</wi>
+<wi type="G" value="1473,4,">yo</wi>,
+<wi type="G" value="3588,5,"><wi type="G" value="1198,6,">prisionero</wi></wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="2962,8,">el Señor</wi>,
+<wi type="G" value="5209,3,">les</wi>
+<wi type="G" value="3870,1,">ruego</wi>
+<wi type="G" value="4043,10,">caminar</wi>
+como es <wi type="G" value="516,9,">digno</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2821,12,">del llamado</wi></wi>
+<wi type="G" value="3739,13,">con el que</wi>
+<wi type="G" value="2564,14,">fueron llamados</wi>,</t>
 </sv>
 		<sv id="Ephesians-4-2">
 with all lowliness and
 humility, with patience, bearing with one another in love;
+<t xml:lang="es"><wi type="G" value="3326,1,">con</wi>
+<wi type="G" value="3956,2,">toda</wi>
+<wi type="G" value="5012,3,">humildad</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="4236,5,">mansedumbre</wi>,
+<wi type="G" value="3326,6,">con</wi>
+<wi type="G" value="3115,7,">paciencia</wi>,
+<wi type="G" value="430,8,">soportándose</wi>
+<wi type="G" value="240,9,">unos a otros</wi>
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="26,11,">amor</wi>;</t>
 </sv>
-		<sv id="Ephesians-4-3">
+<sv id="Ephesians-4-3">
 being eager
 to keep the unity of the Spirit in the bond of peace.
 </sv>
