@@ -1335,19 +1335,38 @@ humility, with patience, bearing with one another in love;
 <wi type="G" value="26,11,">amor</wi>;</t>
 </sv>
 <sv id="Ephesians-4-3">
-being eager
-to keep the unity of the Spirit in the bond of peace.
+being eager to keep the unity of the Spirit in the bond of peace.
+<t xml:lang="es"><wi type="G" value="4704,1,">anhelantes por</wi>
+<wi type="G" value="5083,2,">mantener</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="1775,4,">la unidad</wi></wi>
+<wi type="G" value="3588,5,"><wi type="G" value="4151,6,">del Espíritu</wi></wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="4886,9,">el vínculo</wi></wi>
+<wi type="G" value="3588,10,"><wi type="G" value="1515,11,">de paz</wi></wi>.</t>
 </sv>
-		<sv id="Ephesians-4-4">
+<sv id="Ephesians-4-4">
 There is one body,
 and one Spirit, even as you
-<wi type="T" value="P"/> also were called in one hope of your
+also were called in one hope of your
 calling;
+<t xml:lang="es"><wi type="G" value="1520,1,">Hay un</wi> 
+<wi type="G" value="4983,2,">cuerpo</wi>, 
+<wi type="G" value="2532,3,">y</wi> 
+<wi type="G" value="1520,4,">un</wi> 
+<wi type="G" value="4151,5,">Espíritu</wi>, 
+<wi type="G" value="2532,7,">así</wi> 
+<wi type="G" value="2531,6,">como</wi> 
+<wi type="G" value="2564,8,">ustedes han sido llamados</wi> 
+<wi type="G" value="1722,9,">en</wi> 
+<wi type="G" value="1520,10,">una</wi> 
+<wi type="G" value="1680,11,">esperanza</wi> 
+<wi type="G" value="5216,14,">de su</wi> 
+<wi type="G" value="3588,12,"><wi type="G" value="2821,13,">vocación</wi></wi>;</t>
 </sv>
-		<sv id="Ephesians-4-5">
+<sv id="Ephesians-4-5">
 one Lord, one faith, one baptism,
 </sv>
-		<sv id="Ephesians-4-6">
+<sv id="Ephesians-4-6">
 one God and Father of
 all, who is over all, and through all, and in us all.
 </sv>
