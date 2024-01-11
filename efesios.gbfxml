@@ -1349,26 +1349,53 @@ There is one body,
 and one Spirit, even as you
 also were called in one hope of your
 calling;
-<t xml:lang="es"><wi type="G" value="1520,1,">Hay un</wi> 
-<wi type="G" value="4983,2,">cuerpo</wi>, 
-<wi type="G" value="2532,3,">y</wi> 
-<wi type="G" value="1520,4,">un</wi> 
-<wi type="G" value="4151,5,">Espíritu</wi>, 
-<wi type="G" value="2532,7,">así</wi> 
-<wi type="G" value="2531,6,">como</wi> 
-<wi type="G" value="2564,8,">ustedes han sido llamados</wi> 
-<wi type="G" value="1722,9,">en</wi> 
-<wi type="G" value="1520,10,">una</wi> 
-<wi type="G" value="1680,11,">esperanza</wi> 
-<wi type="G" value="5216,14,">de su</wi> 
+<t xml:lang="es"><wi type="G" value="1520,1,">Hay un</wi>
+<wi type="G" value="4983,2,">cuerpo</wi>,
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="1520,4,">un</wi>
+<wi type="G" value="4151,5,">Espíritu</wi>,
+<wi type="G" value="2532,7,">así</wi>
+<wi type="G" value="2531,6,">como</wi>
+<wi type="G" value="2564,8,">ustedes han sido llamados</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="1520,10,">una</wi>
+<wi type="G" value="1680,11,">esperanza</wi>
+<wi type="G" value="5216,14,">de su</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="2821,13,">vocación</wi></wi>;</t>
 </sv>
 <sv id="Ephesians-4-5">
 one Lord, one faith, one baptism,
+<t xml:lang="es"><wi type="G" value="1520,1,">un</wi>
+<wi type="G" value="2962,2,">Señor</wi>,
+<wi type="G" value="1520,3,">una</wi>
+<wi type="G" value="4102,4,">fe</wi>,
+<wi type="G" value="1520,5,">un</wi>
+<wi type="G" value="908,6,">bautismo</wi>,</t>
 </sv>
 <sv id="Ephesians-4-6">
 one God and Father of
 all, who is over all, and through all, and in us all.
+<t xml:lang="es"><wi type="G" value="1520,1,">un</wi>
+<wi type="G" value="2316,2,">Dios</wi>
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="3962,4,">Padre</wi>
+<wi type="G" value="3956,5,">de todos</wi>,
+<wi type="G" value="3588,6,">que</wi> está
+<wi type="G" value="1909,7,">sobre</wi>
+<wi type="G" value="3956,8,">todo</wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="1223,10,">por</wi>
+<wi type="G" value="3956,11,">todo</wi>
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="1722,13,">en</wi>
+<wi type="G" value="3956,14,">todos</wi> </t>
+<rb xml:lang="es">
+<wi type="G" value="5213,15,">ustedes</wi><rf><citebib id="WEB"/>
+dice `nosotros,´
+<citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen `ustedes.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `ὑμῖν´ se
+traduce como ustedes.</rf></rb>
+<t xml:lang="es">.</t>
 </sv>
 		<sv id="Ephesians-4-7">
 But to each one of
