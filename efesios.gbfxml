@@ -1397,16 +1397,38 @@ Según <citebib id="Thayer-BLB"/> la palabra griega `ὑμῖν´ se
 traduce como ustedes.</rf></rb>
 <t xml:lang="es">.</t>
 </sv>
-		<sv id="Ephesians-4-7">
+<sv id="Ephesians-4-7">
 But to each one of
 us was the grace given according to the measure of the gift of Christ.
-
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="1538,3,">a cada</wi>
+<wi type="G" value="1520,1,">uno</wi>
+<wi type="G" value="2257,4,">de nosotros</wi> nos
+<wi type="G" value="1325,5,">fue dada</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="5485,7,">gracia</wi></wi>
+<wi type="G" value="2596,8,">de acuerdo a</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="3358,10,">la medida</wi></wi>
+<wi type="G" value="3588,11,"><wi type="G" value="1431,12,">del don</wi></wi>
+<wi type="G" value="3588,13,"><wi type="G" value="5547,14,">de Cristo</wi></wi>.</t>
 </sv>
-		<sv id="Ephesians-4-8">
+<sv id="Ephesians-4-8">
 Therefore he says, «When he ascended on high, he led captivity captive,
 and gave gifts to men.»
+<t xml:lang="es"><wi type="G" value="1352,1,">Por lo cual</wi>
+<wi type="G" value="3004,2,">Él dice</wi>
+«<wi type="G" value="305,3,">Cuando ascendió</wi>
+<wi type="G" value="1519,4,">a</wi>
+<wi type="G" value="5311,5,">lo alto</wi>,
+<wi type="G" value="162,6,">llevó</wi>
+<wi type="G" value="161,7,">cautiva</wi>
+<wi type="G" value="162,6,">la cautividad</wi>,
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="1325,9,">dio</wi>
+<wi type="G" value="1390,10,">dones</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="444,12,">a los hombres</wi></wi>.»
+ </t>
 </sv>
-		<sv id="Ephesians-4-9">
+<sv id="Ephesians-4-9">
 Now this, «He ascended,» what is it but that he
 also first descended into the lower parts of the earth?
 </sv>
