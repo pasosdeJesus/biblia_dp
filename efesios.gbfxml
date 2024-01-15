@@ -1421,24 +1421,51 @@ and gave gifts to men.»
 <wi type="G" value="5311,5,">lo alto</wi>,
 <wi type="G" value="162,6,">llevó</wi>
 <wi type="G" value="161,7,">cautiva</wi>
-<wi type="G" value="162,6,">la cautividad</wi>,
+<wi type="GC" value="6">la cautividad</wi>,
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="1325,9,">dio</wi>
 <wi type="G" value="1390,10,">dones</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="444,12,">a los hombres</wi></wi>.»
- </t>
+</t>
 </sv>
 <sv id="Ephesians-4-9">
 Now this, «He ascended,» what is it but that he
 also first descended into the lower parts of the earth?
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi>
+«<wi type="G" value="305,3,">Él ascendió</wi>,»
+<wi type="G" value="5101,4,">que</wi>
+<wi type="G" value="3361,7,">no</wi>
+<wi type="G" value="2076,5,">es</wi>
+<wi type="G" value="1487,6,">sino</wi>
+<wi type="G" value="3754,8,">que</wi>
+<wi type="G" value="2532,9,"/><wi type="G" value="4412,11,">primero</wi>
+<wi type="G" value="2597,10,">había descendido</wi>
+<wi type="G" value="1519,12,">a</wi>
+<wi type="G" value="3313,15,">las partes</wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="2737,14,">bajas</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="1093,17,">de la tierra</wi></wi>?
+</t>
 </sv>
-		<sv id="Ephesians-4-10">
+<sv id="Ephesians-4-10">
 He who
 descended is the one who also ascended far above all the heavens, that he
 might fill all things.
+<t xml:lang="es"><wi type="G" value="3588,1,">Aquel que</wi>
+<wi type="G" value="2597,2,">descendió</wi>
+<wi type="G" value="2076,4,">es</wi>
+<wi type="G" value="846,3,">el mismo</wi>
+<wi type="G" value="3588,6,">que</wi>
+<wi type="G" value="2532,5,">también</wi>
+<wi type="G" value="305,7,">ascendió</wi>
+<wi type="G" value="5231,8,">más allá</wi>
+<wi type="G" value="3956,9,">de todos</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="3772,11,">los cielos</wi></wi>,
+<wi type="G" value="2443,12,">para</wi>
+<wi type="G" value="4137,13,">llenarlo</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="3956,15,">todo</wi>.</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Ephesians-4-11">
 He gave some to be apostles; and some, prophets; and some, evangelists;
 and some,
