@@ -1469,18 +1469,44 @@ might fill all things.
 <sv id="Ephesians-4-11">
 He gave some to be apostles; and some, prophets; and some, evangelists;
 and some,
-<rb>shepherds
-<t xml:lang="es"/><rf>The word for «shepherds» (poimenas) can also be
-correctly translated «pastors.»<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3588,4,">a algunos</wi>
+<wi type="G" value="846,2,">Él</wi> les
+<wi type="G" value="1325,3,">dio</wi> ser
+<wi type="G" value="3303,5,">verdaderamente</wi>
+<wi type="G" value="652,6,">apóstoles</wi>, <wi type="G" value="1161,8,">y</wi>
+<wi type="G" value="3588,7,">a algunos</wi>
+<wi type="G" value="4396,9,">profetas</wi>,
+<wi type="G" value="1161,11,">y</wi>
+<wi type="G" value="3588,10,">a algunos</wi>
+<wi type="G" value="2099,12,">evangelistas</wi>;
+<wi type="G" value="1161,14,">y</wi>
+<wi type="G" value="3588,13,">a algunos</wi>
+<wi type="G" value="4166,15,">pastores</wi>
+ </t>
+<rb>shepherds;<rf>The word for «shepherds» (poimenas) can also be
+correctly translated «pastors.»
+</rf>
 </rb>
  and teachers;
+<t xml:lang="es"><wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="1320,17,">profesores</wi></t>
 </sv>
-		<sv id="Ephesians-4-12">
+<sv id="Ephesians-4-12">
 for the perfecting of
 the saints, to the work of serving, to the building up of the body of Christ;
-
+<t xml:lang="es"><wi type="G" value="4314,1,">para</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="2677,3,">perfeccionamiento</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="40,5,">de los santos</wi>, y
+<wi type="G" value="1519,6,">para</wi>
+<wi type="G" value="2041,7,">las obras</wi>
+<wi type="G" value="1248,8,">de servicio</wi>,
+<wi type="G" value="1519,9,">para</wi>
+<wi type="G" value="3619,10,">la edificación</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="4983,12,">del cuerpo</wi></wi>
+<wi type="G" value="3588,13,"><wi type="G" value="5547,14,">de Cristo</wi></wi>;</t>
 </sv>
-		<sv id="Ephesians-4-13">
+<sv id="Ephesians-4-13">
 until we all attain to the unity of the faith, and of the knowledge of
 the Son of God, to a full grown man, to the measure of the stature of the
 fullness of Christ;
