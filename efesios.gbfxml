@@ -1554,12 +1554,58 @@ in craftiness, after the wiles of error;
 <sv id="Ephesians-4-15">
 but speaking truth in love, we
 may grow up in all things into him, who is the head, Christ;
+<t xml:lang="es"><wi type="G" value="1161,2,">pero</wi> </t>
+<rb xml:lang="es"><wi type="G" value="226,1,">profesando la verdad</wi><rf>
+<citebib id="WEB"/>y <citebib id="KJV2003"/> dicen hablando la verdad,
+<citebib id="RVG2012"/> dice siguiendo la verdad.
+Según <citebib id="Thayer-BLB"/> el verbo `αληθευοντες´
+se traduce como decir la verdad, profesar la verdad, estar en la verdad.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="26,4,">amor</wi>,
+<wi type="G" value="837,5,">crezcamos</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="3956,9,">en todo</wi>
+<wi type="G" value="1519,6,">hacía</wi>
+<wi type="G" value="846,7,">Él</wi>,
+<wi type="G" value="3739,10,">que</wi>
+<wi type="G" value="2076,11,">es</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2776,13,">la cabeza</wi></wi>,
+<wi type="G" value="3588,14,"><wi type="G" value="5547,15,">Cristo</wi></wi>;</t>
 </sv>
 		<sv id="Ephesians-4-16">
 from whom
 all the body, being fitted and knit together through that which every joint
 supplies, according to the working in measure of each individual part, makes
 the body increase to the building up of itself in love.
+<t xml:lang="es"><wi type="G" value="1537,1,">en</wi>
+<wi type="G" value="3739,2,">quien</wi>
+<wi type="G" value="3956,3,">todo</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="4983,5,">el cuerpo</wi></wi>,
+<wi type="G" value="4883,6,">encaja</wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="4822,8,">se compacta</wi>
+<wi type="G" value="1223,9,">por</wi>
+<wi type="G" value="3588,12,">lo que</wi>
+<wi type="G" value="3956,10,">cada</wi>
+<wi type="G" value="860,11,">coyuntura</wi>
+<wi type="G" value="2024,13,">suple</wi>,
+<wi type="G" value="2596,14,">de acuerdo a</wi>
+<wi type="G" value="1753,15,">la obra</wi>
+<wi type="G" value="1722,16,">en</wi>
+<wi type="G" value="3358,17,">medida</wi>
+<wi type="G" value="1538,19,">de cada</wi>
+<wi type="G" value="3313,20,">miembro</wi>
+<wi type="G" value="1520,18,">individual</wi>,
+<wi type="G" value="4160,25,">haciendo</wi> que
+<wi type="G" value="3588,23,"><wi type="G" value="4983,24,">el cuerpo</wi></wi>
+<wi type="G" value="3588,21,"><wi type="G" value="838,22,">crezca</wi></wi>
+<wi type="G" value="1519,26,">para</wi>
+<wi type="G" value="3619,27,">la edificación</wi>
+<wi type="G" value="1438,28,">de si mismo</wi>
+<wi type="G" value="1722,29,">en</wi>
+<wi type="G" value="26,30,">amor</wi>.
+</t>
 
 </sv></cm><cm>
 
