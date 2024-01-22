@@ -1573,7 +1573,7 @@ se traduce como decir la verdad, profesar la verdad, estar en la verdad.
 <wi type="G" value="3588,12,"><wi type="G" value="2776,13,">la cabeza</wi></wi>,
 <wi type="G" value="3588,14,"><wi type="G" value="5547,15,">Cristo</wi></wi>;</t>
 </sv>
-		<sv id="Ephesians-4-16">
+<sv id="Ephesians-4-16">
 from whom
 all the body, being fitted and knit together through that which every joint
 supplies, according to the working in measure of each individual part, makes
@@ -1606,19 +1606,65 @@ the body increase to the building up of itself in love.
 <wi type="G" value="1722,29,">en</wi>
 <wi type="G" value="26,30,">amor</wi>.
 </t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Ephesians-4-17">
 This I say therefore, and testify in the Lord, that you
-<wi type="T" value="P"/> no longer
-walk as the rest of the Gentiles also walk, in the futility of their mind,
-
+no longer walk as the rest of the Gentiles also walk,
+in the futility of their mind,
+<t xml:lang="es"><wi type="G" value="5124,1,">Esto</wi>
+<wi type="G" value="3004,3,">digo</wi>
+<wi type="G" value="3767,2,">entonces</wi>,
+<wi type="G" value="2532,4,">y</wi></t>
+<rb xml:lang="es"><wi type="G" value="3143,5,">los exhorto</wi><rf>
+<citebib id="WEB"/> dice `doy testimonio´,
+<citebib id="RVG2012"/> dice `requiero.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `μαρτύρομαι´
+se traduce como dar testimonio y como exhortar solemnemente.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="2962,7,">el Señor</wi>,
+<wi type="G" value="5209,9,">a que ustedes</wi>
+<wi type="G" value="2532,12,">ya</wi>
+<wi type="G" value="3371,8,">no</wi>
+<wi type="G" value="4043,10,">anden</wi>
+<wi type="G" value="2531,11,">como</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="3062,14,">los otros</wi></wi><wi type="G" value="1484,15,">gentiles</wi>
+<wi type="G" value="4043,16,">andan</wi>,
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="3153,18,">la futilidad</wi>
+<wi type="G" value="846,21,">de sus</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="3563,20,">mentes</wi></wi>, </t>
 </sv>
-		<sv id="Ephesians-4-18">
+<sv id="Ephesians-4-18">
 being darkened in their understanding, alienated from the life of God,
 because of the ignorance that is in them, because of the hardening of their
 hearts;
+<t xml:lang="es"><wi type="G" value="4654,1,">oscurecidos</wi> en
+<wi type="G" value="3588,2,"><wi type="G" value="1271,3,">entendimiento</wi></wi>,
+<wi type="G" value="5607,4,">estando</wi>
+<wi type="G" value="526,5,">alienados</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2222,7,">de la vida</wi></wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">de Dios</wi></wi>
+<wi type="G" value="1223,10,">por</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="52,12,">la ignorancia</wi></wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="5607,14,">que está</wi>
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="846,16,">ellos</wi>,
+<wi type="G" value="1223,17,">por</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="3588,18,"><wi type="G"
+value="4457,19,">el endurecimiento</wi></wi><rf><citebib id="WEB"/> dice
+`endurecimiento´, <citebib id="KJV2003"/> dice `la ceguera.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `πωρωσιν´ se traduce
+como enceguecido o endurecido.  En otros pasajes donde se usa (i.e. Marcos 3:5
+ y Romanos 11:25) se ha traducido como endurecido.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="846,22,">de sus</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="2588,21,">corazones</wi></wi>; </t>
 </sv>
 		<sv id="Ephesians-4-19">
 who having become callous gave themselves up to lust, to work
