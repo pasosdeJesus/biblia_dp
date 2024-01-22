@@ -1666,16 +1666,40 @@ como enceguecido o endurecido.  En otros pasajes donde se usa (i.e. Marcos 3:5
 <wi type="G" value="846,22,">de sus</wi>
 <wi type="G" value="3588,20,"><wi type="G" value="2588,21,">corazones</wi></wi>; </t>
 </sv>
-		<sv id="Ephesians-4-19">
+<sv id="Ephesians-4-19">
 who having become callous gave themselves up to lust, to work
 all uncleanness with greediness.
+<t xml:lang="es"><wi type="G" value="3748,1,">quienes</wi> </t>
+<rb xml:lang="es"><wi type="G" value="524,2,">volviéndose callosos</wi><rf>
+<citebib id="WEB"/> dice `habiéndose vuelto calloso,´
+<citebib id="KJV2003"/> dice `habiendo dejado de sentir,´
+<citebib id="RVG2012"/> dice `después de que perdieron el sentido de la
+conciencia.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `ἀπηλγηκότες´
+se traduce como que cesa de sentir, volverse calloso.
+</rf></rb>
+<t xml:lang="es">
+se <wi type="G" value="3860,4,">dieron</wi>
+<wi type="G" value="1438,3,">a si mismos</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="766,6,">en lujuria</wi></wi>,
+<wi type="G" value="1519,7,">para</wi>
+<wi type="G" value="2039,8,">obrar</wi>
+<wi type="G" value="3956,10,">toda</wi>
+<wi type="G" value="167,9,">impureza</wi>
+<wi type="G" value="1722,11,">con</wi>
+<wi type="G" value="4124,12,">avidez</wi>.</t>
 </sv>
-		<sv id="Ephesians-4-20">
-But you
-<wi type="T" value="P"/> did not learn Christ that
-way;
+<sv id="Ephesians-4-20">
+But you did not learn Christ that way;
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="5210,1,">ustedes</wi>
+<wi type="G" value="3756,3,">no</wi>
+<wi type="G" value="3129,5,">aprendieron</wi>
+<wi type="G" value="3779,4,">así</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="5547,7,">de Cristo</wi></wi>;
+</t>
 </sv>
-		<sv id="Ephesians-4-21">
+<sv id="Ephesians-4-21">
 if indeed you
 <wi type="T" value="P"/> heard him, and were taught in him, even as
 truth is in Jesus:
