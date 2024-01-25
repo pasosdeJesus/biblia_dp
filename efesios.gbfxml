@@ -1702,41 +1702,46 @@ But you did not learn Christ that way;
 <sv id="Ephesians-4-21">
 if indeed you heard him, and were taught in him, even as
 truth is in Jesus:
-<t xml:lang="es"><wi type="G" value="1489,1,">si en verdad</wi> 
-<wi type="G" value="846,2,">lo</wi> 
-<wi type="G" value="191,3,">oyeron</wi>, 
-<wi type="G" value="2532,4,">y</wi> 
-<wi type="G" value="1321,7,">fueron enseñados</wi> 
-<wi type="G" value="1722,5,">por</wi> 
+<t xml:lang="es"><wi type="G" value="1489,1,">si en verdad</wi>
+<wi type="G" value="846,2,">lo</wi>
+<wi type="G" value="191,3,">oyeron</wi>,
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="1321,7,">fueron enseñados</wi>
+<wi type="G" value="1722,5,">por</wi>
 <wi type="G" value="846,6,">Él</wi>,
-<wi type="G" value="2531,8,">así como</wi> 
-<wi type="G" value="225,10,">la verdad</wi> 
-<wi type="G" value="2076,9,">está</wi> 
-<wi type="G" value="1722,11,">en</wi> 
+<wi type="G" value="2531,8,">así como</wi>
+<wi type="G" value="225,10,">la verdad</wi>
+<wi type="G" value="2076,9,">está</wi>
+<wi type="G" value="1722,11,">en</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="2424,13,">Jesús</wi></wi>:</t>
 </sv>
 <sv id="Ephesians-4-22">
 that you put away, as concerning your former
 way of life, the old man, that grows corrupt after the lusts of deceit;
-<t xml:lang="es">que 
-<wi type="G" value="5209,2,">ustedes</wi> 
-<wi type="G" value="659,1,">alejen</wi>, 
-<wi type="G" value="2596,3,">respecto a</wi> 
-<wi type="G" value="3588,4,"/><wi type="G" value="4387,5,">la antigua</wi> 
+<t xml:lang="es">que
+<wi type="G" value="5209,2,">ustedes</wi>
+<wi type="G" value="659,1,">alejen</wi>,
+<wi type="G" value="2596,3,">respecto a</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="4387,5,">la antigua</wi>
 <wi type="G" value="391,6,">forma de vida</wi>,
-<wi type="G" value="3588,7,"/><wi type="G" value="3820,8,">al viejo</wi> 
-<wi type="G" value="444,9,">hombre</wi>, 
-<wi type="G" value="3588,10,">que</wi> 
-<wi type="G" value="5351,11,">se corrompe</wi> 
-<wi type="G" value="2596,12,">tras</wi> 
-<wi type="G" value="3588,15,"><wi type="G" value="539,16,">los engaños</wi></wi> 
-<wi type="G" value="3588,13,"><wi type="G" value="1939,14,">de la lujuria</wi></wi>;</t>
+<wi type="G" value="3588,7,"/><wi type="G" value="3820,8,">al viejo</wi>
+<wi type="G" value="444,9,">hombre</wi>,
+<wi type="G" value="3588,10,">que</wi>
+<wi type="G" value="5351,11,">se corrompe</wi>
+<wi type="G" value="2596,12,">tras</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="539,16,">los engaños</wi></wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1939,14,">de las concupiscencias</wi></wi>;</t>
 </sv>
 <sv id="Ephesians-4-23">
 and that you
-<wi type="T" value="P"/> be renewed in the spirit of your mind,
+be renewed in the spirit of your mind,
+<t xml:lang="es"><wi type="G" value="1161,2,">y</wi>
+<wi type="G" value="365,1,">que se renueven</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="4151,4,">en el espíritu</wi></wi>
+<wi type="G" value="5216,7,">de su</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="3563,6,">mente</wi></wi>,</t>
 </sv>
-		<sv id="Ephesians-4-24">
+<sv id="Ephesians-4-24">
 and put
 on the new man, who in the likeness of God has been created in righteousness
 and holiness of truth.
