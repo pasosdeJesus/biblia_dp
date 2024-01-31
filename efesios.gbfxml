@@ -1854,12 +1854,25 @@ la <wi type="G" value="5532,17,">necesaria</wi>
 <wi type="G" value="3588,21,"/><wi type="G" value="191,22,">los oyentes</wi>.
 </t>
 </sv>
-		<sv id="Ephesians-4-30">
+<sv id="Ephesians-4-30">
 Don´t grieve the Holy Spirit of God, in
 whom you
-<wi type="T" value="P"/> were sealed for the day of redemption.
+were sealed for the day of redemption.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3361,2,">no</wi>
+<wi type="G" value="3076,3,">entristezcan</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="4151,5,">al Espíritu</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="40,7,">Santo</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">de Dios</wi></wi>,
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="3739,11,">quien</wi>
+<wi type="G" value="4972,12,">ustedes fueron sellados</wi>
+<wi type="G" value="1519,13,">para</wi>
+<wi type="G" value="2250,14,">el día</wi>
+<wi type="G" value="629,15,">de la redención</wi>.
+</t>
 </sv>
-		<sv id="Ephesians-4-31">
+<sv id="Ephesians-4-31">
 Let all
 bitterness, wrath, anger, outcry, and slander, be put away from you, with all
 malice.
