@@ -1877,41 +1877,41 @@ Let all
 bitterness, wrath, anger, outcry, and slander, be put away from you, with all
 malice.
 <t xml:lang="es">Que
-<wi type="G" value="3956,1,">toda</wi> 
+<wi type="G" value="3956,1,">toda</wi>
 <wi type="G" value="4088,2,">amargura</wi>
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="2372,4,">odio</wi>
-<wi type="G" value="2532,5,">e</wi> 
+<wi type="G" value="2532,5,">e</wi>
 <wi type="G" value="3709,6,">ira</wi>
-<wi type="G" value="2532,7,">y</wi> 
-<wi type="G" value="2906,8,">quejas</wi> 
-<wi type="G" value="2532,9,">y</wi> 
-<wi type="G" value="988,10,">chismes</wi>, 
-<wi type="G" value="142,11,">sea alejado</wi> 
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="2906,8,">quejas</wi>
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="988,10,">chismes</wi>,
+<wi type="G" value="142,11,">sea alejado</wi>
 <wi type="G" value="575,12,">de</wi>
 <wi type="G" value="5216,13,">ustedes</wi>,
-<wi type="G" value="4862,14,">junto con</wi> 
-<wi type="G" value="3956,15,">toda</wi> 
+<wi type="G" value="4862,14,">junto con</wi>
+<wi type="G" value="3956,15,">toda</wi>
 <wi type="G" value="2549,16,">malicia</wi>.</t>
 </sv>
 <sv id="Ephesians-4-32">
 And be kind to one another, tenderhearted, forgiving each
 other, just as God also in Christ forgave you.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> 
-<wi type="G" value="1096,1,">sean</wi> 
-<wi type="G" value="5543,5,">amables</wi> 
-<wi type="G" value="240,4,">uno</wi> 
-<wi type="G" value="1519,3,">con</wi> 
-<wi type="GC" value="4">otros</wi>, 
-<wi type="G" value="2155,6,">tiernos</wi>, 
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="1096,1,">sean</wi>
+<wi type="G" value="5543,5,">amables</wi>
+<wi type="G" value="240,4,">uno</wi>
+<wi type="G" value="1519,3,">con</wi>
+<wi type="GC" value="4">otros</wi>,
+<wi type="G" value="2155,6,">tiernos</wi>,
 <wi type="G" value="5483,7,">perdonense</wi>
 <wi type="G" value="1438,8,">unos a otros</wi>,
-<wi type="G" value="2532,10,">así</wi> 
-<wi type="G" value="2531,9,">como</wi> 
-<wi type="G" value="3588,11,"><wi type="G" value="2316,12,">Dios</wi></wi> 
-<wi type="G" value="1722,13,">por</wi> 
-<wi type="G" value="5547,14,">Cristo</wi> 
-<wi type="G" value="5213,16,">los</wi> 
+<wi type="G" value="2532,10,">así</wi>
+<wi type="G" value="2531,9,">como</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2316,12,">Dios</wi></wi>
+<wi type="G" value="1722,13,">por</wi>
+<wi type="G" value="5547,14,">Cristo</wi>
+<wi type="G" value="5213,16,">los</wi>
 <wi type="G" value="5483,15,">ha perdonado</wi>.</t>
 <cl/>
 </sv></cm></sc>
@@ -1919,15 +1919,46 @@ other, just as God also in Christ forgave you.
 <sc id="Ephesians-5">
 <cm>
 <sv id="Ephesians-5-1">
-Be
-<wi type="T" value="P"/> therefore imitators of God, as beloved children.
+Be therefore imitators of God, as beloved children.
+<t xml:lang="es"><wi type="G" value="1096,1,">Sean</wi>
+<wi type="G" value="3767,2,">entonces</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3402,3,">imitadores</wi><rf>
+<citebib id="WEB"/> dice `imitadores,´
+<citebib id="KJV2003"/> dice `seguidores.´
+La palabra griega `μιμηται´ se ha traducido como imitadores,
+y eso significa según <citebib id="Thayer-BLB"/>.</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3588,4,"><wi type="G" value="2316,5,">de Dios</wi></wi>,
+<wi type="G" value="5613,6,">como</wi>
+<wi type="G" value="5043,7,">hijos</wi>
+<wi type="G" value="27,8,">amados</wi>.</t>
 </sv>
-		<sv id="Ephesians-5-2">
-Walk
-in love, even as Christ also loved you, and gave himself up for us, an
+<sv id="Ephesians-5-2">
+Walk in love, even as Christ also loved you, and gave himself up for us, an
 offering and a sacrifice to God for a sweet-smelling fragrance.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="4043,2,">caminen</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="26,4,">amor</wi>,
+<wi type="G" value="2531,5,">así como</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="5547,8,">Cristo</wi></wi>
+<wi type="G" value="2532,6,">también</wi>
+<wi type="G" value="2248,10,">nos</wi>
+<wi type="G" value="25,9,">ha amado</wi>,
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="3860,12,">se dio</wi>
+<wi type="G" value="1438,13,">a si mismo</wi>
+<wi type="G" value="5228,14,">por</wi>
+<wi type="G" value="2257,15,">nosotros</wi>,
+<wi type="G" value="4376,16,">una ofrenda</wi>
+<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="2378,18,">un sacrificio</wi> para
+<wi type="G" value="3588,19,"><wi type="G" value="2316,20,">Dios</wi></wi>
+<wi type="G" value="1519,21,">como</wi>
+<wi type="G" value="3744,22,">una fragancia</wi>
+<wi type="G" value="2175,23,">de olor dulce</wi>.</t>
 </sv>
-		<sv id="Ephesians-5-3">
+<sv id="Ephesians-5-3">
 But
 sexual immorality, and all uncleanness, or covetousness, let it not even be
 mentioned among you, as becomes saints;
