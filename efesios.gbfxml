@@ -2006,14 +2006,49 @@ se traduce como obscenidad, inmundicia.
 Know this for sure, that no sexually immoral person, nor unclean person,
 nor covetous man, who is an idolater, has any inheritance in the Kingdom of
 Christ and God.
-
+<t xml:lang="es"><wi type="G" value="5124,1,">Esto</wi>
+<wi type="G" value="1063,2,">pues</wi>
+<wi type="G" value="2075,3,"/><wi type="G" value="1097,4,">saben</wi>,
+<wi type="G" value="3754,5,">que</wi>
+<wi type="G" value="3956,6,">ninguna</wi>
+<wi type="G" value="4205,7,">persona sexualmente inmoral</wi>,
+<wi type="G" value="2228,8,">ni</wi>
+<wi type="G" value="169,9,">impura</wi>,
+<wi type="G" value="2228,10,">ni</wi>
+<wi type="G" value="4123,11,">codiciosa</wi>,
+<wi type="G" value="3739,12,">que</wi>
+<wi type="G" value="2076,13,">es</wi>
+<wi type="G" value="1496,14,">idolatra</wi>,
+<wi type="G" value="2192,16,">tiene</wi>
+<wi type="G" value="2817,17,">herencia</wi>
+<wi type="G" value="3756,15,">alguna</wi>
+<wi type="G" value="1722,18,">en</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="932,20,">el Reino</wi></wi>
+<wi type="G" value="3588,21,"><wi type="G" value="5547,22,">de Cristo</wi></wi>
+<wi type="G" value="2532,23,">y</wi>
+<wi type="G" value="2316,24,">de Dios</wi>.</t>
 </sv></cm><cm>
 
 <sv id="Ephesians-5-6">
 Let no one deceive you with empty words. For because of these things,
 the wrath of God comes on the children of disobedience.
+<t xml:lang="es"><wi type="G" value="538,3,">Que</wi>
+<wi type="G" value="3367,1,">nadie</wi>
+<wi type="G" value="5209,2,">los</wi>
+<wi type="GC" value="3">engañe</wi>
+<wi type="G" value="1223,6,">con</wi>
+<wi type="G" value="2756,4,">vanas</wi>
+<wi type="G" value="3056,5,">palabras</wi>.
+<wi type="G" value="1063,8,">Pues a causa</wi>
+<wi type="G" value="5023,7,">de estas cosas</wi>,
+<wi type="G" value="2064,9,">viene</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="3709,11,">la ira</wi></wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">de Dios</wi></wi>
+<wi type="G" value="1909,14,">sobre</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="5207,16,">los hijos</wi></wi>
+<wi type="G" value="3588,17,"><wi type="G" value="543,18,">de desobediencia</wi></wi>.</t>
 </sv>
-		<sv id="Ephesians-5-7">
+<sv id="Ephesians-5-7">
 Therefore don´t
 be
 <wi type="T" value="P"/> partakers with them.
