@@ -2049,14 +2049,30 @@ the wrath of God comes on the children of disobedience.
 <wi type="G" value="3588,17,"><wi type="G" value="543,18,">de desobediencia</wi></wi>.</t>
 </sv>
 <sv id="Ephesians-5-7">
-Therefore don´t
-be
-<wi type="T" value="P"/> partakers with them.
+Therefore don´t be partakers with them.
+<t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
+<wi type="G" value="3361,1,">no</wi>
+<wi type="G" value="1096,3,">sean</wi>
+<wi type="G" value="4830,4,">participes</wi>
+<wi type="G" value="846,5,">con ellos</wi>.</t>
 </sv>
-		<sv id="Ephesians-5-8">
-For you
-<wi type="T" value="P"/> were once darkness, but are
+<sv id="Ephesians-5-8">
+For you were once darkness, but are
 now light in the Lord. Walk as children of light,
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi> ustedes
+<wi type="G" value="4218,3,">un día</wi>
+<wi type="G" value="2258,1,">fueron</wi>
+<wi type="G" value="4655,4,">oscuridad</wi>,
+<wi type="G" value="1161,6,">pero</wi>
+<wi type="G" value="3568,5,">ahora</wi> son
+<wi type="G" value="5457,7,">luz</wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="2962,9,">el Señor</wi>.
+<wi type="G" value="4043,13,">Caminen</wi>
+<wi type="G" value="5613,10,">como</wi>
+<wi type="G" value="5043,11,">hijos</wi>
+<wi type="G" value="5457,12,">de luz</wi>,</t>
 </sv>
 		<sv id="Ephesians-5-9">
 for the fruit of the
