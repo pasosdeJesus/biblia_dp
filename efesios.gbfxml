@@ -2074,15 +2074,38 @@ now light in the Lord. Walk as children of light,
 <wi type="G" value="5043,11,">hijos</wi>
 <wi type="G" value="5457,12,">de luz</wi>,</t>
 </sv>
-		<sv id="Ephesians-5-9">
+<sv id="Ephesians-5-9">
 for the fruit of the
 Spirit is in all goodness and righteousness and truth,
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">pues</wi>
+<wi type="G" value="2590,3,">el fruto</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="4151,5,">del Espíritu</wi></wi>
+es
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="3956,7,">toda</wi>
+<wi type="G" value="19,8,">bondad</wi>
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="1343,10,">justicia</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="225,12,">verdad</wi>,</t>
 </sv>
-		<sv id="Ephesians-5-10">
+<sv id="Ephesians-5-10">
 proving what is
 well pleasing to the Lord.
+<rb xml:lang="es"><wi type="G" value="1381,1,">examinando</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `probando,´
+<citebib id="RVG2012"/> dice `aprobando.´
+Según <citebib id="Thayer-BLB"/> el verbo griego `δοκιμαζοντες´
+se traduce como probar, examinar, aprobar, escrutar para reconocer si una cosa
+es cierta o no. Reconocer como genuino tras examinar.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="5101,2,">lo que</wi>
+<wi type="G" value="2076,3,">es</wi>
+<wi type="G" value="2101,4,">agradable</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2962,6,">al Señor</wi></wi>.</t>
 </sv>
-		<sv id="Ephesians-5-11">
+<sv id="Ephesians-5-11">
 Have no fellowship with the unfruitful works
 of darkness, but rather even reprove them.
 </sv>
