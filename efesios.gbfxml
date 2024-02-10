@@ -2108,17 +2108,64 @@ es cierta o no. Reconocer como genuino tras examinar.
 <sv id="Ephesians-5-11">
 Have no fellowship with the unfruitful works
 of darkness, but rather even reprove them.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3361,2,">no</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4790,3,">participen</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `tengan compañía´,
+<citebib id="RVG2012"/> dice `comuniquen´.
+Según <citebib id="Thayer-BLB"/> la palabra griega `συγκοινωνειτε´
+se traduce como tener compañia, comunicar, ser coparticipe.
+
+</rf></rb>
+<t xml:lang="es">
+con
+<wi type="G" value="3588,4,"><wi type="G" value="2041,5,">las obras</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="175,7,">sin fruto</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="4655,9,">de la oscuridad</wi></wi>,
+<wi type="G" value="1161,11,">sino</wi>
+<wi type="G" value="3123,10,">en cambio</wi>
+<wi type="G" value="2532,12,"/><wi type="G" value="1651,13,">repruebenlas</wi>.</t>
 </sv>
-		<sv id="Ephesians-5-12">
+<sv id="Ephesians-5-12">
 For the things which are
 done by them in secret, it is a shame even to speak of.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="5259,5,">de</wi>
+<wi type="G" value="3588,1,">lo que</wi>
+<wi type="G" value="1096,4,"><wi type="G" value="846,6,">hacen</wi></wi>
+<wi type="G" value="2931,3,">en secreto</wi>,
+<wi type="G" value="2532,9,">hasta</wi> </t>
+<rb xml:lang="es"><wi type="G" value="150,7,">vergonzoso</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dice `es una vergüenza,´
+<citebib id="RVG2012"/> dice `torpe.´
+Según <citebib id="Thayer-BLB"/> el adjetivo griego `αισχρον´
+se traduce como inmundicia, bajeza, deshonra.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2076,8,">es</wi>
+<wi type="G" value="3004,10,">hablar</wi>.
+</t>
 </sv>
-		<sv id="Ephesians-5-13">
+<sv id="Ephesians-5-13">
 But all things,
 when they are reproved, are revealed by the light, for everything that reveals
 is light.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="3956,3,">todas las cosas</wi>
+<wi type="G" value="3588,1,">que</wi>
+<wi type="G" value="1651,4,">son reprobadas</wi>
+<wi type="G" value="5319,8,">son reveladas</wi>
+<wi type="G" value="5259,5,">por</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="5457,7,">la luz</wi></wi>,
+<wi type="G" value="1063,10,">porque</wi>
+<wi type="G" value="5457,13,">la luz</wi>
+<wi type="G" value="2076,14,">es</wi>
+<wi type="G" value="3588,11,">la que</wi>
+<wi type="G" value="5319,12,">revela</wi>
+<wi type="G" value="3956,9,">todo</wi>.
+</t>
 </sv>
-		<sv id="Ephesians-5-14">
+<sv id="Ephesians-5-14">
 Therefore he says, «Awake, you who sleep, and arise
 from the dead, and Christ will shine on you.»
 
