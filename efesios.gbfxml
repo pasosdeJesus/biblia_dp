@@ -2195,7 +2195,7 @@ walk, not as unwise, but as wise;
 <wi type="G" value="4043,5,">caminan</wi>,
 <wi type="G" value="3361,6,">no</wi>
 <wi type="G" value="5613,7,">como</wi>
-<wi type="G" value="781,8,">necios</wi>
+<wi type="G" value="781,8,">insipientes</wi>
 <wi type="G" value="235,9,">sino</wi>
 <wi type="G" value="5613,10,">como</wi>
 <wi type="G" value="4680,11,">sabios</wi>;</t>
@@ -2221,30 +2221,80 @@ foolish, but understand what the will of the Lord is.
 <wi type="G" value="1096,4,">sean</wi>
 <wi type="G" value="878,5,">necios</wi>,
 <wi type="G" value="235,6,">sino</wi>
-<wi type="G" value="4920,7,">de entendimiento</wi>
+<wi type="G" value="4920,7,">entendidos</wi>
 <wi type="G" value="5101,8,">de cual</wi> es
 <wi type="G" value="3588,9,"><wi type="G" value="2307,10,">la voluntad</wi></wi>
 <wi type="G" value="3588,11,"><wi type="G" value="2962,12,">del Señor</wi></wi>.</t>
 </sv>
+
 <sv id="Ephesians-5-18">
 Don´t be drunken with wine, in which is dissipation, but be filled with
 the Spirit,
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3361,2,">no</wi>
+<wi type="G" value="3182,3,">se embriaguen</wi>
+<wi type="G" value="1722,5,">con</wi>
+<wi type="G" value="3631,4,">vino</wi>,
+<wi type="G" value="3739,6,">en lo cual</wi>
+<wi type="G" value="2076,7,">hay</wi>
+<wi type="G" value="810,8,">desenfreno</wi>,
+<wi type="G" value="235,9,">sino</wi>
+<wi type="G" value="4137,10,">sean llenos</wi>
+<wi type="G" value="1722,11,">con</wi>
+<wi type="G" value="4151,12,">el Espíritu</wi>,</t>
 </sv>
-		<sv id="Ephesians-5-19">
+
+<sv id="Ephesians-5-19">
 speaking to one another in psalms, hymns, and spiritual
 songs; singing, and singing praises in your heart to the Lord;
+<t xml:lang="es">
+<wi type="G" value="2980,1,">hablando</wi>
+<wi type="G" value="1438,2,">entre ustedes</wi>
+<wi type="G" value="5568,3,">salmos</wi>
+<wi type="G" value="2532,4,">e</wi>
+<wi type="G" value="5215,5,">himnos</wi>
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="5603,7,">canciones</wi>
+<wi type="G" value="4152,8,">espirituales</wi>;
+<wi type="G" value="103,9,">cantando</wi>,
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="5567,11,">alabando</wi>
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="5216,15,">su</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="2588,14,">corazón</wi></wi>
+<wi type="G" value="3588,16,"><wi type="G" value="2962,17,">al Señor</wi></wi>.</t>
 </sv>
-		<sv id="Ephesians-5-20">
+
+<sv id="Ephesians-5-20">
 giving
 thanks always concerning all things in the name of our Lord Jesus Christ, to
 God, even the Father;
+<t xml:lang="es"><wi type="G" value="2168,1,">dando gracias</wi>
+<wi type="G" value="3842,2,">siempre</wi>
+<wi type="G" value="5228,3,">por</wi>
+<wi type="G" value="3956,4,">todo</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">al Dios</wi></wi>
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="3962,15,">Padre</wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="3686,6,">el nombre</wi>
+<wi type="G" value="2257,9,">de nuestro</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="2962,8,">Señor</wi></wi>
+<wi type="G" value="2424,10,">Jesús</wi>
+<wi type="G" value="5547,11,">Cristo</wi>;</t>
 </sv>
-		<sv id="Ephesians-5-21">
+
+<sv id="Ephesians-5-21">
 subjecting yourselves one to another in the fear
 of Christ.
+<t xml:lang="es"><wi type="G" value="5293,1,">sujetándose</wi>
+<wi type="G" value="240,2,">unos a otros</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="5401,4,">el temor</wi>
+<wi type="G" value="2316,5,">de Dios</wi>.</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Ephesians-5-22">
 Wives, be subject to your own husbands, as to the Lord.
 </sv>
