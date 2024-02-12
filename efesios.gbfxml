@@ -28,7 +28,7 @@ to the saints who are at Ephesus, and the faithful in Christ Jesus:
 </t>
 
 </sv>
-		<sv id="Ephesians-1-2">
+<sv id="Ephesians-1-2">
 Grace to you and peace from God our Father and the Lord Jesus Christ.
 <t xml:lang="es"><wi type="G" value="5485,1,">Gracia</wi>
 <wi type="G" value="5213,2,">a ustedes</wi>
@@ -67,7 +67,7 @@ us with every spiritual blessing in the heavenly places in Christ;
 <wi type="G" value="1722,21,">en</wi>
 <wi type="G" value="5547,22,">Cristo</wi>;</t>
 </sv>
-		<sv id="Ephesians-1-4">
+<sv id="Ephesians-1-4">
 even
 as he chose us in him before the foundation of the world, that we would be
 holy and without blemish before him in love;
@@ -90,7 +90,7 @@ para que
 <wi type="G" value="1722,16,">en</wi>
 <wi type="G" value="26,17,">amor</wi>;</t>
 </sv>
-		<sv id="Ephesians-1-5">
+<sv id="Ephesians-1-5">
 having predestined us for
 adoption as children through Jesus Christ to himself, according to the good
 pleasure of his desire,
@@ -291,7 +291,7 @@ you, and the love which you have toward all the saints,
 <wi type="G" value="3956,18,">todos</wi>
 <wi type="G" value="3588,19,"><wi type="G" value="40,20,">los santos</wi></wi>. </t>
 </sv>
-		<sv id="Ephesians-1-16">
+<sv id="Ephesians-1-16">
 don´t cease to give thanks for you, making mention of you in my prayers,
 <t xml:lang="es"><wi type="G" value="3756,1,">no</wi>
 <wi type="G" value="3973,2,">ceso</wi>
@@ -362,7 +362,7 @@ son <wi type="G" value="3588,20,"><wi type="G" value="4149,21,">las riquezas</wi
 <wi type="G" value="1722,27,">en</wi>
 <wi type="G" value="3588,28,"/><wi type="G" value="40,29,">los santos</wi>, </t>
 </sv>
-		<sv id="Ephesians-1-19">
+<sv id="Ephesians-1-19">
 and what
 is the exceeding greatness of his power toward us who believe, according to
 that working of the strength of his might
@@ -382,7 +382,7 @@ that working of the strength of his might
 <wi type="G" value="3588,18,"><wi type="G" value="2479,19,">fuerte</wi></wi>
 <wi type="G" value="3588,16,"><wi type="G" value="2904,17,">potencia</wi></wi>.</t>
 </sv>
-		<sv id="Ephesians-1-20">
+<sv id="Ephesians-1-20">
 which he worked in Christ,
 when he raised him from the dead, and made him to sit at his right hand in
 the heavenly places,
@@ -403,7 +403,7 @@ cuando <wi type="G" value="846,7,">lo</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="2032,17,">el cielo</wi>,
 </t>
 </sv>
-		<sv id="Ephesians-1-21">
+<sv id="Ephesians-1-21">
 far above all rule, and authority, and power, and
 dominion, and every name that is named, not only in this age, but also in
 that which is to come.
@@ -432,7 +432,7 @@ sobre <wi type="G" value="3956,11,">todo</wi>
 <wi type="G" value="3195,24,">vendrá</wi>.
 </t>
 </sv>
-		<sv id="Ephesians-1-22">
+<sv id="Ephesians-1-22">
 He put all things in subjection under his feet,
 and gave him to be head over all things for the assembly,
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi> </t>
@@ -455,7 +455,7 @@ por <wi type="G" value="2776,11,">cabeza</wi>
 <wi type="G" value="3956,13,">toda</wi>
 <wi type="G" value="3588,14,"><wi type="G" value="1577,15,">la iglesia</wi></wi>,</t>
 </sv>
-		<sv id="Ephesians-1-23">
+<sv id="Ephesians-1-23">
 which is his
 body, the fullness of him who fills all in all.
 <t xml:lang="es"><wi type="G" value="3748,1,">la cual</wi>
@@ -760,7 +760,7 @@ down the middle wall of partition,
 <wi type="G" value="3588,15,"><wi type="G" value="5418,16,">de separación</wi></wi>,
 </t>
 </sv>
-		<sv id="Ephesians-2-15">
+<sv id="Ephesians-2-15">
 having abolished in the flesh the
 hostility, the law of commandments contained in ordinances, that he might
 create in himself one new man of the two, making peace;
@@ -817,7 +817,7 @@ and to those who were near.
 <wi type="G" value="3588,9,">los que</wi>
 estaban <wi type="G" value="1451,10,">cerca</wi>.</t>
 </sv>
-		<sv id="Ephesians-2-18">
+<sv id="Ephesians-2-18">
 For through him we both have our access in
 one Spirit to the Father.
 <t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
@@ -1319,7 +1319,7 @@ como es <wi type="G" value="516,9,">digno</wi>
 <wi type="G" value="3739,13,">con el que</wi>
 <wi type="G" value="2564,14,">fueron llamados</wi>,</t>
 </sv>
-		<sv id="Ephesians-4-2">
+<sv id="Ephesians-4-2">
 with all lowliness and
 humility, with patience, bearing with one another in love;
 <t xml:lang="es"><wi type="G" value="3326,1,">con</wi>
@@ -2297,54 +2297,89 @@ of Christ.
 <cm>
 <sv id="Ephesians-5-22">
 Wives, be subject to your own husbands, as to the Lord.
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G"
+value="1135,2,">Esposas</wi></wi>,
+<wi type="G" value="5293,6,">estén sujetas a</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="2398,4,">sus</wi>
+<wi type="G" value="435,5,">maridos</wi>,
+<wi type="G" value="5613,7,">como</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2962,9,">al Señor</wi></wi>.</t>
 </sv>
-		<sv id="Ephesians-5-23">
+<sv id="Ephesians-5-23">
 For the
 husband is the head of the wife, and Christ also is the head of the assembly,
 being himself the savior of the body.
+<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="435,3,">el esposo</wi></wi>
+<wi type="G" value="2076,4,">es</wi>
+<wi type="G" value="2776,5,">cabeza</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="1135,7,">de la esposa</wi></wi>,
+<wi type="G" value="5613,8,">así como</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="5547,11,">Cristo</wi></wi>
+<wi type="G" value="2532,9,">también</wi>
+es <wi type="G" value="2776,12,">cabeza</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1577,14,">de la iglesia</wi></wi>,
+<wi type="G" value="2532,15,">y</wi>
+<wi type="G" value="846,16,">Él mismo</wi>
+<wi type="G" value="2076,17,">es</wi>
+<wi type="G" value="4990,18,">el salvador</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="4983,20,">del cuerpo</wi></wi>.</t>
 </sv>
-		<sv id="Ephesians-5-24">
+
+<sv id="Ephesians-5-24">
 But as the assembly is subject to
 Christ, so let the wives also be to their own husbands in everything.
+<wi type="G" value="235,1,">Entonces</wi>
+<wi type="G" value="5618,2,">como</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="1577,4,">la iglesia</wi></wi>
+<wi type="G" value="5293,5,">está sujeta</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="5547,7,">a Cristo</wi></wi>,
+<wi type="G" value="3779,8,">así</wi>
+<wi type="G" value="2532,9,">también</wi> que
+<wi type="G" value="3588,10,"><wi type="G" value="1135,11,">las esposas</wi></wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="2398,13,">a sus</wi>
+<wi type="G" value="435,14,">esposos</wi>
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="3956,16,">todo</wi>.
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Ephesians-5-25">
 Husbands, love your wives, even as Christ also loved the assembly, and
 gave himself up for it;
 </sv>
-		<sv id="Ephesians-5-26">
+<sv id="Ephesians-5-26">
 that he might sanctify it, having cleansed it
 by the washing of water with the word,
 </sv>
-		<sv id="Ephesians-5-27">
+<sv id="Ephesians-5-27">
 that he might present the
 assembly to himself gloriously, not having spot or wrinkle or any such thing;
 but that it should be holy and without blemish.
 </sv>
-		<sv id="Ephesians-5-28">
+<sv id="Ephesians-5-28">
 Even so ought husbands
 also to love their own wives as their own bodies. He who loves his own wife
 loves himself.
 </sv>
-		<sv id="Ephesians-5-29">
+<sv id="Ephesians-5-29">
 For no man ever hated his own flesh; but nourishes and
 cherishes it, even as the Lord also does the assembly;
 </sv>
-		<sv id="Ephesians-5-30">
+<sv id="Ephesians-5-30">
 because we are
 members of his body, of his flesh and bones.
 </sv>
-		<sv id="Ephesians-5-31">
+<sv id="Ephesians-5-31">
 «For this cause a man will
 leave his father and mother, and will be joined to his wife. The two will
 become one flesh.»
 </sv>
-		<sv id="Ephesians-5-32">
+<sv id="Ephesians-5-32">
 This mystery is great, but I speak concerning Christ
 and of the assembly.
 </sv>
-		<sv id="Ephesians-5-33">
+<sv id="Ephesians-5-33">
 Nevertheless each of you
 <wi type="T" value="P"/> must also love his
 own wife even as himself; and let the wife see that she respects her
@@ -2360,11 +2395,11 @@ husband.
 Children, obey your parents in the Lord, for this is right.
 
 </sv>
-		<sv id="Ephesians-6-2">
+<sv id="Ephesians-6-2">
 «Honor your father and mother,» which is the first commandment with a
 promise:
 </sv>
-		<sv id="Ephesians-6-3">
+<sv id="Ephesians-6-3">
 «that it may be well with you, and you may live long on the
 earth.»
 
@@ -2382,15 +2417,15 @@ Servants, be obedient to those who according to the flesh are your
 masters, with fear and trembling, in singleness of your heart, as to Christ;
 
 </sv>
-		<sv id="Ephesians-6-6">
+<sv id="Ephesians-6-6">
 not in the way of service only when eyes are on you, as men pleasers;
 but as servants of Christ, doing the will of God from the heart;
 </sv>
-		<sv id="Ephesians-6-7">
+<sv id="Ephesians-6-7">
 with
 good will doing service, as to the Lord, and not to men;
 </sv>
-		<sv id="Ephesians-6-8">
+<sv id="Ephesians-6-8">
 knowing that
 whatever good thing each one does, he will receive the same again from the
 Lord, whether he is bound or free.
@@ -2409,53 +2444,53 @@ no partiality with him.
 Finally, be strong in the Lord, and in the strength of his might.
 
 </sv>
-		<sv id="Ephesians-6-11">
+<sv id="Ephesians-6-11">
 Put on the whole armor of God, that you
 <wi type="T" value="P"/> may be able to stand
 against the wiles of the devil.
 </sv>
-		<sv id="Ephesians-6-12">
+<sv id="Ephesians-6-12">
 For our wrestling is not against flesh
 and blood, but against the principalities, against the powers, against the
 world´s rulers of the darkness of this age, and against the spiritual forces
 of wickedness in the heavenly places.
 </sv>
-		<sv id="Ephesians-6-13">
+<sv id="Ephesians-6-13">
 Therefore, put on the whole armor
 of God, that you
 <wi type="T" value="P"/> may be able to withstand in the evil day, and, having
 done all, to stand.
 </sv>
-		<sv id="Ephesians-6-14">
+<sv id="Ephesians-6-14">
 Stand therefore, having the utility belt of truth
 buckled around your waist, and having put on the breastplate of
 righteousness,
 </sv>
-		<sv id="Ephesians-6-15">
+<sv id="Ephesians-6-15">
 and having fitted your feet with the preparation of the
 Good News of peace;
 </sv>
-		<sv id="Ephesians-6-16">
+<sv id="Ephesians-6-16">
 above all, taking up the shield of faith, with which
 you
 <wi type="T" value="P"/> will be able to quench all the fiery darts of the evil one.
 
 </sv>
-		<sv id="Ephesians-6-17">
+<sv id="Ephesians-6-17">
 And take the helmet of salvation, and the sword of the Spirit, which is
 the spoken word of God;
 </sv>
-		<sv id="Ephesians-6-18">
+<sv id="Ephesians-6-18">
 with all prayer and requests, praying at all times in
 the Spirit, and being watchful to this end in all perseverance and requests
 for all the saints:
 </sv>
-		<sv id="Ephesians-6-19">
+<sv id="Ephesians-6-19">
 on my behalf, that utterance may be given to me in
 opening my mouth, to make known with boldness the mystery of the Good News,
 
 </sv>
-		<sv id="Ephesians-6-20">
+<sv id="Ephesians-6-20">
 for which I am an ambassador in chains; that in it I may speak boldly,
 as I ought to speak.
 
@@ -2467,7 +2502,7 @@ But that you
 the beloved brother and faithful servant in the Lord, will make known to you
 all things;
 </sv>
-		<sv id="Ephesians-6-22">
+<sv id="Ephesians-6-22">
 whom I have sent to you for this very purpose, that
 you
 <wi type="T" value="P"/> may know our state, and that he may comfort your hearts.
@@ -2478,7 +2513,7 @@ you
 Peace be to the brothers, and love with faith, from God the Father and
 the Lord Jesus Christ.
 </sv>
-		<sv id="Ephesians-6-24">
+<sv id="Ephesians-6-24">
 Grace be with all those who love our Lord Jesus
 Christ with incorruptible love. Amen.
 
