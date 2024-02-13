@@ -2347,20 +2347,80 @@ Christ, so let the wives also be to their own husbands in everything.
 <sv id="Ephesians-5-25">
 Husbands, love your wives, even as Christ also loved the assembly, and
 gave himself up for it;
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="435,2,">Esposos</wi></wi>,
+<wi type="G" value="25,3,">amen a</wi>
+<wi type="G" value="1438,6,">sus</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="1135,5,">esposas</wi></wi>,
+<wi type="G" value="2531,7,">tal como</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="5547,10,">Cristo</wi></wi>
+<wi type="G" value="2532,8,">también</wi>
+<wi type="G" value="25,11,">amó a</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="1577,13,">la iglesia</wi></wi>,
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="1438,15,">se</wi>
+<wi type="G" value="3860,16,">dio</wi>
+<wi type="GC" value="15">a si mismo</wi>
+<wi type="G" value="5228,17,">por</wi>
+<wi type="G" value="846,18,">esta</wi>;</t>
 </sv>
 <sv id="Ephesians-5-26">
 that he might sanctify it, having cleansed it
 by the washing of water with the word,
+<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
+<wi type="G" value="846,2,">Él</wi> la
+<wi type="G" value="37,3,">santificara</wi>,
+y <wi type="G" value="2511,4,">limpiara</wi> con
+<wi type="G" value="3588,5,"><wi type="G" value="3067,6,">el lavamiento</wi></wi>
+<wi type="G" value="3588,7,"><wi type="G" value="5204,8,">de agua</wi></wi>
+<wi type="G" value="1722,9,">por</wi>
+<wi type="G" value="4487,10,">la palabra</wi>.
+</t>
 </sv>
 <sv id="Ephesians-5-27">
 that he might present the
 assembly to himself gloriously, not having spot or wrinkle or any such thing;
 but that it should be holy and without blemish.
+<t xml:lang="es">
+<wi type="G" value="2443,1,">para</wi>
+<wi type="G" value="3936,2,"><wi type="G" value="846,3,">presentarla</wi></wi>
+<wi type="G" value="1438,4,">para si como</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="1577,7,">iglesia</wi></wi>
+<wi type="G" value="1741,5,">gloriosa</wi>,
+<wi type="G" value="3361,8,">que no</wi>
+<wi type="G" value="2192,9,">tuviera</wi>
+<wi type="G" value="4696,10,">mancha</wi>,
+<wi type="G" value="2228,11,">ni</wi>
+<wi type="G" value="4512,12,">arruga</wi>,
+<wi type="G" value="2228,13,">ni</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="5108,16,">cosa</wi>
+<wi type="G" value="5100,14,">alguna</wi>;
+<wi type="G" value="235,17,">sino</wi>
+<wi type="G" value="2443,18,"/><wi type="G" value="5600,19,">que fuera</wi>
+<wi type="G" value="40,20,">santa</wi>
+<wi type="G" value="2532,21,">y</wi>
+<wi type="G" value="299,22,">sin defecto</wi>.</t>
 </sv>
 <sv id="Ephesians-5-28">
 Even so ought husbands
 also to love their own wives as their own bodies. He who loves his own wife
 loves himself.
+<t xml:lang="es"><wi type="G" value="3779,1,">Así</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="435,4,">los varones</wi></wi>
+<wi type="G" value="3784,2,">deben</wi>
+<wi type="G" value="25,5,">amar a</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="1438,7,">sus</wi>
+<wi type="G" value="1135,8,">esposas</wi>
+<wi type="G" value="5613,9,">como</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="1438,11,">a sus propios</wi>
+<wi type="G" value="4983,12,">cuerpos</wi>.
+<wi type="G" value="3588,13,">El que</wi>
+<wi type="G" value="25,14,">ama a</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="1438,16,">su</wi>
+<wi type="G" value="1135,17,">esposa</wi>
+<wi type="G" value="1438,18,">se</wi>
+<wi type="G" value="25,19,">ama</wi>
+<wi type="GC" value="18">a si mismo</wi>.
+</t>
 </sv>
 <sv id="Ephesians-5-29">
 For no man ever hated his own flesh; but nourishes and
