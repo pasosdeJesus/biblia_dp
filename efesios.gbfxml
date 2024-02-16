@@ -2530,18 +2530,50 @@ husband.
 <cm>
 <sv id="Ephesians-6-1">
 Children, obey your parents in the Lord, for this is right.
-
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="5043,2,">Hijos</wi></wi>,
+<wi type="G" value="5219,3,">obedezcan a</wi>
+<wi type="G" value="5216,6,">sus</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="1118,5,">padres</wi></wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="2962,8,">el Señor</wi>,
+<wi type="G" value="1063,10,">porque</wi>
+<wi type="G" value="5124,9,">esto</wi>
+<wi type="G" value="2076,11,">es</wi>
+<wi type="G" value="1342,12,">correcto</wi>.</t>
 </sv>
 <sv id="Ephesians-6-2">
 «Honor your father and mother,» which is the first commandment with a
 promise:
+<t xml:lang="es">
+«<wi type="G" value="5091,1,">Honra a</wi>
+<wi type="G" value="4675,4,">tu</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="3962,3,">padre</wi></wi>
+<wi type="G" value="2532,5,">y</wi> a tu
+<wi type="G" value="3588,6,"><wi type="G" value="3384,7,">madre</wi></wi>,»
+<wi type="G" value="3748,8,">que</wi>
+<wi type="G" value="2076,9,">es</wi>
+<wi type="G" value="4413,11,">el primer</wi>
+<wi type="G" value="1785,10,">mandamiento</wi>
+<wi type="G" value="1722,12,">con</wi>
+<wi type="G" value="1860,13,">promesa</wi>:
+</t>
 </sv>
 <sv id="Ephesians-6-3">
 «that it may be well with you, and you may live long on the
 earth.»
+<t xml:lang="es">
+«<wi type="G" value="2443,1,">para que</wi>
+<wi type="G" value="4671,3,">te</wi> <wi type="G" value="1096,4,">vaya</wi>
+<wi type="G" value="2095,2,">bien</wi>,
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="2071,6,">tener</wi>
+<wi type="G" value="3118,7,">larga vida</wi>
+<wi type="G" value="1909,8,">en</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="1093,10,">la tierra</wi></wi>.»
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Ephesians-6-4">
 You
 <wi type="T" value="P"/> fathers, don´t provoke your children to wrath, but nurture them
