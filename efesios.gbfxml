@@ -2608,8 +2608,23 @@ traduce como admonición o exhortación.
 <sv id="Ephesians-6-5">
 Servants, be obedient to those who according to the flesh are your
 masters, with fear and trembling, in singleness of your heart, as to Christ;
-<t xml:lang="es">Siervos, sean obedientes a los que de acuerdo a la carne
-son sus amos, con temor y temblor, en sencillez de su corazón, como a Cristo;</t>
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G"
+value="1401,2,">Siervos</wi></wi>,
+<wi type="G" value="5219,3,">sean obedientes a</wi>
+<wi type="G" value="3588,4,">los que</wi>
+<wi type="G" value="2596,6,">de acuerdo a</wi>
+<wi type="G" value="4561,7,">la carne</wi>
+son <wi type="G" value="2962,5,">amos</wi>,
+<wi type="G" value="3326,8,">con</wi>
+<wi type="G" value="5401,9,">temor</wi>
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="5156,11,">temblor</wi>,
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="572,13,">sencillez</wi>
+<wi type="G" value="5216,16,">de su</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2588,15,">corazón</wi></wi>,
+<wi type="G" value="5613,17,">como</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="5547,19,">a</wi></wi> Cristo;</t>
 
 </sv>
 <sv id="Ephesians-6-6">
