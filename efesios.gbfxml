@@ -2630,10 +2630,32 @@ son <wi type="G" value="2962,5,">amos</wi>,
 <sv id="Ephesians-6-6">
 not in the way of service only when eyes are on you, as men pleasers;
 but as servants of Christ, doing the will of God from the heart;
+<t xml:lang="es"><wi type="G" value="3361,1,">no</wi>
+<wi type="G" value="2596,2,">como</wi>
+<wi type="G" value="3787,3,">siervo de vista</wi>
+<wi type="G" value="5613,4,">como</wi>
+<wi type="G" value="441,5,">complaciendo a hombres</wi>;
+<wi type="G" value="235,6,">sino</wi>
+<wi type="G" value="5613,7,">como</wi>
+<wi type="G" value="1401,8,">servidores</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="5547,10,">de Cristo</wi></wi>,
+<wi type="G" value="4160,11,">haciendo</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2307,13,">la voluntad</wi></wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2316,15,">de Dios</wi></wi>
+<wi type="G" value="1537,16,">de</wi>
+<wi type="G" value="5590,17,">corazón</wi>;
+</t>
 </sv>
 <sv id="Ephesians-6-7">
-with
-good will doing service, as to the Lord, and not to men;
+with good will doing service, as to the Lord, and not to men;
+<t xml:lang="es"><wi type="G" value="3326,1,">con</wi>
+<wi type="G" value="2133,2,">buena voluntad</wi>
+<wi type="G" value="1398,3,">sirviendo</wi>,
+<wi type="G" value="5613,4,">como</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2962,6,">al Señor</wi></wi>,
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="3756,8,">no</wi> como
+<wi type="G" value="444,9,">a hombres</wi>;</t>
 </sv>
 <sv id="Ephesians-6-8">
 knowing that
