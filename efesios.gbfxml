@@ -2661,17 +2661,57 @@ with good will doing service, as to the Lord, and not to men;
 knowing that
 whatever good thing each one does, he will receive the same again from the
 Lord, whether he is bound or free.
-
-</sv></cm><cm>
+<t xml:lang="es">
+<wi type="G" value="1492,1,">sabiendo</wi>
+<wi type="G" value="3754,2,">que</wi>
+<wi type="G" value="1437,4,">si</wi>
+<wi type="G" value="5100,5,">alguien</wi><wi type="G" value="1538,6,"/>
+<wi type="G" value="4160,7,">hace</wi>
+<wi type="G" value="3739,3,">alguna</wi>
+<wi type="G" value="18,8,">cosa buena</wi>,
+<wi type="G" value="2865,10,">recibirá</wi>
+<wi type="G" value="5124,9,">lo mismo</wi>
+<wi type="G" value="3844,11,">del</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2962,13,">Señor</wi></wi>,
+<wi type="G" value="1535,14,">bien</wi> sea
+<wi type="G" value="1401,15,">esclavo</wi>
+<wi type="G" value="1535,16,">o</wi>
+<wi type="G" value="1658,17,">libre</wi>.
+</t>
+</sv></cm>
+<cm>
 
 <sv id="Ephesians-6-9">
 You
 <wi type="T" value="P"/> masters, do the same things to them, and give up threatening,
 knowing that he who is both their Master and yours is in heaven, and there is
 no partiality with him.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="4160,6,">ustedes</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="2962,3,">amos</wi></wi>,
+<wi type="GC" value="6">hagan</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="846,5,">eso mismo</wi>
+<wi type="G" value="4314,7,">por</wi>
+<wi type="G" value="846,8,">ellos</wi>,
+<wi type="G" value="447,9,">dejando</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="547,11,">las amenazas</wi></wi>,
+<wi type="G" value="1492,12,">sabiendo</wi>
+<wi type="G" value="3754,13,">que</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="2962,18,">el Amo</wi></wi>
+<wi type="G" value="5216,15,">de ustedes</wi>
+<wi type="G" value="2532,14,">y</wi> <wi type="G" value="846,16,">de ellos</wi>
+<wi type="G" value="2076,19,">está</wi>
+<wi type="G" value="1722,20,">en</wi>
+<wi type="G" value="3772,21,">el cielo</wi>,
+<wi type="G" value="2532,22,">y</wi> que
+<wi type="G" value="3756,24,">no</wi>
+<wi type="G" value="2076,25,">hay</wi>
+<wi type="G" value="4382,23,">parcialidad</wi>
+<wi type="G" value="3844,26,">en</wi>
+<wi type="G" value="846,27,">Él</wi>.</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Ephesians-6-10">
 Finally, be strong in the Lord, and in the strength of his might.
 
