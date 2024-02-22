@@ -2729,14 +2729,58 @@ Finally, be strong in the Lord, and in the strength of his might.
 </sv>
 <sv id="Ephesians-6-11">
 Put on the whole armor of God, that you
-<wi type="T" value="P"/> may be able to stand
+may be able to stand
 against the wiles of the devil.
+<t xml:lang="es"><wi type="G" value="1746,1,">Pónganse</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="3833,3,">toda la armadura</wi></wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2316,5,">de Dios</wi></wi>,
+para <wi type="G" value="4314,6,"/><wi type="G" value="3588,7,">que</wi>
+<wi type="G" value="5209,9,">ustedes</wi>
+<wi type="G" value="1410,8,">puedan</wi>
+<wi type="G" value="2476,10,">mantenerse</wi>
+<wi type="G" value="4314,11,">ante</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="3180,13,">los engaños</wi></wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="1228,15,">del diablo</wi>.
+</t>
 </sv>
 <sv id="Ephesians-6-12">
 For our wrestling is not against flesh
 and blood, but against the principalities, against the powers, against the
 world´s rulers of the darkness of this age, and against the spiritual forces
 of wickedness in the heavenly places.
+<t xml:lang="es">
+<wi type="G" value="3754,1,">Pues</wi>
+<wi type="G" value="2254,4,">nuestra</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="3823,6,">lucha</wi></wi>
+<wi type="G" value="3756,2,">no</wi>
+<wi type="G" value="2076,3,">es</wi>
+<wi type="G" value="4314,7,">contra</wi>
+<wi type="G" value="4561,10,">carne</wi>
+<wi type="G" value="2532,9,">ni</wi>
+<wi type="G" value="129,8,">sangre</wi>,
+<wi type="G" value="235,11,">sino</wi>
+<wi type="G" value="4314,12,">contra</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="746,14,">principados</wi></wi>,
+<wi type="G" value="4314,15,">contra</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="1849,17,">poderes</wi></wi>,
+<wi type="G" value="4314,18,">contra</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="2888,20,">gobernadores</wi></wi>
+<wi type="G" value="3588,21,"><wi type="G" value="4655,22,">de la oscuridad</wi></wi>
+<wi type="G" value="5127,25,">de esta</wi>
+<wi type="G" value="3588,23,"><wi type="G" value="165,24,">época</wi></wi>,
+y <wi type="G" value="4314,26,">contra</wi>
+<wi type="G" value="3588,29,"><wi type="G" value="4189,30,">maldad</wi></wi>
+<wi type="G" value="3588,27,"/><wi type="G" value="4152,28,">espiritual</wi>
+<wi type="G" value="1722,31,">en</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,32,">lo</wi> <wi type="G" value="2032,33,">alto</wi><rf>
+<citebib id="WEB"/> dice `en lugares celestes,´
+<citebib id="KJV2003"/> dice `lugares altos,´
+<citebib id="RVG2012"/> dice `los aires.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`επουρανιοις´ es un adjetivo que se traduce como  celestial, alto.
+</rf></rb>
+<t xml:lang="es">.
+</t>
 </sv>
 <sv id="Ephesians-6-13">
 Therefore, put on the whole armor
