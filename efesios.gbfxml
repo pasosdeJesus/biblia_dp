@@ -2824,12 +2824,32 @@ con
 <sv id="Ephesians-6-15">
 and having fitted your feet with the preparation of the
 Good News of peace;
+<t xml:lang="es">
+<wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="5265,2,">calza</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="4228,4,">los pies</wi></wi>
+<wi type="G" value="1722,5,">con</wi>
+<wi type="G" value="2091,6,">la preparación</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="2098,8,">del evangelio</wi></wi>
+<wi type="G" value="3588,9,"><wi type="G" value="1515,10,">de paz</wi></wi>;</t>
 </sv>
 <sv id="Ephesians-6-16">
 above all, taking up the shield of faith, with which
 you
-<wi type="T" value="P"/> will be able to quench all the fiery darts of the evil one.
-
+will be able to quench all the fiery darts of the evil one.
+<t xml:lang="es"><wi type="G" value="1909,1,">sobre</wi>
+<wi type="G" value="3956,2,">todo</wi>,
+<wi type="G" value="353,3,">tomando</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2375,5,">el escudo</wi></wi>
+<wi type="G" value="3588,6,"><wi type="G" value="4102,7,">de la fe</wi></wi>,
+<wi type="G" value="1722,8,">con</wi>
+<wi type="G" value="3739,9,">el que</wi>
+<wi type="G" value="1410,10,">podrán</wi>
+<wi type="G" value="4570,18,">apagar</wi>
+<wi type="G" value="3956,11,">todos</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="956,13,">los dardos</wi></wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="4448,17,">ardientes</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="4190,15,">del maligno</wi>.</t>
 </sv>
 <sv id="Ephesians-6-17">
 And take the helmet of salvation, and the sword of the Spirit, which is
