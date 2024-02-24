@@ -2785,13 +2785,41 @@ Según <citebib id="Thayer-BLB"/> la palabra griega
 <sv id="Ephesians-6-13">
 Therefore, put on the whole armor
 of God, that you
-<wi type="T" value="P"/> may be able to withstand in the evil day, and, having
+may be able to withstand in the evil day, and, having
 done all, to stand.
+<t xml:lang="es"><wi type="G" value="1223,1,">Por</wi>
+<wi type="G" value="5124,2,">esto</wi>
+<wi type="G" value="353,3,">pónganse</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="3833,5,">toda la armadura</wi></wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2316,7,">de Dios</wi></wi>,
+<wi type="G" value="2443,8,">para que</wi>
+<wi type="G" value="1410,9,">puedan</wi>
+<wi type="G" value="436,10,">soportar</wi>
+<wi type="G" value="1722,11,">en</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2250,13,">el día</wi></wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="4190,15,">malo</wi>,
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="2716,18,">habiendo hecho</wi>
+<wi type="G" value="537,17,">todo</wi>,
+<wi type="G" value="2476,19,">mantenerse</wi>.</t>
 </sv>
 <sv id="Ephesians-6-14">
 Stand therefore, having the utility belt of truth
 buckled around your waist, and having put on the breastplate of
 righteousness,
+<t xml:lang="es">
+<wi type="G" value="2476,1,">Mantengan</wi>
+<wi type="G" value="3767,2,">entonces</wi>,
+con
+<wi type="G" value="5216,6,">sus</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="3751,5,">lomos</wi></wi>
+<wi type="G" value="4024,3,">ceñidos</wi>
+<wi type="G" value="1722,7,">con</wi>
+<wi type="G" value="225,8,">la verdad</wi>
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="1746,10,">teniendo</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2382,12,">la coraza</wi></wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1343,14,">de justicia</wi></wi>,</t>
 </sv>
 <sv id="Ephesians-6-15">
 and having fitted your feet with the preparation of the
