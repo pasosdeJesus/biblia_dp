@@ -2892,24 +2892,77 @@ for all the saints:
 <wi type="G" value="1162,21,">suplica</wi>
 <wi type="G" value="4012,22,">por</wi>
 <wi type="G" value="3956,23,">todos</wi>
-<wi type="G" value="3588,24,"><wi type="G" value="40,25,">los santos</wi></wi>:</t>
+<wi type="G" value="3588,24,"><wi type="G" value="40,25,">los santos</wi></wi>;</t>
 </sv>
 <sv id="Ephesians-6-19">
 on my behalf, that utterance may be given to me in
 opening my mouth, to make known with boldness the mystery of the Good News,
-
+<t xml:lang="es">
+<wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="5228,2,">por</wi>
+<wi type="G" value="1700,3,">mi</wi>,
+<wi type="G" value="2443,4,">para que</wi>
+<wi type="G" value="3427,5,">me</wi>
+<wi type="G" value="1325,6,">sea dada</wi>
+<wi type="G" value="3056,7,">palabra</wi>
+<wi type="G" value="1722,8,">cuando</wi>
+<wi type="G" value="457,9,">abra</wi>
+<wi type="G" value="3450,12,">mi</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="4750,11,">boca</wi></wi>,
+<wi type="G" value="1107,15,">para dar a conocer</wi>
+<wi type="G" value="1722,13,">con</wi>
+<wi type="G" value="3954,14,">valentía</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="3466,17,">el misterio</wi></wi>
+<wi type="G" value="3588,18,"><wi type="G" value="2098,19,">del evangelio</wi></wi>.
+</t>
 </sv>
+
 <sv id="Ephesians-6-20">
 for which I am an ambassador in chains; that in it I may speak boldly,
 as I ought to speak.
+<t xml:lang="es"><wi type="G" value="5228,1,">por</wi>
+<wi type="G" value="3739,2,">el cual</wi>
+<wi type="G" value="4243,3,">soy embajador</wi>
+<wi type="G" value="1722,4,">en</wi>
+<wi type="G" value="254,5,">cadenas</wi>
+<wi type="G" value="2443,6,">que</wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="846,8,">esto</wi>
+<wi type="G" value="3955,9,">hable valientemente</wi>,
+<wi type="G" value="5613,10,">cómo</wi>
+<wi type="G" value="3165,12,">yo</wi>
+<wi type="G" value="1163,11,">debo</wi>
+<wi type="G" value="2980,13,">hablar</wi>.</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Ephesians-6-21">
 But that you
 <wi type="T" value="P"/> also may know my affairs, how I am doing, Tychicus,
 the beloved brother and faithful servant in the Lord, will make known to you
 all things;
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="2443,1,">para que</wi>
+<wi type="G" value="5210,5,">ustedes</wi>
+<wi type="G" value="2532,4,">también</wi>
+<wi type="G" value="1492,3,">puedan saber</wi>
+<wi type="G" value="1691,8,">de</wi>
+<wi type="G" value="1691,8,">mis</wi>
+<wi type="G" value="3588,6,">asuntos</wi>,
+<wi type="G" value="2596,7,">y en particular</wi>
+<wi type="G" value="5101,9,">como</wi>
+<wi type="G" value="4238,10,">estoy</wi>,
+<wi type="G" value="3956,11,">todo</wi>
+se <wi type="G" value="5213,12,">los</wi>
+<wi type="G" value="1107,13,">dará a conocer</wi>
+<wi type="G" value="5190,14,">Tíquico</wi>
+<wi type="G" value="80,17,">un hermano</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="27,16,">amado</wi>
+<wi type="G" value="2532,18,">y</wi>
+<wi type="G" value="4103,19,">fiel</wi>
+<wi type="G" value="1249,20,">siervo</wi>
+<wi type="G" value="1722,21,">en</wi>
+<wi type="G" value="2962,22,">el Señor</wi>,</t>
 </sv>
 <sv id="Ephesians-6-22">
 whom I have sent to you for this very purpose, that
