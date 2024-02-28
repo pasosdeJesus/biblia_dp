@@ -2946,8 +2946,7 @@ all things;
 <wi type="G" value="5210,5,">ustedes</wi>
 <wi type="G" value="2532,4,">también</wi>
 <wi type="G" value="1492,3,">puedan saber</wi>
-<wi type="G" value="1691,8,">de</wi>
-<wi type="G" value="1691,8,">mis</wi>
+<wi type="G" value="1691,8,">de mis</wi>
 <wi type="G" value="3588,6,">asuntos</wi>,
 <wi type="G" value="2596,7,">y en particular</wi>
 <wi type="G" value="5101,9,">como</wi>
@@ -2967,24 +2966,63 @@ se <wi type="G" value="5213,12,">los</wi>
 <sv id="Ephesians-6-22">
 whom I have sent to you for this very purpose, that
 you
-<wi type="T" value="P"/> may know our state, and that he may comfort your hearts.
+may know our state, and that he may comfort your hearts.
+<t xml:lang="es"><wi type="G" value="3739,1,">a quien</wi>
+<wi type="G" value="4314,3,"/><wi type="G" value="5209,4,">les</wi>
+<wi type="G" value="3992,2,">he enviado</wi>
+<wi type="G" value="1519,5,">con</wi>
+<wi type="G" value="846,6,">este</wi>
+ <wi type="G" value="5124,7,">propósito</wi>,
+<wi type="G" value="2443,8,">que</wi>
+<wi type="G" value="1097,9,">puedan saber</wi>
+<wi type="G" value="2257,12,">de nuestro</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="4012,11,">estado</wi>,
+<wi type="G" value="2532,13,">y</wi> que
+<wi type="G" value="3870,14,">pueda confortar</wi>
+<wi type="G" value="5216,17,">sus</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2588,16,">corazones</wi></wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Ephesians-6-23">
 Peace be to the brothers, and love with faith, from God the Father and
 the Lord Jesus Christ.
+<t xml:lang="es"><wi type="G" value="1515,1,">Paz</wi>
+a
+<wi type="G" value="3588,2,"><wi type="G" value="80,3,">los hermanos</wi></wi>,
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="26,5,">amor</wi>
+<wi type="G" value="3326,6,">con</wi>
+<wi type="G" value="4102,7,">fe</wi>,
+<wi type="G" value="575,8,">de</wi>
+<wi type="G" value="2316,9,">Dios</wi>
+<wi type="G" value="3962,10,">el Padre</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="2962,12,">el Señor</wi>
+<wi type="G" value="2424,13,">Jesús</wi>
+<wi type="G" value="5547,14,">Cristo</wi>.
+</t>
 </sv>
 <sv id="Ephesians-6-24">
 Grace be with all those who love our Lord Jesus
 Christ with incorruptible love. Amen.
-
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="5485,2,">Gracia</wi></wi> sea
+<wi type="G" value="3326,3,">con</wi>
+<wi type="G" value="3956,4,">todos</wi>
+<wi type="G" value="3588,5,">los que</wi>
+<wi type="G" value="25,6,">aman a</wi>
+<wi type="G" value="2257,9,">nuestro</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="2962,8,">Señor</wi></wi>
+<wi type="G" value="2424,10,">Jesús</wi>
+<wi type="G" value="5547,11,">Cristo</wi>
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="861,13,">sinceridad</wi>.
+<wi type="G" value="281,14,">Amén</wi></t>
+<rb xml:lang="es">.<rf><citebib id="KJV2003"/> añade como colofón:
+"Escrito desde Roma para los Efesios por Tíquico."</rf></rb>
 <cl/>
-
-
 <cl/>
-
-
 </sv></cm></sc>
 </sb>
 
