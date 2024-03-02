@@ -12,7 +12,7 @@
   <!ENTITY corintios1 SYSTEM "corintios1.gbfxml">
   <!ENTITY corintios2 SYSTEM "corintios2.gbfxml">
   <!ENTITY galatas SYSTEM "galatas.gbfxml">
-  <!ENTITY galatas SYSTEM "efesios.gbfxml">
+  <!ENTITY efesios SYSTEM "efesios.gbfxml">
 
   <!ENTITY biblio SYSTEM "biblio.gbfxml">
   ]>
