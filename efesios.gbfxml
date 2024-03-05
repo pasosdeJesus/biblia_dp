@@ -1001,7 +1001,7 @@ Christ Jesus through the Good News,
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="5547,14,">Cristo</wi></wi>
 <wi type="G" value="1223,15,">por</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="2098,17,">el evangelio</wi></wi>.</t>
+<wi type="G" value="3588,16,"><wi type="G" value="2098,17,">el evangelio</wi></wi>,</t>
 </sv>
 <sv id="Efesios-3-7">
 of which I was made a servant, according
@@ -1037,7 +1037,7 @@ me <wi type="G" value="1325,7,">fue dada</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="1484,13,">los gentiles</wi></wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="421,16,">las insondables</wi>
 <wi type="G" value="4149,17,">riquezas</wi>
-<wi type="G" value="3588,18,"><wi type="G" value="5547,19,">de Cristo</wi></wi>.
+<wi type="G" value="3588,18,"><wi type="G" value="5547,19,">de Cristo</wi></wi>,
 </t>
 </sv>
 <sv id="Efesios-3-9">
@@ -1047,12 +1047,13 @@ all men see what is the
 <wi type="G" value="5461,2,">hacer</wi> que
 <wi type="G" value="3956,3,">todos</wi>
 <wi type="GC" value="2">vean</wi>
-<wi type="G" value="5101,4,">cual</wi> es la</t>
+<wi type="G" value="5101,4,">cual</wi> es la
+</t>
 <rb>administration
 <t xml:lang="es"><wi type="G" value="3588,5,"><wi type="G" value="2842,6,">participación</wi></wi></t><rf>TR reads
 of «administration»
 <t xml:lang="es"><citebib id="WEB"/> dice  `administración´ con nota al
-pie "TR dice  «compañia» en lugar de «administración»."
+pie: TR dice  «compañia» en lugar de «administración».
 <citebib id="KJV2003"/> dice  `compañia,´
 <citebib id="RVG2012"/> dice `dispensación.´
 Según <citebib id="TR-BLB"/> la palabra griega `κοινωνια` se traduce
@@ -1063,7 +1064,8 @@ se tiene en algo, contribución.
 </rb>
  of the mystery which for ages has been hidden in God,
 who created all things through Jesus Christ;
-<t xml:lang="es"><wi type="G" value="3588,7,"><wi type="G" value="3466,8,">del misterio</wi></wi>
+<t xml:lang="es">
+<wi type="G" value="3588,7,"><wi type="G" value="3466,8,">del misterio</wi></wi>
 <wi type="G" value="3588,9,">que</wi> </t>
 <rb xml:lang="es"><wi type="G" value="575,11,">por</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="165,13,">eras</wi></wi><rf>
@@ -1090,19 +1092,19 @@ to the intent that now
 through the assembly the manifold wisdom of God might be made known to the
 principalities and the powers in the heavenly places,
 <t xml:lang="es">
-<wi type="G" value="2443,1,">con la intención que</wi>
+<wi type="G" value="2443,1,">con la intención de que</wi>
 <wi type="G" value="3568,3,">ahora</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="746,5,">los principados</wi></wi>
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="3588,7,"><wi type="G" value="1849,8,">potestades</wi></wi>
 <wi type="G" value="1722,9,">en</wi>
-<wi type="G" value="3588,10,"/><wi type="G" value="2032,11,">los lugares celestes</wi>.
+<wi type="G" value="3588,10,"/><wi type="G" value="2032,11,">los lugares celestes</wi>,
 <wi type="G" value="1107,2,">conocieran</wi>
 <wi type="G" value="1223,12,">mediante</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="1577,14,">la iglesia</wi></wi>,
 <wi type="G" value="3588,15,"/><wi type="G" value="4182,16,">la multiforme</wi>
 <wi type="G" value="4678,17,">sabiduría</wi>
-<wi type="G" value="3588,18,"><wi type="G" value="2316,19,">de Dios</wi></wi>.
+<wi type="G" value="3588,18,"><wi type="G" value="2316,19,">de Dios</wi></wi>,
 </t>
 </sv>
 <sv id="Efesios-3-11">
@@ -1150,10 +1152,10 @@ que
 <wi type="G" value="3588,6,"><wi type="G" value="2347,7,">tribulaciones</wi></wi>
 <wi type="G" value="5228,9,">por</wi>
 <wi type="G" value="5216,10,">ustedes</wi>,
-<wi type="G" value="3748,11,">que</wi>
+<wi type="G" value="3748,11,">las cuales</wi>
 <wi type="G" value="2076,12,">son</wi>
-<wi type="G" value="5216,14,">su</wi>
-<wi type="G" value="1391,13,">gloria</wi>.</t>
+<wi type="G" value="1391,13,">la gloria</wi>
+<wi type="G" value="5216,14,">de ustedes</wi>.</t>
 </sv></cm><cm>
 
 <sv id="Efesios-3-14">
@@ -1185,7 +1187,7 @@ from whom every family in heaven and on earth is named,
 <wi type="G" value="2532,7,">y</wi>
 <wi type="G" value="1909,8,">sobre</wi>
 <wi type="G" value="1093,9,">la tierra</wi>
-<wi type="G" value="3687,10,">es nombrada</wi>.
+<wi type="G" value="3687,10,">es nombrada</wi>,
 </t>
 </sv>
 <sv id="Efesios-3-16">
@@ -1237,7 +1239,7 @@ with all the saints what is the breadth and length and height and depth,
 <wi type="G" value="3956,5,">todos</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="40,7,">los santos</wi>
 <wi type="G" value="5101,8,">cual</wi> es
-<wi type="G" value="3588,9,"><wi type="G" value="4114,10,">la amplitud</wi></wi>,
+<wi type="G" value="3588,9,"><wi type="G" value="4114,10,">la amplitud</wi></wi>
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="3372,12,">la longitud</wi>
 <wi type="G" value="2532,13,">y</wi>
@@ -1254,7 +1256,7 @@ may be filled with all the fullness of God.
 <wi type="G" value="3588,8,"><wi type="G" value="5547,9,">de Cristo</wi></wi>
 <wi type="G" value="3588,5,">que</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="5235,4,">sobrepasa</wi>
-<wi type="G" value="1108,6,">conocimiento</wi>
+<wi type="G" value="1108,6,">el conocimiento</wi>
 <wi type="G" value="2443,10,">y que</wi>
 <wi type="G" value="4137,11,">sean llenos</wi>
 <wi type="G" value="1519,12,">con</wi>
@@ -1282,7 +1284,7 @@ con <wi type="G" value="4057,8,">abundancia</wi>
 <wi type="G" value="3588,16,">que</wi>
 <wi type="G" value="1754,17,">obra</wi>
 <wi type="G" value="1722,18,">en</wi>
-<wi type="G" value="2254,19,">nosotros</wi>.</t>
+<wi type="G" value="2254,19,">nosotros</wi>,</t>
 </sv>
 <sv id="Efesios-3-21">
 to him be the glory in the assembly and in Christ
@@ -1297,7 +1299,7 @@ Jesus to all generations forever and ever. Amen.
 <wi type="G" value="1519,10,">por</wi>
 <wi type="G" value="3956,11,">todas</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="1074,13,">las generaciones</wi></wi>
-<wi type="G" value="3588,14,"><wi type="G" value="165,15,">por siempre</wi></wi> y
+<wi type="G" value="3588,14,"><wi type="G" value="165,15,">para siempre</wi></wi> y
 <wi type="G" value="3588,16,"><wi type="G" value="165,17,">siempre</wi></wi>.
 <wi type="G" value="281,18,">Amén</wi>.</t>
 <cl/>
