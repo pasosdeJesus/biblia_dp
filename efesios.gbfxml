@@ -2572,7 +2572,7 @@ earth.»
 <wi type="G" value="4671,3,">te</wi> <wi type="G" value="1096,4,">vaya</wi>
 <wi type="G" value="2095,2,">bien</wi>,
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="2071,6,">tener</wi>
+<wi type="G" value="2071,6,">tengas</wi>
 <wi type="G" value="3118,7,">larga vida</wi>
 <wi type="G" value="1909,8,">en</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="1093,10,">la tierra</wi></wi>.»
@@ -2778,7 +2778,7 @@ y <wi type="G" value="4314,26,">contra</wi>
 <wi type="G" value="3588,29,"><wi type="G" value="4189,30,">maldad</wi></wi>
 <wi type="G" value="3588,27,"/><wi type="G" value="4152,28,">espiritual</wi>
 <wi type="G" value="1722,31,">en</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,32,">lo</wi> <wi type="G" value="2032,33,">alto</wi><rf>
+<rb xml:lang="es"><wi type="G" value="3588,32,"/><wi type="G" value="2032,33,">lugares altos</wi><rf>
 <citebib id="WEB"/> dice `en lugares celestes,´
 <citebib id="KJV2003"/> dice `lugares altos,´
 <citebib id="RVG2012"/> dice `los aires.´
@@ -2816,7 +2816,6 @@ righteousness,
 <t xml:lang="es">
 <wi type="G" value="2476,1,">Mantengan</wi>
 <wi type="G" value="3767,2,">entonces</wi>,
-con
 <wi type="G" value="5216,6,">sus</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="3751,5,">lomos</wi></wi>
 <wi type="G" value="4024,3,">ceñidos</wi>
@@ -2832,7 +2831,7 @@ and having fitted your feet with the preparation of the
 Good News of peace;
 <t xml:lang="es">
 <wi type="G" value="2532,1,">y</wi>
-<wi type="G" value="5265,2,">calza</wi>
+<wi type="G" value="5265,2,">calzados</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="4228,4,">los pies</wi></wi>
 <wi type="G" value="1722,5,">con</wi>
 <wi type="G" value="2091,6,">la preparación</wi>
@@ -2919,7 +2918,7 @@ opening my mouth, to make known with boldness the mystery of the Good News,
 <wi type="G" value="1722,13,">con</wi>
 <wi type="G" value="3954,14,">valentía</wi>
 <wi type="G" value="3588,16,"><wi type="G" value="3466,17,">el misterio</wi></wi>
-<wi type="G" value="3588,18,"><wi type="G" value="2098,19,">del evangelio</wi></wi>.
+<wi type="G" value="3588,18,"><wi type="G" value="2098,19,">del evangelio</wi></wi>,
 </t>
 </sv>
 
@@ -2930,7 +2929,7 @@ as I ought to speak.
 <wi type="G" value="3739,2,">el cual</wi>
 <wi type="G" value="4243,3,">soy embajador</wi>
 <wi type="G" value="1722,4,">en</wi>
-<wi type="G" value="254,5,">cadenas</wi>
+<wi type="G" value="254,5,">cadenas</wi>,
 <wi type="G" value="2443,6,">que</wi>
 <wi type="G" value="1722,7,">en</wi>
 <wi type="G" value="846,8,">esto</wi>
@@ -3005,7 +3004,7 @@ a
 <wi type="G" value="2316,9,">Dios</wi>
 <wi type="G" value="3962,10,">el Padre</wi>
 <wi type="G" value="2532,11,">y</wi>
-<wi type="G" value="2962,12,">el Señor</wi>
+<wi type="G" value="2962,12,">del Señor</wi>
 <wi type="G" value="2424,13,">Jesús</wi>
 <wi type="G" value="5547,14,">Cristo</wi>.
 </t>
