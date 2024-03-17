@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <sb id="Gálatas" type="" xml:lang="">
-<tt>Paul´s Letter to the Gálatas
-<t xml:lang="es"/>Carta de Pablo a los Gálatas</tt>
+<tt>Paul´s Letter to the Galatians<t xml:lang="es">Carta de Pablo a los Gálatas</t></tt>
 <sc id="Gálatas-1">
 <cm>
 <sv id="Gálatas-1-1">
@@ -30,9 +29,9 @@ Jesus Christ, and God the Father, who raised him from the dead),
 <wi type="G" value="3498,20,">los muertos</wi>),
 </t>
 </sv>
+
 <sv id="Gálatas-1-2">
-and all
-the
+and all the
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="3956,5,">todos</wi>
 </t>
