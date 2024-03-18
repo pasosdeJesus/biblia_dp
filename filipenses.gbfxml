@@ -7,36 +7,36 @@
 <cm>
 <sv id="Filipenses-1-1">
 Paul and Timothy, servants of Jesus Christ;
-<t xml:lang="es"><wi type="G" value="3972,1,">Pablo</wi> 
-<wi type="G" value="2532,2,">y</wi> 
-<wi type="G" value="5095,3,">Timoteo</wi>, 
-<wi type="G" value="1401,4,">siervos</wi> 
-<wi type="G" value="2424,5,">de Jesús</wi> 
+<t xml:lang="es"><wi type="G" value="3972,1,">Pablo</wi>
+<wi type="G" value="2532,2,">y</wi>
+<wi type="G" value="5095,3,">Timoteo</wi>,
+<wi type="G" value="1401,4,">siervos</wi>
+<wi type="G" value="2424,5,">de Jesús</wi>
 <wi type="G" value="5547,6,">Cristo</wi>;</t>
 <cl/>
 To all the saints in Christ Jesus who are at Philippi, with the
-<t xml:lang="es"><wi type="G" value="3956,7,">A todos</wi> 
-<wi type="G" value="3588,8,"/><wi type="G" value="40,9,">los santos</wi> 
-<wi type="G" value="1722,10,">en</wi> 
-<wi type="G" value="5547,11,">Cristo</wi> 
-<wi type="G" value="2424,12,">Jesús</wi> 
-<wi type="G" value="3588,13,"/><wi type="G" value="5607,14,">que están</wi> 
-<wi type="G" value="1722,15,">en</wi> 
+<t xml:lang="es"><wi type="G" value="3956,7,">A todos</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="40,9,">los santos</wi>
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="5547,11,">Cristo</wi>
+<wi type="G" value="2424,12,">Jesús</wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="5607,14,">que están</wi>
+<wi type="G" value="1722,15,">en</wi>
 <wi type="G" value="5375,16,">Filipos</wi>,
 <wi type="G" value="4862,17,">con</wi> </t>
 <rb>overseers
-<t xml:lang="es"><wi type="G" value="1985,18,">los supervisores</wi></t><rf>The word translated «overseers» (episkopos) can also be
+<t xml:lang="es"><wi type="G" value="1985,18,">los obispos</wi></t><rf>The word translated «overseers» (episkopos) can also be
 translated superintendents, guardians, curators, or bishops.
-<t xml:lang="es">La palabra traducida como supervisores
-(επισκοποις) puede traducirse como superintendentes, guardianes, curadores
-u obispos.</t></rf>
+<t xml:lang="es">La palabra traducida como obispos
+(επισκοποις) puede traducirse como supervisores, superintendentes,
+guardianes, curadores u obispos.</t></rf>
 </rb>
  and
 <t xml:lang="es">
 <wi type="G" value="2532,19,">y</wi>
 </t>
 <rb>deacons<t xml:lang="es">
-<wi type="G" value="1249,20,">los diaconos</wi></t><rf>Or, servants
+<wi type="G" value="1249,20,">los diáconos</wi></t><rf>Or, servants
 <t xml:lang="es"><wi type="G" value=",">servidores</wi></t></rf>
 </rb>:<t xml:lang="es">:</t>
 </sv>
@@ -44,26 +44,45 @@ u obispos.</t></rf>
 <sv id="Filipenses-1-2">
 Grace to you, and peace from God, our
 Father, and the Lord Jesus Christ.
-<t xml:lang="es"><wi type="G" value="5485,1,">Gracia</wi> 
-<wi type="G" value="5213,2,">a ustedes</wi> 
-<wi type="G" value="2532,3,">y</wi> 
-<wi type="G" value="1515,4,">paz</wi> 
-<wi type="G" value="575,5,">de</wi> 
-<wi type="G" value="2316,6,">Dios</wi>, 
+<t xml:lang="es"><wi type="G" value="5485,1,">Gracia</wi>
+<wi type="G" value="5213,2,">a ustedes</wi>
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="1515,4,">paz</wi>
+<wi type="G" value="575,5,">de</wi>
+<wi type="G" value="2316,6,">Dios</wi>,
 <wi type="G" value="2257,8,">nuestro</wi>
-<wi type="G" value="3962,7,">Padre</wi>, 
-<wi type="G" value="2532,9,">y</wi> 
-<wi type="G" value="2962,10,">del Señor</wi> 
-<wi type="G" value="2424,11,">Jesús</wi> 
+<wi type="G" value="3962,7,">Padre</wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="2962,10,">del Señor</wi>
+<wi type="G" value="2424,11,">Jesús</wi>
 <wi type="G" value="5547,12,">Cristo</wi>.</t>
 </sv>
 <sv id="Filipenses-1-3">
-I thank my God whenever I remember
-you,
+I thank my God whenever I remember you,
+<t xml:lang="es"><wi type="G" value="2168,1,">Agradezco</wi> a
+<wi type="G" value="3450,4,">mi</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="2316,3,">Dios</wi></wi>
+<wi type="G" value="3956,6,">cada</wi>
+<wi type="G" value="1909,5,">vez</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="3417,8,">que me acuerdo</wi></wi>
+<wi type="G" value="5216,9,">de ustedes</wi>,</t>
 </sv>
 <sv id="Filipenses-1-4">
 always in every request of mine on behalf of you all making my
 requests with joy,
+<t xml:lang="es"><wi type="G" value="3842,1,">siempre</wi>
+<wi type="G" value="1722,2,">en</wi>
+<wi type="G" value="3956,3,">todas</wi>
+<wi type="G" value="3450,5,">mis</wi>
+<wi type="G" value="1162,4,">oraciones</wi>
+<wi type="G" value="4160,13,">haciendo</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="1162,12,">peticiones</wi></wi>
+<wi type="G" value="5228,6,">por</wi>
+<wi type="G" value="3956,7,">todos</wi>
+<wi type="G" value="5216,8,">ustedes</wi>
+<wi type="G" value="3326,9,">con</wi>
+<wi type="G" value="5479,10,">gozo</wi>,
+</t>
 </sv>
 <sv id="Filipenses-1-5">
 for your
