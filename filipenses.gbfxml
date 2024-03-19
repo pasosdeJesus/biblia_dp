@@ -86,17 +86,46 @@ requests with joy,
 </sv>
 <sv id="Filipenses-1-5">
 for your
+<t xml:lang="es"><wi type="G" value="1909,1,">por</wi>
+<wi type="G" value="5216,4,">su</wi></t>
 <rb>partnership
-<t xml:lang="es"/><rf>The word translated
-«partnership» (koinonia) also means «fellowship» and «sharing.»<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="3588,2,"><wi type="G"
+value="2842,3,">compañía</wi></wi></t><rf>The word translated
+«partnership» (koinonia) also means «fellowship» and «sharing.»
+<t xml:lang="es">La palabra traducida como
+«compañia» (koinonia) también significa «fraternidad» y «compartir.»
+<citebib id="RV1960"/> la traduce como «comunión».
+</t></rf>
 </rb>
  in
 furtherance of the Good News from the first day until now;
+<t xml:lang="es"><wi type="G" value="1519,5,">en</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2098,7,">el evangelio</wi></wi>
+<wi type="G" value="575,8,">desde</wi>
+<wi type="G" value="4413,9,">el primer</wi>
+<wi type="G" value="2250,10,">día</wi>
+<wi type="G" value="891,11,">hasta</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="3568,13,">ahora</wi>;</t>
 </sv>
 <sv id="Filipenses-1-6">
 being confident
 of this very thing, that he who began a good work in you will complete it
 until the day of Jesus Christ.
+<t xml:lang="es"><wi type="G" value="3982,1,">seguro</wi>
+<wi type="G" value="5124,3,">de esto</wi>
+<wi type="G" value="846,2,">mismo</wi>,
+<wi type="G" value="3754,4,">que</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="1728,6,">el que comenzó</wi>
+<wi type="G" value="18,10,">la buena</wi>
+<wi type="G" value="2041,9,">obra</wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="5213,8,">ustedes</wi>
+<wi type="G" value="2005,11,">la completará</wi>
+<wi type="G" value="891,12,">hasta</wi>
+<wi type="G" value="2250,13,">el día</wi>
+<wi type="G" value="2424,14,">de Jesús</wi>
+<wi type="G" value="5547,15,">Cristo</wi>.
+</t>
 </sv>
 <sv id="Filipenses-1-7">
 It is even right for me to think this way
