@@ -201,13 +201,48 @@ ambas traducciones comunes del sustantivo griego `σπλαγχνα.´
 <sv id="Filipenses-1-9">
 This I pray, that your love may abound yet more and more in knowledge
 and all discernment;
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="5124,2,">por esto</wi>
+<wi type="G" value="4336,3,">oro</wi>,
+<wi type="G" value="2443,4,">que</wi>
+<wi type="G" value="5216,7,">su</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="26,6,">amor</wi></wi>
+<wi type="G" value="4052,12,">abunde</wi>
+<wi type="G" value="2089,8,">aún</wi>
+<wi type="G" value="3123,9,">más</wi>
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="3123,11,">más</wi>
+<wi type="G" value="1722,13,">en</wi>
+<wi type="G" value="1922,14,">conocimiento</wi>
+<wi type="G" value="2532,15,">y</wi>
+en <wi type="G" value="3956,16,">todo</wi> </t>
+<rb xml:lang="es"><wi type="G" value="144,17,">discernimiento</wi><rf>
+<citebib id="WEB"/> dice `discernimiento,´
+<citebib id="KJV2003"/> dice `juicio,´
+<citebib id="RVG2012"/> dice `conocimiento.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `αἰσθήσει´
+se traduce como percepción, no solo con los sentidos sino con el intelecto,
+capacidad de conocer o discernir, de discernimiento moral en asuntos éticos.
+</rf></rb>
+<t xml:lang="es">;</t>
 </sv>
 <sv id="Filipenses-1-10">
-so that you
-<wi type="T" value="P"/> may approve the things that are
-excellent; that you
-<wi type="T" value="P"/> may be sincere and without offense to the day of
+so that you may approve the things that are
+excellent; that you  may be sincere and without offense to the day of
 Christ;
+<t xml:lang="es"><wi type="G" value="1519,1,">Para</wi> que
+<wi type="G" value="5209,4,">ustedes</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="1381,3,">puedan aprobar</wi>
+<wi type="G" value="3588,5,">lo que</wi>
+<wi type="G" value="1308,6,">es excelente</wi>;
+<wi type="G" value="2443,7,">que</wi>
+<wi type="G" value="5600,8,">sean</wi>
+<wi type="G" value="1506,9,">sinceros</wi>
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="677,11,">sin ofensa</wi>
+<wi type="G" value="1519,12,">para</wi>
+<wi type="G" value="2250,13,">el día</wi>
+<wi type="G" value="5547,14,">de Cristo</wi>;</t>
 </sv>
 <sv id="Filipenses-1-11">
 being filled with the fruits of righteousness, which are
