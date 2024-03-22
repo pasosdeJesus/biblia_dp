@@ -247,18 +247,44 @@ Christ;
 <sv id="Filipenses-1-11">
 being filled with the fruits of righteousness, which are
 through Jesus Christ, to the glory and praise of God.
+<t xml:lang="es"><wi type="G" value="4137,1,">llenos</wi>
+<wi type="G" value="2590,2,">de frutos</wi>
+<wi type="G" value="1343,3,">de justicia</wi>,
+<wi type="G" value="3588,4,">que</wi> son
+<wi type="G" value="1223,5,">mediante</wi>
+<wi type="G" value="2424,6,">Jesús</wi>
+<wi type="G" value="5547,7,">Cristo</wi>,
+<wi type="G" value="1519,8,">para</wi>
+<wi type="G" value="1391,9,">la gloria</wi>
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="1868,11,">alabanza</wi>
+<wi type="G" value="2316,12,">de Dios</wi>.</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Filipenses-1-12">
 Now I desire to have you know,
-<rb>brothers,
-<t xml:lang="es"/><rf>The word for «brothers»
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="1014,4,">deseo</wi>
+que <wi type="G" value="5209,3,">ustedes</wi>
+<wi type="G" value="1097,1,">entiendan</wi>,</t>
+<rb>brothers,<t xml:lang="es"><wi type="G" value="80,5,">hermanos</wi>,</t><rf>The word for «brothers»
 here and where context allows may also be correctly translated «brothers and
-sisters» or «siblings.»<t xml:lang="es"/></rf>
+sisters» or «siblings.»
+<t xml:lang="es">La palabra para «hermanos»
+aquí y donde el contexto lo permita también puede traducirse
+correctamente como «hermanos y hermanas.»</t></rf>
 </rb>
  that the things which happened to me have turned
 out rather to the progress of the Good News;
+<t xml:lang="es"><wi type="G" value="3754,6,">que</wi>
+<wi type="G" value="3588,7,">lo</wi>
+<wi type="G" value="2596,8,"/><wi type="G" value="1691,9,">mio</wi>
+<wi type="G" value="2064,15,">ha venido</wi>
+<wi type="G" value="3123,10,">más bien</wi>
+<wi type="G" value="1519,11,">para</wi>
+<wi type="G" value="4297,12,">progreso</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="2098,14,">del Evangelio</wi></wi>;</t>
 </sv>
 <sv id="Filipenses-1-13">
 so that it became evident to
