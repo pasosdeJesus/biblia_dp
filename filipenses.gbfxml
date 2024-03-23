@@ -286,15 +286,49 @@ out rather to the progress of the Good News;
 <wi type="G" value="4297,12,">progreso</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="2098,14,">del Evangelio</wi></wi>;</t>
 </sv>
+
 <sv id="Filipenses-1-13">
 so that it became evident to
 the whole praetorian guard, and to all the rest, that my bonds are in Christ;
+<t xml:lang="es"><wi type="G" value="5620,1,">así que</wi>
+<wi type="G" value="3450,4,">mis</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="1199,3,">cadenas</wi></wi>
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="5547,7,">Cristo</wi>
+<wi type="G" value="1096,8,">son</wi>
+<wi type="G" value="5318,5,">conocidas</wi>
+<wi type="G" value="1722,9,">por</wi>
+<wi type="G" value="3650,10,">todo</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,11,"><wi type="G" value="4232,12,">el pretorio</wi></wi><rf>
+<citebib id="WEB"/> dice `la guardia pretoriana,´
 
+<citebib id="KJV2003"/> dice `el palacio,´
+<citebib id="RVG2012"/> dice `el pretorio´ que es la traducción
+más directa de la palabra griega `πραιτωριω.´ </rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2532,13,">y</wi> <wi type="GC" value="9">por</wi>
+<wi type="G" value="3956,16,">todos</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="3062,15,">los demás</wi>;</t>
 </sv>
+
 <sv id="Filipenses-1-14">
 and that most of the brothers in the Lord, being confident through my
 bonds, are more abundantly bold to speak the word of God without fear.
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi> que para
+<wi type="G" value="3588,2,"/><wi type="G" value="4119,3,">muchos</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="80,5,">hermanos</wi></wi>
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="2962,7,">el Señor</wi>,
+<wi type="G" value="3982,8,">convencidos</wi>
+por <wi type="G" value="3450,11,">mis</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="1199,10,">cadenas</wi></wi>,
+<wi type="G" value="5111,13,">son</wi>
+<wi type="G" value="4056,12,">más</wi>
+<wi type="GC" value="13">valientes</wi>
+<wi type="G" value="2980,17,">para hablar</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="3056,16,">la palabra</wi></wi>
 
+<wi type="G" value="870,14,">sin temor</wi>.</t>
 </sv>
 <sv id="Filipenses-1-15">
 Some indeed preach Christ even out of envy and strife, and some also
