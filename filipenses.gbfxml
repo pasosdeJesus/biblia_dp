@@ -333,10 +333,37 @@ por <wi type="G" value="3450,11,">mis</wi>
 <sv id="Filipenses-1-15">
 Some indeed preach Christ even out of envy and strife, and some also
 out of good will.
+<t xml:lang="es"><wi type="G" value="5100,1,">Algunos</wi>,
+<wi type="G" value="3303,2,">de hecho</wi>,
+<wi type="G" value="2784,15,">predican a</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="5547,14,">Cristo</wi></wi>
+<wi type="G" value="2532,3,">incluso</wi>
+<wi type="G" value="1223,4,">por</wi>
+<wi type="G" value="5355,5,">envidia</wi>
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="2054,7,">contienda</wi>,
+<wi type="G" value="1161,9,">y</wi>
+<wi type="G" value="5100,8,">algunos</wi>
+<wi type="G" value="2532,10,">también</wi>
+<wi type="G" value="1223,11,">de</wi>
+<wi type="G" value="2107,12,">buena voluntad</wi>.</t>
 </sv>
 <sv id="Filipenses-1-16">
 The former insincerely preach Christ from selfish
 ambition, thinking that they add affliction to my chains;
+<t xml:lang="es"><wi type="G" value="3303,2,">De hecho</wi>
+<wi type="G" value="3588,1,">unos</wi>
+<wi type="G" value="1537,3,">por</wi>
+<wi type="G" value="2052,4,">rivalidades</wi>
+<wi type="G" value="3756,8,">no</wi>
+<wi type="G" value="55,9,">sinceramente</wi>
+<wi type="G" value="2605,7,">predican a</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="5547,6,">Cristo</wi></wi>
+<wi type="G" value="3633,10,">pensando</wi>
+en <wi type="G" value="2018,12,">añadir</wi>
+<wi type="G" value="2347,11,">aflicción</wi>
+a <wi type="G" value="3450,15,">mis</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1199,14,">cadenas</wi></wi>; </t>
 </sv>
 <sv id="Filipenses-1-17">
 but the
