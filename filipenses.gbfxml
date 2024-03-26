@@ -388,12 +388,12 @@ What does it matter? Only that in every way, whether in pretense or in
 truth, Christ is proclaimed. I rejoice in this, yes, and will rejoice.
 <t xml:lang="es">¿<wi type="G" value="1063,2,">Entonces</wi>
 <wi type="G" value="5101,1,">que</wi>?
-<wi type="G" value="4133,3,">Más</wi>
+<wi type="G" value="4133,3,">Que</wi>
 <wi type="G" value="3956,4,">de todas</wi>
 <wi type="G" value="5158,5,">formas</wi>,
 <wi type="G" value="1535,6,">bien</wi>
 <wi type="G" value="4392,7,">pretendiendo</wi>
-<wi type="G" value="1535,8,">o</wi>
+<wi type="G" value="1535,8,">o bien</wi>
 <wi type="G" value="225,9,">en verdad</wi>,
 <wi type="G" value="5547,10,">Cristo</wi>
 <wi type="G" value="2605,11,">es proclamado</wi>.
@@ -408,12 +408,66 @@ truth, Christ is proclaimed. I rejoice in this, yes, and will rejoice.
 <sv id="Filipenses-1-19">
 For I know that this will turn out to my salvation, through your
 supplication and the supply of the Spirit of Jesus Christ,
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1492,1,">se</wi>
+<wi type="G" value="3754,3,">que</wi>
+<wi type="G" value="5124,4,">esto</wi>
+<wi type="G" value="576,6,">se devolverá</wi>
+<wi type="G" value="1519,7,">para</wi>
+<wi type="G" value="3427,5,">mi</wi>
+<wi type="G" value="4991,8,">salvación</wi>,
+<wi type="G" value="1223,9,">por</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="5216,11,">sus</wi>
+<wi type="G" value="1162,12,">oraciones</wi>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="2024,14,">por</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="4151,16,">el Espíritu</wi></wi>
+<wi type="G" value="2424,17,">de Jesús</wi>
+<wi type="G" value="5547,18,">Cristo</wi>,</t>
 </sv>
 <sv id="Filipenses-1-20">
 according to
 my earnest expectation and hope, that I will in no way be disappointed, but
 with all boldness, as always, now also Christ will be magnified in my body,
 whether by life, or by death.
+<t xml:lang="es"><wi type="G" value="2596,1,">de acuerdo</wi>
+<wi type="G" value="3450,6,">a mis</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="603,3,">expectativas</wi></wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="GC" value="6">a mi</wi>
+<wi type="G" value="1680,5,">esperanza</wi>,
+<wi type="G" value="3754,7,">que</wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="3762,9,">nada</wi> </t>
+<rb xml:lang="es"><wi type="G" value="153,10,">seré avergonzado</wi><rf>
+<citebib id="WEB"/> dice `decepcionado,´
+<citebib id="KJV2003"/> dice `avergonzado,´
+<citebib id="RVG2012"/> dice `confundido.´
+En 2 Corintios 10:8 se tradujo como vergonzoso.
+De acuerdo a <citebib id="Thayer-BLB"/> la palabra griega `αισχυνθησομαι´
+se traduce como ser avergonzado, desfigurar, deshonrar.
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="235,11,">sino que</wi>
+<wi type="G" value="1722,12,">con</wi>
+<wi type="G" value="3956,13,">todo</wi>
+<wi type="G" value="3954,14,">valor</wi>,
+<wi type="G" value="5613,15,">como</wi>
+<wi type="G" value="3842,16,">siempre</wi>,
+<wi type="G" value="3568,18,">ahora</wi>
+<wi type="G" value="5547,20,">Cristo</wi>
+<wi type="G" value="2532,17,">también</wi>
+<wi type="G" value="3170,19,">será magnificado</wi>
+<wi type="G" value="1722,21,">en</wi>
+<wi type="G" value="3450,24,">mi</wi>
+<wi type="G" value="3588,22,"><wi type="G" value="4983,23,">cuerpo</wi></wi>,
+<wi type="G" value="1535,25,">bien</wi>
+<wi type="G" value="1223,26,">por</wi>
+<wi type="G" value="2222,27,">la vida</wi>
+<wi type="G" value="1535,28,">o</wi>
+<wi type="GC" value="25">bien</wi>
+<wi type="G" value="1223,29,">por</wi>
+<wi type="G" value="2288,30,">la muerte</wi>. </t>
 </sv>
 <sv id="Filipenses-1-21">
 For to me to live is Christ, and to die
