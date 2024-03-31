@@ -574,14 +574,64 @@ may abound in Christ Jesus in me through my presence with you again.
 <sv id="Filipenses-1-27">
 Only let your manner of life be worthy of the Good News of Christ, that,
 whether I come and see you or am absent, I may hear of your state, that
-you
-<wi type="T" value="P"/> stand firm in one spirit, with one soul striving for the faith of
+you stand firm in one spirit, with one soul striving for the faith of
 the Good News;
+<t xml:lang="es"><wi type="G" value="3440,1,">Más que</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4176,7,">el vivir</wi><rf>
+<citebib id="WEB"/> dice `que su forma de vivir,´
+<citebib id="KJV2003"/> dice `que su conversación´
+y <citebib id="RVG2012"/> dice `que conversen.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `πολιτευεσθε´ se traduce
+como vivir o como que la conversación sea.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="516,2,">sea digno</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2098,4,">del evangelio</wi></wi>
+<wi type="G" value="3588,5,"><wi type="G" value="5547,6,">de Cristo</wi></wi>,
+<wi type="G" value="2443,8,"/><wi type="G" value="1535,9,">bien si</wi>
+<wi type="G" value="2064,10,">vengo</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="5209,13,">los</wi>
+<wi type="G" value="1492,12,">veo</wi>
+<wi type="G" value="1535,14,">o bien si</wi>
+<wi type="G" value="548,15,">estoy ausente</wi>,
+<wi type="G" value="191,16,">que pueda escuchar</wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="4012,18,">respecto</wi>
+<wi type="G" value="5216,19,">a ustedes</wi>,
+<wi type="G" value="3754,20,">que</wi>
+<wi type="G" value="4739,21,">permanecen firmes</wi>
+<wi type="G" value="1722,22,">en</wi>
+<wi type="G" value="1520,23,">un</wi>
+<wi type="G" value="4151,24,">espíritu</wi> y
+<wi type="GC" value="22,">en</wi>
+<wi type="G" value="1520,25,">una</wi>
+<wi type="G" value="5590,26,">mente</wi>
+<wi type="G" value="4866,27,">luchando</wi>
+<wi type="G" value="3588,28,"><wi type="G" value="4102,29,">por la fe</wi></wi>
+<wi type="G" value="3588,30,"><wi type="G" value="2098,31,">en el evangelio</wi></wi>;
+</t>
 </sv>
 <sv id="Filipenses-1-28">
 and in nothing frightened by the adversaries, which is for
 them a proof of destruction, but to you of salvation, and that from God.
-
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="1722,4,">en</wi>
+<wi type="G" value="3367,5,">nada</wi>
+<wi type="G" value="3361,2,"/><wi type="G" value="4426,3,">estén temerosos</wi>
+<wi type="G" value="5259,6,">de</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="480,8,">los adversarios</wi>,
+<wi type="G" value="3748,9,">que</wi>
+<wi type="G" value="3303,11,"/><wi type="G" value="2076,12,">es</wi>
+<wi type="G" value="846,10,">para ellos</wi>
+<wi type="G" value="1732,13,">prueba</wi>
+<wi type="G" value="684,14,">de destrucción</wi>,
+<wi type="G" value="1161,16,">más de</wi>
+<wi type="G" value="5213,15,">su</wi>
+<wi type="G" value="4991,17,">salvación</wi>,
+<wi type="G" value="2532,18,">y</wi>
+<wi type="G" value="5124,19,">esta</wi>
+<wi type="G" value="575,20,">de</wi>
+<wi type="G" value="2316,21,">Dios</wi>.</t>
 </sv>
 <sv id="Filipenses-1-29">
 Because it has been granted to you on behalf of Christ, not only to
