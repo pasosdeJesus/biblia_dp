@@ -699,6 +699,7 @@ compassion,
 <wi type="G" value="3628,19,">compasión</wi>,
 </t>
 </sv>
+
 <sv id="Filipenses-2-2">
 make my joy full, by being
 like-minded, having the same
@@ -718,17 +719,37 @@ siendo
 <wi type="G" value="5426,16,">mente</wi>;
 </t>
 </sv>
+
 <sv id="Filipenses-2-3">
 doing nothing through rivalry or
 through conceit, but in humility, each counting others better than himself;
-
+<t xml:lang="es"><wi type="G" value="3367,1,">nada</wi> 
+hagan <wi type="G" value="2596,2,">por</wi> 
+<wi type="G" value="2052,3,">rivalidad</wi> 
+<wi type="G" value="2228,4,">o</wi> 
+<wi type="G" value="2754,5,">para presumir</wi>,
+<wi type="G" value="235,6,">sino</wi> 
+<wi type="G" value="3588,7,"><wi type="G" value="5012,8,">en humildad</wi></wi>, 
+<wi type="G" value="2233,10,">estimando</wi> 
+<wi type="G" value="240,9,">a los otros</wi> 
+<wi type="G" value="5242,11,">como mejores</wi> 
+<wi type="G" value="1438,12,">que si mismos</wi>;</t>
 </sv>
+
 <sv id="Filipenses-2-4">
 each of you not just looking to his own things, but each of you also to
 the things of others.
+<t xml:lang="es"><wi type="G" value="3361,1,">no</wi>
+<wi type="G" value="4648,5,">procurando</wi> 
+<wi type="G" value="1538,4,">cada quien</wi> 
+<wi type="G" value="3588,2,"/><wi type="G" value="1438,3,">sus propias cosas</wi>, 
+<wi type="G" value="235,6,">sino</wi> 
+<wi type="G" value="1538,10,">cada uno</wi> 
+<wi type="G" value="2532,7,">también</wi> 
+<wi type="G" value="3588,8,"/><wi type="G" value="2087,9,">las de los demás</wi>.</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Filipenses-2-5">
 Have this in your mind, which was also in Christ Jesus,
 </sv>
