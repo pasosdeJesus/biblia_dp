@@ -789,10 +789,34 @@ se traduce como el actor de tomar, robar.
 <sv id="Filipenses-2-7">
 but emptied himself, taking the form of a servant, being made in the
 likeness of men.
+<t xml:lang="es"><wi type="G" value="235,1,">pero</wi>
+<wi type="G" value="1438,2,">se</wi>
+<wi type="G" value="2758,3,">despojó</wi>,
+<wi type="G" value="2983,6,">tomando</wi>
+<wi type="G" value="3444,4,">forma</wi>
+<wi type="G" value="1401,5,">de siervo</wi>,
+<wi type="G" value="1096,10,">haciéndose</wi>
+<wi type="G" value="1722,7,">a</wi>
+<wi type="G" value="3667,8,">la semejanza</wi>
+<wi type="G" value="444,9,">de los hombres</wi>.</t>
 </sv>
 <sv id="Filipenses-2-8">
 And being found in human form, he humbled himself,
 becoming obedient to death, yes, the death of the cross.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="2147,3,">estando</wi>
+<wi type="G" value="4976,2,">en forma</wi>
+<wi type="G" value="5613,4,">como</wi>
+<wi type="G" value="444,5,">de hombre</wi>, se
+<wi type="G" value="5013,6,">humilló</wi>
+<wi type="G" value="1438,7,">a si mimo</wi>
+<wi type="G" value="1096,8,">haciéndose</wi>
+<wi type="G" value="5255,9,">obediente</wi>
+<wi type="G" value="3360,10,">hasta</wi>
+<wi type="G" value="2288,11,">la muerte</wi>,
+<wi type="G" value="1161,13,">y</wi>,
+<wi type="G" value="2288,12,">muerte</wi>
+<wi type="G" value="4716,14,">de cruz</wi>.</t>
 </sv>
 <sv id="Filipenses-2-9">
 Therefore God
