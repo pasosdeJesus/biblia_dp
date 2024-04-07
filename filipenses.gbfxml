@@ -800,6 +800,7 @@ likeness of men.
 <wi type="G" value="3667,8,">la semejanza</wi>
 <wi type="G" value="444,9,">de los hombres</wi>.</t>
 </sv>
+
 <sv id="Filipenses-2-8">
 And being found in human form, he humbled himself,
 becoming obedient to death, yes, the death of the cross.
@@ -818,15 +819,42 @@ becoming obedient to death, yes, the death of the cross.
 <wi type="G" value="2288,12,">muerte</wi>
 <wi type="G" value="4716,14,">de cruz</wi>.</t>
 </sv>
+
 <sv id="Filipenses-2-9">
 Therefore God
 also highly exalted him, and gave to him the name which is above every name;
-
+<t xml:lang="es"><wi type="G" value="1352,1,">Entonces</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2316,4,">Dios</wi></wi>
+<wi type="G" value="2532,2,">también</wi>
+<wi type="G" value="846,5,">lo</wi>
+<wi type="G" value="5251,6,">exaltó</wi>,
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="846,9,">le</wi>
+<wi type="G" value="5483,8,">dio</wi>
+<wi type="G" value="3686,10,">el nombre</wi>
+<wi type="G" value="3588,11,">que</wi> es
+<wi type="G" value="5228,12,">sobre</wi>
+<wi type="G" value="3956,13,">todo</wi>
+<wi type="G" value="3686,14,">nombre</wi>;</t>
 </sv>
+
 <sv id="Filipenses-2-10">
 that at the name of Jesus every knee should bow, of those in heaven,
 those on earth, and those under the earth,
+<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
+<wi type="G" value="1722,2,">en</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="3686,4,">el nombre</wi></wi>
+<wi type="G" value="2424,5,">de Jesús</wi>
+<wi type="G" value="3956,6,">toda</wi>
+<wi type="G" value="1119,7,">rodilla</wi>
+<wi type="G" value="2578,8,">se doble</wi>,
+<wi type="G" value="2032,9,">del cielo</wi>
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="1919,11,">de la tierra</wi>
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="2709,13,">de debajo de la tierra</wi>,</t>
 </sv>
+
 <sv id="Filipenses-2-11">
 and that every tongue should
 confess that Jesus Christ is Lord, to the glory of God the Father.
