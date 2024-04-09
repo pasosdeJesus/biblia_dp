@@ -938,10 +938,25 @@ por
 <sv id="Filipenses-2-13">
 For it is God who works in you both to will
 and to work, for his good pleasure.
+<t xml:lang="es"><wi type="G" value="1063,3,">Pues</wi>
+<wi type="G" value="2076,4,">es</wi>
+<wi type="G" value="3588,1,"><wi type="G" value="2316,2,">Dios</wi></wi>
+<wi type="G" value="3588,5,">quien</wi>
+<wi type="G" value="1754,6,">obra</wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="5213,8,">ustedes</wi>
+<wi type="G" value="2532,9,">tanto</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="2309,11,">para querer</wi>
+<wi type="G" value="2532,12,">como</wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="1754,14,">para hacer</wi>,
+<wi type="G" value="5228,15,">por</wi>
+su
+<wi type="G" value="3588,16,"/><wi type="G" value="2107,17,">buen placer</wi>. </t>
 </sv>
 <sv id="Filipenses-2-14">
 Do all things without murmurings
 and disputes,
+<t xml:lang="es">Haz todas las cosas sin murmuración ni disputas,</t>
 </sv>
 <sv id="Filipenses-2-15">
 that you
