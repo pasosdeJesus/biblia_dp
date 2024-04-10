@@ -950,20 +950,44 @@ and to work, for his good pleasure.
 <wi type="G" value="2532,12,">como</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="1754,14,">para hacer</wi>,
 <wi type="G" value="5228,15,">por</wi>
-su
-<wi type="G" value="3588,16,"/><wi type="G" value="2107,17,">buen placer</wi>. </t>
+Su
+<wi type="G" value="3588,16,"/><wi type="G" value="2107,17,">buena voluntad</wi>. </t>
 </sv>
 <sv id="Filipenses-2-14">
 Do all things without murmurings
 and disputes,
-<t xml:lang="es">Haz todas las cosas sin murmuración ni disputas,</t>
+<t xml:lang="es"><wi type="G" value="4160,2,">Hagan</wi>
+<wi type="G" value="3956,1,">todo</wi>
+<wi type="G" value="5565,3,">sin</wi>
+<wi type="G" value="1112,4,">murmuraciones</wi>
+<wi type="G" value="2532,5,">ni</wi>
+<wi type="G" value="1261,6,">disputas</wi>,</t>
 </sv>
 <sv id="Filipenses-2-15">
-that you
-<wi type="T" value="P"/> may become blameless and harmless, children
+that you may become blameless and harmless, children
 of God without blemish in the midst of a crooked and perverse generation,
-among whom you
-<wi type="T" value="P"/> are seen as lights in the world,
+among whom you are seen as lights in the world,
+<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
+<wi type="G" value="1096,2,">sean</wi>
+<wi type="G" value="273,3,">inocentes</wi>
+<wi type="G" value="2532,4,">e</wi>
+<wi type="G" value="185,5,">inofensivos</wi>,
+<wi type="G" value="5043,6,">hijos</wi>
+<wi type="G" value="2316,7,">de Dios</wi>
+<wi type="G" value="298,8,">sin mancha</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="3319,10,">medio</wi>
+<wi type="G" value="1074,11,">de una generación</wi>
+<wi type="G" value="4646,12,">torcida</wi>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="1294,14,">perversa</wi>,
+<wi type="G" value="1722,15,">entre</wi>
+<wi type="G" value="3739,16,">quienes</wi>
+<wi type="G" value="5316,17,">ustedes brillan</wi>
+<wi type="G" value="5613,18,">como</wi>
+<wi type="G" value="5458,19,">luces</wi>
+<wi type="G" value="1722,20,">en</wi>
+<wi type="G" value="2889,21,">el mundo</wi>,</t>
 </sv>
 <sv id="Filipenses-2-16">
 holding up the
