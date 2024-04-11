@@ -989,21 +989,64 @@ among whom you are seen as lights in the world,
 <wi type="G" value="1722,20,">en</wi>
 <wi type="G" value="2889,21,">el mundo</wi>,</t>
 </sv>
+
 <sv id="Filipenses-2-16">
 holding up the
 word of life; that I may have something to boast in the day of Christ, that I
 didn´t run in vain nor labor in vain.
+<t xml:lang="es"><wi type="G" value="1907,3,">reteniendo</wi>
+<wi type="G" value="3056,1,">la palabra</wi>
+<wi type="G" value="2222,2,">de vida</wi>;
+<wi type="G" value="1519,4,">para</wi>
+que <wi type="G" value="1698,6,">yo</wi> </t>
+<rb xml:lang="es"><wi type="G" value="2745,5,">pueda gloriarme</wi><rf>
+<citebib id="WEB"/> dice `tenga algo de que presumir,´
+<citebib id="KJV2003"/> dice `pueda gozarme´
+<citebib id="RVG2012"/> dice `pueda gloriarme.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `καύχημα´
+se traduce como regocijarse, gloriarse, presumir.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="1698,6,"/><wi type="G" value="1519,7,">en</wi>
+<wi type="G" value="2250,8,">el día</wi>
+<wi type="G" value="5547,9,">de Cristo</wi>,
+<wi type="G" value="3754,10,">de</wi>
+<wi type="G" value="3756,11,">no</wi>
+<wi type="G" value="5143,14,">haber corrido</wi>
+<wi type="G" value="1519,12,">en</wi>
+<wi type="G" value="2756,13,">vano</wi>
+<wi type="G" value="3761,15,">ni</wi>
+<wi type="G" value="2872,18,">haber trabajado</wi>
+<wi type="G" value="1519,16,">en</wi>
+<wi type="G" value="2756,17,">vano</wi>.</t>
 </sv>
+
 <sv id="Filipenses-2-17">
 Yes, and if I am poured out on
 the sacrifice and service of your faith, I rejoice, and rejoice with you all.
-
+<t xml:lang="es"><wi type="G" value="235,1,">Más</wi>,
+<wi type="G" value="2532,3,"/><wi type="G" value="1487,2,">si</wi>
+<wi type="G" value="4689,4,">soy ofrecido</wi>
+<wi type="G" value="1909,5,">sobre</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2378,7,">el sacrificio</wi></wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="3009,9,">el servicio</wi>
+<wi type="G" value="5216,12,">de su</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="4102,11,">fe</wi></wi>,
+<wi type="G" value="5463,13,">me alegro</wi>,
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="4796,15,">me gozo</wi>
+por <wi type="G" value="3956,16,">todos</wi>
+<wi type="G" value="5213,17,">ustedes</wi>.
+</t>
 </sv>
+
 <sv id="Filipenses-2-18">
 In the same way, you
-<wi type="T" value="P"/> also rejoice, and rejoice with me.
+also rejoice, and rejoice with me.
+</sv></cm>
 
-</sv></cm><cm>
+<cm>
 
 <sv id="Filipenses-2-19">
 But I hope in the Lord Jesus to send Timothy to you soon, that I also
