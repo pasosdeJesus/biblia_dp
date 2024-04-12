@@ -1007,7 +1007,7 @@ Según <citebib id="Thayer-BLB"/> la palabra griega `καύχημα´
 se traduce como regocijarse, gloriarse, presumir.
 </rf></rb>
 <t xml:lang="es">
-<wi type="G" value="1698,6,"/><wi type="G" value="1519,7,">en</wi>
+<wi type="G" value="1519,7,">en</wi>
 <wi type="G" value="2250,8,">el día</wi>
 <wi type="G" value="5547,9,">de Cristo</wi>,
 <wi type="G" value="3754,10,">de</wi>
@@ -1044,6 +1044,14 @@ por <wi type="G" value="3956,16,">todos</wi>
 <sv id="Filipenses-2-18">
 In the same way, you
 also rejoice, and rejoice with me.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="846,3,">por esto</wi>
+<wi type="G" value="2532,4,">también</wi>
+<wi type="G" value="5210,5,">ustedes</wi>
+<wi type="G" value="5463,6,">alégrense</wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="4796,8,">gócense</wi> por
+<wi type="G" value="3427,9,">mi</wi>.</t>
 </sv></cm>
 
 <cm>
@@ -1051,10 +1059,26 @@ also rejoice, and rejoice with me.
 <sv id="Filipenses-2-19">
 But I hope in the Lord Jesus to send Timothy to you soon, that I also
 may be cheered up when I know how you are doing.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="1679,1,">confío</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="2962,4,">el Señor</wi>
+<wi type="G" value="2424,5,">Jesús</wi>
+<wi type="G" value="3992,8,"><wi type="G" value="5213,9,">para enviarles</wi></wi>
+<wi type="G" value="5030,7,">pronto</wi>
+a <wi type="G" value="5095,6,">Timoteo</wi>,
+<wi type="G" value="2443,10,">para que</wi>
+<wi type="G" value="2504,11,">yo también</wi>
+<wi type="G" value="2174,12,">pueda alegrarme</wi>
+<wi type="G" value="1097,13,">al saber</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="4012,15,">sobre</wi>
+<wi type="G" value="5216,16,">ustedes</wi>.</t>
 </sv>
 <sv id="Filipenses-2-20">
 For I have no one else
 like-minded, who will truly care about you.
+<t xml:lang="es">Pues no tengo a nadie más en mente,
+que realmente vaya a cuidarlos.</t>
 </sv>
 <sv id="Filipenses-2-21">
 For they all seek their
