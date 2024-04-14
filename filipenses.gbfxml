@@ -1101,14 +1101,43 @@ y <wi type="G" value="3756,7,">no</wi>
 <wi type="G" value="2424,11,">Jesús</wi>.</t>
 </sv>
 <sv id="Filipenses-2-22">
-But you
-<wi type="T" value="P"/> know the proof of
+But you know the proof of
 him, that, as a child serves a father, so he served with me in furtherance of
 the Good News.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="1097,5,">ustedes han conocido</wi>
+<wi type="G" value="1382,3,">la prueba</wi>
+<wi type="G" value="846,4,">de él</wi>,
+<wi type="G" value="3754,6,">pues</wi>
+<wi type="G" value="5613,7,">como</wi>
+<wi type="G" value="5043,9,">un hijo</wi>
+<wi type="G" value="3962,8,">al padre</wi>,
+<wi type="G" value="1398,12,">él ha servido</wi>
+<wi type="G" value="4862,10,"><wi type="G" value="1698,11,">conmigo</wi></wi>
+<wi type="G" value="1519,13,">en</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2098,15,">el evangelio</wi></wi>.
+</t>
 </sv>
 <sv id="Filipenses-2-23">
 Therefore I hope to send him at once, as soon as I see how
 it will go with me.
+<t xml:lang="es"><wi type="G" value="3303,2,">De hecho</wi>
+<wi type="G" value="3767,3,">por esto</wi> 
+<wi type="G" value="1679,4,">espero</wi> 
+<wi type="G" value="3992,5,"><wi type="G" value="5126,1,">enviarlo</wi></wi> 
+<wi type="G" value="1824,12,">ahora</wi>, 
+<wi type="G" value="5613,6,">tan pronto</wi> 
+<wi type="G" value="302,7,"/><wi type="G" value="872,8,">yo vea</wi> 
+</t>
+<rb xml:lang="es"><wi type="G" value="3588,9,"/><wi type="G" value="4012,10,">por</wi>
+<wi type="G" value="1691,11,">mi</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `como irá conmigo,´
+<citebib id="RVG2012"/> dice `como van mis negocios.´
+La palabra griega περι la hemos se traducido como alrededor, respecto, sobre,
+por, de.
+La palabra griega εμε la hemos traducido como a mí, mí, yo.
+</rf></rb>
+<t xml:lang="es">.</t>
 </sv>
 <sv id="Filipenses-2-24">
 But I trust in the Lord that I myself also will
