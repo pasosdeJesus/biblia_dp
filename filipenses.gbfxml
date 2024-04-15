@@ -1122,12 +1122,12 @@ the Good News.
 Therefore I hope to send him at once, as soon as I see how
 it will go with me.
 <t xml:lang="es"><wi type="G" value="3303,2,">De hecho</wi>
-<wi type="G" value="3767,3,">por esto</wi> 
-<wi type="G" value="1679,4,">espero</wi> 
-<wi type="G" value="3992,5,"><wi type="G" value="5126,1,">enviarlo</wi></wi> 
-<wi type="G" value="1824,12,">ahora</wi>, 
-<wi type="G" value="5613,6,">tan pronto</wi> 
-<wi type="G" value="302,7,"/><wi type="G" value="872,8,">yo vea</wi> 
+<wi type="G" value="3767,3,">por esto</wi>
+<wi type="G" value="1679,4,">espero</wi>
+<wi type="G" value="3992,5,"><wi type="G" value="5126,1,">enviarlo</wi></wi>
+<wi type="G" value="1824,12,">ahora</wi>,
+<wi type="G" value="5613,6,">tan pronto</wi>
+<wi type="G" value="302,7,"/><wi type="G" value="872,8,">yo vea</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="3588,9,"/><wi type="G" value="4012,10,">por</wi>
 <wi type="G" value="1691,11,">mi</wi><rf>
@@ -1142,11 +1142,40 @@ La palabra griega εμε la hemos traducido como a mí, mí, yo.
 <sv id="Filipenses-2-24">
 But I trust in the Lord that I myself also will
 come shortly.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3982,1,">confío</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="2962,4,">el Señor</wi>
+<wi type="G" value="3754,5,">que</wi>
+<wi type="G" value="2532,6,">también</wi>
+<wi type="G" value="846,7,">yo mismo</wi>
+<wi type="G" value="2064,9,">iré</wi>
+<wi type="G" value="5030,8,">pronto</wi>.</t>
 </sv>
 <sv id="Filipenses-2-25">
 But I counted it necessary to send to you Epaphroditus,
 my brother, fellow worker, fellow soldier, and your apostle and minister to
 my need;
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="2233,3,">supuse que era</wi>
+<wi type="G" value="316,1,">necesario</wi>
+<wi type="G" value="3992,20,">enviarles</wi>
+<wi type="G" value="4314,21,">a</wi>
+<wi type="G" value="5209,22,">ustedes</wi>
+a <wi type="G" value="1891,4,">Epafrodito</wi>,
+<wi type="G" value="3450,11,">mi</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="80,6,">hermano</wi></wi>,
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="4904,8,">compañero trabajador</wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="4961,10,">compañero soldado</wi>,
+<wi type="G" value="1161,13,">y</wi>
+<wi type="G" value="5216,12,">su</wi>
+<wi type="G" value="652,14,">apóstol</wi>
+<wi type="G" value="2532,15,">y</wi>
+<wi type="G" value="3011,16,">ministro</wi>
+<wi type="G" value="3450,19,">de mis</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="5532,18,">necesidades</wi></wi>;</t>
 </sv>
 <sv id="Filipenses-2-26">
 since he longed for you all, and was very troubled, because
