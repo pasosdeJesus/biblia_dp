@@ -1179,13 +1179,44 @@ a <wi type="G" value="1891,4,">Epafrodito</wi>,
 </sv>
 <sv id="Filipenses-2-26">
 since he longed for you all, and was very troubled, because
-you
-<wi type="T" value="P"/> had heard that he was sick.
+you had heard that he was sick.
+<t xml:lang="es"><wi type="G" value="1894,1,">porque</wi>
+<wi type="G" value="5209,5,">los</wi>
+<wi type="G" value="1971,2,">añoró a</wi>
+<wi type="G" value="2258,3,"/><wi type="G" value="3956,4,">todos</wi>,
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="85,7,">se preocupó mucho</wi>,
+<wi type="G" value="1360,8,">porque</wi>
+<wi type="G" value="191,9,">ustedes habían oído</wi>
+<wi type="G" value="3754,10,">que</wi>
+<wi type="G" value="770,11,">estuvo enfermo</wi>.</t>
 </sv>
 <sv id="Filipenses-2-27">
 For indeed he was sick, nearly to
 death, but God had mercy on him; and not on him only, but on me also, that I
 might not have sorrow on sorrow.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> <wi type="G"
+value="2532,1,">de hecho</wi>
+<wi type="G" value="770,3,">estuvo enfermo</wi>,
+<wi type="G" value="3897,4,">casi hasta</wi>
+<wi type="G" value="2288,5,">la muerte</wi>,
+<wi type="G" value="235,6,">pero</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="2316,8,">Dios</wi></wi>
+<wi type="G" value="1653,10,">tuvo misericordia</wi>
+<wi type="G" value="846,9,">de él</wi>;
+<wi type="G" value="1161,13,">y</wi>
+<wi type="G" value="3756,11,">no</wi>
+<wi type="G" value="3440,14,">sólo</wi>
+<wi type="G" value="846,12,">de él</wi>,
+<wi type="G" value="235,15,">sino</wi>
+<wi type="G" value="2532,16,">también</wi>
+<wi type="G" value="1691,17,">de mi</wi>,
+<wi type="G" value="2443,18,">para que</wi> yo
+<wi type="G" value="3361,19,">no</wi>
+<wi type="G" value="2192,23,">tuviera</wi>
+<wi type="G" value="3077,20,">pena</wi>
+<wi type="G" value="1909,21,">sobre</wi>
+<wi type="G" value="3077,22,">pena</wi>.</t>
 </sv>
 <sv id="Filipenses-2-28">
 I have sent him therefore the more
