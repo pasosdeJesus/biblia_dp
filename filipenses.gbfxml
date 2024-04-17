@@ -1221,13 +1221,36 @@ value="2532,1,">de hecho</wi>
 <sv id="Filipenses-2-28">
 I have sent him therefore the more
 diligently, that, when you
-<wi type="T" value="P"/> see him again, you
-<wi type="T" value="P"/> may rejoice, and that
+see him again, you may rejoice, and that
 I may be the less sorrowful.
+<t xml:lang="es"><wi type="G" value="846,4,">Lo</wi>
+<wi type="G" value="3992,3,">envío</wi>
+<wi type="G" value="3767,2,">entonces</wi> con
+<wi type="G" value="4708,1,">diligencia</wi>,
+<wi type="G" value="2443,5,">para que</wi>, cuando
+<wi type="G" value="846,7,">lo</wi>
+<wi type="G" value="1492,6,">vean</wi>
+<wi type="G" value="3825,8,">vuelvan a</wi>,
+<wi type="G" value="5463,9,">regocijarse</wi>, y que
+<wi type="G" value="2504,10,">yo</wi>
+<wi type="G" value="5600,12,">quede</wi>
+<wi type="G" value="253,11,">menos triste</wi>.
+</t>
 </sv>
 <sv id="Filipenses-2-29">
 Receive him therefore in the Lord with all
 joy, and hold such in honor,
+<t xml:lang="es"><wi type="G" value="4327,1,"><wi type="G" value="846,3,">Recíbanlo</wi></wi>
+<wi type="G" value="3767,2,">entonces</wi>
+<wi type="G" value="1722,4,">en</wi>
+<wi type="G" value="2962,5,">el Señor</wi>
+<wi type="G" value="3326,6,">con</wi>
+<wi type="G" value="3956,7,">todo</wi>
+<wi type="G" value="5479,8,">gozo</wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="2192,13,">mantengan</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="5108,11,">a estos</wi>
+<wi type="G" value="1784,12,">en honor</wi>,</t>
 </sv>
 <sv id="Filipenses-2-30">
 because for the work of Christ he came
