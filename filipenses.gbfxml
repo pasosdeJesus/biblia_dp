@@ -935,6 +935,7 @@ por
 <wi type="G" value="5156,25,">temblor</wi>.
 </t>
 </sv>
+
 <sv id="Filipenses-2-13">
 For it is God who works in you both to will
 and to work, for his good pleasure.
@@ -953,6 +954,7 @@ and to work, for his good pleasure.
 Su
 <wi type="G" value="3588,16,"/><wi type="G" value="2107,17,">buena voluntad</wi>. </t>
 </sv>
+
 <sv id="Filipenses-2-14">
 Do all things without murmurings
 and disputes,
@@ -963,6 +965,7 @@ and disputes,
 <wi type="G" value="2532,5,">ni</wi>
 <wi type="G" value="1261,6,">disputas</wi>,</t>
 </sv>
+
 <sv id="Filipenses-2-15">
 that you may become blameless and harmless, children
 of God without blemish in the midst of a crooked and perverse generation,
@@ -1074,6 +1077,7 @@ a <wi type="G" value="5095,6,">Timoteo</wi>,
 <wi type="G" value="3588,14,"/><wi type="G" value="4012,15,">sobre</wi>
 <wi type="G" value="5216,16,">ustedes</wi>.</t>
 </sv>
+
 <sv id="Filipenses-2-20">
 For I have no one else
 like-minded, who will truly care about you.
@@ -1088,6 +1092,7 @@ like-minded, who will truly care about you.
 <wi type="G" value="3588,7,"/><wi type="G" value="4012,8,">de</wi>
 <wi type="G" value="5216,9,">ustedes</wi>.</t>
 </sv>
+
 <sv id="Filipenses-2-21">
 For they all seek their
 own, not the things of Jesus Christ.
@@ -1100,6 +1105,7 @@ y <wi type="G" value="3756,7,">no</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="5547,10,">de Cristo</wi></wi>
 <wi type="G" value="2424,11,">Jesús</wi>.</t>
 </sv>
+
 <sv id="Filipenses-2-22">
 But you know the proof of
 him, that, as a child serves a father, so he served with me in furtherance of
@@ -1118,6 +1124,7 @@ the Good News.
 <wi type="G" value="3588,14,"><wi type="G" value="2098,15,">el evangelio</wi></wi>.
 </t>
 </sv>
+
 <sv id="Filipenses-2-23">
 Therefore I hope to send him at once, as soon as I see how
 it will go with me.
@@ -1139,6 +1146,7 @@ La palabra griega εμε la hemos traducido como a mí, mí, yo.
 </rf></rb>
 <t xml:lang="es">.</t>
 </sv>
+
 <sv id="Filipenses-2-24">
 But I trust in the Lord that I myself also will
 come shortly.
@@ -1152,6 +1160,7 @@ come shortly.
 <wi type="G" value="2064,9,">iré</wi>
 <wi type="G" value="5030,8,">pronto</wi>.</t>
 </sv>
+
 <sv id="Filipenses-2-25">
 But I counted it necessary to send to you Epaphroditus,
 my brother, fellow worker, fellow soldier, and your apostle and minister to
@@ -1177,6 +1186,7 @@ a <wi type="G" value="1891,4,">Epafrodito</wi>,
 <wi type="G" value="3450,19,">de mis</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="5532,18,">necesidades</wi></wi>;</t>
 </sv>
+
 <sv id="Filipenses-2-26">
 since he longed for you all, and was very troubled, because
 you had heard that he was sick.
@@ -1191,6 +1201,7 @@ you had heard that he was sick.
 <wi type="G" value="3754,10,">que</wi>
 <wi type="G" value="770,11,">estuvo enfermo</wi>.</t>
 </sv>
+
 <sv id="Filipenses-2-27">
 For indeed he was sick, nearly to
 death, but God had mercy on him; and not on him only, but on me also, that I
@@ -1218,6 +1229,7 @@ value="2532,1,">de hecho</wi>
 <wi type="G" value="1909,21,">sobre</wi>
 <wi type="G" value="3077,22,">pena</wi>.</t>
 </sv>
+
 <sv id="Filipenses-2-28">
 I have sent him therefore the more
 diligently, that, when you
@@ -1237,6 +1249,7 @@ I may be the less sorrowful.
 <wi type="G" value="253,11,">menos triste</wi>.
 </t>
 </sv>
+
 <sv id="Filipenses-2-29">
 Receive him therefore in the Lord with all
 joy, and hold such in honor,
@@ -1252,6 +1265,7 @@ joy, and hold such in honor,
 <wi type="G" value="3588,10,"/><wi type="G" value="5108,11,">a estos</wi>
 <wi type="G" value="1784,12,">en honor</wi>,</t>
 </sv>
+
 <sv id="Filipenses-2-30">
 because for the work of Christ he came
 near to death, risking his life to supply that which was lacking in your
@@ -1272,11 +1286,9 @@ service toward me.
 <wi type="G" value="3588,18,"/><wi type="G" value="4314,19,">hacia</wi>
 <wi type="G" value="3165,20,">mi</wi>.
 </t>
-
 <cl/>
-
-
 </sv></cm></sc>
+
 <sc id="Filipenses-3">
 <cm>
 <sv id="Filipenses-3-1">
@@ -1298,25 +1310,61 @@ to you, to me indeed is not tiresome, but for you it is safe.
 <wi type="G" value="5213,16,">para ustedes</wi> es
 <wi type="G" value="804,18,">seguro</wi>.</t>
 </sv>
+
 <sv id="Filipenses-3-2">
 Beware of
 the dogs, beware of the evil workers, beware of the false circumcision.
-
+<t xml:lang="es"><wi type="G" value="991,1,">Cuídense</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="2965,3,">de los perros</wi></wi>,
+<wi type="G" value="991,4,">cuídense</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="2556,6,">de los malos</wi>
+<wi type="G" value="2040,7,">trabajadores</wi>,
+<wi type="G" value="991,8,">cuídense</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,9,"><wi type="G" value="2699,10,">de
+la mutilación</wi></wi><rf>
+<citebib id="WEB"/> dice `de la falsa circuncisión,´
+<citebib id="KJV2003"/> dice `con el corte,´
+<citebib id="RVG2012"/> dice `con los cortadores.
+Según <citebib id="Thayer-BLB"/> el sustantivo griego `κατατομην´
+se traduce como corte o mutilación.
+</rf></rb>
+<t xml:lang="es">. </t>
 </sv>
+
 <sv id="Filipenses-3-3">
 For we are the circumcision, who worship God in the Spirit, and rejoice
 in Christ Jesus, and have no confidence in the flesh;
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2249,1,">nosotros</wi>
+<wi type="G" value="2070,3,">somos</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="4061,5,">la circuncisión</wi></wi>, que
+<wi type="G" value="3000,9,">adoramos a</wi>
+<wi type="G" value="2316,8,">Dios</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="4151,7,">en el Espíritu</wi>,
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="2744,11,">nos gozamos</wi>
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="5547,13,">Cristo</wi>
+<wi type="G" value="2424,14,">Jesús</wi>,
+<wi type="G" value="2532,15,">y</wi>
+<wi type="G" value="3756,16,">no</wi>
+<wi type="G" value="3982,19,">confiamos</wi>
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="4561,18,">la carne</wi>;</t>
 </sv>
+
 <sv id="Filipenses-3-4">
 though I myself
 might have confidence even in the flesh. If any other man thinks that he has
 confidence in the flesh, I yet more:
 </sv>
+
 <sv id="Filipenses-3-5">
 circumcised the eighth day, of the
 stock of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; concerning
 the law, a Pharisee;
 </sv>
+
 <sv id="Filipenses-3-6">
 concerning zeal, persecuting the assembly;
 concerning the righteousness which is in the law, found blameless.
@@ -1327,31 +1375,33 @@ concerning the righteousness which is in the law, found blameless.
 However, what things were gain to me, these have I counted loss for
 Christ.
 </sv>
+
 <sv id="Filipenses-3-8">
 Yes most assuredly, and I count all things to be loss for the
 excellency of the knowledge of Christ Jesus, my Lord, for whom I suffered the
 loss of all things, and count them nothing but refuse, that I may gain Christ
-
 </sv>
+
 <sv id="Filipenses-3-9">
 and be found in him, not having a righteousness of my own, that which is
 of the law, but that which is through faith in Christ, the righteousness
 which is from God by faith;
 </sv>
+
 <sv id="Filipenses-3-10">
 that I may know him, and the power of his
 resurrection, and the fellowship of his sufferings, becoming conformed to his
 death;
 </sv>
+
 <sv id="Filipenses-3-11">
 if by any means I may attain to the resurrection from the dead.
-
 </sv>
+
 <sv id="Filipenses-3-12">
 Not that I have already obtained, or am already made perfect; but I
 press on, if it is so that I may take hold of that for which also I was taken
 hold of by Christ Jesus.
-
 </sv></cm><cm>
 
 <sv id="Filipenses-3-13">
