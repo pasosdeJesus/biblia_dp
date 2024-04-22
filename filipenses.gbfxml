@@ -1397,14 +1397,33 @@ the law, a Pharisee;
 <sv id="Filipenses-3-6">
 concerning zeal, persecuting the assembly;
 concerning the righteousness which is in the law, found blameless.
-<t xml:lang="es">respecto al celo, perseguidor e la iglesia;
-respecto a la justicia que es en la ley, encontrado sin culpa.</t>
+<t xml:lang="es"><wi type="G" value="2596,1,">respecto</wi>
+<wi type="G" value="2205,2,">a celo</wi>,
+<wi type="G" value="1377,3,">perseguidor</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="1577,5,">de la iglesia</wi></wi>;
+<wi type="G" value="2596,6,">respecto a</wi>
+<wi type="G" value="1343,7,">la rectitud</wi>
+<wi type="G" value="3588,8,">que</wi>
+<wi type="G" value="1096,11,">es</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="3551,10,">la ley</wi>,
+<wi type="G" value="273,12,">sin falla</wi>.</t>
 </sv></cm>
 
 <cm>
 <sv id="Filipenses-3-7">
 However, what things were gain to me, these have I counted loss for
 Christ.
+<t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>
+<wi type="G" value="3748,2,">las cosas</wi> que \
+<wi type="G" value="2258,3,">eran</wi>
+<wi type="G" value="2771,5,">ganancia</wi>
+<wi type="G" value="3427,4,">para mi</wi>,
+<wi type="G" value="5023,6,">esas</wi>
+<wi type="G" value="2233,7,">las he contado</wi>
+<wi type="G" value="2209,11,">como perdida</wi>
+<wi type="G" value="1223,8,">por</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="5547,10,">Cristo</wi></wi>;</t>
 </sv>
 
 <sv id="Filipenses-3-8">
