@@ -1430,12 +1430,67 @@ Christ.
 Yes most assuredly, and I count all things to be loss for the
 excellency of the knowledge of Christ Jesus, my Lord, for whom I suffered the
 loss of all things, and count them nothing but refuse, that I may gain Christ
+<t xml:lang="es"><wi type="G" value="235,1,">Si</wi>
+<wi type="G" value="3304,2,">sin duda</wi>,
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="2233,4,">cuento</wi>
+<wi type="G" value="3956,5,">todas las cosas</wi>
+<wi type="G" value="1511,7,">como si fueran</wi>
+<wi type="G" value="2209,6,">perdida</wi>
+<wi type="G" value="1223,8,">por</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="5242,10,">la excelencia</wi></wi>
+<wi type="G" value="3588,11,"><wi type="G" value="1108,12,">del conocimiento</wi></wi>
+<wi type="G" value="5547,13,">de Cristo</wi>
+<wi type="G" value="2424,14,">Jesús</wi>,
+<wi type="G" value="3450,17,">mi</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2962,16,">Señor</wi></wi>,
+<wi type="G" value="1223,18,">por</wi>
+<wi type="G" value="3739,19,">quien</wi>
+<wi type="G" value="2210,22,">he perdido</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="3956,21,">todas las cosas</wi></wi>,
+<wi type="G" value="2532,23,">y</wi> las
+<wi type="G" value="2233,24,">cuento</wi>
+<wi type="G" value="1511,26,">como si fueran</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="4657,25,">estiércol</wi><rf>
+<citebib id="WEB"/> dice `nada,´
+<citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen `estiércol.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `σκυβαλα´
+se traduce como excremento de animales, cosas sin valor y detestables.
+<citebib id="RVG2012"/>
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2443,27,">para</wi>
+<wi type="G" value="2770,29,">ganar a</wi>
+<wi type="G" value="5547,28,">Cristo</wi>.</t>
 </sv>
 
 <sv id="Filipenses-3-9">
 and be found in him, not having a righteousness of my own, that which is
 of the law, but that which is through faith in Christ, the righteousness
 which is from God by faith;
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="2147,2,">ser encontrado</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="846,4,">Él</wi>,
+<wi type="G" value="3361,5,">no</wi>
+<wi type="G" value="2192,6,">teniendo</wi>
+<wi type="G" value="1699,7,">mi propia</wi>
+<wi type="G" value="1343,8,">justicia</wi>,
+<wi type="G" value="3588,9,">la que</wi> es
+<wi type="G" value="1537,10,">de</wi>
+<wi type="G" value="3551,11,">la ley</wi>,
+<wi type="G" value="235,12,">sino</wi>
+<wi type="G" value="3588,13,">la que</wi> es
+<wi type="G" value="1223,14,">por</wi>
+<wi type="G" value="4102,15,">la fe</wi>
+<wi type="G" value="5547,16,">de Cristo</wi>,
+<wi type="G" value="1343,20,">la justicia</wi>
+<wi type="G" value="3588,17,">que</wi> es
+<wi type="G" value="1537,18,">de</wi>
+<wi type="G" value="2316,19,">Dios</wi>
+<wi type="G" value="1909,21,">por</wi>
+<wi type="G" value="3588,22,"><wi type="G" value="4102,23,">fe</wi></wi>;</t>
 </sv>
 
 <sv id="Filipenses-3-10">
