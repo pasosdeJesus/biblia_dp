@@ -1571,12 +1571,36 @@ está <wi type="G" value="3694,11,">atrás</wi>,
 <sv id="Filipenses-3-14">
 I press on toward the goal for the prize of
 the high calling of God in Christ Jesus.
+<t xml:lang="es"><wi type="G" value="1377,3,">Sigo</wi> 
+<wi type="G" value="2596,1,">hacia</wi> 
+<wi type="G" value="4649,2,">la meta</wi> 
+<wi type="G" value="1909,4,">por</wi> 
+<wi type="G" value="3588,5,"><wi type="G" value="1017,6,">el premio</wi></wi> 
+<wi type="G" value="3588,7,"/><wi type="G" value="507,8,">del alto</wi> 
+<wi type="G" value="2821,9,">llamado</wi> 
+<wi type="G" value="3588,10,"><wi type="G" value="2316,11,">de Dios</wi></wi> 
+<wi type="G" value="1722,12,">en</wi> 
+<wi type="G" value="5547,13,">Cristo</wi> 
+<wi type="G" value="2424,14,">Jesús</wi>.</t>
 </sv>
 <sv id="Filipenses-3-15">
 Let us therefore, as many as
 are perfect, think this way. If in anything you
-<wi type="T" value="P"/> think otherwise, God
-will also reveal that to you.
+think otherwise, God will also reveal that to you.
+<t xml:lang="es"><wi type="G" value="3767,2,">Así</wi> 
+<wi type="G" value="3745,1,">tantos como</wi> 
+<wi type="G" value="5046,3,">seamos perfectos</wi>,
+<wi type="G" value="5426,5,">pensemos</wi> 
+<wi type="G" value="5124,4,">así</wi>. 
+<wi type="G" value="2532,6,">Y</wi> <wi type="G" value="1487,7,">si</wi> 
+<wi type="G" value="5100,8,">algo</wi> 
+<wi type="G" value="5426,10,">piensan</wi> 
+<wi type="G" value="2088,9,">de otra manera</wi>,
+<wi type="G" value="3588,13,"><wi type="G" value="2316,14,">Dios</wi></wi> 
+<wi type="G" value="2532,11,">también</wi> les
+<wi type="G" value="601,16,">revelará</wi> 
+<wi type="G" value="5124,12,">esto</wi>
+<wi type="G" value="5213,15,">a ustedes</wi>.</t>
 </sv>
 <sv id="Filipenses-3-16">
 Nevertheless, to the extent that we have
