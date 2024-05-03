@@ -1714,6 +1714,7 @@ able even to subject all things to himself.
 <wi type="G" value="846,17,"/><wi type="G" value="2596,18,">de acuerdo a</wi>
 <wi type="G" value="3588,19,"><wi type="G" value="1753,20,">la operación</wi></wi>
 por la <wi type="G" value="3588,21,">que</wi>
+<wi type="G" value="846,23,">Él</wi>
 <wi type="G" value="2532,24,">incluso</wi>
 <wi type="G" value="1410,22,">puede</wi>
 <wi type="G" value="5293,25,">sujetar</wi>
@@ -1721,17 +1722,40 @@ por la <wi type="G" value="3588,21,">que</wi>
 <wi type="G" value="1438,26,">si mismo</wi>.</t>
 <cl/>
 
-
 </sv></cm></sc>
 <sc id="Filipenses-4">
 <cm>
 <sv id="Filipenses-4-1">
 Therefore, my brothers, beloved and longed for, my joy and crown,
 so stand firm in the Lord, my beloved.
+<t xml:lang="es"><wi type="G" value="5620,1,">Entonces</wi>,
+<wi type="G" value="3450,3,">mis</wi>
+<wi type="G" value="80,2,">hermanos</wi>,
+<wi type="G" value="27,4,">amados</wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="1973,6,">anhelados</wi>,
+<wi type="G" value="3450,10,">mi</wi>
+<wi type="G" value="5479,7,">gozo</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="4735,9,">corona</wi>,
+<wi type="G" value="3779,11,">así</wi>
+<wi type="G" value="4739,12,">estén firmes</wi>
+<wi type="G" value="1722,13,">en</wi>
+<wi type="G" value="2962,14,">el Señor</wi>,
+<wi type="G" value="27,15,">amados</wi>.</t>
 </sv>
 <sv id="Filipenses-4-2">
 I exhort Euodia, and I exhort
 Syntyche, to think the same way in the Lord.
+<t xml:lang="es"><wi type="G" value="3870,2,">Animo a</wi>
+<wi type="G" value="2136,1,">Evodia</wi>,
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="3870,5,">animo a</wi>
+<wi type="G" value="4941,4,">Síntique</wi>,
+<wi type="G" value="3588,6,"/><wi type="G" value="846,7,"/>a
+<wi type="G" value="5426,8,">pensar de la misma forma</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="2962,10,">el Señor</wi>.</t>
 </sv>
 <sv id="Filipenses-4-3">
 Yes, I beg you also, true
