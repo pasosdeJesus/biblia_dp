@@ -1870,12 +1870,55 @@ Finally, brothers, whatever things are true, whatever things are
 honorable, whatever things are just, whatever things are pure, whatever
 things are lovely, whatever things are of good report; if there is any
 virtue, and if there is any praise, think about these things.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="3063,2,">Finalmente</wi>,
+<wi type="G" value="80,3,">hermanos</wi>,
+<wi type="G" value="3745,4,">en lo que</wi>
+<wi type="G" value="2076,5,">sea</wi>
+<wi type="G" value="227,6,">cierto</wi>,
+<wi type="G" value="3745,7,">en lo</wi>
+<wi type="G" value="4586,8,">honesto</wi>,
+<wi type="G" value="3745,9,">en lo</wi>
+<wi type="G" value="1342,10,">justo</wi>,
+<wi type="G" value="3745,11,">en lo</wi>
+<wi type="G" value="53,12,">puro</wi>,
+<wi type="G" value="3745,13,">en lo</wi>
+<wi type="G" value="4375,14,">amoroso</wi>,
+<wi type="G" value="3745,15,">en lo</wi>
+<wi type="G" value="2163,16,">de buen nombre</wi>;
+<wi type="G" value="1487,17,">si</wi> hay
+<wi type="G" value="5100,18,">alguna</wi>
+<wi type="G" value="703,19,">virtud</wi>,
+<wi type="G" value="2532,20,">y</wi>
+<wi type="G" value="1487,21,">si</wi> hay
+<wi type="G" value="5100,22,">algo</wi>
+<wi type="G" value="1868,23,">de exaltar</wi>,
+en <wi type="G" value="5023,24,">esas cosas</wi>
+<wi type="G" value="3049,25,">piensen</wi>.
+</t>
 </sv>
 <sv id="Filipenses-4-9">
-The things
-which you
-<wi type="T" value="P"/> learned, received, heard, and saw in me: do these things, and
-the God of peace will be with you.
+The things which you learned, received, heard, and saw in me:
+do these things, and the God of peace will be with you.
+<t xml:lang="es"><wi type="G" value="5023,12,">Las cosas</wi>
+<wi type="G" value="3739,1,">que</wi>
+<wi type="G" value="2532,2,">tanto</wi>
+<wi type="G" value="3129,3,">aprendieron</wi>
+<wi type="G" value="2532,4,">como</wi>
+<wi type="G" value="3880,5,">recibieron</wi>
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="191,7,">escucharon</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="1492,9,">vieron</wi>
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="1698,11,">mí</wi>:
+<wi type="G" value="4238,13,">háganlas</wi>,
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2316,16,">el Dios</wi></wi>
+<wi type="G" value="3588,17,"><wi type="G" value="1515,18,">de paz</wi></wi>
+<wi type="G" value="2071,19,">estará</wi>
+<wi type="G" value="3326,20,">con</wi>
+<wi type="G" value="5216,21,">ustedes</wi>.
+</t>
 </sv>
 <sv id="Filipenses-4-10">
 But I rejoice in the Lord greatly,
