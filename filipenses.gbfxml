@@ -2060,11 +2060,33 @@ receiving but you only.
 <sv id="Filipenses-4-16">
 For even in Thessalonica you sent
 once and again to my need.
+<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
+<wi type="G" value="2532,2,">incluso</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="2332,4,">Tesalónica</wi>
+<wi type="G" value="3992,13,">ustedes enviaron</wi>
+<wi type="G" value="2532,5,"/><wi type="G" value="530,6,">una</wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="1364,8,">otra vez</wi>
+<wi type="G" value="1519,9,">para</wi>
+<wi type="G" value="3427,12,">mis</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="5532,11,">necesidades</wi></wi>.</t>
 </sv>
 
 <sv id="Filipenses-4-17">
 Not that I seek for the gift, but I seek for
 the fruit that increases to your account.
+<t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
+es <wi type="G" value="3754,2,">que</wi>
+<wi type="G" value="1934,3,">yo quiera</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="1390,5,">un regalo</wi></wi>,
+<wi type="G" value="235,6,">sino que</wi>
+<wi type="G" value="1934,7,">quiero</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2590,9,">el fruto</wi></wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="4121,11,">que abunda</wi>
+<wi type="G" value="1519,12,">para</wi>
+<wi type="G" value="5216,14,">su</wi>
+<wi type="G" value="3056,13,">cuenta</wi>.</t>
 </sv>
 
 <sv id="Filipenses-4-18">
