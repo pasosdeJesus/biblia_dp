@@ -2155,7 +2155,7 @@ y
 Greet every saint in Christ Jesus. The brothers who are with me greet
 you.
 <t xml:lang="es"><wi type="G" value="782,1,">Saludos a</wi>
-<wi type="G" value="39,2,">cada</wi>
+<wi type="G" value="3956,2,">cada</wi>
 <wi type="G" value="40,3,">santo</wi>
 <wi type="G" value="1722,4,">en</wi>
 <wi type="G" value="5547,5,">Cristo</wi>
@@ -2170,10 +2170,31 @@ you.
 <sv id="Filipenses-4-22">
 All the saints greet you, especially those who are of Caesar´s
 household.
+<t xml:lang="es"><wi type="G" value="3956,3,">Todos</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="40,5,">los santos</wi>
+<wi type="G" value="5209,2,">los</wi>
+<wi type="G" value="782,1,">saludan</wi>,
+<wi type="G" value="3122,6,">especialmente</wi>
+<wi type="G" value="1161,7,"/><wi type="G" value="3588,8,">los que</wi> son
+<wi type="G" value="1537,9,">de</wi>
+<wi type="G" value="3614,12,">la casa</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="2541,11,">de Cesar</wi>.</t>
 </sv>
 
 <sv id="Filipenses-4-23">
 The grace of the Lord Jesus Christ be with you all. Amen.
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="5485,2,">La gracia</wi></wi>
+<wi type="G" value="2257,5,">de nuestro</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2962,4,">Señor</wi></wi>
+<wi type="G" value="2424,6,">Jesús</wi>
+<wi type="G" value="5547,7,">Cristo</wi> sea
+<wi type="G" value="3326,8,">con</wi>
+<wi type="G" value="3956,9,">todos</wi>
+<wi type="G" value="5216,10,">ustedes</wi>.
+<wi type="G" value="281,11,">Amén</wi></t>
+<rb xml:lang="es">.<rf>
+<citebib id="KJV2003"/> agrega este colofón `Escrito para los Filipenses
+desde Roma por Epafrodito´.</rf></rb>
 
 <cl/>
 
