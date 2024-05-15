@@ -7,7 +7,8 @@
 <cm>
 <sv id="Filipenses-1-1">
 Paul and Timothy, servants of Jesus Christ;
-<t xml:lang="es"><wi type="G" value="3972,1,">Pablo</wi>
+<t xml:lang="es">
+<wi type="G" value="3972,1,">Pablo</wi>
 <wi type="G" value="2532,2,">y</wi>
 <wi type="G" value="5095,3,">Timoteo</wi>,
 <wi type="G" value="1401,4,">siervos</wi>
@@ -15,7 +16,8 @@ Paul and Timothy, servants of Jesus Christ;
 <wi type="G" value="5547,6,">Cristo</wi>;</t>
 <cl/>
 To all the saints in Christ Jesus who are at Philippi, with the
-<t xml:lang="es"><wi type="G" value="3956,7,">A todos</wi>
+<t xml:lang="es">
+<wi type="G" value="3956,7,">A todos</wi>
 <wi type="G" value="3588,8,"/><wi type="G" value="40,9,">los santos</wi>
 <wi type="G" value="1722,10,">en</wi>
 <wi type="G" value="5547,11,">Cristo</wi>
@@ -25,26 +27,25 @@ To all the saints in Christ Jesus who are at Philippi, with the
 <wi type="G" value="5375,16,">Filipos</wi>,
 <wi type="G" value="4862,17,">con</wi> </t>
 <rb>overseers
-<t xml:lang="es"><wi type="G" value="1985,18,">los obispos</wi></t><rf>The word translated «overseers» (episkopos) can also be
-translated superintendents, guardians, curators, or bishops.
-<t xml:lang="es">La palabra traducida como obispos
-(επισκοποις) puede traducirse como supervisores, superintendentes,
-guardianes, curadores u obispos.</t></rf>
-</rb>
- and
 <t xml:lang="es">
+<wi type="G" value="1985,18,">los obispos</wi>
 <wi type="G" value="2532,19,">y</wi>
-</t>
-<rb>deacons<t xml:lang="es">
-<wi type="G" value="1249,20,">los diáconos</wi></t><rf>Or, servants
-<t xml:lang="es"><wi type="G" value=",">servidores</wi></t></rf>
+<wi type="G" value="1249,20,">los diáconos</wi>
+</t><rf>The word translated «overseers» (episkopos) can also be
+translated superintendents, guardians, curators, or bishops.
+<t xml:lang="es">
+La palabra traducida como obispos
+(επισκοποις) puede traducirse como supervisores, superintendentes,
+guardianes, curadores u obispos. La palabra traducida como
+diáconos (διακονοις) puede ser servidores.</t></rf>
 </rb>:<t xml:lang="es">:</t>
 </sv>
 
 <sv id="Filipenses-1-2">
 Grace to you, and peace from God, our
 Father, and the Lord Jesus Christ.
-<t xml:lang="es"><wi type="G" value="5485,1,">Gracia</wi>
+<t xml:lang="es">
+<wi type="G" value="5485,1,">Gracia</wi>
 <wi type="G" value="5213,2,">a ustedes</wi>
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="1515,4,">paz</wi>
@@ -60,7 +61,8 @@ Father, and the Lord Jesus Christ.
 
 <sv id="Filipenses-1-3">
 I thank my God whenever I remember you,
-<t xml:lang="es"><wi type="G" value="2168,1,">Agradezco</wi> a
+<t xml:lang="es">
+<wi type="G" value="2168,1,">Agradezco</wi> a
 <wi type="G" value="3450,4,">mi</wi>
 <wi type="G" value="3588,2,"><wi type="G" value="2316,3,">Dios</wi></wi>
 <wi type="G" value="3956,6,">cada</wi>
@@ -72,7 +74,8 @@ I thank my God whenever I remember you,
 <sv id="Filipenses-1-4">
 always in every request of mine on behalf of you all making my
 requests with joy,
-<t xml:lang="es"><wi type="G" value="3842,1,">siempre</wi>
+<t xml:lang="es">
+<wi type="G" value="3842,1,">siempre</wi>
 <wi type="G" value="1722,2,">en</wi>
 <wi type="G" value="3956,3,">todas</wi>
 <wi type="G" value="3450,5,">mis</wi>
@@ -89,20 +92,24 @@ requests with joy,
 
 <sv id="Filipenses-1-5">
 for your
-<t xml:lang="es"><wi type="G" value="1909,1,">por</wi>
-<wi type="G" value="5216,4,">su</wi></t>
+<t xml:lang="es">
+<wi type="G" value="1909,1,">por</wi>
+<wi type="G" value="5216,4,">su</wi> </t>
 <rb>partnership
-<t xml:lang="es"><wi type="G" value="3588,2,"><wi type="G"
-value="2842,3,">compañía</wi></wi></t><rf>The word translated
+<t xml:lang="es">
+<wi type="G" value="3588,2,"><wi type="G" value="2842,3,">compañía</wi></wi>
+</t><rf>The word translated
 «partnership» (koinonia) also means «fellowship» and «sharing.»
-<t xml:lang="es">La palabra traducida como
-«compañia» (koinonia) también significa «fraternidad» y «compartir.»
+<t xml:lang="es">
+La palabra traducida como
+«compañia» (κοινωνια) también significa «fraternidad» y «compartir».
 <citebib id="RV1960"/> la traduce como «comunión».
 </t></rf>
 </rb>
  in
 furtherance of the Good News from the first day until now;
-<t xml:lang="es"><wi type="G" value="1519,5,">en</wi>
+<t xml:lang="es">
+<wi type="G" value="1519,5,">en</wi>
 <wi type="G" value="3588,6,"><wi type="G" value="2098,7,">el evangelio</wi></wi>
 <wi type="G" value="575,8,">desde</wi>
 <wi type="G" value="4413,9,">el primer</wi>
@@ -115,7 +122,8 @@ furtherance of the Good News from the first day until now;
 being confident
 of this very thing, that he who began a good work in you will complete it
 until the day of Jesus Christ.
-<t xml:lang="es"><wi type="G" value="3982,1,">seguro</wi>
+<t xml:lang="es">
+<wi type="G" value="3982,1,">seguro</wi>
 <wi type="G" value="5124,3,">de esto</wi>
 <wi type="G" value="846,2,">mismo</wi>,
 <wi type="G" value="3754,4,">que</wi>
@@ -137,7 +145,8 @@ It is even right for me to think this way
 on behalf of all of you, because I have you in my heart, because, both in my
 bonds and in the defense and confirmation of the Good News, you
 all are partakers with me of grace.
-<t xml:lang="es"><wi type="G" value="2076,2,">Es</wi>
+<t xml:lang="es">
+<wi type="G" value="2076,2,">Es</wi>
 <wi type="G" value="2531,1,">incluso</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="1342,3,">justo</wi><rf><citebib id="WEB"/>
@@ -177,7 +186,8 @@ dice `correcto´, <citebib id="RV1960"/> dice `justo.´
 <sv id="Filipenses-1-8">
 For God is my witness, how I long after all
 of you in the tender mercies of Christ Jesus.
-<t xml:lang="es"><wi type="G" value="1063,2,">Porque</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Porque</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="2316,6,">Dios</wi></wi>
 <wi type="G" value="2076,4,">es</wi>
 <wi type="G" value="3450,3,">mi</wi>
@@ -197,7 +207,7 @@ a <wi type="G" value="3956,9,">todos</wi>
 <rb xml:lang="es"><wi type="G" value="4698,12,">los afectos</wi><rf>
 <citebib id="WEB"/> dice `las tiernas misericordias´
 <citebib id="RVG2012"/> dice `las entrañas,´
-ambas traducciones comunes del sustantivo griego `σπλαγχνα.´
+ambas son traducciones comunes del sustantivo griego `σπλαγχνα.´
 </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2424,13,">de Jesús</wi>
@@ -207,7 +217,8 @@ ambas traducciones comunes del sustantivo griego `σπλαγχνα.´
 <sv id="Filipenses-1-9">
 This I pray, that your love may abound yet more and more in knowledge
 and all discernment;
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="5124,2,">por esto</wi>
 <wi type="G" value="4336,3,">oro</wi>,
 <wi type="G" value="2443,4,">que</wi>
@@ -237,7 +248,8 @@ capacidad de conocer o discernir, de discernimiento moral en asuntos éticos.
 so that you may approve the things that are
 excellent; that you  may be sincere and without offense to the day of
 Christ;
-<t xml:lang="es"><wi type="G" value="1519,1,">Para</wi> que
+<t xml:lang="es">
+<wi type="G" value="1519,1,">Para</wi> que
 <wi type="G" value="5209,4,">ustedes</wi>
 <wi type="G" value="3588,2,"/><wi type="G" value="1381,3,">puedan aprobar</wi>
 <wi type="G" value="3588,5,">lo que</wi>
@@ -255,7 +267,8 @@ Christ;
 <sv id="Filipenses-1-11">
 being filled with the fruits of righteousness, which are
 through Jesus Christ, to the glory and praise of God.
-<t xml:lang="es"><wi type="G" value="4137,1,">llenos</wi>
+<t xml:lang="es">
+<wi type="G" value="4137,1,">llenos</wi>
 <wi type="G" value="2590,2,">de frutos</wi>
 <wi type="G" value="1343,3,">de justicia</wi>,
 <wi type="G" value="3588,4,">que</wi> son
@@ -272,20 +285,25 @@ through Jesus Christ, to the glory and praise of God.
 <cm>
 <sv id="Filipenses-1-12">
 Now I desire to have you know,
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="1014,4,">deseo</wi>
 que <wi type="G" value="5209,3,">ustedes</wi>
 <wi type="G" value="1097,1,">entiendan</wi>,</t>
-<rb>brothers,<t xml:lang="es"><wi type="G" value="80,5,">hermanos</wi>,</t><rf>The word for «brothers»
+<rb>brothers,
+<t xml:lang="es">
+<wi type="G" value="80,5,">hermanos</wi></t><rf>The word for «brothers»
 here and where context allows may also be correctly translated «brothers and
 sisters» or «siblings.»
-<t xml:lang="es">La palabra para «hermanos»
+<t xml:lang="es">
+La palabra para «hermanos»
 aquí y donde el contexto lo permita también puede traducirse
 correctamente como «hermanos y hermanas.»</t></rf>
 </rb>
  that the things which happened to me have turned
 out rather to the progress of the Good News;
-<t xml:lang="es"><wi type="G" value="3754,6,">que</wi>
+<t xml:lang="es">,
+<wi type="G" value="3754,6,">que</wi>
 <wi type="G" value="3588,7,">lo</wi>
 <wi type="G" value="2596,8,"/><wi type="G" value="1691,9,">mio</wi>
 <wi type="G" value="2064,15,">ha venido</wi>
@@ -298,7 +316,8 @@ out rather to the progress of the Good News;
 <sv id="Filipenses-1-13">
 so that it became evident to
 the whole praetorian guard, and to all the rest, that my bonds are in Christ;
-<t xml:lang="es"><wi type="G" value="5620,1,">así que</wi>
+<t xml:lang="es">
+<wi type="G" value="5620,1,">así que</wi>
 <wi type="G" value="3450,4,">mis</wi>
 <wi type="G" value="3588,2,"><wi type="G" value="1199,3,">cadenas</wi></wi>
 <wi type="G" value="1722,6,">en</wi>
@@ -322,7 +341,8 @@ más directa de la palabra griega `πραιτωριω.´ </rf></rb>
 <sv id="Filipenses-1-14">
 and that most of the brothers in the Lord, being confident through my
 bonds, are more abundantly bold to speak the word of God without fear.
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi> que para
+<t xml:lang="es">
+<wi type="G" value="2532,1,">y</wi> que
 <wi type="G" value="3588,2,"/><wi type="G" value="4119,3,">muchos</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="80,5,">hermanos</wi></wi>
 <wi type="G" value="1722,6,">en</wi>
@@ -342,7 +362,8 @@ por <wi type="G" value="3450,11,">mis</wi>
 <sv id="Filipenses-1-15">
 Some indeed preach Christ even out of envy and strife, and some also
 out of good will.
-<t xml:lang="es"><wi type="G" value="5100,1,">Algunos</wi>,
+<t xml:lang="es">
+<wi type="G" value="5100,1,">Algunos</wi>,
 <wi type="G" value="3303,2,">de hecho</wi>,
 <wi type="G" value="2784,15,">predican a</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="5547,14,">Cristo</wi></wi>
@@ -361,7 +382,8 @@ out of good will.
 <sv id="Filipenses-1-16">
 The former insincerely preach Christ from selfish
 ambition, thinking that they add affliction to my chains;
-<t xml:lang="es"><wi type="G" value="3303,2,">De hecho</wi>
+<t xml:lang="es">
+<wi type="G" value="3303,2,">De hecho</wi>
 <wi type="G" value="3588,1,">unos</wi>
 <wi type="G" value="1537,3,">por</wi>
 <wi type="G" value="2052,4,">rivalidades</wi>
@@ -380,7 +402,8 @@ a <wi type="G" value="3450,15,">mis</wi>
 but the
 latter out of love, knowing that I am appointed for the defense of the
 Good News.
-<t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">pero</wi>
 <wi type="G" value="3588,1,">los otros</wi>
 <wi type="G" value="1537,3,">por</wi>
 <wi type="G" value="26,4,">amor</wi>,
@@ -396,7 +419,8 @@ Good News.
 <sv id="Filipenses-1-18">
 What does it matter? Only that in every way, whether in pretense or in
 truth, Christ is proclaimed. I rejoice in this, yes, and will rejoice.
-<t xml:lang="es">¿<wi type="G" value="1063,2,">Entonces</wi>
+<t xml:lang="es">
+¿<wi type="G" value="1063,2,">Entonces</wi>
 <wi type="G" value="5101,1,">que</wi>?
 <wi type="G" value="4133,3,">Que</wi>
 <wi type="G" value="3956,4,">de todas</wi>
@@ -419,7 +443,8 @@ truth, Christ is proclaimed. I rejoice in this, yes, and will rejoice.
 <sv id="Filipenses-1-19">
 For I know that this will turn out to my salvation, through your
 supplication and the supply of the Spirit of Jesus Christ,
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="1492,1,">se</wi>
 <wi type="G" value="3754,3,">que</wi>
 <wi type="G" value="5124,4,">esto</wi>
@@ -442,7 +467,8 @@ according to
 my earnest expectation and hope, that I will in no way be disappointed, but
 with all boldness, as always, now also Christ will be magnified in my body,
 whether by life, or by death.
-<t xml:lang="es"><wi type="G" value="2596,1,">de acuerdo</wi>
+<t xml:lang="es">
+<wi type="G" value="2596,1,">de acuerdo</wi>
 <wi type="G" value="3450,6,">a mis</wi>
 <wi type="G" value="3588,2,"><wi type="G" value="603,3,">expectativas</wi></wi>
 <wi type="G" value="2532,4,">y</wi>
@@ -484,7 +510,8 @@ se traduce como ser avergonzado, desfigurar, deshonrar.
 
 <sv id="Filipenses-1-21">
 For to me to live is Christ, and to die is gain.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="1698,1,">para mi</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="2198,4,">vivir</wi>
 es <wi type="G" value="5547,5,">Cristo</wi>
@@ -496,7 +523,8 @@ es <wi type="G" value="5547,5,">Cristo</wi>
 <sv id="Filipenses-1-22">
 But if I live on in the flesh, this will bring fruit from my
 work; yet I don´t make known what I will choose.
-<t xml:lang="es"><wi type="G" value="1161,2,">Más</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Más</wi>
 <wi type="G" value="1487,1,">si</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="2198,4,">vivo</wi>
 <wi type="G" value="1722,5,">en</wi>
@@ -518,7 +546,8 @@ lo <wi type="G" value="1107,15,">se</wi>.
 But I am in a dilemma
 between the two, having the desire to depart and be with Christ, which is far
 better.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pero</wi>
 <wi type="G" value="4912,1,">estoy en un dilema</wi>
 <wi type="G" value="1537,3,">entre</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="1417,5,">los dos</wi></wi>,
@@ -532,15 +561,17 @@ better.
 <wi type="G" value="5547,14,">Cristo</wi>,
 <wi type="G" value="4183,16,">que</wi> es
 <wi type="G" value="3123,17,">mucho</wi>
-<wi type="G" value="2908,18,">mejor</wi>.</t>
+<wi type="G" value="2908,18,">mejor</wi>,</t>
 </sv>
 
 <sv id="Filipenses-1-24">
 Yet, to remain in the flesh is more needful for your sake.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Aunque</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">o</wi>
 <wi type="G" value="1961,3,">permanecer</wi>
 <wi type="G" value="1722,4,">en</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="4561,6,">la carne</wi></wi> es
+<wi type="G" value="3588,5,"><wi type="G" value="4561,6,">la carne</wi></wi>
+que es
 <wi type="G" value="316,7,">más necesario</wi>
 <wi type="G" value="1223,8,">por causa de</wi>
 <wi type="G" value="5209,9,">ustedes</wi>.</t>
@@ -549,7 +580,8 @@ Yet, to remain in the flesh is more needful for your sake.
 <sv id="Filipenses-1-25">
 Having this confidence, I know that I will remain, yes, and remain with
 you all, for your progress and joy in the faith,
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="3982,3,">teniendo</wi>
 <wi type="G" value="5124,2,">esta</wi>
 <wi type="GC" value="3">confianza</wi>,
@@ -572,7 +604,8 @@ you all, for your progress and joy in the faith,
 <sv id="Filipenses-1-26">
 that your rejoicing
 may abound in Christ Jesus in me through my presence with you again.
-<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
+<t xml:lang="es">
+<wi type="G" value="2443,1,">para que</wi>
 <wi type="G" value="5216,4,">su</wi>
 <wi type="G" value="3588,2,"><wi type="G" value="2745,3,">gozo</wi></wi>
 <wi type="G" value="4052,5,">abunde</wi>
@@ -594,7 +627,8 @@ Only let your manner of life be worthy of the Good News of Christ, that,
 whether I come and see you or am absent, I may hear of your state, that
 you stand firm in one spirit, with one soul striving for the faith of
 the Good News;
-<t xml:lang="es"><wi type="G" value="3440,1,">Más que</wi> </t>
+<t xml:lang="es">
+<wi type="G" value="3440,1,">Más que</wi> </t>
 <rb xml:lang="es"><wi type="G" value="4176,7,">el vivir</wi><rf>
 <citebib id="WEB"/> dice `que su forma de vivir,´
 <citebib id="KJV2003"/> dice `que su conversación´
@@ -633,7 +667,8 @@ como vivir o como que la conversación sea.
 <sv id="Filipenses-1-28">
 and in nothing frightened by the adversaries, which is for
 them a proof of destruction, but to you of salvation, and that from God.
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="1722,4,">en</wi>
 <wi type="G" value="3367,5,">nada</wi>
 <wi type="G" value="3361,2,"/><wi type="G" value="4426,3,">estén temerosos</wi>
@@ -656,7 +691,8 @@ them a proof of destruction, but to you of salvation, and that from God.
 <sv id="Filipenses-1-29">
 Because it has been granted to you on behalf of Christ, not only to
 believe in him, but also to suffer on his behalf,
-<t xml:lang="es"><wi type="G" value="3754,1,">Porque</wi>
+<t xml:lang="es">
+<wi type="G" value="3754,1,">Porque</wi>
 <wi type="G" value="5213,2,">les</wi>
 <wi type="G" value="5483,3,">ha sido concedido</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="5228,5,">por causa</wi>
@@ -676,7 +712,8 @@ believe in him, but also to suffer on his behalf,
 <sv id="Filipenses-1-30">
 having the same conflict which you
  saw in me, and now hear is in me.
-<t xml:lang="es"><wi type="G" value="2192,4,">Teniendo</wi>
+<t xml:lang="es">
+<wi type="G" value="2192,4,">Teniendo</wi>
 <wi type="G" value="846,2,">el mismo</wi>
 <wi type="G" value="3588,1,"><wi type="G" value="73,3,">conflicto</wi></wi>
 <wi type="G" value="3634,5,">que</wi>
@@ -685,7 +722,7 @@ having the same conflict which you
 <wi type="G" value="1698,8,">mi</wi>,
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="3568,10,">ahora</wi>
-<wi type="G" value="191,11,">escuchan</wi> está
+<wi type="G" value="191,11,">escuchan</wi> que está
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="1698,13,">mi</wi>.
 </t>
@@ -700,7 +737,8 @@ having the same conflict which you
 If there is therefore any exhortation in Christ, if any consolation
 of love, if any fellowship of the Spirit, if any tender mercies and
 compassion,
-<t xml:lang="es"><wi type="G" value="3767,3,">Por tanto</wi>
+<t xml:lang="es">
+<wi type="G" value="3767,3,">Por tanto</wi>
 <wi type="G" value="1487,1,">si</wi> hay
 <wi type="G" value="5100,2,">alguna</wi>
 <wi type="G" value="3874,4,">exhortación</wi>
@@ -726,7 +764,8 @@ compassion,
 make my joy full, by being
 like-minded, having the same
 love, being of one accord, of one mind;
-<t xml:lang="es"><wi type="G" value="4137,1,">completen</wi>
+<t xml:lang="es">
+<wi type="G" value="4137,1,">completen</wi>
 <wi type="G" value="3450,2,">mi</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="5479,4,">gozo</wi></wi>,
 siendo
@@ -745,7 +784,8 @@ siendo
 <sv id="Filipenses-2-3">
 doing nothing through rivalry or
 through conceit, but in humility, each counting others better than himself;
-<t xml:lang="es"><wi type="G" value="3367,1,">nada</wi>
+<t xml:lang="es">
+<wi type="G" value="3367,1,">nada</wi>
 hagan <wi type="G" value="2596,2,">por</wi>
 <wi type="G" value="2052,3,">rivalidad</wi>
 <wi type="G" value="2228,4,">o</wi>
@@ -761,7 +801,8 @@ hagan <wi type="G" value="2596,2,">por</wi>
 <sv id="Filipenses-2-4">
 each of you not just looking to his own things, but each of you also to
 the things of others.
-<t xml:lang="es"><wi type="G" value="3361,1,">no</wi>
+<t xml:lang="es">
+<wi type="G" value="3361,1,">no</wi>
 <wi type="G" value="4648,5,">procurando</wi>
 <wi type="G" value="1538,4,">cada quien</wi>
 <wi type="G" value="3588,2,"/><wi type="G" value="1438,3,">sus propias cosas</wi>,
@@ -774,7 +815,8 @@ the things of others.
 <cm>
 <sv id="Filipenses-2-5">
 Have this in your mind, which was also in Christ Jesus,
-<t xml:lang="es"><wi type="G" value="1063,2,">Entonces</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Entonces</wi>
 <wi type="G" value="5426,3,">piensen</wi>
 <wi type="G" value="5124,1,">esto</wi>
 <wi type="G" value="1722,4,">en</wi>
@@ -789,7 +831,8 @@ Have this in your mind, which was also in Christ Jesus,
 <sv id="Filipenses-2-6">
 who,
 existing in the form of God, didn´t consider it robbery to be equal with God,
-<t xml:lang="es"><wi type="G" value="3739,1,">quien</wi>,
+<t xml:lang="es">
+<wi type="G" value="3739,1,">quien</wi>,
 <wi type="G" value="5225,5,">siendo</wi>
 <wi type="G" value="1722,2,">en</wi>
 <wi type="G" value="3444,3,">la forma</wi>
@@ -813,7 +856,8 @@ se traduce como el actor de tomar, robar.
 <sv id="Filipenses-2-7">
 but emptied himself, taking the form of a servant, being made in the
 likeness of men.
-<t xml:lang="es"><wi type="G" value="235,1,">pero</wi>
+<t xml:lang="es">
+<wi type="G" value="235,1,">pero</wi>
 <wi type="G" value="1438,2,">se</wi>
 <wi type="G" value="2758,3,">despojó</wi>,
 <wi type="G" value="2983,6,">tomando</wi>
@@ -828,7 +872,8 @@ likeness of men.
 <sv id="Filipenses-2-8">
 And being found in human form, he humbled himself,
 becoming obedient to death, yes, the death of the cross.
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="2147,3,">estando</wi>
 <wi type="G" value="4976,2,">en forma</wi>
 <wi type="G" value="5613,4,">como</wi>
@@ -847,7 +892,8 @@ becoming obedient to death, yes, the death of the cross.
 <sv id="Filipenses-2-9">
 Therefore God
 also highly exalted him, and gave to him the name which is above every name;
-<t xml:lang="es"><wi type="G" value="1352,1,">Entonces</wi>
+<t xml:lang="es">
+<wi type="G" value="1352,1,">Entonces</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="2316,4,">Dios</wi></wi>
 <wi type="G" value="2532,2,">también</wi>
 <wi type="G" value="846,5,">lo</wi>
@@ -865,7 +911,8 @@ also highly exalted him, and gave to him the name which is above every name;
 <sv id="Filipenses-2-10">
 that at the name of Jesus every knee should bow, of those in heaven,
 those on earth, and those under the earth,
-<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
+<t xml:lang="es">
+<wi type="G" value="2443,1,">para que</wi>
 <wi type="G" value="1722,2,">en</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="3686,4,">el nombre</wi></wi>
 <wi type="G" value="2424,5,">de Jesús</wi>
@@ -882,7 +929,8 @@ those on earth, and those under the earth,
 <sv id="Filipenses-2-11">
 and that every tongue should
 confess that Jesus Christ is Lord, to the glory of God the Father.
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi> que
+<t xml:lang="es">
+<wi type="G" value="2532,1,">y</wi> que
 <wi type="G" value="3956,2,">toda</wi>
 <wi type="G" value="1100,3,">lengua</wi>
 <wi type="G" value="1843,4,">confiese</wi>
@@ -904,7 +952,8 @@ So then, my beloved, even as you
 have always obeyed, not only in
 my presence, but now much more in my absence, work out your own salvation
 with fear and trembling.
-<t xml:lang="es"><wi type="G" value="5620,1,">Así entonces</wi>,
+<t xml:lang="es">
+<wi type="G" value="5620,1,">Así entonces</wi>,
 <wi type="G" value="3450,3,">mis</wi>
 <wi type="G" value="27,2,">amados</wi>,
 <wi type="G" value="2531,4,">tal como</wi>
@@ -936,7 +985,8 @@ por
 <sv id="Filipenses-2-13">
 For it is God who works in you both to will
 and to work, for his good pleasure.
-<t xml:lang="es"><wi type="G" value="1063,3,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,3,">Pues</wi>
 <wi type="G" value="2076,4,">es</wi>
 <wi type="G" value="3588,1,"><wi type="G" value="2316,2,">Dios</wi></wi>
 <wi type="G" value="3588,5,">quien</wi>
@@ -955,7 +1005,8 @@ Su
 <sv id="Filipenses-2-14">
 Do all things without murmurings
 and disputes,
-<t xml:lang="es"><wi type="G" value="4160,2,">Hagan</wi>
+<t xml:lang="es">
+<wi type="G" value="4160,2,">Hagan</wi>
 <wi type="G" value="3956,1,">todo</wi>
 <wi type="G" value="5565,3,">sin</wi>
 <wi type="G" value="1112,4,">murmuraciones</wi>
@@ -967,7 +1018,8 @@ and disputes,
 that you may become blameless and harmless, children
 of God without blemish in the midst of a crooked and perverse generation,
 among whom you are seen as lights in the world,
-<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
+<t xml:lang="es">
+<wi type="G" value="2443,1,">para que</wi>
 <wi type="G" value="1096,2,">sean</wi>
 <wi type="G" value="273,3,">inocentes</wi>
 <wi type="G" value="2532,4,">e</wi>
@@ -994,7 +1046,8 @@ among whom you are seen as lights in the world,
 holding up the
 word of life; that I may have something to boast in the day of Christ, that I
 didn´t run in vain nor labor in vain.
-<t xml:lang="es"><wi type="G" value="1907,3,">reteniendo</wi>
+<t xml:lang="es">
+<wi type="G" value="1907,3,">reteniendo</wi>
 <wi type="G" value="3056,1,">la palabra</wi>
 <wi type="G" value="2222,2,">de vida</wi>;
 <wi type="G" value="1519,4,">para</wi>
@@ -1024,7 +1077,8 @@ se traduce como regocijarse, gloriarse, presumir.
 <sv id="Filipenses-2-17">
 Yes, and if I am poured out on
 the sacrifice and service of your faith, I rejoice, and rejoice with you all.
-<t xml:lang="es"><wi type="G" value="235,1,">Más</wi>,
+<t xml:lang="es">
+<wi type="G" value="235,1,">Más</wi>,
 <wi type="G" value="2532,3,"/><wi type="G" value="1487,2,">si</wi>
 <wi type="G" value="4689,4,">soy ofrecido</wi>
 <wi type="G" value="1909,5,">sobre</wi>
@@ -1044,7 +1098,8 @@ por <wi type="G" value="3956,16,">todos</wi>
 <sv id="Filipenses-2-18">
 In the same way, you
 also rejoice, and rejoice with me.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="846,3,">por esto</wi>
 <wi type="G" value="2532,4,">también</wi>
 <wi type="G" value="5210,5,">ustedes</wi>
@@ -1058,7 +1113,8 @@ also rejoice, and rejoice with me.
 <sv id="Filipenses-2-19">
 But I hope in the Lord Jesus to send Timothy to you soon, that I also
 may be cheered up when I know how you are doing.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="1679,1,">confío</wi>
 <wi type="G" value="1722,3,">en</wi>
 <wi type="G" value="2962,4,">el Señor</wi>
@@ -1077,7 +1133,8 @@ a <wi type="G" value="5095,6,">Timoteo</wi>,
 <sv id="Filipenses-2-20">
 For I have no one else
 like-minded, who will truly care about you.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="3762,1,">no</wi>
 <wi type="G" value="2192,3,">tengo</wi>
 <wi type="C" value="1">a nadie más</wi>
@@ -1092,7 +1149,8 @@ like-minded, who will truly care about you.
 <sv id="Filipenses-2-21">
 For they all seek their
 own, not the things of Jesus Christ.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1063,3,">Porque</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="1063,3,">Porque</wi>
 <wi type="G" value="3956,2,">todos</wi>
 <wi type="G" value="2212,6,">buscan</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="1438,5,">lo propio</wi>,
@@ -1106,7 +1164,8 @@ y <wi type="G" value="3756,7,">no</wi>
 But you know the proof of
 him, that, as a child serves a father, so he served with me in furtherance of
 the Good News.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="1097,5,">ustedes han conocido</wi>
 <wi type="G" value="1382,3,">la prueba</wi>
 <wi type="G" value="846,4,">de él</wi>,
@@ -1124,7 +1183,8 @@ the Good News.
 <sv id="Filipenses-2-23">
 Therefore I hope to send him at once, as soon as I see how
 it will go with me.
-<t xml:lang="es"><wi type="G" value="3303,2,">De hecho</wi>
+<t xml:lang="es">
+<wi type="G" value="3303,2,">De hecho</wi>
 <wi type="G" value="3767,3,">por esto</wi>
 <wi type="G" value="1679,4,">espero</wi>
 <wi type="G" value="3992,5,"><wi type="G" value="5126,1,">enviarlo</wi></wi>
@@ -1146,7 +1206,8 @@ La palabra griega εμε la hemos traducido como a mí, mí, yo.
 <sv id="Filipenses-2-24">
 But I trust in the Lord that I myself also will
 come shortly.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="3982,1,">confío</wi>
 <wi type="G" value="1722,3,">en</wi>
 <wi type="G" value="2962,4,">el Señor</wi>
@@ -1161,7 +1222,8 @@ come shortly.
 But I counted it necessary to send to you Epaphroditus,
 my brother, fellow worker, fellow soldier, and your apostle and minister to
 my need;
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="2233,3,">supuse que era</wi>
 <wi type="G" value="316,1,">necesario</wi>
 <wi type="G" value="3992,20,">enviarles</wi>
@@ -1186,7 +1248,8 @@ a <wi type="G" value="1891,4,">Epafrodito</wi>,
 <sv id="Filipenses-2-26">
 since he longed for you all, and was very troubled, because
 you had heard that he was sick.
-<t xml:lang="es"><wi type="G" value="1894,1,">porque</wi>
+<t xml:lang="es">
+<wi type="G" value="1894,1,">porque</wi>
 <wi type="G" value="5209,5,">los</wi>
 <wi type="G" value="1971,2,">añoró a</wi>
 <wi type="G" value="2258,3,"/><wi type="G" value="3956,4,">todos</wi>,
@@ -1202,7 +1265,8 @@ you had heard that he was sick.
 For indeed he was sick, nearly to
 death, but God had mercy on him; and not on him only, but on me also, that I
 might not have sorrow on sorrow.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> <wi type="G"
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi> <wi type="G"
 value="2532,1,">de hecho</wi>
 <wi type="G" value="770,3,">estuvo enfermo</wi>,
 <wi type="G" value="3897,4,">casi hasta</wi>
@@ -1231,7 +1295,8 @@ I have sent him therefore the more
 diligently, that, when you
 see him again, you may rejoice, and that
 I may be the less sorrowful.
-<t xml:lang="es"><wi type="G" value="846,4,">Lo</wi>
+<t xml:lang="es">
+<wi type="G" value="846,4,">Lo</wi>
 <wi type="G" value="3992,3,">envío</wi>
 <wi type="G" value="3767,2,">entonces</wi> con
 <wi type="G" value="4708,1,">diligencia</wi>,
@@ -1249,7 +1314,8 @@ I may be the less sorrowful.
 <sv id="Filipenses-2-29">
 Receive him therefore in the Lord with all
 joy, and hold such in honor,
-<t xml:lang="es"><wi type="G" value="4327,1,"><wi type="G" value="846,3,">Recíbanlo</wi></wi>
+<t xml:lang="es">
+<wi type="G" value="4327,1,"><wi type="G" value="846,3,">Recíbanlo</wi></wi>
 <wi type="G" value="3767,2,">entonces</wi>
 <wi type="G" value="1722,4,">en</wi>
 <wi type="G" value="2962,5,">el Señor</wi>
@@ -1266,7 +1332,8 @@ joy, and hold such in honor,
 because for the work of Christ he came
 near to death, risking his life to supply that which was lacking in your
 service toward me.
-<t xml:lang="es"><wi type="G" value="3754,1,">porque</wi>
+<t xml:lang="es">
+<wi type="G" value="3754,1,">porque</wi>
 <wi type="G" value="1223,2,">por</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="2041,4,">la obra</wi></wi>
 <wi type="G" value="3588,5,"><wi type="G" value="5547,6,">de Cristo</wi></wi>
@@ -1290,7 +1357,8 @@ service toward me.
 <sv id="Filipenses-3-1">
 Finally, my brothers, rejoice in the Lord. To write the same things
 to you, to me indeed is not tiresome, but for you it is safe.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="3063,2,">Finalmente</wi>,
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="3063,2,">Finalmente</wi>,
 <wi type="G" value="3450,4,">mis</wi>
 <wi type="G" value="80,3,">hermanos</wi>,
 <wi type="G" value="5463,5,">gócense</wi>
@@ -1310,7 +1378,8 @@ to you, to me indeed is not tiresome, but for you it is safe.
 <sv id="Filipenses-3-2">
 Beware of
 the dogs, beware of the evil workers, beware of the false circumcision.
-<t xml:lang="es"><wi type="G" value="991,1,">Cuídense</wi>
+<t xml:lang="es">
+<wi type="G" value="991,1,">Cuídense</wi>
 <wi type="G" value="3588,2,"><wi type="G" value="2965,3,">de los perros</wi></wi>,
 <wi type="G" value="991,4,">cuídense</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="2556,6,">de los malos</wi>
@@ -1330,7 +1399,8 @@ se traduce como corte o mutilación.
 <sv id="Filipenses-3-3">
 For we are the circumcision, who worship God in the Spirit, and rejoice
 in Christ Jesus, and have no confidence in the flesh;
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="2249,1,">nosotros</wi>
 <wi type="G" value="2070,3,">somos</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="4061,5,">la circuncisión</wi></wi>, que
@@ -1353,7 +1423,8 @@ in Christ Jesus, and have no confidence in the flesh;
 though I myself
 might have confidence even in the flesh. If any other man thinks that he has
 confidence in the flesh, I yet more:
-<t xml:lang="es"><wi type="G" value="2539,1,">aunque</wi>
+<t xml:lang="es">
+<wi type="G" value="2539,1,">aunque</wi>
 <wi type="G" value="1473,2,">yo</wi>
 <wi type="G" value="2532,5,">también</wi>
 <wi type="G" value="2192,3,">podría tener</wi>
@@ -1375,7 +1446,8 @@ confidence in the flesh, I yet more:
 circumcised the eighth day, of the
 stock of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; concerning
 the law, a Pharisee;
-<t xml:lang="es"><wi type="G" value="4061,1,">circuncidado</wi>
+<t xml:lang="es">
+<wi type="G" value="4061,1,">circuncidado</wi>
 <wi type="G" value="3637,2,">al octavo día</wi>,
 <wi type="G" value="1537,3,">del</wi>
 <wi type="G" value="1085,4,">linaje</wi>
@@ -1393,7 +1465,8 @@ the law, a Pharisee;
 <sv id="Filipenses-3-6">
 concerning zeal, persecuting the assembly;
 concerning the righteousness which is in the law, found blameless.
-<t xml:lang="es"><wi type="G" value="2596,1,">respecto</wi>
+<t xml:lang="es">
+<wi type="G" value="2596,1,">respecto</wi>
 <wi type="G" value="2205,2,">a celo</wi>,
 <wi type="G" value="1377,3,">perseguidor</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="1577,5,">de la iglesia</wi></wi>;
@@ -1410,7 +1483,8 @@ concerning the righteousness which is in the law, found blameless.
 <sv id="Filipenses-3-7">
 However, what things were gain to me, these have I counted loss for
 Christ.
-<t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="235,1,">Pero</wi>
 <wi type="G" value="3748,2,">las cosas</wi> que \
 <wi type="G" value="2258,3,">eran</wi>
 <wi type="G" value="2771,5,">ganancia</wi>
@@ -1426,7 +1500,8 @@ Christ.
 Yes most assuredly, and I count all things to be loss for the
 excellency of the knowledge of Christ Jesus, my Lord, for whom I suffered the
 loss of all things, and count them nothing but refuse, that I may gain Christ
-<t xml:lang="es"><wi type="G" value="235,1,">Si</wi>
+<t xml:lang="es">
+<wi type="G" value="235,1,">Si</wi>
 <wi type="G" value="3304,2,">sin duda</wi>,
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="2233,4,">cuento</wi>
@@ -1465,7 +1540,8 @@ se traduce como excremento de animales, cosas sin valor y detestables.
 and be found in him, not having a righteousness of my own, that which is
 of the law, but that which is through faith in Christ, the righteousness
 which is from God by faith;
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="2147,2,">ser encontrado</wi>
 <wi type="G" value="1722,3,">en</wi>
 <wi type="G" value="846,4,">Él</wi>,
@@ -1493,7 +1569,8 @@ which is from God by faith;
 that I may know him, and the power of his
 resurrection, and the fellowship of his sufferings, becoming conformed to his
 death;
-<t xml:lang="es"><wi type="G" value="3588,1,">para que</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,">para que</wi>
 <wi type="G" value="1097,2,"><wi type="G" value="846,3,">yo pueda conocerlo</wi></wi>,
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="1411,6,">el poder</wi></wi>
@@ -1510,7 +1587,8 @@ de <wi type="G" value="846,15,">sus</wi>
 
 <sv id="Filipenses-3-11">
 if by any means I may attain to the resurrection from the dead.
-<t xml:lang="es"><wi type="G" value="1487,1,">si</wi>
+<t xml:lang="es">
+<wi type="G" value="1487,1,">si</wi>
 <wi type="G" value="4459,2,">de alguna manera</wi>
 <wi type="G" value="2658,3,">llego</wi>
 <wi type="G" value="1519,4,">a</wi>
@@ -1522,7 +1600,8 @@ if by any means I may attain to the resurrection from the dead.
 Not that I have already obtained, or am already made perfect; but I
 press on, if it is so that I may take hold of that for which also I was taken
 hold of by Christ Jesus.
-<t xml:lang="es"><wi type="G" value="3756,1,">No</wi> es
+<t xml:lang="es">
+<wi type="G" value="3756,1,">No</wi> es
 <wi type="G" value="3754,2,">que</wi>
 <wi type="G" value="2235,3,">ya</wi>
 <wi type="G" value="2983,4,">la haya logrado</wi>,
@@ -1547,7 +1626,8 @@ hold of by Christ Jesus.
 Brothers, I don´t regard myself as yet having taken hold, but one thing
 I do. Forgetting the things which are behind, and stretching forward to the
 things which are before,
-<t xml:lang="es"><wi type="G" value="80,1,">Hermanos</wi>,
+<t xml:lang="es">
+<wi type="G" value="80,1,">Hermanos</wi>,
 <wi type="G" value="1473,2,">yo</wi>
 <wi type="G" value="3756,4,">no</wi>
 <wi type="G" value="1683,3,">me</wi>
@@ -1568,7 +1648,8 @@ está <wi type="G" value="3694,11,">atrás</wi>,
 <sv id="Filipenses-3-14">
 I press on toward the goal for the prize of
 the high calling of God in Christ Jesus.
-<t xml:lang="es"><wi type="G" value="1377,3,">Sigo</wi>
+<t xml:lang="es">
+<wi type="G" value="1377,3,">Sigo</wi>
 <wi type="G" value="2596,1,">hacia</wi>
 <wi type="G" value="4649,2,">la meta</wi>
 <wi type="G" value="1909,4,">por</wi>
@@ -1585,7 +1666,8 @@ the high calling of God in Christ Jesus.
 Let us therefore, as many as
 are perfect, think this way. If in anything you
 think otherwise, God will also reveal that to you.
-<t xml:lang="es"><wi type="G" value="3767,2,">Así</wi>
+<t xml:lang="es">
+<wi type="G" value="3767,2,">Así</wi>
 <wi type="G" value="3745,1,">tantos como</wi>
 <wi type="G" value="5046,3,">seamos perfectos</wi>,
 <wi type="G" value="5426,5,">pensemos</wi>
@@ -1604,7 +1686,8 @@ think otherwise, God will also reveal that to you.
 <sv id="Filipenses-3-16">
 Nevertheless, to the extent that we have
 already attained, let us walk by the same rule. Let us be of the same mind.
-<t xml:lang="es"><wi type="G" value="4133,1,">Aún</wi>,
+<t xml:lang="es">
+<wi type="G" value="4133,1,">Aún</wi>,
 <wi type="G" value="1519,2,"><wi type="G" value="3739,3,">con</wi></wi>
 <wi type="G" value="5348,4,">lo que hemos logrado</wi>,
 <wi type="G" value="4748,7,">caminemos</wi>
@@ -1617,7 +1700,8 @@ en <wi type="G" value="3588,5,"><wi type="G" value="846,6,">la misma</wi></wi>
 <sv id="Filipenses-3-17">
 Brothers, be imitators together of me, and note those who walk
 this way, even as you have us for an example.
-<t xml:lang="es"><wi type="G" value="80,4,">Hermanos</wi>,
+<t xml:lang="es">
+<wi type="G" value="80,4,">Hermanos</wi>,
 <wi type="G" value="1096,3,">sean</wi>
 <wi type="G" value="4831,1,">seguidores</wi>
 <wi type="G" value="3450,2,">mios</wi>,
@@ -1636,7 +1720,8 @@ a <wi type="G" value="3588,7,">los que</wi>
 For many walk, of
 whom I told you often, and now tell you even weeping, as the enemies of the
 cross of Christ,
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="4183,1,">muchos</wi>
 <wi type="G" value="3739,4,">de quienes</wi>
 <wi type="G" value="5213,7,">les</wi>
@@ -1657,7 +1742,8 @@ como
 <sv id="Filipenses-3-19">
 whose end is destruction, whose god is the belly, and
 whose glory is in their shame, who think about earthly things.
-<t xml:lang="es"><wi type="G" value="3739,1,">cuyo</wi>
+<t xml:lang="es">
+<wi type="G" value="3739,1,">cuyo</wi>
 <wi type="G" value="3588,2,"><wi type="G" value="5056,3,">fin</wi></wi> es
 <wi type="G" value="684,4,">la destrucción</wi>,
 <wi type="G" value="3739,5,">cuyo</wi>
@@ -1678,7 +1764,8 @@ whose glory is in their shame, who think about earthly things.
 For our
 citizenship is in heaven, from where we also wait for a Savior, the Lord
 Jesus Christ;
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="2257,1,">nuestra</wi>
 <rb xml:lang="es"><wi type="G" value="3588,3,"><wi type="G" value="4175,4,">ciudadanía</wi></wi><rf>
 <citebib id="WEB"/> dice `ciudadania,´
@@ -1704,7 +1791,8 @@ se traduce como comunidad, ciudadanía y conversación.
 who will change the body of our humiliation to be
 conformed to the body of his glory, according to the working by which he is
 able even to subject all things to himself.
-<t xml:lang="es"><wi type="G" value="3739,1,">quien</wi>
+<t xml:lang="es">
+<wi type="G" value="3739,1,">quien</wi>
 <wi type="G" value="3345,2,">cambiará</wi>
 <wi type="G" value="2257,7,">nuestro</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="4983,4,">cuerpo</wi></wi>
@@ -1732,7 +1820,8 @@ por la <wi type="G" value="3588,21,">que</wi>
 <sv id="Filipenses-4-1">
 Therefore, my brothers, beloved and longed for, my joy and crown,
 so stand firm in the Lord, my beloved.
-<t xml:lang="es"><wi type="G" value="5620,1,">Entonces</wi>,
+<t xml:lang="es">
+<wi type="G" value="5620,1,">Entonces</wi>,
 <wi type="G" value="3450,3,">mis</wi>
 <wi type="G" value="80,2,">hermanos</wi>,
 <wi type="G" value="27,4,">amados</wi>
@@ -1752,7 +1841,8 @@ so stand firm in the Lord, my beloved.
 <sv id="Filipenses-4-2">
 I exhort Euodia, and I exhort
 Syntyche, to think the same way in the Lord.
-<t xml:lang="es"><wi type="G" value="3870,2,">Animo a</wi>
+<t xml:lang="es">
+<wi type="G" value="3870,2,">Animo a</wi>
 <wi type="G" value="2136,1,">Evodia</wi>,
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="3870,5,">animo a</wi>
@@ -1768,7 +1858,8 @@ Yes, I beg you also, true
 yokefellow, help these women, for they labored with me in the Good News, with
 Clement also, and the rest of my fellow workers, whose names are in the book
 of life.
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="4571,4,">te</wi>
 <wi type="G" value="2065,2,">ruego</wi>
 <wi type="G" value="2532,3,">también</wi>,
@@ -1810,7 +1901,8 @@ Rejoice in the Lord always! Again I will say, Rejoice!
 <sv id="Filipenses-4-5">
 Let
 your gentleness be known to all men. The Lord is at hand.
-<t xml:lang="es">Que <wi type="G" value="3588,1,"/><wi type="G" value="5216,3,">su</wi>
+<t xml:lang="es">
+Que <wi type="G" value="3588,1,"/><wi type="G" value="5216,3,">su</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="1933,2,">amabilidad</wi><rf>
 <citebib id="WEB"/> dice `amabilidad,´
@@ -1830,7 +1922,8 @@ está <wi type="G" value="1451,9,">cerca</wi>.</t>
 In nothing be
 anxious, but in everything, by prayer and petition with thanksgiving, let
 your requests be made known to God.
-<t xml:lang="es"><wi type="G" value="3367,1,">En nada</wi>
+<t xml:lang="es">
+<wi type="G" value="3367,1,">En nada</wi>
 <wi type="G" value="3309,2,">estén ansiosos</wi>,
 <wi type="G" value="235,3,">más</wi>
 <wi type="G" value="1722,4,">en</wi>
@@ -1852,7 +1945,8 @@ que <wi type="G" value="5216,15,">sus</wi>
 And the peace of God, which
 surpasses all understanding, will guard your hearts and your thoughts in
 Christ Jesus.
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="3588,2,"><wi type="G" value="1515,3,">la paz</wi></wi>
 <wi type="G" value="3588,4,"><wi type="G" value="2316,5,">de Dios</wi></wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="5242,7,">que sobrepasa</wi>
@@ -1880,7 +1974,8 @@ Finally, brothers, whatever things are true, whatever things are
 honorable, whatever things are just, whatever things are pure, whatever
 things are lovely, whatever things are of good report; if there is any
 virtue, and if there is any praise, think about these things.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="3063,2,">Finalmente</wi>,
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="3063,2,">Finalmente</wi>,
 <wi type="G" value="80,3,">hermanos</wi>,
 <wi type="G" value="3745,4,">en lo que</wi>
 <wi type="G" value="2076,5,">sea</wi>
@@ -1910,7 +2005,8 @@ en <wi type="G" value="5023,24,">esas cosas</wi>
 <sv id="Filipenses-4-9">
 The things which you learned, received, heard, and saw in me:
 do these things, and the God of peace will be with you.
-<t xml:lang="es"><wi type="G" value="5023,12,">Las cosas</wi>
+<t xml:lang="es">
+<wi type="G" value="5023,12,">Las cosas</wi>
 <wi type="G" value="3739,1,">que</wi>
 <wi type="G" value="2532,2,">tanto</wi>
 <wi type="G" value="3129,3,">aprendieron</wi>
@@ -1936,7 +2032,8 @@ do these things, and the God of peace will be with you.
 But I rejoice in the Lord greatly, that now at length you
 have revived your thought for me; in which you
 did indeed take thought, but you lacked opportunity.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="5463,1,">me gozo</wi>
 <wi type="G" value="3171,5,">grandemente</wi>
 <wi type="G" value="1722,3,">en</wi>
@@ -1961,7 +2058,8 @@ did indeed take thought, but you lacked opportunity.
 Not
 that I speak in respect to lack, for I have learned in whatever state I am,
 to be content in it.
-<t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
+<t xml:lang="es">
+<wi type="G" value="3756,1,">No</wi>
 <wi type="G" value="3754,2,"/><wi type="G" value="3004,5,">hablo</wi>
 <wi type="G" value="2596,3,">respecto a</wi>
 <wi type="G" value="5304,4,">necesidades</wi>,
@@ -1980,7 +2078,8 @@ que
 I know how to be humbled, and I know also how to
 abound. In everything and in all things I have learned the secret both to be
 filled and to be hungry, both to abound and to be in need.
-<t xml:lang="es"><wi type="G" value="1492,1,">Se</wi>
+<t xml:lang="es">
+<wi type="G" value="1492,1,">Se</wi>
 <wi type="G" value="2532,2,">tanto</wi>
 <wi type="G" value="5013,3,">de escasez</wi>
 <wi type="G" value="2532,5,">como</wi> <wi type="G" value="1492,4,">se</wi>
@@ -2005,7 +2104,8 @@ filled and to be hungry, both to abound and to be in need.
 <sv id="Filipenses-4-13">
 I can do all
 things through Christ, who strengthens me.
-<t xml:lang="es"><wi type="G" value="2480,2,">Puedo hacer</wi>
+<t xml:lang="es">
+<wi type="G" value="2480,2,">Puedo hacer</wi>
 <wi type="G" value="3956,1,">todo</wi>
 <wi type="G" value="1722,3,">por</wi>
 <wi type="G" value="5547,7,">Cristo</wi>,
@@ -2017,7 +2117,8 @@ things through Christ, who strengthens me.
 <sv id="Filipenses-4-14">
 However you did well that you
 shared in my affliction.
-<t xml:lang="es"><wi type="G" value="4133,1,">Sin embargo</wi>,
+<t xml:lang="es">
+<wi type="G" value="4133,1,">Sin embargo</wi>,
 <wi type="G" value="4160,3,">hicieron</wi>
 <wi type="G" value="2573,2,">bien</wi>
 <wi type="G" value="4790,4,">porque compartieron</wi>
@@ -2030,7 +2131,8 @@ You yourselves also know,
 you Philippians, that in the beginning of the Good News, when I departed
 from Macedonia, no assembly shared with me in the matter of giving and
 receiving but you only.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="2532,3,">bien</wi>
 <wi type="G" value="1492,1,">saben</wi>,
 <wi type="G" value="5210,4,">ustedes</wi>
@@ -2060,7 +2162,8 @@ receiving but you only.
 <sv id="Filipenses-4-16">
 For even in Thessalonica you sent
 once and again to my need.
-<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="3754,1,">Pues</wi>
 <wi type="G" value="2532,2,">incluso</wi>
 <wi type="G" value="1722,3,">en</wi>
 <wi type="G" value="2332,4,">Tesalónica</wi>
@@ -2076,7 +2179,8 @@ once and again to my need.
 <sv id="Filipenses-4-17">
 Not that I seek for the gift, but I seek for
 the fruit that increases to your account.
-<t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
+<t xml:lang="es">
+<wi type="G" value="3756,1,">No</wi>
 es <wi type="G" value="3754,2,">que</wi>
 <wi type="G" value="1934,3,">yo quiera</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="1390,5,">un regalo</wi></wi>,
@@ -2094,7 +2198,8 @@ But I have all things, and
 abound. I am filled, having received from Epaphroditus the things that came
 from you, a sweet-smelling fragrance, an acceptable and well-pleasing
 sacrifice to God.
-<t xml:lang="es"><wi type="G" value="1161,2,">Más</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Más</wi>
 <wi type="G" value="568,1,">tengo</wi>
 <wi type="G" value="3956,3,">todo</wi>,
 <wi type="G" value="2532,4,">y</wi>
@@ -2117,7 +2222,8 @@ para <wi type="G" value="3588,18,"><wi type="G" value="2316,19,">Dios</wi></wi>.
 <sv id="Filipenses-4-19">
 My God will supply every need of yours according to
 his riches in glory in Christ Jesus.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="3450,4,">mi</wi>
 <wi type="G" value="2316,3,">Dios</wi>
 <wi type="G" value="4137,5,">suplirá</wi>
@@ -2137,7 +2243,8 @@ his riches in glory in Christ Jesus.
 <sv id="Filipenses-4-20">
 Now to our God and Father be the
 glory forever and ever! Amen.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi>
 <wi type="G" value="2316,3,">al Dios</wi>
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="3962,5,">Padre</wi>
@@ -2154,7 +2261,8 @@ y
 <sv id="Filipenses-4-21">
 Greet every saint in Christ Jesus. The brothers who are with me greet
 you.
-<t xml:lang="es"><wi type="G" value="782,1,">Saludos a</wi>
+<t xml:lang="es">
+<wi type="G" value="782,1,">Saludos a</wi>
 <wi type="G" value="3956,2,">cada</wi>
 <wi type="G" value="40,3,">santo</wi>
 <wi type="G" value="1722,4,">en</wi>
@@ -2170,7 +2278,8 @@ you.
 <sv id="Filipenses-4-22">
 All the saints greet you, especially those who are of Caesar´s
 household.
-<t xml:lang="es"><wi type="G" value="3956,3,">Todos</wi>
+<t xml:lang="es">
+<wi type="G" value="3956,3,">Todos</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="40,5,">los santos</wi>
 <wi type="G" value="5209,2,">los</wi>
 <wi type="G" value="782,1,">saludan</wi>,
@@ -2183,7 +2292,8 @@ household.
 
 <sv id="Filipenses-4-23">
 The grace of the Lord Jesus Christ be with you all. Amen.
-<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="5485,2,">La gracia</wi></wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,"><wi type="G" value="5485,2,">La gracia</wi></wi>
 <wi type="G" value="2257,5,">de nuestro</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="2962,4,">Señor</wi></wi>
 <wi type="G" value="2424,6,">Jesús</wi>
