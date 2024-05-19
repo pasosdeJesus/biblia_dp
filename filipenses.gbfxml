@@ -1912,7 +1912,8 @@ Christ Jesus.
 <wi type="G" value="5216,13,">sus</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="2588,12,">corazones</wi></wi>
 <wi type="G" value="2532,14,">y</wi>
-<wi type="G" value="5216,17,">sus</wi></t>
+<wi type="G" value="5216,17,">sus</wi>
+</t>
 <rb xml:lang="es"><wi type="G" value="3588,15,"><wi type="G" value="3540,16,">pensamientos</wi></wi><rf>
 <citebib id="WEB"/> dice `pensamientos,´
 <citebib id="KJV2003"/> dice `mentes.´
@@ -2187,7 +2188,7 @@ his riches in glory in Christ Jesus.
 <sv id="Filipenses-4-20">
 Now to our God and Father be the
 glory forever and ever! Amen.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">¡Ahora</wi>
 <wi type="G" value="2316,3,">al Dios</wi>
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="3962,5,">Padre</wi>
