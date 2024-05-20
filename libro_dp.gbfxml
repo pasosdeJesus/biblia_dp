@@ -14,6 +14,7 @@
   <!ENTITY galatas SYSTEM "galatas.gbfxml">
   <!ENTITY efesios SYSTEM "efesios.gbfxml">
   <!ENTITY filipenses SYSTEM "filipenses.gbfxml">
+  <!ENTITY colosenses SYSTEM "colosenses.gbfxml">
 
   <!ENTITY biblio SYSTEM "biblio.gbfxml">
   ]>
@@ -36,7 +37,8 @@
 &corintios2;
 &galatas;
 &efesios;
- --> 
 &filipenses;
+ --> 
+&colosenses;
 &biblio;
 </gbfxml>

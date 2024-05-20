@@ -2,7 +2,7 @@
 # Edita
 
 #TERM=xterm-color xterm -geometry 80x50 -e "gvim corintios2.gbfxml" &
-gvim filipenses.gbfxml &
-gvim ref/sword_kjv/Philippians-2023-01-06-osis.xml &
+gvim colosenses.gbfxml &
+gvim ref/sword_kjv/Colossians-2023-01-06-osis.xml &
 
 
