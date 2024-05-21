@@ -63,11 +63,34 @@ and peace from God our Father, and the Lord Jesus Christ.
 <sv id="Colossians-1-3">
 We give thanks to God the Father of our Lord Jesus Christ, praying
 always for you,
+<t xml:lang="es"><wi type="G" value="2168,1,">Damos gracias</wi> 
+<wi type="G" value="3588,2,"><wi type="G" value="2316,3,">a Dios</wi></wi> 
+<wi type="G" value="2532,4,">y</wi> 
+<wi type="G" value="3962,5,">Padre</wi> 
+<wi type="G" value="2257,8,">de nuestro</wi> 
+<wi type="G" value="3588,6,"><wi type="G" value="2962,7,">Señor</wi></wi> 
+<wi type="G" value="2424,9,">Jesús</wi> 
+<wi type="G" value="5547,10,">Cristo</wi>,
+<wi type="G" value="4336,14,">orando</wi> 
+<wi type="G" value="3842,11,">siempre</wi> 
+<wi type="G" value="4012,12,">por</wi> 
+<wi type="G" value="5216,13,">ustedes</wi>,</t>
 </sv>
 		<sv id="Colossians-1-4">
 having heard of your faith in Christ Jesus, and of the
 love which you
-<wi type="T" value="P"/> have toward all the saints,
+have toward all the saints,
+<t xml:lang="es"><wi type="G" value="191,1,">habiendo oído</wi> 
+<wi type="G" value="5216,4,">de su</wi> 
+<wi type="G" value="3588,2,"><wi type="G" value="4102,3,">fe</wi></wi> 
+<wi type="G" value="1722,5,">en</wi> 
+<wi type="G" value="5547,6,">Cristo</wi> 
+<wi type="G" value="2424,7,"/>Jesús, 
+<wi type="G" value="2532,8,">y</wi> 
+<wi type="G" value="3588,9,"><wi type="G" value="26,10,">del amor</wi></wi> 
+<wi type="G" value="3588,11,"/><wi type="G" value="1519,12,">por</wi> 
+<wi type="G" value="3956,13,">todos</wi> 
+<wi type="G" value="3588,14,"/><wi type="G" value="40,15,">los santos</wi>,</t>
 </sv>
 		<sv id="Colossians-1-5">
 because of the hope
