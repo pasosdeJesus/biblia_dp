@@ -210,11 +210,51 @@ lo <wi type="G" value="191,8,">oímos</wi>,
 <sv id="Colosenses-1-10">
 that you may walk worthily of the Lord, to please him in all respects,
 bearing fruit in every good work, and increasing in the knowledge of God;
-
+<t xml:lang="es"><wi type="G" value="5209,2,"/><wi type="G" value="4043,1,">que puedan caminar</wi>
+<wi type="G" value="516,3,">dignos</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2962,5,">del Señor</wi></wi>,
+<wi type="G" value="1519,6,">para</wi>
+<wi type="G" value="699,8,">agradarlo</wi>
+<wi type="G" value="3956,7,">en todo</wi>,
+<wi type="G" value="2592,13,">dando fruto</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="3956,10,">toda</wi>
+<wi type="G" value="18,12,">buena</wi>
+<wi type="G" value="2041,11,">obra</wi>,
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="837,15,">creciendo</wi>
+<wi type="G" value="1519,16,">en</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="1922,18,">el conocimiento</wi></wi>
+<wi type="G" value="3588,19,"><wi type="G" value="2316,20,">de Dios</wi></wi>;</t>
 </sv>
 <sv id="Colosenses-1-11">
 strengthened with all power, according to the might of his glory, for
 all endurance and perseverance with joy;
+<t xml:lang="es"><wi type="G" value="1412,4,">fortalecidos</wi>
+<wi type="G" value="1722,1,">con</wi>
+<wi type="G" value="3956,2,">todo</wi>
+<wi type="G" value="1411,3,">poder</wi>,
+<wi type="G" value="2596,5,">de acuerdo a</wi>
+<wi type="G" value="846,10,">Su</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="1391,9,">glorioso</wi></wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2904,7,">poder</wi></wi>,
+<wi type="G" value="1519,11,">para</wi> </t>
+<rb xml:lang="es"><wi type="G" value="5281,13,">soportar</wi><rf>
+<citebib id="WEB"/> dice `para toda resistencia´,
+<citebib id="KJV2003"/> dice `para toda paciencia,´
+<citebib id="RVG2012"/> dice `para toda tolerancia.´
+Segun <citebib id="Thayer-BLB"/> la palabra griega `υπομονην´
+se traduce como firmeza, constancia, resistencia y aclara
+`en el nuevo testamento la característica del hombre que no
+se desvia de su propósito deliberado, y de la fidelidad a la fe
+y la misericordia aun ante las más grandes pruebas y sufrimintos.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3956,12,">todo</wi>
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="3115,15,">perseverar</wi>
+<wi type="G" value="3326,16,">con</wi>
+<wi type="G" value="5479,17,">gozo</wi>;</t>
 </sv>
 <sv id="Colosenses-1-12">
 giving thanks to the Father,
