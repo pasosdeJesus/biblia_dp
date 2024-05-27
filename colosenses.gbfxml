@@ -282,6 +282,7 @@ who made us fit to be partakers of the inheritance of the saints in light;
 Según  <citebib id="Thayer-BLB"/>  la palabra griega `κληρου´
 se traduce como suerte, parte, herencia.
 </rf></rb>
+<t xml:lang="es">
 <wi type="G" value="3588,12,"/><wi type="G" value="40,13,">de los santos</wi>
 <wi type="G" value="1722,14,">en</wi>
 <wi type="G" value="3588,15,"><wi type="G" value="5457,16,">luz</wi></wi>;</t>
@@ -290,7 +291,20 @@ se traduce como suerte, parte, herencia.
 <sv id="Colosenses-1-13">
 who delivered us out of the power of darkness, and translated us into
 the Kingdom of the Son of his love;
-<t xml:lang="es"></t>
+<t xml:lang="es"><wi type="G" value="3739,1,">quien</wi>
+<wi type="G" value="2248,3,">nos</wi>
+<wi type="G" value="4506,2,">libró</wi>
+<wi type="G" value="1537,4,">del</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="1849,6,">poder</wi></wi>
+<wi type="G" value="3588,7,"><wi type="G" value="4655,8,">de las tinieblas</wi></wi>
+<wi type="G" value="2532,9,">y</wi>
+nos
+<wi type="G" value="3179,10,">traslado</wi>
+<wi type="G" value="1519,11,">al</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="932,13,">Reino</wi></wi>
+<wi type="G" value="846,18,">de Su</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="26,17,">amado</wi></wi>
+<wi type="G" value="3588,14,"><wi type="G" value="5207,15,">Hijo</wi></wi>;</t>
 </sv>
 
 <sv id="Colosenses-1-14">
