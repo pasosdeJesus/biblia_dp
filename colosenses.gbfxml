@@ -310,10 +310,25 @@ nos
 <sv id="Colosenses-1-14">
 in whom we have our
 redemption,
+<t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="3739,2,">quien</wi>
+<wi type="G" value="2192,3,">tenemos</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="629,5,">redención</wi></wi>
+</t>
 <rb>
-<t xml:lang="es"/><rf>TR adds «through his blood,»<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="1223,6,">por</wi>
+<wi type="G" value="846,9,">Su</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="129,8,">sangre</wi></wi></t><rf>TR adds «through his blood,»
+<t xml:lang="es"><citebib id="WEB"/> no dice `por su sangre´
+pero tiene una nota al pie que dice `TR añade «por su sangre.»´
+Si lo dice <citebib id="KJV2003"/>
+</t></rf>
 </rb>
  the forgiveness of our sins;
+<t xml:lang="es">
+y
+<wi type="G" value="3588,10,"><wi type="G" value="859,11,">el perdón</wi></wi>
+<wi type="G" value="3588,12,"><wi type="G" value="266,13,">de pecados</wi></wi>;</t>
 </sv>
 
 <sv id="Colosenses-1-15">
