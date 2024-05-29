@@ -333,6 +333,14 @@ y
 
 <sv id="Colosenses-1-15">
 who is the image of the invisible God, the firstborn of all creation.
+<t xml:lang="es"><wi type="G" value="3739,1,">quien</wi>
+<wi type="G" value="2076,2,">es</wi>
+<wi type="G" value="1504,3,">la imagen</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2316,5,">del Dios</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="517,7,">invisible</wi>,
+<wi type="G" value="4416,8,">el primogénito</wi>
+<wi type="G" value="3956,9,">de toda</wi>
+<wi type="G" value="2937,10,">criatura</wi>.</t>
 </sv>
 
 <sv id="Colosenses-1-16">
@@ -340,6 +348,38 @@ For by him were all things created, in the heavens and on the earth,
 things visible and things invisible, whether thrones or dominions or
 principalities or powers; all things have been created through him, and for
 him.
+<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
+<wi type="G" value="1722,2,">por</wi>
+<wi type="G" value="846,3,">Él</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="3956,6,">todas las cosas</wi></wi>
+<wi type="G" value="2936,4,">fueron creadas</wi>,
+<wi type="G" value="3388,7,">de las que</wi> están
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="3772,10,">los cielos</wi></wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="3588,12,">de las que</wi> están
+<wi type="G" value="1909,13,">en</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="1093,15,">la tierra</wi></wi>,
+<wi type="G" value="3588,16,">lo</wi>
+<wi type="G" value="3797,17,">visible</wi>
+<wi type="G" value="2532,18,">y</wi>
+<wi type="G" value="3588,19,">lo</wi>
+<wi type="G" value="517,20,">invisible</wi>,
+<wi type="G" value="1535,21,">bien</wi>
+<wi type="G" value="2362,22,">tronos</wi>
+<wi type="G" value="1534,23,">o</wi>
+<wi type="G" value="2963,24,">dominios</wi>
+<wi type="G" value="1535,25,">o</wi>
+<wi type="G" value="746,26,">principados</wi>
+<wi type="G" value="1535,27,">o</wi>
+<wi type="G" value="1849,28,">potestades</wi>;
+<wi type="G" value="3588,29,"><wi type="G" value="3956,30,">todas las cosas</wi></wi>
+<wi type="G" value="2936,36,">fueron creadas</wi>
+<wi type="G" value="1223,31,">por</wi>
+<wi type="G" value="846,32,">Él</wi>,
+<wi type="G" value="2532,33,">y</wi>
+<wi type="G" value="1519,34,">para</wi>
+<wi type="G" value="846,35,">Él</wi>.</t>
 </sv>
 
 <sv id="Colosenses-1-17">
