@@ -353,7 +353,7 @@ him.
 <wi type="G" value="846,3,">Él</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="3956,6,">todas las cosas</wi></wi>
 <wi type="G" value="2936,4,">fueron creadas</wi>,
-<wi type="G" value="3388,7,">las que</wi> están
+<wi type="G" value="3588,7,">las que</wi> están
 <wi type="G" value="1722,8,">en</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="3772,10,">los cielos</wi></wi>
 <wi type="G" value="2532,11,">y</wi>
@@ -361,13 +361,13 @@ him.
 <wi type="G" value="1909,13,">en</wi>
 <wi type="G" value="3588,14,"><wi type="G" value="1093,15,">la tierra</wi></wi>,
 <wi type="G" value="3588,16,">lo</wi>
-<wi type="G" value="3797,17,">visible</wi>
+<wi type="G" value="3707,17,">visible</wi>
 <wi type="G" value="2532,18,">y</wi>
 <wi type="G" value="3588,19,">lo</wi>
 <wi type="G" value="517,20,">invisible</wi>,
 <wi type="G" value="1535,21,">bien</wi>
 <wi type="G" value="2362,22,">tronos</wi>
-<wi type="G" value="1534,23,">o</wi>
+<wi type="G" value="1535,23,">o</wi>
 <wi type="G" value="2963,24,">dominios</wi>
 <wi type="G" value="1535,25,">o</wi>
 <wi type="G" value="746,26,">principados</wi>
@@ -392,7 +392,7 @@ He is before all things, and in him all things are held together.
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="1722,9,">en</wi>
 <wi type="G" value="846,10,">Él</wi>
-<wi type="G" value="3956,8,">todas las cosas</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="3956,8,">todas las cosas</wi>
 <wi type="G" value="4921,11,">se mantienen</wi>.</t>
 </sv>
 
@@ -400,7 +400,7 @@ He is before all things, and in him all things are held together.
 He is the head of the body, the assembly, who is the beginning, the
 firstborn from the dead; that in all things he might have the preeminence.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
-<wi type="G" value=",">Él</wi>
+<wi type="G" value="846,2,">Él</wi>
 <wi type="G" value="2076,3,">es</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="2776,5,">la cabeza</wi></wi>
 <wi type="G" value="3588,6,"><wi type="G" value="4983,7,">del cuerpo</wi></wi>,
@@ -410,7 +410,7 @@ firstborn from the dead; that in all things he might have the preeminence.
 <wi type="G" value="746,12,">el principio</wi>,
 <wi type="G" value="4416,13,">el primogénito</wi>
 <wi type="G" value="1537,14,">de</wi>
-<wi type="G" value="3498,16,">los muertos</wi>;
+<wi type="G" value="3588,15,"/><wi type="G" value="3498,16,">los muertos</wi>;
 <wi type="G" value="2443,17,">para que</wi>
 <wi type="G" value="1722,19,">en</wi>
 <wi type="G" value="3956,20,">todo</wi>
@@ -421,6 +421,16 @@ firstborn from the dead; that in all things he might have the preeminence.
 
 <sv id="Colosenses-1-19">
 For all the fullness was pleased to dwell in him;
+<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
+<wi type="G" value="3956,5,">toda</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="4138,7,">la plenitud</wi></wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="2106,4,">se agradó</wi><rf>
+<citebib id="RVG2012"/> dice `agradó al Padre.´</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2730,8,">de morar</wi>
+<wi type="G" value="1722,2,">en</wi>
+<wi type="G" value="846,3,">Él</wi>;</t>
 </sv>
 
 <sv id="Colosenses-1-20">
