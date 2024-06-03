@@ -492,21 +492,58 @@ pensamientos.
 pero está en este versículo en <citebib id="KJV2003"/>
 y <citebib id="RVG2012"/>.
 </rf></rb>
-<t xml:lang="es">.</t>
 </sv>
 
 <sv id="Colosenses-1-22">
 yet now he has reconciled in the body of his flesh through
 death, to present you holy and without blemish and blameless before him,
+<t xml:lang="es">
+<wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="4983,3,">el cuerpo</wi></wi>
+<wi type="G" value="846,6,">de Su</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="4561,5,">carne</wi></wi>
+<wi type="G" value="1223,7,">mediante</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2288,9,">la muerte</wi></wi>,
+<wi type="G" value="3936,10,">para presentarlos</wi>
+<wi type="G" value="5209,11,">a ustedes</wi>
+<wi type="G" value="40,12,">santos</wi>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="299,14,">sin culpa</wi>
+<wi type="G" value="2532,15,">e</wi>
+<wi type="G" value="410,16,">irreprochables</wi>
+<wi type="G" value="2714,17,">ante</wi>
+<wi type="G" value="846,18,">Él</wi>,</t>
 </sv>
 
 <sv id="Colosenses-1-23">
-if it is so that you
-<wi type="T" value="P"/> continue in the faith, grounded and
+if it is so that you continue in the faith, grounded and
 steadfast, and not moved away from the hope of the Good News which you
-<wi type="T" value="P"/>
 heard, which is being proclaimed in all creation under heaven; of which I,
 Paul, was made a servant.
+<t xml:lang="es"><wi type="G" value="1489,1,">si</wi> es que
+<wi type="G" value="1961,2,">ustedes continúan en</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="4102,4,">la fe</wi></wi>,
+<wi type="G" value="2311,5,">cimentados</wi>
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="1476,7,">perseverantes</wi>,
+<wi type="G" value="2532,8,">y</wi> <wi type="G" value="3361,9,">no</wi>
+<wi type="G" value="3334,10,">se mueven</wi>
+<wi type="G" value="575,11,">de</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="1680,13,">la esperanza</wi></wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2098,15,">del evangelio</wi></wi>
+<wi type="G" value="3739,16,">que</wi>
+<wi type="G" value="191,17,">han oído</wi>,
+<wi type="G" value="3588,18,"/><wi type="G" value="2784,19,">que ha sido proclamado</wi>
+<wi type="G" value="1722,20,">a</wi>
+<wi type="G" value="3956,21,">toda</wi>
+<wi type="G" value="3588,22,"><wi type="G" value="2937,23,">criatura</wi></wi>
+<wi type="G" value="3588,24,"/><wi type="G" value="5259,25,">bajo</wi>
+<wi type="G" value="3588,26,"><wi type="G" value="3772,27,">el cielo</wi></wi>;
+<wi type="G" value="3739,28,">del cual</wi>,
+<wi type="G" value="1473,30,">Yo</wi>
+<wi type="G" value="3972,31,">Pablo</wi>,
+<wi type="G" value="1096,29,">soy hecho</wi>
+<wi type="G" value="1249,32,">servidor</wi>.</t>
 </sv></cm>
 
 <cm>
