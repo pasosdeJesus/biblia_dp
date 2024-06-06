@@ -600,7 +600,7 @@ of God,
 the mystery which has been hidden for ages and generations. But
 now it has been revealed to his saints,
 <t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="3466,2,">el misterio</wi></wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="613,4,">que ha estado escondido</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="613,4,">escondido</wi>
 <wi type="G" value="575,5,">por</wi>
 <wi type="G" value="3588,6,"><wi type="G" value="165,7,">eras</wi></wi>
 <wi type="G" value="2532,8,">y</wi>
@@ -641,12 +641,47 @@ which is Christ in you, the hope of glory;
 whom we proclaim,
 admonishing every man and teaching every man in all wisdom, that we may
 present every man perfect in Christ Jesus;
+<t xml:lang="es"><wi type="G" value="3739,1,">el cual</wi>
+<wi type="G" value="2249,2,">nosotros</wi>
+<wi type="G" value="2605,3,">predicamos</wi>,
+<wi type="G" value="3560,4,">amonestando a</wi>
+<wi type="G" value="3956,5,">toda</wi>
+<wi type="G" value="444,6,">persona</wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="1321,8,">enseñando a</wi>
+<wi type="G" value="3956,9,">toda</wi>
+<wi type="G" value="444,10,">persona</wi>
+<wi type="G" value="1722,11,">en</wi>
+<wi type="G" value="3956,12,">toda</wi>
+<wi type="G" value="4678,13,">sabiduría</wi>,
+<wi type="G" value="2443,14,">para</wi>
+<wi type="G" value="3936,15,">poder presentar a</wi>
+<wi type="G" value="3956,16,">toda</wi>
+<wi type="G" value="444,17,">persona</wi>
+<wi type="G" value="5046,18,">perfecta</wi>
+<wi type="G" value="1722,19,">en</wi>
+<wi type="G" value="5547,20,">Cristo</wi>
+<wi type="G" value="2424,21,">Jesús</wi>;
+
+</t>
 </sv>
 
 <sv id="Colosenses-1-29">
 for which I also labor,
 striving according to his working, which works in me mightily.
-
+<t xml:lang="es"><wi type="G" value="1519,1,">por lo</wi>
+<wi type="G" value="3739,2,">que</wi>
+<wi type="G" value="2532,3,">aún</wi>
+<wi type="G" value="2872,4,">trabajo</wi>,
+<wi type="G" value="75,5,">esforzándome</wi>
+<wi type="G" value="2596,6,">de acuerdo</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="846,9,">a Su</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="1753,8,">obra</wi></wi>,
+<wi type="G" value="1754,11,">que opera</wi>
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="1698,13,">mi</wi>
+<wi type="G" value="1722,14,"/><wi type="G" value="1411,15,">poderosamente</wi>.
+</t>
 <cl/>
 </sv></cm></sc>
 
