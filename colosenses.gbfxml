@@ -690,12 +690,64 @@ striving according to his working, which works in me mightily.
 <sv id="Colosenses-2-1">
 For I desire to have you know how greatly I struggle for you, and
 for those at Laodicea, and for as many as have not seen my face in the flesh;
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2309,1,">deseo</wi> que
+<wi type="G" value="5209,3,">ustedes</wi>
+<wi type="G" value="1492,4,">sepan</wi>
+<wi type="G" value="2245,5,">cuan gran</wi> </t>
+<rb xml:lang="es"><wi type="G" value="73,6,">lucha</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `conflicto´,
+<citebib id="RVG2012"/> dice `solicitud.´
+Según <citebib id="Thayer-BLB"/> la palabra griega 
+`αγωνα´ se traduce como lugar de reunión, o de competencia, esfuerzo
+o ansiedad, conflicto, pelea, carrera.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2192,7,">he tenido</wi>
+<wi type="G" value="4012,8,">por</wi>
+<wi type="G" value="5216,9,">ustedes</wi>,
+<wi type="G" value="2532,10,">y</wi> por
+<wi type="G" value="3588,11,">los</wi>
+<wi type="G" value="1722,12,">de</wi>
+<wi type="G" value="2993,13,">Laodicea</wi>,
+<wi type="G" value="2532,14,">y</wi> por
+<wi type="G" value="3745,15,">muchos</wi> que
+<wi type="G" value="3756,16,">no</wi>
+<wi type="G" value="3708,17,">han visto</wi>
+<wi type="G" value="3450,20,">mi</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="4383,19,">rostro</wi></wi>
+<wi type="G" value="1722,21,">en</wi>
+<wi type="G" value="4561,22,">la carne</wi>;
+</t>
 </sv>
 
 <sv id="Colosenses-2-2">
 that their hearts may be comforted, they being knit together in love,
 and gaining all riches of the full assurance of understanding, that they may
 know the mystery of God, both of the Father and of Christ,
+<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
+<wi type="G" value="846,5,">sus</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2588,4,">corazones</wi></wi>
+<wi type="G" value="3870,2,">sean reconfortados</wi>,
+<wi type="G" value="4822,6,">al estar unidos</wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="26,8,">amor</wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="1519,10,">en</wi>
+<wi type="G" value="3956,11,">todas</wi>
+<wi type="G" value="4149,12,">las riquezas</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="4136,14,">de la certeza</wi></wi>
+<wi type="G" value="3588,15,"><wi type="G" value="4907,16,">del entendimiento</wi></wi>,
+<wi type="G" value="1519,17,">al</wi>
+<wi type="G" value="1922,18,">reconocer</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="3466,20,">el misterio</wi></wi>
+<wi type="G" value="3588,21,"><wi type="G" value="2316,22,">de Dios</wi></wi>,
+<wi type="G" value="2532,23,">tanto</wi>
+<wi type="G" value="3962,24,">del Padre</wi>
+<wi type="G" value="2532,25,">como</wi>
+<wi type="G" value="3588,26,"><wi type="G" value="5547,27,">de Cristo</wi></wi>,
+</t>
 </sv>
 
 <sv id="Colosenses-2-3">
