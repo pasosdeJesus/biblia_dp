@@ -699,7 +699,7 @@ for those at Laodicea, and for as many as have not seen my face in the flesh;
 <rb xml:lang="es"><wi type="G" value="73,6,">lucha</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `conflicto´,
 <citebib id="RVG2012"/> dice `solicitud.´
-Según <citebib id="Thayer-BLB"/> la palabra griega 
+Según <citebib id="Thayer-BLB"/> la palabra griega
 `αγωνα´ se traduce como lugar de reunión, o de competencia, esfuerzo
 o ansiedad, conflicto, pelea, carrera.
 </rf></rb>
@@ -753,11 +753,29 @@ know the mystery of God, both of the Father and of Christ,
 <sv id="Colosenses-2-3">
 in whom are
 all the treasures of wisdom and knowledge hidden.
+<t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="3739,2,">quien</wi>
+<wi type="G" value="1526,3,">están</wi>
+<wi type="G" value="614,12,">escondidos</wi>
+<wi type="G" value="3956,4,">todos</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2344,6,">los tesoros</wi></wi>
+<wi type="G" value="3588,7,"><wi type="G" value="4678,8,">de sabiduría</wi></wi>
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="1108,11,">conocimiento</wi></wi>.</t>
 </sv>
 
 <sv id="Colosenses-2-4">
 Now this I say that no
 one may delude you with persuasiveness of speech.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3004,3,">digo</wi>
+<wi type="G" value="5124,1,">esto</wi>
+<wi type="G" value="2443,4,"/><wi type="G" value="3361,5,">para que</wi>
+<wi type="G" value="5100,6,">nadie</wi>
+<wi type="G" value="5209,7,">los</wi>
+<wi type="G" value="3884,8,">pueda engañar</wi>
+<wi type="G" value="1722,9,">con</wi>
+<wi type="G" value="4086,10,">palabras persuasivas</wi>.</t>
 </sv>
 
 <sv id="Colosenses-2-5">
