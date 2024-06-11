@@ -807,7 +807,7 @@ order, and the steadfastness of your faith in Christ.
 <sv id="Colosenses-2-6">
 As therefore you
  received Christ Jesus, the Lord, walk in him,
-<t xml:lang="es"><wi type="G" value="3763,2,">Entonces</wi>
+  <t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
 <wi type="G" value="5613,1,">así como</wi>
 <wi type="G" value="3880,3,">recibieron a</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="5547,5,">Cristo</wi></wi>
@@ -821,9 +821,26 @@ As therefore you
 
 <sv id="Colosenses-2-7">
 rooted and built
-up in him, and established in the faith, even as you
-<wi type="T" value="P"/> were taught,
+up in him, and established in the faith, even as you were taught,
 abounding in it in thanksgiving.
+<t xml:lang="es">
+<wi type="G" value="4492,1,">arraigados</wi>
+<wi type="G" value="2532,2,">y</wi>
+<wi type="G" value="2026,3,">edificados</wi>
+<wi type="G" value="1722,4,">en</wi>
+<wi type="G" value="846,5,">Él</wi>,
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="950,7,">establecidos</wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="4102,10,">la fe</wi></wi>,
+<wi type="G" value="2531,11,">tal como</wi>
+<wi type="G" value="1321,12,">fueron instruidos</wi>,
+<wi type="G" value="4052,13,">abundando</wi>
+<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="846,15,">esto</wi>
+<wi type="G" value="1722,16,">con</wi>
+<wi type="G" value="2169,17,">agradecimiento</wi>.
+</t>
 </sv>
 
 <sv id="Colosenses-2-8">
