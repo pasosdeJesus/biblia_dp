@@ -896,7 +896,7 @@ en <wi type="G" value="3739,6,">quien</wi>
 <wi type="G" value="2076,7,">es</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="2776,9,">la cabeza</wi></wi>
 <wi type="G" value="3956,10,">de todo</wi> </t>
-<rb xml:lang="es"><wi type="G" value="746,11,">origen</wi><rf>
+<rb xml:lang="es"><wi type="G" value="746,11,">principado</wi><rf>
 <citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="RVR1960"/> dicen `principado´.
 Según <citebib id="Thayer-BLB"/> la palabra griega `ἀρχή´
 se traduce como (1) origen, inicio, (2) persona o cosa que comienza,
@@ -1011,12 +1011,45 @@ en <wi type="G" value="3588,20,"><wi type="G" value="4716,21,">la cruz</wi></wi>
 having
 stripped the principalities and the powers, he made a show of them openly,
 triumphing over them in it.
+<t xml:lang="es"><wi type="G" value="554,1,">habiendo arrebatado</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="746,3,">los principados</wi></wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="1849,6,">las potestades</wi></wi>,
+las
+<wi type="G" value="1165,7,">expuso</wi>
+<wi type="G" value="1722,8,"/><wi type="G" value="3954,9,">abiertamente</wi>,
+<wi type="G" value="2358,10,">triunfando sobre</wi>
+<wi type="G" value="846,11,">estos</wi>
+<wi type="G" value="1722,12,">en</wi> </t>
+<rb xml:lang="es"><wi type="G" value="846,13,">si mismo</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `it´ que puede
+traducirse como `esto.' <citebib id="RVG2012"/> dice `en si mismo.´ </rf></rb>
+<t xml:lang="es">.</t>
 </sv></cm>
 
 <cm>
 <sv id="Colosenses-2-16">
 Let no man therefore judge you in eating, or in drinking, or with
 respect to a feast day or a new moon or a Sabbath day,
+<t xml:lang="es">Que
+<wi type="G" value="3361,1,"><wi type="G" value="5100,3,">nadie</wi></wi>,
+<wi type="G" value="3767,2,">entonces</wi>,
+<wi type="G" value="5209,4,">los</wi>
+<wi type="G" value="2919,5,">juzgue</wi>
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="1035,7,">alimento</wi>,
+<wi type="G" value="2228,8,">o</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="4213,10,">bebida</wi>,
+<wi type="G" value="2228,11,">o</wi>
+<wi type="G" value="1722,12,">con</wi>
+<wi type="G" value="3313,13,">respecto a</wi>
+<wi type="G" value="1859,14,">un día de fiesta</wi>
+<wi type="G" value="2228,15,">o</wi> a
+<wi type="G" value="3561,16,">la luna nueva</wi>
+<wi type="G" value="2228,17,">o</wi>
+<wi type="G" value="4521,18,">al día sabático</wi>,
+</t>
 </sv>
 
 <sv id="Colosenses-2-17">
