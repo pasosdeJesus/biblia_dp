@@ -984,8 +984,8 @@ us; and he has taken it out of the way, nailing it to the cross;
 <t xml:lang="es">
 <wi type="G" value="1813,1,">anulando</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="5498,5,">el acta</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="1378,7,">de los decretos</wi></wi>
+<rb xml:lang="es"><wi type="G" value="5498,5,">el escrito</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="1378,7,">de decretos</wi></wi>
 <rf><citebib id="WEB"/> y <citebib id="KJV2003"/>
 dicen `la escritura de ordenanzas´
 <citebib id="RVR1960"/> dice `el acta de los decretos.´
@@ -1135,10 +1135,34 @@ If you
 died with Christ from the elements of the world,
 why, as though living in the world, do you
 subject yourselves to ordinances,
+<t xml:lang="es">
+<wi type="G" value="3767,2,">Entonces</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="599,3,">murieron</wi>
+<wi type="G" value="4862,4,">con</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="5547,6,">Cristo</wi></wi>
+<wi type="G" value="575,7,">a</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="4747,9,">los elementos</wi></wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2889,11,">del mundo</wi></wi>,
+¿<wi type="G" value="5101,12,">por qué</wi>,
+<wi type="G" value="5613,13,">como</wi>
+<wi type="G" value="2198,14,">viviendo</wi>
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="2889,16,">el mundo</wi>,
+<wi type="G" value="1379,17,">se sujetan a ordenanzas</wi>,
+</t>
 </sv>
 
 <sv id="Colosenses-2-21">
 «Don´t handle, nor taste, nor touch»
+<t xml:lang="es">
+«<wi type="G" value="3361,1,">No</wi>
+<wi type="G" value="680,2,">toques</wi>,
+<wi type="G" value="3366,3,">no</wi>
+<wi type="G" value="1089,4,">pruebes</wi>,
+<wi type="G" value="3366,5,">no</wi>
+<wi type="G" value="2345,6,">manejes</wi>»
+</t>
 </sv>
 
 <sv id="Colosenses-2-22">
