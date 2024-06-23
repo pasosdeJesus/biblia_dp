@@ -1168,6 +1168,21 @@ subject yourselves to ordinances,
 <sv id="Colosenses-2-22">
 (all of which
 perish with use), according to the precepts and doctrines of men?
+<t xml:lang="es">(<wi type="G" value="3956,3,">todas</wi>
+<wi type="G" value="3739,1,">las cuales</wi> </t>
+<rb xml:lang="es"><wi type="G" value="2076,2,">son</wi>
+<wi type="G" value="1519,4,">para</wi>
+<wi type="G" value="5356,5,">destrucción</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="671,7,">al usarse</wi></wi><rf>
+<citebib id="WEB"/> dice `perecen con el uso,´
+<citebib id="RVG2012"/> dice `para destrucción en el uso mismo.´
+</rf></rb>
+<t xml:lang="es">),
+<wi type="G" value="2596,8,">de acuerdo a</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="1778,10,">preceptos</wi></wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="1319,12,">doctrinas</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="444,14,">de hombres</wi></wi>?</t>
 </sv>
 
 <sv id="Colosenses-2-23">
@@ -1175,7 +1190,32 @@ Which
 things indeed appear like wisdom in self-imposed worship, and humility, and
 severity to the body; but aren´t of any value against the indulgence of the
 flesh.
-
+<t xml:lang="es"><wi type="G" value="3056,3,">Cosas</wi>
+<wi type="G" value="3748,1,">que</wi>
+<wi type="G" value="3303,4,">de hecho</wi>
+<wi type="G" value="2076,2,">tienen</wi>
+<wi type="G" value="2192,5,">apariencia</wi>
+<wi type="G" value="4678,6,">de sabiduría</wi> </t>
+<rb xml:lang="es"><wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="1479,8,">culto voluntario</wi><rf>
+<citebib id="WEB"/> dice `una adoración auto-impuesta,´
+<citebib id="RVG2012"/> dice `culto voluntario.´
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="5012,10,">humildad</wi>,
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="857,12,">severidad para</wi>
+<wi type="G" value="4983,13,">el cuerpo</wi>;
+pero que
+<wi type="G" value="3756,14,">no</wi> son
+<wi type="G" value="1722,15,">de</wi>
+<wi type="G" value="5092,16,">valor</wi>
+<wi type="G" value="5100,17,">alguno</wi>
+<wi type="G" value="4314,18,">ante</wi>
+<wi type="G" value="4140,19,">las indulgencias</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="4561,21,">de la carne</wi></wi>.
+</t>
 <cl/>
 </sv></cm></sc>
 
