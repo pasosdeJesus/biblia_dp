@@ -1321,8 +1321,7 @@ covetousness, which is idolatry;
 <sv id="Colosenses-3-6">
 for which things´ sake the wrath of God
 comes on the children of disobedience.
-<t xml:lang="es"><wi type="G" value="1223,1,">pues</wi>
-<wi type="G" value="1223,1,">por</wi>
+<t xml:lang="es"><wi type="G" value="1223,1,">pues por</wi>
 <wi type="G" value="3739,2,">tales cosas</wi>
 <wi type="G" value="2064,3,">viene</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="3709,5,">la ira</wi></wi>
@@ -1333,16 +1332,38 @@ comes on the children of disobedience.
 </sv>
 
 <sv id="Colosenses-3-7">
-You
-<wi type="T" value="P"/> also once walked in
-those, when you
-<wi type="T" value="P"/> lived in them;
+You also once walked in
+those, when you lived in them;
+<t xml:lang="es"><wi type="G" value="1722,1,">En</wi>
+<wi type="G" value="3739,2,">las cuales</wi>
+<wi type="G" value="5210,4,">ustedes</wi>
+<wi type="G" value="2532,3,">también</wi>
+<wi type="G" value="4043,5,">caminaron</wi>
+<wi type="G" value="4218,6,">una vez</wi>,
+<wi type="G" value="3753,7,">cuando</wi>
+<wi type="G" value="2198,8,">vivían</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="846,10,">ellas</wi>;</t>
 </sv>
 
 <sv id="Colosenses-3-8">
-but now you
-<wi type="T" value="P"/> also put them all
+but now you also put them all
 away: anger, wrath, malice, slander, and shameful speaking out of your mouth.
+<t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
+<wi type="G" value="3570,1,">ahora</wi>
+<wi type="G" value="5210,5,">ustedes</wi>
+<wi type="G" value="2532,4,">también</wi>
+<wi type="G" value="659,3,">dejen</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="3956,7,">todo eso</wi>:
+<wi type="G" value="3709,8,">mal genio</wi>,
+<wi type="G" value="2372,9,">ira</wi>,
+<wi type="G" value="2549,10,">malicia</wi>,
+<wi type="G" value="988,11,">blasfemia</wi>, y
+<wi type="G" value="148,12,">hablar deshonroso</wi>
+<wi type="G" value="1537,13,">de</wi>
+<wi type="G" value="5216,16,">su</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="4750,15,">boca</wi></wi>.
+</t>
 </sv>
 
 <sv id="Colosenses-3-9">
