@@ -1368,13 +1368,33 @@ away: anger, wrath, malice, slander, and shameful speaking out of your mouth.
 
 <sv id="Colosenses-3-9">
 Don´t lie to one another, seeing that you
-<wi type="T" value="P"/> have put off the old man
-with his doings,
+have put off the old man with his doings,
+<t xml:lang="es"><wi type="G" value="3361,1,">No</wi>
+<wi type="G" value="5574,2,">se mientan</wi>
+<wi type="G" value="240,4,">unos</wi>
+<wi type="G" value="1519,3,">a</wi>
+<wi type="GC" value="4">otros</wi>,
+<wi type="G" value="554,5,">ustedes dejaron</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="3820,7,">al viejo</wi>
+<wi type="G" value="444,8,">hombre</wi>
+<wi type="G" value="4862,9,">y</wi>
+<wi type="G" value="846,12,">sus</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="4234,11,">acciones</wi></wi>,</t>
 </sv>
 
 <sv id="Colosenses-3-10">
 and have put on the new man, that is being renewed in
 knowledge after the image of his Creator,
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="1746,2,">se han revistido</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="3501,4,">del nuevo</wi>,
+<wi type="G" value="3588,5,"/><wi type="G" value="341,6,">que ha sido renovado</wi>
+<wi type="G" value="1519,7,">en</wi>
+<wi type="G" value="1922,8,">el conocimiento</wi>
+<wi type="G" value="2596,9,">acorde a</wi>
+<wi type="G" value="1504,10,">la imagen</wi>
+de <wi type="G" value="846,13,">su</wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="2936,12,">Creador</wi>,</t>
 </sv>
 
 <sv id="Colosenses-3-11">
