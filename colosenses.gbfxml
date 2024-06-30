@@ -1401,12 +1401,53 @@ de <wi type="G" value="846,13,">su</wi>
 where there can´t be Greek
 and Jew, circumcision and uncircumcision, barbarian, Scythian, bondservant,
 freeman; but Christ is all, and in all.
+<t xml:lang="es"><wi type="G" value="3699,1,">donde</wi>
+<wi type="G" value="3756,2,">no</wi>
+<wi type="G" value="1762,3,">hay</wi>
+<wi type="G" value="1672,4,">griego</wi>
+<wi type="G" value="2532,5,">ni</wi>
+<wi type="G" value="2453,6,">judío</wi>,
+<wi type="G" value="4061,7,">circuncidado</wi>
+<wi type="G" value="2532,8,">ni</wi>
+<wi type="G" value="203,9,">incircunciso</wi>,
+<wi type="G" value="915,10,">barbaro</wi>,
+<wi type="G" value="4658,11,">escita</wi>
+<wi type="G" value="1401,12,">esclavo</wi>,
+<wi type="G" value="1658,13,">libre</wi>;
+<wi type="G" value="235,14,">sino que</wi>
+<wi type="G" value="5547,20,">Cristo</wi>
+es <wi type="G" value="3588,15,"/><wi type="G" value="3956,16,">el todo</wi>,
+<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="1722,18,">en</wi>
+<wi type="G" value="3956,19,">todo</wi>. </t>
 </sv></cm>
 
 <cm>
 <sv id="Colosenses-3-12">
 Put on therefore, as God´s chosen ones, holy and beloved, a heart of
 compassion, kindness, lowliness, humility, and perseverance;
+<t xml:lang="es"><wi type="G" value="1746,1,">Vístanse</wi>
+<wi type="G" value="3767,2,">entonces</wi>,
+<wi type="G" value="5613,3,">como</wi>
+<wi type="G" value="1588,4,">escogidos</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">de Dios</wi></wi>,
+<wi type="G" value="40,7,">santos</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="25,9,">amados</wi>,
+<wi type="G" value="4698,10,">de un corazón</wi>
+<wi type="G" value="3628,11,">de compasión</wi>,
+<wi type="G" value="5544,12,">amabilidad</wi>,
+<wi type="G" value="5012,13,">mansedumbre</wi>,
+<wi type="G" value="4236,14,">humildad</wi>
+y </t>
+<rb xml:lang="es"><wi type="G" value="3115,15,">paciencia</wi><rf>
+<citebib id="WEB"/> dice `perseverancia´
+<citebib id="RVG2012"/> dice `tolerancia.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`μακροθυμίαν´ se traduce como (1) paciencia, constancia, perseverancia, 
+(2) paciencia, lentitud para vengar los agravios.
+</rf></rb>
+<t xml:lang="es">;</t>
 </sv>
 
 <sv id="Colosenses-3-13">
