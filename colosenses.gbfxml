@@ -1444,7 +1444,7 @@ y </t>
 <citebib id="WEB"/> dice `perseverancia´
 <citebib id="RVG2012"/> dice `tolerancia.´
 Según <citebib id="Thayer-BLB"/> la palabra griega
-`μακροθυμίαν´ se traduce como (1) paciencia, constancia, perseverancia, 
+`μακροθυμίαν´ se traduce como (1) paciencia, constancia, perseverancia,
 (2) paciencia, lentitud para vengar los agravios.
 </rf></rb>
 <t xml:lang="es">;</t>
@@ -1453,13 +1453,41 @@ Según <citebib id="Thayer-BLB"/> la palabra griega
 <sv id="Colosenses-3-13">
 bearing
 with one another, and forgiving each other, if any man has a complaint
-against any; even as Christ forgave you, so you also do
-<wi type="T" value="P"/>.
+against any; even as Christ forgave you, so you also do.
+<t xml:lang="es"><wi type="G" value="430,1,">soportándose</wi>
+<wi type="G" value="240,2,">unos a otros</wi>,
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="5483,4,">perdonándose</wi>
+<wi type="G" value="1438,5,">entre si</wi>,
+<wi type="G" value="1437,6,">si</wi>
+<wi type="G" value="5100,7,">alguno</wi>
+<wi type="G" value="2192,10,">tiene</wi>
+<wi type="G" value="3437,11,">una queja</wi>
+<wi type="G" value="4314,8,">contra</wi>
+<wi type="G" value="5100,9,">otro</wi>;
+<wi type="G" value="2532,13,"/><wi type="G" value="2531,12,">así como</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="5547,15,">Cristo</wi></wi>
+<wi type="G" value="5213,17,">los</wi>
+<wi type="G" value="5483,16,">perdonó</wi>,
+<wi type="G" value="3779,18,">así</wi>
+<wi type="G" value="2532,19,">también</wi>
+<wi type="G" value="5210,20,">ustedes</wi>.
+</t>
 </sv></cm>
 
 <cm>
 <sv id="Colosenses-3-14">
 Above all these things, walk in love, which is the bond of perfection.
+<t xml:lang="es"><wi type="G" value="1161,3,">Y</wi>
+<wi type="G" value="1909,1,">sobre</wi>
+<wi type="G" value="3956,2,">todas</wi>
+<wi type="G" value="5125,4,">estas cosas</wi>, 
+<wi type="G" value="3588,5,"><wi type="G" value="26,6,">el amor</wi></wi>,
+<wi type="G" value="3748,7,">que</wi>
+<wi type="G" value="2076,8,">es</wi>
+<wi type="G" value="4886,9,">el vínculo</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="5047,11,">de perfección</wi></wi>.
+</t>
 </sv>
 
 <sv id="Colosenses-3-15">
