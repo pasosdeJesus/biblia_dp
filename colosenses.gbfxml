@@ -1481,7 +1481,7 @@ Above all these things, walk in love, which is the bond of perfection.
 <t xml:lang="es"><wi type="G" value="1161,3,">Y</wi>
 <wi type="G" value="1909,1,">sobre</wi>
 <wi type="G" value="3956,2,">todas</wi>
-<wi type="G" value="5125,4,">estas cosas</wi>, 
+<wi type="G" value="5125,4,">estas cosas</wi>,
 <wi type="G" value="3588,5,"><wi type="G" value="26,6,">el amor</wi></wi>,
 <wi type="G" value="3748,7,">que</wi>
 <wi type="G" value="2076,8,">es</wi>
@@ -1492,17 +1492,58 @@ Above all these things, walk in love, which is the bond of perfection.
 
 <sv id="Colosenses-3-15">
 And let the peace of God rule in your hearts, to which also you
-<wi type="T" value="P"/>
-were called in one body; and be
-<wi type="T" value="P"/> thankful.
+were called in one body; and be thankful.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="1018,6,">que</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="1515,3,">la paz</wi></wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2316,5,">de Dios</wi></wi>
+<wi type="GC" value="6">gobierne</wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="5216,10,">sus</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2588,9,">corazones</wi></wi>,
+<wi type="G" value="1519,11,">a</wi>
+<wi type="G" value="3739,12,">la cual</wi>
+<wi type="G" value="2532,13,">también</wi>
+<wi type="G" value="2564,14,">fueron llamados</wi>
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="1520,16,">un</wi>
+<wi type="G" value="4983,17,">cuerpo</wi>;
+<wi type="G" value="2532,18,">y</wi>
+<wi type="G" value="1096,20,">sean</wi>
+<wi type="G" value="2170,19,">agradecidos</wi>.</t>
 </sv>
 
 <sv id="Colosenses-3-16">
 Let the word of Christ
 dwell in you richly; in all wisdom teaching and admonishing one another with
 psalms, hymns, and spiritual songs, singing with grace in your
-<wi type="T" value="P"/> heart to
-the Lord.
+ heart to the Lord.
+<t xml:lang="es"><wi type="G" value="1774,5,">Que</wi>
+<wi type="G" value="3588,1,"><wi type="G" value="3056,2,">la palabra</wi></wi>
+<wi type="G" value="3588,3,"><wi type="G" value="5547,4,">de Cristo</wi></wi>
+<wi type="GC" value="5">more</wi>
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="5213,7,">ustedes</wi>
+<wi type="G" value="4146,8,">ricamente</wi>;
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="3956,10,">toda</wi>
+<wi type="G" value="4678,11,">sabiduría</wi>;
+<wi type="G" value="1321,12,">enseñándose</wi>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="3560,14,">exhortándose</wi>
+<wi type="G" value="1438,15,">unos a otros</wi> con
+<wi type="G" value="5568,16,">salmos</wi>,
+<wi type="G" value="2532,17,">e</wi> <wi type="G" value="5215,18,">himnos</wi>
+<wi type="G" value="2532,19,">y</wi>
+<wi type="G" value="5603,20,">cantos</wi>
+<wi type="G" value="4152,21,">espirituales</wi>,
+<wi type="G" value="103,24,">cantando</wi>
+<wi type="G" value="1722,22,">con</wi>
+<wi type="G" value="5485,23,">gracia</wi>
+<wi type="G" value="1722,25,">en</wi>
+<wi type="G" value="5216,28,">sus</wi>
+<wi type="G" value="3588,26,"><wi type="G" value="2588,27,">corazones</wi></wi>
+<wi type="G" value="3588,29,"><wi type="G" value="2962,30,">al  Señor</wi></wi>.</t>
 </sv></cm>
 
 <cm>
