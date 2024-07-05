@@ -1627,6 +1627,21 @@ Lord.
 <sv id="Colosenses-3-21">
 Fathers, don´t provoke your children, so that they won´t be
 discouraged.
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="3962,2,">Padres</wi></wi>,
+<wi type="G" value="3361,3,">no</wi> </t>
+<rb xml:lang="es"><wi type="G" value="2042,4,">estimulen la ira</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dice `provoquen,´
+<citebib id="RVG2012"/> dice `irriten.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `ερεθιζετε´
+se traduce como agitar, excitar, estimular, provocar.
+Estimular (especialmente la ira).
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="5216,7,">de sus</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="5043,6,">hijos</wi></wi>,
+<wi type="G" value="3361,9,">no sea</wi>
+<wi type="G" value="2443,8,">que</wi>
+<wi type="G" value="120,10,">se desanimen</wi>.</t>
 </sv></cm>
 
 <cm>
@@ -1634,11 +1649,36 @@ discouraged.
 Servants, obey in all things those who are your masters according to
 the flesh, not just when they are looking, as men pleasers, but in singleness
 of heart, fearing God.
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G"
+value="1401,2,">Siervos</wi></wi>,
+<wi type="G" value="5219,3,">obedezcan</wi>
+<wi type="G" value="2596,4,">en</wi>
+<wi type="G" value="3956,5,">todo</wi> a
+<wi type="G" value="2962,9,">los amos</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="2596,7,">de acuerdo a</wi>
+<wi type="G" value="4561,8,">la carne</wi>,
+<wi type="G" value="3361,10,">no</wi>
+<wi type="G" value="1722,11,">cuando</wi>
+<wi type="G" value="3787,12,">estén mirando</wi>,
+<wi type="G" value="5613,13,">como</wi>
+<wi type="G" value="441,14,">quien agrada a hombres</wi>,
+<wi type="G" value="235,15,">sino</wi>
+<wi type="G" value="1722,16,">en</wi> </t>
+<rb xml:lang="es"><wi type="G" value="572,17,">sencillez</wi><rf>
+<citebib id="WEB"/> dice `singleness´ que puede traducirse como soltería,
+<citebib id="RVG2012"/> dice `sencillez´.
+Según <citebib id="Thayer-BLB"/> la palabra griega `απλοτητι´
+que puede traducirse como soltería, sencillez, sinceridad, honestidad mental.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2588,18,">del corazón</wi>,
+<wi type="G" value="5399,19,">temiendo a</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="2316,21,">Dios</wi></wi>.
+</t>
 </sv>
 
 <sv id="Colosenses-3-23">
-And whatever you
-<wi type="T" value="P"/> do, work heartily, as for
+And whatever you do, work heartily, as for
 the Lord, and not for men,
 </sv>
 
