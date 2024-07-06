@@ -1680,13 +1680,37 @@ que puede traducirse como soltería, sencillez, sinceridad, honestidad mental.
 <sv id="Colosenses-3-23">
 And whatever you do, work heartily, as for
 the Lord, and not for men,
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3956,2,">todo</wi>
+<wi type="G" value="3739,3,">lo que</wi>
+sea
+<wi type="G" value="5100,4,">que</wi>
+<wi type="G" value="1437,5,"/><wi type="G" value="4160,6,">hagan</wi>,
+<wi type="G" value="2038,9,">háganlo</wi>
+<wi type="G" value="1537,7,">de</wi>
+<wi type="G" value="5590,8,">corazón</wi>,
+<wi type="G" value="5613,10,">como para</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2962,12,">el Señor</wi></wi>,
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="3756,14,">no</wi>
+<wi type="G" value="444,15,">para los hombres</wi>,</t>
 </sv>
 
 <sv id="Colosenses-3-24">
-knowing that from the Lord you
-<wi type="T" value="P"/> will
+knowing that from the Lord you will
 receive the reward of the inheritance; for you
-<wi type="T" value="P"/> serve the Lord Christ.
+serve the Lord Christ.
+<t xml:lang="es"><wi type="G" value="1492,1,">sabiendo</wi>
+<wi type="G" value="3754,2,">que</wi>
+<wi type="G" value="575,3,">del</wi>
+<wi type="G" value="2962,4,">Señor</wi>
+<wi type="G" value="618,5,">recibirán</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="469,7,">la recompensa</wi></wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2817,9,">de la herencia</wi></wi>;
+<wi type="G" value="3588,10,"/><wi type="G" value="1063,11,">pues</wi>
+<wi type="G" value="1398,14,">sirven</wi>
+<wi type="G" value="2962,12,">al Señor</wi>
+<wi type="G" value="5547,13,">Cristo</wi>.</t>
 </sv>
 
 <sv id="Colosenses-3-25">
