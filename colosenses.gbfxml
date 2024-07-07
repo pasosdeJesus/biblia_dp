@@ -1716,6 +1716,18 @@ serve the Lord Christ.
 <sv id="Colosenses-3-25">
 But he who does wrong will receive again for the wrong that he has
 done, and there is no partiality.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="3588,1,">el que</wi>
+<wi type="G" value="91,3,">hace lo malo</wi>
+<wi type="G" value="2865,4,">recibirá</wi>
+<wi type="G" value="91,6,">por lo malo</wi>
+<wi type="G" value="3739,5,">que</wi>
+<wi type="GC" value="6">ha hecho</wi>,
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="3756,8,">no</wi>
+<wi type="G" value="2076,9,">hay</wi>
+<wi type="G" value="4382,10,">parcialidad</wi>.
+</t>
 
 <cl/>
 </sv></cm></sc>
@@ -1725,7 +1737,22 @@ done, and there is no partiality.
 <sv id="Colosenses-4-1">
 Masters, give to your servants that which is just and equal,
 knowing that you
-<wi type="T" value="P"/> also have a Master in heaven.
+also have a Master in heaven.
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="2962,2,">Amos</wi></wi>,
+<wi type="G" value="3930,10,">den a</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="1401,9,">los siervos</wi></wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="1342,4,">lo que es justo</wi>
+<wi type="G" value="2532,5,">e</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2471,7,">igual</wi></wi>,
+<wi type="G" value="1492,11,">sabiendo</wi>
+<wi type="G" value="3754,12,">que</wi>
+<wi type="G" value="5210,14,">ustedes</wi>
+<wi type="G" value="2532,13,">también</wi>
+<wi type="G" value="2192,15,">tienen</wi>
+<wi type="G" value="2962,16,">un amo</wi>
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="3772,18,">los cielos</wi>.
+</t>
 </sv></cm>
 
 <cm>
