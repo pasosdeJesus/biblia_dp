@@ -1742,8 +1742,8 @@ also have a Master in heaven.
 <wi type="G" value="3930,10,">den a</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="1401,9,">los siervos</wi></wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="1342,4,">lo que es justo</wi>
-<wi type="G" value="2532,5,">e</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="2471,7,">igual</wi></wi>,
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2471,7,">equitativo</wi></wi>,
 <wi type="G" value="1492,11,">sabiendo</wi>
 <wi type="G" value="3754,12,">que</wi>
 <wi type="G" value="5210,14,">ustedes</wi>
@@ -1758,11 +1758,37 @@ also have a Master in heaven.
 <cm>
 <sv id="Colosenses-4-2">
 Continue steadfastly in prayer, watching therein with thanksgiving;
+<t xml:lang="es"><wi type="G" value="4342,3,">Continúen</wi>
+<wi type="G" value="3588,1,"><wi type="G" value="4335,2,">en oración</wi></wi>,
+<wi type="G" value="1127,4,">viligando</wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="846,6,">esta</wi>
+<wi type="G" value="1722,7,">con</wi>
+<wi type="G" value="2169,8,">agradecimiento</wi>;
+</t>
 </sv>
 
 <sv id="Colosenses-4-3">
 praying together for us also, that God may open to us a door for the
 word, to speak the mystery of Christ, for which I am also in bonds;
+<t xml:lang="es"><wi type="G" value="4336,1,">orando</wi>
+<wi type="G" value="260,2,">juntamente</wi>
+<wi type="G" value="4012,4,">por</wi>
+<wi type="G" value="2257,5,">nosotros</wi>,
+<wi type="G" value="2532,3,">también</wi>
+<wi type="G" value="2443,6,">para que</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="2316,8,">Dios</wi></wi>
+<wi type="G" value="2254,10,">nos</wi>
+<wi type="G" value="455,9,">abra</wi>
+<wi type="G" value="2374,11,">una puerta</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="3056,13,">para la palabra</wi></wi>,
+<wi type="G" value="2980,14,">para hablar</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="3466,16,">el misterio</wi></wi>
+<wi type="G" value="3588,17,"><wi type="G" value="5547,18,">de Cristo</wi></wi>,
+<wi type="G" value="1223,19,">por</wi>
+<wi type="G" value="3739,20,">el cual</wi>
+<wi type="G" value="2532,21,">aún</wi> estoy
+<wi type="G" value="1210,22,">en cadenas</wi>;</t>
 </sv>
 
 <sv id="Colosenses-4-4">
