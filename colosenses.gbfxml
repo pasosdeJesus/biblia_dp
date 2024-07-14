@@ -1792,13 +1792,30 @@ word, to speak the mystery of Christ, for which I am also in bonds;
 </sv>
 
 <sv id="Colosenses-4-4">
-that
-I may reveal it as I ought to speak.
+that I may reveal it as I ought to speak.
+<t xml:lang="es"><wi type="G" value="2443,1,">que</wi> 
+<wi type="G" value="3165,6,">yo</wi>
+<wi type="G" value="846,3,">lo</wi> 
+<wi type="G" value="5319,2,">manifieste</wi> 
+<wi type="G" value="5613,4,">como</wi> 
+<wi type="G" value="1163,5,">debo</wi> 
+<wi type="G" value="2980,7,">decirlo</wi>.
+</t>
 </sv>
 
 <sv id="Colosenses-4-5">
 Walk in wisdom toward those who are
 outside, redeeming the time.
+<t xml:lang="es">
+<wi type="G" value="4043,3,">Caminen</wi> 
+<wi type="G" value="1722,1,">en</wi> 
+<wi type="G" value="4678,2,">sabiduría</wi> 
+<wi type="G" value="4314,4,">hacia</wi> 
+<wi type="G" value="3588,5,">los</wi>
+<wi type="G" value="1854,6,">extraños</wi>,
+<wi type="G" value="1805,9,">redimiendo</wi> 
+<wi type="G" value="3588,7,"><wi type="G" value="2540,8,">el tiempo</wi></wi>.
+</t>
 </sv>
 
 <sv id="Colosenses-4-6">
