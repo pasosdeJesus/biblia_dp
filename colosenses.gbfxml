@@ -1793,12 +1793,12 @@ word, to speak the mystery of Christ, for which I am also in bonds;
 
 <sv id="Colosenses-4-4">
 that I may reveal it as I ought to speak.
-<t xml:lang="es"><wi type="G" value="2443,1,">que</wi> 
+<t xml:lang="es"><wi type="G" value="2443,1,">que</wi>
 <wi type="G" value="3165,6,">yo</wi>
-<wi type="G" value="846,3,">lo</wi> 
-<wi type="G" value="5319,2,">manifieste</wi> 
-<wi type="G" value="5613,4,">como</wi> 
-<wi type="G" value="1163,5,">debo</wi> 
+<wi type="G" value="846,3,">lo</wi>
+<wi type="G" value="5319,2,">manifieste</wi>
+<wi type="G" value="5613,4,">como</wi>
+<wi type="G" value="1163,5,">debo</wi>
 <wi type="G" value="2980,7,">decirlo</wi>.
 </t>
 </sv>
@@ -1807,13 +1807,13 @@ that I may reveal it as I ought to speak.
 Walk in wisdom toward those who are
 outside, redeeming the time.
 <t xml:lang="es">
-<wi type="G" value="4043,3,">Caminen</wi> 
-<wi type="G" value="1722,1,">en</wi> 
-<wi type="G" value="4678,2,">sabiduría</wi> 
-<wi type="G" value="4314,4,">hacia</wi> 
+<wi type="G" value="4043,3,">Caminen</wi>
+<wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="4678,2,">sabiduría</wi>
+<wi type="G" value="4314,4,">hacia</wi>
 <wi type="G" value="3588,5,">los</wi>
 <wi type="G" value="1854,6,">extraños</wi>,
-<wi type="G" value="1805,9,">redimiendo</wi> 
+<wi type="G" value="1805,9,">redimiendo</wi>
 <wi type="G" value="3588,7,"><wi type="G" value="2540,8,">el tiempo</wi></wi>.
 </t>
 </sv>
@@ -1821,21 +1821,56 @@ outside, redeeming the time.
 <sv id="Colosenses-4-6">
 Let your speech always be with grace,
 seasoned with salt, that you
-<wi type="T" value="P"/> may know how you
-<wi type="T" value="P"/> ought to answer each
+may know how you
+ought to answer each
 one.
+<t xml:lang="es">Sea <wi type="G" value="5216,3,">su</wi>
+<wi type="G" value="3588,1,"><wi type="G" value="3056,2,">hablar</wi></wi>
+<wi type="G" value="3842,4,">siempre</wi>
+<wi type="G" value="1722,5,">con</wi>
+<wi type="G" value="5485,6,">gracia</wi>,
+<wi type="G" value="741,8,">sazonado</wi>
+<wi type="G" value="217,7,">con sal</wi>,
+que <wi type="G" value="5209,12,">ustedes</wi>
+<wi type="G" value="1492,9,">sepan</wi>
+<wi type="G" value="4459,10,">como</wi>
+<wi type="G" value="1163,11,">deben</wi>
+<wi type="G" value="611,15,">responder</wi> a
+<wi type="G" value="1538,14,">toda</wi>
+<wi type="G" value="1520,13,">persona</wi>.
+</t>
 </sv></cm>
 
 <cm>
 <sv id="Colosenses-4-7">
 All my affairs will be made known to you by Tychicus, the beloved
 brother, faithful servant, and fellow bondservant in the Lord.
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="3956,4,">Todos</wi></wi>
+<wi type="G" value="1691,3,">mis</wi>
+<wi type="G" value="2596,2,">asuntos</wi>
+<wi type="G" value="5213,6,">les</wi>
+<wi type="G" value="1107,5,">serán dados a conocer</wi> por
+<wi type="G" value="5190,7,">Tíquico</wi>,
+<wi type="G" value="3588,8,"><wi type="G" value="80,10,">hermano</wi></wi>
+<wi type="G" value="27,9,">amado</wi>,
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="1249,13,">siervo</wi>
+<wi type="G" value="4103,12,">fiel</wi>,
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="4889,15,">compañero</wi>
+<wi type="G" value="1722,16,">en</wi>
+<wi type="G" value="2962,17,">el Señor</wi>.
+</t>
 </sv>
 
 <sv id="Colosenses-4-8">
 I am
 sending him to you for this very purpose, that he may know your circumstances
 and comfort your hearts,
+<t xml:lang="es">Se los estoy enviando con este propósito,
+que pueda conocer sus ciruncstancias
+y consolar sus corazones.
+</t>
 </sv>
 
 <sv id="Colosenses-4-9">
