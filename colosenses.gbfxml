@@ -1867,9 +1867,20 @@ brother, faithful servant, and fellow bondservant in the Lord.
 I am
 sending him to you for this very purpose, that he may know your circumstances
 and comfort your hearts,
-<t xml:lang="es">Se los estoy enviando con este propósito,
-que pueda conocer sus ciruncstancias
-y consolar sus corazones.
+<t xml:lang="es"><wi type="G" value="3739,1,">A quien</wi>
+<wi type="G" value="5209,4,">les</wi>
+<wi type="G" value="3992,2,">he enviando</wi>
+<wi type="G" value="1519,5,">con</wi>
+<wi type="G" value="846,6,">este</wi>
+<wi type="G" value="5124,7,">propósito</wi>,
+<wi type="G" value="2443,8,">que</wi>
+<wi type="G" value="1097,9,">pueda conocer</wi>
+<wi type="G" value="5216,12,">sus</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="4012,11,">circunstancias</wi>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="3870,14,">consolar</wi>
+<wi type="G" value="5216,17,">sus</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2588,16,">corazones</wi></wi>,
 </t>
 </sv>
 
@@ -1877,6 +1888,21 @@ y consolar sus corazones.
 together with Onesimus, the faithful and
 beloved brother, who is one of you. They will make known to you everything
 that is going on here.
+<t xml:lang="es"><wi type="G" value="4862,1,">junto con</wi>
+<wi type="G" value="3682,2,">Onésimo</wi>,
+<wi type="G" value="80,7,">el hermano</wi>
+<wi type="G" value="4103,4,">fiel</wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="27,6,">amado</wi>,
+<wi type="G" value="3739,8,">quien</wi>
+<wi type="G" value="2076,9,">es</wi>
+<wi type="G" value="1537,10,">de</wi>
+<wi type="G" value="5216,11,">ustedes</wi>.
+<wi type="G" value="1107,14,">Ellos les darán a conocer</wi>
+<wi type="G" value="3956,12,">todo</wi>
+<wi type="G" value="3588,15,">lo</wi> de
+<wi type="G" value="5602,16,">aquí</wi>.
+</t>
 </sv>
 
 <sv id="Colosenses-4-10">
