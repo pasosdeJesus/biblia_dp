@@ -1867,7 +1867,8 @@ brother, faithful servant, and fellow bondservant in the Lord.
 I am
 sending him to you for this very purpose, that he may know your circumstances
 and comfort your hearts,
-<t xml:lang="es"><wi type="G" value="3739,1,">A quien</wi>
+<t xml:lang="es"><wi type="G" value="4314,3,">A</wi>
+<wi type="G" value="3739,1,">quien</wi>
 <wi type="G" value="5209,4,">les</wi>
 <wi type="G" value="3992,2,">he enviando</wi>
 <wi type="G" value="1519,5,">con</wi>
@@ -1891,14 +1892,15 @@ that is going on here.
 <t xml:lang="es"><wi type="G" value="4862,1,">junto con</wi>
 <wi type="G" value="3682,2,">Onésimo</wi>,
 <wi type="G" value="80,7,">el hermano</wi>
-<wi type="G" value="4103,4,">fiel</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="4103,4,">fiel</wi>
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="27,6,">amado</wi>,
 <wi type="G" value="3739,8,">quien</wi>
 <wi type="G" value="2076,9,">es</wi>
 <wi type="G" value="1537,10,">de</wi>
 <wi type="G" value="5216,11,">ustedes</wi>.
-<wi type="G" value="1107,14,">Ellos les darán a conocer</wi>
+<wi type="G" value="5213,13,">Les</wi>
+<wi type="G" value="1107,14,">darán a conocer</wi>
 <wi type="G" value="3956,12,">todo</wi>
 <wi type="G" value="3588,15,">lo</wi> de
 <wi type="G" value="5602,16,">aquí</wi>.
@@ -1908,14 +1910,59 @@ that is going on here.
 <sv id="Colosenses-4-10">
 Aristarchus, my fellow prisoner greets you, and
 Mark, the cousin of Barnabas (concerning whom you
-<wi type="T" value="P"/> received commandments,
+received commandments,
 «if he comes to you, receive him»),
+<t xml:lang="es"><wi type="G" value="708,3,">Aristarco</wi>,
+<wi type="G" value="3450,6,">mi</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="4869,5,">compañero de prisión</wi>
+<wi type="G" value="5209,2,">los</wi>
+<wi type="G" value="782,1,">saluda</wi>,
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="3138,8,">Marcos</wi>, </t>
+<rb xml:lang="es"><wi type="G" value="3588,9,"><wi type="G" value="431,10,">el
+sobrino</wi></wi><rf>
+<citebib id="WEB"/> dice `primo,´
+<citebib id="KJV2003"/> dice `hijo de la hermana,´
+<citebib id="RVG2012"/> dice `sobrino.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `ανεψιος´
+se traduce como hijo de la hermana o primo.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="921,11,">de Bernabé</wi>
+(<wi type="G" value="4012,12,">respecto</wi>
+<wi type="G" value="3739,13,">al cual</wi>
+<wi type="G" value="2983,14,">ustedes recibieron</wi>
+<wi type="G" value="1785,15,">mandamientos</wi>,
+«<wi type="G" value="1437,16,">si</wi>
+<wi type="G" value="2064,17,">viene</wi>
+<wi type="G" value="4314,18,">a</wi>
+<wi type="G" value="5209,19,">ustedes</wi>,
+<wi type="G" value="1209,20,"><wi type="G" value="846,21,">recíbanlo</wi></wi>»),
+</t>
 </sv>
 
 <sv id="Colosenses-4-11">
 and Jesus who is called Justus, who
 are of the circumcision. These are my only fellow workers for the Kingdom of
 God, men who have been a comfort to me.
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="2424,2,">Jesús</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="3004,4,">que es llamado</wi>
+<wi type="G" value="2459,5,">Justo</wi>,
+<wi type="G" value="3588,6,"/><wi type="G" value="5607,7,">quienes son</wi>
+<wi type="G" value="1537,8,">de</wi>
+<wi type="G" value="4061,9,">la circuncisión</wi>.
+<wi type="G" value="3778,10,">Estos</wi> son mis
+<wi type="G" value="3441,11,">únicos</wi>
+<wi type="G" value="4904,12,">compañeros trabajadores</wi>
+<wi type="G" value="1519,13,">para</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="932,15,">el Reino</wi></wi>
+<wi type="G" value="3588,16,"><wi type="G" value="2316,17,">de Dios</wi></wi>,
+<wi type="G" value="3748,18,">quienes</wi>
+<wi type="G" value="1096,19,">han sido</wi>
+<wi type="G" value="3931,21,">consuelo</wi>
+<wi type="G" value="3427,20,">para mi</wi>.
+</t>
 </sv></cm>
 
 <cm>
