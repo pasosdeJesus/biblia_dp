@@ -2019,13 +2019,33 @@ for you, and for those in Laodicea, and for those in Hierapolis.
 </sv>
 
 <sv id="Colosenses-4-14">
-Luke,
-the beloved physician, and Demas greet you.
+Luke, the beloved physician, and Demas greet you.
+<t xml:lang="es"><wi type="G" value="3065,3,">Lucas</wi>,
+<wi type="G" value="3588,4,"><wi type="G" value="2395,5,">el médico</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="27,7,">amado</wi>,
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="1214,9,">Demas</wi>
+<wi type="G" value="5209,2,">los</wi>
+<wi type="G" value="782,1,">saludan</wi>.</t>
 </sv>
 
 <sv id="Colosenses-4-15">
 Greet the brothers who are
 in Laodicea, and Nymphas, and the assembly that is in his house.
+<t xml:lang="es"><wi type="G" value="782,1,">Saluden a</wi>
+<wi type="G" value="80,5,">los hermanos</wi>
+<wi type="G" value="3588,2,">que</wi>
+están <wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="2993,4,">Laodicea</wi>,
+<wi type="G" value="2532,6,">y</wi>
+a <wi type="G" value="3564,7,">Nimfas</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="1577,13,">la iglesia</wi>
+<wi type="G" value="3588,9,">que</wi>
+está <wi type="G" value="2596,10,">en</wi>
+<wi type="G" value="846,12,">su</wi>
+<wi type="G" value="3624,11,">casa</wi>.
+</t>
 </sv>
 
 <sv id="Colosenses-4-16">
