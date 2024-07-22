@@ -2052,19 +2052,67 @@ está <wi type="G" value="2596,10,">en</wi>
 When
 this letter has been read among you, cause it to be read also in the assembly
 of the Laodiceans; and that you
-<wi type="T" value="P"/> also read the letter from Laodicea.
+also read the letter from Laodicea.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3752,2,">cuando</wi>
+<wi type="G" value="3588,6,">esta</wi>
+<wi type="G" value="1992,7,">carta</wi>
+<wi type="G" value="314,3,">haya sido leída</wi>
+<wi type="G" value="3844,4,">entre</wi>
+<wi type="G" value="5213,5,">ustedes</wi>,
+<wi type="G" value="4160,8,">hagan</wi>
+<wi type="G" value="2443,9,">que</wi>
+<wi type="G" value="314,15,">se lea</wi>
+<wi type="G" value="2532,10,">también</wi>
+<wi type="G" value="1722,11,">en</wi>
+<wi type="G" value="1577,14,">la iglesia</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="2994,13,">de Laodicea</wi>;
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="2443,20,">que</wi>
+<wi type="G" value="5210,22,">ustedes</wi>
+<wi type="G" value="2532,21,">también</wi>
+<wi type="G" value="314,23,">lean</wi>
+<wi type="G" value="3588,17,">la</wi>
+<wi type="G" value="1537,18,">de</wi>
+<wi type="G" value="2993,19,">Laodicea</wi>.
+</t>
 </sv>
 
 <sv id="Colosenses-4-17">
 Tell Archippus, «Take heed to the ministry which you have received in
 the Lord, that you fulfill it.»
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="2036,2,">diganle a</wi>
+<wi type="G" value="751,3,">Arquipo</wi>,
+«<wi type="G" value="991,4,">Animate</wi> con
+<wi type="G" value="3588,5,"><wi type="G" value="1248,6,">el ministerio</wi></wi>
+<wi type="G" value="3739,7,">que</wi>
+<wi type="G" value="3880,8,">has recibido</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="2962,10,">el Señor</wi>,
+<wi type="G" value="2443,11,">para</wi>
+<wi type="G" value="4137,13,"><wi type="G" value="846,12,">completarlo</wi></wi>.»
+</t>
 </sv></cm>
 
 <cm>
 <sv id="Colosenses-4-18">
 The salutation of me, Paul, with my own hand: remember my bonds. Grace
 be with you. Amen.
-
+<t xml:lang="es">
+<wi type="G" value="3588,1,"><wi type="G" value="783,2,">Saludos de</wi></wi>
+<wi type="G" value="3972,6,">Pablo</wi>,
+<wi type="G" value="3588,3,"><wi type="G" value="1699,4,">con mi</wi></wi>,
+<wi type="G" value="5495,5,">propia mano</wi>:
+<wi type="G" value="3421,7,">recuerden</wi>
+<wi type="G" value="3450,8,">mis</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="1199,10,">cadenas</wi></wi>.
+<wi type="G" value="3588,11,"><wi type="G" value="5485,12,">Gracia</wi></wi>
+sea <wi type="G" value="3326,13,">con</wi>
+<wi type="G" value="5216,14,">ustedes</wi>.
+<wi type="G" value="281,15,">Amén</wi>.
+</t><rb xml:lang="es"><rf><citebib id="KJV2003"/> agrega
+`Escrito desde Roma para los Colosenses por Tíquico y Onésimo.</rf></rb>
 <cl/>
 
 
@@ -2073,5 +2121,3 @@ be with you. Amen.
 
 </sv></cm></sc>
 </sb>
-
-
