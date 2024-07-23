@@ -28,7 +28,8 @@ Timothy our brother,
 to the saints and faithful
 <t xml:lang="es"><wi type="G" value="40,4,">a los santos</wi>
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="4103,6,">fieles</wi></t>
+<wi type="G" value="4103,6,">fieles</wi>
+</t>
 <rb>brothers
 <t xml:lang="es"><wi type="G" value="80,7,">hermanos</wi></t><rf>The word
 for «brothers» here and where context allows may also be correctly translated
@@ -211,7 +212,7 @@ lo <wi type="G" value="191,8,">oímos</wi>,
 <wi type="G" value="4678,25,">sabiduría</wi>
 <wi type="G" value="2532,26,">y</wi>
 <wi type="G" value="4907,27,">entendimiento</wi>
-<wi type="G" value="4152,28,">espiritual</wi>.
+<wi type="G" value="4152,28,">espiritual</wi>,
 </t>
 </sv>
 
@@ -468,13 +469,13 @@ evil works,
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="5209,2,">Ustedes</wi>,
 <wi type="G" value="5607,4,">que eran</wi>
-<wi type="G" value="4218,3,">en el pasado</wi> \
+<wi type="G" value="4218,3,">en el pasado</wi>
 <wi type="G" value="526,5,">alienados</wi>
 <wi type="G" value="2532,6,">y</wi>
-<wi type="G" value="2190,7,">enemigos</wi></t>
+<wi type="G" value="2190,7,">enemigos</wi>
+</t>
 <rb xml:lang="es">
-<wi type="G" value="3588,8,"><wi type="G" value="1271,9,">de pensamiento</wi></wi>
-<rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `en su mente,´
+<wi type="G" value="3588,8,"><wi type="G" value="1271,9,">de pensamiento</wi></wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `en su mente,´
 <citebib id="RVG2012"/> dice `de animo.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `διανοια´
 se traduce como mente, facultad de entender, sentimiento, deseo, entendimiento,
@@ -484,8 +485,7 @@ pensamientos.
 <wi type="G" value="1722,10,">por</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="4190,14,">las malas</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="2041,12,">obras</wi></wi>,
-</t>
-<rb xml:lang="es"><wi type="G" value="1161,16,">pero</wi>
+</t><rb xml:lang="es"><wi type="G" value="1161,16,">pero</wi>
 <wi type="G" value="3570,15,">ahora</wi>
 <wi type="G" value="604,17,">han sido reconciliados</wi><rf>
 <citebib id="WEB"/> pone esto en el siguiente versículo,
@@ -695,7 +695,8 @@ for those at Laodicea, and for as many as have not seen my face in the flesh;
 <wi type="G" value="2309,1,">deseo</wi> que
 <wi type="G" value="5209,3,">ustedes</wi>
 <wi type="G" value="1492,4,">sepan</wi>
-<wi type="G" value="2245,5,">cuan gran</wi> </t>
+<wi type="G" value="2245,5,">cuan gran</wi>
+</t>
 <rb xml:lang="es"><wi type="G" value="73,6,">lucha</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `conflicto´,
 <citebib id="RVG2012"/> dice `solicitud.´
@@ -895,7 +896,8 @@ se
 en <wi type="G" value="3739,6,">quien</wi>
 <wi type="G" value="2076,7,">es</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="2776,9,">la cabeza</wi></wi>
-<wi type="G" value="3956,10,">de todo</wi> </t>
+<wi type="G" value="3956,10,">de todo</wi>
+</t>
 <rb xml:lang="es"><wi type="G" value="746,11,">principado</wi><rf>
 <citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="RVR1960"/> dicen `principado´.
 Según <citebib id="Thayer-BLB"/> la palabra griega `ἀρχή´
@@ -1020,7 +1022,8 @@ las
 <wi type="G" value="1722,8,"/><wi type="G" value="3954,9,">abiertamente</wi>,
 <wi type="G" value="2358,10,">triunfando sobre</wi>
 <wi type="G" value="846,11,">estos</wi>
-<wi type="G" value="1722,12,">en</wi> </t>
+<wi type="G" value="1722,12,">en</wi>
+</t>
 <rb xml:lang="es"><wi type="G" value="846,13,">si mismo</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `it´ que puede
 traducirse como `esto.' <citebib id="RVG2012"/> dice `en si mismo.´ </rf></rb>
@@ -1072,7 +1075,8 @@ mind,
 <t xml:lang="es"><wi type="G" value="2603,3,">Que</wi>
 <wi type="G" value="3367,1,">nadie</wi>
 <wi type="G" value="5209,2,">les</wi>
-<wi type="GC" value="3">robe el premio</wi> </t>
+<wi type="GC" value="3">robe el premio</wi>
+</t>
 <rb xml:lang="es"><wi type="G" value="2309,4,">dispuestos</wi>
 <wi type="G" value="1722,5,">en</wi>
 <wi type="G" value="5012,6,">una ostentosa humildad</wi><rf>
@@ -1169,7 +1173,8 @@ subject yourselves to ordinances,
 (all of which
 perish with use), according to the precepts and doctrines of men?
 <t xml:lang="es">(<wi type="G" value="3956,3,">todas</wi>
-<wi type="G" value="3739,1,">las cuales</wi> </t>
+<wi type="G" value="3739,1,">las cuales</wi>
+</t>
 <rb xml:lang="es"><wi type="G" value="2076,2,">son</wi>
 <wi type="G" value="1519,4,">para</wi>
 <wi type="G" value="5356,5,">destrucción</wi>
@@ -1195,7 +1200,8 @@ flesh.
 <wi type="G" value="3303,4,">de hecho</wi>
 <wi type="G" value="2076,2,">tienen</wi>
 <wi type="G" value="2192,5,">apariencia</wi>
-<wi type="G" value="4678,6,">de sabiduría</wi> </t>
+<wi type="G" value="4678,6,">de sabiduría</wi>
+</t>
 <rb xml:lang="es"><wi type="G" value="1722,7,">en</wi>
 <wi type="G" value="1479,8,">culto voluntario</wi><rf>
 <citebib id="WEB"/> dice `una adoración auto-impuesta,´
@@ -1596,7 +1602,8 @@ value="435,2,">Esposos</wi></wi>,
 <wi type="G" value="25,3,">amen a</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="1135,5,">las esposas</wi></wi>,
 <wi type="G" value="2532,6,">y</wi>
-<wi type="G" value="3361,7,">no</wi> </t>
+<wi type="G" value="3361,7,">no</wi>
+</t>
 <rb xml:lang="es"><wi type="G" value="4087,8,">se exasperen</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `amargos´,
 <citebib id="RVG2012"/> dice `desapacibles.´
@@ -1628,7 +1635,8 @@ Lord.
 Fathers, don´t provoke your children, so that they won´t be
 discouraged.
 <t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="3962,2,">Padres</wi></wi>,
-<wi type="G" value="3361,3,">no</wi> </t>
+<wi type="G" value="3361,3,">no</wi>
+</t>
 <rb xml:lang="es"><wi type="G" value="2042,4,">estimulen la ira</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dice `provoquen,´
 <citebib id="RVG2012"/> dice `irriten.´
@@ -1663,7 +1671,8 @@ value="1401,2,">Siervos</wi></wi>,
 <wi type="G" value="5613,13,">como</wi>
 <wi type="G" value="441,14,">quien agrada a hombres</wi>,
 <wi type="G" value="235,15,">sino</wi>
-<wi type="G" value="1722,16,">en</wi> </t>
+<wi type="G" value="1722,16,">en</wi>
+</t>
 <rb xml:lang="es"><wi type="G" value="572,17,">sencillez</wi><rf>
 <citebib id="WEB"/> dice `singleness´ que puede traducirse como soltería,
 <citebib id="RVG2012"/> dice `sencillez´.
@@ -1918,7 +1927,8 @@ received commandments,
 <wi type="G" value="5209,2,">los</wi>
 <wi type="G" value="782,1,">saluda</wi>,
 <wi type="G" value="2532,7,">y</wi>
-<wi type="G" value="3138,8,">Marcos</wi>, </t>
+<wi type="G" value="3138,8,">Marcos</wi>,
+</t>
 <rb xml:lang="es"><wi type="G" value="3588,9,"><wi type="G" value="431,10,">el
 sobrino</wi></wi><rf>
 <citebib id="WEB"/> dice `primo,´
@@ -2111,7 +2121,8 @@ be with you. Amen.
 sea <wi type="G" value="3326,13,">con</wi>
 <wi type="G" value="5216,14,">ustedes</wi>.
 <wi type="G" value="281,15,">Amén</wi>.
-</t><rb xml:lang="es"><rf><citebib id="KJV2003"/> agrega
+</t>
+<rb xml:lang="es"><rf><citebib id="KJV2003"/> agrega
 `Escrito desde Roma para los Colosenses por Tíquico y Onésimo.</rf></rb>
 <cl/>
 
