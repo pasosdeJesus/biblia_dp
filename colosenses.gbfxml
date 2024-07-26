@@ -497,8 +497,7 @@ y <citebib id="RVG2012"/>.
 <sv id="Colosenses-1-22">
 yet now he has reconciled in the body of his flesh through
 death, to present you holy and without blemish and blameless before him,
-<t xml:lang="es">
-<wi type="G" value="1722,1,">en</wi>
+<t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
 <wi type="G" value="3588,2,"><wi type="G" value="4983,3,">el cuerpo</wi></wi>
 <wi type="G" value="846,6,">de Su</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="4561,5,">carne</wi></wi>
@@ -690,8 +689,7 @@ striving according to his working, which works in me mightily.
 <sv id="Colosenses-2-1">
 For I desire to have you know how greatly I struggle for you, and
 for those at Laodicea, and for as many as have not seen my face in the flesh;
-<t xml:lang="es">
-<wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="2309,1,">deseo</wi> que
 <wi type="G" value="5209,3,">ustedes</wi>
 <wi type="G" value="1492,4,">sepan</wi>
@@ -817,15 +815,14 @@ As therefore you
 <wi type="GC" value="1">así</wi>
 <wi type="G" value="4043,11,">caminen</wi>
 <wi type="G" value="1722,9,">en</wi>
-<wi type="G" value="846,10,">Él</wi>.</t>
+<wi type="G" value="846,10,">Él</wi>, </t>
 </sv>
 
 <sv id="Colosenses-2-7">
 rooted and built
 up in him, and established in the faith, even as you were taught,
 abounding in it in thanksgiving.
-<t xml:lang="es">
-<wi type="G" value="4492,1,">arraigados</wi>
+<t xml:lang="es"><wi type="G" value="4492,1,">arraigados</wi>
 <wi type="G" value="2532,2,">y</wi>
 <wi type="G" value="2026,3,">edificados</wi>
 <wi type="G" value="1722,4,">en</wi>
@@ -983,8 +980,7 @@ en <wi type="G" value="3588,9,"><wi type="G" value="203,10,">la incircuncisión<
 <sv id="Colosenses-2-14">
 wiping out the handwriting in ordinances which was against
 us; and he has taken it out of the way, nailing it to the cross;
-<t xml:lang="es">
-<wi type="G" value="1813,1,">anulando</wi>
+<t xml:lang="es"><wi type="G" value="1813,1,">anulando</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="5498,5,">el escrito</wi>
 <wi type="G" value="3588,6,"><wi type="G" value="1378,7,">de decretos</wi></wi>
@@ -997,14 +993,14 @@ dicen `la escritura de ordenanzas´
 <wi type="G" value="2258,9,">había</wi>
 <wi type="G" value="3588,2,"/><wi type="G" value="2596,3,">contra</wi>
 <wi type="G" value="2257,4,">nosotros</wi>
-y <wi type="G" value="5227,10,">contraria</wi>
+y <wi type="G" value="5227,10,">contrario</wi>
 <wi type="G" value="2254,11,">a nosotros</wi>;
 <wi type="G" value="2532,12,">y</wi>
-<wi type="G" value="846,13,">la</wi>
+<wi type="G" value="846,13,">lo</wi>
 <wi type="G" value="142,14,">ha quitado</wi>
 <wi type="G" value="1537,15,">del</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="3319,17,">medio</wi>,
-<wi type="G" value="4338,18,"><wi type="G" value="846,19,">clavándola</wi></wi>
+<wi type="G" value="4338,18,"><wi type="G" value="846,19,">clavándolo</wi></wi>
 en <wi type="G" value="3588,20,"><wi type="G" value="4716,21,">la cruz</wi></wi>;
 </t>
 </sv>
@@ -1040,10 +1036,10 @@ respect to a feast day or a new moon or a Sabbath day,
 <wi type="G" value="5209,4,">los</wi>
 <wi type="G" value="2919,5,">juzgue</wi>
 <wi type="G" value="1722,6,">en</wi>
-<wi type="G" value="1035,7,">alimento</wi>,
+<wi type="G" value="1035,7,">alimento</wi>
 <wi type="G" value="2228,8,">o</wi>
 <wi type="G" value="1722,9,">en</wi>
-<wi type="G" value="4213,10,">bebida</wi>,
+<wi type="G" value="4213,10,">bebida</wi>
 <wi type="G" value="2228,11,">o</wi>
 <wi type="G" value="1722,12,">con</wi>
 <wi type="G" value="3313,13,">respecto a</wi>
@@ -1073,11 +1069,11 @@ you of your prize by a voluntary humility and worshipping of the angels,
 dwelling in the things which he has not seen, vainly puffed up by his fleshly
 mind,
 <t xml:lang="es"><wi type="G" value="2603,3,">Que</wi>
-<wi type="G" value="3367,1,">nadie</wi>
+<wi type="G" value="3367,1,">ninguno</wi>
 <wi type="G" value="5209,2,">les</wi>
 <wi type="GC" value="3">robe el premio</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="2309,4,">dispuestos</wi>
+<rb xml:lang="es"><wi type="G" value="2309,4,">dispuesto</wi>
 <wi type="G" value="1722,5,">en</wi>
 <wi type="G" value="5012,6,">una ostentosa humildad</wi><rf>
 <citebib id="WEB"/> dice `por una humildad voluntaria,´
@@ -1094,11 +1090,11 @@ en Col 2:18."
 en <wi type="G" value="2356,8,">adoración</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="32,10,">de ángeles</wi></wi>,
 </t>
-<rb xml:lang="es"><wi type="G" value="1687,14,">entrometiéndose</wi><rf>
+<rb xml:lang="es"><wi type="G" value="1687,14,">entrometiéndose en</wi><rf>
 <citebib id="WEB"/> `que habitan,´
 <citebib id="RVR1960"/> y <citebib id="KJV2003"/> dicen `entrometiéndose en´</rf></rb>
 <t xml:lang="es">
-<wi type="G" value="3739,11,">en cosas</wi>
+<wi type="G" value="3739,11,">cosas</wi>
 que <wi type="G" value="3361,12,">no</wi>
 <wi type="G" value="3708,13,">ha visto</wi>,
 <wi type="G" value="1500,15,">vanamente</wi>
@@ -1139,8 +1135,7 @@ If you
 died with Christ from the elements of the world,
 why, as though living in the world, do you
 subject yourselves to ordinances,
-<t xml:lang="es">
-<wi type="G" value="3767,2,">Entonces</wi>
+<t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
 <wi type="G" value="1487,1,">si</wi>
 <wi type="G" value="599,3,">murieron</wi>
 <wi type="G" value="4862,4,">con</wi>
@@ -1159,8 +1154,7 @@ subject yourselves to ordinances,
 
 <sv id="Colosenses-2-21">
 «Don´t handle, nor taste, nor touch»
-<t xml:lang="es">
-«<wi type="G" value="3361,1,">No</wi>
+<t xml:lang="es">«<wi type="G" value="3361,1,">No</wi>
 <wi type="G" value="680,2,">toques</wi>,
 <wi type="G" value="3366,3,">no</wi>
 <wi type="G" value="1089,4,">pruebes</wi>,
@@ -1618,8 +1612,7 @@ se traduce como  amargar, exasperar, irritarse, indignarse, amargarse.</rf></rb>
 <sv id="Colosenses-3-20">
 Children, obey your parents in all things, for this pleases the
 Lord.
-<t xml:lang="es">
-<wi type="G" value="3588,1,"><wi type="G" value="5043,2,">Hijos</wi></wi>,
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="5043,2,">Hijos</wi></wi>,
 <wi type="G" value="5219,3,">obedezcan a</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="1118,5,">los padres</wi></wi>
 <wi type="G" value="2596,6,">en</wi>
@@ -1815,8 +1808,7 @@ that I may reveal it as I ought to speak.
 <sv id="Colosenses-4-5">
 Walk in wisdom toward those who are
 outside, redeeming the time.
-<t xml:lang="es">
-<wi type="G" value="4043,3,">Caminen</wi>
+<t xml:lang="es"><wi type="G" value="4043,3,">Caminen</wi>
 <wi type="G" value="1722,1,">en</wi>
 <wi type="G" value="4678,2,">sabiduría</wi>
 <wi type="G" value="4314,4,">hacia</wi>
@@ -2109,8 +2101,7 @@ the Lord, that you fulfill it.»
 <sv id="Colosenses-4-18">
 The salutation of me, Paul, with my own hand: remember my bonds. Grace
 be with you. Amen.
-<t xml:lang="es">
-<wi type="G" value="3588,1,"><wi type="G" value="783,2,">Saludos de</wi></wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="783,2,">Saludos de</wi></wi>
 <wi type="G" value="3972,6,">Pablo</wi>,
 <wi type="G" value="3588,3,"><wi type="G" value="1699,4,">con mi</wi></wi>,
 <wi type="G" value="5495,5,">propia mano</wi>:
