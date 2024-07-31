@@ -15,6 +15,7 @@
   <!ENTITY efesios SYSTEM "efesios.gbfxml">
   <!ENTITY filipenses SYSTEM "filipenses.gbfxml">
   <!ENTITY colosenses SYSTEM "colosenses.gbfxml">
+  <!ENTITY tesalonicenses1 SYSTEM "tesalonicenses1.gbfxml">
 
   <!ENTITY biblio SYSTEM "biblio.gbfxml">
   ]>
@@ -38,5 +39,6 @@
 &efesios;
 &filipenses;
 &colosenses;
+&tesalonicenses1;
 &biblio;
 </gbfxml>

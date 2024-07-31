@@ -5,13 +5,13 @@
 
 include Make.inc
 
-SOURCE_GBFXML=mateo.gbfxml marcos.gbfxml lucas.gbfxml juan.gbfxml hechos.gbfxml romanos.gbfxml corintios1.gbfxml corintios2.gbfxml galatas.gbfxml efesios.gbfxml filipenses.gbfxml colosenses.gbfxml
+SOURCE_GBFXML=mateo.gbfxml marcos.gbfxml lucas.gbfxml juan.gbfxml hechos.gbfxml romanos.gbfxml corintios1.gbfxml corintios2.gbfxml galatas.gbfxml efesios.gbfxml filipenses.gbfxml colosenses.gbfxml tesalonicenses1.gbfxml
 
 EXT_DOCBOOK=xdbk
 
-VS_SWORDBOOK_I=Colossians
+VS_SWORDBOOK_I=I Thessalonians
 #VS_SWORDBOOK_I=II Corinthians
-VS_SWORDBOOK=Colossians
+VS_SWORDBOOK=I_Thessalonians
 #VS_SWORDBOOK=II_Corinthians
 
 # Variables requeridas por comdocbook.mak
@@ -217,8 +217,8 @@ KJV.imp:
 	-if (test ! -f /usr/local/share/sword/mods.d/kjv.conf  -o ! -f /usr/share/sword/mods.d/kjv.conf) then { echo "Parece que le falta instalar modulo KJV"; } fi;
 	mod2imp KJV > KJV.imp
 
-$(VS_SWORDBOOK)-KJV.tmp: ref/sword_kjv/KJV-2023-01-06.osis #KJV.imp
-	awk '/.*/ { if (imp==1) { print $$0; } } /\$$\$$\$$.*/ { match($$0,/ [0-9]/); n=substr($$0, 4, RSTART-4); if (n=="$(VS_SWORDBOOK_I)") { imp=1; } else { imp=0; } }' ref/sword_kjv/KJV-2023-01-06.osis > /tmp/kjv-awk
+$(VS_SWORDBOOK)-KJV.tmp: ref/sword_kjv/KJV-2023-01-06.osis.xml #KJV.imp
+	awk '/.*/ { if (imp==1) { print $$0; } } /\$$\$$\$$.*/ { match($$0,/ [0-9]/); n=substr($$0, 4, RSTART-4); if (n=="$(VS_SWORDBOOK_I)") { imp=1; } else { imp=0; } }' ref/sword_kjv/KJV-2023-01-06.osis.xml > /tmp/kjv-awk
 	sed -e "s/<w /|<w /g" /tmp/kjv-awk | tr "|" "\n" | sed -e  "s/ [ ]*$$//g" | sed -e "s/\(<\/w>[.,;]*\)[ ]*\(.\)/\1|\2/g" | tr "|" "\n" > $(VS_SWORDBOOK)-KJV.tmp
 
 $(VS_SWORDBOOK)-n-KJV.tmp: $(VS_SWORDBOOK)-KJV.tmp

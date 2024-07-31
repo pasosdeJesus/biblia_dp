@@ -2,16 +2,42 @@
 
 
 <sb id="b1_Thessalonians" type="" xml:lang="">
-<tt>Paul´s First Letter to the Thessalonians<t xml:lang="es"/></tt>
+<tt>Paul´s First Letter to the Thessalonians<t xml:lang="es">Primera carta de
+Pablo a los Tesalonicenses</t></tt>
 <sc id="b1_Thessalonians-1">
 <cm>
 <sv id="b1_Thessalonians-1-1">
 Paul, Silvanus, and Timothy, to the assembly of the Thessalonians
 in God the Father and the Lord Jesus Christ: Grace to you and peace from God
 our Father and the Lord Jesus Christ.
+<t xml:lang="es"><wi type="G" value="3972,1,">Pablo</wi>, 
+<wi type="G" value="2532,2,"/><wi type="G" value="4610,3,">Silvano</wi> 
+<wi type="G" value="2532,4,">y</wi> 
+<wi type="G" value="5095,5,">Timoteo</wi>, 
+<wi type="G" value="3588,6,"><wi type="G" value="1577,7,">a la iglesia</wi></wi> 
+<wi type="G" value="2331,8,">de los Tesalonicenses</wi>
+<wi type="G" value="1722,9,">en</wi> 
+<wi type="G" value="2316,10,">Dios</wi> 
+<wi type="G" value="3962,11,">Padre</wi> 
+<wi type="G" value="2532,12,">y</wi> 
+<wi type="G" value="2962,13,">el Señor</wi> 
+<wi type="G" value="2424,14,">Jesús</wi> 
+<wi type="G" value="5547,15,">Cristo</wi>: 
+<wi type="G" value="5485,16,">Gracia</wi> 
+<wi type="G" value="5213,17,">a ustedes</wi> 
+<wi type="G" value="2532,18,">y</wi> 
+<wi type="G" value="1515,19,">paz</wi>
+<wi type="G" value="575,20,">del</wi> 
+<wi type="G" value="2316,21,">Dios</wi> 
+<wi type="G" value="2257,23,">nuestro</wi> 
+<wi type="G" value="3962,22,">Padre</wi> 
+<wi type="G" value="2532,24,">y</wi> 
+<wi type="G" value="2962,25,">al Señor</wi> 
+<wi type="G" value="2424,26,">Jesús</wi> 
+<wi type="G" value="5547,27,">Cristo</wi>.</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="b1_Thessalonians-1-2">
 We always give thanks to God for all of you, mentioning you in our
 prayers, 
