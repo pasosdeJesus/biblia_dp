@@ -291,14 +291,46 @@ a <wi type="G" value="2424,13,">Jesús</wi>,
 <cm>
 <sv id="b1_Thessalonians-2-1">
 For you yourselves know, brothers, our visit to you wasn´t in vain,
-
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="846,1,">ustedes</wi>
+<wi type="G" value="1492,3,">saben</wi>,
+<wi type="G" value="80,4,">hermanos</wi>,
+<wi type="G" value="3754,11,">que</wi>
+<wi type="G" value="2257,7,">nuestra</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="1529,6,">visita</wi></wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="4314,9,">a</wi>
+<wi type="G" value="5209,10,">ustedes</wi>
+<wi type="G" value="3756,12,">no</wi>
+<wi type="G" value="1096,14,">fue</wi>
+<wi type="G" value="2756,13,">en vano</wi>,</t>
 </sv>
 
 <sv id="b1_Thessalonians-2-2">
 but having suffered before and been shamefully treated, as you
-<wi type="T" value="P"/>
 know, at Philippi, we grew bold in our God to tell you the Good News of God in
 much conflict.
+<t xml:lang="es"><wi type="G" value="235,1,">sino que</wi>
+<wi type="G" value="2532,2,">aún</wi>
+<wi type="G" value="4310,3,">habiendo sufrido</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="5195,5,">habiendo sido tratado vergonzosamente</wi>,
+<wi type="G" value="2531,6,">como</wi>
+<wi type="G" value="1492,7,">saben</wi>,
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="5375,9,">Filipos</wi>;
+<wi type="G" value="3955,10,">nos hicimos valientes</wi>
+<wi type="G" value="1722,11,">en</wi>
+<wi type="G" value="2257,14,">nuestro</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>
+<wi type="G" value="2980,15,">para proclamarles</wi>
+<wi type="G" value="4314,16,">a</wi>
+<wi type="G" value="5209,17,">ustedes</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="2098,19,">el Evangelio</wi></wi>
+<wi type="G" value="3588,20,"><wi type="G" value="2316,21,">de Dios</wi></wi>
+<wi type="G" value="1722,22,">en</wi>
+<wi type="G" value="4183,23,">gran</wi>
+<wi type="G" value="73,24,">conflicto</wi>.
+</t>
 </sv>
 
 <sv id="b1_Thessalonians-2-3">
