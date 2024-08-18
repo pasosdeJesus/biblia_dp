@@ -518,7 +518,7 @@ As you know how we exhorted, comforted, and implored
 every one of you, as a father does his own children,
 <t xml:lang="es"><wi type="G" value="2509,1,">Pues</wi>
 <wi type="G" value="1492,2,">saben</wi>
-<wi type="G" value="5613,3,">como</wi> 
+<wi type="G" value="5613,3,">como</wi>
 <wi type="G" value="5209,12,">los</wi>
 <wi type="G" value="3870,11,">animamos</wi>
 <wi type="G" value="2532,13,">y</wi>
@@ -544,19 +544,61 @@ por <wi type="G" value="1538,5,">cada</wi>
 </sv>
 
 <sv id="b1_Thessalonians-2-12">
-to the end that
-you
-<wi type="T" value="P"/> should walk worthily of God, who calls you into his own Kingdom and
+to the end that you
+ should walk worthily of God, who calls you into his own Kingdom and
 glory.
+<t xml:lang="es"><wi type="G" value="1519,1,">para que</wi>
+<wi type="G" value="5209,4,">ustedes</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="4043,3,">caminen</wi>
+<wi type="G" value="516,5,">dignos</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2316,7,">de Dios</wi></wi>,
+<wi type="G" value="3588,8,">quien</wi>
+<wi type="G" value="5209,10,">los</wi>
+<wi type="G" value="2564,9,">ha llamado</wi>
+<wi type="G" value="1519,11,">a</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="1438,13,">su</wi>
+<wi type="G" value="932,14,">Reino</wi>
+<wi type="G" value="2532,15,">y</wi>
+<wi type="G" value="1391,16,">gloria</wi>.</t>
 </sv>
 
 <sv id="b1_Thessalonians-2-13">
 For this cause we also thank God without ceasing, that, when
-you
-<wi type="T" value="P"/> received from us the word of the message of God, you
-<wi type="T" value="P"/> accepted
-it not as the word of men, but, as it is in truth, the word of God, which
-also works in you who believe.
+you received from us the word of the message of God, you
+accepted it not as the word of men, but, as it is in truth,
+the word of God, which also works in you who believe.
+<t xml:lang="es"><wi type="G" value="1223,1,">Por</wi>
+<wi type="G" value="5124,2,">esto</wi>
+<wi type="G" value="2249,4,">nosotros</wi>
+<wi type="G" value="2532,3,">también</wi>
+<wi type="G" value="2168,5,">damos gracias a</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2316,7,">Dios</wi></wi>
+<wi type="G" value="89,8,">sin cesar</wi>,
+<wi type="G" value="3754,9,">porque</wi>, al
+<wi type="G" value="3880,10,">recibir</wi>
+<wi type="G" value="3056,11,">la palabra</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2316,16,">de Dios</wi></wi>
+<wi type="G" value="189,12,">que escucharon</wi>
+<wi type="G" value="3844,13,">de</wi>
+<wi type="G" value="2257,14,">nosotros</wi>,
+<wi type="G" value="1209,17,">aceptaron</wi>
+<wi type="G" value="3756,18,">no</wi>
+<wi type="G" value="3056,19,">palabra</wi>
+<wi type="G" value="444,20,">de hombres</wi>,
+<wi type="G" value="235,21,">sino</wi>,
+<wi type="G" value="2531,22,">como</wi>
+<wi type="G" value="2076,23,">es</wi>
+<wi type="G" value="230,24,">en verdad</wi>,
+<wi type="G" value="3056,25,">palabra</wi>
+<wi type="G" value="2316,26,">de Dios</wi>,
+<wi type="G" value="3739,27,">que</wi>
+<wi type="G" value="2532,28,">también</wi>
+<wi type="G" value="1754,29,">ha obrado</wi>
+<wi type="G" value="1722,30,">en</wi>
+<wi type="G" value="5213,31,">ustedes</wi>
+<wi type="G" value="3588,32,">los que</wi>
+<wi type="G" value="4100,33,">creen</wi>.
+</t>
 </sv>
 
 <sv id="b1_Thessalonians-2-14">
