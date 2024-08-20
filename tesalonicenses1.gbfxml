@@ -632,19 +632,56 @@ the Jews;
 <wi type="G" value="2531,27,">como</wi>
 <wi type="G" value="846,29,">ellos</wi>
 <wi type="G" value="5259,30,">de</wi>
-<wi type="G" value="3588,31,"><wi type="G" value="2453,32,">los judios</wi></wi>;</t>
+<wi type="G" value="3588,31,"><wi type="G" value="2453,32,">los judíos</wi></wi>;</t>
 </sv>
 
 <sv id="b1_Thessalonians-2-15">
 who killed both the Lord Jesus and their own prophets, and
 drove us out, and didn´t please God, and are contrary to all men;
+<t xml:lang="es"><wi type="G" value="3588,1,">quienes</wi>
+<wi type="G" value="2532,2,">también</wi>
+<wi type="G" value="615,5,">mataron</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2962,4,">al Señor</wi></wi>
+<wi type="G" value="2424,6,">Jesús</wi>
+<wi type="G" value="2532,7,">y</wi> a
+<wi type="G" value="2398,9,">sus</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="4396,10,">profetas</wi></wi>,
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="2248,12,">nos</wi>
+<wi type="G" value="1559,13,">han perseguido</wi>,
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="3361,16,">no</wi>
+<wi type="G" value="700,17,">agradan a</wi>
+<wi type="G" value="2316,15,">Dios</wi>,
+<wi type="G" value="2532,18,">y</wi> son
+<wi type="G" value="1727,21,">contrarios</wi>
+<wi type="G" value="3956,19,">a todos</wi>
+<wi type="G" value="444,20,">los hombres</wi>;
+</t>
 
 </sv>
 
 <sv id="b1_Thessalonians-2-16">
 forbidding us to speak to the Gentiles that they may be saved; to fill
 up their sins always. But wrath has come on them to the uttermost.
-
+<t xml:lang="es"><wi type="G" value="2967,1,"><wi type="G" value="2248,2,">prohibiéndonos</wi></wi>
+<wi type="G" value="2980,5,">hablar a</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="1484,4,">los gentiles</wi></wi>
+<wi type="G" value="2443,6,">para que</wi>
+<wi type="G" value="4982,7,">sean salvos</wi>;
+<wi type="G" value="1519,8,">para</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="378,10,">llenar</wi>
+<wi type="G" value="3842,14,">siempre</wi>
+<wi type="G" value="846,11,">sus</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="266,13,">pecados</wi></wi>.
+<wi type="G" value="1161,16,">Pero</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="3709,20,">la ira</wi></wi>
+<wi type="G" value="5348,15,">ha venido</wi>
+<wi type="G" value="1909,17,">a</wi>
+<wi type="G" value="846,18,">ellos</wi>
+<wi type="G" value="1519,21,">hasta</wi>
+<wi type="G" value="5056,22,">el extremo</wi>.
+</t>
 </sv></cm><cm>
 
 <sv id="b1_Thessalonians-2-17">
