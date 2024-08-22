@@ -731,23 +731,48 @@ Satan hindered us.
 
 <sv id="b1_Thessalonians-2-19">
 For what is our hope, or joy, or crown of rejoicing?
-Isn´t it even you
-<wi type="T" value="P"/>, before our Lord Jesus
-<rb>
-<t xml:lang="es"/><rf>TR adds «Christ»<t xml:lang="es"/></rf>
+Isn´t it even you, before our Lord Jesus
+<t xml:lang="es">¿<wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="5101,1,">cuál</wi> es
+<wi type="G" value="2257,3,">nuestra</wi>
+<wi type="G" value="1680,4,">esperanza</wi>,
+<wi type="G" value="2228,5,">o</wi>
+<wi type="G" value="5479,6,">gozo</wi>,
+<wi type="G" value="2228,7,">o</wi>
+<wi type="G" value="4735,8,">corona</wi>
+<wi type="G" value="2746,9,">de regocijo</wi>?
+¿<wi type="G" value="2228,10,">O</wi>
+<wi type="G" value="3780,11,">no</wi> son
+<wi type="G" value="2532,12,"/><wi type="G" value="5210,13,">ustedes</wi>,
+<wi type="G" value="1715,14,">delante de</wi>
+<wi type="G" value="2257,17,">nuestro</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2962,16,">Señor</wi></wi>
+<wi type="G" value="2424,18,">Jesús</wi>
+</t>
+<rb><t xml:lang="es"><wi type="G" value="5547,19,">Cristo</wi></t><rf>TR adds Christ.
+<t xml:lang="es">WEB no lo incluye, pero
+según nota al pie si lo incluye TR y vemos que también
+<citebib id="KJV2003"/> y <citebib id="RVG2012"/>.</t></rf>
 </rb>
  at his
 coming?
+<t xml:lang="es"><wi type="G" value="1722,20,">a</wi>
+<wi type="G" value="3588,21,"/><wi type="G" value="846,22,">su</wi>
+<wi type="G" value="3952,23,">regreso</wi>?</t>
 </sv>
 
 <sv id="b1_Thessalonians-2-20">
-For you
-<wi type="T" value="P"/> are our glory and our joy.
-
+For you are our glory and our joy.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="5210,1,">ustedes</wi>
+<wi type="G" value="2075,3,">son</wi>
+<wi type="G" value="2257,6,">nuestra</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="1391,5,">gloria</wi></wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="5479,9,">gozo</wi></wi>.</t>
 <cl/>
-
-
 </sv></cm></sc>
+
 <sc id="b1_Thessalonians-3">
 <cm>
 <sv id="b1_Thessalonians-3-1">
