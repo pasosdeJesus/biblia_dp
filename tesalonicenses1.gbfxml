@@ -778,25 +778,86 @@ For you are our glory and our joy.
 <sv id="b1_Thessalonians-3-1">
 Therefore, when we couldn´t stand it any longer, we thought it good
 to be left behind at Athens alone,
+<t xml:lang="es"><wi type="G" value="1352,1,">Entonces</wi>, cuando
+<wi type="G" value="3371,2,">no</wi>
+<wi type="G" value="4722,3,">pudimos soportarlo</wi> más,
+<wi type="G" value="2106,4,">pensamos que era mejor</wi>
+<wi type="G" value="2641,5,">quedarnos</wi>
+<wi type="G" value="3441,8,">sólos</wi>
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="116,7,">Atenas</wi>,
+</t>
 </sv>
 
 <sv id="b1_Thessalonians-3-2">
 and sent Timothy, our brother and
 God´s servant in the Good News of Christ, to establish you, and to comfort you
 concerning your faith;
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="3992,2,">enviamos a</wi>
+<wi type="G" value="5095,3,">Timoteo</wi>,
+<wi type="G" value="2257,6,">nuestro</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="80,5,">hermano</wi></wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="1249,8,">siervo</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="2316,10,">de Dios</wi></wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="2257,13,">nuestro</wi>
+<wi type="G" value="4904,12,">compañero</wi>
+WEB<rf><citebib id="WEB"/> no dice esto, pero si está en <citebib id="KJV2003"/>
+y su concordancia Strong al TR, y en <citebib id="RVG2012"/>.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2098,16,">el evangelio</wi></wi>
+<wi type="G" value="3588,17,"><wi type="G" value="5547,18,">de Cristo</wi></wi>,
+<wi type="G" value="1519,19,">a</wi>
+<wi type="G" value="3588,20,"/><wi type="G" value="4741,21,"><wi type="G" value="5209,22,">confirmarlos</wi></wi>,
+<wi type="G" value="2532,23,">y</wi>
+<wi type="G" value="3870,24,"><wi type="G" value="5209,25,">confortarlos</wi></wi>
+<wi type="G" value="4012,26,">respecto a</wi>
+<wi type="G" value="5216,29,">su</wi>
+<wi type="G" value="3588,27,"><wi type="G" value="4102,28,">fe</wi></wi>;</t>
 </sv>
 
 <sv id="b1_Thessalonians-3-3">
 that no one be moved by these afflictions. For
-you
-<wi type="T" value="P"/> know that we are appointed to this task.
+you know that we are appointed to this task.
+<t xml:lang="es"><wi type="G" value="3588,1,">que</wi> 
+<wi type="G" value="3367,2,">nadie</wi> 
+<wi type="G" value="4525,3,">se conmueva</wi> 
+<wi type="G" value="1722,4,">por</wi> 
+<wi type="G" value="3778,7,">estas</wi> 
+<wi type="G" value="3588,5,"><wi type="G" value="2347,6,">aflicciones</wi></wi>.
+<wi type="G" value="1063,9,">Pues</wi> 
+<wi type="G" value="846,8,"/><wi type="G" value="1492,10,">saben</wi> 
+<wi type="G" value="3754,11,">que</wi> 
+<wi type="G" value="2749,14,">fuimos puestos</wi> 
+<wi type="G" value="1519,12,"/><wi type="G" value="5124,13,">para esto</wi>.</t>
 </sv>
 
 <sv id="b1_Thessalonians-3-4">
 For most assuredly,
 when we were with you, we told you beforehand that we are to suffer
-affliction, even as it happened, and you
-<wi type="T" value="P"/> know.
+affliction, even as it happened, and you know.
+<t xml:lang="es"><wi type="G" value="1063,2,">Que</wi> 
+<wi type="G" value="2532,1,">además</wi>,
+<wi type="G" value="3753,3,">cuando</wi> 
+<wi type="G" value="1510,6,">estuvimos</wi> 
+<wi type="G" value="4314,4,">con</wi> 
+<wi type="G" value="5209,5,">ustedes</wi>, 
+<wi type="G" value="5213,8,">les</wi> 
+<wi type="G" value="4302,7,">dijimos con anticipación</wi>
+<wi type="G" value="3754,9,">que</wi> 
+<wi type="G" value="3195,10,">debíamos</wi> 
+<wi type="G" value="2346,11,">sufrir aflicción</wi>,
+<wi type="G" value="2532,13,">así</wi> 
+<wi type="G" value="2531,12,">como</wi> 
+<wi type="G" value="1096,14,">ha ocurrido</wi>, 
+<wi type="G" value="2532,15,">y</wi> 
+<wi type="G" value="1492,16,">saben</wi>.
+</t>
 </sv>
 
 <sv id="b1_Thessalonians-3-5">
