@@ -824,16 +824,16 @@ y su concordancia Strong al TR, y en <citebib id="RVG2012"/>.
 <sv id="b1_Thessalonians-3-3">
 that no one be moved by these afflictions. For
 you know that we are appointed to this task.
-<t xml:lang="es"><wi type="G" value="3588,1,">que</wi> 
-<wi type="G" value="3367,2,">nadie</wi> 
-<wi type="G" value="4525,3,">se conmueva</wi> 
-<wi type="G" value="1722,4,">por</wi> 
-<wi type="G" value="3778,7,">estas</wi> 
+<t xml:lang="es"><wi type="G" value="3588,1,">que</wi>
+<wi type="G" value="3367,2,">nadie</wi>
+<wi type="G" value="4525,3,">se conmueva</wi>
+<wi type="G" value="1722,4,">por</wi>
+<wi type="G" value="3778,7,">estas</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="2347,6,">aflicciones</wi></wi>.
-<wi type="G" value="1063,9,">Pues</wi> 
-<wi type="G" value="846,8,"/><wi type="G" value="1492,10,">saben</wi> 
-<wi type="G" value="3754,11,">que</wi> 
-<wi type="G" value="2749,14,">fuimos puestos</wi> 
+<wi type="G" value="1063,9,">Pues</wi>
+<wi type="G" value="846,8,"/><wi type="G" value="1492,10,">saben</wi>
+<wi type="G" value="3754,11,">que</wi>
+<wi type="G" value="2749,14,">fuimos puestos</wi>
 <wi type="G" value="1519,12,"/><wi type="G" value="5124,13,">para esto</wi>.</t>
 </sv>
 
@@ -841,21 +841,21 @@ you know that we are appointed to this task.
 For most assuredly,
 when we were with you, we told you beforehand that we are to suffer
 affliction, even as it happened, and you know.
-<t xml:lang="es"><wi type="G" value="1063,2,">Que</wi> 
+<t xml:lang="es"><wi type="G" value="1063,2,">Que</wi>
 <wi type="G" value="2532,1,">además</wi>,
-<wi type="G" value="3753,3,">cuando</wi> 
-<wi type="G" value="1510,6,">estuvimos</wi> 
-<wi type="G" value="4314,4,">con</wi> 
-<wi type="G" value="5209,5,">ustedes</wi>, 
-<wi type="G" value="5213,8,">les</wi> 
+<wi type="G" value="3753,3,">cuando</wi>
+<wi type="G" value="1510,6,">estuvimos</wi>
+<wi type="G" value="4314,4,">con</wi>
+<wi type="G" value="5209,5,">ustedes</wi>,
+<wi type="G" value="5213,8,">les</wi>
 <wi type="G" value="4302,7,">dijimos con anticipación</wi>
-<wi type="G" value="3754,9,">que</wi> 
-<wi type="G" value="3195,10,">debíamos</wi> 
+<wi type="G" value="3754,9,">que</wi>
+<wi type="G" value="3195,10,">debíamos</wi>
 <wi type="G" value="2346,11,">sufrir aflicción</wi>,
-<wi type="G" value="2532,13,">así</wi> 
-<wi type="G" value="2531,12,">como</wi> 
-<wi type="G" value="1096,14,">ha ocurrido</wi>, 
-<wi type="G" value="2532,15,">y</wi> 
+<wi type="G" value="2532,13,">así</wi>
+<wi type="G" value="2531,12,">como</wi>
+<wi type="G" value="1096,14,">ha ocurrido</wi>,
+<wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="1492,16,">saben</wi>.
 </t>
 </sv>
@@ -865,13 +865,64 @@ For this cause I
 also, when I couldn´t stand it any longer, sent that I might know your faith,
 for fear that by any means the tempter had tempted you, and our labor would
 have been in vain.
+<t xml:lang="es">
+<wi type="G" value="1223,1,">Por</wi>
+<wi type="G" value="5124,2,">esto</wi>
+<wi type="G" value="2504,3,">cuando yo</wi>
+<wi type="G" value="3371,4,">no</wi>
+<wi type="G" value="4722,5,">pude esperar</wi> más,
+<wi type="G" value="3992,6,">envié</wi>
+<wi type="G" value="1519,7,">para</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="1097,9,">conocer</wi>
+<wi type="G" value="5216,12,">su</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="4102,11,">fe</wi></wi>,
+<wi type="G" value="3381,13,">no fuera que</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="3985,17,">el tentador</wi>
+<wi type="G" value="5209,15,">los</wi>
+<wi type="G" value="3985,14,">hubiera tentado</wi>,
+<wi type="G" value="2532,18,">y</wi>
+<wi type="G" value="2257,24,">nuestra</wi>
+<wi type="G" value="3588,22,"><wi type="G" value="2873,23,">labor</wi></wi>
+<wi type="G" value="1096,21,">hubiera sido</wi>
+<wi type="G" value="1519,19,">en</wi>
+<wi type="G" value="2756,20,">vano</wi>.
+</t>
 </sv>
 
 <sv id="b1_Thessalonians-3-6">
 But when Timothy came just now to us from you, and
 brought us glad news of your faith and love, and that you
-<wi type="T" value="P"/> have good
-memories of us always, longing to see us, even as we also long to see you;
+have good memories of us always, longing to see us, even as we also
+long to see you;
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="737,1,">ahora</wi> que
+<wi type="G" value="5095,4,">Timoteo</wi>
+<wi type="G" value="2064,3,">vino</wi>
+<wi type="G" value="4314,5,">a</wi>
+<wi type="G" value="2248,6,">nosotros</wi>
+<wi type="G" value="575,7,">de parte de</wi>
+<wi type="G" value="5216,8,">ustedes</wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="2254,11,">nos</wi>
+<wi type="G" value="2097,10,">trajo buenas noticias</wi>
+<wi type="G" value="5216,17,">de su</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="4102,13,">fe</wi></wi>
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="26,16,">amor</wi></wi>,
+<wi type="G" value="2532,18,">y</wi>
+<wi type="G" value="3754,19,">que</wi>
+<wi type="G" value="2192,20,">ustedes tienen</wi>
+<wi type="G" value="18,23,">buenos</wi>
+<wi type="G" value="3417,21,">recuerdos</wi>
+<wi type="G" value="2257,22,">de nosotros</wi>
+<wi type="G" value="3842,24,">siempre</wi>,
+<wi type="G" value="1971,25,">queriendo</wi>
+<wi type="G" value="1492,27,"><wi type="G" value="2248,26,">vernos</wi></wi>,
+<wi type="G" value="2509,28,">así como</wi>
+<wi type="G" value="2249,30,">nosotros</wi>
+<wi type="G" value="2532,29,">también</wi>
+<wi type="G" value="5209,31,">a ustedes</wi>;
+</t>
 
 </sv>
 
