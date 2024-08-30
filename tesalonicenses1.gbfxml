@@ -1012,12 +1012,46 @@ se traduce como reparar, ajustas, perfeccionar, preparar, restaurar.
 <sv id="b1_Thessalonians-3-11">
 Now may our God and Father
 himself, and our Lord Jesus Christ, direct our way to you;
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> que
+<wi type="G" value="3588,3,"><wi type="G" value="2316,4,">Dios</wi></wi>
+<wi type="G" value="846,1,">mismo</wi>,
+<wi type="G" value="2532,5,"/><wi type="G" value="2257,7,">nuestro</wi>
+<wi type="G" value="3962,6,">Padre</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="2257,11,">nuestro</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="2962,10,">Señor</wi></wi>
+<wi type="G" value="2424,12,">Jesús</wi>
+<wi type="G" value="5547,13,">Cristo</wi>,
+<wi type="G" value="2720,14,">dirija</wi>
+<wi type="G" value="2257,17,">nuestro</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="3598,16,">camino</wi></wi>
+<wi type="G" value="4314,18,">hacia</wi>
+<wi type="G" value="5209,19,">ustedes</wi>;
+</t>
 </sv>
 
 <sv id="b1_Thessalonians-3-12">
 and the Lord
 make you to increase and abound in love one toward another, and toward all
 men, even as we also do toward you,
+<t xml:lang="es"><wi type="G" value="1161,2,">y</wi> que
+<wi type="G" value="3588,3,"><wi type="G" value="2962,4,">el Señor</wi></wi>
+<wi type="G" value="5209,1,">los</wi>
+<wi type="G" value="4121,5,">haga aumentar</wi>
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="4052,7,">abundar</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="26,9,">en amor</wi></wi>
+<wi type="G" value="240,11,">de unos</wi>
+<wi type="G" value="1519,10,">a</wi>
+<wi type="GC" value="11">otros</wi>
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="1519,13,">hacía</wi>
+<wi type="G" value="3956,14,">todos</wi>,
+<wi type="G" value="2532,16,">así</wi>
+<wi type="G" value="2509,15,">como</wi>
+<wi type="G" value="2249,17,">de nosotros</wi>
+<wi type="G" value="1519,18,">hacía</wi>
+<wi type="G" value="5209,19,">ustedes</wi>,</t>
 </sv>
 
 <sv id="b1_Thessalonians-3-13">
