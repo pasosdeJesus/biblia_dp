@@ -1096,17 +1096,45 @@ se puede traducir como hacer estable, poner firmemente, fortalecer, confirmar.
 <cm>
 <sv id="b1_Thessalonians-4-1">
 Finally then, brothers, we beg and exhort you in the Lord Jesus,
-that as you
-<wi type="T" value="P"/> received from us how you
-<wi type="T" value="P"/> ought to walk and to please
-God, that you
-<wi type="T" value="P"/> abound more and more.
+that as you received from us how you ought to walk and to please
+God, that you abound more and more.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="3063,2,">Finalmente</wi>
+<wi type="G" value="3767,3,">entonces</wi>,
+<wi type="G" value="80,4,">hermanos</wi>,
+<wi type="G" value="5209,6,">les</wi>
+<wi type="G" value="2065,5,">rogamos</wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="3870,8,">exhortamos</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="2962,10,">el Señor</wi>
+<wi type="G" value="2424,11,">Jesús</wi>,
+<wi type="G" value="2531,12,">que así como</wi>
+<wi type="G" value="3880,13,">recibieron</wi>
+<wi type="G" value="3844,14,">de</wi>
+<wi type="G" value="2257,15,">nosotros</wi>,
+<wi type="G" value="3588,16,"><wi type="G" value="4459,17,">como</wi></wi>
+<wi type="G" value="5209,19,"><wi type="G" value="1163,18,">deberían</wi></wi>
+<wi type="G" value="4043,20,">andar</wi>
+<wi type="G" value="2532,21,">y</wi>
+<wi type="G" value="700,22,">agradar a</wi>
+<wi type="G" value="2316,23,">Dios</wi>,
+<wi type="G" value="2443,24,">que</wi>
+<wi type="G" value="4052,25,">abunden</wi>
+<wi type="G" value="3123,26,">más y más</wi>. </t>
 </sv>
 
 <sv id="b1_Thessalonians-4-2">
-For you
-<wi type="T" value="P"/> know what charge
+For you know what charge
 we gave you through the Lord Jesus.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1492,1,">ustedes saben</wi>
+<wi type="G" value="5101,3,">que</wi>
+<wi type="G" value="3852,4,">mandamientos</wi>
+<wi type="G" value="5213,6,">les</wi>
+<wi type="G" value="1325,5,">dimos</wi>
+<wi type="G" value="1223,7,">mediante</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2962,9,">el Señor</wi></wi>
+<wi type="G" value="2424,10,">Jesús</wi>.</t>
 </sv>
 
 <sv id="b1_Thessalonians-4-3">
