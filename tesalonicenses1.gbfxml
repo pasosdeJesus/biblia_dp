@@ -1160,7 +1160,7 @@ sanctification and honor,
 <t xml:lang="es"><wi type="G" value="1492,1,">sepa</wi>
 <wi type="G" value="1538,2,">cada uno</wi>
 <wi type="G" value="5216,3,">de ustedes</wi>
-<wi type="G" value="2932,7,">poseer</wi>
+<wi type="G" value="2932,7,">tener</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="1438,5,">su propio</wi>
 <wi type="G" value="4632,6,">vaso</wi>
 <wi type="G" value="1722,8,">en</wi>
@@ -1173,12 +1173,44 @@ sanctification and honor,
 <sv id="b1_Thessalonians-4-5">
 not in the passion of lust, even as the Gentiles who don´t
 know God;
+<t xml:lang="es"><wi type="G" value="3361,1,">no</wi>
+<wi type="G" value="1722,2,">en</wi>
+<wi type="G" value="3806,3,">la pasión</wi>
+<wi type="G" value="1939,4,">de la lujuria</wi>,
+<wi type="G" value="2532,6,"/><wi type="G" value="2509,5,">como</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="1484,8,">los gentiles</wi></wi>
+<wi type="G" value="3588,9,">que</wi>
+<wi type="G" value="3361,10,">no</wi>
+<wi type="G" value="1492,11,">conocen a</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>;</t>
 </sv>
 
 <sv id="b1_Thessalonians-4-6">
 that no one should take advantage of and wrong a brother or
 sister in this matter; because the Lord is an avenger in all these things, as
 also we forewarned you and testified.
+<t xml:lang="es"><wi type="G" value="3588,1,">que</wi>
+<wi type="G" value="3361,2,">nadie</wi>
+<wi type="G" value="5233,3,">se aproveche</wi>
+<wi type="G" value="2532,4,">ni</wi>
+<wi type="G" value="4122,5,">defraude a</wi>
+<wi type="G" value="846,11,">su</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="80,10,">hermano o hermana</wi></wi>
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="4229,8,">este asunto</wi></wi>;
+<wi type="G" value="1360,12,">porque</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2962,15,">el Señor</wi></wi> es
+<wi type="G" value="1558,13,">el vengador</wi>
+<wi type="G" value="4012,16,">de</wi>
+<wi type="G" value="3956,17,">todas</wi>
+<wi type="G" value="5130,18,">estas cosas</wi>,
+<wi type="G" value="2531,19,">como</wi>
+<wi type="G" value="2532,20,">también</wi>
+ <wi type="G" value="5213,22,">les</wi>
+<wi type="G" value="4277,21,">advertimos</wi>
+<wi type="G" value="2532,23,">y</wi>
+<wi type="G" value="1263,24,">testificamos</wi>.
+</t>
 </sv>
 
 <sv id="b1_Thessalonians-4-7">
