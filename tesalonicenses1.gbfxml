@@ -1231,36 +1231,66 @@ uncleanness, but in sanctification.
 <sv id="b1_Thessalonians-4-8">
 Therefore he who rejects doesn´t
 reject man, but God, who has also given his Holy Spirit to you.
-<t xml:lang="es"><wi type="G" value="5105,1,">Entonces</wi> 
+<t xml:lang="es"><wi type="G" value="5105,1,">Entonces</wi>
 <wi type="G" value="3588,2,">quien</wi>
-<wi type="G" value="114,3,">rechaza</wi> 
-<wi type="G" value="3756,4,">no</wi> 
-<wi type="G" value="114,6,">rechaza</wi> 
+<wi type="G" value="114,3,">rechaza</wi>
+<wi type="G" value="3756,4,">no</wi>
+<wi type="G" value="114,6,">rechaza</wi>
 <wi type="G" value="444,5,">al hombre</wi>,
-<wi type="G" value="235,7,">sino a</wi> 
-<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>, 
-<wi type="G" value="3588,10,">quien</wi> 
-<wi type="G" value="2532,11,">también</wi> 
-<wi type="G" value="2248,19,">nos</wi> 
-<wi type="G" value="1325,12,">ha dado</wi> 
-<wi type="G" value="1519,18,"/><wi type="G" value="846,15,">Su</wi> 
-<wi type="G" value="3588,16,"/><wi type="G" value="40,17,">Santo</wi> 
+<wi type="G" value="235,7,">sino a</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>,
+<wi type="G" value="3588,10,">quien</wi>
+<wi type="G" value="2532,11,">también</wi>
+<wi type="G" value="2248,19,">nos</wi>
+<wi type="G" value="1325,12,">ha dado</wi>
+<wi type="G" value="1519,18,"/><wi type="G" value="846,15,">Su</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="40,17,">Santo</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="4151,14,">Espíritu</wi></wi>.</t>
 </sv></cm><cm>
 
 <sv id="b1_Thessalonians-4-9">
-But concerning brotherly love, you
-<wi type="T" value="P"/> have no need that one write to
-you. For you
-<wi type="T" value="P"/> yourselves are taught by God to love one another,
+But concerning brotherly love, you have no need that one write to
+you. For you  yourselves are taught by God to love one another,
+<t xml:lang="es">
+;<wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="4012,1,">respecto</wi> al
+<wi type="G" value="3588,3,"><wi type="G" value="5360,4,">amor fraternal</wi></wi>,
+<wi type="G" value="3756,5,">no</wi>
+<wi type="G" value="2192,7,">tienen</wi> <wi type="G" value="5532,6,">necesidad</wi> de que
+<wi type="G" value="5213,9,">les</wi>
+<wi type="G" value="1125,8,">escriba</wi>,
+<wi type="G" value="1063,11,">pues</wi>
+<wi type="G" value="5210,12,">ustedes</wi>
+<wi type="G" value="846,10,">mismos</wi>
+<wi type="G" value="2075,14,">han sido</wi>
+<wi type="G" value="2312,13,">enseñados por Dios</wi>
+<wi type="G" value="1519,15,">a</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="25,17,">amarse</wi>
+<wi type="G" value="240,18,">unos a otros</wi>.</t>
 </sv>
 
 <sv id="b1_Thessalonians-4-10">
-for
-indeed you
-<wi type="T" value="P"/> do it toward all the brothers who are in all Macedonia. But
+for indeed you
+do it toward all the brothers who are in all Macedonia. But
 we exhort you, brothers, that you
-<wi type="T" value="P"/> abound more and more;
+abound more and more;
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="1063,2,">de hecho</wi>
+<wi type="G" value="846,4,">lo</wi>
+<wi type="G" value="4160,3,">hacen</wi>
+<wi type="G" value="1519,5,">hacia</wi>
+<wi type="G" value="3956,6,">todos</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="80,8,">los hermanos</wi></wi>
+<wi type="G" value="3588,9,">que</wi> están
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="3650,11,">toda</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="3109,13,">de Macedonia</wi></wi>.
+<wi type="G" value="1161,15,">Pero</wi>
+<wi type="G" value="5209,16,">los</wi>
+<wi type="G" value="3870,14,">exhortamos</wi>,
+<wi type="G" value="80,17,">hermanos</wi>,
+<wi type="G" value="4052,18,">a que abunden</wi>
+<wi type="G" value="3123,19,">más</wi>.</t>
 </sv>
 
 <sv id="b1_Thessalonians-4-11">
