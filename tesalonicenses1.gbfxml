@@ -1284,7 +1284,7 @@ abound more and more;
 <wi type="G" value="3588,9,">que</wi> están
 <wi type="G" value="1722,10,">en</wi>
 <wi type="G" value="3650,11,">toda</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="3109,13,">de Macedonia</wi></wi>.
+<wi type="G" value="3588,12,"><wi type="G" value="3109,13,">Macedonia</wi></wi>.
 <wi type="G" value="1161,15,">Pero</wi>
 <wi type="G" value="5209,16,">los</wi>
 <wi type="G" value="3870,14,">exhortamos</wi>,
@@ -1294,20 +1294,48 @@ abound more and more;
 </sv>
 
 <sv id="b1_Thessalonians-4-11">
-and that
-you
-<wi type="T" value="P"/> make it your ambition to lead a quiet life, and to do your own
+and that you  make it your ambition to lead a quiet life, and to do your own
 business, and to work with your own hands, even as we charged you;
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi> </t>
+<rb xml:lang="es">que <wi type="G" value="5389,2,">se esfuercen</wi> por<rf>
+<citebib id="WEB"/> dice `que sea su ambición´,
+<citebib id="KJV2003"/> dice `que estudien´,
+<citebib id="RVG2102"/> dice `procuren´.
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`φιλοτιμεισθαι se traduce como esforzarse, trabajar, estudiar, actuar por amor
+al honor, ser ambicioso.
+</rf></rb>
+<t xml:lang="es">, <wi type="G" value="2270,3,">estar tranquilos</wi>,
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="4238,5,">hacer</wi>
+sus <wi type="G" value="3588,6,"/><wi type="G" value="2398,7,">negocios</wi>,
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="2038,9,">trabajar</wi> 
+<wi type="G" value="3588,10,"/><wi type="G" value="2398,11,">con</wi>
+<wi type="G" value="5216,13,">sus propias</wi>
+<wi type="G" value="5495,12,">manos</wi>,
+<wi type="G" value="2531,14,">así como</wi>
+<wi type="G" value="5213,15,">les</wi>
+<wi type="G" value="3853,16,">encargamos</wi>;
+</t>
 </sv>
 
 <sv id="b1_Thessalonians-4-12">
-that
-you
-<wi type="T" value="P"/> may walk properly toward those who are outside, and may have need of
+that you may walk properly toward those who are outside, and may have need of
 nothing.
+<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
+<wi type="G" value="4043,2,">puedan caminar</wi>
+<wi type="G" value="2156,3,">apropiadamente</wi>
+<wi type="G" value="4314,4,">hacía</wi>
+<wi type="G" value="3588,5,">los que</wi> están
+<wi type="G" value="1854,6,">afuera</wi>,
+<wi type="G" value="2532,7,">y</wi>
+que <wi type="G" value="3367,8,">de nada</wi>
+<wi type="G" value="2192,10,">tengan</wi>
+<wi type="G" value="5532,9,">necesidad</wi>.</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="b1_Thessalonians-4-13">
 But we don´t want you to be ignorant, brothers, concerning those who
 have fallen asleep, so that you
