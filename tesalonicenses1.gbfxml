@@ -1310,7 +1310,7 @@ al honor, ser ambicioso.
 <wi type="G" value="4238,5,">hacer</wi>
 sus <wi type="G" value="3588,6,"/><wi type="G" value="2398,7,">negocios</wi>,
 <wi type="G" value="2532,8,">y</wi>
-<wi type="G" value="2038,9,">trabajar</wi> 
+<wi type="G" value="2038,9,">trabajar</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="2398,11,">con</wi>
 <wi type="G" value="5216,13,">sus propias</wi>
 <wi type="G" value="5495,12,">manos</wi>,
@@ -1339,13 +1339,47 @@ que <wi type="G" value="3367,8,">de nada</wi>
 <sv id="b1_Thessalonians-4-13">
 But we don´t want you to be ignorant, brothers, concerning those who
 have fallen asleep, so that you
-<wi type="T" value="P"/> don´t grieve like the rest, who have no
-hope.
+don´t grieve like the rest, who have no hope.
+<t xml:lang="es"><wi type="G" value="1161,3,">Pero</wi>
+<wi type="G" value="3756,1,">no</wi>
+<wi type="G" value="2309,2,">quiero</wi> que
+<wi type="G" value="5209,4,">ustedes</wi>
+<wi type="G" value="50,5,">sean ignorantes</wi>,
+<wi type="G" value="80,6,">hermanos</wi>,
+<wi type="G" value="4012,7,">respecto a</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="2837,9,">los que han dormido</wi>,
+<wi type="G" value="2443,10,">para que</wi>
+<wi type="G" value="3361,11,">no</wi>
+<wi type="G" value="3076,12,">se lamenten</wi>
+<wi type="G" value="2531,13,">como</wi>
+<wi type="G" value="2532,14,"/><wi type="G" value="3588,15,"/><wi type="G" value="3062,16,">los demás</wi>,
+<wi type="G" value="3588,17,">que</wi>
+<wi type="G" value="3361,18,">no</wi>
+<wi type="G" value="2192,19,">tienen</wi>
+<wi type="G" value="1680,20,">esperanza</wi>.</t>
 </sv>
 
 <sv id="b1_Thessalonians-4-14">
 For if we believe that Jesus died and rose again, even so those
 who have fallen asleep in Jesus will God bring with him.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="4100,3,">creemos</wi>
+<wi type="G" value="3754,4,">que</wi>
+<wi type="G" value="2424,5,">Jesús</wi>
+<wi type="G" value="599,6,">murió</wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="450,8,">resucitó</wi>,
+<wi type="G" value="3779,9,">así a</wi>
+<wi type="G" value="3588,13,">los que</wi>
+<wi type="G" value="2837,14,">duermen</wi>
+<wi type="G" value="1223,15,">en</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="2424,17,">Jesús</wi></wi>,
+<wi type="G" value="2532,10,">también</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2316,12,">Dios</wi></wi> los
+<wi type="G" value="71,18,">llevará</wi>
+<wi type="G" value="4862,19,">con</wi>
+<wi type="G" value="846,20,">Él</wi>.</t>
 </sv>
 
 <sv id="b1_Thessalonians-4-15">
