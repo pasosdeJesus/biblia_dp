@@ -1560,14 +1560,35 @@ you like a thief.
 </sv>
 
 <sv id="b1_Thessalonians-5-5">
-You
-<wi type="T" value="P"/> are all children of light, and children of
+You are all children of light, and children of
 the day. We don´t belong to the night, nor to darkness,
+<t xml:lang="es"><wi type="G" value="3956,1,">Todos</wi>
+<wi type="G" value="5210,2,">ustedes</wi>
+<wi type="G" value="2075,5,">son</wi>
+<wi type="G" value="5207,3,">hijos</wi>
+<wi type="G" value="5457,4,">de la luz</wi>,
+<wi type="G" value="2532,6,">e</wi>
+<wi type="G" value="5207,7,">hijos</wi>
+<wi type="G" value="2250,8,">del día</wi>.
+<wi type="G" value="3756,9,">No</wi>
+<wi type="G" value="2070,10,">somos</wi>
+<wi type="G" value="3571,11,">de la noche</wi>,
+<wi type="G" value="3761,12,">ni</wi>
+<wi type="G" value="4655,13,">de la oscuridad</wi>,
+</t>
 </sv>
 
 <sv id="b1_Thessalonians-5-6">
-so then let´s
-not sleep, as the rest do, but let´s watch and be sober.
+so then let´s not sleep, as the rest do, but let´s watch and be sober.
+<t xml:lang="es"><wi type="G" value="686,1,"/><wi type="G" value="3767,2,">entonces</wi>
+<wi type="G" value="3361,3,">no</wi>
+<wi type="G" value="2518,4,">durmamos</wi>,
+<wi type="G" value="5613,5,">como</wi>
+<wi type="G" value="2532,6,"/><wi type="G" value="3588,7,"/><wi type="G" value="3062,8,">los demás</wi>,
+<wi type="G" value="235,9,">sino</wi>
+<wi type="G" value="1127,10,">vigilemos</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="3525,12,">estemos sobrios</wi>.</t>
 </sv>
 
 <sv id="b1_Thessalonians-5-7">
