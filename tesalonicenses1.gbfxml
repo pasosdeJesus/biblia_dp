@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
-<sb id="l1_Tesalonicenses" type="" xml:lang="">
+<sb id="1_Tesalonicenses" type="" xml:lang="">
 <tt>Paul´s First Letter to the Tesalonicenses<t xml:lang="es">Primera carta de
 Pablo a los Tesalonicenses</t></tt>
-<sc id="l1_Tesalonicenses-1">
+<sc id="1_Tesalonicenses-1">
 <cm>
-<sv id="l1_Tesalonicenses-1-1">
+<sv id="1_Tesalonicenses-1-1">
 Paul, Silvanus, and Timothy, to the assembly of the Tesalonicenses
 in God the Father and the Lord Jesus Christ: Grace to you and peace from God
 our Father and the Lord Jesus Christ.
@@ -38,7 +38,7 @@ our Father and the Lord Jesus Christ.
 </sv></cm>
 
 <cm>
-<sv id="l1_Tesalonicenses-1-2">
+<sv id="1_Tesalonicenses-1-2">
 We always give thanks to God for all of you, mentioning you in our
 prayers,
 <t xml:lang="es"><wi type="G" value="3842,4,">Siempre</wi>
@@ -55,7 +55,7 @@ prayers,
 <wi type="G" value="3588,12,"><wi type="G" value="4335,13,">oraciones</wi></wi>,</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-1-3">
+<sv id="1_Tesalonicenses-1-3">
 remembering without ceasing your work of faith and labor of
 love and patience of hope in our Lord Jesus Christ, before our God and
 Father.
@@ -81,9 +81,9 @@ Father.
 <wi type="G" value="3962,27,">Padre</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-1-4">
+<sv id="1_Tesalonicenses-1-4">
 We know,
-<t xml:lang="es"><wi type="G" value="1492,1,">Sabiendo</wi></t>
+<t xml:lang="es"><wi type="G" value="1492,1,">Sabiendo</wi> </t>
 <rb>brothers
 <t xml:lang="es"><wi type="G" value="80,2,">hermanos</wi></t><rf>The word for «brothers» here and where
 context allows may also be correctly translated «brothers and sisters» or
@@ -91,7 +91,8 @@ context allows may also be correctly translated «brothers and sisters» or
 el contexto lo permita también se puede traducir correctamente como
 hermanos y hermanas.</t></rf></rb>
  loved by God, that you are chosen,
-<t xml:lang="es"><wi type="G" value="25,3,">amados</wi>
+<t xml:lang="es">
+<wi type="G" value="25,3,">amados</wi>
 <wi type="G" value="5259,4,">de</wi>
 <wi type="G" value="2316,5,">Dios</wi>, </t>
 <rb xml:lang="es">
@@ -112,7 +113,7 @@ o "una persona o cosa elegida."
 <t xml:lang="es">, </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-1-5">
+<sv id="1_Tesalonicenses-1-5">
 and that our Good News
 came to you not in word only, but also in power, and in the Holy Spirit, and
 with much assurance. You
@@ -138,7 +139,8 @@ among you for your sake.
 <wi type="G" value="40,19,">Santo</wi>,
 <wi type="G" value="2532,20,">y</wi>
 <wi type="G" value="1722,21,">con</wi>
-<wi type="G" value="4183,23,">gran</wi> </t>
+<wi type="G" value="4183,23,">gran</wi>
+</t>
 <rb xml:lang="es"><wi type="G" value="4136,22,">plenitud</wi><rf>
 <citebib id="WEB"/> dice `con gran seguridad,´
 <citebib id="KJV2003"/> dice `con mucha seguridad,´
@@ -146,7 +148,7 @@ among you for your sake.
 Según <citebib id="Thayer-BLB"/> la palabra griega `πληροφορια´
 se traduce como plenitud, abundancia, plena seguridad, garantía.
 </rf></rb>
-<t xml:lang="es">
+<t xml:lang="es">.
 <wi type="G" value="2531,24,">Como</wi>
 <wi type="G" value="1492,25,">saben</wi>
 <wi type="G" value="3634,26,">la clase de hombres</wi>
@@ -158,7 +160,7 @@ su <wi type="G" value="5209,31,">causa</wi>.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-1-6">
+<sv id="1_Tesalonicenses-1-6">
 You became imitators of us, and of the
 Lord, having received the word in much affliction, with joy of the Holy
 Spirit,
@@ -180,7 +182,7 @@ Spirit,
 <wi type="G" value="40,18,">Santo</wi>,</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-1-7">
+<sv id="1_Tesalonicenses-1-7">
 so that you became an example to all who believe in
 Macedonia and in Achaia.
 <t xml:lang="es"><wi type="G" value="5620,1,">para que</wi>
@@ -196,7 +198,7 @@ Macedonia and in Achaia.
 <wi type="G" value="3588,12,"><wi type="G" value="882,13,">Acaya</wi></wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-1-8">
+<sv id="1_Tesalonicenses-1-8">
 For from you has sounded forth the word of the
 Lord, not only in Macedonia and Achaia, but also in every place your faith
 toward God has gone forth; so that we need not to say anything.
@@ -232,7 +234,7 @@ toward God has gone forth; so that we need not to say anything.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-1-9">
+<sv id="1_Tesalonicenses-1-9">
 For they
 themselves report concerning us what kind of a reception we had from you; and
 how you
@@ -259,11 +261,11 @@ turned to God from idols, to serve a living and true God,
 <wi type="G" value="2316,21,">Dios</wi>
 <wi type="G" value="2198,22,">vivo</wi>
 <wi type="G" value="2532,23,">y</wi>
-<wi type="G" value="228,24,">verdadero</wi>.
+<wi type="G" value="228,24,">verdadero</wi>,
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-1-10">
+<sv id="1_Tesalonicenses-1-10">
 and to wait for his Son from heaven, whom he raised from the deadJesus,
 who delivers us from the wrath to come.
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
@@ -287,9 +289,9 @@ a <wi type="G" value="2424,13,">Jesús</wi>,
 
 
 </sv></cm></sc>
-<sc id="l1_Tesalonicenses-2">
+<sc id="1_Tesalonicenses-2">
 <cm>
-<sv id="l1_Tesalonicenses-2-1">
+<sv id="1_Tesalonicenses-2-1">
 For you yourselves know, brothers, our visit to you wasn´t in vain,
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="846,1,">ustedes</wi>
@@ -305,7 +307,7 @@ For you yourselves know, brothers, our visit to you wasn´t in vain,
 <wi type="G" value="2756,13,">en vano</wi>,</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-2">
+<sv id="1_Tesalonicenses-2-2">
 but having suffered before and been shamefully treated, as you
 know, at Philippi, we grew bold in our God to tell you the Good News of God in
 much conflict.
@@ -333,7 +335,7 @@ much conflict.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-3">
+<sv id="1_Tesalonicenses-2-3">
 For our exhortation is not of error, nor of uncleanness,
 nor in deception.
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">Pues</wi>
@@ -350,7 +352,7 @@ nor in deception.
 <wi type="G" value="1388,13,">engaño</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-4">
+<sv id="1_Tesalonicenses-2-4">
 But even as we have been approved by God to be
 entrusted with the Good News, so we speak; not as pleasing men, but God, who
 tests our hearts.
@@ -375,7 +377,7 @@ tests our hearts.
 <wi type="G" value="3588,21,"><wi type="G" value="2588,22,">corazones</wi></wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-5">
+<sv id="1_Tesalonicenses-2-5">
 For neither were we at any time found using words of
 flattery, as you
 know, nor a cloak of covetousness (God is witness),
@@ -395,7 +397,7 @@ know, nor a cloak of covetousness (God is witness),
 value="2316,14,">Dios</wi> es <wi type="G" value="3144,15,">testigo</wi>),</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-6">
+<sv id="1_Tesalonicenses-2-6">
 nor seeking glory from men (neither from you nor from others), when we
 might have claimed authority as apostles of Christ.
 <t xml:lang="es"><wi type="G" value="3777,1,">ni</wi>
@@ -424,7 +426,7 @@ might have claimed authority as apostles of Christ.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-7">
+<sv id="1_Tesalonicenses-2-7">
 But we were gentle
 among of you, as when a nurse cherishes her own children.
 <t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>
@@ -442,7 +444,7 @@ among of you, as when a nurse cherishes her own children.
 <wi type="G" value="5043,13,">niños</wi>. </t>
 </sv></cm><cm>
 
-<sv id="l1_Tesalonicenses-2-8">
+<sv id="1_Tesalonicenses-2-8">
 Even so, affectionately longing for you, we were well pleased to impart
 to you, not the Good News of God only, but also our own souls, because you
 had become very dear to us.
@@ -465,7 +467,7 @@ had become very dear to us.
 <wi type="G" value="2254,20,">por nosotros</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-9">
+<sv id="1_Tesalonicenses-2-9">
 For you remember, brothers, our labor
 and travail; for working night and day, that we might not burden any of you,
 we preached to you the Good News of God.
@@ -492,7 +494,7 @@ we preached to you the Good News of God.
 <wi type="G" value="3588,26,"><wi type="G" value="2316,27,">de Dios</wi></wi>. </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-10">
+<sv id="1_Tesalonicenses-2-10">
 You are witnesses with God,
 how holy, righteously, and blamelessly we behaved ourselves toward you who
 believe.
@@ -513,7 +515,7 @@ believe.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-11">
+<sv id="1_Tesalonicenses-2-11">
 As you know how we exhorted, comforted, and implored
 every one of you, as a father does his own children,
 <t xml:lang="es"><wi type="G" value="2509,1,">Pues</wi>
@@ -543,7 +545,7 @@ por <wi type="G" value="1538,5,">cada</wi>
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-12">
+<sv id="1_Tesalonicenses-2-12">
 to the end that you
  should walk worthily of God, who calls you into his own Kingdom and
 glory.
@@ -562,7 +564,7 @@ glory.
 <wi type="G" value="1391,16,">gloria</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-13">
+<sv id="1_Tesalonicenses-2-13">
 For this cause we also thank God without ceasing, that, when
 you received from us the word of the message of God, you
 accepted it not as the word of men, but, as it is in truth,
@@ -601,7 +603,7 @@ the word of God, which also works in you who believe.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-14">
+<sv id="1_Tesalonicenses-2-14">
 For you, brothers, became imitators
 of the assemblies of God which are in Judea in Christ Jesus; for you
 also suffered the same things from your own countrymen, even as they did from
@@ -635,7 +637,7 @@ the Jews;
 <wi type="G" value="3588,31,"><wi type="G" value="2453,32,">los judíos</wi></wi>;</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-15">
+<sv id="1_Tesalonicenses-2-15">
 who killed both the Lord Jesus and their own prophets, and
 drove us out, and didn´t please God, and are contrary to all men;
 <t xml:lang="es"><wi type="G" value="3588,1,">quienes</wi>
@@ -661,7 +663,7 @@ drove us out, and didn´t please God, and are contrary to all men;
 
 </sv>
 
-<sv id="l1_Tesalonicenses-2-16">
+<sv id="1_Tesalonicenses-2-16">
 forbidding us to speak to the Gentiles that they may be saved; to fill
 up their sins always. But wrath has come on them to the uttermost.
 <t xml:lang="es"><wi type="G" value="2967,1,"><wi type="G" value="2248,2,">prohibiéndonos</wi></wi>
@@ -684,7 +686,7 @@ up their sins always. But wrath has come on them to the uttermost.
 </t>
 </sv></cm><cm>
 
-<sv id="l1_Tesalonicenses-2-17">
+<sv id="1_Tesalonicenses-2-17">
 But we, brothers, being bereaved of you for a short season, in
 presence, not in heart, tried even harder to see your face with great desire,
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -709,7 +711,7 @@ presence, not in heart, tried even harder to see your face with great desire,
 <wi type="G" value="1939,21,">anhelo</wi>,</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-18">
+<sv id="1_Tesalonicenses-2-18">
 because we wanted to come to youindeed, I, Paul, once and againbut
 Satan hindered us.
 <t xml:lang="es"><wi type="G" value="1352,1,">por lo que</wi>
@@ -729,7 +731,7 @@ Satan hindered us.
 <wi type="G" value="1465,14,">lo impidió</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-19">
+<sv id="1_Tesalonicenses-2-19">
 For what is our hope, or joy, or crown of rejoicing?
 Isn´t it even you, before our Lord Jesus
 <t xml:lang="es">¿<wi type="G" value="1063,2,">Pues</wi>
@@ -756,12 +758,13 @@ según nota al pie si lo incluye TR y vemos que también
 </rb>
  at his
 coming?
-<t xml:lang="es"><wi type="G" value="1722,20,">a</wi>
+<t xml:lang="es">
+<wi type="G" value="1722,20,">a</wi>
 <wi type="G" value="3588,21,"/><wi type="G" value="846,22,">su</wi>
 <wi type="G" value="3952,23,">regreso</wi>?</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-2-20">
+<sv id="1_Tesalonicenses-2-20">
 For you are our glory and our joy.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="5210,1,">ustedes</wi>
@@ -773,9 +776,9 @@ For you are our glory and our joy.
 <cl/>
 </sv></cm></sc>
 
-<sc id="l1_Tesalonicenses-3">
+<sc id="1_Tesalonicenses-3">
 <cm>
-<sv id="l1_Tesalonicenses-3-1">
+<sv id="1_Tesalonicenses-3-1">
 Therefore, when we couldn´t stand it any longer, we thought it good
 to be left behind at Athens alone,
 <t xml:lang="es"><wi type="G" value="1352,1,">Entonces</wi>, cuando
@@ -789,7 +792,7 @@ to be left behind at Athens alone,
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-3-2">
+<sv id="1_Tesalonicenses-3-2">
 and sent Timothy, our brother and
 God´s servant in the Good News of Christ, to establish you, and to comfort you
 concerning your faith;
@@ -821,7 +824,7 @@ y su concordancia Strong al TR, y en <citebib id="RVG2012"/>.
 <wi type="G" value="3588,27,"><wi type="G" value="4102,28,">fe</wi></wi>;</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-3-3">
+<sv id="1_Tesalonicenses-3-3">
 that no one be moved by these afflictions. For
 you know that we are appointed to this task.
 <t xml:lang="es"><wi type="G" value="3588,1,">que</wi>
@@ -837,7 +840,7 @@ you know that we are appointed to this task.
 <wi type="G" value="1519,12,"/><wi type="G" value="5124,13,">para esto</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-3-4">
+<sv id="1_Tesalonicenses-3-4">
 For most assuredly,
 when we were with you, we told you beforehand that we are to suffer
 affliction, even as it happened, and you know.
@@ -860,7 +863,7 @@ affliction, even as it happened, and you know.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-3-5">
+<sv id="1_Tesalonicenses-3-5">
 For this cause I
 also, when I couldn´t stand it any longer, sent that I might know your faith,
 for fear that by any means the tempter had tempted you, and our labor would
@@ -889,7 +892,7 @@ have been in vain.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-3-6">
+<sv id="1_Tesalonicenses-3-6">
 But when Timothy came just now to us from you, and
 brought us glad news of your faith and love, and that you
 have good memories of us always, longing to see us, even as we also
@@ -926,7 +929,7 @@ long to see you;
 
 </sv>
 
-<sv id="l1_Tesalonicenses-3-7">
+<sv id="1_Tesalonicenses-3-7">
 for this cause, brothers, we were comforted over you in all our distress
 and affliction through your faith.
 <t xml:lang="es"><wi type="G" value="1223,1,">Por</wi>
@@ -947,7 +950,7 @@ and affliction through your faith.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-3-8">
+<sv id="1_Tesalonicenses-3-8">
 For now we live, if you stand fast in the Lord.
 <t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
 <wi type="G" value="3568,2,">ahora</wi>
@@ -959,7 +962,7 @@ For now we live, if you stand fast in the Lord.
 <wi type="G" value="2962,8,">el Señor</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-3-9">
+<sv id="1_Tesalonicenses-3-9">
 For what thanksgiving can we render again to God for
 you, for all the joy with which we rejoice for your sakes before our God;
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
@@ -983,7 +986,7 @@ you, for all the joy with which we rejoice for your sakes before our God;
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-3-10">
+<sv id="1_Tesalonicenses-3-10">
 night and day praying exceedingly that we may see your face, and may
 perfect that which is lacking in your faith?
 <t xml:lang="es"><wi type="G" value="3571,1,">noche</wi>
@@ -995,7 +998,8 @@ perfect that which is lacking in your faith?
 <wi type="G" value="3588,8,"/><wi type="G" value="1492,9,">podamos ver</wi>
 <wi type="G" value="5216,10,">su</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="4383,12,">rostro</wi></wi>,
-<wi type="G" value="2532,13,">y</wi> </t>
+<wi type="G" value="2532,13,">y</wi>
+</t>
 <rb xml:lang="es"><wi type="G" value="2675,14,">se perfeccione</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `pueda perfeccionarse´,
 <citebib id="RVG2012"/> dice `que cumplamos´.
@@ -1009,7 +1013,7 @@ se traduce como reparar, ajustas, perfeccionar, preparar, restaurar.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-3-11">
+<sv id="1_Tesalonicenses-3-11">
 Now may our God and Father
 himself, and our Lord Jesus Christ, direct our way to you;
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> que
@@ -1030,7 +1034,7 @@ himself, and our Lord Jesus Christ, direct our way to you;
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-3-12">
+<sv id="1_Tesalonicenses-3-12">
 and the Lord
 make you to increase and abound in love one toward another, and toward all
 men, even as we also do toward you,
@@ -1054,12 +1058,13 @@ men, even as we also do toward you,
 <wi type="G" value="5209,19,">ustedes</wi>,</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-3-13">
+<sv id="1_Tesalonicenses-3-13">
 to the end he may establish your
 hearts blameless in holiness before our God and Father, at the coming of our
 Lord Jesus with all his saints.
 <t xml:lang="es"><wi type="G" value="1519,1,">para</wi>
-<wi type="G" value="3588,2,">que</wi> </t>
+<wi type="G" value="3588,2,">que</wi>
+</t>
 <rb xml:lang="es"><wi type="G" value="4741,3,">sean confirmados</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `Él pueda establecer,´
 <citebib id="RVG2012"/> dice `sean confirmados,´
@@ -1092,9 +1097,9 @@ se puede traducir como hacer estable, poner firmemente, fortalecer, confirmar.
 
 
 </sv></cm></sc>
-<sc id="l1_Tesalonicenses-4">
+<sc id="1_Tesalonicenses-4">
 <cm>
-<sv id="l1_Tesalonicenses-4-1">
+<sv id="1_Tesalonicenses-4-1">
 Finally then, brothers, we beg and exhort you in the Lord Jesus,
 that as you received from us how you ought to walk and to please
 God, that you abound more and more.
@@ -1123,7 +1128,7 @@ God, that you abound more and more.
 <wi type="G" value="3123,26,">más y más</wi>. </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-4-2">
+<sv id="1_Tesalonicenses-4-2">
 For you know what charge
 we gave you through the Lord Jesus.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
@@ -1137,7 +1142,7 @@ we gave you through the Lord Jesus.
 <wi type="G" value="2424,10,">Jesús</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-4-3">
+<sv id="1_Tesalonicenses-4-3">
 For this is the will of God: your
 sanctification, that you abstain from sexual immorality,
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
@@ -1154,7 +1159,7 @@ que
 <wi type="G" value="3588,13,"><wi type="G" value="4202,14,">inmoralidad sexual</wi></wi>,</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-4-4">
+<sv id="1_Tesalonicenses-4-4">
 that each one of you know how to possess himself of his own vessel in
 sanctification and honor,
 <t xml:lang="es"><wi type="G" value="1492,1,">sepa</wi>
@@ -1170,7 +1175,7 @@ sanctification and honor,
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-4-5">
+<sv id="1_Tesalonicenses-4-5">
 not in the passion of lust, even as the Gentiles who don´t
 know God;
 <t xml:lang="es"><wi type="G" value="3361,1,">no</wi>
@@ -1185,7 +1190,7 @@ know God;
 <wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>;</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-4-6">
+<sv id="1_Tesalonicenses-4-6">
 that no one should take advantage of and wrong a brother or
 sister in this matter; because the Lord is an avenger in all these things, as
 also we forewarned you and testified.
@@ -1213,7 +1218,7 @@ also we forewarned you and testified.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-4-7">
+<sv id="1_Tesalonicenses-4-7">
 For God called us not for
 uncleanness, but in sanctification.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
@@ -1228,7 +1233,7 @@ uncleanness, but in sanctification.
 <wi type="G" value="38,11,">santificación</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-4-8">
+<sv id="1_Tesalonicenses-4-8">
 Therefore he who rejects doesn´t
 reject man, but God, who has also given his Holy Spirit to you.
 <t xml:lang="es"><wi type="G" value="5105,1,">Entonces</wi>
@@ -1248,7 +1253,7 @@ reject man, but God, who has also given his Holy Spirit to you.
 <wi type="G" value="3588,13,"><wi type="G" value="4151,14,">Espíritu</wi></wi>.</t>
 </sv></cm><cm>
 
-<sv id="l1_Tesalonicenses-4-9">
+<sv id="1_Tesalonicenses-4-9">
 But concerning brotherly love, you have no need that one write to
 you. For you  yourselves are taught by God to love one another,
 <t xml:lang="es">
@@ -1269,7 +1274,7 @@ you. For you  yourselves are taught by God to love one another,
 <wi type="G" value="240,18,">unos a otros</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-4-10">
+<sv id="1_Tesalonicenses-4-10">
 for indeed you
 do it toward all the brothers who are in all Macedonia. But
 we exhort you, brothers, that you
@@ -1293,10 +1298,11 @@ abound more and more;
 <wi type="G" value="3123,19,">más</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-4-11">
+<sv id="1_Tesalonicenses-4-11">
 and that you  make it your ambition to lead a quiet life, and to do your own
 business, and to work with your own hands, even as we charged you;
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi> </t>
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+</t>
 <rb xml:lang="es">que <wi type="G" value="5389,2,">se esfuercen</wi> por<rf>
 <citebib id="WEB"/> dice `que sea su ambición´,
 <citebib id="KJV2003"/> dice `que estudien´,
@@ -1305,7 +1311,8 @@ Según <citebib id="Thayer-BLB"/> la palabra griega
 `φιλοτιμεισθαι se traduce como esforzarse, trabajar, estudiar, actuar por amor
 al honor, ser ambicioso.
 </rf></rb>
-<t xml:lang="es">, <wi type="G" value="2270,3,">estar tranquilos</wi>,
+<t xml:lang="es">,
+<wi type="G" value="2270,3,">estar tranquilos</wi>,
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="4238,5,">hacer</wi>
 sus <wi type="G" value="3588,6,"/><wi type="G" value="2398,7,">negocios</wi>,
@@ -1320,7 +1327,7 @@ sus <wi type="G" value="3588,6,"/><wi type="G" value="2398,7,">negocios</wi>,
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-4-12">
+<sv id="1_Tesalonicenses-4-12">
 that you may walk properly toward those who are outside, and may have need of
 nothing.
 <t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
@@ -1336,7 +1343,7 @@ que <wi type="G" value="3367,8,">de nada</wi>
 </sv></cm>
 
 <cm>
-<sv id="l1_Tesalonicenses-4-13">
+<sv id="1_Tesalonicenses-4-13">
 But we don´t want you to be ignorant, brothers, concerning those who
 have fallen asleep, so that you
 don´t grieve like the rest, who have no hope.
@@ -1359,7 +1366,7 @@ don´t grieve like the rest, who have no hope.
 <wi type="G" value="1680,20,">esperanza</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-4-14">
+<sv id="1_Tesalonicenses-4-14">
 For if we believe that Jesus died and rose again, even so those
 who have fallen asleep in Jesus will God bring with him.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
@@ -1382,7 +1389,7 @@ who have fallen asleep in Jesus will God bring with him.
 <wi type="G" value="846,20,">Él</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-4-15">
+<sv id="1_Tesalonicenses-4-15">
 For this we
 tell you by the word of the Lord, that we who are alive, who are left to the
 coming of the Lord, will in no way precede those who have fallen asleep.
@@ -1408,7 +1415,7 @@ coming of the Lord, will in no way precede those who have fallen asleep.
 
 </sv>
 
-<sv id="l1_Tesalonicenses-4-16">
+<sv id="1_Tesalonicenses-4-16">
 For the Lord himself will descend from heaven with a shout, with the
 voice of the archangel, and with God´s trumpet. The dead in Christ will rise
 first,
@@ -1435,7 +1442,7 @@ first,
 <wi type="G" value="4412,23,">primero</wi>,</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-4-17">
+<sv id="1_Tesalonicenses-4-17">
 then we who are alive, who are left, will be caught up together
 with them in the clouds, to meet the Lord in the air. So we will be with the
 Lord forever.
@@ -1463,7 +1470,7 @@ Lord forever.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-4-18">
+<sv id="1_Tesalonicenses-4-18">
 Therefore comfort one another with these words.
 <t xml:lang="es"><wi type="G" value="5620,1,">Entonces</wi>
 <wi type="G" value="3870,2,">consuélense</wi>
@@ -1474,9 +1481,9 @@ Therefore comfort one another with these words.
 <cl/>
 </sv></cm></sc>
 
-<sc id="l1_Tesalonicenses-5">
+<sc id="1_Tesalonicenses-5">
 <cm>
-<sv id="l1_Tesalonicenses-5-1">
+<sv id="1_Tesalonicenses-5-1">
 But concerning the times and the seasons, brothers, you
  have no need that anything be written to you.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -1493,7 +1500,7 @@ But concerning the times and the seasons, brothers, you
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-2">
+<sv id="1_Tesalonicenses-5-2">
 For you yourselves know
 well that the day of the Lord comes like a thief in the night.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
@@ -1511,7 +1518,7 @@ well that the day of the Lord comes like a thief in the night.
 <wi type="G" value="3571,12,">la noche</wi></t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-3">
+<sv id="1_Tesalonicenses-5-3">
 For when
 they are saying, «Peace and safety,» then sudden destruction will come on
 them, like birth pains on a pregnant woman; and they will in no way escape.
@@ -1539,7 +1546,7 @@ parto</wi></wi> de una
 
 </sv>
 
-<sv id="l1_Tesalonicenses-5-4">
+<sv id="1_Tesalonicenses-5-4">
 But you, brothers, aren´t in darkness, that the day should overtake
 you like a thief.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -1559,7 +1566,7 @@ you like a thief.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-5">
+<sv id="1_Tesalonicenses-5-5">
 You are all children of light, and children of
 the day. We don´t belong to the night, nor to darkness,
 <t xml:lang="es"><wi type="G" value="3956,1,">Todos</wi>
@@ -1578,7 +1585,7 @@ the day. We don´t belong to the night, nor to darkness,
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-6">
+<sv id="1_Tesalonicenses-5-6">
 so then let´s not sleep, as the rest do, but let´s watch and be sober.
 <t xml:lang="es"><wi type="G" value="686,1,"/><wi type="G" value="3767,2,">entonces</wi>
 <wi type="G" value="3361,3,">no</wi>
@@ -1591,7 +1598,7 @@ so then let´s not sleep, as the rest do, but let´s watch and be sober.
 <wi type="G" value="3525,12,">estemos sobrios</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-7">
+<sv id="1_Tesalonicenses-5-7">
 For those who
 sleep, sleep in the night, and those who are drunken are drunken in the
 night.
@@ -1608,7 +1615,7 @@ night.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-8">
+<sv id="1_Tesalonicenses-5-8">
 But let us, since we belong to the day, be sober, putting on the
 breastplate of faith and love, and, for a helmet, the hope of salvation.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -1627,7 +1634,7 @@ breastplate of faith and love, and, for a helmet, the hope of salvation.
 <wi type="G" value="4991,14,">de la salvación</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-9">
+<sv id="1_Tesalonicenses-5-9">
 For God didn´t appoint us to wrath, but to the obtaining of salvation
 through our Lord Jesus Christ,
 <t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
@@ -1649,7 +1656,7 @@ through our Lord Jesus Christ,
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-10">
+<sv id="1_Tesalonicenses-5-10">
 who died for us, that, whether we wake
 or sleep, we should live together with him.
 <t xml:lang="es"><wi type="G" value="3588,1,">quien</wi>
@@ -1668,7 +1675,7 @@ or sleep, we should live together with him.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-11">
+<sv id="1_Tesalonicenses-5-11">
 Therefore exhort one
 another, and build each other up, even as you
 <wi type="T" value="P"/> also do.
@@ -1685,7 +1692,7 @@ another, and build each other up, even as you
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-12">
+<sv id="1_Tesalonicenses-5-12">
 But we beg
 you, brothers, to know those who labor among you, and are over you in the
 Lord, and admonish you,
@@ -1708,7 +1715,7 @@ que <wi type="G" value="5209,17,">los</wi>
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-13">
+<sv id="1_Tesalonicenses-5-13">
 and to respect and honor them in love for their
 work´s sake.
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
@@ -1729,7 +1736,7 @@ Be at peace among yourselves.
 <wi type="G" value="1438,14,">ustedes</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-14">
+<sv id="1_Tesalonicenses-5-14">
 We exhort you, brothers, admonish the
 disorderly, encourage the fainthearted, support the weak, be patient toward
 all.
@@ -1750,7 +1757,7 @@ all.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-15">
+<sv id="1_Tesalonicenses-5-15">
 See that no one returns evil for evil to anyone, but always follow
 after that which is good, for one another, and for all.
 <t xml:lang="es"><wi type="G" value="3708,1,">Miren que</wi>
@@ -1773,19 +1780,19 @@ after that which is good, for one another, and for all.
 </sv></cm>
 
 <cm>
-<sv id="l1_Tesalonicenses-5-16">
+<sv id="1_Tesalonicenses-5-16">
 Rejoice always.
 <t xml:lang="es"><wi type="G" value="5463,2,">Alégrense</wi>
 <wi type="G" value="3842,1,">siempre</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-17">
+<sv id="1_Tesalonicenses-5-17">
 Pray without ceasing.
 <t xml:lang="es"><wi type="G" value="4336,2,">Oren</wi>
 <wi type="G" value="89,1,">sin cesar</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-18">
+<sv id="1_Tesalonicenses-5-18">
 In everything give
 thanks, for this is the will of God in Christ Jesus toward you.
 <t xml:lang="es"><wi type="G" value="1722,1,">En</wi>
@@ -1802,21 +1809,21 @@ thanks, for this is the will of God in Christ Jesus toward you.
 <wi type="G" value="5209,12,">ustedes</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-19">
+<sv id="1_Tesalonicenses-5-19">
 Don´t quench the Spirit.
 <t xml:lang="es"><wi type="G" value="3361,3,">No</wi>
 <wi type="G" value="4570,4,">apaguen</wi>
 <wi type="G" value="3588,1,"><wi type="G" value="4151,2,">al Espíritu</wi></wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-20">
+<sv id="1_Tesalonicenses-5-20">
 Don´t despise prophesies.
 <t xml:lang="es"><wi type="G" value="3361,2,">No</wi>
 <wi type="G" value="1848,3,">desprecien</wi>
 <wi type="G" value="4394,1,">las profecías</wi>. </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-21">
+<sv id="1_Tesalonicenses-5-21">
 Test all things, and hold firmly that which is good.
 <t xml:lang="es"><wi type="G" value="1381,2,">Prueben</wi>
 <wi type="G" value="3956,1,">todo</wi>, y
@@ -1825,7 +1832,7 @@ Test all things, and hold firmly that which is good.
 <wi type="G" value="2570,4,">bueno</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-22">
+<sv id="1_Tesalonicenses-5-22">
 Abstain from every form of evil.
 <t xml:lang="es"><wi type="G" value="567,5,">Absténganse</wi>
 <wi type="G" value="575,1,">de</wi>
@@ -1834,7 +1841,7 @@ Abstain from every form of evil.
 <wi type="G" value="4190,4,">de maldad</wi>.</t>
 </sv></cm><cm>
 
-<sv id="l1_Tesalonicenses-5-23">
+<sv id="1_Tesalonicenses-5-23">
 May the God of peace himself sanctify you completely. May your whole
 spirit, soul, and body be preserved blameless at the coming of our Lord Jesus
 Christ.
@@ -1866,7 +1873,7 @@ que
 
 </sv></cm><cm>
 
-<sv id="l1_Tesalonicenses-5-24">
+<sv id="1_Tesalonicenses-5-24">
 Faithful is he who calls you, who will also do it.
 <t xml:lang="es"><wi type="G" value="4103,1,">Fiel</wi> es
 <wi type="G" value="3588,2,">el que</wi>
@@ -1878,7 +1885,7 @@ Faithful is he who calls you, who will also do it.
 </t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-25">
+<sv id="1_Tesalonicenses-5-25">
 Brothers, pray for us.
 <t xml:lang="es"><wi type="G" value="80,1,">Hermanos</wi>,
 <wi type="G" value="4336,2,">oren</wi>
@@ -1886,7 +1893,7 @@ Brothers, pray for us.
 <wi type="G" value="2257,4,">nosotros</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-26">
+<sv id="1_Tesalonicenses-5-26">
 Greet all the brothers with a holy kiss.
 <t xml:lang="es"><wi type="G" value="782,1,">Saluden a</wi>
 <wi type="G" value="3956,4,">todos</wi>
@@ -1896,7 +1903,7 @@ Greet all the brothers with a holy kiss.
 <wi type="G" value="40,7,">santo</wi>.</t>
 </sv>
 
-<sv id="l1_Tesalonicenses-5-27">
+<sv id="1_Tesalonicenses-5-27">
 I solemnly
 charge you by the Lord that this letter be read to all the holy brothers.
 <t xml:lang="es"><wi type="G" value="5209,2,">Les</wi>
@@ -1911,7 +1918,7 @@ charge you by the Lord that this letter be read to all the holy brothers.
 </t>
 </sv></cm><cm>
 
-<sv id="l1_Tesalonicenses-5-28">
+<sv id="1_Tesalonicenses-5-28">
 The grace of our Lord Jesus Christ be with you. Amen.
 <t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="5485,2,">La gracia</wi></wi>
 <wi type="G" value="2257,5,">de nuestro</wi>
