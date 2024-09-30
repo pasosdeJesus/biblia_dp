@@ -315,7 +315,7 @@ much conflict.
 <wi type="G" value="2532,2,">aún</wi>
 <wi type="G" value="4310,3,">habiendo sufrido</wi>
 <wi type="G" value="2532,4,">y</wi>
-<wi type="G" value="5195,5,">habiendo sido tratado vergonzosamente</wi>,
+<wi type="G" value="5195,5,">habiendo sido tratados vergonzosamente</wi>,
 <wi type="G" value="2531,6,">como</wi>
 <wi type="G" value="1492,7,">saben</wi>,
 <wi type="G" value="1722,8,">en</wi>
@@ -415,8 +415,8 @@ might have claimed authority as apostles of Christ.
 </t>
 <rb xml:lang="es"><wi type="G" value="1511,15,">ser</wi>
 <wi type="G" value="1722,13,"/><wi type="G" value="922,14,">carga</wi><rf>
-<citebib id="WEB"/> dice `reclamar autoridad´
-<citebib id="KJV2003"/> dice `haber sido gravosos´
+<citebib id="WEB"/> dice `reclamar autoridad,´
+<citebib id="KJV2003"/> dice `haber sido gravosos,´
 <citebib id="RVG2012"/> dice `podiamos serles carga.´
 </rf></rb>
 <t xml:lang="es">
@@ -530,7 +530,7 @@ every one of you, as a father does his own children,
 <citebib id="WEB"/> dice `imploramos,´
 <citebib id="KJV2003"/> dice `charged´ que podría traducirse como atraer,
 <citebib id="RVG2012"/> no la traduce.
-La palabra `μαρτυρουμενοι en otros versículos se ha traducido como dar
+La palabra `μαρτυρουμενοι´ en otros versículos se ha traducido como dar
 testimonio, y según <citebib id="Thayer-BLB"/> significa
 ser testigo, dar testimonio, dar buen reporte, conjurar, implorar.
 </rf></rb>
