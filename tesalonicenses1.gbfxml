@@ -807,8 +807,8 @@ concerning your faith;
 </t>
 <rb xml:lang="es"><wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="2257,13,">nuestro</wi>
-<wi type="G" value="4904,12,">compañero</wi>
-WEB<rf><citebib id="WEB"/> no dice esto, pero si está en <citebib id="KJV2003"/>
+<wi type="G" value="4904,12,">compañero</wi><rf>
+<citebib id="WEB"/> no dice esto, pero si está en <citebib id="KJV2003"/>
 y su concordancia Strong al TR, y en <citebib id="RVG2012"/>.
 </rf></rb>
 <t xml:lang="es">
@@ -876,7 +876,7 @@ have been in vain.
 <wi type="G" value="4722,5,">pude esperar</wi> más,
 <wi type="G" value="3992,6,">envié</wi>
 <wi type="G" value="1519,7,">para</wi>
-<wi type="G" value="3588,8,"/><wi type="G" value="1097,9,">conocer</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="1097,9,">conocer</wi> de
 <wi type="G" value="5216,12,">su</wi>
 <wi type="G" value="3588,10,"><wi type="G" value="4102,11,">fe</wi></wi>,
 <wi type="G" value="3381,13,">no fuera que</wi>
@@ -932,7 +932,7 @@ long to see you;
 <sv id="1_Tesalonicenses-3-7">
 for this cause, brothers, we were comforted over you in all our distress
 and affliction through your faith.
-<t xml:lang="es"><wi type="G" value="1223,1,">Por</wi>
+<t xml:lang="es"><wi type="G" value="1223,1,">por</wi>
 <wi type="G" value="5124,2,">esto</wi>
 <wi type="G" value="80,4,">hermanos</wi>,
 <wi type="G" value="3870,3,">fuimos confortados</wi>
