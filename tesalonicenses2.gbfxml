@@ -287,13 +287,35 @@ es
 
 <sv id="2_Tesalonicenses-1-12">
 that the name of our Lord Jesus
+<t xml:lang="es"><wi type="G" value="3704,1,">para que</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="3686,4,">el nombre</wi></wi>
+<wi type="G" value="2257,7,">de nuestro</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2962,6,">Señor</wi></wi>
+<wi type="G" value="2424,8,">Jesús</wi></t>
 <rb>
-<t xml:lang="es"/><rf>TR adds
-«Christ»<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="5547,9,">Cristo</wi></t><rf>TR adds
+«Christ»<t xml:lang="es"><citebib id="WEB"/> omite
+`Cristo,´ con nota al pie de página indicando
+que <citebib id="TR"/> si lo incluye.</t></rf>
 </rb>
- may be glorified in you, and you
-<wi type="T" value="P"/> in him, according to the
+may be glorified in you, and you
+in him, according to the
 grace of our God and the Lord Jesus Christ.
+<t xml:lang="es"><wi type="G" value="1740,2,">sea glorificado</wi>
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="5213,11,">ustedes</wi>,
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="5210,13,">ustedes</wi>
+<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="846,15,">ÉL</wi>,
+<wi type="G" value="2596,16,">de acuerdo</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="5485,18,">a la gracia</wi></wi>
+<wi type="G" value="2257,21,">de nuestro</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="2316,20,">Dios</wi></wi>
+<wi type="G" value="2532,22,">y</wi>
+<wi type="G" value="2962,23,">del Señor</wi>
+<wi type="G" value="2424,24,">Jesús</wi>
+<wi type="G" value="5547,25,">Cristo</wi>.</t>
 
 <cl/>
 
@@ -304,6 +326,22 @@ grace of our God and the Lord Jesus Christ.
 <sv id="2_Tesalonicenses-2-1">
 Now, brothers, concerning the coming of our Lord Jesus Christ, and
 our gathering together to him, we ask you
+<t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>,
+<wi type="G" value="5209,3,">les</wi>
+<wi type="G" value="2065,1,">pedimos</wi>,
+<wi type="G" value="80,4,">hermanos</wi>,
+<wi type="G" value="5228,5,">respecto</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="3952,7,">al advenimiento</wi></wi>
+<wi type="G" value="2257,10,">de nuestro</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2962,9,">Señor</wi></wi>
+<wi type="G" value="2424,11,">Jesús</wi>
+<wi type="G" value="5547,12,">Cristo</wi>,
+<wi type="G" value="2532,13,">y</wi> a
+<wi type="G" value="2257,14,">nuestra</wi>
+<wi type="G" value="1997,15,">reunión</wi>
+<wi type="G" value="1909,16,">con</wi>
+<wi type="G" value="846,17,">Él</wi>,
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-2">
