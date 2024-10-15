@@ -260,6 +260,7 @@ $$$II Thessalonians 2:1
 <w lemma="strong:G1997 lemma.TR:επισυναγωγης" morph="robinson:N-GSF" src="15">gathering together</w> 
 <w lemma="strong:G1909 lemma.TR:επ" morph="robinson:PREP" src="16">unto</w> 
 <w lemma="strong:G846 lemma.TR:αυτον" morph="robinson:P-ASM" src="17">him</w>,
+
 $$$II Thessalonians 2:2
 
 <w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-ASN" src="2"/>
@@ -290,6 +291,7 @@ $$$II Thessalonians 2:2
 <w lemma="strong:G3588 strong:G2250 lemma.TR:η lemma.TR:ημερα" morph="robinson:T-NSF robinson:N-NSF" src="27 28">the day</w> 
 <w lemma="strong:G3588 strong:G5547 lemma.TR:του lemma.TR:χριστου" morph="robinson:T-GSM robinson:N-GSM" src="29 30">of Christ</w> 
 <w lemma="strong:G1764 lemma.TR:ενεστηκεν" morph="robinson:V-RAI-3S" src="26">is at hand</w>.
+
 $$$II Thessalonians 2:3
 
 <w lemma="strong:G1818 lemma.TR:εξαπατηση" morph="robinson:V-AAS-3S" src="4" type="x-split-3187">Let</w> 
@@ -312,6 +314,7 @@ $$$II Thessalonians 2:3
 <w lemma="strong:G3588 strong:G5207 lemma.TR:ο lemma.TR:υιος" morph="robinson:T-NSM robinson:N-NSM" src="21 22">the son</w> 
 <w lemma="strong:G3588 strong:G684 lemma.TR:της lemma.TR:απωλειας" morph="robinson:T-GSF robinson:N-GSF" src="23 24">of perdition</w>;
 <w lemma="strong:G3361 lemma.TR:μη" morph="robinson:PRT-N" src="10"/>
+
 $$$II Thessalonians 2:4
 
 <w lemma="strong:G3588 strong:G480 lemma.TR:ο lemma.TR:αντικειμενος" morph="robinson:T-NSM robinson:V-PNP-NSM" src="1 2">Who opposeth</w> 

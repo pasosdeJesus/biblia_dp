@@ -349,24 +349,108 @@ not to be
 <wi type="T" value="P"/> quickly shaken
 in your mind, nor yet be troubled, either by spirit, or by word, or by letter
 as from us, saying that the day of Christ had come.
+<t xml:lang="es"><wi type="G" value="1519,1,">que</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="3361,3,">no</wi>
+los <wi type="G" value="4531,5,">muevan</wi>
+<wi type="G" value="5030,4,">repentinamente</wi>
+<wi type="G" value="575,7,">en</wi>
+<wi type="G" value="5209,6,">sus</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="3563,9,">mentes</wi></wi>,
+<wi type="G" value="3383,10,">ni</wi>
+<wi type="G" value="2360,11,">se perturben</wi>,
+<wi type="G" value="3383,12,">ni</wi>
+<wi type="G" value="1223,13,">por</wi>
+<wi type="G" value="4151,14,">espíritu</wi>,
+<wi type="G" value="3383,15,">ni</wi>
+<wi type="G" value="1223,16,">por</wi>
+<wi type="G" value="3056,17,">palabra</wi>,
+<wi type="G" value="3383,18,">ni</wi>
+<wi type="G" value="1223,19,">por</wi>
+<wi type="G" value="1992,20,">carta</wi>
+<wi type="G" value="5613,21,">como</wi>
+<wi type="G" value="1223,22,">de</wi>
+<wi type="G" value="2257,23,">nosotros</wi>,
+<wi type="G" value="5613,24,">como</wi>
+<wi type="G" value="3754,25,">que</wi>
+<wi type="G" value="3588,27,"><wi type="G" value="2250,28,">el día</wi></wi>
+<wi type="G" value="3588,29,"><wi type="G" value="5547,30,">de Cristo</wi></wi>
+<wi type="G" value="1764,26,">ha llegado</wi>.</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-3">
 Let no one deceive
 you in any way. For it will not be, unless the departure comes first, and the
 man of sin is revealed, the son of destruction,
+<t xml:lang="es"><wi type="G" value="1818,4,">Que</wi>
+<wi type="G" value="3361,1,"><wi type="G" value="5100,2,">nadie</wi></wi>
+<wi type="G" value="5209,3,">los</wi>
+<wi type="GC" value="4">engañe</wi>
+<wi type="G" value="2596,5,">de</wi>
+<wi type="G" value="5158,7,">forma</wi>
+<wi type="G" value="3367,6,">alguna</wi>.
+<wi type="G" value="3754,8,">Porque</wi>
+<wi type="G" value="3361,10,">no</wi> será,
+<wi type="G" value="1437,9,">a menos que</wi>
+<wi type="G" value="2064,11,">venga</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,12,"><wi type="G" value="646,13,">la
+apostasía</wi></wi><rf><citebib id="WEB"/> dice `la partida,´
+<citebib id="KJV2003"/> dice `la caída.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`αποστασια´ se traduce como a caída, deserción o apostasía.</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="4412,14,">primero</wi>,
+<wi type="G" value="2532,15,">y</wi> <wi type="G" value="3588,17,">que</wi>
+<wi type="G" value="444,18,">el hombre</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="266,20,">de pecado</wi></wi>
+<wi type="G" value="601,16,">se manifieste</wi>,
+<wi type="G" value="3588,21,"><wi type="G" value="5207,22,">el hijo</wi></wi>
+<wi type="G" value="3588,23,"><wi type="G" value="684,24,">de destrucción</wi></wi>.
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-4">
 he who opposes and
 exalts himself against all that is called God or that is worshiped; so that
 he sits as God in the temple of God, setting himself up as God.
+<t xml:lang="es"><wi type="G" value="3588,1,">el que</wi>
+<wi type="G" value="480,2,">se opone</wi>
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="5229,4,">se exalta</wi>
+<wi type="G" value="1909,5,">contra</wi>
+<wi type="G" value="3956,6,">todo</wi>
+<wi type="G" value="3588,7,">lo que</wi>
+<wi type="G" value="3004,8,">es llamado</wi>
+<wi type="G" value="2316,9,">Dios</wi>
+<wi type="G" value="2228,10,">o</wi>
+<wi type="G" value="4574,11,">que es alabado</wi>;
+<wi type="G" value="5620,12,">tanto que</wi>
+<wi type="G" value="846,13,">él</wi>
+<wi type="G" value="2523,21,">se sentará</wi>
+<wi type="G" value="5613,19,">como</wi>
+<wi type="G" value="2316,20,">Dios</wi>
+<wi type="G" value="1519,14,">en</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="3485,16,">el templo</wi></wi>
+<wi type="G" value="3588,17,"><wi type="G" value="2316,18,">de Dios</wi></wi>,
+<wi type="G" value="584,22,">actuando</wi>
+<wi type="G" value="3754,24,">como que</wi>
+<wi type="G" value="1438,23,">él</wi>
+<wi type="G" value="2076,25,">es</wi>
+<wi type="G" value="2316,26,">Dios</wi>.</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-5">
-Don´t
-you
-<wi type="T" value="P"/> remember that, when I was still with you, I told you these things?
+Don´t you
+remember that, when I was still with you, I told you these things?
+<t xml:lang="es">¿<wi type="G" value="3756,1,">No</wi>
+<wi type="G" value="3421,2,">recuerdan</wi>
+<wi type="G" value="3754,3,">que</wi>,
+<wi type="G" value="5607,5,">cuando estaba</wi>
+<wi type="G" value="2089,4,">aún</wi>
+<wi type="G" value="4314,6,">con</wi>
+<wi type="G" value="5209,7,">ustedes</wi>,
+<wi type="G" value="5213,10,">les</wi>
+<wi type="G" value="3004,9,">dije</wi>
+<wi type="G" value="5023,8,">estas cosas</wi>?</t>
 
 </sv>
 
