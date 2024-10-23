@@ -573,9 +573,17 @@ error, that they should believe a lie;
 <wi type="G" value="5124,3,">de esto</wi>,
 <wi type="G" value="3588,6,"><wi type="G" value="2316,7,">Dios</wi></wi>
 <wi type="G" value="846,5,">les</wi>
-<wi type="G" value="3992,4,">enviará</wi>
-<wi type="G" value="1753,8,">una operación</wi>
-<wi type="G" value="4106,9,">de error</wi>,
+<wi type="G" value="3992,4,">enviará</wi> </t>
+<rb xml:lang="es"><wi type="G" value="1753,8,">una operación</wi>
+<wi type="G" value="4106,9,">de error</wi><rf>
+<citebib id="WEB"/> dice `obra de error,´
+<citebib id="KJV2003"/> dice `un fuerte delirio,´
+<citebib id="RVG2012"/> dice `operación de error.´
+Según <citebib id="Thayer-BLB"/> la palabra
+griega `πλανης´ se traduce como error, engañar, delirio y
+la palabra girega `ενεργειαν,´ se traduce como
+operación, obra y fuerte. </rf></rb>
+<t xml:lang="es">,
 <wi type="G" value="1519,10,">para que</wi>
 <wi type="G" value="846,13,">ellos</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="4100,12,">crean</wi>
@@ -604,12 +612,53 @@ But
 we are bound to always give thanks to God for you, brothers loved by the
 Lord, because God chose you from the beginning for salvation through
 sanctification of the Spirit and belief in the truth;
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="2249,1,">nosotros</wi>
+<wi type="G" value="3784,3,">debemos</wi>
+<wi type="G" value="2168,4,">dar gracias</wi>
+<wi type="G" value="3842,7,">siempre</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">a Dios</wi></wi>
+<wi type="G" value="4012,8,">por</wi>
+<wi type="G" value="5216,9,">ustedes</wi>,
+<wi type="G" value="80,10,">hermanos</wi>
+<wi type="G" value="25,11,">amados</wi>
+<wi type="G" value="5259,12,">del</wi>
+<wi type="G" value="2962,13,">Señor</wi>,
+<wi type="G" value="3754,14,">porque</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="2316,18,">Dios</wi></wi>
+<wi type="G" value="5209,16,">los</wi>
+<wi type="G" value="138,15,">eligió</wi>
+<wi type="G" value="575,19,">desde</wi>
+<wi type="G" value="746,20,">el comienzo</wi>
+<wi type="G" value="1519,21,">para</wi>
+<wi type="G" value="4991,22,">salvación</wi>
+<wi type="G" value="1722,23,">mediante</wi>
+<wi type="G" value="38,24,">la santificación</wi>
+<wi type="G" value="4151,25,">del Espíritu</wi>
+<wi type="G" value="2532,26,">y</wi>
+<wi type="G" value="4102,27,">la fe</wi> en
+<wi type="G" value="225,28,">la verdad</wi>;
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-14">
 to which he
 called you through our Good News, for the obtaining of the glory of our Lord
 Jesus Christ.
+<t xml:lang="es"><wi type="G" value="1519,1,">para</wi>
+<wi type="G" value="3739,2,">lo cual</wi>
+i<wi type="G" value="5209,4,">los</wi>
+<wi type="G" value="2564,3,">llamo</wi>
+<wi type="G" value="1223,5,">mediante</wi>
+<wi type="G" value="2257,8,">nuestro</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2098,7,">evangelio</wi></wi>,
+<wi type="G" value="1519,9,">para</wi>
+<wi type="G" value="4047,10,">obtener</wi>
+<wi type="G" value="1391,11,">la gloria</wi>
+<wi type="G" value="2257,14,">de nuestro</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2962,13,">Señor</wi></wi>
+<wi type="G" value="2424,15,">Jesús</wi>
+<wi type="G" value="5547,16,">Cristo</wi>.</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-15">
