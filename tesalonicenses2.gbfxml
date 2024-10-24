@@ -664,13 +664,54 @@ i<wi type="G" value="5209,4,">los</wi>
 <sv id="2_Tesalonicenses-2-15">
 So then, brothers, stand firm, and hold the traditions
 which you
-<wi type="T" value="P"/> were taught by us, whether by word, or by letter.
+ were taught by us, whether by word, or by letter.
+<t xml:lang="es"><wi type="G" value="686,1,">Así</wi>
+<wi type="G" value="3767,2,">entonces</wi>,
+<wi type="G" value="80,3,">hermanos</wi>,
+<wi type="G" value="4739,4,">permanezcan firmes</wi>,
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="2902,6,">guarden</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="3862,8,">la tradición</wi></wi>
+<wi type="G" value="3739,9,">en la que</wi>
+<wi type="G" value="1321,10,">fueron enseñados</wi>,
+<wi type="G" value="1535,11,">bien</wi>
+<wi type="G" value="1223,12,">por</wi>
+<wi type="G" value="3056,13,">palabra</wi>
+<wi type="G" value="1535,14,">o</wi>
+<wi type="G" value="1223,15,">por</wi>
+<wi type="G" value="1992,16,">carta</wi>
+<wi type="G" value="2257,17,">nuestra</wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="2_Tesalonicenses-2-16">
 Now our Lord Jesus Christ himself, and God our Father, who loved us and
 gave us eternal comfort and good hope through grace,
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="846,1,">el mismo</wi>,
+<wi type="G" value="2257,5,">nuestro</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2962,4,">Señor</wi></wi>
+<wi type="G" value="2424,6,">Jesús</wi>
+<wi type="G" value="5547,7,">Cristo</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="2316,10,">Dios</wi></wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="3962,12,">Padre</wi>
+<wi type="G" value="2257,13,">nuestro</wi>,
+<wi type="G" value="3588,14,">quien</wi>
+<wi type="G" value="2248,16,">nos</wi>
+<wi type="G" value="25,15,">amó</wi>
+<wi type="G" value="2532,17,">y</wi> nos
+<wi type="G" value="1325,18,">ha dado</wi>
+<wi type="G" value="3874,19,">consuelo</wi>
+<wi type="G" value="166,20,">eterno</wi>
+<wi type="G" value="2532,21,">y</wi>
+<wi type="G" value="18,23,">buena</wi>
+<wi type="G" value="1680,22,">esperanza</wi>
+<wi type="G" value="1722,24,">mediante</wi>
+<wi type="G" value="5485,25,">la gracia</wi>,
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-17">
