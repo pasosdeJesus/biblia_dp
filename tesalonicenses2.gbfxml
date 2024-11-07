@@ -941,23 +941,52 @@ should imitate us.
 For even
 when we were with you, we commanded you this: «If anyone will not work,
 neither let him eat.»
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2532,1,">incluso</wi>
+<wi type="G" value="3753,3,">cuando</wi>
+<wi type="G" value="1510,4,">estuvimos</wi>
+<wi type="G" value="4314,5,">con</wi>
+<wi type="G" value="5209,6,">ustedes</wi>,
+<wi type="G" value="5213,9,">les</wi>
+<wi type="G" value="3853,8,">mandamos</wi>
+<wi type="G" value="5124,7,">esto</wi>:
+<wi type="G" value="3754,10,">que</wi>
+«<wi type="G" value="1487,11,">Si</wi>
+<wi type="G" value="5100,12,">alguno</wi>
+<wi type="G" value="3756,13,">no</wi>
+<wi type="G" value="2309,14,">quiere</wi>
+<wi type="G" value="2038,15,">trabajar</wi>,
+que <wi type="G" value="3366,16,">no</wi>
+<wi type="G" value="2068,17,">coma</wi>.»
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-3-11">
 For we hear of some who walk among you in
 rebellion, who don´t work at all, but are busybodies.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="191,1,">escuchamos</wi>
+que <wi type="G" value="5100,3,">algunos</wi>
+<wi type="G" value="1722,5,">entre</wi>
+<wi type="G" value="5213,6,">ustedes</wi>
+<wi type="G" value="4043,4,">caminan</wi>
+<wi type="G" value="814,7,">en rebelión</wi>, que
+<wi type="G" value="3367,8,">no</wi>
+<wi type="G" value="2038,9,">trabajan</wi>
+<wi type="G" value="235,10,">sino</wi> que
+<wi type="G" value="4020,11,">son desocupados</wi>.</t>
 </sv>
 
 <sv id="2_Tesalonicenses-3-12">
 Now those who are
 that way, we command and exhort in the Lord Jesus Christ, that with quietness
 they work, and eat their own bread.
+</sv>
+</cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="2_Tesalonicenses-3-13">
-But you
-<wi type="T" value="P"/>, brothers, don´t be weary in doing well.
+But you, brothers, don´t be weary in doing well.
 </sv>
 
 <sv id="2_Tesalonicenses-3-14">
