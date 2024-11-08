@@ -978,9 +978,27 @@ que <wi type="G" value="5100,3,">algunos</wi>
 </sv>
 
 <sv id="2_Tesalonicenses-3-12">
-Now those who are
-that way, we command and exhort in the Lord Jesus Christ, that with quietness
-they work, and eat their own bread.
+Now those who are that way, we command and exhort in the
+Lord Jesus Christ, that with quietness they work, and eat their own
+bread.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi> 
+<wi type="G" value="5108,3,">a aquellos</wi> 
+<wi type="G" value="3853,4,">les ordenamos</wi> 
+<wi type="G" value="2532,5,">y</wi> 
+<wi type="G" value="3870,6,">animamos</wi>
+<wi type="G" value="1223,7,">en</wi> 
+<wi type="G" value="2257,10,">nuestro</wi> 
+<wi type="G" value="3588,8,"><wi type="G" value="2962,9,">Señor</wi></wi> 
+<wi type="G" value="2424,11,">Jesús</wi> 
+<wi type="G" value="5547,12,">Cristo</wi>, 
+<wi type="G" value="2443,13,">que</wi> 
+<wi type="G" value="3326,14,">con</wi> 
+<wi type="G" value="2271,15,">silencio</wi> 
+<wi type="G" value="2038,16,">trabajen</wi>, y 
+<wi type="G" value="2068,20,">coman</wi> 
+<wi type="G" value="3588,17,"/><wi type="G" value="1438,18,">su propio</wi> 
+<wi type="G" value="740,19,">pan</wi>.
+</t>
 </sv>
 </cm>
 
