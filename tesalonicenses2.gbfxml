@@ -981,22 +981,22 @@ que <wi type="G" value="5100,3,">algunos</wi>
 Now those who are that way, we command and exhort in the
 Lord Jesus Christ, that with quietness they work, and eat their own
 bread.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi> 
-<wi type="G" value="5108,3,">a aquellos</wi> 
-<wi type="G" value="3853,4,">les ordenamos</wi> 
-<wi type="G" value="2532,5,">y</wi> 
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi>
+<wi type="G" value="5108,3,">a aquellos</wi>
+<wi type="G" value="3853,4,">les ordenamos</wi>
+<wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="3870,6,">animamos</wi>
-<wi type="G" value="1223,7,">en</wi> 
-<wi type="G" value="2257,10,">nuestro</wi> 
-<wi type="G" value="3588,8,"><wi type="G" value="2962,9,">Señor</wi></wi> 
-<wi type="G" value="2424,11,">Jesús</wi> 
-<wi type="G" value="5547,12,">Cristo</wi>, 
-<wi type="G" value="2443,13,">que</wi> 
-<wi type="G" value="3326,14,">con</wi> 
-<wi type="G" value="2271,15,">silencio</wi> 
-<wi type="G" value="2038,16,">trabajen</wi>, y 
-<wi type="G" value="2068,20,">coman</wi> 
-<wi type="G" value="3588,17,"/><wi type="G" value="1438,18,">su propio</wi> 
+<wi type="G" value="1223,7,">en</wi>
+<wi type="G" value="2257,10,">nuestro</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2962,9,">Señor</wi></wi>
+<wi type="G" value="2424,11,">Jesús</wi>
+<wi type="G" value="5547,12,">Cristo</wi>,
+<wi type="G" value="2443,13,">que</wi>
+<wi type="G" value="3326,14,">con</wi>
+<wi type="G" value="2271,15,">silencio</wi>
+<wi type="G" value="2038,16,">trabajen</wi>, y
+<wi type="G" value="2068,20,">coman</wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="1438,18,">su propio</wi>
 <wi type="G" value="740,19,">pan</wi>.
 </t>
 </sv>
@@ -1005,13 +1005,36 @@ bread.
 <cm>
 <sv id="2_Tesalonicenses-3-13">
 But you, brothers, don´t be weary in doing well.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="5210,1,">ustedes</wi>
+<wi type="G" value="80,3,">hermanos</wi>,
+<wi type="G" value="3361,4,">no</wi>
+<wi type="G" value="1573,5,">se cansen</wi>
+<wi type="G" value="2569,6,">de obrar bien</wi>.
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-3-14">
-If any man
-doesn´t obey our word in this letter, note that man, that you
-<wi type="T" value="P"/> have no
-company with him, to the end that he may be ashamed.
+If any man doesn´t obey our word in this letter, note that man, that you
+have no company with him, to the end that he may be ashamed.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="5100,3,">alguno</wi>
+<wi type="G" value="3756,4,">no</wi>
+<wi type="G" value="5219,5,">obedece</wi>
+<wi type="G" value="2257,8,">nuestra</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="3056,7,">palabra</wi></wi>
+<wi type="G" value="1223,9,">de</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="1992,11,">esta carta</wi></wi>,
+<wi type="G" value="4593,13,">observen a</wi>
+<wi type="G" value="5126,12,">esa persona</wi>
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="3361,15,">no</wi>
+<wi type="G" value="4874,16,">tengan compañía con</wi>
+<wi type="G" value="846,17,">él</wi>,
+<wi type="G" value="2443,18,">para que</wi>
+<wi type="G" value="1788,19,">se avergüence</wi>.
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-3-15">
