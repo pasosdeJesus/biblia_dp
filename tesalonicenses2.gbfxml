@@ -1078,19 +1078,44 @@ ways. The Lord be with you all.
 <sv id="2_Tesalonicenses-3-17">
 The greeting of me, Paul, with my own hand, which is the sign in every
 letter: this is how I write.
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="783,2,">Saludo</wi></wi>
+<wi type="G" value="3972,6,">de Pablo</wi>,
+<wi type="G" value="3588,3,"/><wi type="G" value="1699,4,">con mi propia</wi>
+<wi type="G" value="5495,5,">mano</wi>,
+<wi type="G" value="3739,7,">que</wi>
+<wi type="G" value="2076,8,">es</wi>
+<wi type="G" value="4592,9,">la firma</wi>
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="3956,11,">toda</wi>
+<wi type="G" value="1992,12,">carta</wi>:
+<wi type="G" value="3779,13,">así</wi>
+<wi type="G" value="1125,14,">escribo</wi>.
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-3-18">
 The grace of our Lord Jesus Christ be with
 you all. Amen.
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="5485,2,">La gracia</wi></wi>
+<wi type="G" value="2257,5,">de nuestro</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2962,4,">Señor</wi></wi>
+<wi type="G" value="2424,6,">Jesús</wi>
+<wi type="G" value="5547,7,">Cristo</wi> sea
+<wi type="G" value="3326,8,">con</wi>
+<wi type="G" value="3956,9,">todos</wi>
+<wi type="G" value="5216,10,">ustedes</wi>.
+<wi type="G" value="281,11,">Amén</wi></t>
+<rb xml:lang="es">.<rf><citebib id="KJV2003"/> agrega con marcado Strong el
+siguiente colofón:
+`La segunda epístola a los Tesalonicenses fue escrita en Atenas.´</rf></rb>
 
 <cl/>
 
-
 <cl/>
 
-
-</sv></cm></sc>
+</sv>
+</cm>
+</sc>
 </sb>
 
 
