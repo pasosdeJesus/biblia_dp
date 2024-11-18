@@ -20,9 +20,9 @@ in God our Father, and the Lord Jesus Christ:
 <wi type="G" value="1722,9,">en</wi>
 <wi type="G" value="2316,10,">Dios</wi>
 <wi type="G" value="2257,12,">nuestro</wi>
-<wi type="G" value="3962,11,">Padre</wi>,
+<wi type="G" value="3962,11,">Padre</wi>
 <wi type="G" value="2532,13,">y</wi>
-<wi type="G" value="2962,14,">el Señor</wi>
+en <wi type="G" value="2962,14,">el Señor</wi>
 <wi type="G" value="2424,15,">Jesús</wi>
 <wi type="G" value="5547,16,">Cristo</wi>:</t>
 </sv>
@@ -65,7 +65,8 @@ traducirse correctamente como  «hermanos y hermanas.»</t>
  even as it is
 appropriate, because your faith grows exceedingly, and the love of each and
 every one of you towards one another abounds;
-<t xml:lang="es"><wi type="G" value="2531,9,">como</wi>
+<t xml:lang="es">
+<wi type="G" value="2531,9,">como</wi>
 <wi type="G" value="2076,11,">es</wi>
 <wi type="G" value="514,10,">apropiado</wi>,
 <wi type="G" value="3754,12,">porque</wi>
@@ -146,7 +147,7 @@ afflict you,
 <wi type="G" value="2347,9,">aflicción</wi>
 a <wi type="G" value="3588,6,">los que</wi>
 <wi type="G" value="5209,8,">los</wi>
-<wi type="G" value="2346,7,">afligieron</wi>.
+<wi type="G" value="2346,7,">afligieron</wi>,
 </t>
 </sv>
 
@@ -157,8 +158,8 @@ fire,
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="5213,2,">a ustedes</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="2346,4,">que están afligidos</wi>
-<wi type="G" value="425,5,">dar alivio</wi>
-<wi type="G" value="3326,6,">con</wi>
+<wi type="G" value="425,5,">darles alivio</wi>
+<wi type="G" value="3326,6,">junto con</wi>
 <wi type="G" value="2257,7,">nosotros</wi>,
 <wi type="G" value="1722,8,">cuando</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="2962,12,">el Señor</wi></wi>
@@ -173,26 +174,27 @@ fire,
 <citebib id="WEB"/> dice `sus poderosos ángeles´,
 <citebib id="RVG2012"/> dice `los ángeles de su potencia´.</rf></rb>
 <t xml:lang="es">,</t>
-<rb xml:lang="es"><rf><citebib id="WEB"/> deja al final de este versículo
-`en llamas de fuego,´ pero <citebib id="KJV2003"/> y <citebib id="RVG2012"/>
-lo ponen al comienzo del siguiente versículo.</rf></rb>
-<t xml:lang="es"> </t>
 </sv>
 
 <sv id="2_Tesalonicenses-1-8">
 giving vengeance to those who don´t know God, and to those who
 don´t obey the Good News of our Lord Jesus,
-<t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
+
+<rb xml:lang="es"><wi type="G" value="1722,1,">en</wi>
 <wi type="G" value="5395,3,">llamas</wi>
-<wi type="G" value="4442,2,">de fuego</wi>,
-<wi type="G" value="1325,4,">tomando</wi>
+<wi type="G" value="4442,2,">de fuego</wi><rf>
+<citebib id="WEB"/> deja al final del versículo anterior
+`en llamas de fuego,´ pero <citebib id="KJV2003"/> y <citebib id="RVG2012"/>
+lo ponen al comienzo de este.</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="1325,4,">dando</wi>
 <wi type="G" value="1557,5,">venganza a</wi>
 <wi type="G" value="3588,6,">los que</wi>
 <wi type="G" value="3361,7,">no</wi>
 <wi type="G" value="1492,8,">conocen</wi>
 <wi type="G" value="2316,9,">a Dios</wi>,
 <wi type="G" value="2532,10,">y</wi>
-<wi type="G" value="3588,11,">los que</wi>
+<wi type="G" value="3588,11,">a los que</wi>
 <wi type="G" value="3361,12,">no</wi>
 <wi type="G" value="5219,13,">obedecen</wi>
 <wi type="G" value="3588,14,"><wi type="G" value="2098,15,">el evangelio</wi></wi>
@@ -202,7 +204,7 @@ don´t obey the Good News of our Lord Jesus,
 <rb xml:lang="es"><wi type="G" value="5547,20,">Cristo</wi><rf>
 <citebib id="WEB"/> no dice `Cristo´, pero si está en
 <citebib id="TR-BLB"/>, <citebib id="KJV2003"/> y <citebib id="RVG2012"/></rf></rb>
-<t xml:lang="es">.
+<t xml:lang="es">,
 </t>
 </sv>
 
@@ -267,7 +269,7 @@ es
 <wi type="G" value="3842,5,">siempre</wi>
 <wi type="G" value="4012,6,">por</wi>
 <wi type="G" value="5216,7,">ustedes</wi>,
-<wi type="G" value="2443,8,">que</wi>
+<wi type="G" value="2443,8,">para que</wi>
 <wi type="G" value="2257,15,">nuestro</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="2316,14,">Dios</wi></wi>
 <wi type="G" value="5209,9,">los</wi>
@@ -293,7 +295,8 @@ that the name of our Lord Jesus
 <wi type="G" value="3588,5,"><wi type="G" value="2962,6,">Señor</wi></wi>
 <wi type="G" value="2424,8,">Jesús</wi></t>
 <rb>
-<t xml:lang="es"><wi type="G" value="5547,9,">Cristo</wi></t><rf>TR adds
+<t xml:lang="es">
+<wi type="G" value="5547,9,">Cristo</wi></t><rf>TR adds
 «Christ»<t xml:lang="es"><citebib id="WEB"/> omite
 `Cristo,´ con nota al pie de página indicando
 que <citebib id="TR"/> si lo incluye.</t></rf>
@@ -307,7 +310,7 @@ grace of our God and the Lord Jesus Christ.
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="5210,13,">ustedes</wi>
 <wi type="G" value="1722,14,">en</wi>
-<wi type="G" value="846,15,">ÉL</wi>,
+<wi type="G" value="846,15,">Él</wi>,
 <wi type="G" value="2596,16,">de acuerdo</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="5485,18,">a la gracia</wi></wi>
 <wi type="G" value="2257,21,">de nuestro</wi>
