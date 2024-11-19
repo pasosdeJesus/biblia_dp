@@ -354,7 +354,7 @@ in your mind, nor yet be troubled, either by spirit, or by word, or by letter
 as from us, saying that the day of Christ had come.
 <t xml:lang="es"><wi type="G" value="1519,1,">que</wi>
 <wi type="G" value="3588,2,"/><wi type="G" value="3361,3,">no</wi>
-los <wi type="G" value="4531,5,">muevan</wi>
+se <wi type="G" value="4531,5,">muevan</wi>
 <wi type="G" value="5030,4,">repentinamente</wi>
 <wi type="G" value="575,7,">en</wi>
 <wi type="G" value="5209,6,">sus</wi>
@@ -407,7 +407,7 @@ Según <citebib id="Thayer-BLB"/> la palabra griega
 <wi type="G" value="3588,19,"><wi type="G" value="266,20,">de pecado</wi></wi>
 <wi type="G" value="601,16,">se manifieste</wi>,
 <wi type="G" value="3588,21,"><wi type="G" value="5207,22,">el hijo</wi></wi>
-<wi type="G" value="3588,23,"><wi type="G" value="684,24,">de destrucción</wi></wi>.
+<wi type="G" value="3588,23,"><wi type="G" value="684,24,">de destrucción</wi></wi>,
 </t>
 </sv>
 
@@ -513,7 +513,7 @@ se puede traducir como corriente de aire, aliento, espíritu.
 <wi type="G" value="846,14,">de su</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="4750,13,">boca</wi></wi>,
 <wi type="G" value="2532,15,">y</wi>
-<wi type="G" value="2673,16,">destruirá</wi>
+lo <wi type="G" value="2673,16,">destruirá</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="3588,17,"><wi type="G"
 value="2015,18,">con el brillo</wi></wi><rf><citebib id="WEB"/> dice
@@ -524,7 +524,7 @@ traduce como manifestación, especialmente advenimiento de Cristo, aparición,
 brillo.
 </rf></rb>
 <wi type="G" value="846,21,">de su</wi>
-<wi type="G" value="3588,19,"><wi type="G" value="3952,20,">advenimiento</wi></wi>.</t>
+<wi type="G" value="3588,19,"><wi type="G" value="3952,20,">advenimiento</wi></wi>;</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-9">
@@ -543,7 +543,8 @@ and signs and lying wonders,
 <wi type="G" value="4592,13,">signos</wi>
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="5059,15,">milagros</wi>
-<wi type="G" value="5579,16,">de la mentira</wi>.</t>
+<wi type="G" value="5579,16,">de mentira</wi>,
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-10">
@@ -650,7 +651,7 @@ called you through our Good News, for the obtaining of the glory of our Lord
 Jesus Christ.
 <t xml:lang="es"><wi type="G" value="1519,1,">para</wi>
 <wi type="G" value="3739,2,">lo cual</wi>
-i<wi type="G" value="5209,4,">los</wi>
+<wi type="G" value="5209,4,">los</wi>
 <wi type="G" value="2564,3,">llamo</wi>
 <wi type="G" value="1223,5,">mediante</wi>
 <wi type="G" value="2257,8,">nuestro</wi>
@@ -680,7 +681,7 @@ which you
 <wi type="G" value="1535,11,">bien</wi>
 <wi type="G" value="1223,12,">por</wi>
 <wi type="G" value="3056,13,">palabra</wi>
-<wi type="G" value="1535,14,">o</wi>
+<wi type="G" value="1535,14,">o bien</wi>
 <wi type="G" value="1223,15,">por</wi>
 <wi type="G" value="1992,16,">carta</wi>
 <wi type="G" value="2257,17,">nuestra</wi>.
