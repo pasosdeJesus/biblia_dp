@@ -856,11 +856,13 @@ que <wi type="G" value="5209,13,">se</wi>
 <citebib id="WEB"/> dice `en rebelión,´
 <citebib id="KJV2003"/> dice `desordenamente,´
 <citebib id="RVG2012"/> dice `fuera de orden.´
- </rf></rb>
+Según <citebib id="Thayer-BLB"/> la palabra griega `ατακτως´ se traduce
+como desordenadamente, desviado del orden prescrito.
+</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="3361,20,">no</wi>
-<wi type="G" value="2596,21,">conforme</wi> </t>
+<wi type="G" value="2596,21,">conforme a</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,22,"><wi type="G" value="3862,23,">la
  doctrina</wi></wi><rf>
 <citebib id="WEB"/> dice `tradición,´
@@ -890,7 +892,7 @@ ourselves rebelliously among you,
 <wi type="G" value="3756,9,">no</wi>
 <wi type="G" value="812,10,">fuimos desordenado</wi>
 <wi type="G" value="1722,11,">entre</wi>
-<wi type="G" value="5213,12,">ustedes</wi>.</t>
+<wi type="G" value="5213,12,">ustedes</wi>,</t>
 </sv>
 
 <sv id="2_Tesalonicenses-3-8">
@@ -998,7 +1000,7 @@ bread.
 <wi type="G" value="2443,13,">que</wi>
 <wi type="G" value="3326,14,">con</wi>
 <wi type="G" value="2271,15,">silencio</wi>
-<wi type="G" value="2038,16,">trabajen</wi>, y
+<wi type="G" value="2038,16,">trabajen</wi> y
 <wi type="G" value="2068,20,">coman</wi>
 <wi type="G" value="3588,17,"/><wi type="G" value="1438,18,">su propio</wi>
 <wi type="G" value="740,19,">pan</wi>.
@@ -1035,7 +1037,7 @@ have no company with him, to the end that he may be ashamed.
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="3361,15,">no</wi>
 <wi type="G" value="4874,16,">tengan compañía con</wi>
-<wi type="G" value="846,17,">él</wi>,
+<wi type="G" value="846,17,">esta</wi>,
 <wi type="G" value="2443,18,">para que</wi>
 <wi type="G" value="1788,19,">se avergüence</wi>.
 </t>
