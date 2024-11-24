@@ -20,10 +20,22 @@ con la cual se ha comparado -->
 <cm>
 <sv id="Timoteo1-1-1">
 Paul, an apostle of Christ Jesus according to the commandment of
-God our Savior, and Christ Jesus our hope; 
-<t xml:lang="es">Pablo, un apostol de Jesucristo, de acuerdo al
-mandamiento de Dios nuestro Salvador, y de Jesucristo nuestra
-esperanza; </t>
+God our Savior, and Christ Jesus our hope;
+<t xml:lang="es"><wi type="G" value="3972,1,">Pablo</wi>,
+<wi type="G" value="652,2,">apóstol</wi>
+<wi type="G" value="2424,3,">de Jesús</wi>,
+<wi type="G" value="5547,4,">Cristo</wi>
+<wi type="G" value="2596,5,">por</wi>
+<wi type="G" value="2003,6,">mandamiento</wi>
+<wi type="G" value="2316,7,">de Dios</wi>
+<wi type="G" value="2257,9,">nuestro</wi>
+<wi type="G" value="4990,8,">Salvador</wi>,
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="2962,11,">del Señor</wi>
+<wi type="G" value="2424,12,">Jesús</wi>
+<wi type="G" value="5547,13,">Cristo</wi>
+<wi type="G" value="2257,16,">nuestra</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="1680,15,">esperanza</wi></wi>; </t>
 </sv>
 <sv id="Timoteo1-1-2">
 to Timothy, my true child in
@@ -47,11 +59,11 @@ disputes, rather than God´s stewardship, which is in faith
 		<sv id="Timoteo1-1-5">
 but the end
 of the charge is love, out of a pure heart and a good conscience and
-unfeigned faith; 
+unfeigned faith;
 </sv>
 		<sv id="Timoteo1-1-6">
 from which things some, having missed the mark, have
-turned aside to vain talking; 
+turned aside to vain talking;
 </sv>
 		<sv id="Timoteo1-1-7">
 desiring to be teachers of the law, though
@@ -59,13 +71,13 @@ they understand neither what they say, nor about what they strongly affirm.
 
 </sv>
 		<sv id="Timoteo1-1-8">
-But we know that the law is good, if a man uses it lawfully, 
+But we know that the law is good, if a man uses it lawfully,
 </sv>
 		<sv id="Timoteo1-1-9">
 as
 knowing this, that law is not made for a righteous man, but for the lawless
 and insubordinate, for the ungodly and sinners, for the unholy and profane,
-for murderers of fathers and murderers of mothers, for manslayers, 
+for murderers of fathers and murderers of mothers, for manslayers,
 </sv>
 		<sv id="Timoteo1-1-10">
 for
@@ -75,7 +87,7 @@ perjurers, and for any other thing contrary to the sound doctrine;
 </sv>
 		<sv id="Timoteo1-1-11">
 according to the Good News of the glory of the blessed God, which was
-committed to my trust. 
+committed to my trust.
 </sv>
 		<sv id="Timoteo1-1-12">
 And I thank him who enabled me, Christ Jesus our
@@ -84,22 +96,22 @@ Lord, because he counted me faithful, appointing me to service;
 </sv>
 		<sv id="Timoteo1-1-13">
 although I was before a blasphemer, a persecutor, and insolent.
-However, I obtained mercy, because I did it ignorantly in unbelief. 
+However, I obtained mercy, because I did it ignorantly in unbelief.
 </sv>
 		<sv id="Timoteo1-1-14">
 The
 grace of our Lord abounded exceedingly with faith and love which is in Christ
-Jesus. 
+Jesus.
 </sv>
 		<sv id="Timoteo1-1-15">
 The saying is faithful and worthy of all acceptance, that Christ
-Jesus came into the world to save sinners; of whom I am chief. 
+Jesus came into the world to save sinners; of whom I am chief.
 </sv>
 		<sv id="Timoteo1-1-16">
 However,
 for this cause I obtained mercy, that in me first, Jesus Christ might display
 all his patience, for an example of those who were going to believe in him
-for eternal life. 
+for eternal life.
 </sv>
 		<sv id="Timoteo1-1-17">
 Now to the King eternal, immortal, invisible, to God
@@ -110,11 +122,11 @@ who alone is wise, be honor and glory forever and ever. Amen.
 <sv id="Timoteo1-1-18">
 This charge I commit to you, my child Timothy, according to the
 prophecies which led the way to you, that by them you may wage the good
-warfare; 
+warfare;
 </sv>
 		<sv id="Timoteo1-1-19">
 holding faith and a good conscience; which some having thrust
-away made a shipwreck concerning the faith; 
+away made a shipwreck concerning the faith;
 </sv>
 		<sv id="Timoteo1-1-20">
 of whom is Hymenaeus and
@@ -129,28 +141,28 @@ blaspheme.
 <cm>
 <sv id="Timoteo1-2-1">
 I exhort therefore, first of all, that petitions, prayers,
-intercessions, and givings of thanks, be made for all men: 
+intercessions, and givings of thanks, be made for all men:
 </sv>
 		<sv id="Timoteo1-2-2">
 for kings and
 all who are in high places; that we may lead a tranquil and quiet life in all
-godliness and reverence. 
+godliness and reverence.
 </sv>
 		<sv id="Timoteo1-2-3">
 For this is good and acceptable in the sight of
-God our Savior; 
+God our Savior;
 </sv>
 		<sv id="Timoteo1-2-4">
 who desires all people to be saved and come to full
-knowledge of the truth. 
+knowledge of the truth.
 </sv>
 		<sv id="Timoteo1-2-5">
 For there is one God, and one mediator between
-God and men, the man Christ Jesus, 
+God and men, the man Christ Jesus,
 </sv>
 		<sv id="Timoteo1-2-6">
 who gave himself as a ransom for all;
-the testimony in its own times; 
+the testimony in its own times;
 </sv>
 		<sv id="Timoteo1-2-7">
 to which I was appointed a preacher and
@@ -161,32 +173,32 @@ Gentiles in faith and truth.
 
 <sv id="Timoteo1-2-8">
 I desire therefore that the men in every place pray, lifting up holy
-hands without wrath and doubting. 
+hands without wrath and doubting.
 </sv>
 		<sv id="Timoteo1-2-9">
 In the same way, that women also adorn
 themselves in decent clothing, with modesty and propriety; not just with
-braided hair, gold, pearls, or expensive clothing; 
+braided hair, gold, pearls, or expensive clothing;
 </sv>
 		<sv id="Timoteo1-2-10">
 but (which becomes
-women professing godliness) with good works. 
+women professing godliness) with good works.
 </sv>
 		<sv id="Timoteo1-2-11">
 Let a woman learn in
-quietness with all subjection. 
+quietness with all subjection.
 </sv>
 		<sv id="Timoteo1-2-12">
 But I don´t permit a woman to teach, nor
-to exercise authority over a man, but to be in quietness. 
+to exercise authority over a man, but to be in quietness.
 </sv>
 		<sv id="Timoteo1-2-13">
 For Adam was
-first formed, then Eve. 
+first formed, then Eve.
 </sv>
 		<sv id="Timoteo1-2-14">
 Adam wasn´t deceived, but the woman, being
-deceived, has fallen into disobedience; 
+deceived, has fallen into disobedience;
 </sv>
 		<sv id="Timoteo1-2-15">
 but she will be saved through
@@ -205,12 +217,12 @@ This is a faithful saying: if a man seeks the office of an
 <rb>overseer
 <t xml:lang="es"/><rf>Or, bishop<t xml:lang="es"/></rf>
 </rb>
-, he desires a good work. 
+, he desires a good work.
 </sv>
 		<sv id="Timoteo1-3-2">
 The overseer
 therefore must be without reproach, the husband of one wife, temperate,
-sensible, modest, hospitable, good at teaching; 
+sensible, modest, hospitable, good at teaching;
 </sv>
 		<sv id="Timoteo1-3-3">
 not a drinker, not
@@ -219,15 +231,15 @@ violent, not greedy for money, but gentle, not quarrelsome, not covetous;
 </sv>
 		<sv id="Timoteo1-3-4">
 one who rules his own house well, having children in subjection with all
-reverence; 
+reverence;
 </sv>
 		<sv id="Timoteo1-3-5">
 (but if a man doesn´t know how to rule his own house, how
-will he take care of the assembly of God?) 
+will he take care of the assembly of God?)
 </sv>
 		<sv id="Timoteo1-3-6">
 not a new convert, lest being
-puffed up he fall into the same condemnation as the devil. 
+puffed up he fall into the same condemnation as the devil.
 </sv>
 		<sv id="Timoteo1-3-7">
 Moreover he
@@ -243,24 +255,24 @@ reproach and the snare of the devil.
 </rb>
 ,
 in the same way, must be reverent, not double-tongued, not addicted to much
-wine, not greedy for money; 
+wine, not greedy for money;
 </sv>
 		<sv id="Timoteo1-3-9">
 holding the mystery of the faith in a pure
-conscience. 
+conscience.
 </sv>
 		<sv id="Timoteo1-3-10">
 Let them also first be tested; then let them serve as
-deacons, if they are blameless. 
+deacons, if they are blameless.
 </sv>
 		<sv id="Timoteo1-3-11">
 Their wives in the same way must be
-reverent, not slanderers, temperate, faithful in all things. 
+reverent, not slanderers, temperate, faithful in all things.
 </sv>
 		<sv id="Timoteo1-3-12">
 Let
 deacons be husbands of one wife, ruling their children and their own houses
-well. 
+well.
 </sv>
 		<sv id="Timoteo1-3-13">
 For those who have served well as deacons gain to themselves a
@@ -269,13 +281,13 @@ good standing, and great boldness in the faith which is in Christ Jesus.
 </sv></cm><cm>
 
 <sv id="Timoteo1-3-14">
-These things I write to you, hoping to come to you shortly; 
+These things I write to you, hoping to come to you shortly;
 </sv>
 		<sv id="Timoteo1-3-15">
 but
 if I wait long, that you may know how men ought to behave themselves in the
 house of God, which is the assembly of the living God, the pillar and ground
-of the truth. 
+of the truth.
 </sv>
 		<sv id="Timoteo1-3-16">
 Without controversy, the mystery of godliness is
@@ -305,48 +317,48 @@ And received up in glory.
 <sv id="Timoteo1-4-1">
 But the Spirit says expressly that in later times some will fall
 away from the faith, paying attention to seducing spirits and doctrines of
-demons, 
+demons,
 </sv>
 		<sv id="Timoteo1-4-2">
 through the hypocrisy of men who speak lies, branded in their
-own conscience as with a hot iron; 
+own conscience as with a hot iron;
 </sv>
 		<sv id="Timoteo1-4-3">
 forbidding marriage and commanding to
 abstain from foods which God created to be received with thanksgiving by
-those who believe and know the truth. 
+those who believe and know the truth.
 </sv>
 		<sv id="Timoteo1-4-4">
 For every creature of God is good,
-and nothing is to be rejected, if it is received with thanksgiving. 
+and nothing is to be rejected, if it is received with thanksgiving.
 </sv>
 		<sv id="Timoteo1-4-5">
 For
-it is sanctified through the word of God and prayer. 
+it is sanctified through the word of God and prayer.
 </sv>
 		<sv id="Timoteo1-4-6">
 If you instruct the
 brothers of these things, you will be a good servant of Christ Jesus,
 nourished in the words of the faith, and of the good doctrine which you have
-followed. 
+followed.
 </sv>
 		<sv id="Timoteo1-4-7">
 But refuse profane and old wives´ fables. Exercise yourself
-toward godliness. 
+toward godliness.
 </sv>
 		<sv id="Timoteo1-4-8">
 For bodily exercise has some value, but godliness has
 value for all things, having the promise of the life which is now, and of
-that which is to come. 
+that which is to come.
 </sv>
 		<sv id="Timoteo1-4-9">
 This saying is faithful and worthy of all
-acceptance. 
+acceptance.
 </sv>
 		<sv id="Timoteo1-4-10">
 For to this end we both labor and suffer reproach, because
 we have set our trust in the living God, who is the Savior of all men,
-especially of those who believe. 
+especially of those who believe.
 </sv>
 		<sv id="Timoteo1-4-11">
 Command and teach these things.
@@ -360,16 +372,16 @@ in word, in your way of life, in love, in spirit, in faith, and in purity.
 </sv>
 		<sv id="Timoteo1-4-13">
 Until I come, pay attention to reading, to exhortation, and to
-teaching. 
+teaching.
 </sv>
 		<sv id="Timoteo1-4-14">
 Don´t neglect the gift that is in you, which was given to you
-by prophecy, with the laying on of the hands of the elders. 
+by prophecy, with the laying on of the hands of the elders.
 </sv>
 		<sv id="Timoteo1-4-15">
 Be diligent
 in these things. Give yourself wholly to them, that your progress may be
-revealed to all. 
+revealed to all.
 </sv>
 		<sv id="Timoteo1-4-16">
 Pay attention to yourself, and to your teaching.
@@ -384,14 +396,14 @@ those who hear you.
 <cm>
 <sv id="Timoteo1-5-1">
 Don´t rebuke an older man, but exhort him as a father; the younger
-men as brothers; 
+men as brothers;
 </sv>
 		<sv id="Timoteo1-5-2">
 the elder women as mothers; the younger as sisters, in
-all purity. 
+all purity.
 </sv>
 		<sv id="Timoteo1-5-3">
-Honor widows who are widows indeed. 
+Honor widows who are widows indeed.
 </sv>
 		<sv id="Timoteo1-5-4">
 But if any widow
@@ -401,16 +413,16 @@ their own family, and to repay their parents, for this is
 <t xml:lang="es"/><rf>TR adds «good
 and»<t xml:lang="es"/></rf>
 </rb>
- acceptable in the sight of God. 
+ acceptable in the sight of God.
 </sv>
 		<sv id="Timoteo1-5-5">
 Now she who is a widow indeed,
 and desolate, has her hope set on God, and continues in petitions and prayers
-night and day. 
+night and day.
 </sv>
 		<sv id="Timoteo1-5-6">
 But she who gives herself to pleasure is dead while she
-lives. 
+lives.
 </sv>
 		<sv id="Timoteo1-5-7">
 Also command these things, that they may be without reproach.
@@ -418,12 +430,12 @@ Also command these things, that they may be without reproach.
 </sv>
 		<sv id="Timoteo1-5-8">
 But if anyone doesn´t provide for his own, and especially his own
-household, he has denied the faith, and is worse than an unbeliever. 
+household, he has denied the faith, and is worse than an unbeliever.
 </sv>
 		<sv id="Timoteo1-5-9">
 Let
 no one be enrolled as a widow under sixty years old, having been the wife of
-one man, 
+one man,
 </sv>
 		<sv id="Timoteo1-5-10">
 being approved by good works, if she has brought up children,
@@ -435,21 +447,21 @@ good work.
 
 <sv id="Timoteo1-5-11">
 But refuse younger widows, for when they have grown wanton against
-Christ, they desire to marry; 
+Christ, they desire to marry;
 </sv>
 		<sv id="Timoteo1-5-12">
 having condemnation, because they have
-rejected their first pledge. 
+rejected their first pledge.
 </sv>
 		<sv id="Timoteo1-5-13">
 Besides, they also learn to be idle, going
 about from house to house. Not only idle, but also gossips and busybodies,
-saying things which they ought not. 
+saying things which they ought not.
 </sv>
 		<sv id="Timoteo1-5-14">
 I desire therefore that the younger
 widows marry, bear children, rule the household, and give no occasion to the
-adversary for reviling. 
+adversary for reviling.
 </sv>
 		<sv id="Timoteo1-5-15">
 For already some have turned aside after Satan.
@@ -464,7 +476,7 @@ widows indeed.
 
 <sv id="Timoteo1-5-17">
 Let the elders who rule well be counted worthy of double honor,
-especially those who labor in the word and in teaching. 
+especially those who labor in the word and in teaching.
 </sv>
 		<sv id="Timoteo1-5-18">
 For the
@@ -475,20 +487,20 @@ And, «The laborer is worthy of his wages.»
 
 <sv id="Timoteo1-5-19">
 Don´t receive an accusation against an elder, except at the word of two
-or three witnesses. 
+or three witnesses.
 </sv>
 		<sv id="Timoteo1-5-20">
 Those who sin, reprove in the sight of all, that
-the rest also may be in fear. 
+the rest also may be in fear.
 </sv>
 		<sv id="Timoteo1-5-21">
 I charge you in the sight of God, and
 Christ Jesus, and the chosen angels, that you observe these things without
-prejudice, doing nothing by partiality. 
+prejudice, doing nothing by partiality.
 </sv>
 		<sv id="Timoteo1-5-22">
 Lay hands hastily on no one,
-neither be a participant in other men´s sins. Keep yourself pure. 
+neither be a participant in other men´s sins. Keep yourself pure.
 </sv>
 		<sv id="Timoteo1-5-23">
 Be no
@@ -499,7 +511,7 @@ and your frequent infirmities.
 
 <sv id="Timoteo1-5-24">
 Some men´s sins are evident, preceding them to judgment, and some also
-follow later. 
+follow later.
 </sv>
 		<sv id="Timoteo1-5-25">
 In the same way also there are good works that are
@@ -514,7 +526,7 @@ obvious, and those that are otherwise can´t be hidden.
 <sv id="Timoteo1-6-1">
 Let as many as are bondservants under the yoke count their own
 masters worthy of all honor, that the name of God and the doctrine not be
-blasphemed. 
+blasphemed.
 </sv>
 		<sv id="Timoteo1-6-2">
 Those who have believing masters, let them not despise them,
@@ -527,12 +539,12 @@ things.
 <sv id="Timoteo1-6-3">
 If anyone teaches a different doctrine, and doesn´t consent to sound
 words, the words of our Lord Jesus Christ, and to the doctrine which is
-according to godliness, 
+according to godliness,
 </sv>
 		<sv id="Timoteo1-6-4">
 he is conceited, knowing nothing, but obsessed
 with arguments, disputes, and word battles, from which come envy, strife,
-reviling, evil suspicions, 
+reviling, evil suspicions,
 </sv>
 		<sv id="Timoteo1-6-5">
 constant friction of people of corrupt minds
@@ -542,20 +554,20 @@ Withdraw yourself from such.
 </sv></cm><cm>
 
 <sv id="Timoteo1-6-6">
-But godliness with contentment is great gain. 
+But godliness with contentment is great gain.
 </sv>
 		<sv id="Timoteo1-6-7">
 For we brought
-nothing into the world, and we certainly can´t carry anything out. 
+nothing into the world, and we certainly can´t carry anything out.
 </sv>
 		<sv id="Timoteo1-6-8">
 But
-having food and clothing, we will be content with that. 
+having food and clothing, we will be content with that.
 </sv>
 		<sv id="Timoteo1-6-9">
 But those who
 are determined to be rich fall into a temptation and a snare and many foolish
-and harmful lusts, such as drown men in ruin and destruction. 
+and harmful lusts, such as drown men in ruin and destruction.
 </sv>
 		<sv id="Timoteo1-6-10">
 For the
@@ -567,26 +579,26 @@ sorrows.
 
 <sv id="Timoteo1-6-11">
 But you, man of God, flee these things, and follow after righteousness,
-godliness, faith, love, patience, and gentleness. 
+godliness, faith, love, patience, and gentleness.
 </sv>
 		<sv id="Timoteo1-6-12">
 Fight the good fight
 of faith. Lay hold of the eternal life to which you were called, and you
-confessed the good confession in the sight of many witnesses. 
+confessed the good confession in the sight of many witnesses.
 </sv>
 		<sv id="Timoteo1-6-13">
 I charge
 you before God, who gives life to all things, and before Christ Jesus, who
-before Pontius Pilate testified the good confession, 
+before Pontius Pilate testified the good confession,
 </sv>
 		<sv id="Timoteo1-6-14">
 that you keep the
 commandment without spot, blameless, until the appearing of our Lord Jesus
-Christ; 
+Christ;
 </sv>
 		<sv id="Timoteo1-6-15">
 which in its own times he will show, who is the blessed and
-only Ruler, the King of kings, and Lord of lords; 
+only Ruler, the King of kings, and Lord of lords;
 </sv>
 		<sv id="Timoteo1-6-16">
 who alone has
@@ -598,12 +610,12 @@ see: to whom be honor and eternal power. Amen.
 <sv id="Timoteo1-6-17">
 Charge those who are rich in this present world that they not be
 haughty, nor have their hope set on the uncertainty of riches, but on the
-living God, who richly provides us with everything to enjoy; 
+living God, who richly provides us with everything to enjoy;
 </sv>
 		<sv id="Timoteo1-6-18">
 that they
 do good, that they be rich in good works, that they be ready to distribute,
-willing to communicate; 
+willing to communicate;
 </sv>
 		<sv id="Timoteo1-6-19">
 laying up in store for themselves a good
@@ -629,5 +641,5 @@ you. Amen.
 
 </sv></cm></sc>
 </sb>
- 
+
 
