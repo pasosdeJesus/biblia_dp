@@ -46,7 +46,7 @@ Lord.
 <wi type="G" value="5043,3,">hijo</wi>
 <wi type="G" value="1722,4,">en</wi>
 <wi type="G" value="4102,5,">la fe</wi>:
-<wi type="G" value="5485,6,">Gracía</wi>,
+<wi type="G" value="5485,6,">Gracia</wi>,
 <wi type="G" value="1656,7,">misericordia</wi> y
 <wi type="G" value="1515,8,">paz</wi>
 <wi type="G" value="575,9,">de</wi>
@@ -81,11 +81,41 @@ that you might charge certain men not to teach a different doctrine,
 		<sv id="Timoteo1-1-4">
 neither to pay attention to myths and endless genealogies, which cause
 disputes, rather than God´s stewardship, which is in faith
+<t xml:lang="es"><wi type="G" value="3366,1,">ni</wi>
+que <wi type="G" value="4337,2,">presten atención</wi>
+<wi type="G" value="3454,3,">a fábulas</wi>
+<wi type="G" value="2532,4,">y</wi> a
+<wi type="G" value="1076,5,">genealogías</wi>
+<wi type="G" value="562,6,">sin fin</wi>,
+<wi type="G" value="3748,7,">que</wi>
+<wi type="G" value="3930,9,">causan</wi>
+<wi type="G" value="2214,8,">disputas</wi>,
+<wi type="G" value="3123,10,">sino</wi>
+<wi type="G" value="2228,11,">más bien en</wi>
+<wi type="G" value="3620,12,">la edificación</wi>
+<wi type="G" value="2316,13,">de Dios</wi>,
+<wi type="G" value="3588,14,">que</wi> es
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="4102,16,">fe</wi>,</t>
 </sv>
 		<sv id="Timoteo1-1-5">
 but the end
 of the charge is love, out of a pure heart and a good conscience and
 unfeigned faith;
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">pues</wi>
+<wi type="G" value="5056,3,">el fin</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="3852,5,">de los mandamientos</wi></wi>
+<wi type="G" value="2076,6,">es</wi>
+<wi type="G" value="26,7,">amor</wi>,
+<wi type="G" value="1537,8,">desde</wi>
+<wi type="G" value="2588,10,">un corazón</wi>
+<wi type="G" value="2513,9,">puro</wi>
+<wi type="G" value="2532,11,">y</wi> de
+<wi type="G" value="18,13,">buena</wi>
+<wi type="G" value="4893,12,">conciencia</wi>
+<wi type="G" value="2532,14,">y</wi> de
+<wi type="G" value="4102,15,">fe</wi>
+<wi type="G" value="505,16,">no fingida</wi>;</t>
 </sv>
 		<sv id="Timoteo1-1-6">
 from which things some, having missed the mark, have
