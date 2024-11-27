@@ -1,7 +1,10 @@
+
 $$$I Timothy 0:0
 <div canonical="true" osisID="1Tim" sID="gen1823" type="book"/> <title type="main">THE FIRST EPISTLE OF PAUL THE APOSTLE TO TIMOTHY</title>
+
 $$$I Timothy 1:0
 <chapter chapterTitle="CHAPTER 1." osisID="1Tim.1" sID="gen1824"/> <title type="chapter">CHAPTER 1.</title>
+
 $$$I Timothy 1:1
 <w lemma="strong:G3972 lemma.TR:παυλος" morph="robinson:N-NSM" src="1">Paul</w>,
 <w lemma="strong:G652 lemma.TR:αποστολος" morph="robinson:N-NSM" src="2">an apostle</w>
@@ -18,6 +21,7 @@ $$$I Timothy 1:1
 <w lemma="strong:G5547 lemma.TR:χριστου" morph="robinson:N-GSM" src="13">Christ</w>, <transChange type="added">which is</transChange>
 <w lemma="strong:G2257 lemma.TR:ημων" morph="robinson:P-1GP" src="16">our</w>
 <w lemma="strong:G3588 strong:G1680 lemma.TR:της lemma.TR:ελπιδος" morph="robinson:T-GSF robinson:N-GSF" src="14 15">hope</w>;
+
 $$$I Timothy 1:2
 <w lemma="strong:G5095 lemma.TR:τιμοθεω" morph="robinson:N-DSM" src="1">Unto Timothy</w>, <transChange type="added">my</transChange>
 <w lemma="strong:G1103 lemma.TR:γνησιω" morph="robinson:A-DSN" src="2">own</w>
@@ -36,6 +40,7 @@ $$$I Timothy 1:2
 <w lemma="strong:G5547 lemma.TR:χριστου" morph="robinson:N-GSM" src="15">Christ</w>
 <w lemma="strong:G2257 lemma.TR:ημων" morph="robinson:P-1GP" src="18">our</w>
 <w lemma="strong:G3588 strong:G2962 lemma.TR:του lemma.TR:κυριου" morph="robinson:T-GSM robinson:N-GSM" src="16 17">Lord</w>.
+
 $$$I Timothy 1:3
 <w lemma="strong:G2531 lemma.TR:καθως" morph="robinson:ADV" src="1">As</w>
 <w lemma="strong:G3870 lemma.TR:παρεκαλεσα" morph="robinson:V-AAI-1S" src="2">I besought</w>
@@ -52,6 +57,7 @@ $$$I Timothy 1:3
 <w lemma="strong:G2085 lemma.TR:ετεροδιδασκαλειν" morph="robinson:V-PAN" src="14" type="x-split-3202">that they teach</w>
 <w lemma="strong:G3361 lemma.TR:μη" morph="robinson:PRT-N" src="13">no</w>
 <w lemma="strong:G2085 lemma.TR:ετεροδιδασκαλειν" morph="robinson:V-PAN" src="14" type="x-split-3202">other doctrine</w>,
+
 $$$I Timothy 1:4
 <w lemma="strong:G3366 lemma.TR:μηδε" morph="robinson:CONJ" src="1">Neither</w>
 <w lemma="strong:G4337 lemma.TR:προσεχειν" morph="robinson:V-PAN" src="2">give heed to</w>
@@ -69,6 +75,7 @@ $$$I Timothy 1:4
 <w lemma="strong:G3588 lemma.TR:την" morph="robinson:T-ASF" src="14">which is</w>
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="15">in</w>
 <w lemma="strong:G4102 lemma.TR:πιστει" morph="robinson:N-DSF" src="16">faith</w>: <transChange type="added">so do</transChange>.
+
 $$$I Timothy 1:5
 <w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-NSN" src="1"/><w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">Now</w>
 <w lemma="strong:G5056 lemma.TR:τελος" morph="robinson:N-NSN" src="3">the end</w>
@@ -84,6 +91,7 @@ $$$I Timothy 1:5
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="14">and</w> <transChange type="added">of</transChange>
 <w lemma="strong:G4102 lemma.TR:πιστεως" morph="robinson:N-GSF" src="15">faith</w>
 <w lemma="strong:G505 lemma.TR:ανυποκριτου" morph="robinson:A-GSF" src="16">unfeigned</w>:
+
 $$$I Timothy 1:6
 <w lemma="strong:G3739 lemma.TR:ων" morph="robinson:R-GPF" src="1">From which</w>
 <w lemma="strong:G5100 lemma.TR:τινες" morph="robinson:X-NPM" src="2">some</w>
@@ -91,6 +99,7 @@ $$$I Timothy 1:6
 <w lemma="strong:G1624 lemma.TR:εξετραπησαν" morph="robinson:V-2API-3P" src="4">have turned aside</w>
 <w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="5">unto</w>
 <w lemma="strong:G3150 lemma.TR:ματαιολογιαν" morph="robinson:N-ASF" src="6">vain jangling</w>;
+
 $$$I Timothy 1:7
 <w lemma="strong:G3361 lemma.TR:μη" morph="robinson:PRT-N" src="4"/><w lemma="strong:G5101 lemma.TR:τινων" morph="robinson:I-GPN" src="11"/><w lemma="strong:G2309 lemma.TR:θελοντες" morph="robinson:V-PAP-NPM" src="1">Desiring</w>
 <w lemma="strong:G1511 lemma.TR:ειναι" morph="robinson:V-PXN" src="2">to be</w>
@@ -102,6 +111,7 @@ $$$I Timothy 1:7
 <w lemma="strong:G3383 lemma.TR:μητε" morph="robinson:CONJ" src="9">nor</w>
 <w lemma="strong:G4012 lemma.TR:περι" morph="robinson:PREP" src="10">whereof</w>
 <w lemma="strong:G1226 lemma.TR:διαβεβαιουνται" morph="robinson:V-PNI-3P" src="12">they affirm</w>.
+
 $$$I Timothy 1:8
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">But</w>
 <w lemma="strong:G1492 lemma.TR:οιδαμεν" morph="robinson:V-RAI-1P" src="1">we know</w>
@@ -113,6 +123,7 @@ $$$I Timothy 1:8
 <w lemma="strong:G5530 lemma.TR:χρηται" morph="robinson:V-PNS-3S" src="11">use</w>
 <w lemma="strong:G846 lemma.TR:αυτω" morph="robinson:P-DSM" src="9">it</w>
 <w lemma="strong:G3545 lemma.TR:νομιμως" morph="robinson:ADV" src="10">lawfully</w>;
+
 $$$I Timothy 1:9
 <w lemma="strong:G1492 lemma.TR:ειδως" morph="robinson:V-RAP-NSM" src="1">Knowing</w>
 <w lemma="strong:G5124 lemma.TR:τουτο" morph="robinson:D-ASN" src="2">this</w>,
@@ -136,6 +147,7 @@ $$$I Timothy 1:9
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="19">and</w>
 <w lemma="strong:G3389 lemma.TR:μητραλωαις" morph="robinson:N-DPM" src="20">murderers of mothers</w>,
 <w lemma="strong:G409 lemma.TR:ανδροφονοις" morph="robinson:N-DPM" src="21">for manslayers</w>,
+
 $$$I Timothy 1:10
 <w lemma="strong:G3588 lemma.TR:τη" morph="robinson:T-DSF" src="10"/><w lemma="strong:G4205 lemma.TR:πορνοις" morph="robinson:N-DPM" src="1">For whoremongers</w>,
 <w lemma="strong:G733 lemma.TR:αρσενοκοιταις" morph="robinson:N-DPM" src="2">for them that defile themselves with mankind</w>,
@@ -150,6 +162,7 @@ $$$I Timothy 1:10
 <w lemma="strong:G480 lemma.TR:αντικειται" morph="robinson:V-PNI-3S" src="13" type="x-split-3204">that is contrary to</w>
 <w lemma="strong:G5198 lemma.TR:υγιαινουση" morph="robinson:V-PAP-DSF" src="11">sound</w>
 <w lemma="strong:G1319 lemma.TR:διδασκαλια" morph="robinson:N-DSF" src="12">doctrine</w>;
+
 $$$I Timothy 1:11
 <w lemma="strong:G3588 lemma.TR:του" morph="robinson:T-GSM" src="6"/><w lemma="strong:G2596 lemma.TR:κατα" morph="robinson:PREP" src="1">According to</w>
 <w lemma="strong:G3588 strong:G1391 lemma.TR:της lemma.TR:δοξης" morph="robinson:T-GSF robinson:N-GSF" src="4 5">the glorious</w>
@@ -160,6 +173,7 @@ $$$I Timothy 1:11
 <w lemma="strong:G4100 lemma.TR:επιστευθην" morph="robinson:V-API-1S" src="10" type="x-split-3205">was committed to</w>
 <w lemma="strong:G1473 lemma.TR:εγω" morph="robinson:P-1NS" src="11">my</w>
 <w lemma="strong:G4100 lemma.TR:επιστευθην" morph="robinson:V-API-1S" src="10" type="x-split-3205">trust</w>.
+
 $$$I Timothy 1:12
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="1">And</w>
 <w lemma="strong:G5485 strong:G2192 lemma.TR:χαριν lemma.TR:εχω" morph="robinson:N-ASF robinson:V-PAI-1S" src="2 3">I thank</w>
@@ -176,6 +190,7 @@ $$$I Timothy 1:12
 <w lemma="strong:G5087 lemma.TR:θεμενος" morph="robinson:V-2AMP-NSM" src="16">putting me</w>
 <w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="17">into</w>
 <w lemma="strong:G1248 lemma.TR:διακονιαν" morph="robinson:N-ASF" src="18">the ministry</w>;
+
 $$$I Timothy 1:13
 <w lemma="strong:G3588 lemma.TR:τον" morph="robinson:T-ASM" src="1"/><w lemma="strong:G5607 lemma.TR:οντα" morph="robinson:V-PXP-ASM" src="3">Who was</w>
 <w lemma="strong:G4386 lemma.TR:προτερον" morph="robinson:ADV" src="2">before</w>
@@ -191,6 +206,7 @@ $$$I Timothy 1:13
 <w lemma="strong:G50 lemma.TR:αγνοων" morph="robinson:V-PAP-NSM" src="12">ignorantly</w>
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="14">in</w>
 <w lemma="strong:G570 lemma.TR:απιστια" morph="robinson:N-DSF" src="15">unbelief</w>.
+
 $$$I Timothy 1:14
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">And</w>
 <w lemma="strong:G3588 strong:G5485 lemma.TR:η lemma.TR:χαρις" morph="robinson:T-NSF robinson:N-NSF" src="3 4">the grace</w>
@@ -205,6 +221,7 @@ $$$I Timothy 1:14
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="13">in</w>
 <w lemma="strong:G5547 lemma.TR:χριστω" morph="robinson:N-DSM" src="14">Christ</w>
 <w lemma="strong:G2424 lemma.TR:ιησου" morph="robinson:N-DSM" src="15">Jesus</w>.
+
 $$$I Timothy 1:15
 <w lemma="strong:G3588 lemma.TR:ο" morph="robinson:T-NSM" src="2">This</w> <transChange type="added">is</transChange>
 <w lemma="strong:G4103 lemma.TR:πιστος" morph="robinson:A-NSM" src="1">a faithful</w>
@@ -225,6 +242,7 @@ $$$I Timothy 1:15
 <w lemma="strong:G1473 lemma.TR:εγω" morph="robinson:P-1NS" src="20">I</w>
 <w lemma="strong:G1510 lemma.TR:ειμι" morph="robinson:V-PXI-1S" src="19">am</w>
 <w lemma="strong:G4413 lemma.TR:πρωτος" morph="robinson:A-NSM" src="18">chief</w>.
+
 $$$I Timothy 1:16
 <w lemma="strong:G3588 lemma.TR:των" morph="robinson:T-GPM" src="17"/><w lemma="strong:G3588 lemma.TR:την" morph="robinson:T-ASF" src="12"/><w lemma="strong:G235 lemma.TR:αλλα" morph="robinson:CONJ" src="1">Howbeit</w>
 <w lemma="strong:G1223 lemma.TR:δια" morph="robinson:PREP" src="2">for</w>
@@ -248,6 +266,7 @@ $$$I Timothy 1:16
 <w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="22">to</w>
 <w lemma="strong:G2222 lemma.TR:ζωην" morph="robinson:N-ASF" src="23">life</w>
 <w lemma="strong:G166 lemma.TR:αιωνιον" morph="robinson:A-ASF" src="24">everlasting</w>.
+
 $$$I Timothy 1:17
 <w lemma="strong:G3588 lemma.TR:τω" morph="robinson:T-DSM" src="1"/><w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">Now</w>
 <w lemma="strong:G935 lemma.TR:βασιλει" morph="robinson:N-DSM" src="3">unto the King</w>
@@ -264,6 +283,7 @@ $$$I Timothy 1:17
 <w lemma="strong:G3588 strong:G165 lemma.TR:τους lemma.TR:αιωνας" morph="robinson:T-APM robinson:N-APM" src="15 16">ever</w>
 <w lemma="strong:G3588 strong:G165 lemma.TR:των lemma.TR:αιωνων" morph="robinson:T-GPM robinson:N-GPM" src="17 18">and ever</w>.
 <w lemma="strong:G281 lemma.TR:αμην" morph="robinson:HEB" src="19">Amen</w>.
+
 $$$I Timothy 1:18
 <w lemma="strong:G3588 lemma.TR:την" morph="robinson:T-ASF" src="18"/><w lemma="strong:G3588 lemma.TR:τας" morph="robinson:T-APF" src="9"/><w lemma="strong:G3778 lemma.TR:ταυτην" morph="robinson:D-ASF" src="1">This</w>
 <w lemma="strong:G3588 strong:G3852 lemma.TR:την lemma.TR:παραγγελιαν" morph="robinson:T-ASF robinson:N-ASF" src="2 3">charge</w>
@@ -283,6 +303,7 @@ $$$I Timothy 1:18
 <w lemma="strong:G4754 lemma.TR:στρατευη" morph="robinson:V-PMS-2S" src="15" type="x-split-3206">mightest war</w>
 <w lemma="strong:G2570 lemma.TR:καλην" morph="robinson:A-ASF" src="19">a good</w>
 <w lemma="strong:G4752 lemma.TR:στρατειαν" morph="robinson:N-ASF" src="20">warfare</w>;
+
 $$$I Timothy 1:19
 <w lemma="strong:G2192 lemma.TR:εχων" morph="robinson:V-PAP-NSM" src="1">Holding</w>
 <w lemma="strong:G4102 lemma.TR:πιστιν" morph="robinson:N-ASF" src="2">faith</w>,
@@ -295,6 +316,7 @@ $$$I Timothy 1:19
 <w lemma="strong:G4012 lemma.TR:περι" morph="robinson:PREP" src="9">concerning</w>
 <w lemma="strong:G3588 strong:G4102 lemma.TR:την lemma.TR:πιστιν" morph="robinson:T-ASF robinson:N-ASF" src="10 11">faith</w>
 <w lemma="strong:G3489 lemma.TR:εναυαγησαν" morph="robinson:V-AAI-3P" src="12">have made shipwreck</w>:
+
 $$$I Timothy 1:20
 <w lemma="strong:G3739 lemma.TR:ων" morph="robinson:R-GPM" src="1">Of whom</w>
 <w lemma="strong:G2076 lemma.TR:εστιν" morph="robinson:V-PXI-3S" src="2">is</w>
@@ -308,8 +330,10 @@ $$$I Timothy 1:20
 <w lemma="strong:G3811 lemma.TR:παιδευθωσιν" morph="robinson:V-APS-3P" src="11">they may learn</w>
 <w lemma="strong:G3361 lemma.TR:μη" morph="robinson:PRT-N" src="12">not</w>
 <w lemma="strong:G987 lemma.TR:βλασφημειν" morph="robinson:V-PAN" src="13">to blaspheme</w>. <chapter chapterTitle="CHAPTER 1." eID="gen1824" osisID="1Tim.1"/>
+
 $$$I Timothy 2:0
 <chapter chapterTitle="CHAPTER 2." osisID="1Tim.2" sID="gen1825"/> <title type="chapter">CHAPTER 2.</title>
+
 $$$I Timothy 2:1
 <w lemma="strong:G3870 lemma.TR:παρακαλω" morph="robinson:V-PAI-1S" src="1">I exhort</w>
 <w lemma="strong:G3767 lemma.TR:ουν" morph="robinson:CONJ" src="2">therefore</w>,
@@ -324,6 +348,7 @@ $$$I Timothy 2:1
 <w lemma="strong:G5228 lemma.TR:υπερ" morph="robinson:PREP" src="10">for</w>
 <w lemma="strong:G3956 lemma.TR:παντων" morph="robinson:A-GPM" src="11">all</w>
 <w lemma="strong:G444 lemma.TR:ανθρωπων" morph="robinson:N-GPM" src="12">men</w>;
+
 $$$I Timothy 2:2
 <w lemma="strong:G3588 lemma.TR:των" morph="robinson:T-GPM" src="5"/><w lemma="strong:G5228 lemma.TR:υπερ" morph="robinson:PREP" src="1">For</w>
 <w lemma="strong:G935 lemma.TR:βασιλεων" morph="robinson:N-GPM" src="2">kings</w>,
@@ -343,6 +368,7 @@ $$$I Timothy 2:2
 <w lemma="strong:G2150 lemma.TR:ευσεβεια" morph="robinson:N-DSF" src="17">godliness</w>
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="18">and</w>
 <w lemma="strong:G4587 lemma.TR:σεμνοτητι" morph="robinson:N-DSF" src="19">honesty</w>.
+
 $$$I Timothy 2:3
 <w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">For</w>
 <w lemma="strong:G5124 lemma.TR:τουτο" morph="robinson:D-NSN" src="1">this</w> <transChange type="added">is</transChange>
@@ -353,6 +379,7 @@ $$$I Timothy 2:3
 <w lemma="strong:G2316 lemma.TR:θεου" morph="robinson:N-GSM" src="10">God</w>
 <w lemma="strong:G2257 lemma.TR:ημων" morph="robinson:P-1GP" src="9">our</w>
 <w lemma="strong:G3588 strong:G4990 lemma.TR:του lemma.TR:σωτηρος" morph="robinson:T-GSM robinson:N-GSM" src="7 8">Saviour</w>;
+
 $$$I Timothy 2:4
 <w lemma="strong:G3739 lemma.TR:ος" morph="robinson:R-NSM" src="1">Who</w>
 <w lemma="strong:G2309 lemma.TR:θελει" morph="robinson:V-PAI-3S" src="4">will have</w>
@@ -364,6 +391,7 @@ $$$I Timothy 2:4
 <w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="7">unto</w>
 <w lemma="strong:G1922 lemma.TR:επιγνωσιν" morph="robinson:N-ASF" src="8">the knowledge</w>
 <w lemma="strong:G225 lemma.TR:αληθειας" morph="robinson:N-GSF" src="9">of the truth</w>.
+
 $$$I Timothy 2:5
 <w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">For</w> <transChange type="added">there is</transChange>
 <w lemma="strong:G1520 lemma.TR:εις" morph="robinson:A-NSM" src="1">one</w>
@@ -377,6 +405,7 @@ $$$I Timothy 2:5
 <w lemma="strong:G444 lemma.TR:ανθρωπος" morph="robinson:N-NSM" src="10">the man</w>
 <w lemma="strong:G5547 lemma.TR:χριστος" morph="robinson:N-NSM" src="11">Christ</w>
 <w lemma="strong:G2424 lemma.TR:ιησους" morph="robinson:N-NSM" src="12">Jesus</w>;
+
 $$$I Timothy 2:6
 <w lemma="strong:G3588 lemma.TR:ο" morph="robinson:T-NSM" src="1"/><w lemma="strong:G1325 lemma.TR:δους" morph="robinson:V-2AAP-NSM" src="2">Who gave</w>
 <w lemma="strong:G1438 lemma.TR:εαυτον" morph="robinson:F-3ASM" src="3">himself</w>
@@ -386,6 +415,7 @@ $$$I Timothy 2:6
 <w lemma="strong:G3588 strong:G3142 lemma.TR:το lemma.TR:μαρτυριον" morph="robinson:T-ASN robinson:N-ASN" src="7 8">to be testified</w>
 <w lemma="strong:G2398 lemma.TR:ιδιοις" morph="robinson:A-DPM" src="10">in due</w>
 <w lemma="strong:G2540 lemma.TR:καιροις" morph="robinson:N-DPM" src="9">time</w>.
+
 $$$I Timothy 2:7
 <w lemma="strong:G1519 strong:G3739 lemma.TR:εις lemma.TR:ο" morph="robinson:PREP robinson:R-ASN" src="1 2">Whereunto</w>
 <w lemma="strong:G1473 lemma.TR:εγω" morph="robinson:P-1NS" src="4">I</w>
@@ -404,6 +434,7 @@ $$$I Timothy 2:7
 <w lemma="strong:G4102 lemma.TR:πιστει" morph="robinson:N-DSF" src="17">faith</w>
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="18">and</w>
 <w lemma="strong:G225 lemma.TR:αληθεια" morph="robinson:N-DSF" src="19">verity</w>.
+
 $$$I Timothy 2:8
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="6"/><w lemma="strong:G1014 lemma.TR:βουλομαι" morph="robinson:V-PNI-1S" src="1">I will</w>
 <w lemma="strong:G3767 lemma.TR:ουν" morph="robinson:CONJ" src="2">therefore</w>
@@ -419,6 +450,7 @@ $$$I Timothy 2:8
 <w lemma="strong:G3709 lemma.TR:οργης" morph="robinson:N-GSF" src="13">wrath</w>
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="14">and</w>
 <w lemma="strong:G1261 lemma.TR:διαλογισμου" morph="robinson:N-GSM" src="15">doubting</w>.
+
 $$$I Timothy 2:9
 <w lemma="strong:G5615 lemma.TR:ωσαυτως" morph="robinson:ADV" src="1">In like manner</w>
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="2">also</w>,
@@ -443,6 +475,7 @@ $$$I Timothy 2:9
 <w lemma="strong:G2228 lemma.TR:η" morph="robinson:PRT" src="21">or</w>
 <w lemma="strong:G4185 lemma.TR:πολυτελει" morph="robinson:A-DSM" src="23">costly</w>
 <w lemma="strong:G2441 lemma.TR:ιματισμω" morph="robinson:N-DSM" src="22">array</w>;
+
 $$$I Timothy 2:10
 <w lemma="strong:G235 lemma.TR:αλλ" morph="robinson:CONJ" src="1">But</w> (<w lemma="strong:G3739 lemma.TR:ο" morph="robinson:R-NSN" src="2">which</w>
 <w lemma="strong:G4241 lemma.TR:πρεπει" morph="robinson:V-PQI-3S" src="3">becometh</w>
@@ -452,6 +485,7 @@ $$$I Timothy 2:10
 <w lemma="strong:G1223 lemma.TR:δι" morph="robinson:PREP" src="7">with</w>
 <w lemma="strong:G18 lemma.TR:αγαθων" morph="robinson:A-GPN" src="9">good</w>
 <w lemma="strong:G2041 lemma.TR:εργων" morph="robinson:N-GPN" src="8">works</w>.
+
 $$$I Timothy 2:11
 <w lemma="strong:G3129 lemma.TR:μανθανετω" morph="robinson:V-PAM-3S" src="4" type="x-split-3210">Let</w>
 <w lemma="strong:G1135 lemma.TR:γυνη" morph="robinson:N-NSF" src="1">the woman</w>
@@ -461,6 +495,7 @@ $$$I Timothy 2:11
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="5">with</w>
 <w lemma="strong:G3956 lemma.TR:παση" morph="robinson:A-DSF" src="6">all</w>
 <w lemma="strong:G5292 lemma.TR:υποταγη" morph="robinson:N-DSF" src="7">subjection</w>.
+
 $$$I Timothy 2:12
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">But</w>
 <w lemma="strong:G2010 lemma.TR:επιτρεπω" morph="robinson:V-PAI-1S" src="5">I suffer</w>
@@ -474,6 +509,7 @@ $$$I Timothy 2:12
 <w lemma="strong:G1511 lemma.TR:ειναι" morph="robinson:V-PXN" src="10">to be</w>
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="11">in</w>
 <w lemma="strong:G2271 lemma.TR:ησυχια" morph="robinson:N-DSF" src="12">silence</w>.
+
 $$$I Timothy 2:13
 <w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">For</w>
 <w lemma="strong:G76 lemma.TR:αδαμ" morph="robinson:N-PRI" src="1">Adam</w>
@@ -482,6 +518,7 @@ $$$I Timothy 2:13
 <w lemma="strong:G4111 lemma.TR:επλασθη" morph="robinson:V-API-3S" src="4" type="x-split-3211">formed</w>,
 <w lemma="strong:G1534 lemma.TR:ειτα" morph="robinson:ADV" src="5">then</w>
 <w lemma="strong:G2096 lemma.TR:ευα" morph="robinson:N-NSF" src="6">Eve</w>.
+
 $$$I Timothy 2:14
 <w lemma="strong:G3588 lemma.TR:η" morph="robinson:T-NSF" src="5"/><w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="1">And</w>
 <w lemma="strong:G76 lemma.TR:αδαμ" morph="robinson:N-PRI" src="2">Adam</w>
@@ -494,6 +531,7 @@ $$$I Timothy 2:14
 <w lemma="strong:G1096 lemma.TR:γεγονεν" morph="robinson:V-2RAI-3S" src="11">was</w>
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="9">in</w>
 <w lemma="strong:G3847 lemma.TR:παραβασει" morph="robinson:N-DSF" src="10">the transgression</w>.
+
 $$$I Timothy 2:15
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">Notwithstanding</w>
 <w lemma="strong:G4982 lemma.TR:σωθησεται" morph="robinson:V-FPI-3S" src="1">she shall be saved</w>
@@ -509,8 +547,10 @@ $$$I Timothy 2:15
 <w lemma="strong:G38 lemma.TR:αγιασμω" morph="robinson:N-DSM" src="13">holiness</w>
 <w lemma="strong:G3326 lemma.TR:μετα" morph="robinson:PREP" src="14">with</w>
 <w lemma="strong:G4997 lemma.TR:σωφροσυνης" morph="robinson:N-GSF" src="15">sobriety</w>. <chapter chapterTitle="CHAPTER 2." eID="gen1825" osisID="1Tim.2"/>
+
 $$$I Timothy 3:0
 <chapter chapterTitle="CHAPTER 3." osisID="1Tim.3" sID="gen1826"/> <title type="chapter">CHAPTER 3.</title>
+
 $$$I Timothy 3:1
 <w lemma="strong:G3588 lemma.TR:ο" morph="robinson:T-NSM" src="2">This</w> <transChange type="added">is</transChange>
 <w lemma="strong:G4103 lemma.TR:πιστος" morph="robinson:A-NSM" src="1">a true</w>
@@ -522,6 +562,7 @@ $$$I Timothy 3:1
 <w lemma="strong:G1937 lemma.TR:επιθυμει" morph="robinson:V-PAI-3S" src="10">he desireth</w>
 <w lemma="strong:G2570 lemma.TR:καλου" morph="robinson:A-GSN" src="8">a good</w>
 <w lemma="strong:G2041 lemma.TR:εργου" morph="robinson:N-GSN" src="9">work</w>.
+
 $$$I Timothy 3:2
 <w lemma="strong:G3588 strong:G1985 lemma.TR:τον lemma.TR:επισκοπον" morph="robinson:T-ASM robinson:N-ASM" src="3 4">A bishop</w>
 <w lemma="strong:G3767 lemma.TR:ουν" morph="robinson:CONJ" src="2">then</w>
@@ -536,6 +577,7 @@ $$$I Timothy 3:2
 <w lemma="strong:G2887 lemma.TR:κοσμιον" morph="robinson:A-ASM" src="12">of good behaviour</w>,
 <w lemma="strong:G5382 lemma.TR:φιλοξενον" morph="robinson:A-ASM" src="13">given to hospitality</w>,
 <w lemma="strong:G1317 lemma.TR:διδακτικον" morph="robinson:A-ASM" src="14">apt to teach</w>;
+
 $$$I Timothy 3:3
 <w lemma="strong:G3361 lemma.TR:μη" morph="robinson:PRT-N" src="1">Not</w>
 <w lemma="strong:G3943 lemma.TR:παροινον" morph="robinson:A-ASM" src="2">given to wine</w>,
@@ -547,6 +589,7 @@ $$$I Timothy 3:3
 <w lemma="strong:G1933 lemma.TR:επιεικη" morph="robinson:A-ASM" src="8">patient</w>,
 <w lemma="strong:G269 lemma.TR:αμαχον" morph="robinson:A-ASM" src="9">not a brawler</w>,
 <w lemma="strong:G866 lemma.TR:αφιλαργυρον" morph="robinson:A-ASM" src="10">not covetous</w>;
+
 $$$I Timothy 3:4
 <w lemma="strong:G3588 lemma.TR:του" morph="robinson:T-GSM" src="1"/><w lemma="strong:G4291 lemma.TR:προισταμενον" morph="robinson:V-PMP-ASM" src="5">One that ruleth</w>
 <w lemma="strong:G2573 lemma.TR:καλως" morph="robinson:ADV" src="4">well</w>
@@ -559,6 +602,7 @@ $$$I Timothy 3:4
 <w lemma="strong:G3326 lemma.TR:μετα" morph="robinson:PREP" src="10">with</w>
 <w lemma="strong:G3956 lemma.TR:πασης" morph="robinson:A-GSF" src="11">all</w>
 <w lemma="strong:G4587 lemma.TR:σεμνοτητος" morph="robinson:N-GSF" src="12">gravity</w>;
+
 $$$I Timothy 3:5
 (<w lemma="strong:G3588 lemma.TR:του" morph="robinson:T-GSM" src="4"/><w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">For</w>
 <w lemma="strong:G1487 lemma.TR:ει" morph="robinson:COND" src="1">if</w>
@@ -573,6 +617,7 @@ $$$I Timothy 3:5
 <w lemma="strong:G1959 lemma.TR:επιμελησεται" morph="robinson:V-FDI-3S" src="13">shall he take care</w>
 <w lemma="strong:G1577 lemma.TR:εκκλησιας" morph="robinson:N-GSF" src="11">of the church</w>
 <w lemma="strong:G2316 lemma.TR:θεου" morph="robinson:N-GSM" src="12">of God</w>?)
+
 $$$I Timothy 3:6
 <w lemma="strong:G3588 lemma.TR:του" morph="robinson:T-GSM" src="9"/><w lemma="strong:G2443 lemma.TR:ινα" morph="robinson:CONJ" src="3"/><w lemma="strong:G3361 lemma.TR:μη" morph="robinson:PRT-N" src="1">Not</w>
 <w lemma="strong:G3504 lemma.TR:νεοφυτον" morph="robinson:A-ASM" src="2">a novice</w>,
@@ -582,6 +627,7 @@ $$$I Timothy 3:6
 <w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="6">into</w>
 <w lemma="strong:G2917 lemma.TR:κριμα" morph="robinson:N-ASN" src="7">the condemnation</w>
 <w lemma="strong:G1228 lemma.TR:διαβολου" morph="robinson:A-GSM" src="10">of the devil</w>.
+
 $$$I Timothy 3:7
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">Moreover</w>
 <w lemma="strong:G846 lemma.TR:αυτον" morph="robinson:P-ASM" src="3">he</w>
@@ -598,6 +644,7 @@ $$$I Timothy 3:7
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="16">and</w>
 <w lemma="strong:G3803 lemma.TR:παγιδα" morph="robinson:N-ASF" src="17">the snare</w>
 <w lemma="strong:G3588 strong:G1228 lemma.TR:του lemma.TR:διαβολου" morph="robinson:T-GSM robinson:A-GSM" src="18 19">of the devil</w>.
+
 $$$I Timothy 3:8
 <w lemma="strong:G5615 lemma.TR:ωσαυτως" morph="robinson:ADV" src="2">Likewise</w> <transChange type="added">must</transChange>
 <w lemma="strong:G1249 lemma.TR:διακονους" morph="robinson:N-APM" src="1">the deacons</w> <transChange type="added">be</transChange>
@@ -610,6 +657,7 @@ $$$I Timothy 3:8
 <w lemma="strong:G3631 lemma.TR:οινω" morph="robinson:N-DSM" src="7">wine</w>,
 <w lemma="strong:G3361 lemma.TR:μη" morph="robinson:PRT-N" src="10">not</w>
 <w lemma="strong:G146 lemma.TR:αισχροκερδεις" morph="robinson:A-APM" src="11">greedy of filthy lucre</w>;
+
 $$$I Timothy 3:9
 <w lemma="strong:G2192 lemma.TR:εχοντας" morph="robinson:V-PAP-APM" src="1">Holding</w>
 <w lemma="strong:G3588 strong:G3466 lemma.TR:το lemma.TR:μυστηριον" morph="robinson:T-ASN robinson:N-ASN" src="2 3">the mystery</w>
@@ -617,6 +665,7 @@ $$$I Timothy 3:9
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="6">in</w>
 <w lemma="strong:G2513 lemma.TR:καθαρα" morph="robinson:A-DSF" src="7">a pure</w>
 <w lemma="strong:G4893 lemma.TR:συνειδησει" morph="robinson:N-DSF" src="8">conscience</w>.
+
 $$$I Timothy 3:10
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="3">And</w>
 <w lemma="strong:G1381 lemma.TR:δοκιμαζεσθωσαν" morph="robinson:V-PPM-3P" src="4" type="x-split-3214">let</w>
@@ -628,6 +677,7 @@ $$$I Timothy 3:10
 <w lemma="strong:G1247 lemma.TR:διακονειτωσαν" morph="robinson:V-PAM-3P" src="7">let them use the office of a deacon</w>,
 <w lemma="strong:G5607 lemma.TR:οντες" morph="robinson:V-PXP-NPM" src="9">being</w> <transChange type="added">found</transChange>
 <w lemma="strong:G410 lemma.TR:ανεγκλητοι" morph="robinson:A-NPM" src="8">blameless</w>.
+
 $$$I Timothy 3:11
 <w lemma="strong:G5615 lemma.TR:ωσαυτως" morph="robinson:ADV" src="2">Even so</w> <transChange type="added">must their</transChange>
 <w lemma="strong:G1135 lemma.TR:γυναικας" morph="robinson:N-APF" src="1">wives</w> <transChange type="added">be</transChange>
@@ -638,6 +688,7 @@ $$$I Timothy 3:11
 <w lemma="strong:G4103 lemma.TR:πιστας" morph="robinson:A-APF" src="7">faithful</w>
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="8">in</w>
 <w lemma="strong:G3956 lemma.TR:πασιν" morph="robinson:A-DPN" src="9">all things</w>.
+
 $$$I Timothy 3:12
 <w lemma="strong:G3588 lemma.TR:των" morph="robinson:T-GPM" src="10"/><w lemma="strong:G2077 lemma.TR:εστωσαν" morph="robinson:V-PXM-3P" src="2" type="x-split-3215">Let</w>
 <w lemma="strong:G1249 lemma.TR:διακονοι" morph="robinson:N-NPM" src="1">the deacons</w>
@@ -651,6 +702,7 @@ $$$I Timothy 3:12
 <w lemma="strong:G2398 lemma.TR:ιδιων" morph="robinson:A-GPM" src="11">their own</w>
 <w lemma="strong:G3624 lemma.TR:οικων" morph="robinson:N-GPM" src="12">houses</w>
 <w lemma="strong:G2573 lemma.TR:καλως" morph="robinson:ADV" src="7">well</w>.
+
 $$$I Timothy 3:13
 <w lemma="strong:G3588 lemma.TR:οι" morph="robinson:T-NPM" src="1"/><w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">For</w>
 <w lemma="strong:G1247 lemma.TR:διακονησαντες" morph="robinson:V-AAP-NPM" src="4">they that have used the office of a deacon</w>
@@ -668,6 +720,7 @@ $$$I Timothy 3:13
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="15">in</w>
 <w lemma="strong:G5547 lemma.TR:χριστω" morph="robinson:N-DSM" src="16">Christ</w>
 <w lemma="strong:G2424 lemma.TR:ιησου" morph="robinson:N-DSM" src="17">Jesus</w>.
+
 $$$I Timothy 3:14
 <w lemma="strong:G5023 lemma.TR:ταυτα" morph="robinson:D-APN" src="1">These things</w>
 <w lemma="strong:G1125 lemma.TR:γραφω" morph="robinson:V-PAI-1S" src="3">write I</w>
@@ -677,6 +730,7 @@ $$$I Timothy 3:14
 <w lemma="strong:G4314 lemma.TR:προς" morph="robinson:PREP" src="6">unto</w>
 <w lemma="strong:G4571 lemma.TR:σε" morph="robinson:P-2AS" src="7">thee</w>
 <w lemma="strong:G5032 lemma.TR:ταχιον" morph="robinson:ADV-C" src="8">shortly</w>:
+
 $$$I Timothy 3:15
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">But</w>
 <w lemma="strong:G1437 lemma.TR:εαν" morph="robinson:COND" src="1">if</w>
@@ -698,6 +752,7 @@ $$$I Timothy 3:15
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="18">and</w>
 <w lemma="strong:G1477 lemma.TR:εδραιωμα" morph="robinson:N-NSN" src="19">ground</w>
 <w lemma="strong:G3588 strong:G225 lemma.TR:της lemma.TR:αληθειας" morph="robinson:T-GSF robinson:N-GSF" src="20 21">of the truth</w>.
+
 $$$I Timothy 3:16
 <w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-NSN" src="5"/><w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="1">And</w>
 <w lemma="strong:G3672 lemma.TR:ομολογουμενως" morph="robinson:ADV" src="2">without controversy</w>
@@ -723,8 +778,10 @@ $$$I Timothy 3:16
 <w lemma="strong:G353 lemma.TR:ανεληφθη" morph="robinson:V-API-3S" src="24">received up</w>
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="25">into</w>
 <w lemma="strong:G1391 lemma.TR:δοξη" morph="robinson:N-DSF" src="26">glory</w>. <chapter chapterTitle="CHAPTER 3." eID="gen1826" osisID="1Tim.3"/>
+
 $$$I Timothy 4:0
 <chapter chapterTitle="CHAPTER 4." osisID="1Tim.4" sID="gen1827"/> <title type="chapter">CHAPTER 4.</title>
+
 $$$I Timothy 4:1
 <w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-NSN" src="1"/><w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">Now</w>
 <w lemma="strong:G4151 lemma.TR:πνευμα" morph="robinson:N-NSN" src="3">the Spirit</w>
@@ -743,6 +800,7 @@ $$$I Timothy 4:1
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="17">and</w>
 <w lemma="strong:G1319 lemma.TR:διδασκαλιαις" morph="robinson:N-DPF" src="18">doctrines</w>
 <w lemma="strong:G1140 lemma.TR:δαιμονιων" morph="robinson:N-GPN" src="19">of devils</w>;
+
 $$$I Timothy 4:2
 <w lemma="strong:G3588 lemma.TR:την" morph="robinson:T-ASF" src="5"/><w lemma="strong:G5573 lemma.TR:ψευδολογων" morph="robinson:A-GPM" src="3">Speaking lies</w>
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="1">in</w>
@@ -751,6 +809,7 @@ $$$I Timothy 4:2
 <w lemma="strong:G2398 lemma.TR:ιδιαν" morph="robinson:A-ASF" src="6">their</w>
 <w lemma="strong:G4893 lemma.TR:συνειδησιν" morph="robinson:N-ASF" src="7">conscience</w>
 <w lemma="strong:G2743 lemma.TR:κεκαυτηριασμενων" morph="robinson:V-RPP-GPM" src="4" type="x-split-3216">seared with a hot iron</w>;
+
 $$$I Timothy 4:3
 <w lemma="strong:G3588 lemma.TR:τοις" morph="robinson:T-DPM" src="13"/><w lemma="strong:G2967 lemma.TR:κωλυοντων" morph="robinson:V-PAP-GPM" src="1">Forbidding</w>
 <w lemma="strong:G1060 lemma.TR:γαμειν" morph="robinson:V-PAN" src="2">to marry</w>, <transChange type="added">and commanding</transChange>
@@ -767,6 +826,7 @@ $$$I Timothy 4:3
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="15">and</w>
 <w lemma="strong:G1921 lemma.TR:επεγνωκοσιν" morph="robinson:V-RAP-DPM" src="16">know</w>
 <w lemma="strong:G3588 strong:G225 lemma.TR:την lemma.TR:αληθειαν" morph="robinson:T-ASF robinson:N-ASF" src="17 18">the truth</w>.
+
 $$$I Timothy 4:4
 <w lemma="strong:G3754 lemma.TR:οτι" morph="robinson:CONJ" src="1">For</w>
 <w lemma="strong:G3956 lemma.TR:παν" morph="robinson:A-NSN" src="2">every</w>
@@ -779,6 +839,7 @@ $$$I Timothy 4:4
 <w lemma="strong:G2983 lemma.TR:λαμβανομενον" morph="robinson:V-PPP-NSN" src="11">if it be received</w>
 <w lemma="strong:G3326 lemma.TR:μετα" morph="robinson:PREP" src="9">with</w>
 <w lemma="strong:G2169 lemma.TR:ευχαριστιας" morph="robinson:N-GSF" src="10">thanksgiving</w>:
+
 $$$I Timothy 4:5
 <w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">For</w>
 <w lemma="strong:G37 lemma.TR:αγιαζεται" morph="robinson:V-PPI-3S" src="1">it is sanctified</w>
@@ -787,6 +848,7 @@ $$$I Timothy 4:5
 <w lemma="strong:G2316 lemma.TR:θεου" morph="robinson:N-GSM" src="5">of God</w>
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="6">and</w>
 <w lemma="strong:G1783 lemma.TR:εντευξεως" morph="robinson:N-GSF" src="7">prayer</w>.
+
 $$$I Timothy 4:6
 <w lemma="strong:G3588 lemma.TR:της" morph="robinson:T-GSF" src="16"/><w lemma="strong:G5294 lemma.TR:υποτιθεμενος" morph="robinson:V-PMP-NSM" src="2" type="x-split-3217">If thou put</w>
 <w lemma="strong:G3588 strong:G80 lemma.TR:τοις lemma.TR:αδελφοις" morph="robinson:T-DPM robinson:N-DPM" src="3 4">the brethren</w>
@@ -805,6 +867,7 @@ $$$I Timothy 4:6
 <w lemma="strong:G1319 lemma.TR:διδασκαλιας" morph="robinson:N-GSF" src="18">doctrine</w>,
 <w lemma="strong:G3739 lemma.TR:η" morph="robinson:R-DSF" src="19">whereunto</w>
 <w lemma="strong:G3877 lemma.TR:παρηκολουθηκας" morph="robinson:V-RAI-2S" src="20">thou hast attained</w>.
+
 $$$I Timothy 4:7
 <w lemma="strong:G3588 lemma.TR:τους" morph="robinson:T-APM" src="1"/><w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">But</w>
 <w lemma="strong:G3868 lemma.TR:παραιτου" morph="robinson:V-PNM-2S" src="7">refuse</w>
@@ -817,6 +880,7 @@ $$$I Timothy 4:7
 <w lemma="strong:G4572 lemma.TR:σεαυτον" morph="robinson:F-2ASM" src="10">thyself</w> <transChange type="added">rather</transChange>
 <w lemma="strong:G4314 lemma.TR:προς" morph="robinson:PREP" src="11">unto</w>
 <w lemma="strong:G2150 lemma.TR:ευσεβειαν" morph="robinson:N-ASF" src="12">godliness</w>.
+
 $$$I Timothy 4:8
 <w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">For</w>
 <w lemma="strong:G3588 strong:G4984 lemma.TR:η lemma.TR:σωματικη" morph="robinson:T-NSF robinson:A-NSF" src="1 3">bodily</w>
@@ -835,6 +899,7 @@ $$$I Timothy 4:8
 <w lemma="strong:G3568 lemma.TR:νυν" morph="robinson:ADV" src="20">that now is</w>,
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="21">and</w>
 <w lemma="strong:G3588 strong:G3195 lemma.TR:της lemma.TR:μελλουσης" morph="robinson:T-GSF robinson:V-PAP-GSF" src="22 23">of that which is to come</w>.
+
 $$$I Timothy 4:9
 <w lemma="strong:G3588 lemma.TR:ο" morph="robinson:T-NSM" src="2">This</w> <transChange type="added">is</transChange>
 <w lemma="strong:G4103 lemma.TR:πιστος" morph="robinson:A-NSM" src="1">a faithful</w>
@@ -843,6 +908,7 @@ $$$I Timothy 4:9
 <w lemma="strong:G514 lemma.TR:αξιος" morph="robinson:A-NSM" src="7">worthy</w>
 <w lemma="strong:G3956 lemma.TR:πασης" morph="robinson:A-GSF" src="5">of all</w>
 <w lemma="strong:G594 lemma.TR:αποδοχης" morph="robinson:N-GSF" src="6">acceptation</w>.
+
 $$$I Timothy 4:10
 <w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="1"/><w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="3">For</w>
 <w lemma="strong:G5124 lemma.TR:τουτο" morph="robinson:D-ASN" src="2">therefore</w>
@@ -863,11 +929,13 @@ $$$I Timothy 4:10
 <w lemma="strong:G444 lemma.TR:ανθρωπων" morph="robinson:N-GPM" src="17">men</w>,
 <w lemma="strong:G3122 lemma.TR:μαλιστα" morph="robinson:ADV" src="18">specially</w>
 <w lemma="strong:G4103 lemma.TR:πιστων" morph="robinson:A-GPM" src="19">of those that believe</w>.
+
 $$$I Timothy 4:11
 <w lemma="strong:G5023 lemma.TR:ταυτα" morph="robinson:D-APN" src="2">These things</w>
 <w lemma="strong:G3853 lemma.TR:παραγγελλε" morph="robinson:V-PAM-2S" src="1">command</w>
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="3">and</w>
 <w lemma="strong:G1321 lemma.TR:διδασκε" morph="robinson:V-PAM-2S" src="4">teach</w>.
+
 $$$I Timothy 4:12
 <w lemma="strong:G3588 lemma.TR:των" morph="robinson:T-GPM" src="9"/><w lemma="strong:G2706 lemma.TR:καταφρονειτω" morph="robinson:V-PAM-3S" src="5" type="x-split-3219">Let</w>
 <w lemma="strong:G3367 lemma.TR:μηδεις" morph="robinson:A-NSM" src="1">no man</w>
@@ -890,6 +958,7 @@ $$$I Timothy 4:12
 <w lemma="strong:G4102 lemma.TR:πιστει" morph="robinson:N-DSF" src="20">faith</w>,
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="21">in</w>
 <w lemma="strong:G47 lemma.TR:αγνεια" morph="robinson:N-DSF" src="22">purity</w>.
+
 $$$I Timothy 4:13
 <w lemma="strong:G2193 lemma.TR:εως" morph="robinson:CONJ" src="1">Till</w>
 <w lemma="strong:G2064 lemma.TR:ερχομαι" morph="robinson:V-PNI-1S" src="2">I come</w>,
@@ -897,6 +966,7 @@ $$$I Timothy 4:13
 <w lemma="strong:G3588 strong:G320 lemma.TR:τη lemma.TR:αναγνωσει" morph="robinson:T-DSF robinson:N-DSF" src="4 5">to reading</w>,
 <w lemma="strong:G3588 strong:G3874 lemma.TR:τη lemma.TR:παρακλησει" morph="robinson:T-DSF robinson:N-DSF" src="6 7">to exhortation</w>,
 <w lemma="strong:G3588 strong:G1319 lemma.TR:τη lemma.TR:διδασκαλια" morph="robinson:T-DSF robinson:N-DSF" src="8 9">to doctrine</w>.
+
 $$$I Timothy 4:14
 <w lemma="strong:G3588 lemma.TR:του" morph="robinson:T-GSN" src="3"/><w lemma="strong:G272 lemma.TR:αμελει" morph="robinson:V-PAM-2S" src="2">Neglect</w>
 <w lemma="strong:G3361 lemma.TR:μη" morph="robinson:PRT-N" src="1">not</w>
@@ -912,6 +982,7 @@ $$$I Timothy 4:14
 <w lemma="strong:G1936 lemma.TR:επιθεσεως" morph="robinson:N-GSF" src="13">the laying on</w>
 <w lemma="strong:G3588 strong:G5495 lemma.TR:των lemma.TR:χειρων" morph="robinson:T-GPF robinson:N-GPF" src="14 15">of the hands</w>
 <w lemma="strong:G3588 strong:G4244 lemma.TR:του lemma.TR:πρεσβυτεριου" morph="robinson:T-GSN robinson:N-GSN" src="16 17">of the presbytery</w>.
+
 $$$I Timothy 4:15
 <w lemma="strong:G3191 lemma.TR:μελετα" morph="robinson:V-PAM-2S" src="2">Meditate upon</w>
 <w lemma="strong:G5023 lemma.TR:ταυτα" morph="robinson:D-APN" src="1">these things</w>;
@@ -925,6 +996,7 @@ $$$I Timothy 4:15
 <w lemma="strong:G5318 lemma.TR:φανερα" morph="robinson:A-NSF" src="10">appear</w>
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="12">to</w>
 <w lemma="strong:G3956 lemma.TR:πασιν" morph="robinson:A-DPM" src="13">all</w>.
+
 $$$I Timothy 4:16
 <w lemma="strong:G3588 lemma.TR:τους" morph="robinson:T-APM" src="15"/><w lemma="strong:G1907 lemma.TR:επεχε" morph="robinson:V-PAM-2S" src="1">Take heed unto</w>
 <w lemma="strong:G4572 lemma.TR:σεαυτω" morph="robinson:F-2DSM" src="2">thyself</w>,
@@ -942,8 +1014,10 @@ $$$I Timothy 4:16
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="14">and</w>
 <w lemma="strong:G191 lemma.TR:ακουοντας" morph="robinson:V-PAP-APM" src="16">them that hear</w>
 <w lemma="strong:G4675 lemma.TR:σου" morph="robinson:P-2GS" src="17">thee</w>. <chapter chapterTitle="CHAPTER 4." eID="gen1827" osisID="1Tim.4"/>
+
 $$$I Timothy 5:0
 <chapter chapterTitle="CHAPTER 5." osisID="1Tim.5" sID="gen1828"/> <title type="chapter">CHAPTER 5.</title>
+
 $$$I Timothy 5:1
 <w lemma="strong:G1969 lemma.TR:επιπληξης" morph="robinson:V-AAS-2S" src="3">Rebuke</w>
 <w lemma="strong:G3361 lemma.TR:μη" morph="robinson:PRT-N" src="2">not</w>
@@ -955,6 +1029,7 @@ $$$I Timothy 5:1
 <w lemma="strong:G3501 lemma.TR:νεωτερους" morph="robinson:A-APM-C" src="8">the younger men</w>
 <w lemma="strong:G5613 lemma.TR:ως" morph="robinson:ADV" src="9">as</w>
 <w lemma="strong:G80 lemma.TR:αδελφους" morph="robinson:N-APM" src="10">brethren</w>;
+
 $$$I Timothy 5:2
 <w lemma="strong:G4245 lemma.TR:πρεσβυτερας" morph="robinson:A-APF" src="1">The elder women</w>
 <w lemma="strong:G5613 lemma.TR:ως" morph="robinson:ADV" src="2">as</w>
@@ -965,12 +1040,14 @@ $$$I Timothy 5:2
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="7">with</w>
 <w lemma="strong:G3956 lemma.TR:παση" morph="robinson:A-DSF" src="8">all</w>
 <w lemma="strong:G47 lemma.TR:αγνεια" morph="robinson:N-DSF" src="9">purity</w>.
+
 $$$I Timothy 5:3
 <w lemma="strong:G3588 lemma.TR:τας" morph="robinson:T-APF" src="3"/><w lemma="strong:G5091 lemma.TR:τιμα" morph="robinson:V-PAM-2S" src="2">Honour</w>
 <w lemma="strong:G5503 lemma.TR:χηρας" morph="robinson:N-APF" src="1">widows</w>
 <w lemma="strong:G3689 lemma.TR:οντως" morph="robinson:ADV" src="4" type="x-split-3221">that are</w>
 <w lemma="strong:G5503 lemma.TR:χηρας" morph="robinson:N-APF" src="5">widows</w>
 <w lemma="strong:G3689 lemma.TR:οντως" morph="robinson:ADV" src="4" type="x-split-3221">indeed</w>.
+
 $$$I Timothy 5:4
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">But</w>
 <w lemma="strong:G1487 lemma.TR:ει" morph="robinson:COND" src="1">if</w>
@@ -995,6 +1072,7 @@ $$$I Timothy 5:4
 <w lemma="strong:G587 lemma.TR:αποδεκτον" morph="robinson:A-NSN" src="25">acceptable</w>
 <w lemma="strong:G1799 lemma.TR:ενωπιον" morph="robinson:ADV" src="26">before</w>
 <w lemma="strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου" morph="robinson:T-GSM robinson:N-GSM" src="27 28">God</w>.<w lemma="strong:G2398 lemma.TR:ιδιον" morph="robinson:A-ASM" src="12"/><w lemma="strong:G287 lemma.TR:αμοιβας" morph="robinson:N-APF" src="16"/>
+
 $$$I Timothy 5:5
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">Now</w>
 <w lemma="strong:G3588 lemma.TR:η" morph="robinson:T-NSF" src="1">she that</w>
@@ -1014,12 +1092,14 @@ $$$I Timothy 5:5
 <w lemma="strong:G3571 lemma.TR:νυκτος" morph="robinson:N-GSF" src="18">night</w>
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="19">and</w>
 <w lemma="strong:G2250 lemma.TR:ημερας" morph="robinson:N-GSF" src="20">day</w>.
+
 $$$I Timothy 5:6
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">But</w>
 <w lemma="strong:G3588 lemma.TR:η" morph="robinson:T-NSF" src="1">she that</w>
 <w lemma="strong:G4684 lemma.TR:σπαταλωσα" morph="robinson:V-PAP-NSF" src="3">liveth in pleasure</w>
 <w lemma="strong:G2348 lemma.TR:τεθνηκεν" morph="robinson:V-RAI-3S" src="5">is dead</w>
 <w lemma="strong:G2198 lemma.TR:ζωσα" morph="robinson:V-PAP-NSF" src="4">while she liveth</w>.
+
 $$$I Timothy 5:7
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="1">And</w>
 <w lemma="strong:G5023 lemma.TR:ταυτα" morph="robinson:D-APN" src="2">these things</w>
@@ -1027,6 +1107,7 @@ $$$I Timothy 5:7
 <w lemma="strong:G2443 lemma.TR:ινα" morph="robinson:CONJ" src="4">that</w>
 <w lemma="strong:G5600 lemma.TR:ωσιν" morph="robinson:V-PXS-3P" src="6">they may be</w>
 <w lemma="strong:G423 lemma.TR:ανεπιληπτοι" morph="robinson:A-NPM" src="5">blameless</w>.
+
 $$$I Timothy 5:8
 <w lemma="strong:G3588 lemma.TR:των" morph="robinson:T-GPM" src="8"/><w lemma="strong:G3588 lemma.TR:των" morph="robinson:T-GPM" src="4"/><w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">But</w>
 <w lemma="strong:G1487 lemma.TR:ει" morph="robinson:COND" src="1">if</w>
@@ -1044,6 +1125,7 @@ $$$I Timothy 5:8
 <w lemma="strong:G2076 lemma.TR:εστιν" morph="robinson:V-PXI-3S" src="16">is</w>
 <w lemma="strong:G5501 lemma.TR:χειρων" morph="robinson:A-NSM-C" src="18">worse</w>
 <w lemma="strong:G571 lemma.TR:απιστου" morph="robinson:A-GSM" src="17">than an infidel</w>.
+
 $$$I Timothy 5:9
 <w lemma="strong:G2639 lemma.TR:καταλεγεσθω" morph="robinson:V-PPM-3S" src="2" type="x-split-3224">Let</w>
 <w lemma="strong:G3361 lemma.TR:μη" morph="robinson:PRT-N" src="3">not</w>
@@ -1056,6 +1138,7 @@ $$$I Timothy 5:9
 <w lemma="strong:G1135 lemma.TR:γυνη" morph="robinson:N-NSF" src="10">the wife</w>
 <w lemma="strong:G1520 lemma.TR:ενος" morph="robinson:A-GSM" src="8">of one</w>
 <w lemma="strong:G435 lemma.TR:ανδρος" morph="robinson:N-GSM" src="9">man</w>,
+
 $$$I Timothy 5:10
 <w lemma="strong:G3140 lemma.TR:μαρτυρουμενη" morph="robinson:V-PPP-NSF" src="4">Well reported of</w>
 <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="1">for</w>
@@ -1077,6 +1160,7 @@ $$$I Timothy 5:10
 <w lemma="strong:G3956 lemma.TR:παντι" morph="robinson:A-DSN" src="17">every</w>
 <w lemma="strong:G18 lemma.TR:αγαθω" morph="robinson:A-DSN" src="19">good</w>
 <w lemma="strong:G2041 lemma.TR:εργω" morph="robinson:N-DSN" src="18">work</w>.
+
 $$$I Timothy 5:11
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">But</w>
 <w lemma="strong:G3501 lemma.TR:νεωτερας" morph="robinson:A-APF-C" src="1">the younger</w>
@@ -1088,6 +1172,7 @@ $$$I Timothy 5:11
 <w lemma="strong:G3588 strong:G5547 lemma.TR:του lemma.TR:χριστου" morph="robinson:T-GSM robinson:N-GSM" src="8 9">Christ</w>,
 <w lemma="strong:G2309 lemma.TR:θελουσιν" morph="robinson:V-PAI-3P" src="11">they will</w>
 <w lemma="strong:G1060 lemma.TR:γαμειν" morph="robinson:V-PAN" src="10">marry</w>;
+
 $$$I Timothy 5:12
 <w lemma="strong:G2192 lemma.TR:εχουσαι" morph="robinson:V-PAP-NPF" src="1">Having</w>
 <w lemma="strong:G2917 lemma.TR:κριμα" morph="robinson:N-ASN" src="2">damnation</w>,
@@ -1096,6 +1181,7 @@ $$$I Timothy 5:12
 <w lemma="strong:G3588 lemma.TR:την" morph="robinson:T-ASF" src="4">their</w>
 <w lemma="strong:G4413 lemma.TR:πρωτην" morph="robinson:A-ASF" src="5">first</w>
 <w lemma="strong:G4102 lemma.TR:πιστιν" morph="robinson:N-ASF" src="6">faith</w>.
+
 $$$I Timothy 5:13
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="3"/><w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">And</w>
 <w lemma="strong:G260 lemma.TR:αμα" morph="robinson:ADV" src="1">withal</w>
@@ -1116,6 +1202,7 @@ $$$I Timothy 5:13
 <w lemma="strong:G3588 lemma.TR:τα" morph="robinson:T-APN" src="19">things which</w>
 <w lemma="strong:G1163 lemma.TR:δεοντα" morph="robinson:V-PQP-APN" src="21">they ought</w>
 <w lemma="strong:G3361 lemma.TR:μη" morph="robinson:PRT-N" src="20">not</w>.
+
 $$$I Timothy 5:14
 <w lemma="strong:G5484 lemma.TR:χαριν" morph="robinson:ADV" src="13"/><w lemma="strong:G3588 lemma.TR:τω" morph="robinson:T-DSM" src="10"/><w lemma="strong:G1014 lemma.TR:βουλομαι" morph="robinson:V-PNI-1S" src="1">I will</w>
 <w lemma="strong:G3767 lemma.TR:ουν" morph="robinson:CONJ" src="2">therefore</w>
@@ -1129,6 +1216,7 @@ $$$I Timothy 5:14
 <w lemma="strong:G874 lemma.TR:αφορμην" morph="robinson:N-ASF" src="8">occasion</w>
 <w lemma="strong:G480 lemma.TR:αντικειμενω" morph="robinson:V-PNP-DSM" src="11">to the adversary</w>
 <w lemma="strong:G3059 lemma.TR:λοιδοριας" morph="robinson:N-GSF" src="12">to speak reproachfully</w>.
+
 $$$I Timothy 5:15
 <w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">For</w>
 <w lemma="strong:G5100 lemma.TR:τινες" morph="robinson:X-NPM" src="3">some</w>
@@ -1137,6 +1225,7 @@ $$$I Timothy 5:15
 <w lemma="strong:G1624 lemma.TR:εξετραπησαν" morph="robinson:V-2API-3P" src="4" type="x-split-3226">turned aside</w>
 <w lemma="strong:G3694 lemma.TR:οπισω" morph="robinson:ADV" src="5">after</w>
 <w lemma="strong:G3588 strong:G4567 lemma.TR:του lemma.TR:σατανα" morph="robinson:T-GSM robinson:N-GSM" src="6 7">Satan</w>.
+
 $$$I Timothy 5:16
 <w lemma="strong:G1487 lemma.TR:ει" morph="robinson:COND" src="1">If</w>
 <w lemma="strong:G5100 lemma.TR:τις" morph="robinson:X-NSM" src="2">any</w>
@@ -1159,6 +1248,7 @@ $$$I Timothy 5:16
 <w lemma="strong:G3689 lemma.TR:οντως" morph="robinson:ADV" src="17" type="x-split-3229">are</w>
 <w lemma="strong:G5503 lemma.TR:χηραις" morph="robinson:N-DPF" src="18">widows</w>
 <w lemma="strong:G3689 lemma.TR:οντως" morph="robinson:ADV" src="17" type="x-split-3229">indeed</w>.
+
 $$$I Timothy 5:17
 <w lemma="strong:G3588 lemma.TR:οι" morph="robinson:T-NPM" src="9"/><w lemma="strong:G3588 lemma.TR:οι" morph="robinson:T-NPM" src="1"/><w lemma="strong:G515 lemma.TR:αξιουσθωσαν" morph="robinson:V-PPM-3P" src="7" type="x-split-3230">Let</w>
 <w lemma="strong:G4245 lemma.TR:πρεσβυτεροι" morph="robinson:A-NPM" src="4">the elders</w>
@@ -1173,6 +1263,7 @@ $$$I Timothy 5:17
 <w lemma="strong:G3056 lemma.TR:λογω" morph="robinson:N-DSM" src="12">the word</w>
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="13">and</w>
 <w lemma="strong:G1319 lemma.TR:διδασκαλια" morph="robinson:N-DSF" src="14">doctrine</w>.
+
 $$$I Timothy 5:18
 <w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">For</w>
 <w lemma="strong:G3588 strong:G1124 lemma.TR:η lemma.TR:γραφη" morph="robinson:T-NSF robinson:N-NSF" src="3 4">the scripture</w>
@@ -1187,6 +1278,7 @@ $$$I Timothy 5:18
 <w lemma="strong:G514 lemma.TR:αξιος" morph="robinson:A-NSM" src="10">worthy</w>
 <w lemma="strong:G846 lemma.TR:αυτου" morph="robinson:P-GSM" src="15">of his</w>
 <w lemma="strong:G3588 strong:G3408 lemma.TR:του lemma.TR:μισθου" morph="robinson:T-GSM robinson:N-GSM" src="13 14">reward</w>.
+
 $$$I Timothy 5:19
 <w lemma="strong:G3361 lemma.TR:μη" morph="robinson:PRT-N" src="8"/><w lemma="strong:G1487 lemma.TR:ει" morph="robinson:COND" src="7"/><w lemma="strong:G2596 lemma.TR:κατα" morph="robinson:PREP" src="1">Against</w>
 <w lemma="strong:G4245 lemma.TR:πρεσβυτερου" morph="robinson:A-GSM" src="2">an elder</w>
@@ -1199,6 +1291,7 @@ $$$I Timothy 5:19
 <w lemma="strong:G2228 lemma.TR:η" morph="robinson:PRT" src="11">or</w>
 <w lemma="strong:G5140 lemma.TR:τριων" morph="robinson:A-GPM" src="12">three</w>
 <w lemma="strong:G3144 lemma.TR:μαρτυρων" morph="robinson:N-GPM" src="13">witnesses</w>.
+
 $$$I Timothy 5:20
 <w lemma="strong:G3588 lemma.TR:οι" morph="robinson:T-NPM" src="8"/><w lemma="strong:G3588 lemma.TR:τους" morph="robinson:T-APM" src="1"/><w lemma="strong:G264 lemma.TR:αμαρτανοντας" morph="robinson:V-PAP-APM" src="2">Them that sin</w>
 <w lemma="strong:G1651 lemma.TR:ελεγχε" morph="robinson:V-PAM-2S" src="5">rebuke</w>
@@ -1209,6 +1302,7 @@ $$$I Timothy 5:20
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="7">also</w>
 <w lemma="strong:G2192 lemma.TR:εχωσιν" morph="robinson:V-PAS-3P" src="11">may</w>
 <w lemma="strong:G5401 lemma.TR:φοβον" morph="robinson:N-ASM" src="10">fear</w>.
+
 $$$I Timothy 5:21
 <w lemma="strong:G3588 lemma.TR:των" morph="robinson:T-GPM" src="10"/><w lemma="strong:G1263 lemma.TR:διαμαρτυρομαι" morph="robinson:V-PNI-1S" src="1">I charge</w> <transChange type="added">thee</transChange>
 <w lemma="strong:G1799 lemma.TR:ενωπιον" morph="robinson:ADV" src="2">before</w>
@@ -1229,6 +1323,7 @@ $$$I Timothy 5:21
 <w lemma="strong:G3367 lemma.TR:μηδεν" morph="robinson:A-ASN" src="18">nothing</w>
 <w lemma="strong:G2596 lemma.TR:κατα" morph="robinson:PREP" src="20">by</w>
 <w lemma="strong:G4346 lemma.TR:προσκλισιν" morph="robinson:N-ASF" src="21">partiality</w>.
+
 $$$I Timothy 5:22
 <w lemma="strong:G2007 lemma.TR:επιτιθει" morph="robinson:V-PAM-2S" src="4" type="x-split-3232">Lay</w>
 <w lemma="strong:G5495 lemma.TR:χειρας" morph="robinson:N-APF" src="1">hands</w>
@@ -1242,6 +1337,7 @@ $$$I Timothy 5:22
 <w lemma="strong:G5083 lemma.TR:τηρει" morph="robinson:V-PAM-2S" src="11">keep</w>
 <w lemma="strong:G4572 lemma.TR:σεαυτον" morph="robinson:F-2ASM" src="9">thyself</w>
 <w lemma="strong:G53 lemma.TR:αγνον" morph="robinson:A-ASM" src="10">pure</w>.
+
 $$$I Timothy 5:23
 <w lemma="strong:G3588 lemma.TR:τας" morph="robinson:T-APF" src="12"/><w lemma="strong:G5202 lemma.TR:υδροποτει" morph="robinson:V-PAM-2S" src="2" type="x-split-3233">Drink</w>
 <w lemma="strong:G3371 lemma.TR:μηκετι" morph="robinson:ADV" src="1">no longer</w>
@@ -1258,6 +1354,7 @@ $$$I Timothy 5:23
 <w lemma="strong:G4675 lemma.TR:σου" morph="robinson:P-2GS" src="14">thine</w>
 <w lemma="strong:G4437 lemma.TR:πυκνας" morph="robinson:A-APF" src="13">often</w>
 <w lemma="strong:G769 lemma.TR:ασθενειας" morph="robinson:N-APF" src="15">infirmities</w>.
+
 $$$I Timothy 5:24
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="12"/><w lemma="strong:G5100 lemma.TR:τινων" morph="robinson:X-GPM" src="1">Some</w>
 <w lemma="strong:G444 lemma.TR:ανθρωπων" morph="robinson:N-GPM" src="2">men’s</w>
@@ -1270,6 +1367,7 @@ $$$I Timothy 5:24
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="11">and</w>
 <w lemma="strong:G5100 lemma.TR:τισιν" morph="robinson:X-DPM" src="10">some</w> <transChange type="added">men</transChange>
 <w lemma="strong:G1872 lemma.TR:επακολουθουσιν" morph="robinson:V-PAI-3P" src="13">they follow after</w>.
+
 $$$I Timothy 5:25
 <w lemma="strong:G5615 lemma.TR:ωσαυτως" morph="robinson:ADV" src="1">Likewise</w>
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="2">also</w>
@@ -1282,8 +1380,10 @@ $$$I Timothy 5:25
 <w lemma="strong:G247 lemma.TR:αλλως" morph="robinson:ADV" src="10">otherwise</w>
 <w lemma="strong:G3756 strong:G1410 lemma.TR:ου lemma.TR:δυναται" morph="robinson:PRT-N robinson:V-PNI-3S" src="13 14">cannot</w>
 <w lemma="strong:G2928 lemma.TR:κρυβηναι" morph="robinson:V-2APN" src="12">be hid</w>. <chapter chapterTitle="CHAPTER 5." eID="gen1828" osisID="1Tim.5"/>
+
 $$$I Timothy 6:0
 <chapter chapterTitle="CHAPTER 6." osisID="1Tim.6" sID="gen1829"/> <title type="chapter">CHAPTER 6.</title>
+
 $$$I Timothy 6:1
 <w lemma="strong:G3588 lemma.TR:τους" morph="robinson:T-APM" src="6"/><w lemma="strong:G2233 lemma.TR:ηγεισθωσαν" morph="robinson:V-PNM-3P" src="12" type="x-split-3235">Let</w>
 <w lemma="strong:G3745 lemma.TR:οσοι" morph="robinson:K-NPM" src="1" type="x-split-3236">as many</w>
@@ -1306,6 +1406,7 @@ $$$I Timothy 6:1
 <w lemma="strong:G987 lemma.TR:βλασφημηται" morph="robinson:V-PPS-3S" src="22" type="x-split-3237">be</w>
 <w lemma="strong:G3361 lemma.TR:μη" morph="robinson:PRT-N" src="14">not</w>
 <w lemma="strong:G987 lemma.TR:βλασφημηται" morph="robinson:V-PPS-3S" src="22" type="x-split-3237">blasphemed</w>.
+
 $$$I Timothy 6:2
 <w lemma="strong:G3588 lemma.TR:οι" morph="robinson:T-NPM" src="19"/><w lemma="strong:G3588 lemma.TR:οι" morph="robinson:T-NPM" src="1"/><w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">And</w>
 <w lemma="strong:G2192 lemma.TR:εχοντες" morph="robinson:V-PAP-NPM" src="4">they that have</w>
@@ -1332,6 +1433,7 @@ $$$I Timothy 6:2
 <w lemma="strong:G1321 lemma.TR:διδασκε" morph="robinson:V-PAM-2S" src="24">teach</w>
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="25">and</w>
 <w lemma="strong:G3870 lemma.TR:παρακαλει" morph="robinson:V-PAM-2S" src="26">exhort</w>.
+
 $$$I Timothy 6:3
 <w lemma="strong:G3588 lemma.TR:τη" morph="robinson:T-DSF" src="16"/><w lemma="strong:G1487 lemma.TR:ει" morph="robinson:COND" src="1">If</w>
 <w lemma="strong:G5100 lemma.TR:τις" morph="robinson:X-NSM" src="2">any man</w>
@@ -1350,6 +1452,7 @@ $$$I Timothy 6:3
 <w lemma="strong:G1319 lemma.TR:διδασκαλια" morph="robinson:N-DSF" src="19">to the doctrine</w>
 <w lemma="strong:G2596 lemma.TR:κατ" morph="robinson:PREP" src="17">which is according to</w>
 <w lemma="strong:G2150 lemma.TR:ευσεβειαν" morph="robinson:N-ASF" src="18">godliness</w>;
+
 $$$I Timothy 6:4
 <w lemma="strong:G5187 lemma.TR:τετυφωται" morph="robinson:V-RPI-3S" src="1">He is proud</w>,
 <w lemma="strong:G1987 lemma.TR:επισταμενος" morph="robinson:V-PNP-NSM" src="3">knowing</w>
@@ -1367,6 +1470,7 @@ $$$I Timothy 6:4
 <w lemma="strong:G988 lemma.TR:βλασφημιαι" morph="robinson:N-NPF" src="15">railings</w>,
 <w lemma="strong:G4190 lemma.TR:πονηραι" morph="robinson:A-NPF" src="17">evil</w>
 <w lemma="strong:G5283 lemma.TR:υπονοιαι" morph="robinson:N-NPF" src="16">surmisings</w>,
+
 $$$I Timothy 6:5
 <w lemma="strong:G3588 lemma.TR:των" morph="robinson:T-GPM" src="17"/><w lemma="strong:G3859 lemma.TR:παραδιατριβαι" morph="robinson:N-NPF" src="1">Perverse disputings</w>
 <w lemma="strong:G444 lemma.TR:ανθρωπων" morph="robinson:N-GPM" src="3">of men</w>
@@ -1382,6 +1486,7 @@ $$$I Timothy 6:5
 <w lemma="strong:G575 lemma.TR:απο" morph="robinson:PREP" src="16">from</w>
 <w lemma="strong:G5108 lemma.TR:τοιουτων" morph="robinson:D-GPM" src="18">such</w>
 <w lemma="strong:G868 lemma.TR:αφιστασο" morph="robinson:V-PNM-2S" src="15">withdraw thyself</w>.
+
 $$$I Timothy 6:6
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">But</w>
 <w lemma="strong:G3588 strong:G2150 lemma.TR:η lemma.TR:ευσεβεια" morph="robinson:T-NSF robinson:N-NSF" src="5 6">godliness</w>
@@ -1390,6 +1495,7 @@ $$$I Timothy 6:6
 <w lemma="strong:G2076 lemma.TR:εστιν" morph="robinson:V-PXI-3S" src="1">is</w>
 <w lemma="strong:G3173 lemma.TR:μεγας" morph="robinson:A-NSM" src="4">great</w>
 <w lemma="strong:G4200 lemma.TR:πορισμος" morph="robinson:N-NSM" src="3">gain</w>.
+
 $$$I Timothy 6:7
 <w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">For</w>
 <w lemma="strong:G1533 lemma.TR:εισηνεγκαμεν" morph="robinson:V-AAI-1P" src="3">we brought</w>
@@ -1401,6 +1507,7 @@ $$$I Timothy 6:7
 <w lemma="strong:G1627 lemma.TR:εξενεγκειν" morph="robinson:V-2AAN" src="10" type="x-split-3240">carry</w>
 <w lemma="strong:G3761 strong:G5100 lemma.TR:ουδε lemma.TR:τι" morph="robinson:ADV robinson:X-ASN" src="9 11">nothing</w>
 <w lemma="strong:G1627 lemma.TR:εξενεγκειν" morph="robinson:V-2AAN" src="10" type="x-split-3240">out</w>.
+
 $$$I Timothy 6:8
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">And</w>
 <w lemma="strong:G2192 lemma.TR:εχοντες" morph="robinson:V-PAP-NPM" src="1">having</w>
@@ -1410,6 +1517,7 @@ $$$I Timothy 6:8
 <w lemma="strong:G714 lemma.TR:αρκεσθησομεθα" morph="robinson:V-FPI-1P" src="7" type="x-split-3241">let us be</w>
 <w lemma="strong:G5125 lemma.TR:τουτοις" morph="robinson:D-DPN" src="6">therewith</w>
 <w lemma="strong:G714 lemma.TR:αρκεσθησομεθα" morph="robinson:V-FPI-1P" src="7" type="x-split-3241">content</w>.
+
 $$$I Timothy 6:9
 <w lemma="strong:G3588 lemma.TR:οι" morph="robinson:T-NPM" src="1"/><w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">But</w>
 <w lemma="strong:G1014 lemma.TR:βουλομενοι" morph="robinson:V-PNP-NPM" src="3">they that will</w>
@@ -1432,6 +1540,7 @@ $$$I Timothy 6:9
 <w lemma="strong:G3639 lemma.TR:ολεθρον" morph="robinson:N-ASM" src="21">destruction</w>
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="22">and</w>
 <w lemma="strong:G684 lemma.TR:απωλειαν" morph="robinson:N-ASF" src="23">perdition</w>.
+
 $$$I Timothy 6:10
 <w lemma="strong:G3588 lemma.TR:των" morph="robinson:T-GPN" src="4"/><w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">For</w>
 <w lemma="strong:G3588 strong:G5365 lemma.TR:η lemma.TR:φιλαργυρια" morph="robinson:T-NSF robinson:N-NSF" src="7 8">the love of money</w>
@@ -1452,6 +1561,7 @@ $$$I Timothy 6:10
 <w lemma="strong:G4044 lemma.TR:περιεπειραν" morph="robinson:V-AAI-3P" src="18" type="x-split-3243">through</w>
 <w lemma="strong:G4183 lemma.TR:πολλαις" morph="robinson:A-DPF" src="20">with many</w>
 <w lemma="strong:G3601 lemma.TR:οδυναις" morph="robinson:N-DPF" src="19">sorrows</w>.
+
 $$$I Timothy 6:11
 <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">But</w>
 <w lemma="strong:G4771 lemma.TR:συ" morph="robinson:P-2NS" src="1">thou</w>,
@@ -1468,6 +1578,7 @@ $$$I Timothy 6:11
 <w lemma="strong:G26 lemma.TR:αγαπην" morph="robinson:N-ASF" src="14">love</w>,
 <w lemma="strong:G5281 lemma.TR:υπομονην" morph="robinson:N-ASF" src="15">patience</w>,
 <w lemma="strong:G4236 lemma.TR:πραοτητα" morph="robinson:N-ASF" src="16">meekness</w>.
+
 $$$I Timothy 6:12
 <w lemma="strong:G75 lemma.TR:αγωνιζου" morph="robinson:V-PNM-2S" src="1">Fight</w>
 <w lemma="strong:G3588 strong:G2570 lemma.TR:τον lemma.TR:καλον" morph="robinson:T-ASM robinson:A-ASM" src="2 3">the good</w>
@@ -1487,6 +1598,7 @@ $$$I Timothy 6:12
 <w lemma="strong:G1799 lemma.TR:ενωπιον" morph="robinson:ADV" src="20">before</w>
 <w lemma="strong:G4183 lemma.TR:πολλων" morph="robinson:A-GPM" src="21">many</w>
 <w lemma="strong:G3144 lemma.TR:μαρτυρων" morph="robinson:N-GPM" src="22">witnesses</w>.
+
 $$$I Timothy 6:13
 <w lemma="strong:G3853 lemma.TR:παραγγελλω" morph="robinson:V-PAI-1S" src="1" type="x-split-3245">I give</w>
 <w lemma="strong:G4671 lemma.TR:σοι" morph="robinson:P-2DS" src="2">thee</w>
@@ -1505,6 +1617,7 @@ $$$I Timothy 6:13
 <w lemma="strong:G3588 strong:G3140 lemma.TR:του lemma.TR:μαρτυρησαντος" morph="robinson:T-GSM robinson:V-AAP-GSM" src="13 14" type="x-split-3246">witnessed</w>
 <w lemma="strong:G3588 strong:G2570 lemma.TR:την lemma.TR:καλην" morph="robinson:T-ASF robinson:A-ASF" src="18 19">a good</w>
 <w lemma="strong:G3671 lemma.TR:ομολογιαν" morph="robinson:N-ASF" src="20">confession</w>;
+
 $$$I Timothy 6:14
 <w lemma="strong:G5083 lemma.TR:τηρησαι" morph="robinson:V-AAN" src="1" type="x-split-3247">That</w>
 <w lemma="strong:G4571 lemma.TR:σε" morph="robinson:P-2AS" src="2">thou</w>
@@ -1518,6 +1631,7 @@ $$$I Timothy 6:14
 <w lemma="strong:G3588 strong:G2962 lemma.TR:του lemma.TR:κυριου" morph="robinson:T-GSM robinson:N-GSM" src="10 11">Lord</w>
 <w lemma="strong:G2424 lemma.TR:ιησου" morph="robinson:N-GSM" src="13">Jesus</w>
 <w lemma="strong:G5547 lemma.TR:χριστου" morph="robinson:N-GSM" src="14">Christ</w>:
+
 $$$I Timothy 6:15
 <w lemma="strong:G3588 lemma.TR:των" morph="robinson:T-GPM" src="16"/><w lemma="strong:G3588 lemma.TR:των" morph="robinson:T-GPM" src="12"/><w lemma="strong:G3588 lemma.TR:ο" morph="robinson:T-NSM" src="5"/><w lemma="strong:G3739 lemma.TR:ην" morph="robinson:R-ASF" src="1">Which</w>
 <w lemma="strong:G2398 lemma.TR:ιδιοις" morph="robinson:A-DPM" src="3">in his</w>
@@ -1532,6 +1646,7 @@ $$$I Timothy 6:15
 <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="14">and</w>
 <w lemma="strong:G2962 lemma.TR:κυριος" morph="robinson:N-NSM" src="15">Lord</w>
 <w lemma="strong:G2961 lemma.TR:κυριευοντων" morph="robinson:V-PAP-GPM" src="17">of lords</w>;
+
 $$$I Timothy 6:16
 <w lemma="strong:G3588 lemma.TR:ο" morph="robinson:T-NSM" src="1"/><w lemma="strong:G2192 lemma.TR:εχων" morph="robinson:V-PAP-NSM" src="3" type="x-split-3248">Who</w>
 <w lemma="strong:G3441 lemma.TR:μονος" morph="robinson:A-NSM" src="2">only</w>
@@ -1553,6 +1668,7 @@ $$$I Timothy 6:16
 <w lemma="strong:G2904 lemma.TR:κρατος" morph="robinson:N-NSN" src="18">power</w>
 <w lemma="strong:G166 lemma.TR:αιωνιον" morph="robinson:A-NSN" src="19">everlasting</w>.
 <w lemma="strong:G281 lemma.TR:αμην" morph="robinson:HEB" src="20">Amen</w>.
+
 $$$I Timothy 6:17
 <w lemma="strong:G3853 lemma.TR:παραγγελλε" morph="robinson:V-PAM-2S" src="7">Charge</w>
 <w lemma="strong:G3588 strong:G4145 lemma.TR:τοις lemma.TR:πλουσιοις" morph="robinson:T-DPM robinson:A-DPM" src="1 2">them that are rich</w>
@@ -1576,6 +1692,7 @@ $$$I Timothy 6:17
 <w lemma="strong:G4146 lemma.TR:πλουσιως" morph="robinson:ADV" src="24">richly</w>
 <w lemma="strong:G3956 lemma.TR:παντα" morph="robinson:A-APN" src="25">all things</w>
 <w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="26">to</w> enjoy;<w lemma="strong:G619 lemma.TR:απολαυσιν" morph="robinson:N-ASF" src="27"/>
+
 $$$I Timothy 6:18
 <w lemma="strong:G1511 lemma.TR:ειναι" morph="robinson:V-PXN" src="7"/><w lemma="strong:G14 lemma.TR:αγαθοεργειν" morph="robinson:V-PAN" src="1">That they do good</w>,
 <w lemma="strong:G4147 lemma.TR:πλουτειν" morph="robinson:V-PAN" src="2">that they be rich</w>
@@ -1584,6 +1701,7 @@ $$$I Timothy 6:18
 <w lemma="strong:G2041 lemma.TR:εργοις" morph="robinson:N-DPN" src="4">works</w>,
 <w lemma="strong:G2130 lemma.TR:ευμεταδοτους" morph="robinson:A-APM" src="6">ready to distribute</w>,
 <w lemma="strong:G2843 lemma.TR:κοινωνικους" morph="robinson:A-APM" src="8">willing to communicate</w>;
+
 $$$I Timothy 6:19
 <w lemma="strong:G3588 lemma.TR:της" morph="robinson:T-GSF" src="10"/><w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-ASN" src="6"/><w lemma="strong:G597 lemma.TR:αποθησαυριζοντας" morph="robinson:V-PAP-APM" src="1">Laying up in store</w>
 <w lemma="strong:G1438 lemma.TR:εαυτοις" morph="robinson:F-3DPM" src="2">for themselves</w>
@@ -1595,6 +1713,7 @@ $$$I Timothy 6:19
 <w lemma="strong:G1949 lemma.TR:επιλαβωνται" morph="robinson:V-2ADS-3P" src="9">they may lay hold on</w>
 <w lemma="strong:G166 lemma.TR:αιωνιου" morph="robinson:A-GSF" src="11">eternal</w>
 <w lemma="strong:G2222 lemma.TR:ζωης" morph="robinson:N-GSF" src="12">life</w>.
+
 $$$I Timothy 6:20
 <w lemma="strong:G3588 lemma.TR:της" morph="robinson:T-GSF" src="12"/><w lemma="strong:G3588 lemma.TR:τας" morph="robinson:T-APF" src="7"/><w lemma="strong:G5599 lemma.TR:ω" morph="robinson:INJ" src="1">O</w>
 <w lemma="strong:G5095 lemma.TR:τιμοθεε" morph="robinson:N-VSM" src="2">Timothy</w>,
@@ -1607,6 +1726,7 @@ $$$I Timothy 6:20
 <w lemma="strong:G477 lemma.TR:αντιθεσεις" morph="robinson:N-APF" src="11">oppositions</w>
 <w lemma="strong:G1108 lemma.TR:γνωσεως" morph="robinson:N-GSF" src="14">of science</w>
 <w lemma="strong:G5581 lemma.TR:ψευδωνυμου" morph="robinson:A-GSF" src="13">falsely so called</w>:
+
 $$$I Timothy 6:21
 <w lemma="strong:G3739 lemma.TR:ην" morph="robinson:R-ASF" src="1">Which</w>
 <w lemma="strong:G5100 lemma.TR:τινες" morph="robinson:X-NPM" src="2">some</w>

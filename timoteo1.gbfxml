@@ -120,11 +120,29 @@ unfeigned faith;
 		<sv id="Timoteo1-1-6">
 from which things some, having missed the mark, have
 turned aside to vain talking;
+<t xml:lang="es"><wi type="G" value="3739,1,">por lo cual</wi>,
+<wi type="G" value="5100,2,">algunos</wi>,
+<wi type="G" value="795,3,">que se distrajeron</wi>,
+<wi type="G" value="1624,4,">se han vuelto</wi>
+<wi type="G" value="1519,5,">a</wi>
+<wi type="G" value="3150,6,">conversaciones vanas</wi>;
+</t>
 </sv>
 		<sv id="Timoteo1-1-7">
 desiring to be teachers of the law, though
 they understand neither what they say, nor about what they strongly affirm.
-
+<t xml:lang="es"><wi type="G" value="2309,1,">deseando</wi>
+<wi type="G" value="1511,2,">ser</wi>
+<wi type="G" value="3547,3,">maestros de la ley</wi>,
+<wi type="G" value="3383,6,">aunque</wi>
+<wi type="G" value="3361,4,">no</wi>
+<wi type="G" value="3539,5,">entienden</wi>
+<wi type="G" value="3739,7,">lo que</wi>
+<wi type="G" value="3004,8,">dicen</wi>,
+<wi type="G" value="3383,9,">ni</wi>
+<wi type="G" value="4012,10,">sobre</wi>
+<wi type="G" value="5101,11,">lo que</wi>
+<wi type="G" value="1226,12,">afirman</wi>.</t>
 </sv>
 		<sv id="Timoteo1-1-8">
 But we know that the law is good, if a man uses it lawfully,
