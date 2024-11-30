@@ -175,10 +175,10 @@ for murderers of fathers and murderers of mothers, for manslayers,
 <wi type="G" value="3754,3,">que</wi>
 <wi type="G" value="3551,5,">la ley</wi>
 <wi type="G" value="3756,6,">no</wi>
-<wi type="G" value="2749,7,">fue hecha para</wi>
-<wi type="G" value="1342,4,">el justo</wi>,
+<wi type="G" value="2749,7,">fue hecha</wi>
+para <wi type="G" value="1342,4,">el justo</wi>,
 <wi type="G" value="1161,9,">sino</wi>
-<wi type="G" value="459,8,">para los injustos</wi>
+para <wi type="G" value="459,8,">los injustos</wi>
 <wi type="G" value="2532,10,">e</wi>
 <wi type="G" value="506,11,">insubordinados</wi>,
 para <wi type="G" value="765,12,">los gentiles</wi>
@@ -186,8 +186,7 @@ para <wi type="G" value="765,12,">los gentiles</wi>
 <wi type="G" value="268,14,">pecadores</wi>,
 para <wi type="G" value="462,15,">los malos</wi>
 <wi type="G" value="2532,16,">y</wi>
-<wi type="G" value="952,17,">profanos</wi>,
-<wi type="G" value="2532,19,">y</wi> para
+<wi type="G" value="952,17,">profanos</wi>, para
 <wi type="G" value="3964,18,">los parricidas</wi>
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="3389,20,">matricidas</wi>
@@ -198,16 +197,16 @@ para <wi type="G" value="409,21,">los homicidas</wi>,</t>
 for the sexually immoral, for homosexuals, for slave-traders, for liars, for
 perjurers, and for any other thing contrary to the sound doctrine;
 <t xml:lang="es">para <wi type="G" value="4205,1,">los sexualmente inmorales</wi>,
-para <wi type="G" value="733,2,">los homosexuales</wi>, 
+para <wi type="G" value="733,2,">los homosexuales</wi>,
 para <wi type="G" value="405,3,">los traficantes de hombres</wi>,
-para <wi type="G" value="5583,4,">los mentirosos</wi>, 
+para <wi type="G" value="5583,4,">los mentirosos</wi>,
 para <wi type="G" value="1965,5,">los que perjuran</wi>,
-<wi type="G" value="2532,6,">y</wi> 
+<wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="1487,7,">si</wi> hay
-<wi type="G" value="5100,8,">cualquier</wi> 
-<wi type="G" value="2087,9,">otra cosa</wi> 
-<wi type="G" value="480,13,">contraria a</wi> 
-<wi type="G" value="3588,10,"/><wi type="G" value="5198,11,">la sana</wi> 
+<wi type="G" value="5100,8,">cualquier</wi>
+<wi type="G" value="2087,9,">otra cosa</wi>
+<wi type="G" value="480,13,">contraria a</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="5198,11,">la sana</wi>
 <wi type="G" value="1319,12,">doctrina</wi>;
 </t>
 
@@ -217,13 +216,13 @@ para <wi type="G" value="1965,5,">los que perjuran</wi>,
 according to the Good News of the glory of the blessed God, which was
 committed to my trust.
 <t xml:lang="es">
-<wi type="G" value="2596,1,">de acuerdo</wi> 
-<wi type="G" value="3588,4,"><wi type="G" value="1391,5,">al glorioso</wi></wi> 
-<wi type="G" value="3588,2,"><wi type="G" value="2098,3,">Evangelio</wi></wi> 
-<wi type="G" value="3588,6,"/><wi type="G" value="3107,7,">del bendito</wi> 
+<wi type="G" value="2596,1,">de acuerdo</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="1391,5,">al glorioso</wi></wi>
+<wi type="G" value="3588,2,"><wi type="G" value="2098,3,">Evangelio</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="3107,7,">del bendito</wi>
 <wi type="G" value="2316,8,">Dios</wi>,
 <wi type="G" value="3739,9,">que</wi>
-<wi type="G" value="1473,11,">me</wi> 
+<wi type="G" value="1473,11,">me</wi>
 <wi type="G" value="4100,10,">fue confiado</wi>.
 </t>
 </sv>
@@ -231,12 +230,42 @@ committed to my trust.
 <sv id="Timoteo1-1-12">
 And I thank him who enabled me, Christ Jesus our
 Lord, because he counted me faithful, appointing me to service;
-
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="5485,2,"><wi type="G" value="2192,3,">agradezco</wi></wi>
+al que <wi type="G" value="3165,6,">me</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="1743,5,">habilitó</wi></wi>,
+<wi type="G" value="5547,7,">Cristo</wi>
+<wi type="G" value="2424,8,">Jesús</wi>
+<wi type="G" value="2257,11,">nuestro</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="2962,10,">Señor</wi></wi>,
+<wi type="G" value="3754,12,">porque</wi>
+<wi type="G" value="3165,14,">me</wi>
+<wi type="G" value="2233,15,">contó</wi>
+como <wi type="G" value="4103,13,">fiel</wi>,
+y <wi type="G" value="5087,16,">me puso</wi>
+<wi type="G" value="1519,17,">en</wi>
+<wi type="G" value="1248,18,">el ministerio</wi>;</t>
 </sv>
 
 <sv id="Timoteo1-1-13">
 although I was before a blasphemer, a persecutor, and insolent.
 However, I obtained mercy, because I did it ignorantly in unbelief.
+<t xml:lang="es"><wi type="G" value="3588,1,">al que</wi>
+<wi type="G" value="4386,2,">antes</wi>
+<wi type="G" value="5607,3,">era</wi>
+<wi type="G" value="989,4,">un blasfemo</wi>,
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="1376,6,">un perseguidor</wi>,
+<wi type="G" value="2532,7,">e</wi>
+<wi type="G" value="5197,8,">insolente</wi>.
+<wi type="G" value="235,9,">Sin embargo</wi>,
+<wi type="G" value="1653,10,">obtuve misericordia</wi>,
+<wi type="G" value="3754,11,">porque</wi> lo
+<wi type="G" value="4160,13,">hacía</wi>
+<wi type="G" value="50,12,">ignorantemente</wi>
+<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="570,15,">incredulidad</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-1-14">
