@@ -405,9 +405,9 @@ away made a shipwreck concerning the faith;
 <wi type="G" value="3739,6,">la cual</wi>
 <wi type="G" value="5100,7,">algunos</wi>
 <wi type="G" value="683,8,">al abandonarla</wi>
-<wi type="G" value="3489,12,">hicieron un hundimiento</wi>
-<wi type="G" value="4012,9,">respecto a</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4102,11,">la fe</wi></wi>:
+<wi type="G" value="3489,12,">hicieron naufragio</wi>
+<wi type="G" value="4012,9,">de</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="4102,11,">fe</wi></wi>:
 </t>
 </sv>
 
@@ -415,16 +415,41 @@ away made a shipwreck concerning the faith;
 of whom is Hymenaeus and
 Alexander; whom I delivered to Satan, that they might be taught not to
 blaspheme.
+<t xml:lang="es">
+<wi type="G" value="3739,1,">de los cuales</wi>
+<wi type="G" value="2076,2,">son</wi>
+<wi type="G" value="5211,3,">Himeneo</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="223,5,">Alejandro</wi>;
+<wi type="G" value="3739,6,">a quienes</wi>
+<wi type="G" value="3860,7,">entregué a</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="4567,9,">Satanás</wi></wi>,
+<wi type="G" value="2443,10,">para que</wi>
+<wi type="G" value="3811,11,">aprendan a</wi>
+<wi type="G" value="3361,12,">no</wi>
+<wi type="G" value="987,13,">blasfemar</wi>.</t>
 
 <cl/>
-
-
 </sv></cm></sc>
+
 <sc id="Timoteo1-2">
 <cm>
 <sv id="Timoteo1-2-1">
 I exhort therefore, first of all, that petitions, prayers,
 intercessions, and givings of thanks, be made for all men:
+<t xml:lang="es">
+<wi type="G" value="3767,2,">Entonces</wi>
+<wi type="G" value="3870,1,">animo a</wi>
+<wi type="G" value="4160,5,">hacer</wi>,
+<wi type="G" value="4412,3,">primero</wi>
+<wi type="G" value="3956,4,">que todo</wi>,
+<wi type="G" value="1162,6,">peticiones</wi>,
+<wi type="G" value="4335,7,">oraciones</wi>,
+<wi type="G" value="1783,8,">intercesiones</wi> y
+<wi type="G" value="2169,9,">acciones de gracias</wi>,
+<wi type="G" value="5228,10,">por</wi>
+<wi type="G" value="3956,11,">todos</wi>
+<wi type="G" value="444,12,">los hombres</wi>:</t>
 </sv>
 
 <sv id="Timoteo1-2-2">
