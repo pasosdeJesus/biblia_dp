@@ -456,11 +456,44 @@ intercessions, and givings of thanks, be made for all men:
 for kings and
 all who are in high places; that we may lead a tranquil and quiet life in all
 godliness and reverence.
+<t xml:lang="es"><wi type="G" value="5228,1,">por</wi>
+<wi type="G" value="935,2,">los reyes</wi>
+<wi type="G" value="2532,3,">y</wi> por
+<wi type="G" value="3956,4,">todos</wi> los que
+<wi type="G" value="5607,8,">están</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="5247,7,">autoridad</wi>;
+<wi type="G" value="2443,9,">para que</wi>
+<wi type="G" value="1236,14,">podamos llevar</wi>
+<wi type="G" value="979,13,">una vida</wi>
+<wi type="G" value="2263,10,">tranquila</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="2272,12,">apacible</wi>
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="3956,16,">toda</wi>
+<wi type="G" value="2150,17,">piedad</wi>
+<wi type="G" value="2532,18,">y</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4587,19,">honestidad</wi><rf>
+<citebib id="WEB"/> dice `reverencia,´
+<citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen
+`honestidad.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `σεμνοτητι,´
+se traduce como venerable, honor, pureza.</rf></rb>
+<t xml:lang="es">.</t>
 </sv>
 
 <sv id="Timoteo1-2-3">
 For this is good and acceptable in the sight of
 God our Savior;
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="5124,1,">esto</wi> es
+<wi type="G" value="2570,3,">bueno</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="587,5,">aceptable</wi>
+<wi type="G" value="1799,6,">a la vista</wi>
+<wi type="G" value="2316,10,">de Dios</wi>
+<wi type="G" value="2257,9,">nuestro</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="4990,8,">Salvador</wi></wi>;</t>
 </sv>
 
 <sv id="Timoteo1-2-4">
