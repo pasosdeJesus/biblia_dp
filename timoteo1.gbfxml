@@ -499,11 +499,34 @@ God our Savior;
 <sv id="Timoteo1-2-4">
 who desires all people to be saved and come to full
 knowledge of the truth.
+<t xml:lang="es"><wi type="G" value="3739,1,">Quien</wi>
+<wi type="G" value="2309,4,">desea</wi> que
+<wi type="G" value="3956,2,">toda</wi>
+<wi type="G" value="444,3,">la gente</wi>
+<wi type="G" value="4982,5,">sea salva</wi>
+<wi type="G" value="2532,6,">y</wi> que
+<wi type="G" value="2064,10,">llegue</wi>
+<wi type="G" value="1519,7,">al</wi>
+<wi type="G" value="1922,8,">conocimiento</wi>
+<wi type="G" value="225,9,">de la verdad</wi>.</t>
 </sv>
 
 <sv id="Timoteo1-2-5">
 For there is one God, and one mediator between
 God and men, the man Christ Jesus,
+<t xml:lang="es"><wi type="G" value="1063,2,">Porque</wi> hay
+<wi type="G" value="1520,1,">un</wi>
+<wi type="G" value="2316,3,">Dios</wi>,
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="1520,4,">un</wi>
+<wi type="G" value="3316,6,">mediador entre</wi>
+<wi type="G" value="2316,7,">Dios</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="444,9,">los hombres</wi>,
+<wi type="G" value="5547,11,">Cristo</wi>
+<wi type="G" value="2424,12,">Jesús</wi>
+<wi type="G" value="444,10,">hombre</wi>,
+</t>
 </sv>
 
 <sv id="Timoteo1-2-6">
