@@ -532,12 +532,41 @@ God and men, the man Christ Jesus,
 <sv id="Timoteo1-2-6">
 who gave himself as a ransom for all;
 the testimony in its own times;
+<t xml:lang="es"><wi type="G" value="355,1,">quien</wi> 
+<wi type="G" value="1325,2,">se entregó</wi> 
+<wi type="G" value="1438,3,">a si mismo</wi> como 
+<wi type="G" value="487,4,">rescate</wi> 
+<wi type="G" value="5228,5,">por</wi> 
+<wi type="G" value="3956,6,">todos</wi>;
+<wi type="G" value="3588,7,"><wi type="G" value="3142,8,">un testimonio</wi></wi>
+<wi type="G" value="2540,9,">en tiempo</wi> 
+<wi type="G" value="2398,10,">apropiado</wi>;
+</t>
 </sv>
 
 <sv id="Timoteo1-2-7">
 to which I was appointed a preacher and
 an apostle (I am telling the truth in Christ, not lying), a teacher of the
 Gentiles in faith and truth.
+<t xml:lang="es"><wi type="G" value="1519,1,"><wi type="G" value="3739,2,">por lo cual</wi></wi> 
+<wi type="G" value="1473,4,">yo</wi> 
+<wi type="G" value="5087,3,">fui designado</wi> 
+<wi type="G" value="2783,5,">predicador</wi>
+<wi type="G" value="2532,6,">y</wi> 
+<wi type="G" value="652,7,">apóstol</wi> 
+(<wi type="G" value="3004,9,">hablo</wi> 
+<wi type="G" value="225,8,">la verdad</wi> 
+<wi type="G" value="1722,10,">en</wi> 
+<wi type="G" value="5547,11,">Cristo</wi>, 
+<wi type="G" value="3756,12,">no</wi> 
+<wi type="G" value="5574,13,">miento</wi>),
+<wi type="G" value="1320,14,">un maestro</wi> 
+<wi type="G" value="1484,15,">de los gentiles</wi> 
+<wi type="G" value="1722,16,">en</wi> 
+<wi type="G" value="4102,17,">fe</wi> 
+<wi type="G" value="2532,18,">y</wi> en 
+<wi type="G" value="225,19,">verdad</wi>.
+</t>
 
 </sv></cm><cm>
 
