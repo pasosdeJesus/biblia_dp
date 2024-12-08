@@ -532,14 +532,14 @@ God and men, the man Christ Jesus,
 <sv id="Timoteo1-2-6">
 who gave himself as a ransom for all;
 the testimony in its own times;
-<t xml:lang="es"><wi type="G" value="355,1,">quien</wi> 
-<wi type="G" value="1325,2,">se entregó</wi> 
-<wi type="G" value="1438,3,">a si mismo</wi> como 
-<wi type="G" value="487,4,">rescate</wi> 
-<wi type="G" value="5228,5,">por</wi> 
+<t xml:lang="es"><wi type="G" value="355,1,">quien</wi>
+<wi type="G" value="1325,2,">se entregó</wi>
+<wi type="G" value="1438,3,">a si mismo</wi> como
+<wi type="G" value="487,4,">rescate</wi>
+<wi type="G" value="5228,5,">por</wi>
 <wi type="G" value="3956,6,">todos</wi>;
 <wi type="G" value="3588,7,"><wi type="G" value="3142,8,">un testimonio</wi></wi>
-<wi type="G" value="2540,9,">en tiempo</wi> 
+<wi type="G" value="2540,9,">en tiempo</wi>
 <wi type="G" value="2398,10,">apropiado</wi>;
 </t>
 </sv>
@@ -548,37 +548,88 @@ the testimony in its own times;
 to which I was appointed a preacher and
 an apostle (I am telling the truth in Christ, not lying), a teacher of the
 Gentiles in faith and truth.
-<t xml:lang="es"><wi type="G" value="1519,1,"><wi type="G" value="3739,2,">por lo cual</wi></wi> 
-<wi type="G" value="1473,4,">yo</wi> 
-<wi type="G" value="5087,3,">fui designado</wi> 
+<t xml:lang="es"><wi type="G" value="1519,1,"><wi type="G" value="3739,2,">por lo cual</wi></wi>
+<wi type="G" value="1473,4,">yo</wi>
+<wi type="G" value="5087,3,">fui designado</wi>
 <wi type="G" value="2783,5,">predicador</wi>
-<wi type="G" value="2532,6,">y</wi> 
-<wi type="G" value="652,7,">apóstol</wi> 
-(<wi type="G" value="3004,9,">hablo</wi> 
-<wi type="G" value="225,8,">la verdad</wi> 
-<wi type="G" value="1722,10,">en</wi> 
-<wi type="G" value="5547,11,">Cristo</wi>, 
-<wi type="G" value="3756,12,">no</wi> 
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="652,7,">apóstol</wi>
+(<wi type="G" value="3004,9,">hablo</wi>
+<wi type="G" value="225,8,">la verdad</wi>
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="5547,11,">Cristo</wi>,
+<wi type="G" value="3756,12,">no</wi>
 <wi type="G" value="5574,13,">miento</wi>),
-<wi type="G" value="1320,14,">un maestro</wi> 
-<wi type="G" value="1484,15,">de los gentiles</wi> 
-<wi type="G" value="1722,16,">en</wi> 
-<wi type="G" value="4102,17,">fe</wi> 
-<wi type="G" value="2532,18,">y</wi> en 
+<wi type="G" value="1320,14,">un maestro</wi>
+<wi type="G" value="1484,15,">de los gentiles</wi>
+<wi type="G" value="1722,16,">en</wi>
+<wi type="G" value="4102,17,">fe</wi>
+<wi type="G" value="2532,18,">y</wi> en
 <wi type="G" value="225,19,">verdad</wi>.
 </t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Timoteo1-2-8">
 I desire therefore that the men in every place pray, lifting up holy
 hands without wrath and doubting.
+<t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
+<wi type="G" value="1014,1,">deseo</wi> que
+<wi type="G" value="4336,3,">oren</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="435,5,">los hombres</wi></wi>
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="3956,7,">todo</wi>
+<wi type="G" value="5117,8,">lugar</wi>,
+<wi type="G" value="1869,9,">levantando</wi>
+<wi type="G" value="5495,11,">manos</wi>
+<wi type="G" value="3741,10,">santas</wi>
+<wi type="G" value="5565,12,">sin</wi>
+<wi type="G" value="3709,13,">ira</wi>
+<wi type="G" value="2532,14,">ni</wi> </t>
+<rb xml:lang="es"><wi type="G" value="1261,15,">dudas</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `dudas,´
+<citebib id="RVG2012"/> dice `contiendas.´
+La palabra `διαλογισμου,´
+se ha traducido como pensamientos y disputas. Según
+<citebib id="Thayer-BLB"/> se traduce como pensamiento de un hombre
+que delibera consigo mismo o un cuestionamiento a lo que es verdad.</rf></rb>
+<t xml:lang="es">.</t>
 </sv>
 
 <sv id="Timoteo1-2-9">
 In the same way, that women also adorn
 themselves in decent clothing, with modesty and propriety; not just with
 braided hair, gold, pearls, or expensive clothing;
+<t xml:lang="es"><wi type="G" value="2532,2,">Y</wi>
+<wi type="G" value="5615,1,">así mismo</wi>,
+<wi type="G" value="3588,3,">que</wi>
+<wi type="G" value="1135,4,">las mujeres</wi>
+<wi type="G" value="1438,13,">se</wi>
+<wi type="G" value="2885,12,">adornen</wi>
+<wi type="G" value="1722,5,">con</wi>
+<wi type="G" value="2689,6,">ropa</wi>
+<wi type="G" value="2887,7,">modesta</wi>,
+<wi type="G" value="3326,8,">con</wi>
+<wi type="G" value="127,9,">respeto</wi>
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="4997,11,">sobriedad</wi>;
+<wi type="G" value="3361,14,">no</wi>
+<wi type="G" value="1722,15,">con</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4117,16,">cabello bordado</wi><rf>
+<citebib id="WEB"/> dice `cabello trenzado,´
+<citebib id="KJV2012"/> dice `cabello bordado,´
+<citebib id="RVG2012"/> dice `cabello encrespado.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `πλεγμασιν´ se
+refiere a lo que es tejido, trenzado o retorcido.
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="2228,17,">ni</wi>
+<wi type="G" value="5557,18,">oro</wi>,
+<wi type="G" value="2228,19,">ni</wi>
+<wi type="G" value="3135,20,">perlas</wi>
+<wi type="G" value="2228,21,">ni</wi>
+con <wi type="G" value="2441,22,">vestidos</wi>
+<wi type="G" value="4185,23,">costosos</wi>; </t>
 </sv>
 
 <sv id="Timoteo1-2-10">
