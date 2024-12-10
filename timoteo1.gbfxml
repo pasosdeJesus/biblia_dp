@@ -635,11 +635,29 @@ con <wi type="G" value="2441,22,">vestidos</wi>
 <sv id="Timoteo1-2-10">
 but (which becomes
 women professing godliness) with good works.
+<t xml:lang="es"><wi type="G" value="235,1,">pero</wi>,
+<wi type="G" value="3739,2,">que</wi>
+<wi type="G" value="4241,3,">sean</wi>
+<wi type="G" value="1135,4,">mujeres</wi>
+<wi type="G" value="1861,5,">que profesen</wi>
+<wi type="G" value="2317,6,">piedad</wi>
+<wi type="G" value="1223,7,">con</wi>
+<wi type="G" value="18,9,">buenas</wi>
+<wi type="G" value="2041,8,">obras</wi>.</t>
 </sv>
 
 <sv id="Timoteo1-2-11">
 Let a woman learn in
 quietness with all subjection.
+<t xml:lang="es">
+<wi type="G" value="3129,4,">Que</wi>
+<wi type="G" value="1135,1,">la mujer</wi>
+<wi type="G" value="3129,4,">aprenda</wi>
+<wi type="G" value="1722,2,">en</wi>
+<wi type="G" value="2271,3,">silencio</wi>
+<wi type="G" value="1722,5,">con</wi>
+<wi type="G" value="3956,6,">toda</wi>
+<wi type="G" value="5292,7,">sujeción</wi>.</t>
 </sv>
 
 <sv id="Timoteo1-2-12">
