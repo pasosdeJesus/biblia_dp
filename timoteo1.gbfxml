@@ -652,7 +652,7 @@ quietness with all subjection.
 <t xml:lang="es">
 <wi type="G" value="3129,4,">Que</wi>
 <wi type="G" value="1135,1,">la mujer</wi>
-<wi type="G" value="3129,4,">aprenda</wi>
+<wi type="GC" value="4">aprenda</wi>
 <wi type="G" value="1722,2,">en</wi>
 <wi type="G" value="2271,3,">silencio</wi>
 <wi type="G" value="1722,5,">con</wi>
@@ -663,11 +663,35 @@ quietness with all subjection.
 <sv id="Timoteo1-2-12">
 But I don´t permit a woman to teach, nor
 to exercise authority over a man, but to be in quietness.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> 
+<wi type="G" value="3756,4,">no</wi> </t>
+<rb xml:lang="es"><wi type="G" value="2010,5,">permito</wi><rf>
+<citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `permito,´
+<citebib id="KJV2003"/> dice `soporto.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `επιτρεπω´
+se traduce como permitir.
+</rf></rb>
+<t xml:lang="es">
+que <wi type="G" value="1135,1,">una mujer</wi> 
+<wi type="G" value="1321,3,">enseñe</wi>,
+<wi type="G" value="3761,6,">ni</wi> que 
+<wi type="G" value="831,7,">ejerza autoridad sobre</wi> 
+<wi type="G" value="435,8,">el hombre</wi>,
+<wi type="G" value="235,9,">sino</wi> que 
+<wi type="G" value="1511,10,">esté</wi> 
+<wi type="G" value="1722,11,">en</wi> 
+<wi type="G" value="2271,12,">silencio</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-2-13">
-For Adam was
-first formed, then Eve.
+For Adam was first formed, then Eve.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> 
+<wi type="G" value="76,1,">Adán</wi> 
+<wi type="G" value="4111,4,">fue formado</wi> 
+<wi type="G" value="4413,3,">primero</wi>, 
+<wi type="G" value="1534,5,">y después</wi>
+<wi type="G" value="2096,6,">Eva</wi>.</t>
 </sv>
 
 <sv id="Timoteo1-2-14">
