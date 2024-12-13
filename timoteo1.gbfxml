@@ -663,7 +663,7 @@ quietness with all subjection.
 <sv id="Timoteo1-2-12">
 But I don´t permit a woman to teach, nor
 to exercise authority over a man, but to be in quietness.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> 
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="3756,4,">no</wi> </t>
 <rb xml:lang="es"><wi type="G" value="2010,5,">permito</wi><rf>
 <citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `permito,´
@@ -672,24 +672,24 @@ Según <citebib id="Thayer-BLB"/> la palabra griega `επιτρεπω´
 se traduce como permitir.
 </rf></rb>
 <t xml:lang="es">
-que <wi type="G" value="1135,1,">una mujer</wi> 
+que <wi type="G" value="1135,1,">una mujer</wi>
 <wi type="G" value="1321,3,">enseñe</wi>,
-<wi type="G" value="3761,6,">ni</wi> que 
-<wi type="G" value="831,7,">ejerza autoridad sobre</wi> 
+<wi type="G" value="3761,6,">ni</wi> que
+<wi type="G" value="831,7,">ejerza autoridad sobre</wi>
 <wi type="G" value="435,8,">el hombre</wi>,
-<wi type="G" value="235,9,">sino</wi> que 
-<wi type="G" value="1511,10,">esté</wi> 
-<wi type="G" value="1722,11,">en</wi> 
+<wi type="G" value="235,9,">sino</wi> que
+<wi type="G" value="1511,10,">esté</wi>
+<wi type="G" value="1722,11,">en</wi>
 <wi type="G" value="2271,12,">silencio</wi>.
 </t>
 </sv>
 
 <sv id="Timoteo1-2-13">
 For Adam was first formed, then Eve.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> 
-<wi type="G" value="76,1,">Adán</wi> 
-<wi type="G" value="4111,4,">fue formado</wi> 
-<wi type="G" value="4413,3,">primero</wi>, 
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="76,1,">Adán</wi>
+<wi type="G" value="4111,4,">fue formado</wi>
+<wi type="G" value="4413,3,">primero</wi>,
 <wi type="G" value="1534,5,">y después</wi>
 <wi type="G" value="2096,6,">Eva</wi>.</t>
 </sv>
@@ -697,17 +697,42 @@ For Adam was first formed, then Eve.
 <sv id="Timoteo1-2-14">
 Adam wasn´t deceived, but the woman, being
 deceived, has fallen into disobedience;
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="76,2,">Adán</wi>
+<wi type="G" value="3756,3,">no</wi>
+<wi type="G" value="538,4,">fue engañado</wi>,
+<wi type="G" value="3588,5,"/><wi type="G" value="1161,6,">sino</wi>
+<wi type="G" value="1135,7,">la mujer</wi>,
+y
+<wi type="G" value="538,8,">el engaño</wi>,
+<wi type="G" value="1096,11,">se tornó</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="3847,10,">desobediencia</wi>;</t>
 </sv>
 
 <sv id="Timoteo1-2-15">
 but she will be saved through
 her childbearing, if they continue in faith, love, and sanctification with
 sobriety.
-
+<t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
+<wi type="G" value="4982,1,">se salvará</wi>
+<wi type="G" value="1223,3,">al</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="5042,5,">tener hijos</wi></wi>,
+<wi type="G" value="1437,6,">si</wi>
+<wi type="G" value="3306,7,">continúan</wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="4102,9,">fe</wi>,
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="26,11,">amor</wi>
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="38,13,">santificación</wi>
+<wi type="G" value="3326,14,">con</wi>
+<wi type="G" value="4997,15,">sobriedad</wi>.
+</t>
 <cl/>
 
-
 </sv></cm></sc>
+
 <sc id="Timoteo1-3">
 <cm>
 <sv id="Timoteo1-3-1">
