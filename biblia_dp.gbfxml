@@ -24,7 +24,7 @@
 
   <!-- Traducción a español de la Biblia, de dominio público, no oficial,
   	especialmente basada en World English Bible.
-	Sin garantias. evangelios-dp@yahoogroups.com -->
+	Sin garantias. https://gitlab.com/pasosdeJesus/biblia_dp -->
 <gbfxml version="0.1" xml:lang="es">
 <tt>Los Evangelios: Traducción  de dominio público abierta a mejoras</tt>
 <stt>biblia_dp</stt>
@@ -43,6 +43,5 @@
 &colosenses;
 &tesalonicenses1;
 &tesalonicenses2;
-&timoteo1;
 &biblio;
 </gbfxml>
