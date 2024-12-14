@@ -737,11 +737,24 @@ sobriety.
 <cm>
 <sv id="Timoteo1-3-1">
 This is a faithful saying: if a man seeks the office of an
-
-<rb>overseer
-<t xml:lang="es"/><rf>Or, bishop<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="3588,2,">Esta</wi> es
+<wi type="G" value="3056,3,">palabra</wi>
+<wi type="G" value="4103,1,">fiel</wi>:
+<wi type="G" value="1487,4,">si</wi>
+<wi type="G" value="5100,5,">un hombre</wi>
+<wi type="G" value="3713,7,">desea</wi> </t>
+<rb>overseer<t xml:lang="es"><wi type="G" value="1984,6,">el oficio de
+obispo</wi></t><rf>Or, bishop<t xml:lang="es"><citebib id="WEB"/> dice
+`supervisor,´ con nota al pie de página `U obispo,´
+<citebib id="KJV2003"/> y <citebib id="RVG2012"/> dice `obispo.´
+</t></rf>
 </rb>
 , he desires a good work.
+<t xml:lang="es">
+<wi type="G" value="1937,10,">desea</wi>
+<wi type="G" value="2570,8,">un buen</wi>
+<wi type="G" value="2041,9,">trabajo</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-3-2">
