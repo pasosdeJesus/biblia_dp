@@ -761,12 +761,68 @@ obispo</wi></t><rf>Or, bishop<t xml:lang="es"><citebib id="WEB"/> dice
 The overseer
 therefore must be without reproach, the husband of one wife, temperate,
 sensible, modest, hospitable, good at teaching;
+<t xml:lang="es">
+<wi type="G" value="3588,3,"><wi type="G" value="1985,4,">El obispo</wi></wi>,
+<wi type="G" value="3767,2,">entonces</wi>,
+<wi type="G" value="1163,1,">debe</wi>
+<wi type="G" value="1511,6,">ser</wi>
+<wi type="G" value="423,5,">irreprochable</wi>,
+<wi type="G" value="435,9,">esposo</wi>
+<wi type="G" value="1520,7,">de una</wi>
+<wi type="G" value="1135,8,">mujer</wi>, </t>
+<rb xml:lang="es"><wi type="G" value="3524,10,">sobrio</wi><rf>
+<citebib id="WEB"/> dice `moderado´,
+<citebib id="KJV2003"/> dice `vigilante´,
+<citebib id="RVG2012"/> dice `solicito.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `νηφαλιον´
+se traduce como que se abstiene de vino.
+</rf></rb>
+<t xml:lang="es">, </t>
+<rb xml:lang="es"><wi type="G" value="4998,11,">autocontrolado</wi><rf>
+<citebib id="WEB"/> dice `sensible,´
+<citebib id="KJV2003"/> dice `sobrio,´
+<citebib id="RVG2012"/> dice `templado.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `σωφρονα´
+se traduce como de mente consistente, que controla sus deseos e impulsos.
+ </rf></rb>
+<t xml:lang="es">, </t>
+<rb xml:lang="es"><wi type="G" value="2887,12,">de buen comportamiento</wi><rf>
+<citebib id="WEB"/> dice `modesto,´
+<citebib id="KJV2003"/> dice `de buen comportamiento,´
+<citebib id="RVG2012"/> dice `compuesto.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `κόσμιος´
+se traduce como ordenado, decoroso, de buen comportamiento, modesto.
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="5382,13,">hospitalario</wi>,
+<wi type="G" value="1317,14,">apto para enseñar</wi>;</t>
 </sv>
 
 <sv id="Timoteo1-3-3">
 not a drinker, not
 violent, not greedy for money, but gentle, not quarrelsome, not covetous;
-
+<t xml:lang="es"><wi type="G" value="3361,1,">no</wi>
+<wi type="G" value="3943,2,">bebedor</wi>,
+<wi type="G" value="3361,3,">ni</wi>
+<wi type="G" value="4131,4,">violento</wi>,
+<wi type="G" value="3361,5,">ni</wi>
+<wi type="G" value="146,6,">codicioso de dinero</wi>,
+<wi type="G" value="235,7,">sino</wi>
+<wi type="G" value="1933,8,">gentil</wi>, </t>
+<rb xml:lang="es">
+<wi type="G" value="269,9,">pacífico</wi><rf>
+<citebib id="WEB"/> dice `no violento,´
+<citebib id="KJV2003"/> dice `no peleador,´
+<citebib id="RVG2012"/> dice `no litigioso.´
+</rf></rb>
+<t xml:lang="es">,
+</t>
+<rb xml:lang="es"><wi type="G" value="866,10,">sencillo</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `no envidioso,´
+<citebib id="RVG2012"/> dice `ajeno de avaricia.´
+</rf></rb>
+<t xml:lang="es">;
+</t>
 </sv>
 
 <sv id="Timoteo1-3-4">
