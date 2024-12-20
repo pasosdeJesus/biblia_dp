@@ -941,9 +941,9 @@ deacons, if they are blameless.
 <wi type="G" value="2532,1,">también</wi>
 <wi type="G" value="1381,4,">sean probados</wi>
 <wi type="G" value="4412,5,">primero</wi>;
-<wi type="G" value="1534,6,">después</wi> que 
-<wi type="G" value="1247,7,">sirvan como diáconos</wi>, 
-<wi type="G" value="5607,9,">si son</wi> 
+<wi type="G" value="1534,6,">después</wi> que
+<wi type="G" value="1247,7,">sirvan como diáconos</wi>,
+<wi type="G" value="5607,9,">si son</wi>
 <wi type="G" value="410,8,">irreprochables</wi>.
 </t>
 </sv>
@@ -952,27 +952,62 @@ deacons, if they are blameless.
 Their wives in the same way must be
 reverent, not slanderers, temperate, faithful in all things.
 <t xml:lang="es"><wi type="G" value="1135,1,">Las esposas</wi>,
-<wi type="G" value="5615,2,">de la misma forma</wi>, que sean 
+<wi type="G" value="5615,2,">de la misma forma</wi>, que sean
 <wi type="G" value="4586,3,">honestas</wi>,
-<wi type="G" value="3361,4,">no</wi> 
-<wi type="G" value="1228,5,">chismosas</wi>, 
+<wi type="G" value="3361,4,">no</wi>
+<wi type="G" value="1228,5,">chismosas</wi>,
 <wi type="G" value="3524,6,">auto-controladas</wi>,
-<wi type="G" value="4103,7,">fieles</wi> 
+<wi type="G" value="4103,7,">fieles</wi>
 <wi type="G" value="1722,8,">en</wi>
 <wi type="G" value="3956,9,">todo</wi>.
 </t>
 </sv>
 
 <sv id="Timoteo1-3-12">
-Let
-deacons be husbands of one wife, ruling their children and their own houses
+Let deacons be husbands of one wife, ruling their children and their own houses
 well.
+<t xml:lang="es"><wi type="G" value="2077,2,">Sean</wi>
+<wi type="G" value="1249,1,">los diáconos</wi>
+<wi type="G" value="435,5,">esposos</wi>
+<wi type="G" value="1520,3,">de una</wi>
+<wi type="G" value="1135,4,">esposa</wi>,
+<wi type="G" value="4291,8,">que gobiernen</wi>
+<wi type="G" value="2573,7,">bien</wi>
+<wi type="G" value="5043,6,">sus hijos</wi>
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="2398,11,">sus</wi>
+<wi type="G" value="3624,12,">casas</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-3-13">
 For those who have served well as deacons gain to themselves a
 good standing, and great boldness in the faith which is in Christ Jesus.
-
+<t xml:lang="es"><wi type="G" value="1063,2,">Porque</wi>
+<wi type="G" value="3588,1,">los que</wi>
+<wi type="G" value="1247,4,">han servido</wi>
+<wi type="G" value="2573,3,">bien</wi>
+<wi type="G" value="4046,8,">ganan</wi>
+<wi type="G" value="1438,6,">para si</wi>
+<wi type="G" value="2570,7,">un buen</wi>
+<wi type="G" value="898,5,">grado</wi>
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="4183,10,">gran</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="3954,11,">confianza</wi><rf>
+<citebib id="WEB"/> dice `coraje,´
+<citebib id="RVG2012"/> dice `confianza.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `παρρησιαν´
+se traduce como franco, libre de temor, confianza sin temor.
+ </rf></rb>
+<t xml:lang="es">
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="4102,13,">la fe</wi>
+<wi type="G" value="3588,14,">que</wi> es
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="5547,16,">Cristo</wi>
+<wi type="G" value="2424,17,">Jesús</wi>.
+</t>
 </sv></cm><cm>
 
 <sv id="Timoteo1-3-14">
