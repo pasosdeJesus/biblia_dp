@@ -1012,6 +1012,15 @@ se traduce como franco, libre de temor, confianza sin temor.
 
 <sv id="Timoteo1-3-14">
 These things I write to you, hoping to come to you shortly;
+<t xml:lang="es"><wi type="G" value="5023,1,">Estas cosas</wi>
+<wi type="G" value="4671,2,">te</wi>
+<wi type="G" value="1125,3,">las escribo</wi>,
+<wi type="G" value="1679,4,">esperando</wi>
+<wi type="G" value="2064,5,">ir</wi>
+<wi type="G" value="4314,6,">a</wi>
+<wi type="G" value="4571,7,">ti</wi>
+<wi type="G" value="5032,8,">pronto</wi>;
+</t>
 </sv>
 
 <sv id="Timoteo1-3-15">
@@ -1019,6 +1028,26 @@ but
 if I wait long, that you may know how men ought to behave themselves in the
 house of God, which is the assembly of the living God, the pillar and ground
 of the truth.
+<t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
+<wi type="G" value="1437,1,">si</wi>
+<wi type="G" value="1019,3,">tardo</wi>,
+<wi type="G" value="2443,4,">que</wi>
+<wi type="G" value="1492,5,">sepas</wi>
+<wi type="G" value="4459,6,">como</wi>
+<wi type="G" value="1163,7,">se deben</wi>
+<wi type="G" value="390,11,">comportar</wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="3624,9,">la casa</wi>
+<wi type="G" value="2316,10,">del Señor</wi>,
+<wi type="G" value="3748,12,">que</wi>
+<wi type="G" value="2076,13,">es</wi>
+<wi type="G" value="1577,14,">la iglesia</wi>
+<wi type="G" value="2316,15,">del Dios</wi>
+<wi type="G" value="2198,16,">viviente</wi>,
+<wi type="G" value="4769,17,">el pilar</wi>
+<wi type="G" value="2532,18,">y</wi>
+<wi type="G" value="1477,19,">la base</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="225,21,">de la verdad</wi></wi>.</t>
 </sv>
 
 <sv id="Timoteo1-3-16">
