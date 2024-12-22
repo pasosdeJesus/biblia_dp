@@ -1053,19 +1053,45 @@ of the truth.
 <sv id="Timoteo1-3-16">
 Without controversy, the mystery of godliness is
 great:
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3672,2,">sin duda</wi>, 
+<wi type="G" value="3173,3,">grande</wi> 
+<wi type="G" value="2076,4,">es</wi>
+<wi type="G" value="3466,8,">el misterio</wi> 
+<wi type="G" value="3588,5,"/><wi type="G" value="3588,6,"><wi type="G" value="2150,7,">de la piedad</wi></wi>:
+</t>
 
 <cl/><fp>
 God was revealed in the flesh,
+<t xml:lang="es"><wi type="G" value="2316,9,">Dios</wi> 
+<wi type="G" value="5319,10,">se manifestó</wi> 
+<wi type="G" value="1722,11,">en</wi> 
+<wi type="G" value="4561,12,">carne</wi>,</t>
 <cl/>
 Justified in the spirit,
+<t xml:lang="es"><wi type="G" value="1344,13,">Se justificó</wi> 
+<wi type="G" value="1722,14,">en</wi> 
+<wi type="G" value="4151,15,">el Espíritu</wi>,</t>
 <cl/>
 Seen by angels,
+<t xml:lang="es"><wi type="G" value="3700,16,">Fue visto por</wi> 
+<wi type="G" value="32,17,">los ángeles</wi>,</t>
 <cl/>
 Preached among the nations,
+<t xml:lang="es"><wi type="G" value="2784,18,">Predicado</wi> 
+<wi type="G" value="1722,19,">entre</wi> 
+<wi type="G" value="1484,20,">las naciones</wi>,</t>
 <cl/>
 Believed on in the world,
+<t xml:lang="es"><wi type="G" value="4100,21,">Creído</wi> 
+<wi type="G" value="1722,22,">en</wi> 
+<wi type="G" value="2889,23,">el mundo</wi></t>
 <cl/>
 And received up in glory.
+<t xml:lang="es">Y 
+<wi type="G" value="353,24,">recibido</wi> 
+<wi type="G" value="1722,25,">en</wi> 
+<wi type="G" value="1391,26,">gloria</wi>.</t>
 </fp>
 
 
