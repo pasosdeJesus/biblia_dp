@@ -1177,6 +1177,14 @@ es <wi type="G" value="2570,5,">bueno</wi>,
 
 <sv id="Timoteo1-4-5">
 For it is sanctified through the word of God and prayer.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="37,1,">es santificado</wi>
+<wi type="G" value="1223,3,">por</wi>
+<wi type="G" value="3056,4,">la palabra</wi>
+<wi type="G" value="2316,5,">de Dios</wi>
+<wi type="G" value="2532,6,">y</wi> por
+<wi type="G" value="1783,7,">la oración</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-4-6">
@@ -1184,6 +1192,23 @@ If you instruct the
 brothers of these things, you will be a good servant of Christ Jesus,
 nourished in the words of the faith, and of the good doctrine which you have
 followed.
+<t xml:lang="es"><wi type="G" value="5294,2,">Instruyendo a</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="80,4,">los hermanos</wi></wi>
+<wi type="G" value="5023,1,">en estas cosas</wi>,
+<wi type="G" value="2071,6,">serás</wi>
+<wi type="G" value="2570,5,">un buen</wi>
+<wi type="G" value="1249,7,">siervo</wi>
+<wi type="G" value="5547,9,">de Cristo</wi>
+<wi type="G" value="2424,8,">Jesús</wi>,
+<wi type="G" value="1789,10,">alimentado en</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="3056,12,">las palabras</wi></wi>
+<wi type="G" value="3588,13,"><wi type="G" value="4102,14,">de la fe</wi></wi>,
+<wi type="G" value="2532,15,">y</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="2570,17,">de la buena</wi>
+<wi type="G" value="1319,18,">doctrina</wi>
+<wi type="G" value="3739,19,">que</wi>
+<wi type="G" value="3877,20,">has seguido</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-4-7">
