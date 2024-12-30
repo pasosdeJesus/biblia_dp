@@ -1295,8 +1295,8 @@ especially of those who believe.
 <sv id="Timoteo1-4-11">
 Command and teach these things.
 <t xml:lang="es"><wi type="G" value="5023,2,">Estas cosas</wi>
-<wi type="G" value="3853,1,">ordena</wi> 
-<wi type="G" value="2532,3,">y</wi> 
+<wi type="G" value="3853,1,">ordena</wi>
+<wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="1321,4,">enseña</wi>.
 </t>
 
@@ -1305,12 +1305,48 @@ Command and teach these things.
 <sv id="Timoteo1-4-12">
 Let no man despise your youth; but be an example to those who believe,
 in word, in your way of life, in love, in spirit, in faith, and in purity.
+<t xml:lang="es"><wi type="G" value="2706,5,">Que</wi>
+<wi type="G" value="3367,1,">nadie</wi>
+<wi type="GC" value="5">desprecie</wi>
+<wi type="G" value="4675,2,">tu</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="3503,4,">juventud</wi></wi>;
+<wi type="G" value="235,6,">más</wi>
+i<wi type="G" value="1096,8,">se</wi>
+<wi type="G" value="5179,7,">un ejemplo</wi> para
+<wi type="G" value="3588,9,">los que</wi>
+<wi type="G" value="4103,10,">creen</wi>
+<wi type="G" value="1722,11,">en</wi>
+<wi type="G" value="3056,12,">palabra</wi>,
+<wi type="G" value="1722,13,">en</wi> </t>
+<rb xml:lang="es"><wi type="G" value="391,14,">tu forma de vivir</wi><rf>
+<citebib id="WEB"/> dice `forma de vivir,´
+<citebib id="RVG2012"/> y <citebib id="KJV"/> dicen `conversación.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `αναστροφη´
+se traduce como comportamiento, manera de vivir, conducta o conversación.</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="26,16,">amor</wi>,
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="4151,18,">espíritu</wi>,
+<wi type="G" value="1722,19,">en</wi>
+<wi type="G" value="4102,20,">fe</wi>
+y
+<wi type="G" value="1722,21,">en</wi>
+<wi type="G" value="47,22,">pureza</wi>.
+</t>
 
 </sv>
 
 <sv id="Timoteo1-4-13">
 Until I come, pay attention to reading, to exhortation, and to
 teaching.
+<t xml:lang="es"><wi type="G" value="2193,1,">Hasta que</wi>
+<wi type="G" value="2064,2,">yo vaya</wi>,
+<wi type="G" value="4337,3,">pon atención en</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="320,5,">la lectura</wi></wi>,
+<wi type="G" value="3588,6,"><wi type="G" value="3874,7,">la exhortación</wi></wi>,
+y <wi type="G" value="3588,8,"><wi type="G" value="1319,9,">la enseñanza</wi></wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-4-14">
