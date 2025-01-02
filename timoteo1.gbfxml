@@ -1384,8 +1384,8 @@ revealed to all.
 <wi type="G" value="4675,7,">tu</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="4297,9,">progreso</wi></wi>
 <wi type="G" value="5600,11,">pueda</wi>
-<wi type="G" value="5318,10,">ser revelado</wi> 
-<wi type="G" value="1722,12,">a</wi> 
+<wi type="G" value="5318,10,">ser revelado</wi>
+<wi type="G" value="1722,12,">a</wi>
 <wi type="G" value="3956,13,">todos</wi>.
 </t>
 </sv>
@@ -1394,6 +1394,21 @@ revealed to all.
 Pay attention to yourself, and to your teaching.
 Continue in these things, for in doing this you will save both yourself and
 those who hear you.
+<t xml:lang="es"><wi type="G" value="1907,1,">Cuídate</wi>
+<wi type="G" value="4572,2,">a ti mismo</wi> <wi type="G" value="2532,3,">y</wi>
+a <wi type="G" value="3588,4,"><wi type="G" value="1319,5,">la enseñanza</wi></wi>.
+<wi type="G" value="1961,6,">Continua</wi> en
+<wi type="G" value="846,7,">esta</wi>,
+<wi type="G" value="1063,9,">pues</wi>
+<wi type="G" value="4160,10,"><wi type="G" value="5124,8,">al hacerlo</wi></wi>
+<wi type="G" value="4982,13,">salvaras</wi>
+<wi type="G" value="2532,11,">tanto</wi>
+<wi type="G" value="4572,12,">a ti mismo</wi>
+<wi type="G" value="2532,14,">como a</wi>
+<wi type="G" value="3588,15,">los que</wi>
+<wi type="G" value="4675,17,">te</wi>
+<wi type="G" value="191,16,">escuchan</wi>.
+</t>
 
 <cl/>
 
@@ -1404,6 +1419,17 @@ those who hear you.
 <sv id="Timoteo1-5-1">
 Don´t rebuke an older man, but exhort him as a father; the younger
 men as brothers;
+<t xml:lang="es"><wi type="G" value="3361,2,">No</wi>
+<wi type="G" value="1969,3,">reprendas a</wi>
+<wi type="G" value="4245,1,">un hombre mayor</wi>,
+<wi type="G" value="235,4,">sino</wi>
+<wi type="G" value="3870,5,">exhórtalo</wi>
+<wi type="G" value="5613,6,">como a</wi>
+<wi type="G" value="3962,7,">un padre</wi>;
+y a
+<wi type="G" value="3501,8,">los jóvenes</wi>
+<wi type="G" value="5613,9,">como a</wi>
+<wi type="G" value="80,10,">hermanos</wi>;</t>
 </sv>
 
 <sv id="Timoteo1-5-2">
