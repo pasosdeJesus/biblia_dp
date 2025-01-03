@@ -1435,10 +1435,26 @@ y a
 <sv id="Timoteo1-5-2">
 the elder women as mothers; the younger as sisters, in
 all purity.
+<t xml:lang="es">a <wi type="G" value="4245,1,">las mujeres mayores</wi>
+<wi type="G" value="5613,2,">como a</wi>
+<wi type="G" value="3384,3,">madres</wi>;
+<wi type="G" value="3501,4,">a las jóvenes</wi>
+<wi type="G" value="5613,5,">como a</wi>
+<wi type="G" value="79,6,">hermanas</wi>,
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="3956,8,">toda</wi>
+<wi type="G" value="47,9,">pureza</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-5-3">
 Honor widows who are widows indeed.
+<t xml:lang="es"><wi type="G" value="5091,2,">Honra a</wi>
+<wi type="G" value="5503,1,">las viudas</wi>
+<wi type="G" value="3588,3,">que</wi>
+<wi type="G" value="3689,4,">en verdad son</wi>
+<wi type="G" value="5503,5,">viudas</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-5-4">
