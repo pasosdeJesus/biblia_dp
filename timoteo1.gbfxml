@@ -1461,17 +1461,66 @@ Honor widows who are widows indeed.
 But if any widow
 has children or grandchildren, let them learn first to show piety towards
 their own family, and to repay their parents, for this is
-<rb>
-<t xml:lang="es"/><rf>TR adds «good
-and»<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> 
+<wi type="G" value="1487,1,">si</wi> 
+<wi type="G" value="5100,3,">una</wi> 
+<wi type="G" value="5503,4,">viuda</wi> 
+<wi type="G" value="2192,8,">tiene</wi> 
+<wi type="G" value="5043,5,">hijos</wi> 
+<wi type="G" value="2228,6,">o</wi> </t>
+<rb xml:lang="es"><wi type="G" value="1549,7,">nietos</wi><rf>
+<citebib id="WEB"/> dice nietos, <citebib id="KJV2003"/> dice sobrinos.
+</rf></rb>
+<t xml:lang="es">, 
+<wi type="G" value="3129,9,">que aprendan</wi> 
+<wi type="G" value="4412,10,">primero</wi> 
+<wi type="G" value="2151,14,">a mostrar piedad</wi> 
+<wi type="G" value="2398,12,">con su propia</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="3624,13,">casa</wi></wi> 
+<wi type="G" value="2532,15,">y</wi> </t>
+<rb xml:lang="es"><wi type="G" value="287,16,">a recompensar</wi><rf>Ni 
+<citebib id="WEB"/> ni <citebib id="KJV2003"/> incluyen traducción a la 
+palabra griega que aparece en TR: `αμοιβας´ con número strong
+287 que según <citebib id="Thayer-BLB"/> correponde a recompensar.</rf></rb>
+<t xml:lang="es">
+y <wi type="G" value="591,17,">retribuir a</wi> 
+<wi type="G" value="3588,18,"><wi type="G" value="4269,19,">los padres</wi></wi>,
+<wi type="G" value="1063,21,">pues</wi> 
+<wi type="G" value="5124,20,">esto</wi> 
+<wi type="G" value="2076,22,">es</wi></t>
+<rb>acceptable
+<t xml:lang="es"><wi type="G" value="2570,23,">bueno</wi> 
+<wi type="G" value="2532,24,">y</wi> 
+<wi type="G" value="587,25,">aceptable</wi></t><rf>TR adds «good
+and»<t xml:lang="es"></t></rf>
 </rb>
- acceptable in the sight of God.
+in the sight of God.
+<t xml:lang="es"><wi type="G" value="1799,26,">ante</wi> 
+<wi type="G" value="3588,27,"><wi type="G" value="2316,28,">Dios</wi></wi>.</t>
 </sv>
 
 <sv id="Timoteo1-5-5">
 Now she who is a widow indeed,
 and desolate, has her hope set on God, and continues in petitions and prayers
 night and day.
+<t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi> 
+<wi type="G" value="3588,1,">la que</wi> 
+<wi type="G" value="3689,3,">en verdad</wi> es 
+<wi type="G" value="5503,4,">viuda</wi>,
+<wi type="G" value="2532,5,">y</wi> 
+<wi type="G" value="3443,6,">desolada</wi>, 
+<wi type="G" value="1679,7,">tiene su esperanza</wi> 
+<wi type="G" value="1909,8,">en</wi> 
+<wi type="G" value="3588,9,"><wi type="G" value="2316,10,">Dios</wi></wi>,
+<wi type="G" value="2532,11,">y</wi> 
+<wi type="G" value="4357,12,">continúa en</wi> 
+<wi type="G" value="3588,13,"><wi type="G" value="1162,14,">suplicas</wi></wi> 
+<wi type="G" value="2532,15,">y</wi> 
+<wi type="G" value="3588,16,"><wi type="G" value="4335,17,">oraciones</wi></wi> 
+<wi type="G" value="3571,18,">noche</wi> 
+<wi type="G" value="2532,19,">y</wi> 
+<wi type="G" value="2250,20,">día</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-5-6">
