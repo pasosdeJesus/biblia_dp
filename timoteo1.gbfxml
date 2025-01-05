@@ -1524,13 +1524,23 @@ night and day.
 </sv>
 
 <sv id="Timoteo1-5-6">
-But she who gives herself to pleasure is dead while she
-lives.
+But she who gives herself to pleasure is dead while she lives.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> 
+<wi type="G" value="3588,1,">la que</wi> 
+<wi type="G" value="4684,3,">se entrega a placeres</wi> 
+<wi type="G" value="2348,5,">está muerta</wi>
+<wi type="G" value="2198,4,">estando viva</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-5-7">
 Also command these things, that they may be without reproach.
-
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi> 
+<wi type="G" value="3853,3,">ordena</wi> 
+<wi type="G" value="5023,2,">estas cosas</wi>, 
+<wi type="G" value="2443,4,">para que</wi> 
+<wi type="G" value="5600,6,">sean</wi> 
+<wi type="G" value="423,5,">sin reproche</wi>.</t>
 </sv>
 
 <sv id="Timoteo1-5-8">
