@@ -1763,12 +1763,37 @@ en <wi type="G" value="1319,14,">la enseñanza</wi>.
 For the
 Scripture says, «You shall not muzzle the ox when it treads out the grain.»
 And, «The laborer is worthy of his wages.»
-
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="1124,4,">la escritura</wi></wi>
+<wi type="G" value="3004,1,">dice</wi>,
+«<wi type="G" value="3756,7,">No</wi>
+<wi type="G" value="5392,8,">pondrás bozal</wi>
+<wi type="G" value="1016,5,">al buey</wi>
+que
+<wi type="G" value="248,6,">trilla el grano</wi>.»
+<wi type="G" value="2532,9,">Y</wi>, «<wi type="G" value="3588,11,"><wi type="G"
+value="2040,12,">el trabajador</wi></wi>
+es <wi type="G" value="514,10,">digno</wi>
+<wi type="G" value="846,15,">de su</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="3408,14,">salario</wi></wi>.»
+</t>
 </sv></cm><cm>
 
 <sv id="Timoteo1-5-19">
 Don´t receive an accusation against an elder, except at the word of two
 or three witnesses.
+<t xml:lang="es"><wi type="G" value="3361,4,">No</wi>
+<wi type="G" value="3858,5,">recibas</wi>
+<wi type="G" value="2724,3,">una acusación</wi>
+<wi type="G" value="2596,1,">contra</wi>
+<wi type="G" value="4245,2,">un anciano</wi>,
+<wi type="G" value="1622,6,">excepto</wi>
+<wi type="G" value="1487,7,"/><wi type="G" value="3361,8,"/><wi type="G" value="1909,9,">por</wi>
+<wi type="G" value="1417,10,">dos</wi>
+<wi type="G" value="2228,11,">o</wi>
+<wi type="G" value="5140,12,">tres</wi>
+<wi type="G" value="3144,13,">testigos</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-5-20">
