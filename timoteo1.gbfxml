@@ -1799,12 +1799,45 @@ or three witnesses.
 <sv id="Timoteo1-5-20">
 Those who sin, reprove in the sight of all, that
 the rest also may be in fear.
+<t xml:lang="es"><wi type="G" value="3588,1,">A los que</wi>
+<wi type="G" value="264,2,">pecan</wi>
+<wi type="G" value="1651,5,">repréndelos</wi>
+<wi type="G" value="1799,3,">frente</wi>
+<wi type="G" value="3956,4,">a todos</wi>,
+<wi type="G" value="2443,6,">para que</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="3062,9,">los demás</wi>
+<wi type="G" value="2532,7,">también</wi>
+<wi type="G" value="2192,11,">tengan</wi>
+<wi type="G" value="5401,10,">temor</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-5-21">
 I charge you in the sight of God, and
 Christ Jesus, and the chosen angels, that you observe these things without
 prejudice, doing nothing by partiality.
+<t xml:lang="es">Te
+<wi type="G" value="1263,1,">encargo</wi>
+<wi type="G" value="1799,2,">ante</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2316,4,">Dios</wi></wi>,
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="2962,6,">Señor</wi>
+<wi type="G" value="2424,7,">Jesús</wi>
+<wi type="G" value="5547,8,">Cristo</wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="32,12,">de los ángeles</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="1588,11,">escogidos</wi>,
+<wi type="G" value="2443,13,">que</wi>
+<wi type="G" value="5442,15,">observes</wi>
+<wi type="G" value="5023,14,">estas cosas</wi>
+<wi type="G" value="5565,16,">sin</wi>
+<wi type="G" value="4299,17,">prejuicio</wi>,
+<wi type="G" value="3367,18,">no</wi>
+<wi type="G" value="4160,19,">haciendo</wi>
+<wi type="GC" value="18">nada</wi>
+<wi type="G" value="2596,20,">con</wi>
+<wi type="G" value="4346,21,">parcialidad</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-5-22">
