@@ -1611,7 +1611,7 @@ good work.
 
 <sv id="Timoteo1-5-11">
 But refuse younger widows, for when they have grown wanton against
-Christo, they desire to marry;
+Christ, they desire to marry;
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="3868,4,">no admitas</wi>
 <wi type="G" value="5503,3,">viudas</wi>
@@ -1882,12 +1882,41 @@ de <wi type="G" value="4675,14,">tus</wi>
 <sv id="Timoteo1-5-24">
 Some men´s sins are evident, preceding them to judgment, and some also
 follow later.
+<t xml:lang="es"><wi type="G" value="3588,3,"><wi type="G" value="266,4,">Los pecados</wi></wi>
+<wi type="G" value="5100,1,"><wi type="G" value="444,2,">de</wi> algunos</wi>
+<wi type="G" value="1526,6,">son</wi>
+<wi type="G" value="4271,5,">evidentes</wi>,
+<wi type="G" value="4254,7,">precediendolos</wi>
+<wi type="G" value="1519,8,">para</wi>
+<wi type="G" value="2920,9,">el juicio</wi>,
+<wi type="G" value="1161,11,">pero</wi>
+<wi type="G" value="5100,10,">algunos</wi>
+<wi type="G" value="2532,12,"/><wi type="G" value="1872,13,">van tras ellos</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-5-25">
 In the same way also there are good works that are
 obvious, and those that are otherwise can´t be hidden.
-
+<t xml:lang="es"><wi type="G" value="5615,1,">Así</wi>
+<wi type="G" value="2532,2,">también</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2570,4,">las buenas</wi></wi>
+<wi type="G" value="2041,5,">obras</wi>
+<wi type="G" value="2076,7,">son</wi>
+<wi type="G" value="4271,6,">evidentes</wi>,
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="3588,9,">las que</wi>
+<wi type="G" value="2192,11,">son</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="247,10,">de otra forma</wi><rf>
+<citebib id="WEB"/> dice `y esas que son de otra forma´
+<citebib id="KJV2003"/> dice `y las que son de otra manera´
+<citebib id="RVG2012"/> dice `y las que son de otra manera´
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3756,13,"><wi type="G" value="1410,14,">no pueden</wi></wi>
+<wi type="G" value="2928,12,">esconderse</wi>.
+</t>
 <cl/>
 
 
