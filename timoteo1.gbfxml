@@ -1927,6 +1927,25 @@ obvious, and those that are otherwise can´t be hidden.
 Let as many as are bondservants under the yoke count their own
 masters worthy of all honor, that the name of God and the doctrine not be
 blasphemed.
+<t xml:lang="es"><wi type="G" value="3745,1,">Tantos como</wi>
+<wi type="G" value="1526,2,">sean</wi>
+<wi type="G" value="1401,5,">siervos</wi>
+<wi type="G" value="5259,3,">bajo</wi>
+<wi type="G" value="2218,4,">el yugo</wi>
+<wi type="G" value="2233,12,">cuenten a</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="2398,7,">sus</wi>
+<wi type="G" value="1203,8,">amos</wi> como
+<wi type="G" value="514,11,">dignos</wi>
+<wi type="G" value="3956,9,">de todo</wi>
+<wi type="G" value="5092,10,">honor</wi>,
+<wi type="G" value="2443,13,">para que</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="3686,16,">el nombre</wi></wi>
+<wi type="G" value="3588,17,"><wi type="G" value="2316,18,">de Dios</wi></wi>
+<wi type="G" value="2532,19,">y</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="1319,21,">la doctrina</wi></wi>
+<wi type="G" value="3361,14,">no</wi> sean
+<wi type="G" value="987,22,">blasfemados</wi>.
+</t>
 </sv>
 
 <sv id="Timoteo1-6-2">
@@ -1934,9 +1953,35 @@ Those who have believing masters, let them not despise them,
 because they are brothers, but rather let them serve them, because those who
 partake of the benefit are believing and beloved. Teach and exhort these
 things.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3588,1,">a los que</wi>
+<wi type="G" value="2192,4,">tienen</wi>
+<wi type="G" value="1203,5,">amos</wi>
+<wi type="G" value="4103,3,">creyentes</wi>,
+<wi type="G" value="2706,7,">que</wi>
+<wi type="G" value="3361,6,">no</wi> los
+<wi type="GC" value="7">desprecien</wi>
+<wi type="G" value="3754,8,">por</wi>
+<wi type="G" value="1526,10,">ser</wi>
+<wi type="G" value="80,9,">hermanos</wi>,
+<wi type="G" value="235,11,">sino</wi>
+<wi type="G" value="3123,12,">más bien</wi> que les
+<wi type="G" value="1398,13,">sirvan</wi>,
+<wi type="G" value="3754,14,">porque</wi>
+<wi type="G" value="1526,16,">son</wi>
+<wi type="G" value="482,22,">participes</wi>
+<wi type="G" value="4103,15,">fieles</wi>
+<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="27,18,">amados</wi>
+<wi type="G" value="3588,19,"/><wi type="G" value="3588,20,"><wi type="G" value="2108,21,">del beneficio</wi></wi>.
+<wi type="G" value="5023,23,">Estas cosas</wi>
+<wi type="G" value="1321,24,">enseñen</wi>
+<wi type="G" value="2532,25,">y</wi>
+<wi type="G" value="3870,26,">exhorta</wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Timoteo1-6-3">
 If anyone teaches a different doctrine, and doesn´t consent to sound
 words, the words of our Lord Jesus Christ, and to the doctrine which is
