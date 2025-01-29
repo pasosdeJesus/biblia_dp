@@ -15,7 +15,7 @@ con la cual se ha comparado -->
 
 <sb id="Timoteo1" type="BN" xml:lang="en">
 <tt>Paul´s First Letter to Timothy
-<t xml:lang="es"/>Primer Carta de Pablo a Timoteo</tt>
+<t xml:lang="es">Primera Carta de Pablo a Timoteo</t></tt>
 <sc id="Timoteo1-1">
 <cm>
 <sv id="Timoteo1-1-1">
@@ -109,7 +109,7 @@ unfeigned faith;
 <wi type="G" value="5056,3,">el fin</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="3852,5,">de los mandamientos</wi></wi>
 <wi type="G" value="2076,6,">es</wi>
-<wi type="G" value="26,7,">amor</wi>,
+<wi type="G" value="26,7,">el amor</wi>,
 <wi type="G" value="1537,8,">desde</wi>
 <wi type="G" value="2588,10,">un corazón</wi>
 <wi type="G" value="2513,9,">puro</wi>
@@ -117,7 +117,7 @@ unfeigned faith;
 <wi type="G" value="18,13,">buena</wi>
 <wi type="G" value="4893,12,">conciencia</wi>
 <wi type="G" value="2532,14,">y</wi> de
-<wi type="G" value="4102,15,">fe</wi>
+<wi type="G" value="4102,15,">una fe</wi>
 <wi type="G" value="505,16,">no fingida</wi>;</t>
 </sv>
 
@@ -161,7 +161,7 @@ But we know that the law is good, if a man uses it lawfully,
 <wi type="G" value="5100,8,">alguno</wi>
 <wi type="G" value="846,9,">la</wi>
 <wi type="G" value="5530,11,">usa</wi>
-<wi type="G" value="3545,10,">lícitamente</wi>.
+<wi type="G" value="3545,10,">lícitamente</wi>,
 </t>
 </sv>
 
@@ -416,8 +416,8 @@ of whom is Hymenaeus and
 Alexander; whom I delivered to Satan, that they might be taught not to
 blaspheme.
 <t xml:lang="es">
-<wi type="G" value="3739,1,">de los cuales</wi>
-<wi type="G" value="2076,2,">son</wi>
+<wi type="G" value="3739,1,">entre quienes</wi>
+<wi type="G" value="2076,2,">están</wi>
 <wi type="G" value="5211,3,">Himeneo</wi>
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="223,5,">Alejandro</wi>;
