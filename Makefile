@@ -5,13 +5,13 @@
 
 include Make.inc
 
-SOURCE_GBFXML=mateo.gbfxml marcos.gbfxml lucas.gbfxml juan.gbfxml hechos.gbfxml romanos.gbfxml corintios1.gbfxml corintios2.gbfxml galatas.gbfxml efesios.gbfxml filipenses.gbfxml colosenses.gbfxml tesalonicenses1.gbfxml tesalonicenses2.gbfxml timoteo1.gbfxml
+SOURCE_GBFXML=mateo.gbfxml marcos.gbfxml lucas.gbfxml juan.gbfxml hechos.gbfxml romanos.gbfxml corintios1.gbfxml corintios2.gbfxml galatas.gbfxml efesios.gbfxml filipenses.gbfxml colosenses.gbfxml tesalonicenses1.gbfxml tesalonicenses2.gbfxml timoteo1.gbfxml timoteo2.gbfxml
 
 EXT_DOCBOOK=xdbk
 
-VS_SWORDBOOK_I=I Timothy
+VS_SWORDBOOK_I=II Timothy
 #VS_SWORDBOOK_I=II Corinthians
-VS_SWORDBOOK=I_Timothy
+VS_SWORDBOOK=II_Timothy
 #VS_SWORDBOOK=II_Corinthians
 
 # Variables requeridas por comdocbook.mak
@@ -245,8 +245,7 @@ $(VS_SWORDBOOK)-o-KJV.tmp: $(VS_SWORDBOOK)-n-KJV.tmp
 
 valida-strong: $(VS_SWORDBOOK)-o-KJV.tmp
 	xsltproc gbfxml2strong.xsl libro_dp.gbfxml > strong-dp.tmp
-	echo -n "1:1" > strong-o-dp.tmp
-	-awk -f herram/ordenastrong.awk strong-dp.tmp >> strong-o-dp.tmp 
+	-awk -f herram/ordenastrong.awk strong-dp.tmp > strong-o-dp.tmp 
 	diff -b $(VS_SWORDBOOK)-o-KJV.tmp strong-o-dp.tmp
 
 
