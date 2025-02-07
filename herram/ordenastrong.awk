@@ -5,7 +5,7 @@
     lin="";
     for (i=1; i<=ultpos; i++) {
       if (ver[i]=="") {
-    	print $0 > "/dev/stderr";
+        print $0 > "/dev/stderr";
         print FILENAME ":" FNR ":XFalta el " i "-esimo en " nant > "/dev/stderr";
         error=1;
       }
@@ -38,6 +38,7 @@
 BEGIN {
   ultpos = -1;
   error = 0;
+  nant = "1:1"
   # ver serán versículos
 }
 
