@@ -58,7 +58,7 @@ gracias a</wi></wi>
 <wi type="G" value="3739,5,">a quien</wi>
 <wi type="G" value="3000,6,">sirvo</wi> </t>
 <rb xml:lang="es"><wi type="G" value="575,7,">como desde</wi>
-<wi type="G" value="4269,8,">los ancestros</wi><rf> 
+<wi type="G" value="4269,8,">los ancestros</wi><rf>
 <citebib id="WEB"/> dice `como mis ancestros,´
 <citebib id="KJV2003"/> dice `desde mis ancestros,´
 <citebib id="RVG2012"/> dice `desde mis mayores.´
@@ -85,7 +85,14 @@ La palabra `mi´ no aparece en <citebib id="TR"/>.
 <sv id="b2_Timothy-1-4">
 longing
 to see you, remembering your tears, that I may be filled with joy;
-
+<t xml:lang="es"><wi type="G" value="1971,1,">anhelando</wi>
+<wi type="G" value="1492,3,"><wi type="G" value="4571,2,">verte</wi></wi>,
+<wi type="G" value="3415,4,">recordando</wi>
+<wi type="G" value="4675,5,">tus</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="1144,7,">lagrimas</wi></wi>,
+<wi type="G" value="2443,8,">que</wi>
+<wi type="G" value="4137,10,">llenan</wi>
+<wi type="G" value="5479,9,">de gozo</wi>, </t>
 </sv>
 
 <sv id="b2_Timothy-1-5">
