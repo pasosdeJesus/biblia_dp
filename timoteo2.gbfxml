@@ -158,12 +158,50 @@ Según <citebib id="Thayer-BLB"/> la  palabra griega
 <sv id="b2_Timothy-1-7">
 For God didn´t give
 us a spirit of fear, but of power, love, and self-control.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">Dios</wi></wi>
+<wi type="G" value="3756,1,">no</wi>
+<wi type="G" value="2254,4,">nos</wi>
+<wi type="G" value="1325,3,">dio</wi>
+<wi type="G" value="4151,7,">un espíritu</wi>
+<wi type="G" value="1167,8,">de miedo</wi>,
+<wi type="G" value="235,9,">sino</wi>
+<wi type="G" value="1411,10,">de poder</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="26,12,">de amor</wi>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="4995,14,">de dominio propio</wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-1-8">
 Therefore
 don´t be ashamed of the testimony of our Lord, nor of me his prisoner; but
 endure hardship for the Good News according to the power of God,
+<t xml:lang="es"><wi type="G" value="3767,2,">Por tanto</wi>
+<wi type="G" value="3361,1,">no</wi>
+<wi type="G" value="1870,3,">te avergüences</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="3142,5,">del testimonio</wi></wi>
+<wi type="G" value="2257,8,">de nuestro</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2962,7,">Señor</wi></wi>,
+<wi type="G" value="3366,9,">ni</wi>
+<wi type="G" value="1691,10,">de mi</wi>
+<wi type="G" value="846,13,">su</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="1198,12,">prisionero</wi></wi>;
+<wi type="G" value="235,14,">sino</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4777,15,">soporta las dificultades por</wi><rf>
+<citebib id="WEB"/> dice `soporta las dificultades,´
+<citebib id="KJV2003"/> dice `se participe de las aflicciones,´
+<citebib id="RVG2012"/> dice `sé participante de los trabajos.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `συγκακοπαθησον´
+se traduce como soportar dificultades junto con uno.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3588,16,"><wi type="G" value="2098,17,">la Buena Nueva</wi></wi>
+<wi type="G" value="2596,18,">de acuerdo</wi>
+<wi type="G" value="1411,19,">al poder</wi>
+<wi type="G" value="2316,20,">de Dios</wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-1-9">
