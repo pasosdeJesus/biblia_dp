@@ -207,14 +207,74 @@ se traduce como soportar dificultades junto con uno.
 <sv id="b2_Timothy-1-9">
 who saved
 us and called us with a holy calling, not according to our works, but
-according to his own purpose and grace, which was given to us in Christ Jesus
-before times eternal,
+according to his own purpose and grace, which was given to us in Christ
+Jesus before times eternal,
+<t xml:lang="es"><wi type="G" value="3588,1,">quien</wi>
+<wi type="G" value="2248,3,">nos</wi>
+<wi type="G" value="4982,2,">salvó</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="GC" value="3">nos</wi>
+<wi type="G" value="2564,5,">llamó</wi> con
+<wi type="G" value="2821,6,">un llamado</wi>
+<wi type="G" value="40,7,">santo</wi>,
+<wi type="G" value="3756,8,">no</wi>
+<wi type="G" value="2596,9,">de acuerdo</wi>
+<wi type="G" value="2257,12,">a nuestras</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2041,11,">obra</wi></wi>,
+<wi type="G" value="235,13,">sino</wi>
+<wi type="G" value="2596,14,">de acuerdo</wi>
+<wi type="G" value="2398,15,">a su</wi>
+<wi type="G" value="4286,16,">propósito</wi>
+<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="5485,18,">gracia</wi>,
+<wi type="G" value="3588,19,">que</wi>
+<wi type="G" value="2254,21,">nos</wi>
+<wi type="G" value="1325,20,">fue dada</wi>
+<wi type="G" value="1722,22,">en</wi>
+<wi type="G" value="5547,23,">Cristo</wi>
+<wi type="G" value="2424,24,">Jesús</wi>
+<wi type="G" value="4253,25,">antes</wi> </t>
+<rb xml:lang="es">de <wi type="G" value="5550,26,">los tiempos</wi> 
+<wi type="G" value="166,27,">eternos</wi><rf>
+<citebib id="WEB"/> dice `de los tiempos eternos,´
+<citebib id="KJV2003"/> dice `del comienzo del mundo,´
+<citebib id="RVG2012"/> dice `de los tiempos de los siglos.´
+De acuerdo a <citebib id="Thayer-BLB"/>  la palabra
+griega `χρονων´ se refiere a "un periodo de tiempo (en general
+distinguido de καιρός que designa una ocasión fija o especial y
+de αἰών que denota un periodo particular) o intervalo; por extensión
+una oportunidad individua, por implicación demora, años de antigüedad,
+temporada, espacio, rato".
+Y la palabra griega αιωνιων se traduce como eterno, comienzo del mundo,
+por siempre, sin principio ni fin, lo que siempre ha sido y será.
+</rf></rb>
+<t xml:lang="es">,</t>
 </sv>
 
 <sv id="b2_Timothy-1-10">
 but has now been revealed by the appearing of our
-Savior, Christ Jesus, who abolished death, and brought life and immortality
-to light through the Good News.
+Savior, Christ Jesus, who abolished death, and brought life and
+immortality to light through the Good News.
+<t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
+<wi type="G" value="3568,3,">ahora</wi>
+<wi type="G" value="5319,1,">ha  sido revelado</wi>
+<wi type="G" value="1223,4,">por</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2015,6,">la aparición</wi></wi>
+<wi type="G" value="2257,9,">de nuestro</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="4990,8,">Salvador</wi></wi>,
+<wi type="G" value="5547,11,">Cristo</wi>
+<wi type="G" value="2424,10,">Jesús</wi>,
+<wi type="G" value="3303,13,">que de hecho</wi>
+<wi type="G" value="2673,12,">abolió</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2288,15,">la muerte</wi></wi>
+<wi type="G" value="1161,17,">y</wi>
+<wi type="G" value="5461,16,">trajo a la luz</wi>
+<wi type="G" value="2222,18,">la vida</wi>
+<wi type="G" value="2532,19,">e</wi>
+<wi type="G" value="861,20,">la inmortalidad</wi> a
+<wi type="G" value="1223,21,">mediante</wi>
+<wi type="G" value="3588,22,"><wi type="G" value="2098,23,">la Buena Nueva</wi></wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-1-11">
