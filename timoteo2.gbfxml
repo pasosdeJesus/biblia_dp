@@ -234,7 +234,7 @@ Jesus before times eternal,
 <wi type="G" value="5547,23,">Cristo</wi>
 <wi type="G" value="2424,24,">Jesús</wi>
 <wi type="G" value="4253,25,">antes</wi> </t>
-<rb xml:lang="es">de <wi type="G" value="5550,26,">los tiempos</wi> 
+<rb xml:lang="es">de <wi type="G" value="5550,26,">los tiempos</wi>
 <wi type="G" value="166,27,">eternos</wi><rf>
 <citebib id="WEB"/> dice `de los tiempos eternos,´
 <citebib id="KJV2003"/> dice `del comienzo del mundo,´
@@ -270,7 +270,7 @@ immortality to light through the Good News.
 <wi type="G" value="1161,17,">y</wi>
 <wi type="G" value="5461,16,">trajo a la luz</wi>
 <wi type="G" value="2222,18,">la vida</wi>
-<wi type="G" value="2532,19,">e</wi>
+<wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="861,20,">la inmortalidad</wi> a
 <wi type="G" value="1223,21,">mediante</wi>
 <wi type="G" value="3588,22,"><wi type="G" value="2098,23,">la Buena Nueva</wi></wi>.
@@ -280,19 +280,66 @@ immortality to light through the Good News.
 <sv id="b2_Timothy-1-11">
 For this, I was appointed as a preacher,
 an apostle, and a teacher of the Gentiles.
+<t xml:lang="es"><wi type="G" value="1519,1,">Del</wi>
+<wi type="G" value="3739,2,">cual</wi>
+<wi type="G" value="1473,4,">yo</wi>
+<wi type="G" value="5087,3,">fui designado</wi>
+<wi type="G" value="2783,5,">predicador</wi>,
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="652,7,">apóstol</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="1320,9,">maestro</wi>
+<wi type="G" value="1484,10,">de los gentiles</wi>.</t>
 </sv>
 
 <sv id="b2_Timothy-1-12">
 For this cause I suffer also
 these things.
+<t xml:lang="es"><wi type="G" value="1223,1,">Por</wi>
+<wi type="G" value="3739,2,">cuya</wi>
+<wi type="G" value="156,3,">causa</wi>
+<wi type="G" value="2532,4,">también</wi>
+<wi type="G" value="3958,6,">sufro</wi>
+<wi type="G" value="5023,5,">estas cosas</wi>.
+</t>
 
 <cl/>
 Yet I am not ashamed, for I know him whom I have believed, and I am persuaded
 that he is able to guard that which I have committed to him against that
 day.
+<t xml:lang="es"><wi type="G" value="235,7,">Pero</wi>
+<wi type="G" value="3756,8,">no</wi>
+<wi type="G" value="1870,9,">me avergüenzo</wi>,
+<wi type="G" value="1063,11,">porque</wi>
+<wi type="G" value="1492,10,">se</wi>
+<wi type="G" value="3739,12,">en quien</wi>
+<wi type="G" value="4100,13,">he creído</wi>,
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="3982,15,">estoy convencido</wi>
+<wi type="G" value="3754,16,">que</wi>
+<wi type="G" value="2076,18,">Él es</wi>
+<wi type="G" value="1415,17,">capaz</wi>
 
-</sv></cm><cm>
+</t>
+<rb xml:lang="es"><wi type="G" value="5442,22,">de salvar</wi>
+<wi type="G" value="3588,19,">lo que</wi>
+<wi type="G" value="3450,21,">yo</wi>
+<wi type="G" value="3866,20,">le he encomendado</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `lo que le he encomendado,´
+<citebib id="RVG2012"/> dice `para guardar mi depósito.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `φυλαξαι´
+se traduce como guardar, observar, salvar;
+la palabra griega `μου´ se traduce como yo, mi, mio;
+la palabra griega `παραθηκην´ se traduce como un deposito, lo que se consigna
+para que alguien lo cuide.</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="1519,23,">de</wi>
+<wi type="G" value="1565,24,">ese</wi>
+<wi type="G" value="3588,25,"><wi type="G" value="2250,26,">día</wi></wi>.
+</t>
+</sv></cm>
 
+<cm>
 <sv id="b2_Timothy-1-13">
 Hold the pattern of sound words which you have heard from me, in faith
 and love which is in Christ Jesus.
