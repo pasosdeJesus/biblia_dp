@@ -343,14 +343,52 @@ para que alguien lo cuide.</rf></rb>
 <sv id="b2_Timothy-1-13">
 Hold the pattern of sound words which you have heard from me, in faith
 and love which is in Christ Jesus.
+<t xml:lang="es">
+<wi type="G" value="2192,2,">Mantén</wi>
+<wi type="G" value="5296,1,">el patrón</wi>
+<wi type="G" value="3056,4,">de palabras</wi>
+<wi type="G" value="5198,3,">sanas</wi>
+<wi type="G" value="3739,5,">que</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="191,8,">has escuchado</wi>
+<wi type="G" value="3844,6,">de</wi>
+<wi type="G" value="1700,7,">mí</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dice `has escuchado de mi,´
+<citebib id="RVG2012"/> dice `que de mi te oyen.´
+En <citebib id="TR"/> no hay pronombre `ellos´ y la
+palabra `ηκουσας´ no está en tercera  persona plural sino
+segunda singular según morfología de <citebib id="KJV2003"/> y
+<citebib id="BLB"/>. </rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="4102,10,">fe</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="26,12,">amor</wi>
+<wi type="G" value="3588,13,">que</wi> es
+<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="5547,15,">Cristo</wi>
+<wi type="G" value="2424,16,">Jesús</wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-1-14">
 That good thing which was committed
 to you, guard through the Holy Spirit who dwells in us.
+<t xml:lang="es"><wi type="G" value="2570,2,">Las buenas cosas</wi>
+<wi type="G" value="3588,1,">que</wi>
+<wi type="G" value="3872,3,">se te han encomendado</wi>
+<wi type="G" value="5442,4,">guárdalas</wi>
+<wi type="G" value="1223,5,">por</wi>
+<wi type="G" value="4151,6,">el Espíritu</wi>
+<wi type="G" value="40,7,">Santo</wi>
+<wi type="G" value="3588,8,">que</wi>
+<wi type="G" value="1774,9,">mora</wi>
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="2254,11,">nosotros</wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="b2_Timothy-1-15">
 This you know, that all who are in Asia turned away from me; of whom
 are Phygelus and Hermogenes.
