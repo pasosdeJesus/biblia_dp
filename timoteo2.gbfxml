@@ -506,7 +506,7 @@ also.
 <wi type="G" value="4183,7,">muchos</wi>
 <wi type="G" value="3144,8,">testigos</wi>,
 <wi type="G" value="5023,9,">estas mismas</wi>
-<wi type="G" value="3908,10,">encomiéndalas a</wi> 
+<wi type="G" value="3908,10,">encomiéndalas a</wi>
 <wi type="G" value="444,12,">los hombres</wi>
 <wi type="G" value="4103,11,">fieles</wi>,
 <wi type="G" value="3748,13,">que</wi>
@@ -523,7 +523,7 @@ You therefore must endure hardship, as a good soldier of Christ
 Jesus.
 <t xml:lang="es"><wi type="G" value="4771,1,">Tu</wi>
 <wi type="G" value="3767,2,">entonces</wi>
-<wi type="G" value="2553,3,">soporta las dificultades</wi>, 
+<wi type="G" value="2553,3,">soporta las dificultades</wi>,
 <wi type="G" value="5613,4,">como</wi>
 <wi type="G" value="2570,5,">buen</wi>
 <wi type="G" value="4757,6,">soldado</wi>
@@ -549,12 +549,35 @@ that he may please him who enrolled him as a soldier.
 <sv id="b2_Timothy-2-5">
 Also, if anyone
 competes in athletics, he isn´t crowned unless he has competed by the rules.
-
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="2532,3,">también</wi>,
+<wi type="G" value="1437,1,">si</wi>
+<wi type="G" value="5100,5,">alguno</wi> </t>
+<rb xml:lang="es"><wi type="G" value="118,4,">compite</wi><rf>
+<citebib id="WEB"/> dice `compite en atletismo,´
+<citebib id="KJV2003"/> dice `se esfuerza por la maestría,´
+<citebib id="RVG2012"/> dice `lidia.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`αθλη´ se traduce como competir, involucrarse en una competencia, competir
+en juegos públicos, competir por un premio, sufrir, aguantar. </rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="3756,6,">no</wi> es
+<wi type="G" value="4737,7,">coronado</wi>
+<wi type="G" value="1437,8,"><wi type="G" value="3361,9,">a menos</wi></wi>
+<wi type="G" value="118,11,">que haya competido</wi>
+<wi type="G" value="3545,10,">bajo las reglas</wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-2-6">
 The farmers who labor must be the first to get a share of the crops.
-
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="1092,3,">Los campesinos</wi></wi>
+<wi type="G" value="2872,2,">que trabajan</wi>
+<wi type="G" value="1163,4,">deben</wi> ser
+<wi type="G" value="4412,5,">los primeros</wi>
+<wi type="G" value="3335,8,">en obtener una parte</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2590,7,">de la cosecha</wi></wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-2-7">
