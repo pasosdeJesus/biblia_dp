@@ -594,12 +594,24 @@ things.
 <wi type="G" value="1722,10,">en</wi>
 <wi type="G" value="3956,11,">todas las cosas</wi>.
 </t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="b2_Timothy-2-8">
 Remember Jesus Christ, risen from the dead, of the seed of David,
 according to my Good News,
+<t xml:lang="es"><wi type="G" value="3421,1,">Recuerda a</wi>
+<wi type="G" value="2424,2,">Jesús</wi>
+<wi type="G" value="5547,3,">Cristo</wi>,
+<wi type="G" value="1453,4,">que resucitó</wi>
+<wi type="G" value="1537,5,">de</wi>
+<wi type="G" value="3498,6,">la muerte</wi>,
+<wi type="G" value="1537,7,">de</wi>
+<wi type="G" value="4690,8,">la semilla</wi>
+<wi type="G" value="1138,9,">de David</wi>,
+<wi type="G" value="2596,10,">de acuerdo a</wi>
+<wi type="G" value="3450,13,">mi</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2098,12,">buena nueva</wi></wi>.</t>
 </sv>
 
 <sv id="b2_Timothy-2-9">
