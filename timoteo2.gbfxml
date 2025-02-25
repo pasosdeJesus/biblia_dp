@@ -611,12 +611,26 @@ according to my Good News,
 <wi type="G" value="1138,9,">de David</wi>,
 <wi type="G" value="2596,10,">de acuerdo a</wi>
 <wi type="G" value="3450,13,">mi</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="2098,12,">buena nueva</wi></wi>.</t>
+<wi type="G" value="3588,11,"><wi type="G" value="2098,12,">buena nueva</wi></wi>,
+</t>
 </sv>
 
 <sv id="b2_Timothy-2-9">
 in which I suffer hardship to the point of
 chains as a criminal. But God´s word isn´t chained.
+<t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="3739,2,">lo que</wi>
+<wi type="G" value="2553,3,">he sufrido dificultades</wi>
+<wi type="G" value="3360,4,">hasta</wi>
+<wi type="G" value="1199,5,">cadenas</wi>
+<wi type="G" value="5613,6,">como</wi>
+<wi type="G" value="2557,7,">un criminal</wi>.
+<wi type="G" value="235,8,">Pero</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="3056,10,">la palabra</wi></wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2316,12,">de  Dios</wi></wi>
+<wi type="G" value="3756,13,">no</wi>
+<wi type="G" value="1210,14,">está atada</wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-2-10">
