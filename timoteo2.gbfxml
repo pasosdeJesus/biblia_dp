@@ -723,18 +723,18 @@ He remains faithful. He can´t deny himself.
 Remind them of these things, charging them in the sight of the Lord,
 that they don´t argue about words, to no profit, to the subverting of those
 who hear.
-<t xml:lang="es"><wi type="G" value="5279,2,">Recuérdales</wi> 
+<t xml:lang="es"><wi type="G" value="5279,2,">Recuérdales</wi>
 <wi type="G" value="5023,1,">estas cosas</wi>,
-<wi type="G" value="1263,3,">encárgales</wi> 
-<wi type="G" value="1799,4,">delante</wi> 
+<wi type="G" value="1263,3,">encárgales</wi>
+<wi type="G" value="1799,4,">delante</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="2962,6,">del Señor</wi></wi>,
 <wi type="G" value="1519,9,">que</wi>
-<wi type="G" value="3361,7,">no</wi> 
-<wi type="G" value="3054,8,">se peleen en palabras</wi> 
-que <wi type="G" value="3762,10,">no</wi> 
+<wi type="G" value="3361,7,">no</wi>
+<wi type="G" value="3054,8,">se peleen en palabras</wi>
+que <wi type="G" value="3762,10,">no</wi>
 <wi type="G" value="5539,11,">aprovecha</wi>,
 <wi type="G" value="1909,12,">más</wi>  es
-<wi type="G" value="2692,13,">catástrofe</wi> 
+<wi type="G" value="2692,13,">catástrofe</wi>
 <wi type="G" value="3588,14,">para los que</wi>
 <wi type="G" value="191,15,">escuchan</wi></t>
 </sv></cm>
@@ -743,11 +743,37 @@ que <wi type="G" value="3762,10,">no</wi>
 <sv id="b2_Timothy-2-15">
 Give diligence to present yourself approved by God, a workman who
 doesn´t need to be ashamed, properly handling the Word of Truth.
+<rb xml:lang="es"><wi type="G" value="4704,1,">Se diligente</wi><rf>
+<citebib id="WEB"/> dice `da diligencia,´
+<citebib id="KJV2003"/> dice `estudia,´
+<citebib id="RVG2012"/> dice `Procura con diligencia.´
+Según <citebib id="Thayer-BLB"/> el verbo griego
+`σπουδάζω´ se traduce como esforzarse, dar diligencia, ser diligente,
+trabajar, estudiar.</rf></rb>
+<t xml:lang="es"><wi type="G" value="3936,4,"><wi type="G" value="4572,2,">en presentarte</wi></wi>
+<wi type="G" value="1384,3,">aprobado ante</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">Dios</wi></wi>,
+<wi type="G" value="2040,7,">un trabajador</wi>
+<wi type="G" value="422,8,">que no se avergüenza</wi>, que
+<wi type="G" value="3718,9,">traza bien</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="3056,11,">la Palabra</wi></wi>
+<wi type="G" value="3588,12,"><wi type="G" value="225,13,">de Verdad</wi></wi>.</t>
 </sv>
 
 <sv id="b2_Timothy-2-16">
 But
 shun empty chatter, for they will proceed further in ungodliness,
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="4026,5,">evita</wi>
+<wi type="G" value="2757,4,">la habladuría</wi>
+<wi type="G" value="952,3,">profana</wi>,
+<wi type="G" value="1063,8,">pues</wi>
+<wi type="G" value="4298,9,">lleva</wi>
+<wi type="G" value="1909,6,">a</wi>
+<wi type="G" value="4119,7,">más</wi>
+<wi type="G" value="763,10,">impiedad</wi>,
+</t>
 </sv>
 
 <sv id="b2_Timothy-2-17">
