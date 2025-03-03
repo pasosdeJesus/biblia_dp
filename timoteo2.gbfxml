@@ -786,7 +786,7 @@ their word will consume like gangrene, of whom is Hymenaeus and Philetus;
 <wi type="G" value="5613,5,">como</wi>
 <wi type="G" value="1044,6,">gangrena</wi>,
 <wi type="G" value="3739,9,">de los cuales</wi>
-<wi type="G" value="2076,10,">es<wi>
+<wi type="G" value="2076,10,">es</wi>
 <wi type="G" value="5211,11,">Himeneo</wi>
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="5372,13,">Fileto</wi>;</t>
@@ -796,6 +796,19 @@ their word will consume like gangrene, of whom is Hymenaeus and Philetus;
 <sv id="b2_Timothy-2-18">
 men who have erred concerning the truth, saying that the resurrection
 is already past, and overthrowing the faith of some.
+<t xml:lang="es"><wi type="G" value="3748,1,">quienes</wi>
+<wi type="G" value="795,5,">han errado</wi>
+<wi type="G" value="4012,2,">respecto a</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="225,4,">la verdad</wi></wi>,
+<wi type="G" value="3004,6,">diciendo que</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="386,8,">la resurrección</wi></wi>
+<wi type="G" value="2235,9,">ya</wi>
+<wi type="G" value="1096,10,">pasó</wi>,
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="396,12,">derribando</wi>
+<wi type="G" value="4102,15,">la fe</wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="5100,14,">de algunos</wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-2-19">
