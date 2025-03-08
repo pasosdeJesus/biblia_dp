@@ -895,8 +895,7 @@ suitable for the master´s use, prepared for every good work.
 <wi type="G" value="5092,11,">honra</wi>,
 <wi type="G" value="37,12,">santificado</wi>,
 <wi type="G" value="2532,13,">y</wi>
-<wi type="G" value="2173,14,">apropiado para</wi>
-<wi type="G" value="2173,14,">el uso</wi>
+<wi type="G" value="2173,14,">apropiado para el uso</wi>
 <wi type="G" value="3588,15,"><wi type="G" value="1203,16,">del maestro</wi></wi>,
 <wi type="G" value="2090,21,">preparado</wi>
 <wi type="G" value="1519,17,">para</wi>
@@ -909,16 +908,41 @@ suitable for the master´s use, prepared for every good work.
 <sv id="b2_Timothy-2-22">
 Flee from youthful lusts; but pursue righteousness, faith, love, and
 peace with those who call on the Lord out of a pure heart.
-<t xml:lang="es">Huye de las pasiones de la juventud; más persigue
-la rectitud, la fe, el amor y la paz con quienes te llamaron en el Señor
-d un corazón puro.
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="5343,5,">Huye</wi>
+<wi type="G" value="1161,2,">también</wi>
+<wi type="G" value="1939,4,">de las pasiones</wi>
+<wi type="G" value="3512,3,">de la juventud</wi>;
+<wi type="G" value="1161,7,">más</wi>
+<wi type="G" value="1377,6,">persigue</wi>
+<wi type="G" value="1343,8,">la justicia</wi>,
+<wi type="G" value="4102,9,">la fe</wi>,
+<wi type="G" value="26,10,">el amor</wi>,
+<wi type="G" value="1515,11,">la paz</wi>
+<wi type="G" value="3326,12,">con</wi>
+<wi type="G" value="3588,13,">los que</wi>
+<wi type="G" value="1941,14,">llaman</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2962,16,">al Señor</wi></wi>
+<wi type="G" value="1537,17,">de</wi>
+<wi type="G" value="2513,18,">puro</wi>
+<wi type="G" value="2588,19,">corazón</wi>.
 </t>
 </sv>
 
 <sv id="b2_Timothy-2-23">
 But refuse
 foolish and ignorant questionings, knowing that they generate strife.
-
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Más</wi>
+<wi type="G" value="3868,7,">desecha</wi>
+<wi type="G" value="2214,6,">las preguntas</wi>
+<wi type="G" value="3474,3,">necias</wi>
+<wi type="G" value="2532,4,">e</wi>
+<wi type="G" value="521,5,">ignorantes</wi>,
+<wi type="G" value="1492,8,">sabiendo</wi>
+<wi type="G" value="3754,9,">que</wi>
+<wi type="G" value="1080,10,">generan</wi>
+<wi type="G" value="3163,11,">peleas</wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-2-24">
