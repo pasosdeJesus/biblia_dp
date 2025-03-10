@@ -978,13 +978,25 @@ God may give them repentance leading to a full knowledge of the truth,
 <wi type="G" value="3341,11,">arrepentimiento</wi>
 <wi type="G" value="1519,12,">para</wi>
 <wi type="G" value="1922,13,">reconocer</wi>
-<wi type="G" value="225,14,">la verdad</wi>.
+<wi type="G" value="225,14,">la verdad</wi>,
 </t>
 </sv>
 
 <sv id="b2_Timothy-2-26">
 and they may recover themselves out of the devil´s snare,
 having been taken captive by him to his will.
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="366,2,">poderse librar</wi>
+<wi type="G" value="1537,3,">del</wi>
+<wi type="G" value="3803,7,">lazo</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="3588,5,"/><wi type="G" value="1228,6,">del diablo</wi>,
+<wi type="G" value="2221,8,">cautivos</wi>
+<wi type="G" value="5259,9,">de</wi>
+<wi type="G" value="846,10,">él</wi>
+<wi type="G" value="1519,11,">por</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="1565,13,">su</wi>
+<wi type="G" value="2307,14,">voluntad</wi>.
+</t>
 <cl/>
 
 </sv></cm></sc>
