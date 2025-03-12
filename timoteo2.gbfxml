@@ -1030,12 +1030,31 @@ fiero, peligros, dificil de hacer, salvaje.</rf></rb>
 <sv id="b2_Timothy-3-2">
 For men will be lovers of self, lovers of money, boastful, arrogant,
 blasphemers, disobedient to parents, unthankful, unholy,
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="444,4,">los hombres</wi></wi>
+<wi type="G" value="2071,1,">serán</wi>
+<wi type="G" value="5367,5,">amantes de si mismos</wi>,
+<wi type="G" value="5366,6,">avaros</wi>,
+<wi type="G" value="213,7,">presuntuosos</wi>,
+<wi type="G" value="5244,8,">arrogantes</wi>,
+<wi type="G" value="989,9,">blasfemos</wi>,
+<wi type="G" value="545,11,">desobedientes</wi>
+<wi type="G" value="1118,10,">a los padres</wi>,
+<wi type="G" value="884,12,">desagradecidos</wi>,
+<wi type="G" value="462,13,">sin santidad</wi>,
+</t>
 </sv>
 
 <sv id="b2_Timothy-3-3">
 without natural
 affection, unforgiving, slanderers, without self-control, fierce, no lovers
 of good,
+<t xml:lang="es"><wi type="G" value="794,1,">sin afecto natural</wi>,
+<wi type="G" value="786,2,">implacables</wi>,
+<wi type="G" value="1228,3,">calumniadores</wi>,
+<wi type="G" value="193,4,">sin dominio propio</wi>,
+<wi type="G" value="434,5,">crueles</wi>,
+<wi type="G" value="865,6,">despreciadores del bien</wi>,</t>
 </sv>
 
 <sv id="b2_Timothy-3-4">
