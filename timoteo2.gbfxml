@@ -1060,11 +1060,29 @@ of good,
 <sv id="b2_Timothy-3-4">
 traitors, headstrong, conceited, lovers of pleasure rather than
 lovers of God;
+<t xml:lang="es"><wi type="G" value="4273,1,">traidores</wi>,
+<wi type="G" value="4312,2,">obstinados</wi>,
+<wi type="G" value="5187,3,">hinchados</wi>,
+<wi type="G" value="5369,4,">amantes de los placeres</wi>
+<wi type="G" value="3123,5,">más</wi>
+<wi type="G" value="2228,6,">que</wi>
+<wi type="G" value="5377,7,">amantes de Dios</wi>;</t>
 </sv>
 
 <sv id="b2_Timothy-3-5">
 holding a form of godliness, but having denied the power
 thereof. Turn away from these, also.
+<t xml:lang="es"><wi type="G" value="2192,1,">teniendo</wi>
+<wi type="G" value="3446,2,">cierta forma</wi>
+<wi type="G" value="2150,3,">de piedad</wi>,
+<wi type="G" value="3588,4,"/><wi type="G" value="1161,5,">pero</wi>
+<wi type="G" value="720,8,">negando</wi>
+<wi type="G" value="1411,6,">el poder</wi>
+<wi type="G" value="846,7,">de esta</wi>.
+<wi type="G" value="665,11,">Aléjate</wi>
+<wi type="G" value="2532,9,">también</wi>
+<wi type="G" value="5128,10,">de estos</wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-3-6">
