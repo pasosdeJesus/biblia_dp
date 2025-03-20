@@ -1181,14 +1181,35 @@ conduct, purpose, faith, patience, love, steadfastness,
 <wi type="G" value="3588,11,"><wi type="G" value="4102,12,">fe</wi></wi>,
 <wi type="G" value="3588,13,"><wi type="G" value="3115,14,">paciencia</wi></wi>,
 <wi type="G" value="3588,15,"><wi type="G" value="26,16,">amor</wi></wi>,
-<wi type="G" value="3588,17,"><wi type="G" value="5281,18,">paciencia</wi></wi></t>
+<wi type="G" value="3588,17,"><wi type="G" value="5281,18,">resistencia</wi></wi></t>;
 </sv>
 
 <sv id="b2_Timothy-3-11">
 persecutions,
 and sufferings: those things that happened to me at Antioch, Iconium, and
 Lystra. I endured those persecutions. Out of them all the Lord delivered me.
-
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G"
+value="1375,2,">persecuciones</wi></wi>,
+<wi type="G" value="3588,3,"><wi type="G" value="3804,4,">sufrimientos</wi></wi>:
+<wi type="G" value="3634,5,">como</wi>
+<wi type="G" value="3427,6,">me</wi>
+<wi type="G" value="1096,7,">ocurrieron</wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="490,9,">Antioquía</wi>,
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="2430,11,">Iconio</wi>,
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="3082,13,">Listra</wi>.
+<wi type="G" value="3634,14,">Tales</wi>
+<wi type="G" value="1375,15,">persecuciones</wi>
+<wi type="G" value="5297,16,">sufrí</wi>;
+<wi type="G" value="2532,17,">pero</wi>
+<wi type="G" value="1537,18,">de</wi>
+<wi type="G" value="3956,19,">todas</wi>
+<wi type="G" value="3165,20,">me</wi>
+<wi type="G" value="4506,21,">libró</wi>
+<wi type="G" value="3588,22,"><wi type="G" value="2962,23,">el Señor</wi></wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-3-12">
