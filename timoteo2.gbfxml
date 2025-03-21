@@ -1215,11 +1215,33 @@ value="1375,2,">persecuciones</wi></wi>,
 <sv id="b2_Timothy-3-12">
 Yes, and all who desire to live godly in Christ Jesus will suffer
 persecution.
+<t xml:lang="es"><wi type="G" value="1161,3,">Si</wi>,
+<wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="3956,2,">todos</wi>
+<wi type="G" value="3588,4,">los que</wi>
+<wi type="G" value="2309,5,">quieran</wi>
+<wi type="G" value="2198,7,">vivir</wi>
+<wi type="G" value="2153,6,">piadosamente</wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="5547,9,">Cristo</wi>
+<wi type="G" value="2424,10,">Jesús</wi>
+<wi type="G" value="1377,11,">sufrirán persecución</wi>.</t>
 </sv>
 
 <sv id="b2_Timothy-3-13">
 But evil men and impostors will grow worse and worse,
 deceiving and being deceived.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="444,3,">los hombres</wi>
+<wi type="G" value="4190,1,">malos</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="1114,5,">los impostores</wi>
+<wi type="G" value="4298,6,">irán</wi>
+<wi type="G" value="1909,7,"/><wi type="G" value="3588,8,"/><wi type="G" value="5501,9,">empeorando</wi>,
+<wi type="G" value="4105,10,">engañando</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="4105,12,">siendo engañados</wi>
+</t>
 </sv>
 
 <sv id="b2_Timothy-3-14">
