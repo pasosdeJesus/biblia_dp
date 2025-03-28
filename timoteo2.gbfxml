@@ -1306,7 +1306,7 @@ es
 <wi type="G" value="4314,10,">para</wi>
 <wi type="G" value="1882,11,">corregir</wi>,
 y <wi type="G" value="4314,12,">para</wi>
-<wi type="G" value="3809,13,">instruir</wi> 
+<wi type="G" value="3809,13,">instruir</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="1722,15,">en</wi>
 <wi type="G" value="1343,16,">lo recto</wi>.</t>
 </sv>
@@ -1314,6 +1314,17 @@ y <wi type="G" value="4314,12,">para</wi>
 <sv id="b2_Timothy-3-17">
 that the man of God may be complete,
 thoroughly equipped for every good work.
+<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
+<wi type="G" value="444,7,">el hombre</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="3588,5,"><wi type="G" value="2316,6,">de Dios</wi></wi>
+<wi type="G" value="5600,3,">pueda ser</wi>
+<wi type="G" value="739,2,">completo</wi>,
+<wi type="G" value="1822,12,">instruido</wi>
+<wi type="G" value="4314,8,">para</wi>
+<wi type="G" value="3956,9,">toda</wi>
+<wi type="G" value="18,11,">buena</wi>
+<wi type="G" value="2041,10,">obra</wi>.
+</t>
 
 <cl/>
 
@@ -1324,6 +1335,26 @@ thoroughly equipped for every good work.
 <sv id="b2_Timothy-4-1">
 I charge you therefore before God and the Lord Jesus Christ, who
 will judge the living and the dead at his appearing and his Kingdom:
+<t xml:lang="es"><wi type="G" value="1473,3,">Yo</wi>
+te <wi type="G" value="1263,1,">encargo</wi>
+<wi type="G" value="3767,2,">entonces</wi>
+<wi type="G" value="1799,4,">delante de</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">Dios</wi></wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2962,9,">del Señor</wi></wi>
+<wi type="G" value="2424,10,">Jesús</wi>
+<wi type="G" value="5547,11,">Cristo</wi>,
+<wi type="G" value="3588,12,"/><wi type="G" value="3195,13,">quien</wi>
+<wi type="G" value="2919,14,">juzgará</wi> a
+<wi type="G" value="2198,15,">los vivos</wi>
+<wi type="G" value="2532,16,">y</wi> a
+<wi type="G" value="3498,17,">los muertos</wi>
+<wi type="G" value="2596,18,">en</wi>
+<wi type="G" value="846,21,">su</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="2015,20,">aparición</wi></wi>
+<wi type="G" value="2532,22,">y</wi>
+en <wi type="G" value="846,25,">su</wi>
+<wi type="G" value="3588,23,"><wi type="G" value="932,24,">Reino</wi></wi>:</t>
 
 </sv>
 
