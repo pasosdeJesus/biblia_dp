@@ -1361,6 +1361,27 @@ en <wi type="G" value="846,25,">su</wi>
 <sv id="b2_Timothy-4-2">
 preach the word; be urgent in season and out of season; reprove, rebuke,
 and exhort, with all patience and teaching.
+<t xml:lang="es"><wi type="G" value="2784,1,">predica</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="3056,3,">la palabra</wi></wi>;
+</t>
+<rb xml:lang="es"><wi type="G" value="2186,4,">ponte al frente</wi><rf>
+<citebib id="WEB"/> dice `se urgente,´ 
+<citebib id="KJV2003"/> dice `sé instantáneo,´
+<citebib id="RVG2012"/> dice `que instes.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `επιστηθι´
+es un verbo que se traduce como poner, estar presente, ponerse al frente.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2122,5,">a tiempo</wi> y
+<wi type="G" value="171,6,">fuera de tiempo</wi>;
+<wi type="G" value="1651,7,">reprueba</wi>,
+<wi type="G" value="2008,8,">reprende</wi> y
+<wi type="G" value="3870,9,">exhorta</wi>,
+<wi type="G" value="1722,10,">con</wi>
+<wi type="G" value="3956,11,">toda</wi>
+<wi type="G" value="3115,12,">paciencia</wi>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="1322,14,">enseñanza</wi>.</t>
 </sv>
 
 <sv id="b2_Timothy-4-3">
