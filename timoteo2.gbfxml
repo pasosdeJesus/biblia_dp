@@ -1461,12 +1461,46 @@ For I am already being offered, and the time of my departure has come.
 <sv id="b2_Timothy-4-7">
 I have fought the good fight. I have finished the course. I have kept
 the faith.
+<t xml:lang="es">
+<wi type="G" value="3588,1,"><wi type="G" value="73,2,">Batalla</wi></wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="2570,4,">buena</wi> 
+<wi type="G" value="75,5,">he peleado</wi>.
+<wi type="G" value="3588,6,"><wi type="G" value="1408,7,">La carrera</wi></wi> 
+<wi type="G" value="5055,8,">he terminado</wi>.
+<wi type="G" value="3588,9,"><wi type="G" value="4102,10,">La fe</wi></wi> 
+<wi type="G" value="5083,11,">he mantenido</wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-4-8">
 From now on, there is stored up for me the crown of
 righteousness, which the Lord, the righteous judge, will give to me on that
 day; and not to me only, but also to all those who have loved his appearing.
+<t xml:lang="es"><wi type="G" value="3063,1,">Por tanto</wi>, 
+<wi type="G" value="606,2,">hay guardada</wi> 
+<wi type="G" value="3427,3,">para mi</wi>
+<wi type="G" value="4735,7,">una corona</wi> 
+<wi type="G" value="3588,4,"/><wi type="G" value="3588,5,"><wi type="G" value="1343,6,">de justicia</wi></wi>,
+<wi type="G" value="3739,8,">la cual</wi> 
+<wi type="G" value="3588,11,"><wi type="G" value="2962,12,">el Señor</wi></wi>, 
+<wi type="G" value="2923,19,">el juez</wi> 
+<wi type="G" value="3588,17,"/><wi type="G" value="1342,18,">justo</wi>, 
+<wi type="G" value="3427,10,">me</wi> 
+<wi type="G" value="591,9,">dará</wi> 
+<wi type="G" value="1722,13,">en</wi> 
+<wi type="G" value="1565,14,">ese</wi> 
+<wi type="G" value="3588,15,"><wi type="G" value="2250,16,">día</wi></wi>;
+<wi type="G" value="1161,22,">y</wi> 
+<wi type="G" value="3756,20,">no</wi> 
+<wi type="G" value="3440,21,">solo</wi> 
+<wi type="G" value="1698,23,">a mi</wi>, 
+<wi type="G" value="235,24,">sino</wi> 
+<wi type="G" value="2532,25,">también</wi> 
+<wi type="G" value="3956,26,">a todos</wi> los que 
+<wi type="G" value="3588,27,"/><wi type="G" value="25,28,">aman</wi> 
+<wi type="G" value="846,31,">su</wi> 
+<wi type="G" value="3588,29,"><wi type="G" value="2015,30,">advenimiento</wi></wi>.
+</t>
 
 </sv>
 
