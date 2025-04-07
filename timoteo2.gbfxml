@@ -1587,14 +1587,36 @@ books, especially the parchments.
 <sv id="b2_Timothy-4-14">
 Alexander, the coppersmith, did much
 evil to me. The Lord will repay him according to his works,
+<t xml:lang="es"><wi type="G" value="223,1,">Alejandro</wi>, 
+<wi type="G" value="3588,2,"><wi type="G" value="5471,3,">el calderero</wi></wi>, 
+<wi type="G" value="3427,5,">me</wi> 
+<wi type="G" value="1731,7,">hizo</wi> 
+<wi type="G" value="4183,4,">muchos</wi>
+<wi type="G" value="2556,6,">males</wi>. 
+<wi type="G" value="3588,10,"><wi type="G" value="2962,11,">El Señor</wi></wi> 
+<wi type="G" value="846,9,">le</wi> 
+<wi type="G" value="591,8,">pagará</wi> 
+<wi type="G" value="2596,12,">de acuerdo a</wi> 
+<wi type="G" value="846,15,">sus</wi> 
+<wi type="G" value="3588,13,"><wi type="G" value="2041,14,">obras</wi></wi>,</t>
 </sv>
 
 <sv id="b2_Timothy-4-15">
 of whom you
 also must beware; for he greatly opposed our words.
+<t xml:lang="es"><wi type="G" value="3739,1,">de quien</wi> 
+<wi type="G" value="4771,3,">tu</wi>
+<wi type="G" value="5442,4,">debes cuidarte</wi>
+<wi type="G" value="2532,2,">también</wi>, 
+<wi type="G" value="1063,6,">pues</wi> 
+<wi type="G" value="3029,5,">en gran manera</wi> 
+<wi type="G" value="436,7,">se opuso a</wi> 
+<wi type="G" value="3588,8,"/><wi type="G" value="2251,9,">nuestras</wi> 
+<wi type="G" value="3056,10,">palabras</wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="b2_Timothy-4-16">
 At my first defense, no one came to help me, but all left me. May it
 not be held against them.
