@@ -1640,12 +1640,61 @@ Que <wi type="G" value="3361,13,">no</wi>
 But the Lord stood by me, and strengthened
 me, that through me the message might be fully proclaimed, and that all the
 Gentiles might hear; and I was delivered out of the mouth of the lion.
-
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Más</wi>
+<wi type="G" value="2962,3,">el Señor</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3936,5,">estuvo</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `estuvo,´
+<citebib id="RVG2012"/> dice `ayudó.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`παρεστη´ se traduce como poner al lado, presentarse, ofrecer, 
+proveer, quedarse al lado, estar presente, quedarse para ayudar.
+ </rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3427,4,">conmigo</wi>,
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="3165,8,">me</wi>
+<wi type="G" value="1743,7,">fortaleció</wi>,
+<wi type="G" value="2443,9,">para que</wi>
+<wi type="G" value="1223,10,">por</wi>
+<wi type="G" value="1700,11,">mi</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2782,13,">el mensaje</wi></wi>
+<wi type="G" value="4135,14,">fuera plenamente conocido</wi>, i
+<wi type="G" value="2532,15,">y</wi>
+que
+<wi type="G" value="3956,17,">todos</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="1484,19,">los gentiles</wi></wi>
+<wi type="G" value="191,16,">pudieran oírlo</wi>;
+<wi type="G" value="2532,20,">y</wi>
+<wi type="G" value="4506,21,">fui librado</wi>
+<wi type="G" value="1537,22,">de</wi>
+<wi type="G" value="4750,23,">la boca</wi>
+<wi type="G" value="3023,24,">del león</wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-4-18">
 And the Lord will deliver me from every evil work, and will preserve me
 for his heavenly Kingdom; to whom be the glory forever and ever. Amen.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2962,5,">el Señor</wi></wi>
+<wi type="G" value="3165,3,">me</wi>
+<wi type="G" value="4506,2,">librará</wi>
+<wi type="G" value="575,6,">de</wi>
+<wi type="G" value="3956,7,">toda</wi>
+<wi type="G" value="2041,8,">obra</wi>
+<wi type="G" value="4190,9,">mala</wi>,
+<wi type="G" value="2532,10,">y</wi> me
+<wi type="G" value="4982,11,">preservará</wi>
+<wi type="G" value="1519,12,">para</wi>
+<wi type="G" value="846,15,">Su</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="932,14,">reino</wi></wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="2032,17,">celestial</wi>;
+<wi type="G" value="3739,18,">a quien</wi> sea
+<wi type="G" value="3588,19,"><wi type="G" value="1391,20,">la gloria</wi></wi>
+<wi type="G" value="1519,21,">por</wi>
+<wi type="G" value="3588,22,"><wi type="G" value="165,23,">siempre</wi></wi> y
+<wi type="G" value="3588,24,"><wi type="G" value="165,25,">siempre</wi></wi>.
+<wi type="G" value="281,26,">Amén</wi>.</t>
 
 </sv></cm><cm>
 
