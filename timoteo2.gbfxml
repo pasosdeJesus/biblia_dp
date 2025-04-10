@@ -1646,7 +1646,7 @@ Gentiles might hear; and I was delivered out of the mouth of the lion.
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `estuvo,´
 <citebib id="RVG2012"/> dice `ayudó.´
 Según <citebib id="Thayer-BLB"/> la palabra griega
-`παρεστη´ se traduce como poner al lado, presentarse, ofrecer, 
+`παρεστη´ se traduce como poner al lado, presentarse, ofrecer,
 proveer, quedarse al lado, estar presente, quedarse para ayudar.
  </rf></rb>
 <t xml:lang="es">
@@ -1700,11 +1700,30 @@ for his heavenly Kingdom; to whom be the glory forever and ever. Amen.
 
 <sv id="b2_Timothy-4-19">
 Greet Prisca and Aquila, and the house of Onesiphorus.
+<t xml:lang="es"><wi type="G" value="782,1,">Saluda</wi> a
+<wi type="G" value="4251,2,">Prisca</wi>
+<wi type="G" value="2532,3,">y</wi> a
+<wi type="G" value="207,4,">Aquila</wi>,
+<wi type="G" value="2532,5,">y</wi>
+a <wi type="G" value="3624,8,">la casa</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="3683,7,">de Onesíforo</wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-4-20">
 Erastus
 remained at Corinth, but I left Trophimus at Miletus sick.
+<t xml:lang="es"><wi type="G" value="2037,1,">Erasto</wi>
+<wi type="G" value="3306,2,">se quedó</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="2882,4,">Corinto</wi>,
+<wi type="G" value="1161,6,">pero</wi>
+<wi type="G" value="620,7,">yo dejé a</wi>
+<wi type="G" value="5161,5,">Trófimo</wi>
+<wi type="G" value="770,10,">enfermo</wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="3399,9,">Mileto</wi>.
+</t>
 </sv>
 
 <sv id="b2_Timothy-4-21">
