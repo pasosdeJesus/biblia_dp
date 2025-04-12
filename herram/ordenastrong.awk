@@ -45,13 +45,14 @@ BEGIN {
 END {
   lin = "";
   print "ultpos=" ultpos > "/dev/stderr";
-  if (ultpos !~ /^[0-9]*:[0-9]*$/) {
+  if (ultpos !~ /^[0-9]*$/) {
     print "posición no entera: '" ultpos "'"> "/dev/stderr";
     error = 1;
   } else if (ultpos <= 0) {
     print "ultpos negativo" > "/dev/stderr";
     error=1;
   } else {
+    print "ultpos positivo" > "/dev/stderr";
     for (i = 1; i <= ultpos; i++) {
       if (ver[i] == "") {
         print FILENAME ":" FNR ":Falta el " i "-esimo en " nant > "/dev/stderr";

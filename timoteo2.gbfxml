@@ -1752,7 +1752,24 @@ all the brothers.
 <sv id="b2_Timothy-4-22">
 The Lord Jesus Christ be with your spirit. Grace be
 with you. Amen.
-
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="2962,2,">El Señor</wi></wi>
+<wi type="G" value="2424,3,">Jesús</wi>
+<wi type="G" value="5547,4,">Cristo</wi>
+sea
+<wi type="G" value="3326,5,">con</wi>
+<wi type="G" value="4675,8,">tu</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="4151,7,">espíritu</wi></wi>.
+<wi type="G" value="3588,9,"><wi type="G" value="5485,10,">La gracia</wi></wi> sea
+<wi type="G" value="3326,11,">con</wi>
+<wi type="G" value="5216,12,">ustedes</wi>
+<wi type="G" value="281,13,">Amén</wi>.</t>
+<rb xml:lang="es"><rf><citebib id="KJV2013"/> agrega
+el siguiente colofón con marcado Strong:
+La segunda epístola a Timoteo,
+ordenado como el primer obispo de la iglesia
+de los Efesos, escrito desde Roma,
+cuando Pablo fue llevado ante Nerón por segunda vez.
+</rf></rb>
 <cl/>
 
 
