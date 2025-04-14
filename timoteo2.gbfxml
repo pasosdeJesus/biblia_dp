@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<sb id="b2_Timothy" type="" xml:lang="">
+<sb id="2_Timoteo" type="" xml:lang="">
 <tt>Paul´s Second Letter to Timothy
 <t xml:lang="es">Segunda carta de Pablo a Timoteo</t>
 </tt>
 
-<sc id="b2_Timothy-1">
+<sc id="2_Timoteo-1">
 <cm>
-<sv id="b2_Timothy-1-1">
+<sv id="2_Timoteo-1-1">
 Paul, an apostle of Jesus Christ through the will of God, according
 to the promise of the life which is in Christ Jesus,
 <t xml:lang="es"><wi type="G" value="3972,1,">Pablo</wi>,
@@ -27,7 +27,7 @@ to the promise of the life which is in Christ Jesus,
 </t>
 </sv>
 
-<sv id="b2_Timothy-1-2">
+<sv id="2_Timoteo-1-2">
 to Timothy, my
 beloved child: Grace, mercy, and peace, from God the Father and Christ Jesus
 our Lord.
@@ -49,7 +49,7 @@ our Lord.
 </sv></cm>
 
 <cm>
-<sv id="b2_Timothy-1-3">
+<sv id="2_Timoteo-1-3">
 I thank God, whom I serve as my forefathers did, with a pure conscience.
 How unceasing is my memory of you in my petitions, night and day
 <t xml:lang="es"><wi type="G" value="5485,1,"><wi type="G" value="2192,2,">Doy
@@ -67,13 +67,13 @@ La palabra `mi´ no aparece en <citebib id="TR"/>.
 <t xml:lang="es">,
 <wi type="G" value="1722,9,">con</wi>
 <wi type="G" value="4893,11,">conciencia</wi>
-<wi type="G" value="2513,10,">pura</wi>.
+<wi type="G" value="2513,10,">pura</wi>,
 <wi type="G" value="5613,12,">que</wi>
 <wi type="G" value="88,13,">sin cesar</wi>
 <wi type="G" value="2192,14,">he hecho</wi>
 <wi type="G" value="3588,15,"><wi type="G" value="3417,18,">mención</wi></wi>
 <wi type="G" value="4012,16,">de</wi>
-<wi type="G" value="4675,17,">ustedes</wi>
+<wi type="G" value="4675,17,">ti</wi>
 <wi type="G" value="1722,19,">en</wi>
 <wi type="G" value="3450,22,">mis</wi>
 <wi type="G" value="3588,20,"><wi type="G" value="1162,21,">peticiones</wi></wi>,
@@ -82,7 +82,7 @@ La palabra `mi´ no aparece en <citebib id="TR"/>.
 <wi type="G" value="2250,25,">día</wi>,</t>
 </sv>
 
-<sv id="b2_Timothy-1-4">
+<sv id="2_Timoteo-1-4">
 longing
 to see you, remembering your tears, that I may be filled with joy;
 <t xml:lang="es"><wi type="G" value="1971,1,">anhelando</wi>
@@ -95,7 +95,7 @@ to see you, remembering your tears, that I may be filled with joy;
 <wi type="G" value="5479,9,">de gozo</wi>, </t>
 </sv>
 
-<sv id="b2_Timothy-1-5">
+<sv id="2_Timoteo-1-5">
 having been reminded of the unfeigned faith that is in you; which lived
 first in your grandmother Lois, and your mother Eunice, and, I am persuaded,
 in you also.
@@ -127,7 +127,7 @@ in you also.
 </sv></cm>
 
 <cm>
-<sv id="b2_Timothy-1-6">
+<sv id="2_Timoteo-1-6">
 For this cause, I remind you that you should stir up the gift of God
 which is in you through the laying on of my hands.
 <t xml:lang="es"><wi type="G" value="1223,1,">Por esta</wi>
@@ -155,7 +155,7 @@ Según <citebib id="Thayer-BLB"/> la  palabra griega
 </t>
 </sv>
 
-<sv id="b2_Timothy-1-7">
+<sv id="2_Timoteo-1-7">
 For God didn´t give
 us a spirit of fear, but of power, love, and self-control.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
@@ -174,7 +174,7 @@ us a spirit of fear, but of power, love, and self-control.
 </t>
 </sv>
 
-<sv id="b2_Timothy-1-8">
+<sv id="2_Timoteo-1-8">
 Therefore
 don´t be ashamed of the testimony of our Lord, nor of me his prisoner; but
 endure hardship for the Good News according to the power of God,
@@ -200,16 +200,16 @@ se traduce como soportar dificultades junto con uno.
 <wi type="G" value="3588,16,"><wi type="G" value="2098,17,">la Buena Nueva</wi></wi>
 <wi type="G" value="2596,18,">de acuerdo</wi>
 <wi type="G" value="1411,19,">al poder</wi>
-<wi type="G" value="2316,20,">de Dios</wi>.
+<wi type="G" value="2316,20,">de Dios</wi>,
 </t>
 </sv>
 
-<sv id="b2_Timothy-1-9">
+<sv id="2_Timoteo-1-9">
 who saved
 us and called us with a holy calling, not according to our works, but
 according to his own purpose and grace, which was given to us in Christ
 Jesus before times eternal,
-<t xml:lang="es"><wi type="G" value="3588,1,">quien</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,">Quien</wi>
 <wi type="G" value="2248,3,">nos</wi>
 <wi type="G" value="4982,2,">salvó</wi>
 <wi type="G" value="2532,4,">y</wi>
@@ -248,10 +248,11 @@ temporada, espacio, rato".
 Y la palabra griega αιωνιων se traduce como eterno, comienzo del mundo,
 por siempre, sin principio ni fin, lo que siempre ha sido y será.
 </rf></rb>
-<t xml:lang="es">,</t>
+<t xml:lang="es">,
+</t>
 </sv>
 
-<sv id="b2_Timothy-1-10">
+<sv id="2_Timoteo-1-10">
 but has now been revealed by the appearing of our
 Savior, Christ Jesus, who abolished death, and brought life and
 immortality to light through the Good News.
@@ -271,20 +272,20 @@ immortality to light through the Good News.
 <wi type="G" value="5461,16,">trajo a la luz</wi>
 <wi type="G" value="2222,18,">la vida</wi>
 <wi type="G" value="2532,19,">y</wi>
-<wi type="G" value="861,20,">la inmortalidad</wi> a
+<wi type="G" value="861,20,">la inmortalidad</wi>
 <wi type="G" value="1223,21,">mediante</wi>
 <wi type="G" value="3588,22,"><wi type="G" value="2098,23,">la Buena Nueva</wi></wi>.
 </t>
 </sv>
 
-<sv id="b2_Timothy-1-11">
+<sv id="2_Timoteo-1-11">
 For this, I was appointed as a preacher,
 an apostle, and a teacher of the Gentiles.
 <t xml:lang="es"><wi type="G" value="1519,1,">Del</wi>
 <wi type="G" value="3739,2,">cual</wi>
 <wi type="G" value="1473,4,">yo</wi>
 <wi type="G" value="5087,3,">fui designado</wi>
-<wi type="G" value="2783,5,">predicador</wi>,
+<wi type="G" value="2783,5,">predicador</wi>
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="652,7,">apóstol</wi>
 <wi type="G" value="2532,8,">y</wi>
@@ -292,7 +293,7 @@ an apostle, and a teacher of the Gentiles.
 <wi type="G" value="1484,10,">de los gentiles</wi>.</t>
 </sv>
 
-<sv id="b2_Timothy-1-12">
+<sv id="2_Timoteo-1-12">
 For this cause I suffer also
 these things.
 <t xml:lang="es"><wi type="G" value="1223,1,">Por</wi>
@@ -340,7 +341,7 @@ para que alguien lo cuide.</rf></rb>
 </sv></cm>
 
 <cm>
-<sv id="b2_Timothy-1-13">
+<sv id="2_Timoteo-1-13">
 Hold the pattern of sound words which you have heard from me, in faith
 and love which is in Christ Jesus.
 <t xml:lang="es">
@@ -371,7 +372,7 @@ segunda singular según morfología de <citebib id="KJV2003"/> y
 </t>
 </sv>
 
-<sv id="b2_Timothy-1-14">
+<sv id="2_Timoteo-1-14">
 That good thing which was committed
 to you, guard through the Holy Spirit who dwells in us.
 <t xml:lang="es"><wi type="G" value="2570,2,">Las buenas cosas</wi>
@@ -389,7 +390,7 @@ to you, guard through the Holy Spirit who dwells in us.
 </sv></cm>
 
 <cm>
-<sv id="b2_Timothy-1-15">
+<sv id="2_Timoteo-1-15">
 This you know, that all who are in Asia turned away from me; of whom
 are Phygelus and Hermogenes.
 <t xml:lang="es"><wi type="G" value="5124,2,">Esto</wi>
@@ -408,7 +409,7 @@ are Phygelus and Hermogenes.
 <wi type="G" value="2061,15,">Hermógenes</wi>.</t>
 </sv>
 
-<sv id="b2_Timothy-1-16">
+<sv id="2_Timoteo-1-16">
 May the Lord grant mercy to the house of
 Onesiphorus, for he often refreshed me, and was not ashamed of my chain,
 <t xml:lang="es">Que <wi type="G" value="3588,3,"><wi type="G" value="2962,4,">el Señor</wi></wi>
@@ -427,7 +428,7 @@ Onesiphorus, for he often refreshed me, and was not ashamed of my chain,
 <wi type="G" value="3588,13,"><wi type="G" value="254,14,">cadena</wi></wi>.</t>
 </sv>
 
-<sv id="b2_Timothy-1-17">
+<sv id="2_Timoteo-1-17">
 but when he was in Rome, he sought me diligently, and found me
 <t xml:lang="es"><wi type="G" value="235,1,">Más</wi>
 <wi type="G" value="1096,2,">cuando estuvo</wi>
@@ -441,7 +442,7 @@ but when he was in Rome, he sought me diligently, and found me
 
 </sv>
 
-<sv id="b2_Timothy-1-18">
+<sv id="2_Timoteo-1-18">
 (the Lord grant to him to find the Lord´s mercy in that day); and in
 how many things he served at Ephesus, you know very well.
 <t xml:lang="es">(<wi type="G" value="3588,3,"><wi type="G" value="2962,4,">el Señor</wi></wi>
@@ -467,9 +468,9 @@ how many things he served at Ephesus, you know very well.
 
 
 </sv></cm></sc>
-<sc id="b2_Timothy-2">
+<sc id="2_Timoteo-2">
 <cm>
-<sv id="b2_Timothy-2-1">
+<sv id="2_Timoteo-2-1">
 You therefore, my child, be strengthened in the grace that is in
 Christ Jesus.
 <t xml:lang="es"><wi type="G" value="4771,1,">Tu</wi>
@@ -493,7 +494,7 @@ habilitar, hacerse fuerte.
 <wi type="G" value="2424,12,">Jesús</wi>.</t>
 </sv>
 
-<sv id="b2_Timothy-2-2">
+<sv id="2_Timoteo-2-2">
 The things which you have heard from me among many
 witnesses, commit the same to faithful men, who will be able to teach others
 also.
@@ -518,7 +519,7 @@ also.
 </t>
 </sv>
 
-<sv id="b2_Timothy-2-3">
+<sv id="2_Timoteo-2-3">
 You therefore must endure hardship, as a good soldier of Christ
 Jesus.
 <t xml:lang="es"><wi type="G" value="4771,1,">Tu</wi>
@@ -532,7 +533,7 @@ Jesus.
 </t>
 </sv>
 
-<sv id="b2_Timothy-2-4">
+<sv id="2_Timoteo-2-4">
 No soldier on service entangles himself in the affairs of life,
 that he may please him who enrolled him as a soldier.
 <t xml:lang="es"><wi type="G" value="3762,1,">Ninguno</wi>
@@ -546,7 +547,7 @@ that he may please him who enrolled him as a soldier.
 </t>
 </sv>
 
-<sv id="b2_Timothy-2-5">
+<sv id="2_Timoteo-2-5">
 Also, if anyone
 competes in athletics, he isn´t crowned unless he has competed by the rules.
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
@@ -569,7 +570,7 @@ en juegos públicos, competir por un premio, sufrir, aguantar. </rf></rb>
 </t>
 </sv>
 
-<sv id="b2_Timothy-2-6">
+<sv id="2_Timoteo-2-6">
 The farmers who labor must be the first to get a share of the crops.
 <t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="1092,3,">Los campesinos</wi></wi>
 <wi type="G" value="2872,2,">que trabajan</wi>
@@ -580,7 +581,7 @@ The farmers who labor must be the first to get a share of the crops.
 </t>
 </sv>
 
-<sv id="b2_Timothy-2-7">
+<sv id="2_Timoteo-2-7">
 Consider what I say, and may the Lord give you understanding in all
 things.
 <t xml:lang="es"><wi type="G" value="3539,1,">Considera</wi>
@@ -597,7 +598,7 @@ things.
 </sv></cm>
 
 <cm>
-<sv id="b2_Timothy-2-8">
+<sv id="2_Timoteo-2-8">
 Remember Jesus Christ, risen from the dead, of the seed of David,
 according to my Good News,
 <t xml:lang="es"><wi type="G" value="3421,1,">Recuerda a</wi>
@@ -615,7 +616,7 @@ according to my Good News,
 </t>
 </sv>
 
-<sv id="b2_Timothy-2-9">
+<sv id="2_Timoteo-2-9">
 in which I suffer hardship to the point of
 chains as a criminal. But God´s word isn´t chained.
 <t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
@@ -633,7 +634,7 @@ chains as a criminal. But God´s word isn´t chained.
 </t>
 </sv>
 
-<sv id="b2_Timothy-2-10">
+<sv id="2_Timoteo-2-10">
 Therefore I endure
 all things for the chosen ones´ sake, that they also may obtain the salvation
 which is in Christ Jesus with eternal glory.
@@ -657,7 +658,7 @@ which is in Christ Jesus with eternal glory.
 </t>
 </sv>
 
-<sv id="b2_Timothy-2-11">
+<sv id="2_Timoteo-2-11">
 This saying is faithful:
 <t xml:lang="es">
 <wi type="G" value="3588,2,"><wi type="G" value="3056,3,">Una palabra</wi></wi>
@@ -676,7 +677,7 @@ We will also live with him.
 </fp>
 </sv></cm><cm type="PO">
 
-<sv id="b2_Timothy-2-12">
+<sv id="2_Timoteo-2-12">
 If we endure,
 <t xml:lang="es">
 <wi type="G" value="1487,1,">Si</wi>
@@ -699,7 +700,7 @@ He also will deny us.
 
 </sv>
 
-<sv id="b2_Timothy-2-13">
+<sv id="2_Timoteo-2-13">
 If we are faithless,
 <t xml:lang="es">
 <wi type="G" value="1487,1,">Si</wi>
@@ -719,7 +720,7 @@ He remains faithful. He can´t deny himself.
 </sv></cm>
 
 <cm>
-<sv id="b2_Timothy-2-14">
+<sv id="2_Timoteo-2-14">
 Remind them of these things, charging them in the sight of the Lord,
 that they don´t argue about words, to no profit, to the subverting of those
 who hear.
@@ -740,7 +741,7 @@ que <wi type="G" value="3762,10,">no</wi>
 </sv></cm>
 
 <cm>
-<sv id="b2_Timothy-2-15">
+<sv id="2_Timoteo-2-15">
 Give diligence to present yourself approved by God, a workman who
 doesn´t need to be ashamed, properly handling the Word of Truth.
 <rb xml:lang="es"><wi type="G" value="4704,1,">Se diligente</wi><rf>
@@ -760,7 +761,7 @@ trabajar, estudiar.</rf></rb>
 <wi type="G" value="3588,12,"><wi type="G" value="225,13,">de Verdad</wi></wi>.</t>
 </sv>
 
-<sv id="b2_Timothy-2-16">
+<sv id="2_Timoteo-2-16">
 But
 shun empty chatter, for they will proceed further in ungodliness,
 <t xml:lang="es">
@@ -776,7 +777,7 @@ shun empty chatter, for they will proceed further in ungodliness,
 </t>
 </sv>
 
-<sv id="b2_Timothy-2-17">
+<sv id="2_Timoteo-2-17">
 and
 their word will consume like gangrene, of whom is Hymenaeus and Philetus;
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
@@ -793,7 +794,7 @@ their word will consume like gangrene, of whom is Hymenaeus and Philetus;
 
 </sv>
 
-<sv id="b2_Timothy-2-18">
+<sv id="2_Timoteo-2-18">
 men who have erred concerning the truth, saying that the resurrection
 is already past, and overthrowing the faith of some.
 <t xml:lang="es"><wi type="G" value="3748,1,">quienes</wi>
@@ -811,7 +812,7 @@ is already past, and overthrowing the faith of some.
 </t>
 </sv>
 
-<sv id="b2_Timothy-2-19">
+<sv id="2_Timoteo-2-19">
 However God´s firm
 foundation stands, having this seal, «The Lord knows those who are his,» and,
 «Let every one who names the name of
@@ -847,7 +848,7 @@ en lugar de «el Señor.»
 <wi type="G" value="93,20,">la injusticia</wi>.»</t>
 </sv>
 
-<sv id="b2_Timothy-2-20">
+<sv id="2_Timoteo-2-20">
 Now in a great
 house there are not only vessels of gold and of silver, but also of wood and
 of clay. Some are for honor, and some for dishonor.
@@ -878,7 +879,7 @@ of clay. Some are for honor, and some for dishonor.
 </t>
 </sv>
 
-<sv id="b2_Timothy-2-21">
+<sv id="2_Timoteo-2-21">
 If anyone therefore
 purges himself from these, he will be a vessel for honor, sanctified, and
 suitable for the master´s use, prepared for every good work.
@@ -905,7 +906,7 @@ suitable for the master´s use, prepared for every good work.
 </t>
 </sv></cm><cm>
 
-<sv id="b2_Timothy-2-22">
+<sv id="2_Timoteo-2-22">
 Flee from youthful lusts; but pursue righteousness, faith, love, and
 peace with those who call on the Lord out of a pure heart.
 <t xml:lang="es">
@@ -929,7 +930,7 @@ peace with those who call on the Lord out of a pure heart.
 </t>
 </sv>
 
-<sv id="b2_Timothy-2-23">
+<sv id="2_Timoteo-2-23">
 But refuse
 foolish and ignorant questionings, knowing that they generate strife.
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Más</wi>
@@ -945,7 +946,7 @@ foolish and ignorant questionings, knowing that they generate strife.
 </t>
 </sv>
 
-<sv id="b2_Timothy-2-24">
+<sv id="2_Timoteo-2-24">
 The Lord´s servant must not quarrel, but be gentle towards all, able to
 teach, patient,
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
@@ -963,7 +964,7 @@ teach, patient,
 <wi type="G" value="420,13,">paciente</wi>,</t>
 </sv>
 
-<sv id="b2_Timothy-2-25">
+<sv id="2_Timoteo-2-25">
 in gentleness correcting those who oppose him: perhaps
 God may give them repentance leading to a full knowledge of the truth,
 <t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
@@ -982,7 +983,7 @@ God may give them repentance leading to a full knowledge of the truth,
 </t>
 </sv>
 
-<sv id="b2_Timothy-2-26">
+<sv id="2_Timoteo-2-26">
 and they may recover themselves out of the devil´s snare,
 having been taken captive by him to his will.
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
@@ -1000,9 +1001,9 @@ having been taken captive by him to his will.
 <cl/>
 
 </sv></cm></sc>
-<sc id="b2_Timothy-3">
+<sc id="2_Timoteo-3">
 <cm>
-<sv id="b2_Timothy-3-1">
+<sv id="2_Timoteo-3-1">
 But know this, that in the last days, grievous times will come.
 <t xml:lang="es">
 <wi type="G" value="1161,2,">Más</wi>
@@ -1027,7 +1028,7 @@ fiero, peligros, dificil de hacer, salvaje.</rf></rb>
 
 </sv>
 
-<sv id="b2_Timothy-3-2">
+<sv id="2_Timoteo-3-2">
 For men will be lovers of self, lovers of money, boastful, arrogant,
 blasphemers, disobedient to parents, unthankful, unholy,
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
@@ -1045,7 +1046,7 @@ blasphemers, disobedient to parents, unthankful, unholy,
 </t>
 </sv>
 
-<sv id="b2_Timothy-3-3">
+<sv id="2_Timoteo-3-3">
 without natural
 affection, unforgiving, slanderers, without self-control, fierce, no lovers
 of good,
@@ -1057,7 +1058,7 @@ of good,
 <wi type="G" value="865,6,">despreciadores del bien</wi>,</t>
 </sv>
 
-<sv id="b2_Timothy-3-4">
+<sv id="2_Timoteo-3-4">
 traitors, headstrong, conceited, lovers of pleasure rather than
 lovers of God;
 <t xml:lang="es"><wi type="G" value="4273,1,">traidores</wi>,
@@ -1069,7 +1070,7 @@ lovers of God;
 <wi type="G" value="5377,7,">amantes de Dios</wi>;</t>
 </sv>
 
-<sv id="b2_Timothy-3-5">
+<sv id="2_Timoteo-3-5">
 holding a form of godliness, but having denied the power
 thereof. Turn away from these, also.
 <t xml:lang="es"><wi type="G" value="2192,1,">teniendo</wi>
@@ -1085,7 +1086,7 @@ thereof. Turn away from these, also.
 </t>
 </sv>
 
-<sv id="b2_Timothy-3-6">
+<sv id="2_Timoteo-3-6">
 For of these are those who creep
 into houses, and take captive gullible women loaded down with sins, led away
 by various lusts,
@@ -1108,7 +1109,7 @@ by various lusts,
 </t>
 </sv>
 
-<sv id="b2_Timothy-3-7">
+<sv id="2_Timoteo-3-7">
 always learning, and never able to come to the
 knowledge of the truth.
 <t xml:lang="es"><wi type="G" value="3842,1,">siempre</wi>
@@ -1122,7 +1123,7 @@ knowledge of the truth.
 <wi type="G" value="225,7,">de la verdad</wi>.</t>
 </sv>
 
-<sv id="b2_Timothy-3-8">
+<sv id="2_Timoteo-3-8">
 Even as Jannes and Jambres opposed Moses, so do
 these also oppose the truth; men corrupted in mind, reprobate concerning the
 faith.
@@ -1147,7 +1148,7 @@ faith.
 </t>
 </sv>
 
-<sv id="b2_Timothy-3-9">
+<sv id="2_Timoteo-3-9">
 But they will proceed no further. For their folly will be evident
 to all men, as theirs also came to be.
 <t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>
@@ -1168,7 +1169,7 @@ lo <wi type="G" value="1096,17,">fue</wi>
 </t>
 </sv>
 
-<sv id="b2_Timothy-3-10">
+<sv id="2_Timoteo-3-10">
 But you did follow my teaching,
 conduct, purpose, faith, patience, love, steadfastness,
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -1184,7 +1185,7 @@ conduct, purpose, faith, patience, love, steadfastness,
 <wi type="G" value="3588,17,"><wi type="G" value="5281,18,">resistencia</wi></wi></t>;
 </sv>
 
-<sv id="b2_Timothy-3-11">
+<sv id="2_Timoteo-3-11">
 persecutions,
 and sufferings: those things that happened to me at Antioch, Iconium, and
 Lystra. I endured those persecutions. Out of them all the Lord delivered me.
@@ -1212,7 +1213,7 @@ value="1375,2,">persecuciones</wi></wi>,
 </t>
 </sv>
 
-<sv id="b2_Timothy-3-12">
+<sv id="2_Timoteo-3-12">
 Yes, and all who desire to live godly in Christ Jesus will suffer
 persecution.
 <t xml:lang="es"><wi type="G" value="1161,3,">Si</wi>,
@@ -1228,7 +1229,7 @@ persecution.
 <wi type="G" value="1377,11,">sufrirán persecución</wi>.</t>
 </sv>
 
-<sv id="b2_Timothy-3-13">
+<sv id="2_Timoteo-3-13">
 But evil men and impostors will grow worse and worse,
 deceiving and being deceived.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -1244,7 +1245,7 @@ deceiving and being deceived.
 </t>
 </sv>
 
-<sv id="b2_Timothy-3-14">
+<sv id="2_Timoteo-3-14">
 But you remain in the things which you
 have learned and have been assured of, knowing from whom you have learned
 them.
@@ -1263,7 +1264,7 @@ them.
 </t>
 </sv>
 
-<sv id="b2_Timothy-3-15">
+<sv id="2_Timoteo-3-15">
 From infancy, you have known the sacred writings which are able
 to make you wise for salvation through faith, which is in Christ Jesus.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
@@ -1286,7 +1287,7 @@ to make you wise for salvation through faith, which is in Christ Jesus.
 <wi type="G" value="2424,20,">Jesús</wi>. </t>
 </sv>
 
-<sv id="b2_Timothy-3-16">
+<sv id="2_Timoteo-3-16">
 Every writing
 <t xml:lang="es"><wi type="G" value="3956,1,">Toda</wi>
 <wi type="G" value="1124,2,">la escritura</wi> es</t>
@@ -1311,7 +1312,7 @@ y <wi type="G" value="4314,12,">para</wi>
 <wi type="G" value="1343,16,">lo recto</wi>.</t>
 </sv>
 
-<sv id="b2_Timothy-3-17">
+<sv id="2_Timoteo-3-17">
 that the man of God may be complete,
 thoroughly equipped for every good work.
 <t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
@@ -1330,9 +1331,9 @@ thoroughly equipped for every good work.
 
 
 </sv></cm></sc>
-<sc id="b2_Timothy-4">
+<sc id="2_Timoteo-4">
 <cm>
-<sv id="b2_Timothy-4-1">
+<sv id="2_Timoteo-4-1">
 I charge you therefore before God and the Lord Jesus Christ, who
 will judge the living and the dead at his appearing and his Kingdom:
 <t xml:lang="es"><wi type="G" value="1473,3,">Yo</wi>
@@ -1358,7 +1359,7 @@ en <wi type="G" value="846,25,">su</wi>
 
 </sv>
 
-<sv id="b2_Timothy-4-2">
+<sv id="2_Timoteo-4-2">
 preach the word; be urgent in season and out of season; reprove, rebuke,
 and exhort, with all patience and teaching.
 <t xml:lang="es"><wi type="G" value="2784,1,">predica</wi>
@@ -1384,7 +1385,7 @@ es un verbo que se traduce como poner, estar presente, ponerse al frente.
 <wi type="G" value="1322,14,">enseñanza</wi>.</t>
 </sv>
 
-<sv id="b2_Timothy-4-3">
+<sv id="2_Timoteo-4-3">
 For the time will come when
 they will not listen to the sound doctrine, but, having itching ears, will
 heap up for themselves teachers after their own lusts;
@@ -1408,7 +1409,7 @@ heap up for themselves teachers after their own lusts;
 </t>
 </sv>
 
-<sv id="b2_Timothy-4-4">
+<sv id="2_Timoteo-4-4">
 and will turn
 away their ears from the truth, and turn aside to fables.
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
@@ -1423,7 +1424,7 @@ away their ears from the truth, and turn aside to fables.
 <wi type="G" value="3588,11,"><wi type="G" value="3454,12,">fábulas</wi></wi>.</t>
 </sv>
 
-<sv id="b2_Timothy-4-5">
+<sv id="2_Timoteo-4-5">
 But you be
 sober in all things, suffer hardship, do the work of an evangelist, and
 fulfill your ministry.
@@ -1443,7 +1444,7 @@ fulfill your ministry.
 </sv></cm>
 
 <cm>
-<sv id="b2_Timothy-4-6">
+<sv id="2_Timoteo-4-6">
 For I am already being offered, and the time of my departure has come.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="1473,1,">yo</wi>
@@ -1458,7 +1459,7 @@ For I am already being offered, and the time of my departure has come.
 
 </sv>
 
-<sv id="b2_Timothy-4-7">
+<sv id="2_Timoteo-4-7">
 I have fought the good fight. I have finished the course. I have kept
 the faith.
 <t xml:lang="es">
@@ -1472,7 +1473,7 @@ the faith.
 </t>
 </sv>
 
-<sv id="b2_Timothy-4-8">
+<sv id="2_Timoteo-4-8">
 From now on, there is stored up for me the crown of
 righteousness, which the Lord, the righteous judge, will give to me on that
 day; and not to me only, but also to all those who have loved his appearing.
@@ -1504,7 +1505,7 @@ day; and not to me only, but also to all those who have loved his appearing.
 
 </sv>
 
-<sv id="b2_Timothy-4-9">
+<sv id="2_Timoteo-4-9">
 Be diligent to come to me soon,
 <t xml:lang="es"><wi type="G" value="4704,1,">Se diligente</wi>
 <wi type="G" value="2064,2,">para venir</wi>
@@ -1513,7 +1514,7 @@ Be diligent to come to me soon,
 <wi type="G" value="3165,4,">mi</wi>,</t>
 </sv>
 
-<sv id="b2_Timothy-4-10">
+<sv id="2_Timoteo-4-10">
 for Demas left me, having loved
 this present world, and went to Thessalonica; Crescens to Galatia, and Titus to Dalmatia.
 <t xml:lang="es"><wi type="G" value="1063,2,">pues</wi>
@@ -1537,7 +1538,7 @@ this present world, and went to Thessalonica; Crescens to Galatia, and Titus to 
 </t>
 </sv>
 
-<sv id="b2_Timothy-4-11">
+<sv id="2_Timoteo-4-11">
 Only Luke is with me. Take Mark, and bring him with you,
 for he is useful to me for ministering.
 <t xml:lang="es"><wi type="G" value="3441,3,">Sólo</wi>
@@ -1556,7 +1557,7 @@ for he is useful to me for ministering.
 <wi type="G" value="1248,16,">el ministerio</wi>.</t>
 </sv>
 
-<sv id="b2_Timothy-4-12">
+<sv id="2_Timoteo-4-12">
 But I sent Tychicus to Ephesus.
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="649,3,">yo envié a</wi>
@@ -1565,7 +1566,7 @@ But I sent Tychicus to Ephesus.
 <wi type="G" value="2181,5,">Éfeso</wi>.</t>
 </sv>
 
-<sv id="b2_Timothy-4-13">
+<sv id="2_Timoteo-4-13">
 Bring the cloak that I left at Troas with Carpus when you come, and the
 books, especially the parchments.
 <t xml:lang="es"><wi type="G" value="5342,10,">Trae</wi>
@@ -1584,7 +1585,7 @@ books, especially the parchments.
 </t>
 </sv>
 
-<sv id="b2_Timothy-4-14">
+<sv id="2_Timoteo-4-14">
 Alexander, the coppersmith, did much
 evil to me. The Lord will repay him according to his works,
 <t xml:lang="es"><wi type="G" value="223,1,">Alejandro</wi>,
@@ -1601,7 +1602,7 @@ evil to me. The Lord will repay him according to his works,
 <wi type="G" value="3588,13,"><wi type="G" value="2041,14,">obras</wi></wi>,</t>
 </sv>
 
-<sv id="b2_Timothy-4-15">
+<sv id="2_Timoteo-4-15">
 of whom you
 also must beware; for he greatly opposed our words.
 <t xml:lang="es"><wi type="G" value="3739,1,">de quien</wi>
@@ -1617,7 +1618,7 @@ also must beware; for he greatly opposed our words.
 </sv></cm>
 
 <cm>
-<sv id="b2_Timothy-4-16">
+<sv id="2_Timoteo-4-16">
 At my first defense, no one came to help me, but all left me. May it
 not be held against them.
 <t xml:lang="es"><wi type="G" value="1722,1,">En</wi>
@@ -1636,7 +1637,7 @@ Que <wi type="G" value="3361,13,">no</wi>
 <wi type="G" value="3049,15,">sea contado en contra</wi>.</t>
 </sv>
 
-<sv id="b2_Timothy-4-17">
+<sv id="2_Timoteo-4-17">
 But the Lord stood by me, and strengthened
 me, that through me the message might be fully proclaimed, and that all the
 Gentiles might hear; and I was delivered out of the mouth of the lion.
@@ -1672,7 +1673,7 @@ que
 </t>
 </sv>
 
-<sv id="b2_Timothy-4-18">
+<sv id="2_Timoteo-4-18">
 And the Lord will deliver me from every evil work, and will preserve me
 for his heavenly Kingdom; to whom be the glory forever and ever. Amen.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
@@ -1698,7 +1699,7 @@ for his heavenly Kingdom; to whom be the glory forever and ever. Amen.
 
 </sv></cm><cm>
 
-<sv id="b2_Timothy-4-19">
+<sv id="2_Timoteo-4-19">
 Greet Prisca and Aquila, and the house of Onesiphorus.
 <t xml:lang="es"><wi type="G" value="782,1,">Saluda</wi> a
 <wi type="G" value="4251,2,">Prisca</wi>
@@ -1710,7 +1711,7 @@ a <wi type="G" value="3624,8,">la casa</wi>
 </t>
 </sv>
 
-<sv id="b2_Timothy-4-20">
+<sv id="2_Timoteo-4-20">
 Erastus
 remained at Corinth, but I left Trophimus at Miletus sick.
 <t xml:lang="es"><wi type="G" value="2037,1,">Erasto</wi>
@@ -1726,7 +1727,7 @@ remained at Corinth, but I left Trophimus at Miletus sick.
 </t>
 </sv>
 
-<sv id="b2_Timothy-4-21">
+<sv id="2_Timoteo-4-21">
 Be diligent
 to come before winter. Eubulus salutes you, as do Pudens, Linus, Claudia, and
 all the brothers.
@@ -1749,7 +1750,7 @@ all the brothers.
 </t>
 </sv>
 
-<sv id="b2_Timothy-4-22">
+<sv id="2_Timoteo-4-22">
 The Lord Jesus Christ be with your spirit. Grace be
 with you. Amen.
 <t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="2962,2,">El Señor</wi></wi>
