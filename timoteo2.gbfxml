@@ -61,7 +61,8 @@ gracias a</wi></wi>
 <wi type="G" value="4269,8,">los ancestros</wi><rf>
 <citebib id="WEB"/> dice `como mis ancestros,´
 <citebib id="KJV2003"/> dice `desde mis ancestros,´
-<citebib id="RVG2012"/> dice `desde mis mayores.´
+<citebib id="RVG2012"/> dice `desde mis mayores.´ La palabra griega
+`απο´ se traduce como desde.
 La palabra `mi´ no aparece en <citebib id="TR"/>.
 </rf></rb>
 <t xml:lang="es">,
@@ -229,7 +230,7 @@ Jesus before times eternal,
 <wi type="G" value="5485,18,">gracia</wi>,
 <wi type="G" value="3588,19,">que</wi>
 <wi type="G" value="2254,21,">nos</wi>
-<wi type="G" value="1325,20,">fue dada</wi>
+<wi type="G" value="1325,20,">fue dado</wi>
 <wi type="G" value="1722,22,">en</wi>
 <wi type="G" value="5547,23,">Cristo</wi>
 <wi type="G" value="2424,24,">Jesús</wi>
@@ -243,7 +244,7 @@ De acuerdo a <citebib id="Thayer-BLB"/>  la palabra
 griega `χρονων´ se refiere a "un periodo de tiempo (en general
 distinguido de καιρός que designa una ocasión fija o especial y
 de αἰών que denota un periodo particular) o intervalo; por extensión
-una oportunidad individua, por implicación demora, años de antigüedad,
+una oportunidad individual, por implicación demora, años de antigüedad,
 temporada, espacio, rato".
 Y la palabra griega αιωνιων se traduce como eterno, comienzo del mundo,
 por siempre, sin principio ni fin, lo que siempre ha sido y será.
@@ -274,7 +275,7 @@ immortality to light through the Good News.
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="861,20,">la inmortalidad</wi>
 <wi type="G" value="1223,21,">mediante</wi>
-<wi type="G" value="3588,22,"><wi type="G" value="2098,23,">la Buena Nueva</wi></wi>.
+<wi type="G" value="3588,22,"><wi type="G" value="2098,23,">el Evangelio</wi></wi>.
 </t>
 </sv>
 
@@ -354,7 +355,7 @@ and love which is in Christ Jesus.
 <rb xml:lang="es"><wi type="G" value="191,8,">has escuchado</wi>
 <wi type="G" value="3844,6,">de</wi>
 <wi type="G" value="1700,7,">mí</wi><rf>
-<citebib id="WEB"/> y <citebib id="KJV2003"/> dice `has escuchado de mi,´
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `has escuchado de mi,´
 <citebib id="RVG2012"/> dice `que de mi te oyen.´
 En <citebib id="TR"/> no hay pronombre `ellos´ y la
 palabra `ηκουσας´ no está en tercera  persona plural sino
