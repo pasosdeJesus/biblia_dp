@@ -734,8 +734,8 @@ who hear.
 <wi type="G" value="3361,7,">no</wi>
 <wi type="G" value="3054,8,">se peleen en palabras</wi>
 que <wi type="G" value="3762,10,">no</wi>
-<wi type="G" value="5539,11,">aprovecha</wi>,
-<wi type="G" value="1909,12,">más</wi>  es
+<wi type="G" value="5539,11,">aprovechan</wi>,
+<wi type="G" value="1909,12,">pero</wi>  que son
 <wi type="G" value="2692,13,">catástrofe</wi>
 <wi type="G" value="3588,14,">para los que</wi>
 <wi type="G" value="191,15,">escuchan</wi></t>
@@ -752,7 +752,8 @@ doesn´t need to be ashamed, properly handling the Word of Truth.
 Según <citebib id="Thayer-BLB"/> el verbo griego
 `σπουδάζω´ se traduce como esforzarse, dar diligencia, ser diligente,
 trabajar, estudiar.</rf></rb>
-<t xml:lang="es"><wi type="G" value="3936,4,"><wi type="G" value="4572,2,">en presentarte</wi></wi>
+<t xml:lang="es">
+<wi type="G" value="3936,4,"><wi type="G" value="4572,2,">en presentarte</wi></wi>
 <wi type="G" value="1384,3,">aprobado ante</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="2316,6,">Dios</wi></wi>,
 <wi type="G" value="2040,7,">un trabajador</wi>
@@ -844,7 +845,8 @@ en lugar de «el Señor.»
 </t></rf>
 </rb>
  depart from unrighteousness.»
-<t xml:lang="es"><wi type="G" value="868,18,">se aleje</wi>
+<t xml:lang="es">
+<wi type="G" value="868,18,">se aleje</wi>
 <wi type="G" value="575,19,">de</wi>
 <wi type="G" value="93,20,">la injusticia</wi>.»</t>
 </sv>
