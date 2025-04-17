@@ -1293,14 +1293,16 @@ to make you wise for salvation through faith, which is in Christ Jesus.
 <sv id="2_Timoteo-3-16">
 Every writing
 <t xml:lang="es"><wi type="G" value="3956,1,">Toda</wi>
-<wi type="G" value="1124,2,">la escritura</wi> es</t>
+<wi type="G" value="1124,2,">la escritura</wi> es
+</t>
 <rb>inspired by God
 <t xml:lang="es"><wi type="G" value="2315,3,">inspirada por Dios</wi></t><rf>literally, God-breathed
 <t xml:lang="es"><citebib id="WEB"/> dice `literalmente respirada por Dios.´</t></rf>
 </rb>
 is profitable for teaching, for reproof, for correction, and for instruction
 which is in righteousness,
-<t xml:lang="es"><wi type="G" value="2532,4,">y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,4,">y</wi>
 es
 <wi type="G" value="5624,5,">útil</wi>
 <wi type="G" value="4314,6,">para</wi>
@@ -1312,7 +1314,8 @@ es
 y <wi type="G" value="4314,12,">para</wi>
 <wi type="G" value="3809,13,">instruir</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="1722,15,">en</wi>
-<wi type="G" value="1343,16,">lo recto</wi>.</t>
+<wi type="G" value="1343,16,">lo recto</wi>,
+</t>
 </sv>
 
 <sv id="2_Timoteo-3-17">
