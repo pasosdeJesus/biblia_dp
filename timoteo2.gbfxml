@@ -1407,11 +1407,12 @@ heap up for themselves teachers after their own lusts;
 <wi type="G" value="2596,11,">tras</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="2398,15,">sus propios</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="1939,13,">deseos</wi></wi>
+y con
+<wi type="G" value="2833,19,">comezón</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="189,21,">por oír</wi></wi>
 <wi type="G" value="2002,17,">amontonarán</wi>
-<wi type="G" value="1438,16,">para si mismos</wi>
-<wi type="G" value="1320,18,">profesores</wi> con
-<wi type="G" value="3588,20,"><wi type="G" value="189,21,">orejas</wi></wi>
-<wi type="G" value="2833,19,">que rascan</wi>.
+<wi type="G" value="1320,18,">profesores</wi>
+<wi type="G" value="1438,16,">para si mismos</wi>;
 </t>
 </sv>
 
@@ -1665,7 +1666,7 @@ proveer, quedarse al lado, estar presente, quedarse para ayudar.
 <wi type="G" value="1223,10,">por</wi>
 <wi type="G" value="1700,11,">mi</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="2782,13,">el mensaje</wi></wi>
-<wi type="G" value="4135,14,">fuera plenamente conocido</wi>, i
+<wi type="G" value="4135,14,">fuera plenamente conocido</wi>,
 <wi type="G" value="2532,15,">y</wi>
 que
 <wi type="G" value="3956,17,">todos</wi>
@@ -1710,7 +1711,7 @@ Greet Prisca and Aquila, and the house of Onesiphorus.
 <t xml:lang="es"><wi type="G" value="782,1,">Saluda</wi> a
 <wi type="G" value="4251,2,">Prisca</wi>
 <wi type="G" value="2532,3,">y</wi> a
-<wi type="G" value="207,4,">Aquila</wi>,
+<wi type="G" value="207,4,">Aquila</wi>
 <wi type="G" value="2532,5,">y</wi>
 a <wi type="G" value="3624,8,">la casa</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="3683,7,">de Onesíforo</wi>.
@@ -1743,7 +1744,7 @@ all the brothers.
 <wi type="G" value="5494,3,">invierno</wi>.
 <wi type="G" value="2103,7,">Eubulo</wi>
 <wi type="G" value="4571,6,">te</wi>
-<wi type="G" value="782,5,">saluda</wi>,
+<wi type="G" value="782,5,">saluda</wi>
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="4227,9,">Pudente</wi>
 <wi type="G" value="2532,10,">y</wi>
