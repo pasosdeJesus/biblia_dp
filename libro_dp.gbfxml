@@ -19,6 +19,7 @@
   <!ENTITY tesalonicenses2 SYSTEM "tesalonicenses2.gbfxml">
   <!ENTITY timoteo1 SYSTEM "timoteo1.gbfxml">
   <!ENTITY timoteo2 SYSTEM "timoteo2.gbfxml">
+  <!ENTITY tito SYSTEM "tito.gbfxml">
 
   <!ENTITY biblio SYSTEM "biblio.gbfxml">
   ]>
@@ -46,7 +47,8 @@
 &tesalonicenses1;
 &tesalonicenses2;
 &timoteo1;
- --> 
 &timoteo2;
+ --> 
+&tito;
 &biblio;
 </gbfxml>
