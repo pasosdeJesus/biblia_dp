@@ -124,12 +124,53 @@ you;
 <sv id="Tito-1-6">
 if anyone is blameless, the husband of one wife, having children
 who believe, who are not accused of loose or unruly behavior.
+<t xml:lang="es"><wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="5100,2,">alguno</wi>
+<wi type="G" value="2076,3,">es</wi>
+<wi type="G" value="410,4,">sin falta</wi>,
+<wi type="G" value="435,7,">esposo</wi>
+<wi type="G" value="1520,5,">de una</wi>
+<wi type="G" value="1135,6,">mujer</wi>,
+<wi type="G" value="2192,9,">teniendo</wi>
+<wi type="G" value="5043,8,">hijos</wi>
+<wi type="G" value="4103,10,">creyentes</wi>,
+<wi type="G" value="3361,11,">que no</wi> estén
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="2724,13,">acusación de</wi>
+<wi type="G" value="810,14,">desenfreno</wi>
+<wi type="G" value="2228,15,">o</wi>
+<wi type="G" value="506,16,">rebeldía</wi>.</t>
 </sv>
 <sv id="Tito-1-7">
 For the
 overseer must be blameless, as God´s steward; not self-pleasing, not easily
 angered, not given to wine, not violent, not greedy for dishonest gain;
-
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="1985,4,">el obispo</wi></wi>
+<wi type="G" value="1163,1,">debe</wi>
+<wi type="G" value="1511,6,">ser</wi>
+<wi type="G" value="410,5,">sin falta</wi>,
+<wi type="G" value="5613,7,">como</wi>
+<wi type="G" value="3623,9,">ministro</wi>
+<wi type="G" value="2316,8,">de Dios</wi>;
+<wi type="G" value="3361,10,">que no</wi>
+<wi type="G" value="829,11,">busque complacerse</wi>,
+<wi type="G" value="3361,12,">ni</wi>
+<wi type="G" value="3711,13,">se enoje fácilmente</wi>,
+<wi type="G" value="3361,14,">no</wi> sea
+<wi type="G" value="3943,15,">dado al vino</wi>,
+<wi type="G" value="3361,16,">ni</wi> a
+<wi type="G" value="4131,17,">la violencia</wi>,
+<wi type="G" value="3361,18,">ni</wi> a
+</t>
+<rb xml:lang="es"><wi type="G" value="146,19,">codicioso de ganancias</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen 
+`codicioso de ganancias deshonestas,´
+<citebib id="RVG2012"/> dice `codicioso de torpes ganancias.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `αισχροκερδη´ 
+se traduce como ansioso de ganancias (codicioso de ganancia deshonesta).
+</rf></rb>
+<t xml:lang="es">;</t>
 </sv>
 <sv id="Tito-1-8">
 but given to hospitality, as a lover of good, sober minded, fair, holy,
