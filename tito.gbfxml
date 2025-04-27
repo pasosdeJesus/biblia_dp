@@ -164,10 +164,10 @@ angered, not given to wine, not violent, not greedy for dishonest gain;
 <wi type="G" value="3361,18,">ni</wi> a
 </t>
 <rb xml:lang="es"><wi type="G" value="146,19,">codicioso de ganancias</wi><rf>
-<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen 
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen
 `codicioso de ganancias deshonestas,´
 <citebib id="RVG2012"/> dice `codicioso de torpes ganancias.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `αισχροκερδη´ 
+Según <citebib id="Thayer-BLB"/> la palabra griega `αισχροκερδη´
 se traduce como ansioso de ganancias (codicioso de ganancia deshonesta).
 </rf></rb>
 <t xml:lang="es">;</t>
@@ -175,11 +175,34 @@ se traduce como ansioso de ganancias (codicioso de ganancia deshonesta).
 <sv id="Tito-1-8">
 but given to hospitality, as a lover of good, sober minded, fair, holy,
 self-controlled;
+<t xml:lang="es"><wi type="G" value="235,1,">pero</wi>
+<wi type="G" value="5382,2,">dado a la hospitalidad</wi>, que
+<wi type="G" value="5358,3,">ame lo bueno</wi>,
+<wi type="G" value="4998,4,">sobrio</wi>,
+<wi type="G" value="1342,5,">justo</wi>,
+<wi type="G" value="3741,6,">santo</wi>,
+<wi type="G" value="1468,7,">que se controle</wi>;</t>
 </sv>
 <sv id="Tito-1-9">
 holding to the faithful word which is according to the
 teaching, that he may be able to exhort in the sound doctrine, and to convict
 those who contradict him.
+<t xml:lang="es"><wi type="G" value="472,1,">apegado a</wi>
+<wi type="G" value="3056,7,">la palabra</wi>
+<wi type="G" value="4103,6,">fiel</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="2596,3,">como</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="1322,5,">ha sido enseñado</wi></wi>,
+<wi type="G" value="2443,8,">que</wi>
+<wi type="G" value="2532,11,">también</wi>
+<wi type="G" value="5600,10,">sea</wi> 
+<wi type="G" value="1415,9,">capaz de</wi>
+<wi type="G" value="3870,12,">exhortar</wi>
+<wi type="G" value="1722,13,">en</wi> 
+<wi type="G" value="3588,16,"/><wi type="G" value="5198,17,">la sana</wi> 
+<wi type="G" value="3588,14,"><wi type="G" value="1319,15,">doctrina</wi></wi>,
+<wi type="G" value="2532,18,">y</wi>
+de <wi type="G" value="1651,21,">convencer a</wi>
+<wi type="G" value="3588,19,"/><wi type="G" value="483,20,">los contradictores</wi>.</t>
 </sv>
 <sv id="Tito-1-10">
 For there are also many unruly men, vain
