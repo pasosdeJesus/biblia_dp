@@ -194,11 +194,11 @@ those who contradict him.
 <wi type="G" value="3588,4,"><wi type="G" value="1322,5,">ha sido enseñado</wi></wi>,
 <wi type="G" value="2443,8,">que</wi>
 <wi type="G" value="2532,11,">también</wi>
-<wi type="G" value="5600,10,">sea</wi> 
+<wi type="G" value="5600,10,">sea</wi>
 <wi type="G" value="1415,9,">capaz de</wi>
 <wi type="G" value="3870,12,">exhortar</wi>
-<wi type="G" value="1722,13,">en</wi> 
-<wi type="G" value="3588,16,"/><wi type="G" value="5198,17,">la sana</wi> 
+<wi type="G" value="1722,13,">en</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="5198,17,">la sana</wi>
 <wi type="G" value="3588,14,"><wi type="G" value="1319,15,">doctrina</wi></wi>,
 <wi type="G" value="2532,18,">y</wi>
 de <wi type="G" value="1651,21,">convencer a</wi>
@@ -207,11 +207,39 @@ de <wi type="G" value="1651,21,">convencer a</wi>
 <sv id="Tito-1-10">
 For there are also many unruly men, vain
 talkers and deceivers, especially those of the circumcision,
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1526,1,">hay</wi>
+<wi type="G" value="4183,3,">muchos</wi>
+<wi type="G" value="506,5,">rebeldes</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="3151,6,">vanos habladores</wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="5423,8,">engañadores</wi>,
+<wi type="G" value="3122,9,">especialmente</wi>
+<wi type="G" value="3588,10,">los</wi>
+<wi type="G" value="1537,11,">de</wi>
+<wi type="G" value="4061,12,">la circuncisión</wi>,
+</t>
 </sv>
 <sv id="Tito-1-11">
 whose
 mouths must be stopped; men who overthrow whole houses, teaching things which
 they ought not, for dishonest gain´s sake.
+<t xml:lang="es"><wi type="G" value="3739,1,">cuyas</wi>
+<wi type="G" value="1993,3,">bocas</wi>
+<wi type="G" value="1163,2,">deben</wi>
+<wi type="G" value="1993,3,">detenerse</wi>;
+<wi type="G" value="3748,4,">que</wi>
+<wi type="G" value="396,7,">derriban</wi>
+<wi type="G" value="3624,6,">casas</wi>
+<wi type="G" value="3650,5,">enteras</wi>,
+<wi type="G" value="1321,8,">enseñando</wi>
+<wi type="G" value="3739,9,">cosas que</wi>
+<wi type="G" value="3361,10,">no</wi>
+<wi type="G" value="1163,11,">deben</wi>,
+<wi type="G" value="5484,14,">por</wi>
+<wi type="G" value="2771,13,">ganancias</wi>
+<wi type="G" value="150,12,">deshonestas</wi>.</t>
 </sv>
 <sv id="Tito-1-12">
 One of them, a prophet of
