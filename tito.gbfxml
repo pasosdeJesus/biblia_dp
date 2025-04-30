@@ -244,7 +244,28 @@ they ought not, for dishonest gain´s sake.
 <sv id="Tito-1-12">
 One of them, a prophet of
 their own, said, «Cretans are always liars, evil beasts, and idle gluttons.»
-
+<t xml:lang="es"><wi type="G" value="5100,2,">Uno</wi> 
+<wi type="G" value="1537,3,">de</wi> 
+<wi type="G" value="846,4,">ellos</wi>, 
+<wi type="G" value="4396,7,">un profeta</wi> 
+<wi type="G" value="2398,5,">propio</wi>, 
+<wi type="G" value="846,6,">de ellos</wi> 
+<wi type="G" value="2036,1,">dijo</wi>,
+«<wi type="G" value="2912,8,">Los cretenses</wi> son 
+<wi type="G" value="104,9,">siempre</wi> 
+<wi type="G" value="5583,10,">mentirosos</wi>, 
+<wi type="G" value="2342,12,">bestias</wi> 
+<wi type="G" value="2556,11,">malas</wi> y </t>
+<rb xml:lang="es"><wi type="G" value="1064,13,">vientres</wi><rf>
+<citebib id="WEB"/> dice glotones,
+<citebib id="KJV2003"/> dice `estomagos,´
+<citebib id="RVG2012"/> dice `vientres.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `γαστερες´ se traduce
+como embarazada, útero y vientre.
+ </rf></rb>
+<t xml:lang="es">
+<wi type="G" value="692,14,">ociosos</wi>.»
+</t>
 </sv>
 <sv id="Tito-1-13">
 This testimony is true. For this cause, reprove them sharply, that they
