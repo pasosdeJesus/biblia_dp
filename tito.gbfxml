@@ -353,12 +353,31 @@ abominable, disobedient, and unfit for any good work.
 <cm>
 <sv id="Tito-2-1">
 But say the things which fit sound doctrine,
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="4771,1,">tu</wi>
+<wi type="G" value="2980,3,">habla</wi>
+<wi type="G" value="3739,4,">lo que</wi>
+<wi type="G" value="4241,5,">sea</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="5198,7,">sana</wi>
+<wi type="G" value="1319,8,">doctrina</wi>,</t>
 </sv>
+
 <sv id="Tito-2-2">
 that older men
 should be temperate, sensible, sober minded, sound in faith, in love, and in
 patience:
+<t xml:lang="es"><wi type="G" value="1511,3,">que</wi>
+<wi type="G" value="4246,1,">los ancianos</wi>
+<wi type="GC" value="3">sean</wi>
+<wi type="G" value="3524,2,">sobrios</wi>,
+<wi type="G" value="4586,4,">serios</wi>,
+<wi type="G" value="4998,5,">auto controlados</wi>,
+<wi type="G" value="5198,6,">consistentes</wi>
+en <wi type="G" value="3588,7,"><wi type="G" value="4102,8,">fe</wi></wi>,
+en <wi type="G" value="3588,9,"><wi type="G" value="26,10,">amor</wi></wi> y
+en <wi type="G" value="3588,11,"><wi type="G" value="5281,12,">paciencia</wi></wi>:</t>
 </sv>
+
 <sv id="Tito-2-3">
 and that older women likewise be reverent in behavior, not
 slanderers nor enslaved to much wine, teachers of that which is good;
