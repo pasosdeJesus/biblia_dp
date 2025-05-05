@@ -381,11 +381,29 @@ en <wi type="G" value="3588,11,"><wi type="G" value="5281,12,">paciencia</wi></w
 <sv id="Tito-2-3">
 and that older women likewise be reverent in behavior, not
 slanderers nor enslaved to much wine, teachers of that which is good;
-
+<t xml:lang="es"><wi type="G" value="4247,1,">las ancianas</wi>
+<wi type="G" value="5615,2,">así mismo</wi>
+sean
+<wi type="G" value="2412,5,">reverentes</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="2688,4,">comportamiento</wi>,
+<wi type="G" value="3361,6,">no</wi>
+<wi type="G" value="1228,7,">chismosas</wi>
+<wi type="G" value="3361,8,">ni</wi>
+<wi type="G" value="1402,11,">dadas a</wi>
+<wi type="G" value="4183,10,">mucho</wi>
+<wi type="G" value="3631,9,">vino</wi>,
+<wi type="G" value="2567,12,">profesoras de lo bueno</wi>;</t>
 </sv>
+
 <sv id="Tito-2-4">
 that they may train the young women to love their husbands, to love
 their children,
+<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
+<wi type="G" value="4994,2,">puedan enseñar a</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="3501,4,">las jóvenes</wi>
+<wi type="G" value="5362,5,">a amar a sus maridos</wi>,
+<wi type="G" value="1511,6,"/><wi type="G" value="5388,7,">a amar a sus hijos</wi>,</t>
 </sv>
 <sv id="Tito-2-5">
 to be sober minded, chaste, workers at home, kind, being
