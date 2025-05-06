@@ -408,10 +408,28 @@ their children,
 <sv id="Tito-2-5">
 to be sober minded, chaste, workers at home, kind, being
 in subjection to their own husbands, that God´s word may not be blasphemed.
+<t xml:lang="es">a ser <wi type="G" value="4998,1,">auto controladas</wi>,
+<wi type="G" value="53,2,">castas</wi>,
+<wi type="G" value="3626,3,">trabajadoras del hogar</wi>,
+<wi type="G" value="18,4,">amables</wi>,
+<wi type="G" value="5293,5,">sujetas a</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="2398,7,">sus</wi>
+<wi type="G" value="435,8,">maridos</wi>,
+<wi type="G" value="2443,9,">para que</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="3056,12,">la palabra</wi></wi>
+<wi type="G" value="3588,13,"><wi type="G" value="2316,14,">de Dios</wi></wi>
+<wi type="G" value="3361,10,">no</wi>
+<wi type="G" value="987,15,">sea blasfemada</wi>.
+</t>
 
 </sv>
 <sv id="Tito-2-6">
 Likewise, exhort the younger men to be sober minded;
+<t xml:lang="es"><wi type="G" value="5615,3,">Así mismo</wi>
+<wi type="G" value="3870,4,">exhorta a</wi>
+<wi type="G" value="3588,1,"/><wi type="G" value="3501,2,">los jóvenes</wi> a
+<wi type="G" value="4993,5,">ser de mente sobria</wi>;
+</t>
 </sv>
 <sv id="Tito-2-7">
 in all things
