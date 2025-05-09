@@ -476,20 +476,72 @@ thing to say about us.
 <sv id="Tito-2-9">
 Exhort servants to be in subjection to their own
 masters, and to be well-pleasing in all things; not contradicting;
+<t xml:lang="es"><wi type="G" value="1401,1,">Los siervos</wi>
+<wi type="G" value="1511,8,">estén</wi>
+<wi type="G" value="5293,4,">sujetos a</wi>
+<wi type="G" value="2398,2,">sus</wi>
+<wi type="G" value="1203,3,">amos</wi>,
+y
+<wi type="G" value="2101,7,">agraden</wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="3956,6,">todo</wi>;
+<wi type="G" value="3361,9,">no</wi>
+<wi type="G" value="483,10,">contradiciendo</wi>; </t>
 </sv>
+
 <sv id="Tito-2-10">
 not
 stealing, but showing all good fidelity; that they may adorn the doctrine of
 God, our Savior, in all things.
+<t xml:lang="es"><wi type="G" value="3361,1,">no</wi>
+<wi type="G" value="3557,2,">robando</wi>,
+<wi type="G" value="235,3,">sino</wi>
+<wi type="G" value="1731,6,">mostrando</wi>
+<wi type="G" value="3956,5,">toda</wi>
+<wi type="G" value="18,7,">buena</wi>
+<wi type="G" value="4102,4,">fidelidad</wi>;
+<wi type="G" value="2443,8,">para que</wi>
+<wi type="G" value="2885,15,">puedan adornar</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="1319,10,">la doctrina</wi></wi>
+<wi type="G" value="2316,14,">de Dios</wi>,
+<wi type="G" value="2257,13,">nuestro</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="4990,12,">Salvador</wi></wi>,
+<wi type="G" value="1722,16,">en</wi>
+<wi type="G" value="3956,17,">todas las cosas</wi>.
+</t>
 </sv>
 <sv id="Tito-2-11">
 For the grace of God has appeared,
 bringing salvation to all men,
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2014,1,">se ha manifestado</wi>,
+<wi type="G" value="3588,3,"><wi type="G" value="5485,4,">la gracia</wi></wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">de Dios</wi></wi>
+<wi type="G" value="3588,7,"/>con <wi type="G" value="4992,8,">salvación</wi>
+<wi type="G" value="3956,9,">para todos</wi>
+<wi type="G" value="444,10,">los hombres</wi>,</t>
 </sv>
 <sv id="Tito-2-12">
 instructing us to the intent that,
 denying ungodliness and worldly lusts, we would live soberly, righteously,
 and godly in this present world;
+<t xml:lang="es"><wi type="G" value="3811,1,"><wi type="G" value="2248,2,">instruyéndonos</wi></wi> 
+<wi type="G" value="2443,3,">para que</wi>
+<wi type="G" value="720,4,">rechacemos</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="763,6,">la impiedad</wi></wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="1939,10,">los deseos</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="2886,9,">mundanos</wi>,
+<wi type="G" value="2532,12,">y</wi> que
+<wi type="G" value="2198,16,">vivamos</wi>
+<wi type="G" value="4996,11,">sobriamente</wi>,
+<wi type="G" value="1346,13,">con rectitud</wi>
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="2153,15,">piadosamente</wi>
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="165,20,">el mundo</wi>
+<wi type="G" value="3588,18,"/><wi type="G" value="3568,19,">presente</wi>;
+ </t>
 </sv>
 <sv id="Tito-2-13">
 looking for the blessed hope and
