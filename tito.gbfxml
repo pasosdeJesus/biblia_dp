@@ -525,7 +525,7 @@ bringing salvation to all men,
 instructing us to the intent that,
 denying ungodliness and worldly lusts, we would live soberly, righteously,
 and godly in this present world;
-<t xml:lang="es"><wi type="G" value="3811,1,"><wi type="G" value="2248,2,">instruyéndonos</wi></wi> 
+<t xml:lang="es"><wi type="G" value="3811,1,"><wi type="G" value="2248,2,">instruyéndonos</wi></wi>
 <wi type="G" value="2443,3,">para que</wi>
 <wi type="G" value="720,4,">rechacemos</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="763,6,">la impiedad</wi></wi>
@@ -546,6 +546,19 @@ and godly in this present world;
 <sv id="Tito-2-13">
 looking for the blessed hope and
 appearing of the glory of our great God and Savior, Jesus Christ;
+<t xml:lang="es"><wi type="G" value="4327,1,">esperando</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="3107,3,">la bendita</wi></wi>
+<wi type="G" value="1680,4,">esperanza</wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="1391,8,">la gloriosa</wi></wi>
+<wi type="G" value="2015,6,">aparición</wi>
+<wi type="G" value="2257,14,">de nuestro</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="3173,10,">gran</wi>
+<wi type="G" value="2316,11,">Dios</wi>
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="4990,13,">Salvador</wi>,
+<wi type="G" value="2424,15,">Jesús</wi>
+<wi type="G" value="5547,16,">Cristo</wi>;</t>
 </sv>
 <sv id="Tito-2-14">
 who
