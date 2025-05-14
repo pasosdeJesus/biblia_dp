@@ -611,12 +611,38 @@ Que <wi type="G" value="3367,10,">nadie</wi>
 <sv id="Tito-3-1">
 Remind them to be in subjection to rulers and to authorities, to be
 obedient, to be ready for every good work,
+<t xml:lang="es"><wi type="G" value="5279,1,"><wi type="G"
+value="846,2,">Recuerdales</wi></wi>
+<wi type="G" value="5293,6,">estar sujetos a</wi>
+<wi type="G" value="746,3,">los gobernantes</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="1849,5,">autoridades</wi>,
+<wi type="G" value="3980,7,">ser obedientes</wi>,
+<wi type="G" value="1511,13,">estando</wi>
+<wi type="G" value="2092,12,">listos</wi>
+<wi type="G" value="4314,8,">para</wi>
+<wi type="G" value="3956,9,">toda</wi>
+<wi type="G" value="18,11,">buena</wi>
+<wi type="G" value="2041,10,">obra</wi>,
+</t>
 </sv>
+
 <sv id="Tito-3-2">
 to speak evil of no one, not
 to be contentious, to be gentle, showing all humility toward all men.
-
+<t xml:lang="es">que <wi type="G" value="3367,1,">de nadie</wi>
+<wi type="G" value="987,2,">hablen mal</wi>,
+<wi type="G" value="1511,4,">ser</wi>
+<wi type="G" value="269,3,">pacíficos</wi>,
+<wi type="G" value="1933,5,">amables</wi>,
+<wi type="G" value="1731,7,">mostrando</wi>
+<wi type="G" value="3956,6,">toda</wi>
+<wi type="G" value="4236,8,">humildad</wi>
+<wi type="G" value="4314,9,">a</wi>
+<wi type="G" value="3956,10,">todos</wi>
+<wi type="G" value="444,11,">los hombre</wi>.</t>
 </sv>
+
 <sv id="Tito-3-3">
 For we were also once foolish, disobedient, deceived, serving various
 lusts and pleasures, living in malice and envy, hateful, and hating one
