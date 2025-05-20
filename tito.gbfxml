@@ -714,8 +714,8 @@ and renewing by the Holy Spirit,
 <sv id="Tito-3-6">
 which he poured out on us richly,
 through Jesus Christ our Savior;
-<t xml:lang="es"><wi type="G" value="3739,1,">que</wi>
-<wi type="G" value="1632,2,">Él vertió</wi>
+<t xml:lang="es"><wi type="G" value="3739,1,">el cual</wi>
+<wi type="G" value="1632,2,">vertió</wi>
 <wi type="G" value="1909,3,">sobre</wi>
 <wi type="G" value="2248,4,">nosotros</wi>
 <wi type="G" value="4146,5,">abundantemente</wi>,
@@ -729,6 +729,17 @@ through Jesus Christ our Savior;
 <sv id="Tito-3-7">
 that, being justified by his grace, we
 might be made heirs according to the hope of eternal life.
+<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>,
+<wi type="G" value="1344,2,">siendo justificados</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="1565,4,">por Su</wi>
+<wi type="G" value="5485,5,">gracia</wi>,
+<wi type="G" value="1096,7,">seamos hechos</wi>
+<wi type="G" value="2818,6,">herederos</wi>
+<wi type="G" value="2596,8,">de acuerdo a</wi>
+<wi type="G" value="1680,9,">la esperanza</wi>
+<wi type="G" value="2222,10,">de vida</wi>
+<wi type="G" value="166,11,">eterna</wi>.
+</t>
 </sv>
 <sv id="Tito-3-8">
 This saying
