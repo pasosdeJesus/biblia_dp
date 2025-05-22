@@ -773,10 +773,32 @@ las <wi type="G" value="1226,9,">afirmes</wi>
 but shun
 foolish questionings, genealogies, strife, and disputes about the law; for
 they are unprofitable and vain.
+<t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
+<wi type="G" value="4026,11,">desecha</wi>
+<wi type="G" value="2214,3,">preguntas</wi>
+<wi type="G" value="3474,1,">necias</wi>,
+<wi type="G" value="2532,4,"/><wi type="G" value="1076,5,">genealogías</wi>,
+<wi type="G" value="2532,6,"/><wi type="G" value="2054,7,">peleas</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="3163,9,">disputas</wi>
+<wi type="G" value="3544,10,">sobre la ley</wi>;
+<wi type="G" value="1063,13,">pues</wi>
+<wi type="G" value="1526,12,">son</wi>
+<wi type="G" value="512,14,">improductivas</wi>
+<wi type="G" value="2532,15,">y</wi>
+<wi type="G" value="3152,16,">en vano</wi>.
+</t>
 </sv>
 <sv id="Tito-3-10">
-Avoid a factious man after a first and
-second warning;
+Avoid a factious man after a first and second warning;
+<t xml:lang="es"><wi type="G" value="3868,8,">Rechaza a</wi>
+<wi type="G" value="444,2,">un hombre</wi>
+<wi type="G" value="141,1,">hereje</wi>
+<wi type="G" value="3326,3,">después de</wi>
+<wi type="G" value="1520,4,">la primera</wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="1208,6,">la segunda</wi>
+<wi type="G" value="3559,7,">amonestación</wi>;</t>
 </sv>
 <sv id="Tito-3-11">
 knowing that such a one is perverted, and sins, being
