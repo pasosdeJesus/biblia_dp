@@ -803,6 +803,23 @@ Avoid a factious man after a first and second warning;
 <sv id="Tito-3-11">
 knowing that such a one is perverted, and sins, being
 self-condemned.
+<t xml:lang="es"><wi type="G" value="1492,1,">sabiendo</wi>
+<wi type="G" value="3754,2,">que</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="5108,5,">el tal</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="1612,3,">se ha corrompido</wi><rf>
+<citebib id="WEB"/> dice `pervertido,´
+<citebib id="KJV2003"/> dice `subvertido,´
+<citebib id="RVG2012"/> dice `trastornado.´
+Según <citebib id="TR-BLB"/> la palabra griega `εξεστραπται´
+se traduce como voltear o romper, cambiar para empeorar, pervetir,
+corromper.
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="264,7,">pecando</wi>
+<wi type="G" value="5607,8,">se</wi>
+<wi type="G" value="843,9,">auto condena</wi>.</t>
 
 </sv></cm><cm>
 
