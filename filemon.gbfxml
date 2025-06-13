@@ -193,7 +193,7 @@ who once was useless to
 you, but now is useful to you and to me.
 <t xml:lang="es"><wi type="G" value="3588,1,">quien</wi>
 <wi type="G" value="4218,2,">en el pasado</wi>
-<wi type="G" value="4671,3,">te</wi> era
+<wi type="G" value="4671,3,">te</wi> fue
 <wi type="G" value="890,4,">inútil</wi>,
 <wi type="G" value="1161,6,">pero</wi>
 <wi type="G" value="3570,5,">ahora</wi> es
@@ -207,7 +207,7 @@ I am sending him back.
 Therefore receive him, that is, my own heart,
 <t xml:lang="es"><wi type="G" value="4771,3,">Te</wi>
 <wi type="G" value="3739,1,">lo</wi>
-<wi type="G" value="375,2,">envío de nuevo</wi>.
+<wi type="G" value="375,2,">envío de vuelta</wi>.
 <wi type="G" value="1161,4,">Por tanto</wi>
 <wi type="G" value="4355,11,"><wi type="G" value="846,5,">recíbelo</wi></wi>,
 <wi type="G" value="5124,6,">que</wi>
@@ -219,8 +219,21 @@ Therefore receive him, that is, my own heart,
 <sv id="Filemon-1-13">
 whom I desired to keep
 with me, that on your behalf he might serve me in my chains for the Good News.
-
+<t xml:lang="es"><wi type="G" value="3739,1,">a quien</wi>
+<wi type="G" value="1473,2,">yo</wi>
+<wi type="G" value="1014,3,">quisiera</wi>
+<wi type="G" value="2722,6,">mantener</wi>
+<wi type="G" value="4314,4,"><wi type="G" value="1683,5,">conmigo</wi></wi>,
+<wi type="G" value="2443,7,">para que</wi>
+<wi type="G" value="5228,8,">más que</wi>
+<wi type="G" value="4675,9,">a ti</wi>
+<wi type="G" value="3427,11,">me</wi>
+<wi type="G" value="1247,10,">sirviera</wi>
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1199,14,">las cadenas</wi></wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2098,16,">del Evangelio</wi></wi>.</t>
 </sv>
+
 <sv id="Filemon-1-14">
 But I was willing to do nothing without your consent, that your
 goodness would not be as of necessity, but of free will.
