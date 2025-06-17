@@ -252,7 +252,7 @@ goodness would not be as of necessity, but of free will.
 <wi type="G" value="5613,11,">como</wi>
 <wi type="G" value="2596,12,">por</wi>
 <wi type="G" value="318,13,">necesidad</wi>,
-<wi type="G" value="235,18,">sino</wi> 
+<wi type="G" value="235,18,">sino</wi>
 <wi type="G" value="2596,19,">por</wi>
 <wi type="G" value="1595,20,">buena voluntad</wi>.
 </t>
@@ -261,6 +261,23 @@ goodness would not be as of necessity, but of free will.
 For perhaps he
 was therefore separated from you for a while, that you would have him
 forever,
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="5029,1,">tal vez</wi>
+<wi type="G" value="1223,3,"><wi type="G" value="5124,4,">entonces</wi></wi>
+<wi type="G" value="5563,5,">se separó</wi>
+de ti
+<wi type="G" value="4314,6,">por</wi>
+<wi type="G" value="5610,7,">un tiempo</wi>,
+<wi type="G" value="2443,8,">para que</wi>
+<wi type="G" value="846,10,">lo</wi> </t>
+<rb xml:lang="es"><wi type="G" value="568,11,">recibieras</wi><rf>
+<citebib id="WEB"/> dice `tuvieras,´
+<citebib id="RVG2012"/>  y <citebib id="KJV2003"/> dicen
+`recibieras.´  La palabra griega `απεχης´ se puede
+traducir de ambas maneras.</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="166,9,">por siempre</wi>,
+</t>
 </sv>
 <sv id="Filemon-1-16">
 no longer as a slave, but more than a slave, a beloved
