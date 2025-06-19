@@ -288,7 +288,7 @@ in the Lord.
 <wi type="G" value="1401,3,">siervo</wi>,
 <wi type="G" value="235,4,">sino</wi>
 <wi type="G" value="5228,5,">más que</wi>
-<wi type="G" value="1401,6,">un siervo</wi>,
+<wi type="G" value="1401,6,">siervo</wi>,
 <wi type="G" value="80,7,">un hermano</wi>
 <wi type="G" value="27,8,">amado</wi>,
 <wi type="G" value="3122,9,">especialmente</wi>
@@ -323,6 +323,18 @@ If then you count me a partner, receive him as you would receive me.
 <sv id="Filemon-1-18">
 But if he has wronged you at all, or owes you anything, put that to my
 account.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="5100,3,">algo</wi>
+<wi type="G" value="4571,5,">te</wi>
+<wi type="G" value="91,4,">hizo mal</wi> ,
+<wi type="G" value="2228,6,">o</wi>
+<wi type="G" value="3784,7,">te debe</wi>,
+<wi type="G" value="1677,10,">pon</wi>
+<wi type="G" value="5124,8,">eso</wi>
+<wi type="G" value="1698,9,">a mi</wi>
+<wi type="G" value="1677,10,">cuenta</wi>.
+</t>
 </sv>
 <sv id="Filemon-1-19">
 I, Paul, write this with my own hand: I will repay it (not to
