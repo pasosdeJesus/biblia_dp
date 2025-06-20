@@ -339,6 +339,20 @@ account.
 <sv id="Filemon-1-19">
 I, Paul, write this with my own hand: I will repay it (not to
 mention to you that you owe to me even your own self besides).
+<t xml:lang="es"><wi type="G" value="1473,1,">Yo</wi>,
+<wi type="G" value="3972,2,">Pablo</wi>,
+<wi type="G" value="1125,3,">escribo</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="1699,5,">con mi propia</wi>
+<wi type="G" value="5495,6,">mano</wi>:
+<wi type="G" value="1473,7,">Yo</wi> lo
+<wi type="G" value="661,8,">pagaré</wi> (<wi type="G" value="2443,9,">por</wi>
+<wi type="G" value="3361,10,">no</wi>
+<wi type="G" value="3004,11,">decirte</wi>
+<wi type="G" value="3754,13,">como</wi>
+<wi type="G" value="4671,12,">te</wi>
+<wi type="G" value="3427,16,">me</wi>
+<wi type="G" value="4359,17,">debes</wi>
+<wi type="G" value="2532,14,"/><wi type="G" value="4572,15,">tu mismo</wi>).</t>
 </sv>
 <sv id="Filemon-1-20">
 Yes,
