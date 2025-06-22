@@ -333,7 +333,7 @@ account.
 <wi type="G" value="1677,10,">pon</wi>
 <wi type="G" value="5124,8,">eso</wi>
 <wi type="G" value="1698,9,">a mi</wi>
-<wi type="G" value="1677,10,">cuenta</wi>.
+<wi type="GC" value="10">cuenta</wi>.
 </t>
 </sv>
 <sv id="Filemon-1-19">
@@ -357,6 +357,27 @@ mention to you that you owe to me even your own self besides).
 <sv id="Filemon-1-20">
 Yes,
 brother, let me have joy from you in the Lord. Refresh my heart in the Lord.
+<t xml:lang="es"><wi type="G" value="3483,1,">Si</wi>,
+<wi type="G" value="80,2,">hermano</wi>,
+que <wi type="G" value="1473,3,">me</wi>
+<wi type="G" value="3685,5,">goce</wi>
+<wi type="G" value="4675,4,">de ti</wi>
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="2962,7,">el Señor</wi>.
+<wi type="G" value="373,8,">Refresca</wi>
+<wi type="G" value="3450,9,">mis</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="3588,10,"><wi type="G" value="4698,11,">entrañas</wi></wi><rf>
+<citebib id="WEB"/> dice `corazón,´
+<citebib id="KJV2003"/> y <citebib id="RVG2012"/>
+dicen `entrañas.´  Según <citebib id="Thayer-BLB"/>
+la palabra griega `σπλαγχνα´ se traduce
+como entrañas, intestinos (corazón, pulmones, higado).
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="2962,13,">el Señor</wi>.
+</t>
 
 </sv>
 <sv id="Filemon-1-21">
