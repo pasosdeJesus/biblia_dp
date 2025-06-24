@@ -383,15 +383,41 @@ como entrañas, intestinos (corazón, pulmones, higado).
 <sv id="Filemon-1-21">
 Having confidence in your obedience, I write to you, knowing that you
 will do even beyond what I say.
+<t xml:lang="es"><wi type="G" value="3982,1,">Confiando en</wi>
+<wi type="G" value="4675,4,">tu</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="5218,3,">obediencia</wi></wi>,
+<wi type="G" value="4671,6,">te</wi>
+<wi type="G" value="1125,5,">he escrito</wi>,
+<wi type="G" value="1492,7,">sabiendo</wi>
+<wi type="G" value="3754,8,">que</wi>
+<wi type="G" value="4160,13,">harás</wi>
+<wi type="G" value="2532,9,">incluso</wi>
+<wi type="G" value="5228,10,">más de lo que</wi>
+<wi type="G" value="3739,11,">lo que</wi>
+<wi type="G" value="3004,12,">pido</wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Filemon-1-22">
 Also, prepare a guest room for me, for I hope that through your prayers
 I will be restored to you.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="260,1,">también</wi>
+<wi type="G" value="2532,3,"/><wi type="G" value="2090,4,">prepara</wi>
+<wi type="G" value="3578,6,">un cuarto</wi>
+<wi type="G" value="3427,5,">para mi</wi>,
+<wi type="G" value="1063,8,">pues</wi>
+<wi type="G" value="1679,7,">espero</wi>
+<wi type="G" value="3754,9,">que</wi>
+<wi type="G" value="1223,10,">por</wi>
+<wi type="G" value="5216,13,">sus</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="4335,12,">oraciones</wi></wi>
+<wi type="G" value="5483,14,">seré restaurado</wi>
+<wi type="G" value="5213,15,">para ustedes</wi>.</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Filemon-1-23">
 Epaphras, my fellow prisoner in Christ Jesus, greets you,
 </sv>
