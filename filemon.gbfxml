@@ -420,21 +420,40 @@ I will be restored to you.
 <cm>
 <sv id="Filemon-1-23">
 Epaphras, my fellow prisoner in Christ Jesus, greets you,
+<t xml:lang="es"><wi type="G" value="4571,2,">Te</wi>
+<wi type="G" value="782,1,">saludan</wi>
+<wi type="G" value="1889,3,">Epafras</wi>,
+<wi type="G" value="3450,6,">mi</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="4869,5,">compañero prisionero</wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="5547,8,">Cristo</wi>
+<wi type="G" value="2424,9,">Jesús</wi>,</t>
 </sv>
 <sv id="Filemon-1-24">
-as do
-Mark, Aristarchus, Demas, and Luke, my fellow workers.
+as do Mark, Aristarchus, Demas, and Luke, my fellow workers.
+<t xml:lang="es"><wi type="G" value="3138,1,">Marcos</wi>,
+<wi type="G" value="708,2,">Aristarco</wi>,
+<wi type="G" value="1214,3,">Demas</wi> y
+<wi type="G" value="3065,4,">Lucas</wi>,
+<wi type="G" value="3450,7,">mis</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="4904,6,">compañeros de trabajo</wi>.</t>
 </sv>
 <sv id="Filemon-1-25">
 The grace of our
 Lord Jesus Christ be with your spirit. Amen.
-
+<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="5485,2,">La gracia</wi></wi>
+<wi type="G" value="2257,5,">de nuestro</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2962,4,">Señor</wi></wi>
+<wi type="G" value="2424,6,">Jesús</wi>
+<wi type="G" value="5547,7,">Cristo</wi> sea
+<wi type="G" value="3326,8,">con</wi>
+<wi type="G" value="5216,11,">su</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="4151,10,">espíritu</wi></wi>.
+<wi type="G" value="281,12,">Amén</wi>.</t>
+<rb xml:lang="es"><rf><citebib id="KJV2003"/> tiene el siguinte colofón
+con marcado Strong: Escrito desde Roma a Filemón, por Onesimo, un siervo.</rf></rb>
 <cl/>
-
-
 <cl/>
-
-
 </sv></cm></sc>
 </sb>
 
