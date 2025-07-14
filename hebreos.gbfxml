@@ -116,7 +116,7 @@ Today have I become your father?»
 
 <cl/>
 and again,
-<t xml:lang="es">¿<wi type="G" value="2532,15,">y</wi>
+<t xml:lang="es">¿<wi type="G" value="2532,15,">Y</wi>
 <wi type="G" value="3825,16,">de nuevo</wi></t>
 <cl/><fp>
 «I will be to him a Father,
@@ -142,8 +142,23 @@ And he will be to me a Son?»
 
 </sv>
 <sv id="Hebreos-1-6">
-Again, when he brings in the firstborn into the world he says, «Let all
+Again, when he brings in the firstborn into the
+world he says, «Let all
 the angels of God worship him.»
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3825,3,">de nuevo</wi>,
+<wi type="G" value="3752,1,">cuando</wi>
+<wi type="G" value="1521,4,">trae</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="4416,6,">al primogénito</wi>
+<wi type="G" value="1519,7,">al</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="3625,9,">mundo</wi></wi>
+<wi type="G" value="2532,11,"/>y <wi type="G" value="3004,10,">dice</wi>,
+«Que <wi type="G" value="3956,14,">todos</wi>
+<wi type="G" value="32,15,">los ángeles</wi>
+<wi type="G" value="2316,16,">de Dios</wi>
+<wi type="G" value="846,13,">lo</wi>
+<wi type="G" value="4352,12,">adoren</wi>.»
+</t>
 </sv>
 <sv id="Hebreos-1-7">
 Of the angels he says,
