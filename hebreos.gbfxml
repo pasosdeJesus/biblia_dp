@@ -162,11 +162,27 @@ the angels of God worship him.»
 </sv>
 <sv id="Hebreos-1-7">
 Of the angels he says,
-
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="4314,2,">de</wi>
+<wi type="G" value="3303,3,"/><wi type="G" value="3588,4,"><wi type="G" value="32,5,">los ángeles</wi></wi>
+<wi type="G" value="3004,6,">dice</wi>,</t>
 <cl/><fp>
 «Who makes his angels winds,
+<t xml:lang="es">«<wi type="G" value="3588,7,">El que</wi>
+<wi type="G" value="4160,8,">hace</wi>
+a <wi type="G" value="846,11,">sus</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="32,10,">ángeles</wi></wi>
+<wi type="G" value="4151,12,">espíritus</wi>
+,</t>
 <cl/>
 And his servants a flame of fire.»
+<t xml:lang="es">
+<wi type="G" value="2532,13,">Y</wi> a
+<wi type="G" value="846,16,">sus</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="3011,15,">ministros</wi></wi>
+<wi type="G" value="5395,18,">llama</wi>
+<wi type="G" value="4442,17,">de fuego</wi>.»
+</t>
 </fp>
 
 <cl/>
@@ -174,11 +190,30 @@ And his servants a flame of fire.»
 </sv>
 <sv id="Hebreos-1-8">
 but of the Son he says,
+<t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
+<wi type="G" value="4314,1,">al</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="5207,4,">Hijo</wi></wi>: </t>
 
 <cl/>
 «Your throne, O God, is forever and ever;
+<t xml:lang="es">
+«<wi type="G" value="4675,7,">Tu</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2362,6,">trono</wi></wi>,
+<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>, es
+<wi type="G" value="1519,10,">por</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="165,12,">siempre</wi></wi>
+<wi type="G" value="3588,13,"><wi type="G" value="165,14,">y siempre</wi></wi>;
+</t>
 <cl/>
 The scepter of uprightness is the scepter of your Kingdom.
+<t xml:lang="es">
+<wi type="G" value="3588,17,"><wi type="G" value="4464,18,">Vara</wi></wi>
+<wi type="G" value="2118,16,">de justicia</wi>,
+<wi type="G" value="4464,15,">vara</wi>
+de
+<wi type="G" value="4675,21,">tu</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="932,20,">Reino</wi></wi>.
+</t>
 <cl/>
 
 </sv>
