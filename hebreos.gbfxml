@@ -219,9 +219,28 @@ de
 </sv>
 <sv id="Hebreos-1-9">
 You have loved righteousness, and hated iniquity;
+<t xml:lang="es"><wi type="G" value="25,1,">Has amado</wi>
+<wi type="G" value="1343,2,">la justicia</wi>,
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="3404,4,">aborrecido</wi>
+<wi type="G" value="458,5,">la maldad</wi>;
+</t>
 <cl/>
 Therefore God, your God, has anointed you with the oil of gladness above your
 fellows.»
+<t xml:lang="es"><wi type="G" value="1223,6,">Por</wi>
+<wi type="G" value="5124,7,">esto</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2316,11,">Dios</wi></wi>,
+<wi type="G" value="4675,14,">tu</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>,
+<wi type="G" value="4571,9,">te</wi>
+<wi type="G" value="5548,8,">ha ungido con</wi>
+<wi type="G" value="1637,15,">aceite</wi>
+<wi type="G" value="20,16,">de gozo</wi>
+<wi type="G" value="3844,17,">más que a</wi>
+<wi type="G" value="4675,20,">tus</wi>
+<wi type="G" value="3588,18,"/><wi type="G" value="3353,19,">compañeros</wi>.»
+</t>
 
 
 <cl/>
