@@ -251,30 +251,70 @@ And,
 
 <cl/>
 «You, Lord, in the beginning, laid the foundation of the earth.
+<t xml:lang="es">
+«<wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="4771,2,">Tu</wi>,
+<wi type="G" value="2962,5,">Señor</wi>,
+<wi type="G" value="2596,3,">al</wi>
+<wi type="G" value="746,4,">principio</wi>,
+<wi type="G" value="2311,8,">pusiste los fundamentos</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="1093,7,">de la tierra</wi></wi>.
+</t>
 <cl/>
 The heavens are the works of your hands.
+<t xml:lang="es"><wi type="G" value="2532,9,">Y</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="3772,16,">los cielos</wi></wi>
+<wi type="G" value="1526,14,">son</wi>
+<wi type="G" value="2041,10,">obras</wi>
+<wi type="G" value="4675,13,">de tus</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="5495,12,">manos</wi></wi>.</t>
 <cl/>
 
 </sv>
 <sv id="Hebreos-1-11">
 They will perish, but you continue.
+<t xml:lang="es"><wi type="G" value="846,1,">Ellos</wi>
+<wi type="G" value="622,2,">perecerán</wi>
+<wi type="G" value="1161,4,">pero</wi>
+<wi type="G" value="4771,3,">tu</wi>
+<wi type="G" value="1265,5,">permanecerás</wi>.
+</t>
 <cl/>
 They all will grow old like a garment does.
+<t xml:lang="es"><wi type="G" value="2532,6,">Y</wi>
+<wi type="G" value="3956,7,">todos ellos</wi>
+<wi type="G" value="3822,10,">envejecen</wi>
+<wi type="G" value="5613,8,">como</wi>
+<wi type="G" value="2440,9,">la ropa</wi>.
+</t>
 <cl/>
 
 </sv>
 <sv id="Hebreos-1-12">
 As a mantle you will roll them up,
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="5616,2,">como</wi>
+<wi type="G" value="4018,3,">un vestido</wi>
+<wi type="G" value="846,5,">los</wi>
+<wi type="G" value="1667,4,">envolverás</wi>,</t>
 <cl/>
 And they will be changed;
+<t xml:lang="es"><wi type="G" value="2532,6,">Y</wi>
+<wi type="G" value="236,7,">serán transformados</wi>;</t>
 <cl/>
 But you are the same.
+<t xml:lang="es"><wi type="G" value="1161,9,">Pero</wi>
+<wi type="G" value="4771,8,">Tu</wi>
+<wi type="G" value="1488,12,">eres</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="846,11,">el mismo</wi>.</t>
 <cl/>
 Your years will not fail.»
-
-
+<t xml:lang="es"><wi type="G" value="2532,13,">Y</wi>
+<wi type="G" value="4675,16,">Tus</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2094,15,">años</wi></wi>
+<wi type="G" value="3756,17,">no</wi>
+<wi type="G" value="1587,18,">fallarán</wi>.»</t>
 <cl/>
-
 </sv>
 <sv id="Hebreos-1-13">
 But of which of the angels has he said at any time,
