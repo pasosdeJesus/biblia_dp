@@ -318,11 +318,32 @@ Your years will not fail.»
 </sv>
 <sv id="Hebreos-1-13">
 But of which of the angels has he said at any time,
+<t xml:lang="es"><wi type="G" value="1161,3,">Pero</wi>
+<wi type="G" value="4314,1,">a</wi>
+<wi type="G" value="5101,2,">cual</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="32,5,">ángeles</wi></wi>
+<wi type="G" value="4218,7,">alguna vez</wi>
+<wi type="G" value="2046,6,">le dijo</wi>,</t>
 
 <cl/><fp>
 «Sit at my right hand,
+<t xml:lang="es">«<wi type="G" value="2521,8,">Siéntate</wi>
+<wi type="G" value="1537,9,">a</wi>
+<wi type="G" value="3450,11,">mi</wi>
+<wi type="G" value="1188,10,">derecha</wi>,
+</t>
 <cl/>
 Until I make your enemies the footstool of your feet?»
+<t xml:lang="es">
+<wi type="G" value="2193,12,">Hasta</wi>
+<wi type="G" value="302,13,">que</wi>
+<wi type="G" value="5087,14,">haga</wi>
+<wi type="G" value="4675,17,">de tus</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="2190,16,">enemigos</wi>
+<wi type="G" value="5286,18,">un estrado</wi>
+<wi type="G" value="4675,21,">para tus</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="4228,20,">pies</wi></wi>?»
+</t>
 </fp>
 
 <cl/>
@@ -331,6 +352,19 @@ Until I make your enemies the footstool of your feet?»
 <sv id="Hebreos-1-14">
 Aren´t they all ministering spirits, sent out to do service for the
 sake of those who will inherit salvation?
+<t xml:lang="es">¿<wi type="G" value="3780,1,">No</wi>
+<wi type="G" value="1526,3,">son</wi>
+<wi type="G" value="3956,2,">todos</wi>
+<wi type="G" value="4151,5,">espíritus</wi>
+<wi type="G" value="3010,4,">ministradores</wi>,
+<wi type="G" value="649,8,">enviados</wi>
+<wi type="G" value="1519,6,">para</wi>
+<wi type="G" value="1248,7,">servir</wi>
+<wi type="G" value="1223,9,">por</wi>
+<wi type="G" value="3588,10,">los que</wi>
+<wi type="G" value="3195,11,">serán</wi>
+<wi type="G" value="2816,12,">herederos</wi>
+<wi type="G" value="4991,13,">de la salvación</wi>?</t>
 <cl/>
 
 </sv></cm></sc>
