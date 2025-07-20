@@ -389,9 +389,22 @@ a
 For if the word spoken through angels
 proved steadfast, and every transgression and disobedience received a just
 recompense;
-<t xml:lang="es">Pues si la palabra dicha mediante
-ángeles se probó fiel, y toda transgresión y desobediencia
-se recibió como recompensa justa;</t>
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="3056,7,">la palabra</wi>
+<wi type="G" value="2980,6,">dicha</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="1223,4,">mediante</wi>
+<wi type="G" value="32,5,">ángeles</wi>
+<wi type="G" value="1096,8,">fue</wi>
+<wi type="G" value="949,9,">firme</wi>,
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="3956,11,">toda</wi>
+<wi type="G" value="3847,12,">transgresión</wi>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="3876,14,">desobediencia</wi>
+<wi type="G" value="2983,15,">se recibió</wi>
+<wi type="G" value="3405,17,">una retribución</wi>
+<wi type="G" value="1738,16,">justa</wi>;</t>
 </sv>
 <sv id="Hebreos-2-3">
 how will we escape if we neglect so great a salvationwhich
