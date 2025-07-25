@@ -455,8 +455,8 @@ of which we speak, to angels.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="32,3,">a los ángeles</wi>
 <wi type="G" value="3756,1,">no</wi>
-<wi type="GC" value="4">sujeto</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="3625,6,">al</wi> mundo</wi>
+<wi type="G" value="5293,4,">sujeto</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="3625,6,">el mundo</wi></wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="3195,8,">que vendría</wi>,
 <wi type="G" value="4012,9,">del</wi>
 <wi type="G" value="3739,10,">cual</wi>
@@ -465,11 +465,31 @@ of which we speak, to angels.
 <sv id="Hebreos-2-6">
 But one has somewhere testified,
 saying,
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> 
+<wi type="G" value="5100,4,">uno</wi> 
+<wi type="G" value="1263,1,">testificó</wi>
+<wi type="G" value="4225,3,">en una parte</wi> 
+<wi type="G" value="3004,5,">diciendo</wi>,</t>
 
 <cl/>
 «What is man, that you think of him?
+<t xml:lang="es">
+«¿<wi type="G" value="5101,6,">Qué</wi> 
+<wi type="G" value="2076,7,">es</wi> 
+<wi type="G" value="444,8,">el hombre</wi> 
+<wi type="G" value="3754,9,">para que</wi> 
+<wi type="G" value="3403,10,">te acuerdes</wi> 
+<wi type="G" value="846,11,">de Él</wi>?</t>
 <cl/>
 Or the son of man, that you care for him?
+<t xml:lang="es">
+¿<wi type="G" value="2228,12,">O</wi> 
+<wi type="G" value="5207,13,">el hijo</wi> 
+<wi type="G" value="444,14,">del hombre</wi>, 
+<wi type="G" value="3754,15,">para que</wi> 
+<wi type="G" value="846,17,">lo</wi> 
+<wi type="G" value="1980,16,">cuides</wi>?
+</t>
 <cl/>
 
 </sv>
