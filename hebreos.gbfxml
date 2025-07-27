@@ -465,29 +465,29 @@ of which we speak, to angels.
 <sv id="Hebreos-2-6">
 But one has somewhere testified,
 saying,
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> 
-<wi type="G" value="5100,4,">uno</wi> 
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="5100,4,">uno</wi>
 <wi type="G" value="1263,1,">testificó</wi>
-<wi type="G" value="4225,3,">en una parte</wi> 
+<wi type="G" value="4225,3,">en una parte</wi>
 <wi type="G" value="3004,5,">diciendo</wi>,</t>
 
 <cl/>
 «What is man, that you think of him?
 <t xml:lang="es">
-«¿<wi type="G" value="5101,6,">Qué</wi> 
-<wi type="G" value="2076,7,">es</wi> 
-<wi type="G" value="444,8,">el hombre</wi> 
-<wi type="G" value="3754,9,">para que</wi> 
-<wi type="G" value="3403,10,">te acuerdes</wi> 
+«¿<wi type="G" value="5101,6,">Qué</wi>
+<wi type="G" value="2076,7,">es</wi>
+<wi type="G" value="444,8,">el hombre</wi>
+<wi type="G" value="3754,9,">para que</wi>
+<wi type="G" value="3403,10,">te acuerdes</wi>
 <wi type="G" value="846,11,">de Él</wi>?</t>
 <cl/>
 Or the son of man, that you care for him?
 <t xml:lang="es">
-¿<wi type="G" value="2228,12,">O</wi> 
-<wi type="G" value="5207,13,">el hijo</wi> 
-<wi type="G" value="444,14,">del hombre</wi>, 
-<wi type="G" value="3754,15,">para que</wi> 
-<wi type="G" value="846,17,">lo</wi> 
+¿<wi type="G" value="2228,12,">O</wi>
+<wi type="G" value="5207,13,">el hijo</wi>
+<wi type="G" value="444,14,">del hombre</wi>,
+<wi type="G" value="3754,15,">para que</wi>
+<wi type="G" value="846,17,">lo</wi>
 <wi type="G" value="1980,16,">cuides</wi>?
 </t>
 <cl/>
@@ -495,11 +495,33 @@ Or the son of man, that you care for him?
 </sv>
 <sv id="Hebreos-2-7">
 You made him a little lower than the angels;
+<t xml:lang="es"><wi type="G" value="846,2,">Lo</wi>
+<wi type="G" value="1642,1,">hiciste</wi>
+<wi type="G" value="1024,3,">un poco</wi>
+<wi type="G" value="5100,4,"/><wi type="GC" value="1">menor</wi>
+<wi type="G" value="3844,5,">que</wi>
+<wi type="G" value="32,6,">los ángeles</wi></t>
 <cl/>
 You crowned him with glory and honor.
-<rb>
-<t xml:lang="es"/><rf>TR adds «and set him over the works
-of your hands»<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="846,11,">Lo</wi>
+<wi type="G" value="4737,10,">coronaste</wi>
+<wi type="G" value="1391,7,">con gloria</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="5092,9,">honor</wi></t>
+<rb><t xml:lang="es"><wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="846,14,">lo</wi>
+<wi type="G" value="2525,13,">pusiste</wi>
+<wi type="G" value="1909,15,">sobre</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="2041,17,">la obra</wi></wi>
+<wi type="G" value="4675,20,">de tus</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="5495,19,">manos</wi></wi>»
+</t><rf>TR adds «and set him over the works
+of your hands»
+<t xml:lang="es">Esta parte no aparece en <citebib id="WEB"/> pero si en
+<citebib id="KJV2003"/>. <citebib id="WEB"/> incluye
+esta nota al pie `TR agrega «y lo pusiste sobre
+la obra de tus manos»´</t>
+</rf>
 </rb>
 
 <cl/>
@@ -507,11 +529,33 @@ of your hands»<t xml:lang="es"/></rf>
 </sv>
 <sv id="Hebreos-2-8">
 You have put all things in subjection under his feet.»
-
-
+<t xml:lang="es"><wi type="G" value="5293,2,">Sujetaste</wi>
+<wi type="G" value="3956,1,">todas las cosas</wi>
+<wi type="G" value="5270,3,">bajo</wi>
+<wi type="G" value="846,6,">sus</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="4228,5,">pies</wi></wi>.»
+</t>
 <cl/>
 For in that he subjected all things to him, he left nothing that is not
 subject to him. But now we don´t see all things subjected to him, yet.
+<t xml:lang="es"><wi type="G" value="1063,8,">Pues</wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="5293,10,">la sujeción</wi></wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="3956,13,">de todo</wi>
+<wi type="G" value="846,11,">a él</wi>,
+<wi type="G" value="3762,14,">no</wi>
+<wi type="G" value="863,15,">dejó</wi>
+<wi type="GC" value="14">nada</wi>
+<wi type="G" value="506,17,">insubordinado a</wi>
+<wi type="G" value="846,16,">Él</wi>.
+<wi type="G" value="1161,19,">Pero</wi>
+<wi type="G" value="3568,18,">ahora</wi>
+<wi type="G" value="3768,20,">aún no</wi>
+<wi type="G" value="3708,21,">vemos</wi>
+<wi type="G" value="3588,23,"/><wi type="G" value="3956,24,">todas las cosas</wi>
+<wi type="G" value="5293,25,">sujetas a</wi>
+<wi type="G" value="846,22,">Él</wi>.
+</t>
 
 </sv>
 <sv id="Hebreos-2-9">
