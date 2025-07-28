@@ -562,7 +562,42 @@ subject to him. But now we don´t see all things subjected to him, yet.
 But we see him who has been made a little lower than the angels, Jesus,
 because of the suffering of death crowned with glory and honor, that by the
 grace of God he should taste of death for everyone.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="991,8,">vemos</wi>
+<wi type="G" value="4737,18,">coronado</wi>
+<wi type="G" value="1391,15,">con gloria</wi>
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="5092,17,">honor</wi>
+<wi type="G" value="1223,10,">por</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="3804,12,">el sufrimiento</wi></wi>
+<wi type="G" value="3588,13,"><wi type="G" value="2288,14,">de muerte</wi></wi>,
+<wi type="G" value="5100,4,">a aquel</wi>
+<wi type="G" value="2424,9,">Jesús</wi>
+<wi type="G" value="1642,7,">disminuido</wi>
+<wi type="G" value="1024,3,">un poco</wi>
+<wi type="G" value="3844,5,">más que</wi>
+<wi type="G" value="32,6,">los ángeles</wi>,
+</t>
+<rb xml:lang="es"><wi type="G" value="3704,19,">para que</wi><rf>
+<citebib id="WEB"/> dice en orden más literal respecto a <citebib id="TR"/>:
+`Pero vemos al que ha sido hecho un poco menor que los ángeles, Jesús,
+por causa del sufrimiento de muerte coronado con gloria y honor, para que
+por la gracia de Dios sufriera la muerte por todos.´
+Pero el orden propuesto en <citebib id="RVG2012"/> nos parece más entendible
+`Empero vemos coronado de gloria y de honra, por el padecimiento de muerte, 
+a aquel Jesús que es hecho un poco menor que los ángeles, para que por 
+gracia de Dios gustara la muerte por todos.´
+ </rf></rb>
+<t xml:lang="es">
+<wi type="G" value="5485,20,">por gracia</wi>
+<wi type="G" value="2316,21,">de Dios</wi>
+<wi type="G" value="1089,24,">probara</wi>
+<wi type="G" value="2288,25,">la muerte</wi>
+<wi type="G" value="5228,22,">por</wi>
+<wi type="G" value="3956,23,">todos</wi>.
+</t>
 </sv>
+
 <sv id="Hebreos-2-10">
 For it became him,
 for whom are all things, and through whom are all things, in bringing many
