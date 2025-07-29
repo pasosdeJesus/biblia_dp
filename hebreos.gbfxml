@@ -584,8 +584,8 @@ grace of God he should taste of death for everyone.
 por causa del sufrimiento de muerte coronado con gloria y honor, para que
 por la gracia de Dios sufriera la muerte por todos.´
 Pero el orden propuesto en <citebib id="RVG2012"/> nos parece más entendible
-`Empero vemos coronado de gloria y de honra, por el padecimiento de muerte, 
-a aquel Jesús que es hecho un poco menor que los ángeles, para que por 
+`Empero vemos coronado de gloria y de honra, por el padecimiento de muerte,
+a aquel Jesús que es hecho un poco menor que los ángeles, para que por
 gracia de Dios gustara la muerte por todos.´
  </rf></rb>
 <t xml:lang="es">
@@ -603,7 +603,36 @@ For it became him,
 for whom are all things, and through whom are all things, in bringing many
 children to glory, to make the author of their salvation perfect through
 sufferings.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="4241,1,">era apropiado que</wi>
+<wi type="G" value="846,3,">aquel</wi>,
+<wi type="G" value="1223,4,">por</wi>
+<wi type="G" value="3739,5,">quien</wi> fueron
+<wi type="G" value="3588,6,"/><wi type="G" value="3956,7,">todas las cosas</wi>,
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="1223,9,">por</wi>
+<wi type="G" value="3739,10,">quien</wi> son
+<wi type="G" value="3588,11,"/><wi type="G" value="3956,12,">todas las cosas</wi>,
+<wi type="G" value="71,17,">llevara</wi>
+<wi type="G" value="4183,13,">muchos</wi>
+<wi type="G" value="5207,14,">hijos</wi>
+<wi type="G" value="1519,15,">a</wi>
+<wi type="G" value="1391,16,">la gloria</wi>,
+<wi type="G" value="5048,25,">perfeccionando al</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="3588,18,"><wi type="G" value="747,19,">autor</wi></wi><rf>
+<citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `autor,´
+<citebib id="KJV2003"/> dice `capitán.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `αρχηγον´
+se traduce como príncipe, capitán y autor.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="846,22,">de su</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="4991,21,">salvación</wi></wi>
+<wi type="G" value="1223,23,">mediante</wi>
+<wi type="G" value="3804,24,">sufrimientos</wi>.</t>
 </sv>
+
 <sv id="Hebreos-2-11">
 For both he who sanctifies and those who are sanctified are
 all from one, for which cause he is not ashamed to call them
