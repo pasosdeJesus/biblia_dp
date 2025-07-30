@@ -636,25 +636,54 @@ se traduce como príncipe, capitán y autor.
 <sv id="Hebreos-2-11">
 For both he who sanctifies and those who are sanctified are
 all from one, for which cause he is not ashamed to call them
+<t xml:lang="es"><wi type="G" value="1063,3,">Pues</wi>
+<wi type="G" value="3588,1,"/><wi type="G" value="5037,2,">tanto</wi>
+<wi type="G" value="37,4,">el que santifica</wi>
+<wi type="G" value="2532,5,">como</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="37,7,">los santificados</wi>
+son <wi type="G" value="3956,10,">todos</wi>
+<wi type="G" value="1537,8,">de</wi>
+<wi type="G" value="1520,9,">uno</wi>,
+<wi type="G" value="1223,11,">por</wi>
+<wi type="G" value="3739,12,">cuya</wi>
+<wi type="G" value="156,13,">causa</wi>
+<wi type="G" value="1870,15,">Él</wi>
+<wi type="G" value="3756,14,">no</wi>
+<wi type="GC" value="15">se avergüenza</wi>
+<wi type="G" value="2564,18,"><wi type="G" value="846,17,">de llamarlos</wi></wi>
+</t>
 
-<rb>brothers
-<t xml:lang="es"/><rf>The word for «brothers» here and where context allows may
-also be correctly translated «brothers and sisters» or «siblings.»<t xml:lang="es"/></rf>
+<rb>brothers<t xml:lang="es"><wi type="G" value="80,16,">hermanos</wi></t><rf>The word for «brothers»
+here and where context allows may also be correctly translated «brothers and
+sisters» or «siblings.»
+<t xml:lang="es">La palabra para «hermanos», aquí y donde el contexto
+lo permita también se puede traducir correctamente como
+«hermanos y hermanas.»</t></rf>
 </rb>
 ,
 
 </sv>
 <sv id="Hebreos-2-12">
 saying,
+<t xml:lang="es"><wi type="G" value="3004,1,">al decir</wi></t>
 
 <cl/><fp>
 «I will declare your name to my brothers.
+<t xml:lang="es">«<wi type="G" value="518,2,">Declararé</wi>
+<wi type="G" value="4675,5,">tu</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="3686,4,">nombre</wi></wi>
+<wi type="GC" value="2">a</wi>
+<wi type="G" value="3450,8,">mis</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="80,7,">hermanos</wi></wi>.</t>
 <cl/>
 In the midst of the congregation I will sing your praise.»
+<t xml:lang="es"><wi type="G" value="1722,9,">En</wi>
+<wi type="G" value="3319,10,">medio</wi>
+<wi type="G" value="1577,11,">de la iglesia</wi>
+<wi type="G" value="4571,13,">te</wi>
+<wi type="G" value="5214,12,">cantaré una alabanza</wi>.»</t>
 </fp>
-
 <cl/>
-
 </sv>
 <sv id="Hebreos-2-13">
 Again, «I will put my trust in him.» Again, «Behold, here am I and the
