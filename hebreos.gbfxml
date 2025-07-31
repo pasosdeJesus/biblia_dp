@@ -685,15 +685,56 @@ In the midst of the congregation I will sing your praise.»
 </fp>
 <cl/>
 </sv>
+
 <sv id="Hebreos-2-13">
 Again, «I will put my trust in him.» Again, «Behold, here am I and the
 children whom God has given me.»
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3825,2,">de nuevo</wi>,
+«<wi type="G" value="1473,3,"><wi type="G" value="2071,4,">Estaré</wi></wi>
+<wi type="G" value="3982,5,">confiado</wi>
+<wi type="G" value="1909,6,">en</wi>
+<wi type="G" value="846,7,">Él</wi>.»
+<wi type="G" value="2532,8,">Y</wi>
+<wi type="G" value="3825,9,">de nuevo</wi>,
+«<wi type="G" value="2400,10,">Observa</wi>,
+<wi type="G" value="1473,11,">Yo</wi>
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="3813,14,">los hijos</wi></wi>
+<wi type="G" value="3739,15,">que</wi>
+<wi type="G" value="3427,16,">me</wi>
+<wi type="G" value="1325,17,">ha dado</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="2316,19,">Dios</wi></wi>.»</t>
 </sv>
+
 <sv id="Hebreos-2-14">
 Since then the children have shared in
 flesh and blood, he also himself in like manner partook of the same, that
 through death he might bring to nothing him who had the power of death, that
 is, the devil,
+<t xml:lang="es"><wi type="G" value="1893,1,">Entonces</wi>
+<wi type="G" value="3767,2,">como</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="3813,4,">los hijos</wi></wi>
+<wi type="G" value="2841,5,">participaron de</wi>
+<wi type="G" value="4561,6,">carne</wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="129,8,">sangre</wi>,
+<wi type="G" value="3898,11,">así</wi>
+<wi type="G" value="2532,9,">también</wi>
+<wi type="G" value="846,10,">Él</wi>
+<wi type="G" value="3348,12,">tomó parte</wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="846,14,">de lo mismo</wi>,
+<wi type="G" value="2443,15,">para</wi>
+<wi type="G" value="2673,19,">destruir</wi>
+<wi type="G" value="1223,16,">por</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="2288,18,">la muerte</wi></wi>
+<wi type="G" value="2192,23,">al que tenía</wi>
+<wi type="G" value="3588,20,"/><wi type="G" value="3588,21,"><wi type="G" value="2904,22,">la fuerza</wi></wi>
+<wi type="G" value="3588,24,"><wi type="G" value="2288,25,">de la muerte</wi></wi>,
+<wi type="G" value="5124,26,">que</wi>
+<wi type="G" value="2076,27,">era</wi>,
+<wi type="G" value="3588,28,"/><wi type="G" value="1228,29,">el diablo</wi>,
+</t>
 </sv>
 <sv id="Hebreos-2-15">
 and might deliver all of them who through fear of death
