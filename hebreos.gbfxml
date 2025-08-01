@@ -739,12 +739,45 @@ is, the devil,
 <sv id="Hebreos-2-15">
 and might deliver all of them who through fear of death
 were all their lifetime subject to bondage.
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="525,2,">libró</wi> a
+<wi type="G" value="5128,3,">aquellos</wi>
+<wi type="G" value="3745,4,">que</wi>
+<wi type="G" value="1223,7,">por</wi>
+<wi type="G" value="5401,5,">miedo a</wi>
+<wi type="G" value="2288,6,">la muerte</wi>
+<wi type="G" value="2258,12,">estuvieron</wi>
+<wi type="G" value="3956,8,">toda</wi>
+<wi type="G" value="3588,9,">su</wi>
+<wi type="G" value="2198,10,">vida</wi>
+<wi type="G" value="1777,11,">sujetos a</wi>
+<wi type="G" value="1397,13,">esclavitud</wi>.
+</t>
 </sv>
 <sv id="Hebreos-2-16">
 For most assuredly, not to
 angels does he give help, but he gives help to the seed of Abraham.
-
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1222,3,">ciertamente</wi>,
+</t>
+<rb xml:lang="es">
+<wi type="G" value="3756,1,">no</wi>
+<wi type="G" value="1949,5,">ayuda</wi> a
+<wi type="G" value="32,4,">los ángeles</wi><rf>
+<citebib id="WEB"/> dice `no ayuda a los ángeles,´
+<citebib id="KJV2003"/> dice `no tomo en Él la naturaleza de los ángeles,´
+<citebib id="RVG20"/>.
+Según <citebib id="Thayer-BLB"/> el verbo griego `επιλαμβανεται´
+se traduce como tomar, coger con las manos o metafóricamente rescatar,
+ayudar, socorrer.
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="235,6,">sino que</wi>
+<wi type="G" value="1949,9,">ayuda a</wi>
+<wi type="G" value="4690,7,">la semilla</wi>
+<wi type="G" value="11,8,">de Abraham</wi>.</t>
 </sv>
+
 <sv id="Hebreos-2-17">
 Therefore he was obligated in all things to be made like his brothers,
 that he might become a merciful and faithful high priest in things pertaining
