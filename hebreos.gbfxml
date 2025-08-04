@@ -805,17 +805,40 @@ to God, to make atonement for the sins of the people.
 For in that he
 himself has suffered being tempted, he is able to help those who are
 tempted.
-
+<t xml:lang="es"><wi type="G" value="1063,3,">Pues</wi>
+<wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="3739,2,">eso</wi>,
+<wi type="G" value="846,5,">Él mismo</wi>
+<wi type="G" value="3958,4,">padeció</wi>
+<wi type="G" value="3985,6,">el ser tentado</wi>,
+<wi type="G" value="1410,7,">puede</wi>
+<wi type="G" value="997,10,">ayudar a</wi>
+<wi type="G" value="3588,8,,">los que</wi>
+<wi type="G" value="3985,9,">son tentados</wi>.</t>
 <cl/>
-
-
 </sv></cm></sc>
+
 <sc id="Hebreos-3">
 <cm>
 <sv id="Hebreos-3-1">
 Therefore, holy brothers, partakers of a heavenly calling, consider
 the Apostle and High Priest of our confession, Jesus;
+<t xml:lang="es"><wi type="G" value="3606,1,">Por tanto</wi>,
+<wi type="G" value="40,3,">santos</wi>
+<wi type="G" value="80,2,">hermanos</wi>,
+<wi type="G" value="3353,6,">participes de</wi>
+<wi type="G" value="2821,4,">un llamado</wi>
+<wi type="G" value="2032,5,">celestial</wi>,
+<wi type="G" value="2657,7,">consideren</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="652,9,">al Apóstol</wi></wi>
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="749,11,">Sumo Sacerdote</wi>
+<wi type="G" value="2257,14,">de nuestra</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="3671,13,">confesión</wi></wi>,
+<wi type="G" value="5547,15,">Cristo</wi>
+<wi type="G" value="2424,16,">Jesús</wi>;</t>
 </sv>
+
 <sv id="Hebreos-3-2">
 who was faithful
 to him who appointed him, as also was Moses in all his house.
