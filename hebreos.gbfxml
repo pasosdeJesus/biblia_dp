@@ -842,11 +842,41 @@ the Apostle and High Priest of our confession, Jesus;
 <sv id="Hebreos-3-2">
 who was faithful
 to him who appointed him, as also was Moses in all his house.
+<t xml:lang="es"><wi type="G" value="5607,2,">Quien</wi> fue
+<wi type="G" value="4103,1,">fiel</wi>
+<wi type="G" value="3588,3,">al que</wi>
+<wi type="G" value="846,5,">lo</wi>
+<wi type="G" value="4160,4,">encomendó</wi>,
+<wi type="G" value="5613,6,">como</wi>
+<wi type="G" value="2532,7,">también</wi> lo fue
+<wi type="G" value="3475,8,">Moisés</wi>
+<wi type="G" value="1722,9,">sobre</wi>
+<wi type="G" value="3650,10,">toda</wi>
+<wi type="G" value="846,13,">su</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="3624,12,">casa</wi></wi>.
+</t>
 </sv>
+
 <sv id="Hebreos-3-3">
 For he has
 been counted worthy of more glory than Moses, inasmuch as he who built the
 house has more honor than the house.
+<t xml:lang="es"><wi type="G" value="1063,2,">pues</wi>
+<wi type="G" value="3778,4,">este</wi>
+<wi type="G" value="515,7,">fue contado digno</wi>
+<wi type="G" value="4119,1,">de más</wi>
+<wi type="G" value="1391,3,">gloria</wi>
+<wi type="G" value="3844,5,">que</wi>
+<wi type="G" value="3475,6,">Moisés</wi>,
+<wi type="G" value="2596,8,"><wi type="G" value="3745,9,">en cuanto</wi></wi>
+<wi type="G" value="3588,15,">el que</wi>
+<wi type="G" value="2680,16,">construye</wi>
+<wi type="G" value="846,17,">la casa</wi>
+<wi type="G" value="2192,12,">tiene</wi>
+<wi type="G" value="4119,10,">más</wi>
+<wi type="G" value="5092,11,">honor</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="3624,14,">que la casa</wi></wi>.
+</t>
 </sv>
 <sv id="Hebreos-3-4">
 For every house is built by
