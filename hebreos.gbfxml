@@ -881,16 +881,62 @@ house has more honor than the house.
 <sv id="Hebreos-3-4">
 For every house is built by
 someone; but he who built all things is God.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3956,1,">toda</wi>
+<wi type="G" value="3624,3,">casa</wi>
+<wi type="G" value="2680,4,">es construida</wi>
+<wi type="G" value="5259,5,">por</wi>
+<wi type="G" value="5100,6,">alguien</wi>;
+<wi type="G" value="3588,7,"/><wi type="G" value="1161,8,">pero</wi>
+<wi type="G" value="3588,9,">el que</wi>
+<wi type="G" value="2680,11,">construyó</wi>
+<wi type="G" value="3956,10,">todas las cosas</wi> es
+<wi type="G" value="2316,12,">Dios</wi>.</t>
 </sv>
 <sv id="Hebreos-3-5">
 Moses indeed was faithful
 in all his house as a servant, for a testimony of those things which were
 afterward to be spoken,
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3475,2,">Moisés</wi>
+<wi type="G" value="3303,3,">de hecho</wi> fue
+<wi type="G" value="4103,4,">fiel</wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="3650,6,">toda</wi>
+<wi type="G" value="846,9,">su</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="3624,8,">casa</wi></wi>
+<wi type="G" value="5613,10,">como</wi>
+<wi type="G" value="2324,11,">servidor</wi>,
+<wi type="G" value="1519,12,">por</wi>
+<wi type="G" value="3142,13,">testimonio</wi>
+<wi type="G" value="3588,14,">de aquello</wi>
+que <wi type="G" value="2980,15,">después se diría</wi>,</t>
 </sv>
 <sv id="Hebreos-3-6">
 but Christ is faithful as a Son over his house;
 whose house we are, if we hold fast our confidence and the glorying of our
 hope firm to the end.
+<t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
+<wi type="G" value="5547,1,">Cristo</wi>
+<wi type="G" value="5613,3,">como</wi>
+<wi type="G" value="5207,4,">un Hijo</wi>
+<wi type="G" value="1909,5,">sobre</wi>
+<wi type="G" value="846,8,">su</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="3624,7,">casa</wi></wi>;
+<wi type="G" value="3739,9,">tal</wi>
+<wi type="G" value="3624,10,">casa</wi>
+<wi type="G" value="2070,11,">somos nosotros</wi>,
+<wi type="G" value="1437,13,">si</wi>
+<wi type="G" value="2249,12,">nos</wi>
+<wi type="G" value="2722,24,">mantenemos</wi>
+<wi type="G" value="949,23,">firmes en</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="3954,15,">la confianza</wi></wi>
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="2745,18,">el gozo</wi></wi>
+<wi type="G" value="3588,19,"><wi type="G" value="1680,20,">de la esperanza</wi></wi>
+<wi type="G" value="3360,21,">hasta</wi>
+<wi type="G" value="5056,22,">el final</wi>.
+</t>
 </sv>
 <sv id="Hebreos-3-7">
 Therefore, even as the Holy Spirit says,
