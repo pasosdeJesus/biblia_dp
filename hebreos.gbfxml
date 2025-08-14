@@ -978,8 +978,23 @@ Like as in the day of the trial in the wilderness,
 </sv>
 <sv id="Hebreos-3-9">
 Where your fathers tested me by proving me,
+<t xml:lang="es"><wi type="G" value="3757,1,">Donde</wi>
+<wi type="G" value="5216,6,">sus</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="3962,5,">padres</wi></wi>
+<wi type="G" value="3165,3,">me</wi>
+<wi type="G" value="3985,2,">tentaron</wi>,
+<wi type="G" value="3165,8,">me</wi>
+<wi type="G" value="1381,7,">probaron</wi>
+</t>
 <cl/>
 And saw my works for forty years.
+<t xml:lang="es"><wi type="G" value="2532,9,">Y</wi>
+<wi type="G" value="1492,10,">vieron</wi>
+<wi type="G" value="3450,13,">mis</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2041,12,">obras</wi></wi>
+<wi type="G" value="5062,14,">cuarenta</wi>
+<wi type="G" value="2094,15,">años</wi>.
+</t>
 <cl/>
 
 </sv>
