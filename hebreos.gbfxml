@@ -1000,10 +1000,26 @@ And saw my works for forty years.
 </sv>
 <sv id="Hebreos-3-10">
 Therefore I was displeased with that generation,
+<t xml:lang="es"><wi type="G" value="1352,1,">Por eso</wi>
+<wi type="G" value="4360,2,">me disgusté con</wi>
+<wi type="G" value="1565,5,">esa</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="1074,4,">generación</wi></wi></t>
 <cl/>
 And said, `They always err in their heart,
+<t xml:lang="es"><wi type="G" value="2532,6,">Y</wi>
+<wi type="G" value="2036,7,">dije</wi>,
+`<wi type="G" value="104,8,">siempre</wi>
+<wi type="G" value="4105,9,">errarán en</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2588,11,">el corazón</wi></wi>,</t>
 <cl/>
 But they didn´t know my ways;´
+<t xml:lang="es"><wi type="G" value="1161,13,">Y</wi>
+<wi type="G" value="846,12,">ellos</wi>
+<wi type="G" value="3756,14,">no</wi>
+<wi type="G" value="1097,15,">han conocido</wi>
+<wi type="G" value="3450,18,">mis</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="3598,17,">caminos</wi></wi>;´
+</t>
 <cl/>
 
 </sv>
