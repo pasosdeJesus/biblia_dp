@@ -1025,16 +1025,42 @@ But they didn´t know my ways;´
 </sv>
 <sv id="Hebreos-3-11">
 As I swore in my wrath,
+<t xml:lang="es"><wi type="G" value="5613,1,">Como</wi>
+<wi type="G" value="3660,2,">juré</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="3450,6,">mi</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="3709,5,">ira</wi></wi>, </t>
 <cl/>
 `They will not enter into my rest.´»
-
-
+<t xml:lang="es">
+`<wi type="G" value="1487,7,">No</wi>
+<wi type="G" value="1525,8,">entrarán</wi>
+<wi type="G" value="1519,9,">en</wi>
+<wi type="G" value="3450,12,">mi</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2663,11,">descanso</wi></wi>.´»
+</t>
 <cl/>
-
 </sv>
+
 <sv id="Hebreos-3-12">
 Beware, brothers, lest perhaps there be in any one of you an evil heart
 of unbelief, in falling away from the living God;
+<t xml:lang="es"><wi type="G" value="991,1,">Observen</wi>,
+<wi type="G" value="80,2,">hermanos</wi>,
+<wi type="G" value="3379,3,">no sea que</wi>
+<wi type="G" value="2071,4,">haya</wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="5100,6,">alguno</wi>
+<wi type="G" value="5216,7,">de ustedes</wi>
+<wi type="G" value="4190,9,">un mal</wi>
+<wi type="G" value="2588,8,">corazón</wi>
+<wi type="G" value="570,10,">de incredulidad</wi>,
+<wi type="G" value="1722,11,">en</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="868,13,">alejamiento</wi>
+<wi type="G" value="575,14,">del</wi>
+<wi type="G" value="2316,15,">Dios</wi>
+<wi type="G" value="2198,16,">viviente</wi>;
+</t>
 </sv>
 <sv id="Hebreos-3-13">
 but exhort one
