@@ -1103,12 +1103,28 @@ Christ, if we hold fast the beginning of our confidence firm to the end:
 
 <sv id="Hebreos-3-15">
 while it is said,
+<t xml:lang="es"><wi type="G" value="1722,1,">Entretanto</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="3004,3,">se diga</wi>,</t>
 
 <cl/><fp>
 «Today if you
-<wi type="T" value="P"/> will hear his voice,
+will hear his voice,
+<t xml:lang="es">«<wi type="G" value="4594,4,">Hoy</wi>
+<wi type="G" value="1437,5,">si</wi>
+<wi type="G" value="191,9,">escuchas</wi>
+<wi type="G" value="846,8,">Su</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="5456,7,">voz</wi></wi>,
+</t>
 <cl/>
 Don´t harden your hearts, as in the rebellion.»
+<t xml:lang="es"><wi type="G" value="3361,10,">No</wi>
+<wi type="G" value="4645,11,">endurezcan</wi>
+<wi type="G" value="5216,14,">sus</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2588,13,">corazones</wi></wi>,
+<wi type="G" value="5613,15,">como</wi>
+<wi type="G" value="1722,16,">en</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="3894,18,">la rebelión</wi></wi>.»
+</t>
 </fp>
 
 <cl/>
@@ -1117,6 +1133,23 @@ Don´t harden your hearts, as in the rebellion.»
 <sv id="Hebreos-3-16">
 For who, when they heard, rebelled? No, didn´t all those who came out
 of Egypt by Moses?
+<rb xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="5100,1,">algunos</wi>,
+<wi type="G" value="191,3,">al escuchar</wi>,
+<wi type="G" value="3893,4,">se rebelaron</wi>.
+<wi type="G" value="235,5,">Pero</wi>
+<wi type="G" value="3756,6,">no</wi>
+<wi type="G" value="3956,7,">todos</wi>
+<wi type="G" value="3588,8,">los que</wi>
+<wi type="G" value="1831,9,">salieron</wi>
+<wi type="G" value="1537,10,">de</wi>
+<wi type="G" value="125,11,">Egipto</wi>
+<wi type="G" value="1223,12,">con</wi>
+<wi type="G" value="3475,13,">Moisés</wi><rf>
+<citebib id="WEB"/> dice `Pues quienes, cuando escucharon, se rebelaron?
+No fueron todos los que salieron de Egipto con Moisés?.´
+<citebib id="RVG2012"/> dice `Porque algunos de los que habían salido de Egipto
+con Moisés, habiendo oído, provocaron, aunque no todos.´</rf></rb>
 </sv>
 <sv id="Hebreos-3-17">
 With whom was he displeased forty years? Wasn´t it
