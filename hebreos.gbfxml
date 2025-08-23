@@ -1186,21 +1186,44 @@ disobedient?
 <wi type="G" value="3361,11,">no</wi>
 <wi type="G" value="544,13,">obedecieron</wi>?</t>
 </sv>
+
 <sv id="Hebreos-3-19">
 We see that they were not able to enter in because of
 unbelief.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="991,2,">vemos</wi>
+<wi type="G" value="3754,3,">que</wi>
+<wi type="G" value="3756,4,">no</wi>
+<wi type="G" value="1410,5,">pudieron</wi>
+<wi type="G" value="1525,6,">entrar</wi>
+<wi type="G" value="1223,7,">a causa de</wi>
+<wi type="G" value="570,8,">la incredulidad</wi>.</t>
 
 <cl/>
-
-
 </sv></cm></sc>
+
 <sc id="Hebreos-4">
 <cm>
 <sv id="Hebreos-4-1">
 Let us fear therefore, lest perhaps a promise being left of
 entering into his rest, anyone of you should seem to have come short of it.
-
+<t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
+<wi type="G" value="5399,1,">temamos</wi>,
+<wi type="G" value="3379,3,">no sea que</wi>
+<wi type="G" value="1860,5,">de la promesa</wi> que
+<wi type="G" value="2641,4,">nos queda</wi>
+<wi type="G" value="1525,6,">de entrar</wi>
+<wi type="G" value="1519,7,">en</wi>
+<wi type="G" value="846,10,">Su</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2663,9,">descanso</wi></wi>,
+<wi type="G" value="5100,12,">alguno</wi>
+<wi type="G" value="1537,13,">de</wi>
+<wi type="G" value="5216,14,">ustedes</wi>
+<wi type="G" value="1380,11,">parezca</wi>
+<wi type="G" value="5302,15,">haber quedado corto</wi>.
+</t>
 </sv>
+
 <sv id="Hebreos-4-2">
 For indeed we have had good news preached to us, even as they also did,
 but the word they heard didn´t profit them, because it wasn´t mixed with
