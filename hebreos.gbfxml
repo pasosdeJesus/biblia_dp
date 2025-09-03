@@ -1289,6 +1289,29 @@ usada antes en 3:11 y en la cita original el Salmo
 <sv id="Hebreos-4-4">
 For he has said this somewhere about the seventh day, «God rested on the
 seventh day from all his works;»
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> 
+<wi type="G" value="2046,1,">Él ha dicho</wi> 
+</t>
+<rb xml:lang="es"><wi type="G" value="4225,3,"/><wi type="G"
+value="4012,4,">respecto</wi> <rf>
+<citebib id="WEB"/> dice en alguna parte,
+<citebib id="KJV2003"/> dice en cierto lugar.
+Sin embargo la palabra griega `που´ suele
+traducirse como `donde.</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3588,5,"/><wi type="G" value="1442,6,">al séptimo</wi> día
+<wi type="G" value="3779,7,">así</wi>, 
+«i<wi type="G" value="2532,8,">Y</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2316,11,">Dios</wi></wi> 
+<wi type="G" value="2664,9,">descansó</wi> 
+<wi type="G" value="1722,12,">en</wi> 
+<wi type="G" value="3588,15,"/><wi type="G" value="1442,16,">el séptimo</wi> 
+<wi type="G" value="3588,13,"><wi type="G" value="2250,14,">día</wi></wi> 
+<wi type="G" value="575,17,">de</wi> 
+<wi type="G" value="3956,18,">todas</wi> 
+<wi type="G" value="846,21,">sus</wi> 
+<wi type="G" value="3588,19,"><wi type="G" value="2041,20,">obras</wi></wi>;»
+</t>
 </sv>
 <sv id="Hebreos-4-5">
 and in this place again, «They will not
