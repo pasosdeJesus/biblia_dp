@@ -1289,8 +1289,8 @@ usada antes en 3:11 y en la cita original el Salmo
 <sv id="Hebreos-4-4">
 For he has said this somewhere about the seventh day, «God rested on the
 seventh day from all his works;»
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> 
-<wi type="G" value="2046,1,">Él ha dicho</wi> 
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2046,1,">Él ha dicho</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="4225,3,"/><wi type="G"
 value="4012,4,">respecto</wi> <rf>
@@ -1300,23 +1300,32 @@ Sin embargo la palabra griega `που´ suele
 traducirse como `donde.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3588,5,"/><wi type="G" value="1442,6,">al séptimo</wi> día
-<wi type="G" value="3779,7,">así</wi>, 
+<wi type="G" value="3779,7,">así</wi>,
 «i<wi type="G" value="2532,8,">Y</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="2316,11,">Dios</wi></wi> 
-<wi type="G" value="2664,9,">descansó</wi> 
-<wi type="G" value="1722,12,">en</wi> 
-<wi type="G" value="3588,15,"/><wi type="G" value="1442,16,">el séptimo</wi> 
-<wi type="G" value="3588,13,"><wi type="G" value="2250,14,">día</wi></wi> 
-<wi type="G" value="575,17,">de</wi> 
-<wi type="G" value="3956,18,">todas</wi> 
-<wi type="G" value="846,21,">sus</wi> 
+<wi type="G" value="3588,10,"><wi type="G" value="2316,11,">Dios</wi></wi>
+<wi type="G" value="2664,9,">descansó</wi>
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="1442,16,">el séptimo</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="2250,14,">día</wi></wi>
+<wi type="G" value="575,17,">de</wi>
+<wi type="G" value="3956,18,">todas</wi>
+<wi type="G" value="846,21,">sus</wi>
 <wi type="G" value="3588,19,"><wi type="G" value="2041,20,">obras</wi></wi>;»
 </t>
 </sv>
 <sv id="Hebreos-4-5">
 and in this place again, «They will not
 enter into my rest.»
-
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="1722,2,">en</wi>
+<wi type="G" value="5129,3,">este</wi>
+<wi type="G" value="3825,4,">nuevamente</wi>,
+«<wi type="G" value="1487,5,">No</wi>
+<wi type="G" value="1525,6,">entrarán</wi>
+<wi type="G" value="1519,7,">en</wi>
+<wi type="G" value="3450,10,">mi</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2663,9,">descanso</wi></wi>.»
+</t>
 </sv></cm><cm>
 
 <sv id="Hebreos-4-6">
@@ -1325,7 +1334,7 @@ whom the good news was before preached failed to enter in because of
 disobedience,
 </sv>
 <sv id="Hebreos-4-7">
-he again defines a certain day, today, saying through
+he again defines a certain day, today, saying throughs
 David so long a time afterward (just as has been said),
 
 <cl/><fp>
