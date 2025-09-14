@@ -1403,10 +1403,18 @@ another day.
 <wi type="G" value="5023,12,"/><wi type="G" value="2250,13,">día</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-4-9">
 There remains therefore a Sabbath rest for the people of
 God.
+<t xml:lang="es"><wi type="G" value="620,2,">Queda</wi>
+<wi type="G" value="686,1,">entonces</wi>
+<wi type="G" value="4520,3,">un sabático de descanso</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2992,5,">para el pueblo</wi></wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2316,7,">de Dios</wi></wi>.
+</t>
 </sv>
+
 <sv id="Hebreos-4-10">
 For he who has entered into his rest has himself also rested from
 his works, as God did from his.
