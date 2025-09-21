@@ -1483,7 +1483,7 @@ intentions of the heart.
 <wi type="G" value="719,23,">las articulaciones</wi>
 <wi type="G" value="2532,25,">como</wi>
 <wi type="G" value="3452,26,">la médula</wi>
-<wi type="G" value="2532,27,">y</wi> 
+<wi type="G" value="2532,27,">y</wi>
 <wi type="G" value="2924,28,">discierne</wi>
 <wi type="G" value="1761,29,">los pensamientos</wi>
 <wi type="G" value="2532,30,">y</wi>
@@ -1495,7 +1495,25 @@ intentions of the heart.
 <sv id="Hebreos-4-13">
 There is no creature that is hidden from his sight, but all things are
 naked and laid open before the eyes of him with whom we have to do.
-
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3756,2,">no</wi>
+<wi type="G" value="2076,3,">hay</wi>
+<wi type="G" value="2937,4,">criatura</wi>
+<wi type="G" value="852,5,">escondida</wi>
+<wi type="G" value="1799,">de</wi>
+<wi type="G" value="846,7,">Su</wi>
+<wi type="G" value="1799,6,">vista</wi>,
+<wi type="G" value="1161,9,">más</wi>
+<wi type="G" value="3956,8,">todas las cosas</wi> están
+<wi type="G" value="1131,10,">desnudas</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="5136,12,">abiertas</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="3788,14,">a los ojos</wi></wi>
+<wi type="G" value="846,15,">de aquel</wi>
+<wi type="G" value="4314,16,">a</wi>
+<wi type="G" value="3739,17,">quien</wi>
+<wi type="G" value="3588,19,"/><wi type="G" value="2254,18,"><wi type="G" value="3056,20,">respondemos</wi></wi>.
+</t>
 </sv>
 <sv id="Hebreos-4-14">
 Having then a great high priest, who has passed through the heavens,
