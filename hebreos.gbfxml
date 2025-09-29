@@ -1640,6 +1640,7 @@ well as for himself.
 <wi type="G" value="4012,11,">por los de</wi>
 <wi type="G" value="1438,12,">él</wi>.</t>
 </sv>
+
 <sv id="Hebreos-5-4">
 Nobody takes this honor on himself, but he is
 called by God, just like Aaron was.
@@ -1656,19 +1657,41 @@ called by God, just like Aaron was.
 <wi type="G" value="2532,15,"/><wi type="G" value="3588,16,"/><wi type="G" value="2,17,">Aarón</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-5-5">
 So also Christ didn´t glorify
 himself to be made a high priest, but it was he who said to him,
-
+<t xml:lang="es"><wi type="G" value="3779,1,">Así</wi>
+<wi type="G" value="2532,2,">también</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="5547,4,">Cristo</wi></wi>
+<wi type="G" value="3756,5,">no</wi>
+<wi type="G" value="1392,7,">se glorifico a</wi>
+<wi type="G" value="1438,6,">si mismo</wi>
+<wi type="G" value="1096,8,">para hacerse</wi>
+<wi type="G" value="749,9,">sumo sacerdote</wi>,
+<wi type="G" value="235,10,">sino</wi> fue
+<wi type="G" value="3588,11,">el que</wi>
+<wi type="G" value="4314,13,"/><wi type="G" value="846,14,">le</wi>
+<wi type="G" value="2980,12,">dijo</wi>,
+</t>
 <cl/><fp>
 «You are my Son.
+<t xml:lang="es">«<wi type="G" value="4771,18,">Tu</wi>
+<wi type="G" value="1488,17,">eres</wi>
+<wi type="G" value="3450,16,">mi</wi>
+<wi type="G" value="5207,15,">Hijo</wi>.
+</t>
 <cl/>
 Today I have become your father.»
+<t xml:lang="es"><wi type="G" value="4594,20,">Hoy</wi>
+<wi type="G" value="1473,19,">Yo</wi>
+<wi type="G" value="4571,22,">te</wi>
+<wi type="G" value="1080,21,">he engendrado</wi>.»
+</t>
 </fp>
+</sv></cm>
 
-
-</sv></cm><cm>
-
+<cm>
 <sv id="Hebreos-5-6">
 As he says also in another place,
 
