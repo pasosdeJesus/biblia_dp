@@ -1741,17 +1741,44 @@ having been heard for his godly fear,
 <wi type="G" value="2288,18,">la muerte</wi>,
 <wi type="G" value="2532,25,">y</wi>
 <wi type="G" value="1522,26,">habiendo sido escuchado</wi>
-<wi type="G" value="575,27,">en</wi> su
-<wi type="G" value="3588,28,"><wi type="G" value="2124,29,">temor reverencial</wi></wi>,
+<wi type="G" value="575,27,">en</wi> su </t>
+<rb xml:lang="es"><wi type="G" value="3588,28,"><wi type="G" value="2124,29,">temor reverencial</wi></wi><rf>
+<citebib id="WEB"/> dice `temor de Dios,´
+<citebib id="KJV2003"/> dice `lo que temía,´
+<citebib id="RVG2012"/> dice `reverencial temor.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `ευλαβειας´ se
+traduce como temor de Dios o temor.
+</rf></rb>
+<t xml:lang="es">,
 </t>
 </sv>
 <sv id="Hebreos-5-8">
 though he was a Son, yet learned
 obedience by the things which he suffered.
+<t xml:lang="es"><wi type="G" value="2539,1,">aunque</wi>
+<wi type="G" value="5607,2,">era</wi>
+<wi type="G" value="5207,3,">Hijo</wi>,
+<wi type="G" value="3129,4,">aprendió</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="5218,9,">obediencia</wi></wi>
+<wi type="G" value="575,5,">por</wi>
+<wi type="G" value="3739,6,">las cosas</wi>
+<wi type="G" value="3958,7,">que sufrió</wi>.</t>
 </sv>
+
 <sv id="Hebreos-5-9">
 Having been made perfect, he
 became to all of those who obey him the author of eternal salvation,
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="5048,2,">habiendo sido perfeccionado</wi>,
+<wi type="G" value="1096,3,">vino a ser</wi>
+<wi type="G" value="3956,7,">para todos</wi> 
+<wi type="G" value="3588,4,">los que</wi>
+<wi type="G" value="846,6,">le</wi>
+<wi type="G" value="5219,5,">obedecen</wi>
+<wi type="G" value="159,8,">el autor</wi>
+<wi type="G" value="4991,9,">de la salvación</wi>
+<wi type="G" value="166,10,">eterna</wi>,
+</t>
 
 </sv>
 <sv id="Hebreos-5-10">
