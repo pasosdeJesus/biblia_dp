@@ -1802,8 +1802,15 @@ become dull of hearing.
 <wi type="G" value="4183,3,">muchas</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="3056,6,">cosas</wi></wi>
 <wi type="G" value="3004,9,">por decir</wi>,
-<wi type="G" value="2532,7,">más</wi>
-<wi type="G" value="1421,8,">difíciles de declarar</wi>,
+<wi type="G" value="2532,7,">más</wi> </t>
+<rb xml:lang="es"><wi type="G" value="1421,8,">difíciles de declarar</wi><rf>
+<citebib id="WEB"/> dice `difíciles de interpretar,´
+<citebib id="RGV2012"/> dice `dificultoso de declarar,´
+<citebib id="KJV2003"/> dice `difíciles de pronunciar.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `λέγω´
+se traduce como decir, hablar,llamar, contar.
+</rf></rb>
+<t xml:lang="es">,
 <wi type="G" value="1893,10,">viendo</wi> que
 <wi type="G" value="1096,12,">se han vuelto</wi>
 <wi type="G" value="3576,11,">sordos</wi>
