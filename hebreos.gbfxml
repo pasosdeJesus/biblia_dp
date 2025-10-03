@@ -1771,7 +1771,7 @@ became to all of those who obey him the author of eternal salvation,
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="5048,2,">habiendo sido perfeccionado</wi>,
 <wi type="G" value="1096,3,">vino a ser</wi>
-<wi type="G" value="3956,7,">para todos</wi> 
+<wi type="G" value="3956,7,">para todos</wi>
 <wi type="G" value="3588,4,">los que</wi>
 <wi type="G" value="846,6,">le</wi>
 <wi type="G" value="5219,5,">obedecen</wi>
@@ -1783,12 +1783,32 @@ became to all of those who obey him the author of eternal salvation,
 </sv>
 <sv id="Hebreos-5-10">
 named by God a high priest after the order of Melchizedek.
+<t xml:lang="es"><wi type="G" value="4316,1,">nombrado</wi>
+<wi type="G" value="5259,2,">por</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2316,4,">Dios</wi></wi> como
+<wi type="G" value="749,5,">sumo sacerdote</wi>
+<wi type="G" value="2596,6,">en</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="5010,8,">el orden</wi></wi>
+<wi type="G" value="3198,9,">de Melquisedec</wi>.</t>
 </sv>
 <sv id="Hebreos-5-11">
 About
 him we have many words to say, and hard to interpret, seeing you
 <wi type="T" value="P"/> have
 become dull of hearing.
+<t xml:lang="es"><wi type="G" value="4012,1,">Sobre</wi>
+<wi type="G" value="3739,2,">quien</wi>
+<wi type="G" value="2254,4,">tenemos</wi>
+<wi type="G" value="4183,3,">muchas</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="3056,6,">cosas</wi></wi>
+<wi type="G" value="3004,9,">por decir</wi>,
+<wi type="G" value="2532,7,">más</wi>
+<wi type="G" value="1421,8,">difíciles de declarar</wi>,
+<wi type="G" value="1893,10,">viendo</wi> que
+<wi type="G" value="1096,12,">se han vuelto</wi>
+<wi type="G" value="3576,11,">sordos</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="189,14,">de oídos</wi></wi>. </t>
+
 </sv>
 <sv id="Hebreos-5-12">
 For when by reason of the time you
