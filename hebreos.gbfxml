@@ -1818,14 +1818,39 @@ se traduce como decir, hablar,llamar, contar.
 
 </sv>
 <sv id="Hebreos-5-12">
-For when by reason of the time you
-<wi type="T" value="P"/> ought
-to be teachers, you
-<wi type="T" value="P"/> again need to have someone teach you the rudiments
+For when by reason of the time you ought
+to be teachers, you again need to have someone teach you the rudiments
 of the first principles of the oracles of God. You
-<wi type="T" value="P"/> have come to need
-milk, and not solid food.
+have come to need milk, and not solid food.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2532,1,">cuando</wi>
+<wi type="G" value="1223,6,">a causa</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="5550,8,">del tiempo</wi></wi>
+<wi type="G" value="3784,3,">ustedes debieran</wi>
+<wi type="G" value="1511,4,">ser</wi>
+<wi type="G" value="1320,5,">maestros</wi>,
+<wi type="G" value="2192,11,">tienen</wi>
+<wi type="G" value="5532,10,">necesidad</wi>
+<wi type="G" value="5101,15,">de alguien</wi>
+<wi type="G" value="3588,12,">que</wi>
+<wi type="G" value="5209,14,">les</wi>
+<wi type="G" value="1321,13,">enseñe</wi>
+<wi type="G" value="3825,9,">de nuevo</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="746,19,">los primeros</wi></wi>
+<wi type="G" value="3588,16,"><wi type="G" value="4747,17,">principios</wi></wi>
+<wi type="G" value="3588,20,"><wi type="G" value="3051,21,">de la palabra</wi></wi>
+<wi type="G" value="3588,22,"><wi type="G" value="2316,23,">de Dios</wi></wi>;
+<wi type="G" value="2532,24,">y</wi>
+<wi type="G" value="1096,25,">han venido</wi>
+<wi type="G" value="2192,27,">a tener</wi>
+<wi type="G" value="5532,26,">necesidad</wi>
+<wi type="G" value="1051,28,">de leche</wi>
+<wi type="G" value="2532,29,">y</wi>
+<wi type="G" value="3756,30,">no</wi>
+<wi type="G" value="5160,32,">de comida</wi>
+<wi type="G" value="4731,31,">sólida</wi>.</t>
 </sv>
+
 <sv id="Hebreos-5-13">
 For everyone who lives on milk is not
 experienced in the word of righteousness, for he is a baby.
