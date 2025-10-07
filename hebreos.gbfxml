@@ -1854,15 +1854,15 @@ have come to need milk, and not solid food.
 <sv id="Hebreos-5-13">
 For everyone who lives on milk is not
 experienced in the word of righteousness, for he is a baby.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> 
-<wi type="G" value="3956,1,">todo</wi> aquel 
-<wi type="G" value="3588,3,"/><wi type="G" value="3348,4,">que usa</wi> 
-<wi type="G" value="1051,5,">leche</wi> 
-es <wi type="G" value="552,6,">inexperto</wi> 
-<wi type="G" value="3056,7,">en la palabra</wi> 
-<wi type="G" value="1343,8,">de rectitud</wi>, 
-<wi type="G" value="1063,10,">pues</wi> 
-<wi type="G" value="2076,11,">es</wi> 
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3956,1,">todo</wi> aquel
+<wi type="G" value="3588,3,"/><wi type="G" value="3348,4,">que usa</wi>
+<wi type="G" value="1051,5,">leche</wi>
+es <wi type="G" value="552,6,">inexperto</wi>
+<wi type="G" value="3056,7,">en la palabra</wi>
+<wi type="G" value="1343,8,">de rectitud</wi>,
+<wi type="G" value="1063,10,">pues</wi>
+<wi type="G" value="2076,11,">es</wi>
 <wi type="G" value="3516,9,">un bebé</wi>.
 </t>
 </sv>
@@ -1870,35 +1870,54 @@ es <wi type="G" value="552,6,">inexperto</wi>
 But solid
 food is for those who are full grown, who by reason of use have their senses
 exercised to discern good and evil.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> 
-<wi type="G" value="5160,6,">la comida</wi> 
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="5160,6,">la comida</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="4731,5,">sólida</wi>
-<wi type="G" value="2076,3,">es</wi> 
-para <wi type="G" value="5046,1,">maduros</wi>, 
-<wi type="G" value="3588,7,">que</wi> 
-<wi type="G" value="1223,8,">a causa</wi> de 
-<wi type="G" value="3588,9,"><wi type="G" value="1838,10,">su uso</wi></wi> 
-<wi type="G" value="2192,14,">tienen</wi> 
+<wi type="G" value="2076,3,">es</wi>
+para <wi type="G" value="5046,1,">maduros</wi>,
+<wi type="G" value="3588,7,">que</wi>
+<wi type="G" value="1223,8,">a causa</wi> de
+<wi type="G" value="3588,9,"><wi type="G" value="1838,10,">su uso</wi></wi>
+<wi type="G" value="2192,14,">tienen</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="145,12,">sus sentidos</wi></wi>
 <wi type="G" value="1128,13,">ejercitados</wi>
-<wi type="G" value="4314,15,">para</wi> 
-<wi type="G" value="1253,16,">discernir</wi> 
-<wi type="G" value="5037,18,">tanto</wi> 
-<wi type="G" value="2570,17,">lo bueno</wi> 
-<wi type="G" value="2532,19,">como</wi> 
+<wi type="G" value="4314,15,">para</wi>
+<wi type="G" value="1253,16,">discernir</wi>
+<wi type="G" value="5037,18,">tanto</wi>
+<wi type="G" value="2570,17,">lo bueno</wi>
+<wi type="G" value="2532,19,">como</wi>
 <wi type="G" value="2556,20,">lo malo</wi>.
 </t>
-
 <cl/>
-
-
 </sv></cm></sc>
+
 <sc id="Hebreos-6">
 <cm>
 <sv id="Hebreos-6-1">
 Therefore leaving the doctrine of the first principles of Christ,
 let us press on to perfectionnot laying again a foundation of repentance
 from dead works, of faith toward God,
+<t xml:lang="es"><wi type="G" value="1352,1,">Entonces</wi>
+<wi type="G" value="863,2,">dejando</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="3588,4,"><wi type="G" value="746,5,">los principios</wi></wi>
+<wi type="G" value="3056,8,">de la doctrina</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="5547,7,">de Cristo</wi></wi>,
+<wi type="G" value="5342,12,">vayamos</wi>
+<wi type="G" value="1909,9,">a</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="5047,11,">la perfección</wi></wi>,
+<wi type="G" value="3361,13,">no</wi>
+<wi type="G" value="2598,16,">poniendo</wi>
+<wi type="G" value="3825,14,">de nuevo</wi>
+<wi type="G" value="2310,15,">el fundamento</wi>
+<wi type="G" value="3341,17,">de arrepentimiento</wi>
+<wi type="G" value="575,18,">de</wi>
+<wi type="G" value="2041,20,">obras</wi>
+<wi type="G" value="3498,19,">muertas</wi>,
+<wi type="G" value="2532,21,">y</wi>
+<wi type="G" value="4102,22,">de fe</wi>
+<wi type="G" value="1909,23,">en</wi>
+<wi type="G" value="2316,24,">Dios</wi>,
+</t>
 </sv>
 <sv id="Hebreos-6-2">
 of the teaching of baptisms, of
