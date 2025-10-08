@@ -1922,11 +1922,27 @@ from dead works, of faith toward God,
 <sv id="Hebreos-6-2">
 of the teaching of baptisms, of
 laying on of hands, of resurrection of the dead, and of eternal judgment.
-
+<t xml:lang="es"><wi type="G" value="1322,2,">de la enseñanza</wi>
+<wi type="G" value="909,1,">de los bautismos</wi>,
+<wi type="G" value="5037,4,"/><wi type="G" value="1936,3,">de la imposición</wi>
+<wi type="G" value="5495,5,">de manos</wi>,
+<wi type="G" value="5037,7,"/><wi type="G" value="386,6,">de la resurrección</wi>
+<wi type="G" value="3498,8,">de los muertos</wi>
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="2917,10,">del juicio</wi>
+<wi type="G" value="166,11,">eterno</wi>.</t>
 </sv>
+
 <sv id="Hebreos-6-3">
 This will we do, if God permits.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="5124,2,">esto</wi>
+<wi type="G" value="4160,3,">haremos</wi>,
+<wi type="G" value="1437,4,">si</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2316,7,">Dios</wi></wi>
+<wi type="G" value="2010,5,">permite</wi>.</t>
 </sv>
+
 <sv id="Hebreos-6-4">
 For concerning those who were once
 enlightened and tasted of the heavenly gift, and were made partakers of the
