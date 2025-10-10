@@ -1949,9 +1949,10 @@ enlightened and tasted of the heavenly gift, and were made partakers of the
 Holy Spirit,
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> </t>
 <rb xml:lang="es">es <wi type="G" value="102,1,">imposible</wi><rf>
-<citebib id="WEB"/> pone la palabra imposible en el versículo 6, pero
-está en el versículo 4 según <citebib id="BLB"/>,
-<citebib id="KJV2003"/> y <citebib id="RVG2012"/>.</rf></rb>
+Para facilitar lectura <citebib id="WEB"/> pone la palabra
+imposible en el versículo 6, pero está en el versículo 4 según
+<citebib id="BLB"/>, <citebib id="KJV2003"/> y
+<citebib id="RVG2012"/>.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3588,3,">los que</wi>
 <wi type="G" value="530,4,">una vez</wi>
@@ -1982,6 +1983,19 @@ que <wi type="G" value="1089,3,">probaron</wi>
 and then fell away, it is impossible to renew them again to
 repentance; seeing they crucify the Son of God for themselves again, and put
 him to open shame.
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi> <wi type="G"
+value="3895,2,">caen</wi>,
+<wi type="G" value="340,4,">renovarlos</wi>
+<wi type="G" value="3825,3,">otra vez</wi>
+<wi type="G" value="1519,5,">para</wi>
+<wi type="G" value="3341,6,">arrepentimiento</wi>;
+<wi type="G" value="388,7,">viendo que crucificaron</wi>
+<wi type="G" value="1438,8,">por si mismos</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="5207,10,">al Hijo</wi></wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2316,12,">de Dios</wi></wi>
+<wi type="G" value="388,7,">nuevamente</wi>,
+<wi type="G" value="2532,13,">y</wi> lo
+<wi type="G" value="3856,14,">avergonzaron públicamente</wi>.</t>
 </sv>
 <sv id="Hebreos-6-7">
 For the land which has drunk the rain that comes
