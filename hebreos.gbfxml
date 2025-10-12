@@ -2014,8 +2014,8 @@ also tilled, receives blessing from God;
 <wi type="G" value="5088,12,">da</wi> </t>
 <rb xml:lang="es"><wi type="G" value="1008,13,">una cosecha</wi><rf>
 <citebib id="WEB"/> dice `cosecha,´
-<citebib id="KJV2003"/> dice `hierbas,´ 
-<citebib id="RVG2012"/> dice `hierba.´ Según 
+<citebib id="KJV2003"/> dice `hierbas,´
+<citebib id="RVG2012"/> dice `hierba.´ Según
 <citebib id="Thayer-BLB"/> la palabra griega `βοτανην´ se
 traduce como hierba para alimento, hierba verde, planta que crece.
 </rf></rb>
@@ -2033,6 +2033,19 @@ traduce como hierba para alimento, hierba verde, planta que crece.
 <sv id="Hebreos-6-8">
 but if it bears thorns and
 thistles, it is rejected and near being cursed, whose end is to be burned.
+<t xml:lang="es"><wi type="G" value="1161,2,">más</wi> la que
+<wi type="G" value="1627,1,">lleva </wi>
+<wi type="G" value="173,3,">espinas</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="5146,5,">cardos</wi>, es
+<wi type="G" value="96,6,">rechazada</wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="1451,9,">casi</wi>
+<wi type="G" value="2671,8,">maldecida</wi>,
+<wi type="G" value="3739,10,">cuyo</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="5056,12,">fin</wi></wi> es
+<wi type="G" value="1519,13,"/><wi type="G" value="2740,14,">ser quemada</wi>.
+</t>
 
 </sv></cm><cm>
 
