@@ -10,10 +10,14 @@ Ese archivo define el estilo de trabajo esperado:
 - Sugerencias concretas
 - Sin presumir capacidades antes de verificar
 
-## Lección de esta sesión
+## Lecciones
 El agente anterior presumió capacidades sin intentar.
 Fue corregido: "Es mejor hablar después de examinar o intentar."
 No repetir ese error.
+
+* `type="GC"` para continuación de palabras divididas (como en KJV `type="x-split-XXXX"`)
+Palabras pueden estar divididas en ambas referencias (KJV y tu traducción)
+`<rb><rf>` contiene notas de decisiones de traducción
 
 ## Objetivo del Proyecto
 Traducir Nuevo Testamento al español moderno de dominio público.
@@ -24,8 +28,8 @@ Traducir Nuevo Testamento al español moderno de dominio público.
 ## Progreso de Revisión
 
 ### Completados
-- ✅ **Filemón 1** - 1 mejora aplicada:
-  - v22: "ser restaurado" → "ser concedido" (G5483 χαρισθήσομαι)
+- Filemón 1:22: "restaurado" → "concedido" (G5483)
+- Tito 1:6: "creyentes" → "fieles" (G4103 πιστά más preciso)
 
 ### Pendientes (con KJV+Strong disponible)
 **Epístolas Paulinas:**
