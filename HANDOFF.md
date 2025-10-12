@@ -55,6 +55,7 @@ Evangelios (Mateo, Marcos, Lucas, Juan), Hechos, Romanos, 1-2 Corintios, 1 Juan,
 ### Referencias
 - `ref/sword_kjv/{Libro}-2023-01-06.osis.xml` - KJV con Strong y morfología Robinson
 - `ref/reina_valera_geiger_nt/57_Philemon.usfm` - RVG2012 (formato USFM)
+- Patrón RVG: ref/reina_valera_geiger_nt/NN_{Libro}.usfm (NN = número)
 
 ### Herramientas
 - `Makefile` - Build system (obsoleto pero funcional)
