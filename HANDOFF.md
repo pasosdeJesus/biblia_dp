@@ -58,7 +58,9 @@ fidelidad respecto al Textus Receptus.
 - **Colosenses**
 - **Filipenses**
 - **Galatas**
+- **Efesios**
 - **2 Corintios**
+- **1 Corintios**
 
 ## Estructura de Archivos
 
@@ -86,6 +88,8 @@ fidelidad respecto al Textus Receptus.
 3. **Validar** números Strong contra KJV OSIS
 4. **Verificar** español moderno vs RVG2012
 5. **Reportar SOLO versículos con problemas**
+
+Esto debe hacerse palabra a palabra, versículo a versículo.
 
 ### Formato de reporte
 ```

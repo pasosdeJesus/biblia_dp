@@ -1592,7 +1592,7 @@ their craftiness.»
 <wi type="G" value="5127,6,">de este</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="2889,5,">mundo</wi></wi>
 <wi type="G" value="2076,11,">es</wi>
-<wi type="G" value="3472,7,">necesadad</wi>
+<wi type="G" value="3472,7,">necedad</wi>
 <wi type="G" value="3844,8,">para</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="2316,10,">Dios</wi></wi>.
 <wi type="G" value="1063,13,">Pues</wi>
@@ -1739,10 +1739,19 @@ I know nothing against myself. Yet I am not justified by this, but he who
 judges me is the Lord.
 <t xml:lang="es">
 <wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="3762,1,">no</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="3762,1,">no</wi> 
 <wi type="G" value="4894,4,">se</wi>
-<wi type="GC" value="1">nada</wi>
-<wi type="G" value="1683,3,">por mi mismo</wi>.
+<wi type="GC" value="1">nada</wi> 
+<wi type="G" value="1683,3,">por mi mismo</wi><rf>
+<citebib id="WEB"/> dice `no se nada contra mi,´
+<citebib id="KJV2003"/> dice `no se nada por mi mismo,´
+<citebib id="RVG2012"/> dice `tengo mala conciencia de nada.´
+Segun <citebib id="Thayer-BLB"/> la palabra griega `συνοράω´ puede
+traducirse como haber visto, entender, comprender, ser conciente,
+conocer con otros o en si mismo.
+</rf></rb>
+<t xml:lang="es">.
 <wi type="G" value="235,5,">Pero</wi>
 <wi type="G" value="3756,6,">no</wi>
 <wi type="G" value="1344,9,">soy justificado</wi>
@@ -1854,7 +1863,7 @@ did reign, that we also might reign with you.
 <t xml:lang="es">
 <wi type="G" value="2235,1,">Ahora</wi>
 <wi type="G" value="2075,3,">ustedes están</wi>
-<wi type="G" value="2880,2,">llenos</wi>.
+<wi type="G" value="2880,2,">repletos</wi>.
 <wi type="G" value="2235,4,">Ahora</wi>
 <wi type="G" value="4147,5,">son ricos</wi>.
 <wi type="G" value="936,8,">Han venido a reinar</wi>
@@ -2446,7 +2455,7 @@ before the unrighteous, and not before the saints?
 ¿<wi type="G" value="5100,2,">Alguno</wi>
 <wi type="G" value="5216,3,">de ustedes</wi>
 <wi type="G" value="5111,1,">se atreve</wi>,
-<wi type="G" value="2192,5,">tendiendo</wi>
+<wi type="G" value="2192,5,">teniendo</wi>
 <wi type="G" value="4229,4,">un asunto</wi>
 <wi type="G" value="4314,6,">contra</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="2087,8,">otro</wi>,
@@ -3371,7 +3380,7 @@ but the keeping of the commandments of God.
 <wi type="G" value="3762,8,">nada</wi>
 <wi type="G" value="2076,9,">es</wi>,
 <wi type="G" value="235,10,">pero</wi>
-<wi type="G" value="5084,11,">guardar</wi>
+<wi type="G" value="5084,11,">el guardar</wi>
 <wi type="G" value="1785,12,">los mandamientos</wi>
 <wi type="G" value="2316,13,">de</wi> Dios.
 </t>
@@ -3954,9 +3963,10 @@ that he knows anything, he doesn´t yet know as he ought to know.
 <wi type="G" value="5100,3,">alguien</wi>
 <wi type="G" value="1380,4,">piensa</wi>
 <wi type="G" value="1492,5,">que sabe</wi>
-<wi type="G" value="5100,6,">algo</wi>,
-<wi type="G" value="3764,7,">aún</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3762,8,">no</wi>
+<wi type="G" value="5100,6,">algo</wi>,</t>
+<rb xml:lang="es">
+<wi type="G" value="3764,7,">aún</wi> 
+<wi type="G" value="3762,8,">no</wi>
 <wi type="G" value="1097,9,">sabe</wi><rf><citebib id="WEB"/> dice
 `aún no sabe,´
 <citebib id="KJV2003"/> dice `nada sabe,´
@@ -4838,7 +4848,7 @@ preached to others, I myself should be rejected.
 <wi type="G" value="235,1,">Pero</wi> </t>
 <rb xml:lang="es">
 <wi type="G" value="5299,2,">golpeo</wi>
-<rf><citebib id="WEB"/> dice `golpeó,´
+<rf><citebib id="WEB"/> dice `golpeo,´
 <citebib id="KJV2003"/> dice `keep under´ que es comos subyugar,
 <citebib id="RVG2012"/> dice `hiero´
 según <citebib id="Thayer-BLB"/> se refiere a golpear, subyugar, como haría
@@ -6833,9 +6843,9 @@ prophets? Are all teachers? Are all miracle workers?
 <wi type="G" value="3956,2,">todos</wi>
 <wi type="G" value="652,3,">apóstoles</wi>?
 ¿Son <wi type="G" value="3361,4,"/><wi type="G" value="3956,5,">todos</wi>
-<wi type="G" value="4396,6,">instructores</wi>?
+<wi type="G" value="4396,6,">profetas</wi>?
 ¿Son <wi type="G" value="3361,7,"/><wi type="G" value="3956,8,">todos</wi>
-<wi type="G" value="1320,9,">profetas</wi>?
+<wi type="G" value="1320,9,">instructores</wi>?
 ¿Son <wi type="G" value="3361,10,"/><wi type="G" value="3956,11,">todos</wi>
 <wi type="G" value="1411,12,">obradores de milagros</wi>?
 </t>
@@ -7745,7 +7755,7 @@ interpretation. Let all things be done to build each other up.
 <wi type="G" value="2192,12,">tiene</wi>
 <wi type="G" value="1322,11,">una enseñanza</wi>,
 <wi type="G" value="2192,14,">tiene</wi>
-<wi type="G" value="1100,13,">lenguas</wi>,
+<wi type="G" value="1100,13,">lengua</wi>,
 <wi type="G" value="2192,16,">tiene</wi>
 <wi type="G" value="602,15,">revelación</wi>,
 <wi type="G" value="2192,18,">tiene</wi>
