@@ -1,4 +1,4 @@
-# HANDOFF: Revisión de Traducción Bíblica biblia_dp
+# HANDOFF: Revisión de Traducción Bíblica biblia_dp o SpaTDP
 
 ## ANTES DE CONTINUAR
 
@@ -20,7 +20,8 @@ Palabras pueden estar divididas en ambas referencias (KJV y tu traducción)
 `<rb><rf>` contiene notas de decisiones de traducción
 
 ## Objetivo del Proyecto
-Traducir Nuevo Testamento al español moderno de dominio público.
+Traducir Nuevo Testamento al español moderno de dominio público priorizando
+fidelidad respecto al Textus Receptus.
 - Fuente base: WEB (World English Bible, dominio público, inglés)
 - Formato: GBFXML con números Strong del griego
 - Referencias: KJV con Strong (Textus Receptus), RVG2012 (español)
