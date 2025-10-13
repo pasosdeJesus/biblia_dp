@@ -38,6 +38,7 @@ fidelidad respecto al Textus Receptus.
 - **1 Timoteo** - 1:9 (G765), 2:14 (G538), 3:15 (G2316), 6:3,5,6,11 (G2150)
 - **Colosenses**
 - **Filipenses**
+- **Galatas**
 
 ## Estructura de Archivos
 
