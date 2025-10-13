@@ -31,6 +31,9 @@ fidelidad respecto al Textus Receptus.
 ### Completados
 - Filemón 1:22: "restaurado" → "concedido" (G5483)
 - Tito 1:6: "creyentes" → "fieles" (G4103 πιστά más preciso)
+- 2 Timoteo
+- 2 Tesalonicenses
+
 
 ### Pendientes (con KJV+Strong disponible)
 **Epístolas Paulinas:**
@@ -56,7 +59,8 @@ Evangelios (Mateo, Marcos, Lucas, Juan), Hechos, Romanos, 1-2 Corintios, 1 Juan,
 ### Referencias
 - `ref/sword_kjv/{Libro}-2023-01-06.osis.xml` - KJV con Strong y morfología Robinson
 - `ref/reina_valera_geiger_nt/57_Philemon.usfm` - RVG2012 (formato USFM)
-- Patrón RVG: ref/reina_valera_geiger_nt/NN_{Libro}.usfm (NN = número)
+- Patrón RVG: ref/reina_valera_geiger_nt/NN_{Libro}.usfm (NN = número).
+  {Libro} en inglés y si tiene número como 2 Timoteo es 2_Timothy.
 
 ### Herramientas
 - `Makefile` - Build system (obsoleto pero funcional)
