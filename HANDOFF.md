@@ -29,25 +29,11 @@ fidelidad respecto al Textus Receptus.
 ## Progreso de Revisión
 
 ### Completados
-- Filemón 1:22: "restaurado" → "concedido" (G5483)
-- Tito 1:6: "creyentes" → "fieles" (G4103 πιστά más preciso)
-- 2 Timoteo
-- 2 Tesalonicenses
-- 1 Tesalonicenses: "al Señor" → "del Señor"
-
-### Pendientes (con KJV+Strong disponible)
-**Epístolas Paulinas:**
-- Gálatas, Efesios, Filipenses, Colosenses
-- 1-2 Tesalonicenses, 1-2 Timoteo, Tito
-- Hebreos
-
-**Epístolas Generales:**
-- Santiago, 1-2 Pedro, 2-3 Juan
-
-**Apocalipsis**
-
-### Sin KJV individual disponible
-Evangelios (Mateo, Marcos, Lucas, Juan), Hechos, Romanos, 1-2 Corintios, 1 Juan, Judas
+- **Filemón** - 1:22: "restaurado" → "concedido" (G5483)
+- **Tito** - 1:6: "creyentes" → "fieles" (G4103 πιστά más preciso)
+- **2 Timoteo**
+- **2 Tesalonicenses**
+- **1 Tesalonicenses** -  1:1 "al Señor" → "del Señor"
 
 ## Estructura de Archivos
 
@@ -57,7 +43,7 @@ Evangelios (Mateo, Marcos, Lucas, Juan), Hechos, Romanos, 1-2 Corintios, 1 Juan,
 - `type="GC"` = continuación de palabra dividida
 
 ### Referencias
-- `ref/sword_kjv/{Libro}-2023-01-06.osis.xml` - KJV con Strong y morfología Robinson
+- `ref/sword_kjv/{Libro}-2023-01-06.osis.xml` - KJV con Strong y morfología Robinson.  Será mejor dividirlos en capítulos.
 - `ref/reina_valera_geiger_nt/57_Philemon.usfm` - RVG2012 (formato USFM)
 - Patrón RVG: ref/reina_valera_geiger_nt/NN_{Libro}.usfm (NN = número).
   {Libro} en inglés y si tiene número como 2 Timoteo es 2_Timothy.
@@ -67,6 +53,8 @@ Evangelios (Mateo, Marcos, Lucas, Juan), Hechos, Romanos, 1-2 Corintios, 1 Juan,
 - `gbfxml2html.xsl`, `gbfxml2db.xsl` - Conversiones XSLT
 
 ## Metodología de Revisión
+
+** PRIORIDAD: Fidelidad al Textus Receptus **
 
 1. **Leer** tu `{libro}.gbfxml` completo
 2. **Comparar** con WEB (inglés en mismo archivo antes de `<t xml:lang="es">`)

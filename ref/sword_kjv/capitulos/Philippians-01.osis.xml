@@ -1,0 +1,458 @@
+$$$Philippians 1:0
+<chapter chapterTitle="CHAPTER 1." osisID="Phil.1" sID="gen1800"/> <title type="chapter">CHAPTER 1.</title>
+
+$$$Philippians 1:1
+<w lemma="strong:G3972 lemma.TR:παυλος" morph="robinson:N-NSM" src="1">Paul</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="2">and</w>
+<w lemma="strong:G5095 lemma.TR:τιμοθεος" morph="robinson:N-NSM" src="3">Timotheus</w>, <w lemma="strong:G1401 lemma.TR:δουλοι" morph="robinson:N-NPM" src="4">the servants</w>
+<w lemma="strong:G2424 lemma.TR:ιησου" morph="robinson:N-GSM" src="5">of Jesus</w>
+<w lemma="strong:G5547 lemma.TR:χριστου" morph="robinson:N-GSM" src="6">Christ</w>, <w lemma="strong:G3956 lemma.TR:πασιν" morph="robinson:A-DPM" src="7">to all</w>
+<w lemma="strong:G40 lemma.TR:αγιοις" morph="robinson:A-DPM" src="9">the saints</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="10">in</w>
+<w lemma="strong:G5547 lemma.TR:χριστω" morph="robinson:N-DSM" src="11">Christ</w>
+<w lemma="strong:G2424 lemma.TR:ιησου" morph="robinson:N-DSM" src="12">Jesus</w>
+<w lemma="strong:G5607 lemma.TR:ουσιν" morph="robinson:V-PXP-DPM" src="14">which are</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="15">at</w>
+<w lemma="strong:G5375 lemma.TR:φιλιπποις" morph="robinson:N-DPM" src="16">Philippi</w>, <w lemma="strong:G4862 lemma.TR:συν" morph="robinson:PREP" src="17">with</w>
+<w lemma="strong:G1985 lemma.TR:επισκοποις" morph="robinson:N-DPM" src="18">the bishops</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="19">and</w>
+<w lemma="strong:G1249 lemma.TR:διακονοις" morph="robinson:N-DPM" src="20">deacons</w>:<w lemma="strong:G3588 lemma.TR:τοις" morph="robinson:T-DPM" src="8"/><w lemma="strong:G3588 lemma.TR:τοις" morph="robinson:T-DPM" src="13"/>
+
+$$$Philippians 1:2
+<w lemma="strong:G5485 lemma.TR:χαρις" morph="robinson:N-NSF" src="1">Grace</w>
+<transChange type="added">be</transChange> <w lemma="strong:G5213 lemma.TR:υμιν" morph="robinson:P-2DP" src="2">unto you</w>, <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="3">and</w>
+<w lemma="strong:G1515 lemma.TR:ειρηνη" morph="robinson:N-NSF" src="4">peace</w>, <w lemma="strong:G575 lemma.TR:απο" morph="robinson:PREP" src="5">from</w>
+<w lemma="strong:G2316 lemma.TR:θεου" morph="robinson:N-GSM" src="6">God</w>
+<w lemma="strong:G2257 lemma.TR:ημων" morph="robinson:P-1GP" src="8">our</w>
+<w lemma="strong:G3962 lemma.TR:πατρος" morph="robinson:N-GSM" src="7">Father</w>, <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="9">and</w>
+<transChange type="added">from</transChange> <w lemma="strong:G2962 lemma.TR:κυριου" morph="robinson:N-GSM" src="10">the Lord</w>
+<w lemma="strong:G2424 lemma.TR:ιησου" morph="robinson:N-GSM" src="11">Jesus</w>
+<w lemma="strong:G5547 lemma.TR:χριστου" morph="robinson:N-GSM" src="12">Christ</w>.
+
+$$$Philippians 1:3
+<w lemma="strong:G2168 lemma.TR:ευχαριστω" morph="robinson:V-PAI-1S" src="1">I thank</w>
+<w lemma="strong:G3450 lemma.TR:μου" morph="robinson:P-1GS" src="4">my</w>
+<w lemma="strong:G3588 strong:G2316 lemma.TR:τω lemma.TR:θεω" morph="robinson:T-DSM robinson:N-DSM" src="2 3">God</w>
+<w lemma="strong:G1909 lemma.TR:επι" morph="robinson:PREP" src="5">upon</w>
+<w lemma="strong:G3956 lemma.TR:παση" morph="robinson:A-DSF" src="6">every</w>
+<w lemma="strong:G3588 strong:G3417 lemma.TR:τη lemma.TR:μνεια" morph="robinson:T-DSF robinson:N-DSF" src="7 8">remembrance</w>
+<w lemma="strong:G5216 lemma.TR:υμων" morph="robinson:P-2GP" src="9">of you</w>,
+
+$$$Philippians 1:4
+<w lemma="strong:G3842 lemma.TR:παντοτε" morph="robinson:ADV" src="1">Always</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="2">in</w>
+<w lemma="strong:G3956 lemma.TR:παση" morph="robinson:A-DSF" src="3">every</w>
+<w lemma="strong:G1162 lemma.TR:δεησει" morph="robinson:N-DSF" src="4">prayer</w>
+<w lemma="strong:G3450 lemma.TR:μου" morph="robinson:P-1GS" src="5">of mine</w>
+<w lemma="strong:G5228 lemma.TR:υπερ" morph="robinson:PREP" src="6">for</w>
+<w lemma="strong:G5216 lemma.TR:υμων" morph="robinson:P-2GP" src="8">you</w>
+<w lemma="strong:G3956 lemma.TR:παντων" morph="robinson:A-GPM" src="7">all</w>
+<w lemma="strong:G4160 lemma.TR:ποιουμενος" morph="robinson:V-PMP-NSM" src="13">making</w>
+<w lemma="strong:G3588 strong:G1162 lemma.TR:την lemma.TR:δεησιν" morph="robinson:T-ASF robinson:N-ASF" src="11 12">request</w>
+<w lemma="strong:G3326 lemma.TR:μετα" morph="robinson:PREP" src="9">with</w>
+<w lemma="strong:G5479 lemma.TR:χαρας" morph="robinson:N-GSF" src="10">joy</w>,
+
+$$$Philippians 1:5
+<w lemma="strong:G1909 lemma.TR:επι" morph="robinson:PREP" src="1">For</w>
+<w lemma="strong:G5216 lemma.TR:υμων" morph="robinson:P-2GP" src="4">your</w>
+<w lemma="strong:G3588 strong:G2842 lemma.TR:τη lemma.TR:κοινωνια" morph="robinson:T-DSF robinson:N-DSF" src="2 3">fellowship</w>
+<w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="5">in</w>
+<w lemma="strong:G3588 strong:G2098 lemma.TR:το lemma.TR:ευαγγελιον" morph="robinson:T-ASN robinson:N-ASN" src="6 7">the gospel</w>
+<w lemma="strong:G575 lemma.TR:απο" morph="robinson:PREP" src="8">from</w>
+<w lemma="strong:G2250 lemma.TR:ημερας" morph="robinson:N-GSF" src="10" type="x-split-3065">the</w>
+<w lemma="strong:G4413 lemma.TR:πρωτης" morph="robinson:A-GSF" src="9">first</w>
+<w lemma="strong:G2250 lemma.TR:ημερας" morph="robinson:N-GSF" src="10" type="x-split-3065">day</w>
+<w lemma="strong:G891 lemma.TR:αχρι" morph="robinson:PREP" src="11">until</w>
+<w lemma="strong:G3568 lemma.TR:νυν" morph="robinson:ADV" src="13">now</w>;<w lemma="strong:G3588 lemma.TR:του" morph="robinson:T-GSM" src="12"/>
+
+$$$Philippians 1:6
+<w lemma="strong:G3982 lemma.TR:πεποιθως" morph="robinson:V-2RAP-NSM" src="1">Being confident of</w>
+<w lemma="strong:G5124 lemma.TR:τουτο" morph="robinson:D-ASN" src="3">this</w>
+<w lemma="strong:G846 lemma.TR:αυτο" morph="robinson:P-ASN" src="2">very thing</w>, <w lemma="strong:G3754 lemma.TR:οτι" morph="robinson:CONJ" src="4">that</w>
+<w lemma="strong:G1728 lemma.TR:εναρξαμενος" morph="robinson:V-ADP-NSM" src="6">he which hath begun</w>
+<w lemma="strong:G2041 lemma.TR:εργον" morph="robinson:N-ASN" src="9" type="x-split-3066">a</w>
+<w lemma="strong:G18 lemma.TR:αγαθον" morph="robinson:A-ASN" src="10">good</w>
+<w lemma="strong:G2041 lemma.TR:εργον" morph="robinson:N-ASN" src="9" type="x-split-3066">work</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="7">in</w>
+<w lemma="strong:G5213 lemma.TR:υμιν" morph="robinson:P-2DP" src="8">you</w>
+<w lemma="strong:G2005 lemma.TR:επιτελεσει" morph="robinson:V-FAI-3S" src="11">will perform</w>
+<transChange type="added">it</transChange> <w lemma="strong:G891 lemma.TR:αχρις" morph="robinson:PREP" src="12">until</w>
+<w lemma="strong:G2250 lemma.TR:ημερας" morph="robinson:N-GSF" src="13">the day</w>
+<w lemma="strong:G2424 lemma.TR:ιησου" morph="robinson:N-GSM" src="14">of Jesus</w>
+<w lemma="strong:G5547 lemma.TR:χριστου" morph="robinson:N-GSM" src="15">Christ</w>:<w lemma="strong:G3588 lemma.TR:ο" morph="robinson:T-NSM" src="5"/>
+
+$$$Philippians 1:7
+<w lemma="strong:G2531 lemma.TR:καθως" morph="robinson:ADV" src="1">Even as</w>
+<w lemma="strong:G2076 lemma.TR:εστιν" morph="robinson:V-PXI-3S" src="2">it is</w>
+<w lemma="strong:G1342 lemma.TR:δικαιον" morph="robinson:A-NSN" src="3">meet</w>
+<w lemma="strong:G1698 lemma.TR:εμοι" morph="robinson:P-1DS" src="4">for me</w>
+<w lemma="strong:G5426 lemma.TR:φρονειν" morph="robinson:V-PAN" src="6">to think</w>
+<w lemma="strong:G5124 lemma.TR:τουτο" morph="robinson:D-ASN" src="5">this</w>
+<w lemma="strong:G5228 lemma.TR:υπερ" morph="robinson:PREP" src="7">of</w>
+<w lemma="strong:G5216 lemma.TR:υμων" morph="robinson:P-2GP" src="9">you</w>
+<w lemma="strong:G3956 lemma.TR:παντων" morph="robinson:A-GPM" src="8">all</w>, <w lemma="strong:G1223 lemma.TR:δια" morph="robinson:PREP" src="10">because</w>
+<w lemma="strong:G3165 lemma.TR:με" morph="robinson:P-1AS" src="13">I</w>
+<w lemma="strong:G2192 lemma.TR:εχειν" morph="robinson:V-PAN" src="12">have</w>
+<w lemma="strong:G5209 lemma.TR:υμας" morph="robinson:P-2AP" src="17">you</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="14">in</w>
+<w lemma="strong:G3588 strong:G2588 lemma.TR:τη lemma.TR:καρδια" morph="robinson:T-DSF robinson:N-DSF" src="15 16">my heart</w>; <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="18">inasmuch as</w>
+<w lemma="strong:G5037 lemma.TR:τε" morph="robinson:PRT" src="19">both</w>
+<w lemma="strong:G3588 strong:G1199 lemma.TR:τοις lemma.TR:δεσμοις" morph="robinson:T-DPM robinson:N-DPM" src="20 21" type="x-split-3067">in</w>
+<w lemma="strong:G3450 lemma.TR:μου" morph="robinson:P-1GS" src="22">my</w>
+<w lemma="strong:G3588 strong:G1199 lemma.TR:τοις lemma.TR:δεσμοις" morph="robinson:T-DPM robinson:N-DPM" src="20 21" type="x-split-3067">bonds</w>, <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="23">and</w>
+<w lemma="strong:G3588 strong:G627 lemma.TR:τη lemma.TR:απολογια" morph="robinson:T-DSF robinson:N-DSF" src="24 25">in the defence</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="26">and</w>
+<w lemma="strong:G951 lemma.TR:βεβαιωσει" morph="robinson:N-DSF" src="27">confirmation</w>
+<w lemma="strong:G3588 strong:G2098 lemma.TR:του lemma.TR:ευαγγελιου" morph="robinson:T-GSN robinson:N-GSN" src="28 29">of the gospel</w>, <w lemma="strong:G5209 lemma.TR:υμας" morph="robinson:P-2AP" src="35">ye</w>
+<w lemma="strong:G3956 lemma.TR:παντας" morph="robinson:A-APM" src="34">all</w>
+<w lemma="strong:G5607 lemma.TR:οντας" morph="robinson:V-PXP-APM" src="36">are</w>
+<w lemma="strong:G4791 lemma.TR:συγκοινωνους" morph="robinson:A-APM" src="30">partakers</w>
+<w lemma="strong:G3588 strong:G5485 lemma.TR:της lemma.TR:χαριτος" morph="robinson:T-GSF robinson:N-GSF" src="32 33" type="x-split-3068">of</w>
+<w lemma="strong:G3450 lemma.TR:μου" morph="robinson:P-1GS" src="31">my</w>
+<w lemma="strong:G3588 strong:G5485 lemma.TR:της lemma.TR:χαριτος" morph="robinson:T-GSF robinson:N-GSF" src="32 33" type="x-split-3068">grace</w>.<w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-ASN" src="11"/>
+
+$$$Philippians 1:8
+<w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">For</w>
+<w lemma="strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος" morph="robinson:T-NSM robinson:N-NSM" src="5 6">God</w>
+<w lemma="strong:G2076 lemma.TR:εστιν" morph="robinson:V-PXI-3S" src="4">is</w>
+<w lemma="strong:G3450 lemma.TR:μου" morph="robinson:P-1GS" src="3">my</w>
+<w lemma="strong:G3144 lemma.TR:μαρτυς" morph="robinson:N-NSM" src="1">record</w>, <w lemma="strong:G5613 lemma.TR:ως" morph="robinson:ADV" src="7">how greatly</w>
+<w lemma="strong:G1971 lemma.TR:επιποθω" morph="robinson:V-PAI-1S" src="8">I long</w>
+after <w lemma="strong:G5209 lemma.TR:υμας" morph="robinson:P-2AP" src="10">you</w>
+<w lemma="strong:G3956 lemma.TR:παντας" morph="robinson:A-APM" src="9">all</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="11">in</w>
+<w lemma="strong:G4698 lemma.TR:σπλαγχνοις" morph="robinson:N-DPN" src="12">the bowels</w>
+<w lemma="strong:G2424 lemma.TR:ιησου" morph="robinson:N-GSM" src="13">of Jesus</w>
+<w lemma="strong:G5547 lemma.TR:χριστου" morph="robinson:N-GSM" src="14">Christ</w>.
+
+$$$Philippians 1:9
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="1">And</w>
+<w lemma="strong:G5124 lemma.TR:τουτο" morph="robinson:D-ASN" src="2">this</w>
+<w lemma="strong:G4336 lemma.TR:προσευχομαι" morph="robinson:V-PNI-1S" src="3">I pray</w>, <w lemma="strong:G2443 lemma.TR:ινα" morph="robinson:CONJ" src="4">that</w>
+<w lemma="strong:G5216 lemma.TR:υμων" morph="robinson:P-2GP" src="7">your</w>
+<w lemma="strong:G3588 strong:G26 lemma.TR:η lemma.TR:αγαπη" morph="robinson:T-NSF robinson:N-NSF" src="5 6">love</w>
+<w lemma="strong:G4052 lemma.TR:περισσευη" morph="robinson:V-PAS-3S" src="12">may abound</w>
+<w lemma="strong:G2089 lemma.TR:ετι" morph="robinson:ADV" src="8">yet</w>
+<w lemma="strong:G3123 lemma.TR:μαλλον" morph="robinson:ADV" src="9">more</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="10">and</w>
+<w lemma="strong:G3123 lemma.TR:μαλλον" morph="robinson:ADV" src="11">more</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="13">in</w>
+<w lemma="strong:G1922 lemma.TR:επιγνωσει" morph="robinson:N-DSF" src="14">knowledge</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="15">and</w>
+<transChange type="added">in</transChange> <w lemma="strong:G3956 lemma.TR:παση" morph="robinson:A-DSF" src="16">all</w>
+<w lemma="strong:G144 lemma.TR:αισθησει" morph="robinson:N-DSF" src="17">judgment</w>;
+
+$$$Philippians 1:10
+<w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="1"/><w lemma="strong:G1381 lemma.TR:δοκιμαζειν" morph="robinson:V-PAN" src="3" type="x-split-3069">That</w>
+<w lemma="strong:G5209 lemma.TR:υμας" morph="robinson:P-2AP" src="4">ye</w>
+<w lemma="strong:G1381 lemma.TR:δοκιμαζειν" morph="robinson:V-PAN" src="3" type="x-split-3069">may approve things</w>
+<w lemma="strong:G1308 lemma.TR:διαφεροντα" morph="robinson:V-PAP-APN" src="6">that are excellent</w>; <w lemma="strong:G2443 lemma.TR:ινα" morph="robinson:CONJ" src="7">that</w>
+<w lemma="strong:G5600 lemma.TR:ητε" morph="robinson:V-PXS-2P" src="8">ye may be</w>
+<w lemma="strong:G1506 lemma.TR:ειλικρινεις" morph="robinson:A-NPM" src="9">sincere</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="10">and</w>
+<w lemma="strong:G677 lemma.TR:απροσκοποι" morph="robinson:A-NPM" src="11">without offence</w>
+<w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="12">till</w>
+<w lemma="strong:G2250 lemma.TR:ημεραν" morph="robinson:N-ASF" src="13">the day</w>
+<w lemma="strong:G5547 lemma.TR:χριστου" morph="robinson:N-GSM" src="14">of Christ</w>;<w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-ASN" src="2"/><w lemma="strong:G3588 lemma.TR:τα" morph="robinson:T-APN" src="5"/>
+
+$$$Philippians 1:11
+<w lemma="strong:G4137 lemma.TR:πεπληρωμενοι" morph="robinson:V-RPP-NPM" src="1">Being filled</w>
+<w lemma="strong:G2590 lemma.TR:καρπων" morph="robinson:N-GPM" src="2">with the fruits</w>
+<w lemma="strong:G1343 lemma.TR:δικαιοσυνης" morph="robinson:N-GSF" src="3">of righteousness</w>, <w lemma="strong:G3588 lemma.TR:των" morph="robinson:T-GPM" src="4">which are</w>
+<w lemma="strong:G1223 lemma.TR:δια" morph="robinson:PREP" src="5">by</w>
+<w lemma="strong:G2424 lemma.TR:ιησου" morph="robinson:N-GSM" src="6">Jesus</w>
+<w lemma="strong:G5547 lemma.TR:χριστου" morph="robinson:N-GSM" src="7">Christ</w>, <w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="8">unto</w>
+<w lemma="strong:G1391 lemma.TR:δοξαν" morph="robinson:N-ASF" src="9">the glory</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="10">and</w>
+<w lemma="strong:G1868 lemma.TR:επαινον" morph="robinson:N-ASM" src="11">praise</w>
+<w lemma="strong:G2316 lemma.TR:θεου" morph="robinson:N-GSM" src="12">of God</w>.
+
+$$$Philippians 1:12
+<w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">But</w>
+<w lemma="strong:G1014 lemma.TR:βουλομαι" morph="robinson:V-PNI-1S" src="4">I would</w>
+<w lemma="strong:G5209 lemma.TR:υμας" morph="robinson:P-2AP" src="3">ye</w>
+<w lemma="strong:G1097 lemma.TR:γινωσκειν" morph="robinson:V-PAN" src="1">should understand</w>, <w lemma="strong:G80 lemma.TR:αδελφοι" morph="robinson:N-VPM" src="5">brethren</w>, <w lemma="strong:G3754 lemma.TR:οτι" morph="robinson:CONJ" src="6">that</w>
+<w lemma="strong:G3588 lemma.TR:τα" morph="robinson:T-NPN" src="7">the things</w>
+<transChange type="added">which happened</transChange> <w lemma="strong:G2596 lemma.TR:κατ" morph="robinson:PREP" src="8">unto</w>
+<w lemma="strong:G1691 lemma.TR:εμε" morph="robinson:P-1AS" src="9">me</w>
+<w lemma="strong:G2064 lemma.TR:εληλυθεν" morph="robinson:V-2RAI-3S" src="15">have fallen out</w>
+<w lemma="strong:G3123 lemma.TR:μαλλον" morph="robinson:ADV" src="10">rather</w>
+<w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="11">unto</w>
+<w lemma="strong:G4297 lemma.TR:προκοπην" morph="robinson:N-ASF" src="12">the furtherance</w>
+<w lemma="strong:G3588 strong:G2098 lemma.TR:του lemma.TR:ευαγγελιου" morph="robinson:T-GSN robinson:N-GSN" src="13 14">of the gospel</w>;
+
+$$$Philippians 1:13
+<w lemma="strong:G5620 lemma.TR:ωστε" morph="robinson:CONJ" src="1">So that</w>
+<w lemma="strong:G3450 lemma.TR:μου" morph="robinson:P-1GS" src="4">my</w>
+<w lemma="strong:G3588 strong:G1199 lemma.TR:τους lemma.TR:δεσμους" morph="robinson:T-APM robinson:N-APM" src="2 3">bonds</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="6">in</w>
+<w lemma="strong:G5547 lemma.TR:χριστω" morph="robinson:N-DSM" src="7">Christ</w>
+<w lemma="strong:G1096 lemma.TR:γενεσθαι" morph="robinson:V-2ADN" src="8">are</w>
+<w lemma="strong:G5318 lemma.TR:φανερους" morph="robinson:A-APM" src="5">manifest</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="9">in</w>
+<w lemma="strong:G3650 lemma.TR:ολω" morph="robinson:A-DSN" src="10">all</w>
+<w lemma="strong:G3588 strong:G4232 lemma.TR:τω lemma.TR:πραιτωριω" morph="robinson:T-DSN robinson:N-DSN" src="11 12">the palace</w>, <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="13">and</w>
+<w lemma="strong:G3062 lemma.TR:λοιποις" morph="robinson:A-DPM" src="15" type="x-split-3070">in</w>
+<w lemma="strong:G3956 lemma.TR:πασιν" morph="robinson:A-DPM" src="16">all</w>
+<w lemma="strong:G3062 lemma.TR:λοιποις" morph="robinson:A-DPM" src="15" type="x-split-3070">other</w>
+<transChange type="added">places</transChange>; <w lemma="strong:G3588 lemma.TR:τοις" morph="robinson:T-DPM" src="14"/>
+
+$$$Philippians 1:14
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="1">And</w>
+<w lemma="strong:G4119 lemma.TR:πλειονας" morph="robinson:A-APM-C" src="3">many</w>
+<w lemma="strong:G3588 strong:G80 lemma.TR:των lemma.TR:αδελφων" morph="robinson:T-GPM robinson:N-GPM" src="4 5">of the brethren</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="6">in</w>
+<w lemma="strong:G2962 lemma.TR:κυριω" morph="robinson:N-DSM" src="7">the Lord</w>, <w lemma="strong:G3982 lemma.TR:πεποιθοτας" morph="robinson:V-2RAP-APM" src="8">waxing confident</w>
+<w lemma="strong:G3588 strong:G1199 lemma.TR:τοις lemma.TR:δεσμοις" morph="robinson:T-DPM robinson:N-DPM" src="9 10" type="x-split-3071">by</w>
+<w lemma="strong:G3450 lemma.TR:μου" morph="robinson:P-1GS" src="11">my</w>
+<w lemma="strong:G3588 strong:G1199 lemma.TR:τοις lemma.TR:δεσμοις" morph="robinson:T-DPM robinson:N-DPM" src="9 10" type="x-split-3071">bonds</w>, <w lemma="strong:G5111 lemma.TR:τολμαν" morph="robinson:V-PAN" src="13" type="x-split-3072">are</w>
+<w lemma="strong:G4056 lemma.TR:περισσοτερως" morph="robinson:ADV" src="12">much more</w>
+<w lemma="strong:G5111 lemma.TR:τολμαν" morph="robinson:V-PAN" src="13" type="x-split-3072">bold</w>
+<w lemma="strong:G2980 lemma.TR:λαλειν" morph="robinson:V-PAN" src="17">to speak</w>
+<w lemma="strong:G3588 strong:G3056 lemma.TR:τον lemma.TR:λογον" morph="robinson:T-ASM robinson:N-ASM" src="15 16">the word</w>
+<w lemma="strong:G870 lemma.TR:αφοβως" morph="robinson:ADV" src="14">without fear</w>.<w lemma="strong:G3588 lemma.TR:τους" morph="robinson:T-APM" src="2"/>
+
+$$$Philippians 1:15
+<w lemma="strong:G5100 lemma.TR:τινες" morph="robinson:X-NPM" src="1">Some</w>
+<w lemma="strong:G3303 lemma.TR:μεν" morph="robinson:PRT" src="2">indeed</w>
+<w lemma="strong:G2784 lemma.TR:κηρυσσουσιν" morph="robinson:V-PAI-3P" src="15">preach</w>
+<w lemma="strong:G3588 strong:G5547 lemma.TR:τον lemma.TR:χριστον" morph="robinson:T-ASM robinson:N-ASM" src="13 14">Christ</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="3">even</w>
+<w lemma="strong:G1223 lemma.TR:δια" morph="robinson:PREP" src="4">of</w>
+<w lemma="strong:G5355 lemma.TR:φθονον" morph="robinson:N-ASM" src="5">envy</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="6">and</w>
+<w lemma="strong:G2054 lemma.TR:εριν" morph="robinson:N-ASF" src="7">strife</w>; <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="9">and</w>
+<w lemma="strong:G5100 lemma.TR:τινες" morph="robinson:X-NPM" src="8">some</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="10">also</w>
+<w lemma="strong:G1223 lemma.TR:δι" morph="robinson:PREP" src="11">of</w>
+<w lemma="strong:G2107 lemma.TR:ευδοκιαν" morph="robinson:N-ASF" src="12">good will</w>:
+
+$$$Philippians 1:16
+<w lemma="strong:G3588 lemma.TR:οι" morph="robinson:T-NPM" src="1">The one</w>
+<w lemma="strong:G3303 lemma.TR:μεν" morph="robinson:PRT" src="2"/><w lemma="strong:G2605 lemma.TR:καταγγελλουσιν" morph="robinson:V-PAI-3P" src="7">preach</w>
+<w lemma="strong:G3588 strong:G5547 lemma.TR:τον lemma.TR:χριστον" morph="robinson:T-ASM robinson:N-ASM" src="5 6">Christ</w>
+<w lemma="strong:G1537 lemma.TR:εξ" morph="robinson:PREP" src="3">of</w>
+<w lemma="strong:G2052 lemma.TR:εριθειας" morph="robinson:N-GSF" src="4">contention</w>, <w lemma="strong:G3756 lemma.TR:ουχ" morph="robinson:PRT-N" src="8">not</w>
+<w lemma="strong:G55 lemma.TR:αγνως" morph="robinson:ADV" src="9">sincerely</w>, <w lemma="strong:G3633 lemma.TR:οιομενοι" morph="robinson:V-PNP-NPM" src="10">supposing</w>
+<w lemma="strong:G2018 lemma.TR:επιφερειν" morph="robinson:V-PAN" src="12">to add</w>
+<w lemma="strong:G2347 lemma.TR:θλιψιν" morph="robinson:N-ASF" src="11">affliction</w>
+<w lemma="strong:G3588 strong:G1199 lemma.TR:τοις lemma.TR:δεσμοις" morph="robinson:T-DPM robinson:N-DPM" src="13 14" type="x-split-3073">to</w>
+<w lemma="strong:G3450 lemma.TR:μου" morph="robinson:P-1GS" src="15">my</w>
+<w lemma="strong:G3588 strong:G1199 lemma.TR:τοις lemma.TR:δεσμοις" morph="robinson:T-DPM robinson:N-DPM" src="13 14" type="x-split-3073">bonds</w>:
+
+$$$Philippians 1:17
+<w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">But</w>
+<w lemma="strong:G3588 lemma.TR:οι" morph="robinson:T-NPM" src="1">the other</w>
+<w lemma="strong:G1537 lemma.TR:εξ" morph="robinson:PREP" src="3">of</w>
+<w lemma="strong:G26 lemma.TR:αγαπης" morph="robinson:N-GSF" src="4">love</w>, <w lemma="strong:G1492 lemma.TR:ειδοτες" morph="robinson:V-RAP-NPM" src="5">knowing</w>
+<w lemma="strong:G3754 lemma.TR:οτι" morph="robinson:CONJ" src="6">that</w>
+<w lemma="strong:G2749 lemma.TR:κειμαι" morph="robinson:V-PNI-1S" src="11">I am set</w>
+<w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="7">for</w>
+<w lemma="strong:G627 lemma.TR:απολογιαν" morph="robinson:N-ASF" src="8">the defence</w>
+<w lemma="strong:G3588 strong:G2098 lemma.TR:του lemma.TR:ευαγγελιου" morph="robinson:T-GSN robinson:N-GSN" src="9 10">of the gospel</w>.
+
+$$$Philippians 1:18
+<w lemma="strong:G5101 lemma.TR:τι" morph="robinson:I-NSN" src="1">What</w>
+<w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">then</w>? <w lemma="strong:G4133 lemma.TR:πλην" morph="robinson:ADV" src="3">notwithstanding</w>, <w lemma="strong:G3956 lemma.TR:παντι" morph="robinson:A-DSM" src="4">every</w>
+<w lemma="strong:G5158 lemma.TR:τροπω" morph="robinson:N-DSM" src="5">way</w>, <w lemma="strong:G1535 lemma.TR:ειτε" morph="robinson:CONJ" src="6">whether</w>
+<w lemma="strong:G4392 lemma.TR:προφασει" morph="robinson:N-DSF" src="7">in pretence</w>, <w lemma="strong:G1535 lemma.TR:ειτε" morph="robinson:CONJ" src="8">or</w>
+<w lemma="strong:G225 lemma.TR:αληθεια" morph="robinson:N-DSF" src="9">in truth</w>, <w lemma="strong:G5547 lemma.TR:χριστος" morph="robinson:N-NSM" src="10">Christ</w>
+<w lemma="strong:G2605 lemma.TR:καταγγελλεται" morph="robinson:V-PPI-3S" src="11">is preached</w>; <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="12">and</w>
+<w lemma="strong:G5463 lemma.TR:χαιρω" morph="robinson:V-PAI-1S" src="15" type="x-split-3074">I</w>
+<w lemma="strong:G1722 strong:G5129 lemma.TR:εν lemma.TR:τουτω" morph="robinson:PREP robinson:D-DSN" src="13 14">therein</w>
+<w lemma="strong:G5463 lemma.TR:χαιρω" morph="robinson:V-PAI-1S" src="15" type="x-split-3074">do rejoice</w>, <w lemma="strong:G235 lemma.TR:αλλα" morph="robinson:CONJ" src="16">yea</w>, <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="17">and</w>
+<w lemma="strong:G5463 lemma.TR:χαρησομαι" morph="robinson:V-2FOI-1S" src="18">will rejoice</w>.
+
+$$$Philippians 1:19
+<w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">For</w>
+<w lemma="strong:G1492 lemma.TR:οιδα" morph="robinson:V-RAI-1S" src="1">I know</w>
+<w lemma="strong:G3754 lemma.TR:οτι" morph="robinson:CONJ" src="3">that</w>
+<w lemma="strong:G5124 lemma.TR:τουτο" morph="robinson:D-NSN" src="4">this</w>
+<w lemma="strong:G576 lemma.TR:αποβησεται" morph="robinson:V-FDI-3S" src="6">shall turn</w>
+<w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="7">to</w>
+<w lemma="strong:G3427 lemma.TR:μοι" morph="robinson:P-1DS" src="5">my</w>
+<w lemma="strong:G4991 lemma.TR:σωτηριαν" morph="robinson:N-ASF" src="8">salvation</w>
+<w lemma="strong:G1223 lemma.TR:δια" morph="robinson:PREP" src="9">through</w>
+<w lemma="strong:G5216 lemma.TR:υμων" morph="robinson:P-2GP" src="11">your</w>
+<w lemma="strong:G1162 lemma.TR:δεησεως" morph="robinson:N-GSF" src="12">prayer</w>, <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="13">and</w>
+<w lemma="strong:G2024 lemma.TR:επιχορηγιας" morph="robinson:N-GSF" src="14">the supply</w>
+<w lemma="strong:G3588 strong:G4151 lemma.TR:του lemma.TR:πνευματος" morph="robinson:T-GSN robinson:N-GSN" src="15 16">of the Spirit</w>
+<w lemma="strong:G2424 lemma.TR:ιησου" morph="robinson:N-GSM" src="17">of Jesus</w>
+<w lemma="strong:G5547 lemma.TR:χριστου" morph="robinson:N-GSM" src="18">Christ</w>,<w lemma="strong:G3588 lemma.TR:της" morph="robinson:T-GSF" src="10"/>
+
+$$$Philippians 1:20
+<w lemma="strong:G2596 lemma.TR:κατα" morph="robinson:PREP" src="1">According to</w>
+<w lemma="strong:G3450 lemma.TR:μου" morph="robinson:P-1GS" src="6">my</w>
+<w lemma="strong:G3588 strong:G603 lemma.TR:την lemma.TR:αποκαραδοκιαν" morph="robinson:T-ASF robinson:N-ASF" src="2 3">earnest expectation</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="4">and</w>
+<transChange type="added">my</transChange> <w lemma="strong:G1680 lemma.TR:ελπιδα" morph="robinson:N-ASF" src="5">hope</w>, <w lemma="strong:G3754 lemma.TR:οτι" morph="robinson:CONJ" src="7">that</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="8">in</w>
+<w lemma="strong:G3762 lemma.TR:ουδενι" morph="robinson:A-DSN" src="9">nothing</w>
+<w lemma="strong:G153 lemma.TR:αισχυνθησομαι" morph="robinson:V-FPI-1S" src="10">I shall be ashamed</w>, <w lemma="strong:G235 lemma.TR:αλλ" morph="robinson:CONJ" src="11">but</w>
+<transChange type="added">that</transChange> <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="12">with</w>
+<w lemma="strong:G3956 lemma.TR:παση" morph="robinson:A-DSF" src="13">all</w>
+<w lemma="strong:G3954 lemma.TR:παρρησια" morph="robinson:N-DSF" src="14">boldness</w>, <w lemma="strong:G5613 lemma.TR:ως" morph="robinson:ADV" src="15">as</w>
+<w lemma="strong:G3842 lemma.TR:παντοτε" morph="robinson:ADV" src="16">always</w>, <transChange type="added">so</transChange> <w lemma="strong:G3568 lemma.TR:νυν" morph="robinson:ADV" src="18">now</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="17">also</w>
+<w lemma="strong:G5547 lemma.TR:χριστος" morph="robinson:N-NSM" src="20">Christ</w>
+<w lemma="strong:G3170 lemma.TR:μεγαλυνθησεται" morph="robinson:V-FPI-3S" src="19">shall be magnified</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="21">in</w>
+<w lemma="strong:G3450 lemma.TR:μου" morph="robinson:P-1GS" src="24">my</w>
+<w lemma="strong:G3588 strong:G4983 lemma.TR:τω lemma.TR:σωματι" morph="robinson:T-DSN robinson:N-DSN" src="22 23">body</w>, <w lemma="strong:G1535 lemma.TR:ειτε" morph="robinson:CONJ" src="25">whether</w>
+<transChange type="added">it be</transChange> <w lemma="strong:G1223 lemma.TR:δια" morph="robinson:PREP" src="26">by</w>
+<w lemma="strong:G2222 lemma.TR:ζωης" morph="robinson:N-GSF" src="27">life</w>, <w lemma="strong:G1535 lemma.TR:ειτε" morph="robinson:CONJ" src="28">or</w>
+<w lemma="strong:G1223 lemma.TR:δια" morph="robinson:PREP" src="29">by</w>
+<w lemma="strong:G2288 lemma.TR:θανατου" morph="robinson:N-GSM" src="30">death</w>.
+
+$$$Philippians 1:21
+<w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">For</w>
+<w lemma="strong:G1698 lemma.TR:εμοι" morph="robinson:P-1DS" src="1">to me</w>
+<w lemma="strong:G2198 lemma.TR:ζην" morph="robinson:V-PAN" src="4">to live</w>
+<transChange type="added">is</transChange> <w lemma="strong:G5547 lemma.TR:χριστος" morph="robinson:N-NSM" src="5">Christ</w>, <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="6">and</w>
+<w lemma="strong:G599 lemma.TR:αποθανειν" morph="robinson:V-2AAN" src="8">to die</w>
+<transChange type="added">is</transChange> <w lemma="strong:G2771 lemma.TR:κερδος" morph="robinson:N-NSN" src="9">gain</w>.<w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-NSN" src="3"/><w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-NSN" src="7"/>
+
+$$$Philippians 1:22
+<w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">But</w>
+<w lemma="strong:G1487 lemma.TR:ει" morph="robinson:COND" src="1">if</w>
+<w lemma="strong:G2198 lemma.TR:ζην" morph="robinson:V-PAN" src="4">I live</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="5">in</w>
+<w lemma="strong:G4561 lemma.TR:σαρκι" morph="robinson:N-DSF" src="6">the flesh</w>, <w lemma="strong:G5124 lemma.TR:τουτο" morph="robinson:D-NSN" src="7">this</w>
+<transChange type="added">is</transChange> <w lemma="strong:G2590 lemma.TR:καρπος" morph="robinson:N-NSM" src="9">the fruit</w>
+<w lemma="strong:G2041 lemma.TR:εργου" morph="robinson:N-GSN" src="10" type="x-split-3075">of</w>
+<w lemma="strong:G3427 lemma.TR:μοι" morph="robinson:P-1DS" src="8">my</w>
+<w lemma="strong:G2041 lemma.TR:εργου" morph="robinson:N-GSN" src="10" type="x-split-3075">labour</w>: <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="11">yet</w>
+<w lemma="strong:G5101 lemma.TR:τι" morph="robinson:I-ASN" src="12">what</w>
+<w lemma="strong:G138 lemma.TR:αιρησομαι" morph="robinson:V-FMI-1S" src="13">I shall choose</w>
+<w lemma="strong:G1107 lemma.TR:γνωριζω" morph="robinson:V-PAI-1S" src="15">I wot</w>
+<w lemma="strong:G3756 lemma.TR:ου" morph="robinson:PRT-N" src="14">not</w>.<w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-NSN" src="3"/>
+
+$$$Philippians 1:23
+<w lemma="strong:G1063 lemma.TR:γαρ" morph="robinson:CONJ" src="2">For</w>
+<w lemma="strong:G4912 lemma.TR:συνεχομαι" morph="robinson:V-PPI-1S" src="1">I am in a strait</w>
+<w lemma="strong:G1537 lemma.TR:εκ" morph="robinson:PREP" src="3">betwixt</w>
+<w lemma="strong:G3588 strong:G1417 lemma.TR:των lemma.TR:δυο" morph="robinson:T-GPN robinson:A-NUI" src="4 5">two</w>, <w lemma="strong:G2192 lemma.TR:εχων" morph="robinson:V-PAP-NSM" src="8">having</w>
+<w lemma="strong:G3588 strong:G1939 lemma.TR:την lemma.TR:επιθυμιαν" morph="robinson:T-ASF robinson:N-ASF" src="6 7">a desire</w>
+<w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="9">to</w>
+<w lemma="strong:G360 lemma.TR:αναλυσαι" morph="robinson:V-AAN" src="11">depart</w>, <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="12">and</w>
+<w lemma="strong:G1511 lemma.TR:ειναι" morph="robinson:V-PXN" src="15">to be</w>
+<w lemma="strong:G4862 lemma.TR:συν" morph="robinson:PREP" src="13">with</w>
+<w lemma="strong:G5547 lemma.TR:χριστω" morph="robinson:N-DSM" src="14">Christ</w>; <w lemma="strong:G4183 lemma.TR:πολλω" morph="robinson:A-DSN" src="16">which is</w>
+<w lemma="strong:G3123 lemma.TR:μαλλον" morph="robinson:ADV" src="17">far</w>
+<w lemma="strong:G2908 lemma.TR:κρεισσον" morph="robinson:A-NSN" src="18">better</w>:<w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-ASN" src="10"/>
+
+$$$Philippians 1:24
+<w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="2">Nevertheless</w>
+<w lemma="strong:G1961 lemma.TR:επιμενειν" morph="robinson:V-PAN" src="3">to abide</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="4">in</w>
+<w lemma="strong:G3588 strong:G4561 lemma.TR:τη lemma.TR:σαρκι" morph="robinson:T-DSF robinson:N-DSF" src="5 6">the flesh</w>
+<transChange type="added">is</transChange> <w lemma="strong:G316 lemma.TR:αναγκαιοτερον" morph="robinson:A-NSN-C" src="7">more needful</w>
+<w lemma="strong:G1223 lemma.TR:δι" morph="robinson:PREP" src="8">for</w>
+<w lemma="strong:G5209 lemma.TR:υμας" morph="robinson:P-2AP" src="9">you</w>.<w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-NSN" src="1"/>
+
+$$$Philippians 1:25
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="1">And</w>
+<w lemma="strong:G3982 lemma.TR:πεποιθως" morph="robinson:V-2RAP-NSM" src="3" type="x-split-3076">having</w>
+<w lemma="strong:G5124 lemma.TR:τουτο" morph="robinson:D-ASN" src="2">this</w>
+<w lemma="strong:G3982 lemma.TR:πεποιθως" morph="robinson:V-2RAP-NSM" src="3" type="x-split-3076">confidence</w>, <w lemma="strong:G1492 lemma.TR:οιδα" morph="robinson:V-RAI-1S" src="4">I know</w>
+<w lemma="strong:G3754 lemma.TR:οτι" morph="robinson:CONJ" src="5">that</w>
+<w lemma="strong:G3306 lemma.TR:μενω" morph="robinson:V-FAI-1S" src="6">I shall abide</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="7">and</w>
+<w lemma="strong:G4839 lemma.TR:συμπαραμενω" morph="robinson:V-FAI-1S" src="8">continue with</w>
+<w lemma="strong:G5213 lemma.TR:υμιν" morph="robinson:P-2DP" src="10">you</w>
+<w lemma="strong:G3956 lemma.TR:πασιν" morph="robinson:A-DPM" src="9">all</w>
+<w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="11">for</w>
+<w lemma="strong:G5216 lemma.TR:υμων" morph="robinson:P-2GP" src="13">your</w>
+<w lemma="strong:G4297 lemma.TR:προκοπην" morph="robinson:N-ASF" src="14">furtherance</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="15">and</w>
+<w lemma="strong:G5479 lemma.TR:χαραν" morph="robinson:N-ASF" src="16">joy</w>
+<w lemma="strong:G3588 strong:G4102 lemma.TR:της lemma.TR:πιστεως" morph="robinson:T-GSF robinson:N-GSF" src="17 18">of faith</w>;<w lemma="strong:G3588 lemma.TR:την" morph="robinson:T-ASF" src="12"/>
+
+$$$Philippians 1:26
+<w lemma="strong:G2443 lemma.TR:ινα" morph="robinson:CONJ" src="1">That</w>
+<w lemma="strong:G5216 lemma.TR:υμων" morph="robinson:P-2GP" src="4">your</w>
+<w lemma="strong:G3588 strong:G2745 lemma.TR:το lemma.TR:καυχημα" morph="robinson:T-NSN robinson:N-NSN" src="2 3">rejoicing</w>
+<w lemma="strong:G4052 lemma.TR:περισσευη" morph="robinson:V-PAS-3S" src="5">may be more abundant</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="6">in</w>
+<w lemma="strong:G2424 lemma.TR:ιησου" morph="robinson:N-DSM" src="8">Jesus</w>
+<w lemma="strong:G5547 lemma.TR:χριστω" morph="robinson:N-DSM" src="7">Christ</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="9">for</w>
+<w lemma="strong:G1698 lemma.TR:εμοι" morph="robinson:P-1DS" src="10">me</w>
+<w lemma="strong:G1223 lemma.TR:δια" morph="robinson:PREP" src="11">by</w>
+<w lemma="strong:G1699 lemma.TR:εμης" morph="robinson:S-1GSF" src="13">my</w>
+<w lemma="strong:G3952 lemma.TR:παρουσιας" morph="robinson:N-GSF" src="14">coming</w>
+<w lemma="strong:G4314 lemma.TR:προς" morph="robinson:PREP" src="16">to</w>
+<w lemma="strong:G5209 lemma.TR:υμας" morph="robinson:P-2AP" src="17">you</w>
+<w lemma="strong:G3825 lemma.TR:παλιν" morph="robinson:ADV" src="15">again</w>.<w lemma="strong:G3588 lemma.TR:της" morph="robinson:T-GSF" src="12"/>
+
+$$$Philippians 1:27
+<w lemma="strong:G3440 lemma.TR:μονον" morph="robinson:ADV" src="1">Only</w>
+<w lemma="strong:G4176 lemma.TR:πολιτευεσθε" morph="robinson:V-PNM-2P" src="7">let your conversation be</w>
+<w lemma="strong:G516 lemma.TR:αξιως" morph="robinson:ADV" src="2">as it becometh</w>
+<w lemma="strong:G3588 strong:G2098 lemma.TR:του lemma.TR:ευαγγελιου" morph="robinson:T-GSN robinson:N-GSN" src="3 4">the gospel</w>
+<w lemma="strong:G3588 strong:G5547 lemma.TR:του lemma.TR:χριστου" morph="robinson:T-GSM robinson:N-GSM" src="5 6">of Christ</w>: <w lemma="strong:G2443 lemma.TR:ινα" morph="robinson:CONJ" src="8">that</w>
+<w lemma="strong:G1535 lemma.TR:ειτε" morph="robinson:CONJ" src="9">whether</w>
+<w lemma="strong:G2064 lemma.TR:ελθων" morph="robinson:V-2AAP-NSM" src="10">I come</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="11">and</w>
+<w lemma="strong:G1492 lemma.TR:ιδων" morph="robinson:V-2AAP-NSM" src="12">see</w>
+<w lemma="strong:G5209 lemma.TR:υμας" morph="robinson:P-2AP" src="13">you</w>, <w lemma="strong:G1535 lemma.TR:ειτε" morph="robinson:CONJ" src="14">or else</w>
+<w lemma="strong:G548 lemma.TR:απων" morph="robinson:V-PXP-NSM" src="15">be absent</w>, <w lemma="strong:G191 lemma.TR:ακουσω" morph="robinson:V-AAS-1S" src="16">I may hear</w>
+<w lemma="strong:G5216 lemma.TR:υμων" morph="robinson:P-2GP" src="19">of your</w>
+<w lemma="strong:G3588 lemma.TR:τα" morph="robinson:T-APN" src="17"/><w lemma="strong:G4012 lemma.TR:περι" morph="robinson:PREP" src="18">affairs</w>, <w lemma="strong:G3754 lemma.TR:οτι" morph="robinson:CONJ" src="20">that</w>
+<w lemma="strong:G4739 lemma.TR:στηκετε" morph="robinson:V-PAI-2P" src="21">ye stand fast</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="22">in</w>
+<w lemma="strong:G1520 lemma.TR:ενι" morph="robinson:A-DSN" src="23">one</w>
+<w lemma="strong:G4151 lemma.TR:πνευματι" morph="robinson:N-DSN" src="24">spirit</w>, <w lemma="strong:G5590 lemma.TR:ψυχη" morph="robinson:N-DSF" src="26" type="x-split-3077">with</w>
+<w lemma="strong:G1520 lemma.TR:μια" morph="robinson:A-DSF" src="25">one</w>
+<w lemma="strong:G5590 lemma.TR:ψυχη" morph="robinson:N-DSF" src="26" type="x-split-3077">mind</w>
+<w lemma="strong:G4866 lemma.TR:συναθλουντες" morph="robinson:V-PAP-NPM" src="27">striving together</w>
+<w lemma="strong:G3588 strong:G4102 lemma.TR:τη lemma.TR:πιστει" morph="robinson:T-DSF robinson:N-DSF" src="28 29">for the faith</w>
+<w lemma="strong:G3588 strong:G2098 lemma.TR:του lemma.TR:ευαγγελιου" morph="robinson:T-GSN robinson:N-GSN" src="30 31">of the gospel</w>;
+
+$$$Philippians 1:28
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="1">And</w>
+<w lemma="strong:G3361 lemma.TR:μη" morph="robinson:PRT-N" src="2"/><w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="4">in</w>
+<w lemma="strong:G3367 lemma.TR:μηδενι" morph="robinson:A-DSN" src="5">nothing</w>
+<w lemma="strong:G4426 lemma.TR:πτυρομενοι" morph="robinson:V-PPP-NPM" src="3">terrified</w>
+<w lemma="strong:G5259 lemma.TR:υπο" morph="robinson:PREP" src="6">by</w>
+<w lemma="strong:G480 lemma.TR:αντικειμενων" morph="robinson:V-PNP-GPM" src="8">your adversaries</w>: <w lemma="strong:G3748 lemma.TR:ητις" morph="robinson:R-NSF" src="9">which</w>
+<w lemma="strong:G3303 lemma.TR:μεν" morph="robinson:PRT" src="11"/><w lemma="strong:G2076 lemma.TR:εστιν" morph="robinson:V-PXI-3S" src="12">is</w>
+<w lemma="strong:G846 lemma.TR:αυτοις" morph="robinson:P-DPM" src="10">to them</w>
+<w lemma="strong:G1732 lemma.TR:ενδειξις" morph="robinson:N-NSF" src="13">an evident token</w>
+<w lemma="strong:G684 lemma.TR:απωλειας" morph="robinson:N-GSF" src="14">of perdition</w>, <w lemma="strong:G1161 lemma.TR:δε" morph="robinson:CONJ" src="16">but</w>
+<w lemma="strong:G5213 lemma.TR:υμιν" morph="robinson:P-2DP" src="15">to you</w>
+<w lemma="strong:G4991 lemma.TR:σωτηριας" morph="robinson:N-GSF" src="17">of salvation</w>, <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="18">and</w>
+<w lemma="strong:G5124 lemma.TR:τουτο" morph="robinson:D-NSN" src="19">that</w>
+<w lemma="strong:G575 lemma.TR:απο" morph="robinson:PREP" src="20">of</w>
+<w lemma="strong:G2316 lemma.TR:θεου" morph="robinson:N-GSM" src="21">God</w>.<w lemma="strong:G3588 lemma.TR:των" morph="robinson:T-GPM" src="7"/>
+
+$$$Philippians 1:29
+<w lemma="strong:G3754 lemma.TR:οτι" morph="robinson:CONJ" src="1">For</w>
+<w lemma="strong:G5213 lemma.TR:υμιν" morph="robinson:P-2DP" src="2">unto you</w>
+<w lemma="strong:G5483 lemma.TR:εχαρισθη" morph="robinson:V-API-3S" src="3">it is given</w>
+<w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-ASN" src="4"/><w lemma="strong:G5228 lemma.TR:υπερ" morph="robinson:PREP" src="5">in the behalf</w>
+<w lemma="strong:G5547 lemma.TR:χριστου" morph="robinson:N-GSM" src="6">of Christ</w>, <w lemma="strong:G3756 lemma.TR:ου" morph="robinson:PRT-N" src="7">not</w>
+<w lemma="strong:G3440 lemma.TR:μονον" morph="robinson:ADV" src="8">only</w>
+<w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-ASN" src="9"/><w lemma="strong:G4100 lemma.TR:πιστευειν" morph="robinson:V-PAN" src="12">to believe</w>
+<w lemma="strong:G1519 lemma.TR:εις" morph="robinson:PREP" src="10">on</w>
+<w lemma="strong:G846 lemma.TR:αυτον" morph="robinson:P-ASM" src="11">him</w>, <w lemma="strong:G235 lemma.TR:αλλα" morph="robinson:CONJ" src="13">but</w>
+<w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="14">also</w>
+<w lemma="strong:G3588 lemma.TR:το" morph="robinson:T-ASN" src="15"/><w lemma="strong:G3958 lemma.TR:πασχειν" morph="robinson:V-PAN" src="18">to suffer</w>
+<w lemma="strong:G5228 lemma.TR:υπερ" morph="robinson:PREP" src="16" type="x-split-3078">for</w>
+<w lemma="strong:G846 lemma.TR:αυτου" morph="robinson:P-GSM" src="17">his</w>
+<w lemma="strong:G5228 lemma.TR:υπερ" morph="robinson:PREP" src="16" type="x-split-3078">sake</w>;
+
+$$$Philippians 1:30
+<w lemma="strong:G2192 lemma.TR:εχοντες" morph="robinson:V-PAP-NPM" src="4">Having</w>
+<w lemma="strong:G3588 strong:G73 lemma.TR:τον lemma.TR:αγωνα" morph="robinson:T-ASM robinson:N-ASM" src="1 3" type="x-split-3079">the</w>
+<w lemma="strong:G846 lemma.TR:αυτον" morph="robinson:P-ASM" src="2">same</w>
+<w lemma="strong:G3588 strong:G73 lemma.TR:τον lemma.TR:αγωνα" morph="robinson:T-ASM robinson:N-ASM" src="1 3" type="x-split-3079">conflict</w>
+<w lemma="strong:G3634 lemma.TR:οιον" morph="robinson:K-ASM" src="5">which</w>
+<w lemma="strong:G1492 lemma.TR:ειδετε" morph="robinson:V-2AAI-2P" src="6">ye saw</w>
+<w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="7">in</w>
+<w lemma="strong:G1698 lemma.TR:εμοι" morph="robinson:P-1DS" src="8">me</w>, <w lemma="strong:G2532 lemma.TR:και" morph="robinson:CONJ" src="9">and</w>
+<w lemma="strong:G3568 lemma.TR:νυν" morph="robinson:ADV" src="10">now</w>
+<w lemma="strong:G191 lemma.TR:ακουετε" morph="robinson:V-PAI-2P" src="11">hear</w>
+<transChange type="added">to be</transChange> <w lemma="strong:G1722 lemma.TR:εν" morph="robinson:PREP" src="12">in</w>
+<w lemma="strong:G1698 lemma.TR:εμοι" morph="robinson:P-1DS" src="13">me</w>. <chapter chapterTitle="CHAPTER 1." eID="gen1800" osisID="Phil.1"/>
+
