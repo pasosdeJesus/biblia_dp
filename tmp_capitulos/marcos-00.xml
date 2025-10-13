@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Traducción de dominio público abierta a mejoras.
+No es traducción oficial.  Sin garantias.
+Ver detalles de liberación al dominio público de acuerdo a la legislación
+colombiana en http://www.pasosdejesus.org/dominio_publico_colombia.html
+Busque actualizaciones en
+http://traduccion.pasosdeJesus.org
+Puede ayudar a mejorarla
+http://groups.yahoo.com/group/evangelios-dp
+ΑΒΓ...α
+
+Se incluye versión en inglés a partir de la cual se
+inició la traducción.  http://www.ebible.org
+-->
+
+<sb id="Marcos" type="" xml:lang="en">
+<tt>The Good News According to Mark
+<t xml:lang="es">Buena Nueva de acuerdo a Marcos</t>
+<!-- <rb xml:lang="es"><rf xml:lang="es">De acuerdo a <citebib id="DieBibel"/>, este
+es el evangelio más antiguo, fue escrito en griego por Juan Marco de
+Jerusalén, hijo de una María, en cuya casa se reunian los creyentes de
+Jerusalén; fue primo de Barnabas, trabajador de Pablo y después de Pedro
+(Filem 24; Col 4,10; Apostoles 12,12; 13,5; 16,36-39; 1 Pedr 5,13). Con
+tradiciones de la iglesía inicial escribió su Evangelio en Roma.
+Aparece al tiempo con la destrucción de Jerusalén (Mr 13) aproximadamente
+en el 70 después de Cristo.</rf></rb> -->
+
+</tt>
+<credits version="0.9.2" xml:lang="es">
+We give thanks to God. Translation based on <citebib id="WEB"/>.
+The names in spanish has been taken from <citebib id="SE"/>.
+Some changes in the translation (referenced in footnotes) are
+based on
+<citebib id="DieBibel"/>, <citebib id="DiosHablaHoy"/> y
+<citebib id="Peshitta"/>.  y <citebib id="TR-BLB"/>.
+We have
+included and give priority to Strong concordances of
+<citebib id="KJV2003"/> (which are based on <citebib id="TR"/>).
+<t xml:lang="es">Damos gracias a Dios.
+Traducción basada en <citebib id="WEB"/>.
+Los nombres a español han sido tomados de <citebib id="DiosHablaHoy"/>.
+Algunos cambios en la traducción  (anotados en pies de página) se
+basan en
+<citebib id="DieBibel"/>, <citebib id="DiosHablaHoy"/> y
+<citebib id="Peshitta"/>.  y <citebib id="TR-BLB"/>.
+Se han incluido
+y priorizado las concordancias Strong de <citebib id="KJV2003"/> (que
+a su vez se basan en <citebib id="TR"/>).
+</t>
+Up to now the following people have helped by translating to spanish,
+comparing or correcting:  Melissa Giraldo y Vladimir Támara Patiño, con
+sugerencias de Oscar Daniel Duarte.
+<t xml:lang="es">
+Hasta el momento han colaborado traduciendo a español, comparando
+y corrigiendo: Melissa Giraldo y Vladimir Támara y con sugerencias:
+Oscar Daniel Duarte.
+</t>
+</credits>
+

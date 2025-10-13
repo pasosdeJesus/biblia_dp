@@ -1,0 +1,740 @@
+<sc id="Lucas-3">
+<cm>
+<sv id="Lucas-3-1">
+Now in the fifteenth year of the reign of Tiberius Caesar, Pontius
+Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his
+brother Philip tetrarch of the region of Ituraea and Trachonitis, and
+Lysanias tetrarch of Abilene,
+<t xml:lang="es"><wi type="G" value="1161,3,">Entonces</wi>
+<wi type="G" value="1722,1,">en</wi>
+<wi type="G" value="4003,4,">el decimoquinto</wi>
+<wi type="G" value="2094,2,">año</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2231,6,">del reinado</wi></wi>
+<wi type="G" value="2541,8,">del Cesar</wi>
+<wi type="G" value="5086,7,">Tiberio</wi>,
+<wi type="G" value="2230,9,">siendo</wi>
+<wi type="G" value="4194,10,">Poncio</wi>
+<wi type="G" value="4091,11,">Pilato</wi>
+<wi type="GC" value="9">gobernador</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2449,13,">de Judea</wi></wi>,
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="2264,18,">Herodes</wi>
+<wi type="G" value="5075,15,">siendo tetrarca</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="1056,17,">de Galilea</wi></wi>,
+<wi type="G" value="1161,20,">y</wi>
+<wi type="G" value="846,23,">su</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="80,22,">hermano</wi></wi>
+<wi type="G" value="5376,19,">Felipe</wi>
+<wi type="G" value="3588,25,"/><wi type="G" value="5075,24,">tetrarca</wi>
+<wi type="G" value="2484,26,">de Iturea</wi>
+<wi type="G" value="2532,27,">y</wi>
+<wi type="G" value="5561,29,">de la región</wi>
+<wi type="G" value="5139,28,">de Traconite</wi>
+<wi type="G" value="2532,30,">y</wi>
+<wi type="G" value="3078,31,">Lisanias</wi>
+<wi type="G" value="5075,34,">tetrarca</wi>
+<wi type="G" value="3588,32,"><wi type="G" value="9,33,">de Abilinia</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-2">
+in the high priesthood of Annas and
+Caiaphas, the word of God came to John, the son of Zacharias, in the
+wilderness.
+<t xml:lang="es">
+<wi type="G" value="1909,1,">siendo</wi>
+<wi type="G" value="749,2,">los sumos sacerdotes</wi>
+<wi type="G" value="452,3,">Anás</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="2533,5,">Caifás</wi>,
+<wi type="G" value="4487,7,">la palabra</wi>
+<wi type="G" value="2316,8,">de Dios</wi>
+<wi type="G" value="1096,6,">llego</wi>
+<wi type="G" value="1909,9,">a</wi>
+<wi type="G" value="2491,10,">Juan</wi>,
+<wi type="G" value="5207,14,">el hijo</wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="3588,12,"><wi type="G" value="2197,13,">de Zacarías</wi></wi>,
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="2048,17,">el desierto</wi>. </t>
+</sv>
+<sv id="Lucas-3-3">
+He came into all the region around the Jordan, preaching the
+baptism of repentance for remission of sins.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="2064,2,">fue</wi>
+<wi type="G" value="1519,3,">a</wi>
+<wi type="G" value="3956,4,">todas</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="4066,6,">las regiones alrededor</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="2446,8,">del Jordán</wi></wi>,
+<wi type="G" value="2784,9,">predicando</wi>
+<wi type="G" value="908,10,">el bautismo</wi>
+<wi type="G" value="3341,11,">de arrepentimiento</wi>
+<wi type="G" value="1519,12,">para</wi>
+<wi type="G" value="859,13,">el perdón</wi>
+<wi type="G" value="266,14,">de los pecados</wi>. </t>
+</sv>
+<sv id="Lucas-3-4">
+As it is written in the
+book of the words of Isaiah the prophet,
+<t xml:lang="es"><wi type="G" value="5613,1,">Como</wi>
+<wi type="G" value="1125,2,">está escrito</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="976,4,">el libro</wi>
+<wi type="G" value="3056,5,">de las palabras</wi>
+<wi type="G" value="2268,6,">de Isaías</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="4396,8,">el profeta</wi></wi>,
+que <wi type="G" value="3004,9,">dice</wi> </t>
+<fp>
+«The voice of one crying in the wilderness,
+<t xml:lang="es">«</t>
+<rb xml:lang="es"><wi type="G" value="5456,10,">La voz</wi>
+<wi type="G" value="994,11,">clamada</wi><rf><citebib id="WEB"/> dice `La
+voz de uno gritando en el desierto,´ <citebib id="Peshitta"/>,
+<citebib id="DiosHablaHoy"/> dice `Una voz grita,´
+<citebib id="RV1960"/> dice `Voz del que clama.'
+En <citebib id="TR-BLB"/> dice `Φωνὴ βοῶντος' la primera es el sustantivo
+nominativo, singular, femenino voz; la segunda es el verbo gritar, hablar
+con voz fuerte, implorar ayuda conjugado,
+según morfología de <citebib id="TR-KJV2003"/> está en presente, voz activa,
+participio, genitivo, singular, masculino.
+</rf></rb>
+<t xml:lang="es"> <wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="2048,14,">el desierto</wi> </t>
+<cl/>
+`Make
+ ready the way of the Lord.
+<t xml:lang="es">¡<wi type="G" value="2090,15,">Preparen</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="3598,17,">el camino</wi></wi>
+<wi type="G" value="2962,18,">del Señor</wi>! </t>
+<cl/>
+Make his paths straight.
+<t xml:lang="es">¡<wi type="G" value="4160,20,">Hagan</wi>
+<wi type="G" value="2117,19,">rectos</wi>
+<wi type="G" value="846,23,">sus</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="5147,22,">caminos</wi></wi>! </t>
+<cl/>
+</fp></sv>
+<sv id="Lucas-3-5">
+Every valley will be filled.
+<t xml:lang="es"><wi type="G" value="3956,1,">Todo</wi>
+<wi type="G" value="5327,2,">valle</wi>
+<wi type="G" value="4137,3,">será llenado</wi>. </t>
+<cl/>
+Every mountain and hill will be brought low.
+<t xml:lang="es"><wi type="G" value="2532,4,">Y</wi> <wi type="G" value="3956,5,">toda</wi>
+<wi type="G" value="3735,6,">montaña</wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="1015,8,">colina</wi>
+<wi type="G" value="5013,9,">será aplanada</wi>. </t>
+<cl/>
+The crooked will become straight,
+<rb xml:lang="es"><wi type="G" value="2532,10,">Y</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="4646,13,">lo torcido</wi>
+<wi type="G" value="1519,14,"/><wi type="G" value="2071,11,"><wi type="G" value="2117,15,">se enderezará</wi></wi><rf><citebib id="DiosHablaHoy"/>
+dice `los caminos torcidos serán enderezados,´
+<citebib id="Peshitta"/> dice `lo abrupto se suavizará.´</rf></rb>
+<t xml:lang="es">, </t>
+<cl/>
+And the rough ways smooth.
+<rb xml:lang="es"><wi type="G" value="2532,16,">Y</wi>
+<wi type="G" value="3598,20,">los caminos</wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="5138,18,">abruptos</wi>
+<wi type="G" value="1519,19,"/><wi type="G" value="3006,21,">se nivelarán</wi><rf><citebib id="Peshitta"/>
+dice `y la tierra difícil se hará plana.´</rf></rb>
+<t xml:lang="es">. </t>
+
+</sv></cm><cm type="PO"><sv id="Lucas-3-6">
+All flesh will see God´s salvation.´»
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3956,3,">toda</wi>
+<wi type="G" value="4561,4,">carne</wi>
+<wi type="G" value="3700,2,">verá</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,5,"/><wi type="G" value="4992,6,">la salvación</wi><rf><citebib id="Peshitta"/>
+dice `vida,´ <citebib id="DieBibel"/> dice `santidad,´ <citebib id="WEB"/>
+y <citebib id="DiosHablaHoy"/> dicen `salvación,´
+de acuerdo a <citebib id="Thayer-BLB"/> la palabra griega
+`σωτήριος' puede traducirse como salvación o que trae salvación o
+esperanza en salvación.</rf></rb>
+<t xml:lang="es"> <wi type="G" value="3588,7,"><wi type="G" value="2316,8,">de Dios</wi></wi>.´» </t>
+</sv></cm>
+
+<cm><sv id="Lucas-3-7">
+He said therefore to the multitudes who went out to be baptized by him,
+«You offspring of vipers, who warned you to flee
+from the wrath to come?
+<t xml:lang="es"><wi type="G" value="3767,2,">Por tanto</wi>
+<wi type="G" value="3004,1,">le decía</wi>
+<wi type="G" value="3793,5,">a las multitudes</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="1607,4,">que iban</wi>
+<wi type="G" value="907,6,">a ser bautizadas</wi>
+<wi type="G" value="5259,7,">por</wi>
+<wi type="G" value="846,8,">él</wi>,
+«<wi type="G" value="1081,9,">Generación</wi>
+<wi type="G" value="2191,10,">de víboras</wi>,
+¿<wi type="G" value="5101,11,">Quién</wi>
+<wi type="G" value="5213,13,">les</wi>
+<wi type="G" value="5263,12,">ha dicho</wi>
+<wi type="G" value="5343,14,">que huyeran</wi>
+<wi type="G" value="575,15,">del</wi>
+<wi type="G" value="3709,18,">la ira</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="3195,17,">que vendrá</wi>?  </t>
+</sv>
+<sv id="Lucas-3-8">
+Bring forth therefore fruits worthy of repentance, and don´t begin to
+say among yourselves, `We have Abraham for our father;´ for I tell you that
+God is able to raise up children to Abraham from these stones!
+<t xml:lang="es"><wi type="G" value="3767,2,">Así que</wi>
+<wi type="G" value="4160,1,">traigan</wi>
+<wi type="G" value="2590,3,">frutos</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="3341,6,">de arrepentimiento</wi></wi>
+<wi type="G" value="514,4,">valederos</wi>,
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="3361,8,">no</wi>
+<wi type="G" value="756,9,">comiencen</wi>
+<wi type="G" value="3004,10,">a decir</wi>
+<wi type="G" value="1722,11,">entre</wi>
+<wi type="G" value="1438,12,">ustedes</wi>,
+`<wi type="G" value="2192,14,">Tenemos</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="11,16,">a Abraham</wi>
+<wi type="G" value="3962,13,">como padre</wi>';
+¡<wi type="G" value="1063,18,">porque</wi>
+<wi type="G" value="5213,19,">les</wi>
+<wi type="G" value="3004,17,">digo</wi>
+<wi type="G" value="3754,20,">que</wi>
+<wi type="G" value="3588,22,"><wi type="G" value="2316,23,">Dios</wi></wi>
+<wi type="G" value="1410,21,">puede</wi>
+<wi type="G" value="1453,28,">levantar</wi>
+<wi type="G" value="5043,29,">hijos</wi>
+<wi type="G" value="3588,30,"/><wi type="G" value="11,31,">de Abraham</wi>
+<wi type="G" value="1537,24,">de</wi>
+<wi type="G" value="5130,27,">estas</wi>
+<wi type="G" value="3588,25,"><wi type="G" value="3037,26,">piedras</wi></wi>! </t>
+</sv>
+<sv id="Lucas-3-9">
+Even now
+the axe also lies at the root of the trees. Every tree therefore that doesn´t
+bring forth good fruit is cut down, and thrown into the fire.»
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="2235,1,">ahora</wi>
+<wi type="G" value="2532,3,">también</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="513,5,">el hacha</wi></wi>
+<wi type="G" value="2749,11,">está</wi>
+<wi type="G" value="4314,6,">en</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="4491,8,">la raíz</wi></wi>
+<wi type="G" value="3588,9,"><wi type="G" value="1186,10,">de los árboles</wi></wi>.
+<wi type="G" value="3767,13,">Por tanto</wi>,
+<wi type="G" value="3956,12,">todo</wi>
+<wi type="G" value="1186,14,">árbol</wi> que
+<wi type="G" value="3361,15,">no</wi>
+<wi type="G" value="4160,16,">de</wi>
+<wi type="G" value="2570,18,">buenos</wi>
+<wi type="G" value="2590,17,">frutos</wi>
+<wi type="G" value="1581,19,">será cortado</wi>,
+<wi type="G" value="2532,20,">y</wi>
+<wi type="G" value="906,23,">arrojado</wi>
+<wi type="G" value="1519,21,">al</wi>
+<wi type="G" value="4442,22,">fuego</wi>.» </t>
+
+</sv></cm><cm><sv id="Lucas-3-10">
+The multitudes asked him, «What then must we do?»
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="3793,5,">las multitudes</wi></wi>
+<wi type="G" value="846,3,">le</wi>
+<wi type="G" value="1905,2,">preguntaban</wi>
+<wi type="G" value="3004,6,">diciendo</wi>,
+«¿<wi type="G" value="5101,7,">Qué</wi>
+<wi type="G" value="4160,9,">debemos hacer</wi>
+<wi type="G" value="3767,8,">entonces</wi>?» </t>
+
+</sv></cm><cm><sv id="Lucas-3-11">
+He answered them, «He who has two coats, let him give to him who has
+none. He who has food, let him do likewise.»
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> él
+<wi type="G" value="846,4,">les</wi>
+<wi type="G" value="611,1,">contestaba</wi>
+<wi type="G" value="3004,3,">diciendo</wi>,
+«<wi type="G" value="3588,5,"/><wi type="G" value="2192,6,">Aquel que tenga</wi>
+<wi type="G" value="1417,7,">dos</wi>
+<wi type="G" value="5509,8,">cabras</wi>,
+<wi type="G" value="3330,9,">que le de</wi>
+al que <wi type="G" value="3588,10,"/><wi type="G" value="3361,11,">no</wi>
+<wi type="G" value="2192,12,">tiene</wi>.
+<wi type="G" value="2532,13,">Y</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="2192,15,">aquel que tenga</wi>
+<wi type="G" value="1033,16,">comida</wi>,
+<wi type="G" value="4160,18,">que haga</wi>
+<wi type="G" value="3668,17,">lo mismo</wi>.» </t>
+</sv></cm>
+
+<cm><sv id="Lucas-3-12">
+Tax collectors also came to be baptized, and they said to him,
+«Teacher, what must we do?»
+<t xml:lang="es"><wi type="G" value="1161,2,">Entonces</wi>
+<wi type="G" value="5057,4,">los recolectores de impuestos</wi>
+<wi type="G" value="2532,3,">también</wi>
+<wi type="G" value="2064,1,">vinieron</wi>
+<wi type="G" value="907,5,">a bautizarse</wi>,
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="4314,8,"/><wi type="G" value="846,9,">le</wi>
+<wi type="G" value="2036,7,">decían</wi>,
+«<wi type="G" value="1320,10,">Maestro</wi>,
+¿<wi type="G" value="5101,11,">Qué</wi>
+<wi type="G" value="4160,12,">debemos hacer</wi>?» </t>
+
+</sv></cm>
+<cm>
+<sv id="Lucas-3-13">
+He said to them, «Collect no more than that which is appointed to
+you.»
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi> él
+<wi type="G" value="4314,4,"/><wi type="G" value="846,5,">les</wi>
+<wi type="G" value="2036,3,">decía</wi>,
+«<wi type="G" value="3367,6,">No</wi>
+<wi type="G" value="4238,12,">cobren</wi>
+<wi type="G" value="4119,7,">más</wi>
+<wi type="G" value="3844,8,">de lo que</wi>
+<wi type="G" value="5213,11,">les</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="1299,10,">está establecido</wi>.» </t>
+</sv></cm>
+<cm><sv id="Lucas-3-14">
+Soldiers also asked him, saying, «What about us? What must we do?»
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="4754,5,">Unos soldados</wi>
+<wi type="G" value="2532,4,">también</wi>
+<wi type="G" value="846,3,">le</wi>
+<wi type="G" value="1905,1,">preguntaron</wi>
+<wi type="G" value="3004,6,">diciendo</wi>,
+«¿<wi type="G" value="2532,7,">Y</wi>
+<wi type="G" value="2249,8,">nosotros</wi>
+<wi type="G" value="5101,9,">qué</wi>
+<wi type="G" value="4160,10,">debemos hacer</wi>?» </t>
+He said to them, «Extort from no one by violence, neither accuse anyone
+wrongfully. Be content with your wages.»
+<t xml:lang="es"><wi type="G" value="2532,11,">Y</wi> él
+<wi type="G" value="4314,13,"><wi type="G" value="846,14,">les</wi></wi>
+<wi type="G" value="2036,12,">dijo</wi>,  «No
+<wi type="G" value="1286,16,">ejerzan violencia</wi> sobre
+<wi type="G" value="3367,15,">nadie</wi>,
+<wi type="G" value="3366,17,">ni</wi>
+<wi type="G" value="4811,18,">acusen falsamente</wi>.
+<wi type="G" value="2532,19,">Y</wi>
+<wi type="G" value="714,20,">estén contentos</wi> con
+<wi type="G" value="5216,23,">su</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="3800,22,">salario</wi></wi>.» </t>
+</sv></cm>
+<cm><sv id="Lucas-3-15">
+As the people were in expectation, and all men reasoned in their hearts
+concerning John, whether perhaps he was the Christ,
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2992,4,">como la gente</wi></wi>
+<wi type="G" value="4328,1,">estaba a la expectativa</wi>,
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="3956,7,">todas las personas</wi>
+<wi type="G" value="1260,6,">razonaban</wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="846,11,">sus</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="2588,10,">corazones</wi></wi>
+<wi type="G" value="4012,12,">acerca de</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="2491,14,">Juan</wi></wi>,
+<wi type="G" value="3379,15,">si quizás</wi>
+<wi type="G" value="846,16,">él</wi>
+<wi type="G" value="1498,17,">fuera</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="5547,19,">el Cristo</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-16">
+John answered them
+all, «I indeed baptize you with water, but he comes who is mightier than I,
+the latchet of whose sandals I am not worthy to loosen. He will baptize you
+in the Holy Spirit and fire,
+<t xml:lang="es"><wi type="G" value="3588,2,"><wi type="G" value="2491,3,">Juan</wi></wi> les
+<wi type="G" value="611,1,">contestaba</wi>
+<wi type="G" value="537,4,">a todos</wi>
+<wi type="G" value="3004,5,">diciendoles</wi>,
+«<wi type="G" value="1473,6,">Yo</wi>,
+<wi type="G" value="3303,7,">de hecho</wi>,
+<wi type="G" value="5209,10,">los</wi>
+<wi type="G" value="907,9,">bautizo</wi>
+<wi type="G" value="5204,8,">con agua</wi>,
+<wi type="G" value="1161,12,">pero</wi>
+<wi type="G" value="2064,11,">vendrá</wi>,
+<wi type="G" value="3588,13,"/><wi type="G" value="2478,14,">quien es más fuerte que</wi>
+<wi type="G" value="3450,15,">yo</wi>,
+a <wi type="G" value="3739,16,">quien</wi>
+<wi type="G" value="3756,17,">no</wi>
+<wi type="G" value="1510,18,">soy</wi>
+<wi type="G" value="2425,19,">digno</wi>
+<wi type="G" value="3089,20,">de amarrar</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="2438,22,">los cordones</wi></wi>
+<wi type="G" value="3588,23,"><wi type="G" value="5266,24,">de las sandalias</wi></wi>.
+<wi type="G" value="846,25,"/><wi type="G" value="846,26,">Él</wi>
+<wi type="G" value="5209,27,">los</wi>
+<wi type="G" value="907,28,">bautizará</wi>
+<wi type="G" value="1722,29,">con</wi>
+<wi type="G" value="4151,30,">el Espíritu</wi>
+<wi type="G" value="40,31,">Santo</wi>
+<wi type="G" value="2532,32,">y</wi>
+<wi type="G" value="4442,33,">fuego</wi>, </t>
+</sv>
+<sv id="Lucas-3-17">
+whose fan is in his hand, and he will
+thoroughly cleanse his threshing floor, and will gather the wheat into his
+barn; but he will burn up the chaff with unquenchable fire.»
+<t xml:lang="es"><wi type="G" value="3739,1,"/><wi type="G" value="3588,2,"><wi type="G" value="4425,3,">el rastrillo</wi></wi>
+está
+<wi type="G" value="1722,4,">en</wi>
+<wi type="G" value="846,7,">Su</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="5495,6,">mano</wi></wi>,
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="1245,9,">Él limpiará</wi>
+<wi type="G" value="846,12,">su</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="257,11,">piso</wi></wi>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="4863,14,">reunirá</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="4621,16,">el trigo</wi></wi>
+<wi type="G" value="1519,17,">en</wi>
+<wi type="G" value="846,20,">su</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="596,19,">granero</wi></wi>;
+<wi type="G" value="3588,21,"/><wi type="G" value="1161,22,">pero</wi>
+<wi type="G" value="2618,24,">quemará</wi>
+<wi type="G" value="892,23,">el bagazo</wi>
+<wi type="G" value="4442,25,">con fuego</wi>
+<wi type="G" value="762,26,">inextinguible</wi>.» </t>
+
+</sv></cm><cm><sv id="Lucas-3-18">
+Then with many other exhortations he preached good news to the people,
+<rb xml:lang="es"><wi type="G" value="3767,3,">Así</wi>
+<wi type="G" value="3303,2,"/><wi type="G" value="2532,4,">y</wi> con
+<wi type="G" value="4183,1,">muchas</wi>
+<wi type="G" value="2087,5,">otras</wi>
+<wi type="G" value="3870,6,">exhortaciones</wi>
+<wi type="G" value="2097,7,">predicaba</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2992,9,">a la gente</wi></wi><rf><citebib id="Peshitta"/> dice `también enseñaba
+muchas otras cosas y declaraba ante la gente,´ <citebib id="DieBibel"/>
+dice `Con estas y muchas otras palabras aconsejaba al pueblo
+en su predica,´ <citebib id="DiosHablaHoy"/> dice `de este modo y
+con muchos otros concejos, Juan anunciaba las buenas noticias a la
+gente.´</rf></rb>
+<t xml:lang="es">, </t>
+</sv>
+<sv id="Lucas-3-19">
+but Herod the tetrarch, being reproved by him for Herodias, his
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">pero</wi>
+<wi type="G" value="2264,3,">Herodes</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="5076,5,">el tetrarca</wi></wi>,
+<wi type="G" value="1651,6,">era reprobado</wi>
+<wi type="G" value="5259,7,">por</wi>
+<wi type="G" value="846,8,">él</wi>
+<wi type="G" value="4012,9,">a causa</wi>
+<wi type="G" value="2266,10,">de Herodías</wi>,
+<wi type="G" value="3588,11,"><wi type="G" value="1135,12,">la esposa</wi></wi>
+<wi type="G" value="846,16,">de su</wi> </t>
+<rb>brother´s
+<t xml:lang="es"><wi type="G" value="3588,14,"><wi type="G" value="80,15,">hermano</wi></wi> <wi type="G" value="5376,13,">Felipe</wi></t>
+<rf>TR reads «brother Philip´s instead of brother´s»
+<t xml:lang="es"><citebib id="TR"/>, <citebib id="DiosHablaHoy"/> y
+<citebib id="Peshitta"/> dicen `de su hermano Felipe,´ pero
+<citebib id="WEB"/> no dice `Felipe.'</t>
+</rf>
+</rb>
+wife, and for all the evil things which Herod had done,
+<t xml:lang="es"> <wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="4012,18,">por</wi>
+<wi type="G" value="3956,19,">todas</wi>
+<wi type="G" value="4190,22,">las cosas malas</wi>
+<wi type="G" value="3739,20,">que</wi>
+<wi type="G" value="4160,21,">había hecho</wi>
+<wi type="G" value="3588,23,"><wi type="G" value="2264,24,">Herodes</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-20">
+added this also to
+them all, that he shut up John in prison.
+<t xml:lang="es"><wi type="G" value="2532,2,">Y</wi> <wi type="G" value="4369,1,">agregando</wi> <wi type="G" value="5124,3,">esta</wi>
+<wi type="G" value="1909,4,">a</wi>
+<wi type="G" value="3956,5,">todas</wi>
+<wi type="G" value="2532,6,">que</wi>
+<wi type="G" value="2623,7,">encerró</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2491,9,">a Juan</wi></wi>
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="5438,12,">prisión</wi></wi>. </t>
+</sv>
+<sv id="Lucas-3-21">
+Now it happened, when all the
+people were baptized, Jesus also had been baptized, and was praying. The sky
+was opened,
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="1096,1,">sucedió</wi>
+<wi type="G" value="1722,3,">cuando</wi>
+<wi type="G" value="537,6,">todas</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="2992,8,">las personas</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="907,5,">eran bautizadas</wi>,
+<wi type="G" value="2424,10,">que Jesús</wi>
+<wi type="G" value="2532,9,">también</wi>
+<wi type="G" value="907,11,">fue bautizado</wi>. </t>
+<rb xml:lang="es"><wi type="G" value="2532,12,">Y</wi> mientras
+<wi type="G" value="4336,13,">oraba</wi><rf><citebib id="WEB"/> une `y oraba´ a la
+oración anterior.</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3588,15,"><wi type="G" value="3772,16,">el cielo</wi></wi>
+<wi type="G" value="455,14,">se abrió</wi>, </t>
+</sv>
+<sv id="Lucas-3-22">
+and the Holy Spirit descended in a bodily form as a dove on
+him; and a voice came out of the sky, saying «You are my beloved Son. In you
+I am well pleased.»
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="4151,4,">el Espíritu</wi></wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="40,6,">Santo</wi>
+<wi type="G" value="2597,2,">descendió</wi>
+<wi type="G" value="1909,11,">sobre</wi>
+<wi type="G" value="846,12,">Él</wi> en
+<wi type="G" value="1491,8,">forma</wi>
+<wi type="G" value="4984,7,">corporal</wi>
+<wi type="G" value="5616,9,">como</wi>
+<wi type="G" value="4058,10,">una paloma</wi>;
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="5456,14,">una voz</wi>
+<wi type="G" value="1096,17,">salió</wi>
+<wi type="G" value="1537,15,">del</wi>
+<wi type="G" value="3772,16,">cielo</wi>
+<wi type="G" value="3004,18,">diciendo</wi>,
+«<wi type="G" value="4771,19,">Tu</wi>
+<wi type="G" value="1488,20,">eres</wi>
+<wi type="G" value="3450,23,">mi</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="5207,22,">hijo</wi></wi>
+<wi type="G" value="3588,24,"/><wi type="G" value="27,25,">amado</wi>.
+<wi type="G" value="1722,26,">En</wi>
+<wi type="G" value="4671,27,">ti</wi>
+<wi type="G" value="2106,28,">estoy bien complacido</wi>.» </t>
+</sv></cm>
+<cm><sv id="Lucas-3-23">
+Jesus himself, when he began to teach, was about thirty years old,
+being the son (as was supposed) of Joseph, the son of Heli,
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2424,5,">Jesús</wi></wi>
+<wi type="G" value="846,2,">mismo</wi>
+<wi type="G" value="756,9,">comenzaba</wi> </t>
+<rb xml:lang="es"><wi type="G" value="2258,3,">a ser</wi><rf><citebib id="WEB"/>
+dice `cuando comenzó a enseñar,' <citebib id="KJV2003"/> dice `comenzó a ser,'
+<citebib id="RV1909"/> dice `comenzaba a ser.'</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="5616,6,">como</wi>
+<wi type="G" value="5144,8,">de treinta</wi>
+<wi type="G" value="2094,7,">años</wi>.
+<wi type="G" value="5607,10,">Era</wi>,
+<wi type="G" value="5613,11,">como</wi>
+<wi type="G" value="3543,12,">se suponía</wi>,
+<wi type="G" value="5207,13,">hijo</wi>
+<wi type="G" value="2501,14,">de José</wi>,
+el hijo <wi type="G" value="3588,15,"/><wi type="G" value="2242,16,">de Eli</wi>, </t>
+</sv>
+<sv id="Lucas-3-24">
+the son of
+Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of
+Joseph,
+<t xml:lang="es">hijo <wi type="G" value="3588,1,"/><wi type="G" value="3158,2,">de Matat</wi>, hijo
+<wi type="G" value="3588,3,"><wi type="G" value="3017,4,">de Leví</wi></wi>,
+hijo <wi type="G" value="3588,5,"><wi type="G" value="3197,6,">de Melqui</wi></wi>,
+hijo <wi type="G" value="3588,7,"><wi type="G" value="2388,8,">de Jana</wi></wi>,
+hijo <wi type="G" value="3588,9,"><wi type="G" value="2501,10,">de José</wi></wi>,
+</t>
+</sv>
+<sv id="Lucas-3-25">
+the son of Mattathias, the son of Amos, the son of Nahum, the
+son of Esli, the son of Naggai,
+<t xml:lang="es">hijo
+<wi type="G" value="3588,1,"><wi type="G" value="3161,2,">de Matatias</wi></wi>,
+hijo
+<wi type="G" value="3588,3,"><wi type="G" value="301,4,">de Amós</wi></wi>,
+hijo
+<wi type="G" value="3588,5,"><wi type="G" value="3486,6,">de Nahúm</wi></wi>,
+hijo
+<wi type="G" value="3588,7,"><wi type="G" value="2069,8,">de Esli</wi></wi>,
+hijo
+<wi type="G" value="3588,9,"><wi type="G" value="3477,10,">de Nagai</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-26">
+the son of Maath, the son of
+Mattathias, the son of Semein, the son of Joseph, the son of Judah,
+<t xml:lang="es">hijo
+<wi type="G" value="3588,1,"><wi type="G" value="3092,2,">de Mat</wi></wi>,
+hijo
+<wi type="G" value="3588,3,"><wi type="G" value="3161,4,">de Matatias</wi></wi>,
+hijo
+<wi type="G" value="3588,5,"><wi type="G" value="4584,6,">de Semei</wi></wi>,
+hijo
+<wi type="G" value="3588,7,"><wi type="G" value="2501,8,">de José</wi></wi>,
+hijo
+<wi type="G" value="3588,9,"><wi type="G" value="2455,10,">de Judá</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-27">
+the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of
+Shealtiel, the son of Neri,
+<t xml:lang="es">hijo
+<wi type="G" value="3588,1,"><wi type="G" value="2490,2,">de Joanán</wi></wi>,
+hijo
+<wi type="G" value="3588,3,"><wi type="G" value="4488,4,">de Resa</wi></wi>,
+hijo
+<wi type="G" value="3588,5,"><wi type="G" value="2216,6,">de Zorobabel</wi></wi>,
+hijo
+<wi type="G" value="3588,7,"><wi type="G" value="4528,8,">de Salatiel</wi></wi>,
+hijo
+<wi type="G" value="3588,9,"><wi type="G" value="3518,10,">de Neri</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-28">
+the son of Melchi, the son of Addi, the son of Cosam,
+the son of Elmodam, the son of Er,
+<t xml:lang="es">hijo
+<wi type="G" value="3588,1,"><wi type="G" value="3197,2,">de Melqui</wi></wi>,
+hijo
+<wi type="G" value="3588,3,"><wi type="G" value="78,4,">de Adi</wi></wi>,
+hijo
+<wi type="G" value="3588,5,"><wi type="G" value="2973,6,">de Cosam</wi></wi>,
+hijo
+<wi type="G" value="3588,7,"><wi type="G" value="1678,8,">de Elmadam</wi></wi>,
+hijo
+<wi type="G" value="3588,9,"><wi type="G" value="2262,10,">de Er</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-29">
+the son of Josa, the son of Eliezer,
+the son of Jorim, the son of Matthat, the son of Levi,
+<t xml:lang="es">
+hijo <wi type="G" value="3588,1,"><wi type="G" value="2499,2,">de Jesús</wi></wi>,
+hijo
+<wi type="G" value="3588,3,"><wi type="G" value="1663,4,">de Eliezer</wi></wi>,
+hijo
+<wi type="G" value="3588,5,"><wi type="G" value="2497,6,">de Jorim</wi></wi>,
+hijo
+<wi type="G" value="3588,7,"><wi type="G" value="3158,8,">de Matat</wi></wi>,
+hijo
+<wi type="G" value="3588,9,"><wi type="G" value="3017,10,">de Levi</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-30">
+the son of
+Simeon, the son of Judah, the son of Joseph, the son of Jonan, the son of
+Eliakim,
+<t xml:lang="es">hijo
+<wi type="G" value="3588,1,"><wi type="G" value="4826,2,">de Simeón</wi></wi>,
+hijo
+<wi type="G" value="3588,3,"><wi type="G" value="2455,4,">de Judá</wi></wi>,
+hijo
+<wi type="G" value="3588,5,"><wi type="G" value="2501,6,">de José</wi></wi>,
+hijo
+<wi type="G" value="3588,7,"><wi type="G" value="2494,8,">de Jonam</wi></wi>,
+hijo
+<wi type="G" value="3588,9,"><wi type="G" value="1662,10,">de Eliaquim</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-31">
+the son of Melea, the son of Menan, the son of Mattatha, the
+son of Nathan, the son of David,
+<t xml:lang="es">hijo
+<wi type="G" value="3588,1,"><wi type="G" value="3190,2,">de Melea</wi></wi>,
+hijo
+<wi type="G" value="3588,3,"><wi type="G" value="3104,4,">de Mena</wi></wi>,
+hijo
+<wi type="G" value="3588,5,"><wi type="G" value="3160,6,">de Matata</wi></wi>,
+hijo
+<wi type="G" value="3588,7,"><wi type="G" value="3481,8,">de Natan</wi></wi>,
+hijo
+<wi type="G" value="3588,9,"><wi type="G" value="1138,10,">de David</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-32">
+the son of Jesse, the son of Obed, the
+son of Boaz, the son of Salmon, the son of Nahshon,
+<t xml:lang="es">hijo
+<wi type="G" value="3588,1,"><wi type="G" value="2421,2,">de Isaí</wi></wi>,
+hijo
+<wi type="G" value="3588,3,"><wi type="G" value="5601,4,">de Obed</wi></wi>,
+hijo
+<wi type="G" value="3588,5,"><wi type="G" value="1003,6,">de Booz</wi></wi>,
+hijo
+<wi type="G" value="3588,7,"><wi type="G" value="4533,8,">de Sala</wi></wi>,
+hijo
+<wi type="G" value="3588,9,"><wi type="G" value="3476,10,">de Naasón</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-33">
+the son of Amminadab,
+<t xml:lang="es">hijo
+<wi type="G" value="3588,1,"><wi type="G" value="284,2,">de Aminadab</wi></wi>, </t>
+<rb xml:lang="es"><rf><citebib id="DieBibel"/> y <citebib id="DiosHablaHoy"/>
+agregan Admin como padre de Aminadab e hijo de Arni. La
+genealogía presentada concuerda en <citebib id="WEB"/> y
+<citebib id="Peshitta"/>. <citebib id="WEB"/> agrega como nota al pie
+de página `Algunos textos agregan, «el hijo de Joram.»´</rf></rb>
+,the son of Aram,
+<t xml:lang="es">hijo
+<wi type="G" value="3588,3,"><wi type="G" value="689,4,">de Arni</wi></wi>, </t>
+<rb><rf>Some texts add, «the son of Joram,»</rf></rb>
+the son of Hezron, the son of Perez, the son of Judah,
+<t xml:lang="es">hijo
+<wi type="G" value="3588,5,"><wi type="G" value="2074,6,">de Esrom</wi></wi>,
+hijo
+<wi type="G" value="3588,7,"><wi type="G" value="5329,8,">de Fares</wi></wi>,
+hijo <wi type="G" value="3588,9,"><wi type="G" value="2455,10,">de Judá</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-34">
+the
+son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son
+of Nahor,
+<t xml:lang="es">hijo
+<wi type="G" value="3588,1,"><wi type="G" value="2384,2,">de Jacob</wi></wi>,
+hijo
+<wi type="G" value="3588,3,"><wi type="G" value="2464,4,">de Isaac</wi></wi>,
+hijo
+<wi type="G" value="3588,5,"><wi type="G" value="11,6,">de Abraham</wi></wi>,
+hijo
+<wi type="G" value="3588,7,"><wi type="G" value="2291,8,">de Taré</wi></wi>,
+hijo
+<wi type="G" value="3588,9,"><wi type="G" value="3493,10,">de Nacor</wi></wi> </t>
+</sv>
+<sv id="Lucas-3-35">
+the son of Serug, the son of Reu, the son of Peleg, the son
+of Eber, the son of Shelah
+<t xml:lang="es">hijo
+<wi type="G" value="3588,1,"><wi type="G" value="4562,2,">de Serug</wi></wi>,
+hijo
+<wi type="G" value="3588,3,"><wi type="G" value="4466,4,">de Ragau</wi></wi>,
+hijo
+<wi type="G" value="3588,5,"><wi type="G" value="5317,6,">de Peleg</wi></wi>,
+hijo
+<wi type="G" value="3588,7,"><wi type="G" value="1443,8,">de Heber</wi></wi>,
+hijo
+<wi type="G" value="3588,9,"><wi type="G" value="4527,10,">de Sala</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-36">
+the son of Cainan, the son of Arphaxad, the
+son of Shem, the son of Noah, the son of Lamech,
+<t xml:lang="es">hijo
+<wi type="G" value="3588,1,"><wi type="G" value="2536,2,">de Cainán</wi></wi>,
+hijo
+<wi type="G" value="3588,3,"><wi type="G" value="742,4,">de Arfaxad</wi></wi>,
+hijo
+<wi type="G" value="3588,5,"><wi type="G" value="4590,6,">de Sem</wi></wi>,
+hijo
+<wi type="G" value="3588,7,"><wi type="G" value="3575,8,">de Noé</wi></wi>,
+hijo <wi type="G" value="3588,9,"><wi type="G" value="2984,10,">de Lamec</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-37">
+the son of Methuselah,
+the son of Enoch, the son of Jared, the son of Mahalaleel, the son of Cainan,
+<t xml:lang="es">hijo
+<wi type="G" value="3588,1,"><wi type="G" value="3103,2,">de Matusalén</wi></wi>,
+hijo <wi type="G" value="3588,3,"><wi type="G" value="1802,4,">de Enoc</wi></wi>,
+hijo
+<wi type="G" value="3588,5,"><wi type="G" value="2391,6,">de Jared</wi></wi>,
+hijo <wi type="G" value="3588,7,"><wi type="G" value="3121,8,">de Mahalaleel</wi></wi>,
+hijo <wi type="G" value="3588,9,"><wi type="G" value="2536,10,">de Cainán</wi></wi>, </t>
+</sv>
+<sv id="Lucas-3-38">
+the son of Enos, the son of Seth, the son of Adam, the son of God.
+<t xml:lang="es">hijo
+<wi type="G" value="3588,1,"><wi type="G" value="1800,2,">de Enós</wi></wi>,
+hijo
+<wi type="G" value="3588,3,"><wi type="G" value="4589,4,">de Set</wi></wi>,
+hijo
+<wi type="G" value="3588,5,"><wi type="G" value="76,6,">de Adán</wi></wi>, </t>
+<rb xml:lang="es">hijo
+<wi type="G" value="3588,7,"><wi type="G" value="2316,8,">de Dios</wi></wi><rf><citebib id="DieBibel"/> dice
+`de la estirpe de Dios,´ <citebib id="Peshitta"/> dice
+`que era de Dios.´</rf></rb>
+<t xml:lang="es">. </t>
+<cl/>
+</sv></cm></sc>
+
