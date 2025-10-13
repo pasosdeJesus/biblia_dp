@@ -1,4 +1,5 @@
-# HANDOFF: Revisión de Traducción Bíblica biblia_dp o SpaTDP
+# HANDOFF: Revisión de Traducción Bíblica biblia_dp o SpaTDP con Claude Sonnet
+4.5 en gitlab
 
 ## ANTES DE CONTINUAR
 
@@ -34,6 +35,9 @@ fidelidad respecto al Textus Receptus.
 - **2 Timoteo**
 - **2 Tesalonicenses**
 - **1 Tesalonicenses** -  1:1 "al Señor" → "del Señor"
+- **1 Timoteo** - 1:9 (G765), 2:14 (G538), 3:15 (G2316), 6:3,5,6,11 (G2150)
+- **Colosenses**
+- **Filipenses**
 
 ## Estructura de Archivos
 
@@ -70,6 +74,12 @@ Versículo X: [problema específico]
 - Sugerencia: "..." [razón]
 ```
 
+## Verificación Cruzada
+
+Al encontrar un Strong repetido en múltiples versículos, verificar consistencia.
+Ejemplo: G2150 aparece en 1 Tim 2:2, 3:16, 4:7,8, 6:3,5,6,11 - debe ser siempre
+"piedad"
+
 ## Convenciones del Formato GBFXML
 
 ```xml
@@ -93,6 +103,13 @@ Versículo X: [problema específico]
 - Sin CI/CD (pendiente modernizar)
 - Sin issues abiertas actualmente
 - Lenguajes: XSLT (30%), AWK (12%), Shell (9%), HTML (34%)
+
+## Limitaciones Técnicas del Agente
+
+- Archivos grandes (>40k tokens) se truncan
+- Solución: usar archivos gbfxml divididos por capítulos en `tmp_capitulos/` 
+  y de KJV en ref/swork_kjv/capitulos
+- Búsquedas con `gitlab_blob_search` tienen límites de resultados
 
 ## Próximo Paso Sugerido
 
