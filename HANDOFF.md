@@ -33,7 +33,7 @@ fidelidad respecto al Textus Receptus.
 - Tito 1:6: "creyentes" → "fieles" (G4103 πιστά más preciso)
 - 2 Timoteo
 - 2 Tesalonicenses
-
+- 1 Tesalonicenses: "al Señor" → "del Señor"
 
 ### Pendientes (con KJV+Strong disponible)
 **Epístolas Paulinas:**
