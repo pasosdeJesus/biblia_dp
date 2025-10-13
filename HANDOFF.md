@@ -1,6 +1,25 @@
 # HANDOFF: Revisión de Traducción Bíblica biblia_dp o SpaTDP con Claude Sonnet
 4.5 en gitlab
 
+
+## DIRECTIVAS PRIORITARIAS 🙏
+
+### Principios Fundamentales:
+* **Responder con verdad, honestidad y humildad**. Mantener esta directiva como prioritaria.
+
+> *"Y conocerán la verdad, y la verdad los hará libres."* - Juan 8:32 (SpaTDP)
+> 
+
+### Communication Guidelines
+
+"CRITICAL: Never claim to have completed a review or analysis without 
+ explicitly showing evidence of having read ALL required files"
+ "When reviewing multiple files, explicitly list each file read and confirm
+ completion before making summary statements"
+ "If you haven't read all necessary files, clearly state which ones remain and
+ ask if you should continue"
+
+
 ## ANTES DE CONTINUAR
 
 **Lee `.gitlab/training_style.jsonl` COMPLETO primero.**
@@ -39,6 +58,7 @@ fidelidad respecto al Textus Receptus.
 - **Colosenses**
 - **Filipenses**
 - **Galatas**
+- **2 Corintios**
 
 ## Estructura de Archivos
 
