@@ -226,7 +226,7 @@ mention of you always in my prayers,
 <wi type="G" value="3842,1n,">siempre</wi>
 <wi type="G" value="1909,2n,">en</wi>
 <wi type="G" value="3450,5n,">mis</wi>
-<wi type="G" value="3588,3n,"><wi type="G" value="3588,4n,">oraciones</wi></wi>, </t>
+<wi type="G" value="3588,3n,"><wi type="G" value="4335,4n,">oraciones</wi></wi>, </t>
 </sv>
 		<sv id="Romanos-1-10">
 requesting, if by any means now at
@@ -712,7 +712,7 @@ evil habits, secret slanderers,
 <wi type="G" value="2549,7,">malicia</wi>;
 <wi type="G" value="3324,8,">llenos</wi>
 <wi type="G" value="5355,9,">de envidia</wi>,
-<wi type="G" value="5408,10,">muerte</wi>,
+<wi type="G" value="5408,10,">homicidios</wi>,
 <wi type="G" value="2054,11,">peleas</wi>,
 <wi type="G" value="1388,12,">engaños</wi>,
 <wi type="G" value="2550,13,">malos habitos</wi>, </t>
@@ -925,16 +925,16 @@ vida eterna.´</rf></rb>
 but to those who are self-seeking, and don´t obey the truth, but obey
 unrighteousness, will be wrath and indignation,
 <t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
-<wi type="G" value="3588,1,">para quienes</wi> </t>
-<rb xml:lang="es"><wi type="G" value="1537,3,"/><wi type="G" value="2052,4,">buscan peleas</wi><rf><citebib id="SE"/> dice `Más a los que son
+<wi type="G" value="3588,1,">para los</wi> </t>
+<rb xml:lang="es"><wi type="G" value="1537,3,"/><wi type="G" value="2052,4,">contenciosos</wi><rf><citebib id="SE"/> dice `Más a los que son
 contenciosos,´ <citebib id="Gideons"/> dice `agresivos,´
 <citebib id="WEB"/> dice `los que buscan lo propio.´</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="544,6,">no obedecen</wi>
+que <wi type="G" value="544,6,">no obedecen</wi>
 <wi type="G" value="3303,7,"/><wi type="G" value="3588,8,"><wi type="G" value="225,9,">la verdad</wi></wi>,
 <wi type="G" value="1161,11,">sino que</wi>
-<wi type="G" value="3982,10,">obedencen a</wi>
+<wi type="G" value="3982,10,">obedecen a</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="93,13,">la injusticia</wi></wi>,
 será
 <wi type="G" value="2372,14,">la indignación</wi>
@@ -1859,7 +1859,7 @@ Where then is the boasting? It is excluded. By what manner of law? Of
 works? No, but by a law of faith.
 <t xml:lang="es">¿<wi type="G" value="3767,2,">Entonces</wi>
 <wi type="G" value="4226,1,">donde</wi> esta
-<wi type="G" value="3588,3,"><wi type="G" value="2746,4,">la vanidad</wi></wi>?
+<wi type="G" value="3588,3,"><wi type="G" value="2746,4,">la vanagloria</wi></wi>?
 <wi type="G" value="1576,5,">Está excluida</wi>.
 ¿<wi type="G" value="1223,6,">Por</wi>
 <wi type="G" value="4169,7,">cual</wi>
@@ -2235,7 +2235,7 @@ is there disobedience.
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">Porque</wi>
 <wi type="G" value="3551,3,">la ley</wi>
 <wi type="G" value="2716,5,">obra</wi>
-<wi type="G" value="3709,4,">indignación</wi>,
+<wi type="G" value="3709,4,">ira</wi>,
 <wi type="G" value="1063,7,">pues</wi>
 <wi type="G" value="3757,6,">donde</wi>
 <wi type="G" value="3756,8,">no</wi>
@@ -2372,7 +2372,7 @@ grew strong through faith, giving glory to God,
 <wi type="G" value="3588,3,"><wi type="G" value="1860,4,">la promesa</wi></wi>
 <wi type="G" value="3588,5,"><wi type="G" value="2316,6,">de Dios</wi></wi>
 <wi type="G" value="3756,7,">no</wi> la
-<wi type="G" value="1252,8,">discernió</wi>
+<wi type="G" value="1252,8,">dudó</wi>
 en <wi type="G" value="3588,9,"><wi type="G" value="570,10,">incredulidad</wi></wi><rf><citebib id="WEB"/> dice
 `Aún buscando la promesa de Dios,
 no se movió hacía la incredulidad,´
@@ -4926,7 +4926,7 @@ from Christ for my brothers´ sake, my relatives according to the flesh,
 <wi type="G" value="1473,4,">yo</wi>
 <wi type="G" value="2172,1,">desearía</wi>
 <wi type="G" value="1511,6,">ser</wi>
-<wi type="G" value="846,3,"/><wi type="G" value="331,5,">detestable</wi>
+<wi type="G" value="846,3,"/><wi type="G" value="331,5,">anatema</wi>
 <wi type="G" value="575,7,">ante</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="5547,9,">Cristo</wi></wi>
 <wi type="G" value="5228,10,">por causa de</wi>
