@@ -2069,10 +2069,28 @@ accompany salvation, even though we speak like this.
 <sv id="Hebreos-6-10">
 For God is not
 unrighteous, so as to forget your work and the labor of love which you
-<wi type="T" value="P"/>
 showed toward his name, in that you
-<wi type="T" value="P"/> served the saints, and still do
-serve them.
+served the saints, and still do serve them.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2316,5,">Dios</wi></wi>
+<wi type="G" value="3756,1,">no</wi> es
+<wi type="G" value="94,3,">injusto</wi>,
+<wi type="G" value="1950,6,">para olvidar</wi>
+<wi type="G" value="5216,9,">su</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="2041,8,">trabajo</wi></wi>
+<wi type="G" value="2532,10,">y</wi>
+la <wi type="G" value="3588,11,"><wi type="G" value="2873,12,">obra</wi></wi>
+<wi type="G" value="3588,13,"><wi type="G" value="26,14,">de amor</wi></wi>
+<wi type="G" value="3739,15,">que</wi>
+<wi type="G" value="1731,16,">mostraron</wi>
+<wi type="G" value="1519,17,">por</wi>
+<wi type="G" value="846,20,">Su</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="3686,19,">nombre</wi></wi>,
+<wi type="G" value="1247,21,">habiendo servidor a</wi>
+<wi type="G" value="3588,22,"><wi type="G" value="40,23,">los santos</wi></wi>,
+<wi type="G" value="2532,24,">y</wi>
+<wi type="G" value="1247,25,">sirviendo</wi>.
+</t>
 </sv>
 <sv id="Hebreos-6-11">
 We desire that each one of you may show the same diligence
