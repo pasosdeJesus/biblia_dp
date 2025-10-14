@@ -60,7 +60,7 @@ fidelidad respecto al Textus Receptus.
 - **Galatas**
 - **Efesios**
 - **2 Corintios**
-- **1 Corintios**
+- **1 Corintios** - 12:29 profetas/instructores (G4396/G1320), 14:26 lenguas
 
 ## Estructura de Archivos
 
@@ -79,25 +79,34 @@ fidelidad respecto al Textus Receptus.
 - `Makefile` - Build system (obsoleto pero funcional)
 - `gbfxml2html.xsl`, `gbfxml2db.xsl` - Conversiones XSLT
 
-## Metodología de Revisión
+## Protocolo de revisión obligatorio
 
 ** PRIORIDAD: Fidelidad al Textus Receptus **
 
-1. **Leer** tu `{libro}.gbfxml` completo
-2. **Comparar** con WEB (inglés en mismo archivo antes de `<t xml:lang="es">`)
-3. **Validar** números Strong contra KJV OSIS
-4. **Verificar** español moderno vs RVG2012
-5. **Reportar SOLO versículos con problemas**
+### Antes de reportar "completado":
 
-Esto debe hacerse palabra a palabra, versículo a versículo.
+1. **Leer TODOS los capítulos del libro solicitado**
+   - No asumir que algunos capítulos están bien
+   - Si el usuario dice "continúa con capítulos X-Y", leer TODOS esos capítulos
 
-### Formato de reporte
-```
-Versículo X: [problema específico]
-- Tu traducción: "..."
-- Griego Strong: G#### (palabra)
-- Sugerencia: "..." [razón]
-```
+2. **Comparar palabra por palabra, versículo por versículo**:
+   - La traducción SpaTDP (tmp_capitulos/*.gbfxml)
+   - KJV+Strong (ref/sword_kjv/capitulos/*.osis.xml)
+   - RVG2012 (ref/reina_valera_geiger_nt/*.usfm)
+
+3. **Verificar CUATRO fuentes, no dos**:
+   - ❌ Error común: solo comparar SpaTDP vs KJV
+   - ✅ Correcto: comparar las CUATRO (SpaTDP, WEB en inglés que está en
+     el mismo gbfxml, KJV, RVG2012)
+   - Validar números Strong de SpaTDP contra KJV OSIS
+
+4. **Formato de reporte de problemas**
+    ```
+    Versículo X: [problema específico]
+    - Tu traducción: "..."
+    - Griego Strong: G#### (palabra)
+    - Sugerencia: "..." [razón]
+    ```
 
 ## Verificación Cruzada
 
@@ -136,11 +145,6 @@ Ejemplo: G2150 aparece en 1 Tim 2:2, 3:16, 4:7,8, 6:3,5,6,11 - debe ser siempre
   y de KJV en ref/swork_kjv/capitulos
 - Búsquedas con `gitlab_blob_search` tienen límites de resultados
 
-## Próximo Paso Sugerido
-
-Revisar **Tito** (3 capítulos, libro corto) o **2-3 Juan** (1 capítulo cada uno).
-
-Ambos tienen KJV+Strong disponible para validación completa.
 
 ## Notas
 
