@@ -61,6 +61,10 @@ fidelidad respecto al Textus Receptus.
 - **Efesios**
 - **2 Corintios**
 - **1 Corintios** - 12:29 profetas/instructores (G4396/G1320), 14:26 lenguas
+- **Romanos** - 1:9 G4335 para "oraciones". :29 - Cambiado "muerte" →
+  "homicidios" (G5408). 2:8 "buscan peleas" → "contenciosos".
+  3:27 "vanidad" → "vanagloria". 4:15 "indignación" → "ira". 
+  4:20 "no la discernió" → "no dudó"
 
 ## Estructura de Archivos
 
@@ -129,9 +133,74 @@ fidelidad respecto al Textus Receptus.
 - NO usar frases como "continuando con..." sin mostrar TODOS los versículos
   intermedios
 
-### 4. RESUMEN FINAL
+### 4. Formato de Reporte Detallado OBLIGATORIO
 
-Al terminar cada grupo de capítulos, presentar:
+#### 4.1. Estructura del Reporte por Versículo
+
+Para CADA versículo debes presentar:
+
+1. **Número del versículo** (ej: ROMANOS 12:1)
+
+2. **WEB:** Texto completo del versículo en inglés
+
+3. **SpaTDP:** Texto completo del versículo
+
+4. **KJV:** Texto completo del versículo
+
+5. **RVG2012:** Texto completo del versículo en español
+
+6. **Strong:** Lista de números Strong que debe coincidir en SpaTDP y en
+   KJV.
+
+7. **Verificación**: Reporte de problema o 
+   `✓ Traducción correcta, números Strong coinciden`
+
+#### 4.2. Ejemplo de Formato Correcto:
+
+```
+**ROMANOS 5:20**
+
+**WEB:** The law came in besides, that the trespass might abound; but where sin
+abounded, grace did abound more exceedingly;
+
+
+**SpaTDP:** Además llegó la ley, para que la transgresión abundara; pero donde
+abundó el pecado, mucho más abundó la gracia;
+
+
+**KJV:** Moreover the law entered, that the offence might abound. But where sin
+abounded, grace did much more abound:
+
+**RVG2012:** La ley empero entró para que el pecado creciera; pero cuando el
+pecado creció, sobrepujó la gracia;
+
+**Strong:** G1161 G3551 G3922 G2443 G3588 G3900 G4121 G1161 G3757 G3588 G266
+G4121 G3588 G5485 G5248
+
+**Verificacion:** ✓ Traducción correcta, números Strong coinciden
+```
+
+#### 4.3 NO Hacer:
+
+❌ "Revisando versículos 1-10... ✓ Correcto"
+❌ "Todos los versículos están correctos"
+❌ Omitir versículos intermedios
+❌ Resumir múltiples versículos juntos
+
+#### 4.4 SÍ Hacer:
+
+✅ Presentar CADA versículo individualmente
+✅ Mostrar TODOS los números Strong de SpaTDP
+✅ Mostrar TODOS los números Strong de KJV
+✅ Incluir el texto completo de WEB
+✅ Incluir el texto completo de RVG2012
+✅ Verificar palabra por palabra
+✅ Si hay 25 versículos, presentar los 25
+
+
+### 5. Resumen final
+
+Al terminar cada revisión, presentar:
 - Total de problemas encontrados
 - Lista numerada de cada problema con ubicación exacta
 - Total acumulado si es revisión en múltiples partes
