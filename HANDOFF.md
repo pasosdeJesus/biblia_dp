@@ -74,10 +74,13 @@ fidelidad respecto al Textus Receptus.
 - `type="GC"` = continuación de palabra dividida
 
 ### Referencias
-- `ref/sword_kjv/{Libro}-2023-01-06.osis.xml` - KJV con Strong y morfología Robinson.  Será mejor dividirlos en capítulos.
-- `ref/reina_valera_geiger_nt/57_Philemon.usfm` - RVG2012 (formato USFM)
-- Patrón RVG: ref/reina_valera_geiger_nt/NN_{Libro}.usfm (NN = número).
-  {Libro} en inglés y si tiene número como 2 Timoteo es 2_Timothy.
+- `tmp_capitulos/romanos-{cc}.gbfxml` es capítulo `cc` de Romanos con 
+   traducciones WEB y SpaTDP y con marcado Strong en SpaTDP
+- `ref/sword_kjv/capitulos/Romans-{cc}.osis.xml)` - es capítulo `cc` de 
+   Filemón de KJV con Strong y morfología Robinson.  
+- `ref/reina_valera_geiger_nt/45_Romans.usfm` - RVG2012 (formato USFM)
+- Patrón RVG: ref/reina_valera_geiger_nt/NN_{Libro_inglés}.usfm (NN = número).
+  {Libro_ingles} y si tiene número como 2 Timoteo es `55_2_Timothy.usfm`.
 
 ### Herramientas
 - `Makefile` - Build system (obsoleto pero funcional)
