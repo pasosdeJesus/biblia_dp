@@ -2096,29 +2096,58 @@ la <wi type="G" value="3588,11,"><wi type="G" value="2873,12,">obra</wi></wi>
 We desire that each one of you may show the same diligence
 to the fullness of hope even to the end,
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="1937,1,">queremos</wi> que 
-<wi type="G" value="1538,3,">cada uno</wi> 
-<wi type="G" value="5216,4,">de ustedes</wi> 
-<wi type="G" value="1731,7,">muestre</wi> la 
-<wi type="G" value="846,6,">misma</wi> 
-<wi type="G" value="3588,5,"/><wi type="G" value="4710,8,">diligencia</wi> 
+<wi type="G" value="1937,1,">queremos</wi> que
+<wi type="G" value="1538,3,">cada uno</wi>
+<wi type="G" value="5216,4,">de ustedes</wi>
+<wi type="G" value="1731,7,">muestre</wi> la
+<wi type="G" value="846,6,">misma</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="4710,8,">diligencia</wi>
 <wi type="G" value="4314,9,">para</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4136,11,">la completación</wi></wi> 
-<wi type="G" value="3588,12,"><wi type="G" value="1680,13,">de la esperanza</wi></wi> 
-<wi type="G" value="891,14,">hasta</wi> 
+<wi type="G" value="3588,10,"><wi type="G" value="4136,11,">la completación</wi></wi>
+<wi type="G" value="3588,12,"><wi type="G" value="1680,13,">de la esperanza</wi></wi>
+<wi type="G" value="891,14,">hasta</wi>
 <wi type="G" value="5056,15,">el</wi> final,
 </t>
 </sv>
 <sv id="Hebreos-6-12">
-that you
-<wi type="T" value="P"/> won´t be
+that you won´t be
 sluggish, but imitators of those who through faith and patience inherited the
 promises.
+<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
+<wi type="G" value="3361,2,">no</wi>
+<wi type="G" value="1096,4,">sean</wi>
+<wi type="G" value="3576,3,">perezosos</wi>,
+<wi type="G" value="1161,6,">sino</wi>
+<wi type="G" value="3402,5,">imitadores</wi>
+<wi type="G" value="3588,7,">de los que</wi>
+<wi type="G" value="1223,8,">mediante</wi>
+<wi type="G" value="4102,9,">fe</wi>
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="3115,11,">paciencia</wi>
+<wi type="G" value="2816,12,">heredaron</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1860,14,">las promesas</wi></wi>.</t>
 </sv>
+
 <sv id="Hebreos-6-13">
 For when God made a promise to Abraham, since he could swear
 by none greater, he swore by himself,
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">Pues</wi>
+cuando
+<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">Dios</wi></wi>
+<wi type="G" value="1861,4,">prometió</wi>
+<wi type="G" value="11,3,">Abraham</wi>,
+<wi type="G" value="1893,7,">como</wi>
+<wi type="G" value="3762,9,">no</wi>
+<wi type="G" value="2192,10,">podía</wi>
+<wi type="G" value="3660,12,">jurar</wi>
+<wi type="G" value="2596,8,">por</wi>
+<wi type="GC" value="9">nadie</wi>
+<wi type="G" value="3173,11,">superior</wi>,
+<wi type="G" value="3660,13,">juró</wi>
+<wi type="G" value="2596,14,">por</wi>
+<wi type="G" value="1438,15,">si mismo</wi>,</t>
 </sv>
+
 <sv id="Hebreos-6-14">
 saying, «Most surely I will bless
 you, and I will surely multiply you.»

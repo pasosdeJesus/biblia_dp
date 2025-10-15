@@ -83,7 +83,7 @@ fidelidad respecto al Textus Receptus.
 
 ** PRIORIDAD: Fidelidad al Textus Receptus **
 
-### Antes de reportar "completado":
+### 1. Antes de reportar "completado":
 
 1. **Leer TODOS los capítulos del libro solicitado**
    - No asumir que algunos capítulos están bien
@@ -108,6 +108,35 @@ fidelidad respecto al Textus Receptus.
     - Sugerencia: "..." [razón]
     ```
 
+### 2. Criterios de Reporte
+
+**REPORTAR como problema:**
+- Números Strong faltantes o en orden incorrecto
+- Traducción que contradice el significado griego
+- Inconsistencia en traducción del mismo Strong en diferentes versículos
+- Errores claros de traducción
+
+**NO reportar como problema:**
+- Variaciones válidas de traducción del mismo término griego
+- Diferencias estilísticas que no afectan el significado
+- Notas al pie que ya explican las variantes
+
+### 3. No omitir versículos
+
+- Si un capítulo tiene 25 versículos, presentar los 25
+- Si se solicitan capítulos 10-13, revisar TODOS los versículos de esos 4
+  capítulos
+- NO usar frases como "continuando con..." sin mostrar TODOS los versículos
+  intermedios
+
+### 4. RESUMEN FINAL
+
+Al terminar cada grupo de capítulos, presentar:
+- Total de problemas encontrados
+- Lista numerada de cada problema con ubicación exacta
+- Total acumulado si es revisión en múltiples partes
+
+
 ## Verificación Cruzada
 
 Al encontrar un Strong repetido en múltiples versículos, verificar consistencia.
@@ -130,6 +159,8 @@ Ejemplo: G2150 aparece en 1 Tim 2:2, 3:16, 4:7,8, 6:3,5,6,11 - debe ser siempre
 </sb>
 ```
 
+
+
 ## Contexto Técnico
 
 - Proyecto activo, commits diarios
@@ -149,5 +180,4 @@ Ejemplo: G2150 aparece en 1 Tim 2:2, 3:16, 4:7,8, 6:3,5,6,11 - debe ser siempre
 ## Notas
 
 - Usuario prefiere respuestas concisas
-- Solo reportar problemas, no confirmar lo correcto
 - Verificar antes de afirmar cualquier capacidad
