@@ -2151,14 +2151,43 @@ cuando
 <sv id="Hebreos-6-14">
 saying, «Most surely I will bless
 you, and I will surely multiply you.»
+<t xml:lang="es"><wi type="G" value="3004,1,">diciendo</wi>,
+«<wi type="G" value="2229,2,"/><wi type="G" value="3375,3,">De seguro</wi>
+<wi type="G" value="2127,4,">bendiciendo</wi>
+<wi type="G" value="4571,6,">te</wi>
+<wi type="G" value="2127,5,">bendeciré</wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="4129,8,">multiplicando</wi>
+<wi type="G" value="4571,10,">te</wi>
+<wi type="G" value="4129,9,">multiplicaré</wi>.»</t>
 </sv>
 <sv id="Hebreos-6-15">
 Thus, having patiently endured,
 he obtained the promise.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3779,2,">entonces</wi>,
+<wi type="G" value="3114,3,">con paciencia</wi>,
+<wi type="G" value="2013,4,">obtuvo</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="1860,6,">la promesa</wi></wi>.
+</t>
 </sv>
 <sv id="Hebreos-6-16">
 For men indeed swear by a greater one, and in
 every dispute of theirs the oath is final for confirmation.
+<t xml:lang="es"><wi type="G" value="1063,3,">Pues</wi>
+<wi type="G" value="444,1,">los hombres</wi>,
+<wi type="G" value="3303,2,">de hecho</wi>,
+<wi type="G" value="3660,7,">juran</wi>
+<wi type="G" value="2596,4,">por</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="3173,6,">uno mayor</wi>,
+<wi type="G" value="2532,8,">y</wi> en
+<wi type="G" value="3956,9,">toda</wi>
+<wi type="G" value="846,10,"/><wi type="G" value="485,11,">disputa</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="3727,16,">un juramento</wi></wi>
+es <wi type="G" value="4009,12,">definitivo</wi>
+<wi type="G" value="1519,13,">para</wi>
+<wi type="G" value="951,14,">confirmar</wi>.
+</t>
 </sv>
 <sv id="Hebreos-6-17">
 In this way
