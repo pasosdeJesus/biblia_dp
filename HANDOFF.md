@@ -65,6 +65,12 @@ fidelidad respecto al Textus Receptus.
   "homicidios" (G5408). 2:8 "buscan peleas" → "contenciosos".
   3:27 "vanidad" → "vanagloria". 4:15 "indignación" → "ira". 
   4:20 "no la discernió" → "no dudó"
+- **Marcos**: 4:10 - "las parábolas" → "la parábola" (singular). 
+    4:11 - "los misterios" → "el misterio" (singular). 5:13 - puntuación.
+    5:22 - "calló" → "cayó". 5:41 - "manó" → "mano". 
+    7:2 - "inpuramente" → "impuramente". 7:13 - "j" suelta en XML
+    7:14 - "llaam" → "llamó". 7:32 - "llevarón" → "llevaron".
+    7:33 - "con sigo" → "consigo"
 
 ## Estructura de Archivos
 
@@ -183,14 +189,35 @@ G4121 G3588 G5485 G5248
 **Verificacion:** ✓ Traducción correcta, números Strong coinciden
 ```
 
-#### 4.3 NO Hacer:
+#### 4.4. Verificación de Números Strong - CRÍTICO
+
+**Cómo verificar correctamente:**
+1. Extraer cada Strong con su número de posición de SpaTDP
+2. Extraer cada Strong con su número de posición de KJV (atributo src)
+3. Comparar que ambas listas sean idénticas: mismo Strong, misma posición
+4. ❌ ERROR: Comparar el orden de aparición en el texto traducido
+5. ✅ CORRECTO: Comparar los números de posición (value="GXXXX,**posición**,")
+
+**Ejemplo de verificación correcta:**
+
+SpaTDP: 
+- G846,3, (les)
+- G3004,2, (dijo)
+
+KJV src:
+- G3004 src="2" (said)
+- G846 src="3" (them)
+
+✓ Coinciden: G3004 posición 2, G846 posición 3 en ambos
+
+#### 4.4. NO Hacer:
 
 ❌ "Revisando versículos 1-10... ✓ Correcto"
 ❌ "Todos los versículos están correctos"
 ❌ Omitir versículos intermedios
 ❌ Resumir múltiples versículos juntos
 
-#### 4.4 SÍ Hacer:
+#### 4.5. SÍ Hacer:
 
 ✅ Presentar CADA versículo individualmente
 ✅ Mostrar TODOS los números Strong de SpaTDP
