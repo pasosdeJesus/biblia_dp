@@ -115,13 +115,13 @@
   <!-- Template para elementos rb con xml:lang='es' -->
   <xsl:template match="rb[@xml:lang='es']" mode="verse-text">
     <!-- Procesar wi, texto y elementos t, pero ignorar rf -->
-    <xsl:apply-templates select="wi | t[@xml:lang='es'] | text()[normalize-space(.) != '']" mode="verse-text"/>
+    <xsl:apply-templates select="wi | t[@xml:lang='es'] | text()[normalize-space(.) != '' and not(parent::rf)]" mode="verse-text"/>
   </xsl:template>
   
   <!-- Template para elementos rb sin xml:lang (pueden contener t con xml:lang='es') -->
   <xsl:template match="rb[not(@xml:lang)]" mode="verse-text">
-    <!-- Procesar elementos t en español dentro de rb, pero ignorar rf -->
-    <xsl:apply-templates select="t[@xml:lang='es'] | wi" mode="verse-text"/>
+    <!-- Procesar elementos t en español y wi dentro de rb, pero ignorar rf -->
+    <xsl:apply-templates select="t[@xml:lang='es'] | wi | text()[normalize-space(.) != '' and not(parent::rf)]" mode="verse-text"/>
   </xsl:template>
   
   <!-- Template para elementos rf (notas al pie) - ignorar completamente -->
@@ -134,8 +134,8 @@
   
   <!-- Template para elementos fr (citas/discurso directo) -->
   <xsl:template match="fr" mode="verse-text">
-    <!-- Procesar elementos t en español y rb dentro de fr -->
-    <xsl:apply-templates select="t[@xml:lang='es'] | rb[@xml:lang='es'] | rb[not(@xml:lang)]" mode="verse-text"/>
+    <!-- Procesar elementos t en español, rb y fp dentro de fr -->
+    <xsl:apply-templates select="t[@xml:lang='es'] | rb[@xml:lang='es'] | rb[not(@xml:lang)] | fp" mode="verse-text"/>
   </xsl:template>
   
   <!-- Template para elementos fp (párrafos de poesía) -->
