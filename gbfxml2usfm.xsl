@@ -96,20 +96,26 @@
 
   <!-- Template para extraer texto en español -->
   <xsl:template match="t[@xml:lang='es']" mode="extract-text">
-    <xsl:apply-templates mode="text-only"/>
-  </xsl:template>
-
-  <!-- Template para extraer solo texto, ignorando elementos wi y otros -->
-  <xsl:template match="wi" mode="text-only">
-    <xsl:value-of select="."/>
-  </xsl:template>
-
-  <!-- Template para texto directo -->
-  <xsl:template match="text()" mode="text-only">
-    <xsl:value-of select="normalize-space(.)"/>
-    <xsl:if test="normalize-space(.) != '' and following-sibling::node()">
-      <xsl:text> </xsl:text>
-    </xsl:if>
+    <xsl:for-each select="node()">
+      <xsl:choose>
+        <!-- Ignorar notas al pie y referencias -->
+        <xsl:when test="self::rb or self::rf"/>
+        
+        <!-- Procesar elementos wi -->
+        <xsl:when test="self::wi">
+          <xsl:value-of select="."/>
+        </xsl:when>
+        
+        <!-- Procesar texto directo -->
+        <xsl:when test="self::text()">
+          <xsl:variable name="text" select="."/>
+          <!-- Solo agregar el texto si no está vacío después de normalizar -->
+          <xsl:if test="normalize-space($text) != ''">
+            <xsl:value-of select="$text"/>
+          </xsl:if>
+        </xsl:when>
+      </xsl:choose>
+    </xsl:for-each>
   </xsl:template>
 
   <!-- Ignorar elementos rb (notas al pie) en el texto principal -->
