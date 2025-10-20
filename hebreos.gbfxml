@@ -2238,6 +2238,7 @@ se traduce como huir, huir por refugio.
 <citebib id="KJV2003"/> dice `para aferrarnos.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `κρατέω´
 se traduce como tener poder, tomar posesión de, agarrar. </rf></rb>
+<t xml:lang="es">
 <wi type="G" value="1680,19,">la esperanza</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="4295,18,">presentada</wi></wi>.
 </t>
@@ -2245,11 +2246,38 @@ se traduce como tener poder, tomar posesión de, agarrar. </rf></rb>
 <sv id="Hebreos-6-19">
 This hope we have as an anchor of the soul, a hope both sure
 and steadfast and entering into that which is within the veil;
+<t xml:lang="es"><wi type="G" value="3739,1,">La cual</wi>
+<wi type="G" value="2192,4,">tenemos</wi>
+<wi type="G" value="5613,2,">como</wi>
+<wi type="G" value="45,3,">una ancla</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="5590,6,">del alma</wi></wi>,
+<wi type="G" value="5037,8,">tanto</wi>
+<wi type="G" value="804,7,">segura</wi>
+<wi type="G" value="2532,9,">como</wi>
+<wi type="G" value="949,10,">firme</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="1525,12,">que entra</wi>
+<wi type="G" value="1519,13,">hasta</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="2082,15,">dentro</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="2665,17,">del velo</wi></wi>;</t>
 </sv>
 <sv id="Hebreos-6-20">
 where as
 a forerunner Jesus entered for us, having become a high priest forever after
 the order of Melchizedek.
+<t xml:lang="es"><wi type="G" value="3699,1,">donde</wi>
+<wi type="G" value="4274,2,">el precursor</wi>
+<wi type="G" value="1525,5,">entró</wi>
+<wi type="G" value="5228,3,">por</wi>
+<wi type="G" value="2257,4,">nosotros</wi>,
+<wi type="G" value="2424,6,">Jesús</wi>,
+<wi type="G" value="1096,12,">hecho</wi>
+<wi type="G" value="749,11,">sumo sacerdote</wi>
+<wi type="G" value="1519,13,">por</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="165,15,">siempre</wi></wi>
+<wi type="G" value="2596,7,">en</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="5010,9,">el orden</wi></wi>
+<wi type="G" value="3198,10,">de Melquisedec</wi>.</t>
 
 <cl/>
 
