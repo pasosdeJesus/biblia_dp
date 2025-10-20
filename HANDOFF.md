@@ -158,11 +158,13 @@ Para CADA versículo debes presentar:
 
 5. **RVG2012:** Texto completo del versículo en español
 
-6. **Strong:** Lista de números Strong que debe coincidir en SpaTDP y en
-   KJV.
+6. **Strong SpaTDP:** Lista de números Strong en SpaTDP ordenados por posición
 
-7. **Verificación**: Reporte de problema o 
-   `✓ Traducción correcta, números Strong coinciden`
+7. **Strong KJV2003:** Lista de números Strong en KJV2003 ordenados por posición
+
+8. **Verificación**: Reporte de problemas ortográficos, gramaticales,
+   de traducción o en concordancia Strong o 
+   `✓ Traducción, ortografía y gramátia correctas, números Strong coinciden`
 
 #### 4.2. Ejemplo de Formato Correcto:
 
@@ -183,41 +185,75 @@ abounded, grace did much more abound:
 **RVG2012:** La ley empero entró para que el pecado creciera; pero cuando el
 pecado creció, sobrepujó la gracia;
 
-**Strong:** G1161 G3551 G3922 G2443 G3588 G3900 G4121 G1161 G3757 G3588 G266
-G4121 G3588 G5485 G5248
+**Strong SpaTDP:** G1161 G3551 G3922 G2443 G3588 G3900 G4121 G1161 G3757 
+G3588 G266 G4121 G3588 G5485 G5248
 
-**Verificacion:** ✓ Traducción correcta, números Strong coinciden
+**Strong KJV:** G1161 G3551 G3922 G2443 G3588 G3900 G4121 G1161 G3757 
+G3588 G266 G4121 G3588 G5485 G5248
+
+**Verificacion:** ✓ Ortografía correcta, Traducción correcta, números Strong coinciden
 ```
 
 #### 4.4. Verificación de Números Strong - CRÍTICO
 
+**Regla fundamental:** El orden de las palabras en español puede diferir del
+griego/inglés. 
+Lo que DEBE coincidir es el **conjunto de números Strong con sus posiciones**.
+
+
 **Cómo verificar correctamente:**
-1. Extraer cada Strong con su número de posición de SpaTDP
+1. Extraer cada Strong con su número de posición de SpaTDP:
+   - De cada `<wi type="G" value="GXXXX,posición,">` extraer: GXXXX,posición
+   - Ejemplo: `value="G3037,16,"` → G3037 posición 16
 2. Extraer cada Strong con su número de posición de KJV (atributo src)
+   - De cada `lemma="strong:GXXXX" src="posición"` extraer: GXXXX,posición
+   - Ejemplo: `lemma="strong:G3037" src="16"` → G3037 posición 16
 3. Comparar que ambas listas sean idénticas: mismo Strong, misma posición
-4. ❌ ERROR: Comparar el orden de aparición en el texto traducido
-5. ✅ CORRECTO: Comparar los números de posición (value="GXXXX,**posición**,")
+   - Ordenar ambas listas por número de posición
+   - Verificar que cada Strong aparezca con la misma posición en ambas
+   - ✅ CORRECTO: Ambas tienen G3037,16 (aunque aparezcan en diferente orden en
+     el texto)
+   - ❌ ERROR: SpaTDP tiene G3037,16 pero KJV tiene G3037,18
+4. **NO importa:**
+   - El orden de aparición en el texto español vs inglés
+   - Que en español diga "piedras grandes" y en inglés "great stones"
+   - La estructura gramatical diferente entre idiomas
+5. **SÍ importa:**
+   - Que cada número Strong esté presente
+   - Que cada Strong tenga el mismo número de posición
+   - Que no falten ni sobren números Strong
 
 **Ejemplo de verificación correcta:**
 
-SpaTDP: 
-- G846,3, (les)
-- G3004,2, (dijo)
+Versículo con orden diferente en español vs inglés:
 
-KJV src:
-- G3004 src="2" (said)
-- G846 src="3" (them)
+SpaTDP (español): "gran poder" 
+- G1411,12 (poder)
+- G4183,13 (gran)
 
-✓ Coinciden: G3004 posición 2, G846 posición 3 en ambos
+KJV (inglés): "great power"
+- G4183,13 (great)
+- G1411,12 (power)
 
-#### 4.4. NO Hacer:
+✅ VERIFICACIÓN: Ambos tienen G1411 en posición 12 y G4183 en posición 13
+✓ Correcto - El orden en el texto es diferente pero las posiciones Strong
+coinciden
+
+**Ejemplo de error real:**
+
+SpaTDP: G3037,16 (piedra en posición 16)
+KJV: G3037,18 (stone en posición 18)
+
+❌ ERROR: Mismo Strong pero diferente posición
+
+#### 4.5. NO Hacer:
 
 ❌ "Revisando versículos 1-10... ✓ Correcto"
 ❌ "Todos los versículos están correctos"
 ❌ Omitir versículos intermedios
 ❌ Resumir múltiples versículos juntos
 
-#### 4.5. SÍ Hacer:
+#### 4.6. SÍ Hacer:
 
 ✅ Presentar CADA versículo individualmente
 ✅ Mostrar TODOS los números Strong de SpaTDP
