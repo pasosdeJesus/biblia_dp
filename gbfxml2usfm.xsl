@@ -125,8 +125,20 @@
     <xsl:value-of select="."/>
   </xsl:template>
   
+  <!-- Template para elementos fr (citas/discurso directo) -->
+  <xsl:template match="fr" mode="verse-text">
+    <!-- Procesar elementos t en español dentro de fr -->
+    <xsl:apply-templates select="t[@xml:lang='es']" mode="verse-text"/>
+  </xsl:template>
+  
+  <!-- Template para elementos fp (párrafos de poesía) -->
+  <xsl:template match="fp" mode="verse-text">
+    <!-- Procesar elementos t en español dentro de fp -->
+    <xsl:apply-templates select="t[@xml:lang='es'] | rb[@xml:lang='es']" mode="verse-text"/>
+  </xsl:template>
+  
   <!-- Ignorar elementos que no son parte del texto bíblico -->
-  <xsl:template match="cl|fp|fr|cm" mode="verse-text"/>
+  <xsl:template match="cl|cm" mode="verse-text"/>
   
   <!-- Ignorar texto en inglés -->
   <xsl:template match="text()[parent::sv and not(ancestor::t[@xml:lang='es']) and not(ancestor::rb)]" mode="verse-text"/>
