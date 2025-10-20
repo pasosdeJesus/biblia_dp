@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # Script para convertir GBFXML a USFM y limpiar espacios antes de puntuación
 
 if [ $# -lt 2 ]; then
