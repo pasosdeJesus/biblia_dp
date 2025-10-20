@@ -102,14 +102,19 @@
   <!-- Template para elementos wi (palabras con Strong) -->
   <xsl:template match="wi" mode="verse-text">
     <xsl:value-of select="."/>
-    <!-- Agregar espacio después de cada wi -->
     <xsl:text> </xsl:text>
   </xsl:template>
   
-  <!-- Template para elementos rb (puede contener texto bíblico + nota) -->
+  <!-- Template para elementos rb con xml:lang='es' -->
   <xsl:template match="rb[@xml:lang='es']" mode="verse-text">
     <!-- Procesar wi y texto, pero ignorar rf -->
     <xsl:apply-templates select="wi | text()[normalize-space(.) != '']" mode="verse-text"/>
+  </xsl:template>
+  
+  <!-- Template para elementos rb sin xml:lang (pueden contener t con xml:lang='es') -->
+  <xsl:template match="rb[not(@xml:lang)]" mode="verse-text">
+    <!-- Procesar elementos t en español dentro de rb, pero ignorar rf -->
+    <xsl:apply-templates select="t[@xml:lang='es'] | wi" mode="verse-text"/>
   </xsl:template>
   
   <!-- Template para elementos rf (notas al pie) - ignorar completamente -->
@@ -121,10 +126,10 @@
   </xsl:template>
   
   <!-- Ignorar elementos que no son parte del texto bíblico -->
-  <xsl:template match="cl|fp|fr|cm|rb[not(@xml:lang='es')]" mode="verse-text"/>
+  <xsl:template match="cl|fp|fr|cm" mode="verse-text"/>
   
   <!-- Ignorar texto en inglés -->
-  <xsl:template match="text()[parent::sv and not(ancestor::t[@xml:lang='es']) and not(ancestor::rb[@xml:lang='es'])]" mode="verse-text"/>
+  <xsl:template match="text()[parent::sv and not(ancestor::t[@xml:lang='es']) and not(ancestor::rb)]" mode="verse-text"/>
   
   <!-- Template por defecto: no procesar otros elementos -->
   <xsl:template match="*"/>
