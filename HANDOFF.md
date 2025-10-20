@@ -146,7 +146,12 @@ fidelidad respecto al Textus Receptus.
 
 #### 4.1. Estructura del Reporte por Versículo
 
-Para CADA versículo debes presentar:
+Para CADA versículo sin problema debes presentar:
+1. **Número de versículo** (ej: ROMANOS 12:1)
+
+2. ✓ Ortografía correcta, Traducción correcta, números Strong coinciden
+
+Para CADA versículo con problemas debes presentar:
 
 1. **Número del versículo** (ej: ROMANOS 12:1)
 
@@ -166,7 +171,7 @@ Para CADA versículo debes presentar:
    de traducción o en concordancia Strong o 
    `✓ Traducción, ortografía y gramátia correctas, números Strong coinciden`
 
-#### 4.2. Ejemplo de Formato Correcto:
+#### 4.2. Ejemplo de Formato para un versCorrecto:
 
 ```
 **ROMANOS 5:20**
@@ -255,13 +260,13 @@ KJV: G3037,18 (stone en posición 18)
 
 #### 4.6. SÍ Hacer:
 
-✅ Presentar CADA versículo individualmente
-✅ Mostrar TODOS los números Strong de SpaTDP
-✅ Mostrar TODOS los números Strong de KJV
-✅ Incluir el texto completo de WEB
-✅ Incluir el texto completo de RVG2012
+✅ Revisar CADA versículo individualmente
+✅ Extraer TODOS los números Strong de SpaTDP
+✅ Extraer TODOS los números Strong de KJV
+✅ Extraer el texto completo de WEB
+✅ Extraer el texto completo de RVG2012
 ✅ Verificar palabra por palabra
-✅ Si hay 25 versículos, presentar los 25
+✅ Si hay 25 versículos, verificar los 25
 
 
 ### 5. Resumen final
