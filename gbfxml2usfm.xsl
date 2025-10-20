@@ -88,51 +88,44 @@
     <xsl:text> </xsl:text>
     
     <!-- Extraer solo el texto en español -->
-    <xsl:apply-templates select=".//t[@xml:lang='es']" mode="extract-text"/>
+    <xsl:apply-templates mode="verse-text"/>
     
     <!-- Agregar salto de línea al final del versículo -->
     <xsl:text>&#10;</xsl:text>
   </xsl:template>
 
-  <!-- Template para extraer texto en español -->
-  <xsl:template match="t[@xml:lang='es']" mode="extract-text">
-    <xsl:for-each select="node()">
-      <xsl:choose>
-        <!-- Ignorar notas al pie y referencias -->
-        <xsl:when test="self::rb or self::rf"/>
-        
-        <!-- Procesar elementos wi -->
-        <xsl:when test="self::wi">
-          <xsl:value-of select="."/>
-        </xsl:when>
-        
-        <!-- Procesar texto directo -->
-        <xsl:when test="self::text()">
-          <xsl:variable name="text" select="."/>
-          <!-- Solo agregar el texto si no está vacío después de normalizar -->
-          <xsl:if test="normalize-space($text) != ''">
-            <xsl:value-of select="$text"/>
-          </xsl:if>
-        </xsl:when>
-      </xsl:choose>
-    </xsl:for-each>
+  <!-- Template para elementos t en español -->
+  <xsl:template match="t[@xml:lang='es']" mode="verse-text">
+    <xsl:apply-templates mode="verse-text"/>
   </xsl:template>
-
-  <!-- Ignorar elementos rb (notas al pie) en el texto principal -->
-  <xsl:template match="rb" mode="text-only"/>
   
-  <!-- Ignorar elementos rf (referencias) -->
-  <xsl:template match="rf" mode="text-only"/>
+  <!-- Template para elementos wi (palabras con Strong) -->
+  <xsl:template match="wi" mode="verse-text">
+    <xsl:value-of select="."/>
+    <!-- Agregar espacio después de cada wi -->
+    <xsl:text> </xsl:text>
+  </xsl:template>
   
-  <!-- Ignorar elementos cl (saltos de línea en poesía) -->
-  <xsl:template match="cl" mode="text-only"/>
+  <!-- Template para elementos rb (puede contener texto bíblico + nota) -->
+  <xsl:template match="rb[@xml:lang='es']" mode="verse-text">
+    <!-- Procesar wi y texto, pero ignorar rf -->
+    <xsl:apply-templates select="wi | text()[normalize-space(.) != '']" mode="verse-text"/>
+  </xsl:template>
   
-  <!-- Ignorar elementos fp (párrafos de poesía) -->
-  <xsl:template match="fp" mode="text-only"/>
+  <!-- Template para elementos rf (notas al pie) - ignorar completamente -->
+  <xsl:template match="rf" mode="verse-text"/>
   
-  <!-- Ignorar elementos fr (citas) -->
-  <xsl:template match="fr" mode="text-only"/>
-
+  <!-- Template para texto directo -->
+  <xsl:template match="text()" mode="verse-text">
+    <xsl:value-of select="."/>
+  </xsl:template>
+  
+  <!-- Ignorar elementos que no son parte del texto bíblico -->
+  <xsl:template match="cl|fp|fr|cm|rb[not(@xml:lang='es')]" mode="verse-text"/>
+  
+  <!-- Ignorar texto en inglés -->
+  <xsl:template match="text()[parent::sv and not(ancestor::t[@xml:lang='es']) and not(ancestor::rb[@xml:lang='es'])]" mode="verse-text"/>
+  
   <!-- Template por defecto: no procesar otros elementos -->
   <xsl:template match="*"/>
   
