@@ -11004,7 +11004,7 @@ Let him who is in the field not return back to take his cloak.
 <wi type="G" value="3588,4,"><wi type="G" value="68,5,">el campo</wi></wi>
 <wi type="G" value="3361,7,">que no</wi>
 <wi type="G" value="1994,8,">de vuelta</wi>
-<wi type="G" value="3588,10,"/><wi type="G" value="3694,11,">atras</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="3694,11,">atrás</wi>
 <wi type="G" value="1519,9,">a</wi>
 <wi type="G" value="142,12,">recoger</wi>
 <wi type="G" value="846,15,">su</wi>
@@ -11585,17 +11585,17 @@ not always have me.
 She has done what she could. She has anointed my
 body beforehand for the burying.
 <rb xml:lang="es"><wi type="G" value="846,3,">Ella</wi>
-<wi type="G" value="4160,5,">ha hecho</wi>
+<wi type="G" value="4160,4,">ha hecho</wi>
 <wi type="G" value="3739,1,">lo que</wi>
 <wi type="G" value="2192,2,">ha podido</wi><rf><citebib id="Peshitta"/>
 no dice `Ella ha hecho lo que ha podido.´</rf></rb>
 <t xml:lang="es">.
-<wi type="G" value="3778,4,"/><wi type="G" value="4301,6,">Se ha anticipado</wi>
-<wi type="G" value="1519,11,">para</wi>
-<wi type="G" value="3462,7,">ungir</wi>
-<wi type="G" value="3450,8,">mi</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="4983,10,">cuerpo</wi></wi>
-<wi type="G" value="3588,12,"><wi type="G" value="1780,13,">para la sepultura</wi></wi>. </t>
+<wi type="G" value="4301,5,">Se ha anticipado</wi>
+<wi type="G" value="1519,10,">para</wi>
+<wi type="G" value="3462,6,">ungir</wi>
+<wi type="G" value="3450,7,">mi</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="4983,9,">cuerpo</wi></wi>
+<wi type="G" value="3588,11,"><wi type="G" value="1780,12,">para la sepultura</wi></wi>. </t>
 
 </fr>
 </sv>
