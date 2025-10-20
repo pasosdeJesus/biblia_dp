@@ -102,13 +102,20 @@
   <!-- Template para elementos wi (palabras con Strong) -->
   <xsl:template match="wi" mode="verse-text">
     <xsl:value-of select="."/>
-    <xsl:text> </xsl:text>
+    <xsl:variable name="next-char" select="substring(normalize-space(following-sibling::node()[1]), 1, 1)"/>
+    <!-- No agregar espacio si lo siguiente es puntuación -->
+    <xsl:choose>
+      <xsl:when test="$next-char = ',' or $next-char = '.' or $next-char = ';' or $next-char = ':' or $next-char = '!' or $next-char = '?' or $next-char = '»' or $next-char = ')'"/>
+      <xsl:otherwise>
+        <xsl:text> </xsl:text>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
   
   <!-- Template para elementos rb con xml:lang='es' -->
   <xsl:template match="rb[@xml:lang='es']" mode="verse-text">
-    <!-- Procesar wi y texto, pero ignorar rf -->
-    <xsl:apply-templates select="wi | text()[normalize-space(.) != '']" mode="verse-text"/>
+    <!-- Procesar wi, texto y elementos t, pero ignorar rf -->
+    <xsl:apply-templates select="wi | t[@xml:lang='es'] | text()[normalize-space(.) != '']" mode="verse-text"/>
   </xsl:template>
   
   <!-- Template para elementos rb sin xml:lang (pueden contener t con xml:lang='es') -->
@@ -127,14 +134,14 @@
   
   <!-- Template para elementos fr (citas/discurso directo) -->
   <xsl:template match="fr" mode="verse-text">
-    <!-- Procesar elementos t en español dentro de fr -->
-    <xsl:apply-templates select="t[@xml:lang='es']" mode="verse-text"/>
+    <!-- Procesar elementos t en español y rb dentro de fr -->
+    <xsl:apply-templates select="t[@xml:lang='es'] | rb[@xml:lang='es'] | rb[not(@xml:lang)]" mode="verse-text"/>
   </xsl:template>
   
   <!-- Template para elementos fp (párrafos de poesía) -->
   <xsl:template match="fp" mode="verse-text">
-    <!-- Procesar elementos t en español dentro de fp -->
-    <xsl:apply-templates select="t[@xml:lang='es'] | rb[@xml:lang='es']" mode="verse-text"/>
+    <!-- Procesar elementos t en español y rb dentro de fp -->
+    <xsl:apply-templates select="t[@xml:lang='es'] | rb[@xml:lang='es'] | rb[not(@xml:lang)]" mode="verse-text"/>
   </xsl:template>
   
   <!-- Ignorar elementos que no son parte del texto bíblico -->
