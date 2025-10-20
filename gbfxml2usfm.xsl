@@ -114,8 +114,8 @@
   
   <!-- Template para elementos rb con xml:lang='es' -->
   <xsl:template match="rb[@xml:lang='es']" mode="verse-text">
-    <!-- Procesar solo wi y elementos t en español, ignorar texto directo en inglés y rf -->
-    <xsl:apply-templates select="wi | t[@xml:lang='es']" mode="verse-text"/>
+    <!-- Procesar wi, elementos t en español y texto directo (que está en español), ignorar rf -->
+    <xsl:apply-templates select="wi | t[@xml:lang='es'] | text()[not(parent::rf)]" mode="verse-text"/>
   </xsl:template>
   
   <!-- Template para elementos rb sin xml:lang (pueden contener t con xml:lang='es') -->
