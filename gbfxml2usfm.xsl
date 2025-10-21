@@ -3,6 +3,7 @@
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
   <xsl:output method="text" encoding="UTF-8"/>
+  <xsl:strip-space elements="*"/>
 
   <!-- Template principal -->
   <xsl:template match="/">
@@ -101,14 +102,8 @@
   <!-- Template para elementos wi (palabras con Strong) -->
   <xsl:template match="wi" mode="verse-text">
     <xsl:value-of select="."/>
-    <xsl:variable name="next-char" select="substring(normalize-space(following-sibling::node()[1]), 1, 1)"/>
-    <!-- No agregar espacio si lo siguiente es puntuación -->
-    <xsl:choose>
-      <xsl:when test="$next-char = ',' or $next-char = '.' or $next-char = ';' or $next-char = ':' or $next-char = '!' or $next-char = '?' or $next-char = '»' or $next-char = ')'"/>
-      <xsl:otherwise>
-        <xsl:text> </xsl:text>
-      </xsl:otherwise>
-    </xsl:choose>
+    <!-- Siempre agregar espacio después de wi, el sed lo limpiará si es antes de puntuación -->
+    <xsl:text> </xsl:text>
   </xsl:template>
   
   <!-- Template para elementos rb con xml:lang='es' -->
@@ -129,6 +124,10 @@
   <!-- Template para texto directo -->
   <xsl:template match="text()" mode="verse-text">
     <xsl:value-of select="."/>
+    <!-- Agregar espacio después del texto si no está vacío -->
+    <xsl:if test="normalize-space(.) != ''">
+      <xsl:text> </xsl:text>
+    </xsl:if>
   </xsl:template>
   
   <!-- Template para elementos fr (citas/discurso directo) -->
@@ -147,7 +146,7 @@
   <xsl:template match="cl|cm" mode="verse-text"/>
   
   <!-- Ignorar texto en inglés -->
-  <xsl:template match="text()[parent::sv and not(ancestor::t[@xml:lang='es']) and not(ancestor::rb)]" mode="verse-text"/>
+  <xsl:template match="text()[parent::sv and not(ancestor::t[@xml:lang='es']) and not(ancestor::rb[@xml:lang='es'])]" mode="verse-text"/>
   
   <!-- Template por defecto: no procesar otros elementos -->
   <xsl:template match="*"/>
