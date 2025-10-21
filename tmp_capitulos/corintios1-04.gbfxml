@@ -66,10 +66,19 @@ I know nothing against myself. Yet I am not justified by this, but he who
 judges me is the Lord.
 <t xml:lang="es">
 <wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="3762,1,">no</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="3762,1,">no</wi> 
 <wi type="G" value="4894,4,">se</wi>
-<wi type="GC" value="1">nada</wi>
-<wi type="G" value="1683,3,">por mi mismo</wi>.
+<wi type="GC" value="1">nada</wi> 
+<wi type="G" value="1683,3,">por mi mismo</wi><rf>
+<citebib id="WEB"/> dice `no se nada contra mi,´
+<citebib id="KJV2003"/> dice `no se nada por mi mismo,´
+<citebib id="RVG2012"/> dice `tengo mala conciencia de nada.´
+Segun <citebib id="Thayer-BLB"/> la palabra griega `συνοράω´ puede
+traducirse como haber visto, entender, comprender, ser conciente,
+conocer con otros o en si mismo.
+</rf></rb>
+<t xml:lang="es">.
 <wi type="G" value="235,5,">Pero</wi>
 <wi type="G" value="3756,6,">no</wi>
 <wi type="G" value="1344,9,">soy justificado</wi>
@@ -181,7 +190,7 @@ did reign, that we also might reign with you.
 <t xml:lang="es">
 <wi type="G" value="2235,1,">Ahora</wi>
 <wi type="G" value="2075,3,">ustedes están</wi>
-<wi type="G" value="2880,2,">llenos</wi>.
+<wi type="G" value="2880,2,">repletos</wi>.
 <wi type="G" value="2235,4,">Ahora</wi>
 <wi type="G" value="4147,5,">son ricos</wi>.
 <wi type="G" value="936,8,">Han venido a reinar</wi>

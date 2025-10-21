@@ -224,7 +224,7 @@ dove.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2112,2,">En el momento</wi>
 que <wi type="G" value="305,3,">salió</wi>
 <wi type="G" value="575,4,">del</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="5204,6,">agua</wi></wi>, Juan
+<wi type="G" value="3588,5,"><wi type="G" value="5204,6,">agua</wi></wi>,
 <wi type="G" value="1492,7,">vio</wi>
 que
 <wi type="G" value="3588,9,"><wi type="G" value="3772,10,">el cielo</wi></wi> </t>
@@ -286,7 +286,7 @@ animals; and the angels were ministering to him.
 <wi type="G" value="2258,14,">estuvo</wi>
 <wi type="G" value="3326,15,">con</wi>
 <wi type="G" value="3588,16,"><wi type="G" value="2342,17,">los
-animales salvajes</wi></wi> ;
+animales salvajes</wi></wi>;
 <wi type="G" value="2532,18,">y</wi>
 <wi type="G" value="3588,19,"><wi type="G" value="32,20,">los ángeles</wi></wi>
 <wi type="G" value="846,22,">le</wi>
@@ -455,9 +455,9 @@ on the Sabbath day he entered into the synagogue and taught.
 <wi type="G" value="1519,3,">a</wi>
 <wi type="G" value="2584,4,">Capernaum</wi>,
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="2112,6,">al siguiente</wi>
+<wi type="G" value="2112,6,">de inmediato en</wi> 
 </t>
-<rb xml:lang="es"><wi type="G" value="3588,7,"><wi type="G" value="4521,8,">día sabático</wi></wi><rf>Día de descanso. Entre Judíos es el sábado.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="3588,7,"><wi type="G" value="4521,8,">el día sabático</wi></wi><rf>Día de descanso. Entre Judíos es el sábado.</rf></rb>
 <t xml:lang="es"> <wi type="G" value="1525,9,">entró</wi>
 <wi type="G" value="1519,10,">a</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="4864,12,">la sinagoga</wi></wi> y

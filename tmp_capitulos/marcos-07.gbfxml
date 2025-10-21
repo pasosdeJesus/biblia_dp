@@ -23,7 +23,7 @@ eating bread with defiled, that is, unwashed, hands, they found fault.
 <wi type="G" value="3588,4,"><wi type="G" value="3101,5,">discípulos</wi></wi>
 <wi type="G" value="2068,12,">comiendo</wi>
 <wi type="G" value="740,13,">pan</wi>
-<wi type="G" value="2839,7,">inpuramente</wi>
+<wi type="G" value="2839,7,">impuramente</wi>
 <wi type="G" value="5124,9,">es</wi>
 <wi type="G" value="2076,10,">decir</wi>,
 <wi type="G" value="449,11,">sin lavarse</wi>
@@ -287,7 +287,7 @@ this.»
 <wi type="G" value="3588,4,"><wi type="G" value="2316,5,">de Dios</wi></wi>
 <wi type="G" value="5216,8,">por su</wi>
 <wi type="G" value="3588,6,"><wi type="G" value="3862,7,">tradición</wi></wi>
-<wi type="G" value="3739,9,">que</wi>j
+<wi type="G" value="3739,9,">que</wi>
 <wi type="G" value="3860,10,">han continuado</wi>,
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="4160,15,">hacen</wi>
@@ -300,7 +300,7 @@ this.»
 <cm>
 <sv id="Marcos-7-14">
 He called all the multitude to himself, and said to them,
-<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="4341,2,">Él llaamó</wi> <wi type="G" value="3956,3,">a toda</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="4341,2,">Él llamó</wi> <wi type="G" value="3956,3,">a toda</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="3793,5,">la multitud</wi></wi>  y <wi type="G" value="846,7,">les</wi>
 <wi type="G" value="3004,6,">dijo</wi>, </t>
 <fr>«Hear me, all of you, and understand.
@@ -655,7 +655,7 @@ They brought to him one who was deaf and had an impediment in his speech.
 They begged him to lay his hand on him.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="846,3,">le</wi>
-<wi type="G" value="5342,2,">llevarón</wi>
+<wi type="G" value="5342,2,">llevaron</wi>
 <wi type="G" value="2974,4,">un sordo</wi> que también
 <wi type="G" value="3424,5,">tenía impedimento
 para hablar</wi>.
@@ -675,8 +675,7 @@ touched his tongue.
 <t xml:lang="es"><wi type="G" value="2532,1,"/>Él
 <wi type="G" value="846,3,">lo</wi>
 <wi type="G" value="618,2,">tomó</wi>
-<wi type="G" value="2596,7,">con</wi>
-<wi type="G" value="2398,8,">sigo</wi>
+<wi type="G" value="2596,7,"><wi type="G" value="2398,8,">consigo</wi></wi>
 aparte <wi type="G" value="575,4,">de</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="3793,6,">la multitud</wi></wi>,
 <wi type="G" value="906,9,">puso</wi>

@@ -243,14 +243,14 @@ y
 <wi type="G" value="1161,28,"/>
 de <wi type="G" value="5613,29,">aproximadamente</wi>
 <wi type="G" value="1367,30,">dos mil</wi>
-cerdos
-<wi type="G" value="2532,17,"/>
+cerdos;
+<wi type="G" value="2532,17,">y</wi>
 <wi type="G" value="3729,18,">se lanzó</wi>
 <wi type="G" value="3588,25,"><wi type="G" value="2281,26,">al mar</wi></wi> desde
 <wi type="G" value="2596,21,"/>
 <wi type="G" value="3588,22,"><wi type="G" value="2911,23,">un acantilado</wi></wi>
-<wi type="G" value="1519,24,"/>
-<wi type="G" value="2532,31,">y</wi> <wi type="G" value="4155,32,">se ahogaron</wi>
+<wi type="G" value="1519,24,"/><wi type="G" value="2532,31,">y</wi>
+<wi type="G" value="4155,32,">se ahogaron</wi>
 <wi type="G" value="1722,33,">en</wi>
 <wi type="G" value="3588,34,"><wi type="G" value="2281,35,">el mar</wi></wi>. </t>
 </sv>
@@ -434,7 +434,7 @@ his feet,
 <wi type="G" value="2064,3,">vino</wi>;
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="1492,10,"><wi type="G" value="846,11,">viéndolo</wi></wi>
-<wi type="G" value="4098,12,">calló</wi>
+<wi type="G" value="4098,12,">cayó</wi>
 <wi type="G" value="4314,13,">a</wi>
 <wi type="G" value="846,16,">sus</wi>
 <wi type="G" value="3588,14,"><wi type="G" value="4228,15,">pies</wi></wi>, </t>
@@ -761,9 +761,9 @@ The child is not dead, but is asleep.»
 They ridiculed him. But he, having put them all out, took the father of
 the child and her mother and those who were with him, and went in where the
 child was lying.
-<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2606,2,">Se burlaron</wi> <wi type="G" value="846,3,">de Él</wi>
-<wi type="G" value="3588,4,"/>
-<wi type="G" value="1161,5,">Pero</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2606,2,">Se burlaron</wi>
+<wi type="G" value="846,3,">de Él</wi>.
+<wi type="G" value="3588,4,"/><wi type="G" value="1161,5,">Pero</wi>
 <wi type="G" value="1544,6,">sacandolos</wi>
 <wi type="G" value="537,7,">a todos</wi>,
 <wi type="G" value="3880,8,">tomó</wi>
@@ -786,7 +786,7 @@ child was lying.
 Taking the child by the hand, he said to her,
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2902,2,">Tomándo</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="3813,6,">a la niña</wi></wi>
-<wi type="G" value="3588,3,"><wi type="G" value="5495,4,">de la manó</wi></wi>,
+<wi type="G" value="3588,3,"><wi type="G" value="5495,4,">de la mano</wi></wi>,
 <wi type="G" value="846,8,">le</wi>
 <wi type="G" value="3004,7,">dijo</wi>, </t>
 <fr>«Talita cumi;»
