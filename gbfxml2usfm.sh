@@ -20,10 +20,15 @@ xsltproc gbfxml2usfm.xsl "$INPUT" | \
   sed 's/ ?/?/g' | \
   sed 's/ »/»/g' | \
   sed 's/ )/)/g' | \
+  # Eliminar espacios después de apertura de comillas
+  sed 's/« /«/g' | \
+  sed 's/` /`/g' | \
   # Eliminar múltiples espacios consecutivos
   sed 's/  */ /g' | \
   # Eliminar espacios al final de línea
-  sed 's/ $//' \
+  sed 's/ $//' | \
+  # Eliminar líneas en blanco múltiples
+  sed '/^$/N;/^\n$/D' \
   > "$OUTPUT"
 
 echo "Conversión completada: $OUTPUT"
