@@ -123,9 +123,9 @@
   
   <!-- Template para texto directo -->
   <xsl:template match="text()" mode="verse-text">
-    <xsl:value-of select="."/>
-    <!-- Agregar espacio después del texto si no está vacío -->
+    <!-- Solo procesar si el texto tiene contenido no vacío -->
     <xsl:if test="normalize-space(.) != ''">
+      <xsl:value-of select="."/>
       <xsl:text> </xsl:text>
     </xsl:if>
   </xsl:template>
