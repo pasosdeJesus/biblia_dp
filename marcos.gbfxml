@@ -2000,7 +2000,7 @@ and Judas Iscariot, who also betrayed him.
 <wi type="G" value="3739,4,">quien</wi>
 <wi type="G" value="2532,5,">también</wi>
 <wi type="G" value="846,7,">lo</wi>
-<wi type="G" value="3860,6,">traicionó</wi></t>
+<wi type="G" value="3860,6,">traicionó</wi>.</t>
 
 <cl/>
 He came into a house.
@@ -3958,9 +3958,9 @@ The child is not dead, but is asleep.»
 They ridiculed him. But he, having put them all out, took the father of
 the child and her mother and those who were with him, and went in where the
 child was lying.
-<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2606,2,">Se burlaron</wi> <wi type="G" value="846,3,">de Él</wi>
-<wi type="G" value="3588,4,"/>
-<wi type="G" value="1161,5,">Pero</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2606,2,">Se burlaron</wi>
+<wi type="G" value="846,3,">de Él</wi>.
+<wi type="G" value="3588,4,"/><wi type="G" value="1161,5,">Pero</wi>
 <wi type="G" value="1544,6,">sacandolos</wi>
 <wi type="G" value="537,7,">a todos</wi>,
 <wi type="G" value="3880,8,">tomó</wi>
@@ -10872,8 +10872,8 @@ For it is not you who speak, but the Holy Spirit.
 <wi type="G" value="5209,4,">los</wi>
 <wi type="G" value="71,3,">conduzcan</wi> y
 <wi type="G" value="3860,5,">los entreguen</wi>, </t>
-<rb xml:lang="es"><wi type="G" value=","><wi type="G" value="3361,6,">no</wi>
-<wi type="G" value="4305,7,">estén ansiosos anticipadamente</wi></wi><rf><citebib id="WEB"/>
+<rb xml:lang="es"><wi type="G" value="3361,6,">no</wi>
+<wi type="G" value="4305,7,">estén ansiosos anticipadamente</wi><rf><citebib id="WEB"/>
 dice `no estén ansioso antes,' <citebib id="KJV2003"/> dice `no tomen
 pensamientos con anterioridad,' <citebib id="RV1909"/> dice `no premediten lo
 que han de decir, ni lo piensen,' según <citebib id="Thayer-BLB"/> la
