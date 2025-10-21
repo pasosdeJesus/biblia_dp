@@ -2288,6 +2288,29 @@ the order of Melchizedek.
 <sv id="Hebreos-7-1">
 For this Melchizedek, king of Salem, priest of God Most High, who
 met Abraham returning from the slaughter of the kings and blessed him,
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3778,1,">este</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="3198,4,">Melquisedec</wi>,
+<wi type="G" value="935,5,">rey</wi>
+<wi type="G" value="4532,6,">de Salem</wi>,
+<wi type="G" value="2409,7,">sacerdote</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">del Dios</wi></wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="5310,11,">Altísimo</wi>,
+<wi type="G" value="3588,12,">que</wi> <wi type="G" value="4876,13,">se reunió con</wi>
+<wi type="G" value="11,14,">Abraham</wi>
+<wi type="G" value="5290,15,">cuando volvía</wi>
+<wi type="G" value="575,16,">de</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,17,"><wi type="G" value="2871,18,">la
+matanza</wi></wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> 
+dicen `matanza,´
+<citebib id="RVG2012"/> dice `derrota.´ Según <citebib id="Thayer-BLB"/> la
+palabra griega `κοπή´ es el acto de cortar, cortar en pedazos, matar.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3588,19,"><wi type="G" value="935,20,">de los reyes</wi></wi>
+<wi type="G" value="2532,21,">y</wi>
+<wi type="G" value="846,23,">lo</wi>
+<wi type="G" value="2127,22,">bendijo</wi>,</t>
 
 </sv>
 <sv id="Hebreos-7-2">
