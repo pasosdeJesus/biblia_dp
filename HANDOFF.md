@@ -80,7 +80,7 @@ fidelidad respecto al Textus Receptus.
 - `type="GC"` = continuación de palabra dividida
 
 ### Referencias
-- `tmp_capitulos/romanos-{cc}.gbfxml` es capítulo `cc` de Romanos con 
+- `gen/capitulos/romanos-{cc}.gbfxml` es capítulo `cc` de Romanos con 
    traducciones WEB y SpaTDP y con marcado Strong en SpaTDP
 - `ref/sword_kjv/capitulos/Romans-{cc}.osis.xml)` - es capítulo `cc` de 
    Filemón de KJV con Strong y morfología Robinson.  
@@ -103,7 +103,7 @@ fidelidad respecto al Textus Receptus.
    - Si el usuario dice "continúa con capítulos X-Y", leer TODOS esos capítulos
 
 2. **Comparar palabra por palabra, versículo por versículo**:
-   - La traducción SpaTDP (tmp_capitulos/*.gbfxml)
+   - La traducción SpaTDP (gen/capitulos/*.gbfxml)
    - KJV+Strong (ref/sword_kjv/capitulos/*.osis.xml)
    - RVG2012 (ref/reina_valera_geiger_nt/*.usfm)
 
@@ -312,7 +312,7 @@ Ejemplo: G2150 aparece en 1 Tim 2:2, 3:16, 4:7,8, 6:3,5,6,11 - debe ser siempre
 ## Limitaciones Técnicas del Agente
 
 - Archivos grandes (>40k tokens) se truncan
-- Solución: usar archivos gbfxml divididos por capítulos en `tmp_capitulos/` 
+- Solución: usar archivos gbfxml divididos por capítulos en `gen/capitulos/` 
   y de KJV en ref/swork_kjv/capitulos
 - Búsquedas con `gitlab_blob_search` tienen límites de resultados
 
