@@ -35,6 +35,7 @@ xsltproc gbfxml2usfm.xsl "$INPUT" | \
   sed 's/« /«/g' | \
   sed 's/` /`/g' | \
   sed 's/( /(/g' | \
+  sed 's/¡ /¡/g' | \
   # Eliminar espacios antes de comillas de cierre
   sed 's/ \([`´]\)/\1/g' | \
   # Eliminar múltiples espacios consecutivos
@@ -42,7 +43,12 @@ xsltproc gbfxml2usfm.xsl "$INPUT" | \
   # Eliminar espacios al final de línea
   sed 's/ $//' | \
   # Eliminar líneas en blanco múltiples
-  sed '/^$/N;/^\n$/D' \
+  sed '/^$/N;/^\n$/D' | \
+  # Unir lineas del mismo versículo
+  tr "\n" "\|" | \
+  sed -e "s/\|\|*/\|/g" | \
+  sed -e "s/ *| *\([^\]\)/ \1/g" | \
+  tr "\|" "\n" \
   > "$TEMP_USFM"
 
 # Dividir por capítulos usando awk
@@ -97,3 +103,4 @@ rm -f "$TEMP_USFM"
 
 echo "Conversión completada. Archivos creados en: $OUTPUT_DIR"
 ls -1 "$OUTPUT_DIR"/${BOOK_NAME}-*.usfm
+

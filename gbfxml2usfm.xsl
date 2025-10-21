@@ -10,7 +10,8 @@
     <xsl:apply-templates select="//sb"/>
   </xsl:template>
 
-  <!-- Template para el libro (sb) -->
+  <!-- Template para el libro (sb)  -->
+  <!-- bookID sigue https://ubsicap.github.io/usfm/identification/books.html -->
   <xsl:template match="sb">
     <xsl:variable name="bookId">
       <xsl:choose>
@@ -32,6 +33,15 @@
         <xsl:when test="@id='2 Timoteo'">2TI</xsl:when>
         <xsl:when test="@id='Tito'">TIT</xsl:when>
         <xsl:when test="@id='Filemón'">PHM</xsl:when>
+        <xsl:when test="@id='Hebreos'">HEB</xsl:when>
+        <xsl:when test="@id='Santiago'">JAS</xsl:when>
+        <xsl:when test="@id='1 Pedro'">1PE</xsl:when>
+        <xsl:when test="@id='2 Pedro'">2PE</xsl:when>
+        <xsl:when test="@id='1 Juan'">1JN</xsl:when>
+        <xsl:when test="@id='2 Juan'">2JN</xsl:when>
+        <xsl:when test="@id='3 Juan'">3JN</xsl:when>
+        <xsl:when test="@id='Judas'">JUD</xsl:when>
+        <xsl:when test="@id='Apocalipsis'">REV</xsl:when>
         <xsl:otherwise><xsl:value-of select="@id"/></xsl:otherwise>
       </xsl:choose>
     </xsl:variable>
