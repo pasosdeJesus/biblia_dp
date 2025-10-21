@@ -346,7 +346,7 @@ animals; and the angels were ministering to him.
 <wi type="G" value="2258,14,">estuvo</wi>
 <wi type="G" value="3326,15,">con</wi>
 <wi type="G" value="3588,16,"><wi type="G" value="2342,17,">los
-animales salvajes</wi></wi> ;
+animales salvajes</wi></wi>;
 <wi type="G" value="2532,18,">y</wi>
 <wi type="G" value="3588,19,"><wi type="G" value="32,20,">los ángeles</wi></wi>
 <wi type="G" value="846,22,">le</wi>
@@ -2022,7 +2022,7 @@ could not so much as eat bread.
 <wi type="G" value="1410,7,">podían</wi>
 <wi type="G" value="3383,9,">ni</wi>
 <wi type="G" value="5315,11,">comer</wi>
-<wi type="G" value="740,10,">pan</wi>. </t>
+<wi type="G" value="740,10,">pan</wi>.</t>
 </sv>
 <sv id="Marcos-3-21">
 When his friends heard it, they went
@@ -4074,7 +4074,7 @@ that such mighty works come about by his hands?
 <wi type="G" value="1605,12,">quedaban asombrados</wi> y
 <wi type="G" value="3004,13,">decían</wi>,
 «¿<wi type="G" value="4159,14,">De donde</wi>
-<wi type="G" value="5129,15,">éste hombre</wi>  con
+<wi type="G" value="5129,15,">éste hombre</wi> con
 <wi type="G" value="5023,16,">estas cosas</wi>?»
 <wi type="G" value="2532,17,">y</wi> «¿<wi type="G" value="5101,18,">Qué</wi>
 <wi type="G" value="3588,19,"><wi type="G" value="4678,20,">sabiduría</wi></wi>
@@ -4088,7 +4088,7 @@ that such mighty works come about by his hands?
 <wi type="G" value="1096,32,">procedan</wi>
 <wi type="G" value="1223,28,">de</wi>
 <wi type="G" value="846,31,">sus</wi>
-<wi type="G" value="3588,29,"><wi type="G" value="5495,30,">manos</wi></wi>?   </t>
+<wi type="G" value="3588,29,"><wi type="G" value="5495,30,">manos</wi></wi>?</t>
 </sv>
 <sv id="Marcos-6-3">
 Isn´t this the
@@ -4186,7 +4186,7 @@ He went around the villages teaching.
 <wi type="G" value="4013,8,">fue</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="2968,10,">a los pueblos</wi></wi>
 <wi type="G" value="2945,11,">de los alrededores</wi>
-<wi type="G" value="1321,12,">enseñando</wi>.  </t>
+<wi type="G" value="1321,12,">enseñando</wi>.</t>
 </sv>
 <sv id="Marcos-6-7">
 He called to himself the twelve,
@@ -4266,7 +4266,7 @@ from there.
 <wi type="G" value="302,12,"/>
 <wi type="G" value="2193,11,">hasta</wi> que
 <wi type="G" value="1831,13,">partan</wi>
-<wi type="G" value="1564,14,">del lugar</wi>.  </t>
+<wi type="G" value="1564,14,">del lugar</wi>.</t>
 </fr>
 </sv>
 <sv id="Marcos-6-11"><fr>
@@ -4656,8 +4656,8 @@ laid it in a tomb.
 <wi type="G" value="846,5,">sus</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="3101,4,">discípulos</wi></wi>
 <wi type="G" value="191,2,">oyeron</wi> esto,
-<wi type="G" value="2064,6,">fueron</wi>,  <wi type="G" value="2532,7,"/>
-<wi type="G" value="142,8,">tomaron</wi>
+<wi type="G" value="2064,6,">fueron</wi>,
+<wi type="G" value="2532,7,"/><wi type="G" value="142,8,">tomaron</wi>
 <wi type="G" value="846,11,">su</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="4430,10,">cuerpo</wi></wi>
 <wi type="G" value="2532,12,">y</wi>
@@ -4838,7 +4838,8 @@ But he answered them,
 <wi type="G" value="611,3,">Él</wi>
 <wi type="G" value="846,5,">les</wi>
 <wi type="GC" value="3">contestó</wi>
-<wi type="G" value="2036,4,">diciendo</wi></t>
+<wi type="G" value="2036,4,">diciendo</wi>
+</t>
 <fr>«You  give them something to eat.»
 <t xml:lang="es">«<wi type="G" value="1325,6,"><wi type="G" value="846,7,">Denles</wi></wi>
 <wi type="G" value="5210,8,">ustedes</wi>
@@ -5005,7 +5006,7 @@ the other side, to Bethsaida, while he himself sent the multitude away.
 <sv id="Marcos-6-46">
 After he had taken leave of them, he went up the mountain to pray.
 <t xml:lang="es"><wi type="G" value="2532,1,"/>Tras
-<wi type="G" value="657,2,">despedirse</wi>  de
+<wi type="G" value="657,2,">despedirse</wi> de
 <wi type="G" value="846,3,">ellos</wi>
 <wi type="G" value="565,4,">subió</wi>
 <wi type="G" value="1519,5,">a</wi>
@@ -5125,7 +5126,7 @@ ceased, and they were very amazed among themselves, and marveled;
 <wi type="G" value="1537,14,"><wi type="G" value="4053,15,">sin medida</wi></wi>
 <wi type="G" value="1722,16,">entre</wi>
 <wi type="G" value="1438,17,">si</wi>
-<wi type="G" value="2532,19,">y</wi>  estaban
+<wi type="G" value="2532,19,">y</wi> estaban
 <wi type="G" value="2296,20,">maravillados</wi>; </t>
 </sv>
 <sv id="Marcos-6-52">
