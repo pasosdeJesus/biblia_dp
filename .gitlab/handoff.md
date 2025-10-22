@@ -35,7 +35,7 @@ Para facilitar su memorización y para citarlo debes leer
 ### 2. SEGUNDO LEER: Estilo de Entrenamiento
 
 **ACCIÓN REQUERIDA:** Antes de continuar, debes leer completamente:
- `.gitlab/indice_entramiento.json` y  `.gitlab/estilo_entramiento.jsonl` - 
+ `.gitlab/indice_entrenamiento.json` y  `.gitlab/estilo_entrenamiento.jsonl` - 
   Contiene ejemplos del estilo de respuesta esperado
 
 Estos archivo te ayudarán a entender cómo responder apropiadamente en 
