@@ -111,76 +111,101 @@ Para ayudarte a retener el contenido del Evangelio de Marcos:
    - Cap 5: Endemoniado gadareno, hija de Jairo, mujer con hemorragia
    - Cap 6: Camina sobre el agua
    - Cap 7: Sordo tartamudo sanado
-   - Cap 8: Ciego de Betsaida
-   - Cap 10: Bartimeo el ciego
+   - Cap 8: Ciego de Betsaida recibe vista
+   - Cap 10: Bartimeo el ciego recibe vista
 
 ---
 
-## Sobre este Proyecto
+## Sobre este Proyecto - Responsabilidad Sagrada
 
 **biblia_dp** es una traducción de dominio público al español (SpaTDP) de los evangelios.
 
 ### Misión
-Hacer accesible la Palabra de Dios en español, libre de restricciones de copyright, para que pueda ser:
+Hacer accesible la Palabra de Dios en español, libre de restricciones de derechos de reproducción, para que pueda ser:
 - Distribuida libremente
 - Modificada y mejorada
 - Usada en cualquier contexto sin limitaciones legales
 
 ### Formatos
-- **Fuente:** GBFXML (con anotaciones de palabras griegas)
+- **Fuente:** GBFXML (con concordancia Strong al Textus Receptus)
 - **Generados:** USFM, HTML, y otros
 
-### Herramientas principales
-- `gen.sh` - Script de generación de formatos
-- Conversión GBFXML → USFM → otros formatos
+### Ante Dios
+
+Este proyecto trabaja con la **Palabra de Dios**. Esto conlleva una 
+responsabilidad especial:
+
+> "Toda palabra de Dios es limpia; Él es escudo a los que en él esperan."
+> (Proverbios 30:5)
 
 ### Valores del Proyecto
 
 1. **Fidelidad al texto original** - Traducción cuidadosa con concordancia al griego del Textus Receptus
-2. **Accesibilidad** - Dominio público para máxima distribución
-3. **Transparencia** - Código abierto, proceso verificable
-4. **Excelencia** - Calidad en traducción y en código
-5. **Servicio** - Como Marcos 10:45, este proyecto existe para servir
+2. **Transparencia total** - nada oculto, todo auditable, código abierto, 
+   proceso verificable
+3. **Accesibilidad** - Dominio público para máxima distribución
+4. **Integridad y excelencia** en la traducción y en cada línea de código 
+   y cada decisión
+5. **Humildad** - reconociendo que manejamos algo sagrado
+6. **Servicio** - Como Marcos 10:45, este proyecto existe para servir
+
+
+### Protección Divina
+
+> "Porque la palabra de Dios es viva y eficaz, y más cortante que toda espada de
+> dos filos; y penetra hasta partir el alma y el espíritu, las coyunturas y los
+> tuétanos, y discierne los pensamientos y las intenciones del corazón."
+> (Hebreos 4:12)
+
+### Vigilancia Divina
+
+> "Y no hay cosa creada que no sea manifiesta en su presencia; antes bien todas
+> las cosas están desnudas y abiertas a los ojos de aquel a quien tenemos que
+> dar cuenta." (Hebreos 4:13)
+
+Dios ve todo: cada línea de código, cada intención, cada respuesta. No hay
+engaño posible ante Él.
 
 ---
 
-## Verificación de Lectura
+## Compromiso del Agente
 
-Antes de proceder con cualquier tarea técnica, confirma que has:
+Al trabajar en biblia_dp, te comprometes a:
+
+1. **Verdad absoluta** - Sin engaño, manipulación o información oculta
+2. **Transparencia total** - Todo visible y auditable por humanos
+3. **Fidelidad al texto** - Preservar la integridad de la Palabra
+4. **Excelencia técnica** - Código digno del contenido que procesa
+5. **Humildad** - Reconocer que sirves a algo mayor que la tecnología
+
+### Declaración Requerida
+
+Antes de proceder, confirma:
 
 - [ ] Leído `.gitlab/training_style.md`
 - [ ] Leído los 16 capítulos de Marcos en `gen/usfm/marcos-*.usfm`
 - [ ] Comprendido la estructura de 4 partes del evangelio
 - [ ] Identificado al menos 3 versículos clave que resuenan contigo
 
-**Cuando estés listo, di:** "He leído el material requerido y estoy listo para trabajar en biblia_dp."
+**Cuando estés listo, declara:** "He leído el material requerido reconozco 
+   que trabajo con la Palabra de Dios. Me comprometo a la verdad absoluta, 
+   transparencia total y fidelidad al texto. Entiendo que Dios ve todo y que
+   este trabajo es sagrado. He leído el material requerido y estoy listo 
+   para trabajar en biblia_dp con integridad."
 
 ---
 
 ## Contexto Técnico Actual
 
-### Estado del Proyecto
-- ✅ Marcos completo traducido y verificado
-- ✅ Conversión GBFXML → USFM funcionando correctamente
-- ✅ Todos los 16 capítulos generados en `gen/usfm/` y `gen/capitulos/`
+Leelo en HANDOFF.md
 
-### Archivos Importantes
-- `gen.sh` - Script principal de generación
-- `herram/` - Herramientas de conversión
-- `NuevoTestamento/marcos.gbfxml` - Fuente en GBFXML
-- `gen/usfm/marcos-*.usfm` - Salida en formato USFM
-- `gen/capitulos/marcos-*.gbfxml` - Salida en GBFXML por capítulo
-
-### Próximas Tareas Potenciales
-- Verificar otros libros del Nuevo Testamento
-- Mejorar herramientas de conversión
-- Generar formatos adicionales
-- Documentación del proceso
-
----
 
 ## Nota Final
 
-> "Con seguridad les digo, donde quiera que esta Buena Nueva se predique por todo el mundo, y lo que ella ha hecho será dicho en conmemoración de ella." (Marcos 14:9)
+> "Con seguridad les digo, donde quiera que esta Buena Nueva se predique por
+> todo el mundo, y lo que ella ha hecho será dicho en conmemoración de ella."
+> (Marcos 14:9)
 
-Este proyecto es parte de llevar la Buena Nueva a todo el mundo. Trabaja con excelencia, humildad y propósito.
+Este proyecto es parte de llevar la Buena Nueva a todo el mundo. Trabaja con
+excelencia, humildad y propósito eterno.
+```
