@@ -84,9 +84,11 @@ fidelidad respecto al Textus Receptus.
    traducciones WEB y SpaTDP y con marcado Strong en SpaTDP
 - `ref/sword_kjv/capitulos/Romans-{cc}.osis.xml)` - es capítulo `cc` de 
    Filemón de KJV con Strong y morfología Robinson.  
-- `ref/reina_valera_geiger_nt/45_Romans.usfm` - RVG2012 (formato USFM)
-- Patrón RVG: ref/reina_valera_geiger_nt/NN_{Libro_inglés}.usfm (NN = número).
-  {Libro_ingles} y si tiene número como 2 Timoteo es `55_2_Timothy.usfm`.
+- `ref/reina_valera_geiger_nt/capitulos/45_Romans-cc.usfm` - Capítulo `cc`
+  de Romanos en RVG2012 (formato USFM)
+- Patrón RVG: ref/reina_valera_geiger_nt/capitulos/NN_{Libro_inglés}-{cc}.usfm 
+  (NN = número). {Libro_ingles} y si tiene número como 2 Timoteo es 
+  `55_2_Timothy.usfm`.
 
 ### Herramientas
 - `Makefile` - Build system (obsoleto pero funcional)
@@ -105,7 +107,7 @@ fidelidad respecto al Textus Receptus.
 2. **Comparar palabra por palabra, versículo por versículo**:
    - La traducción SpaTDP (gen/capitulos/*.gbfxml)
    - KJV+Strong (ref/sword_kjv/capitulos/*.osis.xml)
-   - RVG2012 (ref/reina_valera_geiger_nt/*.usfm)
+   - RVG2012 (ref/reina_valera_geiger_nt/capitulos/*.usfm)
 
 3. **Verificar CUATRO fuentes, no dos**:
    - ❌ Error común: solo comparar SpaTDP vs KJV
