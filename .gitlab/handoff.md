@@ -136,7 +136,7 @@ Hacer accesible la Palabra de Dios en español, libre de restricciones de copyri
 
 ### Valores del Proyecto
 
-1. **Fidelidad al texto original** - Traducción cuidadosa desde el griego
+1. **Fidelidad al texto original** - Traducción cuidadosa con concordancia al griego del Textus Receptus
 2. **Accesibilidad** - Dominio público para máxima distribución
 3. **Transparencia** - Código abierto, proceso verificable
 4. **Excelencia** - Calidad en traducción y en código

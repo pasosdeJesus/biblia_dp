@@ -2301,7 +2301,7 @@ met Abraham returning from the slaughter of the kings and blessed him,
 <wi type="G" value="5290,15,">cuando volvía</wi>
 <wi type="G" value="575,16,">de</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,17,"><wi type="G" value="2871,18,">la
-matanza</wi></wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> 
+matanza</wi></wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/>
 dicen `matanza,´
 <citebib id="RVG2012"/> dice `derrota.´ Según <citebib id="Thayer-BLB"/> la
 palabra griega `κοπή´ es el acto de cortar, cortar en pedazos, matar.
@@ -2317,15 +2317,57 @@ palabra griega `κοπή´ es el acto de cortar, cortar en pedazos, matar.
 to whom also Abraham divided a tenth part of all (being first, by
 interpretation, king of righteousness, and then also king of Salem, which is
 king of peace;
+<t xml:lang="es"><wi type="G" value="3739,1,">a quien</wi>
+<wi type="G" value="2532,2,">también</wi>
+<wi type="G" value="11,7,">Abraham</wi>
+<wi type="G" value="3307,6,">dio</wi>
+<wi type="G" value="1181,3,">una décima parte</wi>
+<wi type="G" value="575,4,">de</wi>
+<wi type="G" value="3956,5,">todo</wi>
+(<wi type="G" value="3303,9,">de hecho</wi>
+<wi type="G" value="4412,8,">primero</wi>
+<wi type="G" value="2059,10,">interpretado como </wi>
+<wi type="G" value="935,11,">rey</wi>
+<wi type="G" value="1343,12,">de rectitud</wi>
+<wi type="G" value="1161,14,">y</wi>
+<wi type="G" value="1899,13,">después</wi>
+<wi type="G" value="2532,15,">también</wi>
+<wi type="G" value="935,16,">rey</wi>
+<wi type="G" value="4532,17,">de Salem</wi>,
+<wi type="G" value="3739,18,">que</wi>
+<wi type="G" value="2076,19,">es</wi>
+<wi type="G" value="935,20,">rey</wi>
+<wi type="G" value="1515,21,">de paz</wi>;</t>
 </sv>
 <sv id="Hebreos-7-3">
 without father, without mother, without genealogy, having
 neither beginning of days nor end of life, but made like the Son of God),
 remains a priest continually.
+<t xml:lang="es"><wi type="G" value="540,1,">sin padre</wi>,
+<wi type="G" value="282,2,">sin madre</wi>,
+<wi type="G" value="35,3,">sin genealogía</wi>,
+<wi type="G" value="3383,4,">no</wi>
+<wi type="G" value="2192,10,">teniendo</wi>
+<wi type="G" value="746,5,">comienzo de</wi>
+<wi type="G" value="2250,6,">días</wi>
+<wi type="G" value="3383,7,">ni</wi>
+<wi type="G" value="5056,9,">final</wi>
+<wi type="G" value="2222,8,">de vida</wi>,
+<wi type="G" value="1161,12,">pero</wi>
+<wi type="G" value="871,11,">hecho como</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="5207,14,">el Hijo</wi></wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2316,16,">de Dios</wi></wi>),
+<wi type="G" value="3306,17,">permanece</wi>
+<wi type="G" value="1519,19,">como</wi>
+<wi type="G" value="2409,18,">sacerdote</wi>
+<wi type="G" value="3588,20,"/><wi type="G" value="1336,21,">continuamente</wi>.</t>
 </sv>
 <sv id="Hebreos-7-4">
 Now consider how great this man was, to
 whom even Abraham, the patriarch, gave a tenth out of the best spoils.
+<t xml:lang="es">Ahora considera cuan grande fue este hombre,
+a quién aún Abraham, el patriarca, le dió una décima parte de
+los mejores botines.</t>
 
 </sv>
 <sv id="Hebreos-7-5">
