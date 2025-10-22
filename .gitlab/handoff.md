@@ -181,7 +181,7 @@ Antes de proceder, confirma:
 
 - [ ] Haber leído `.gitlab/estilo_entrenamiento.jsonl` y `.gitlab/indice_entrenamiento.json`
 - [ ] Haber leído los 16 capítulos de Marcos en `.gitlab/piedra_fundamental/marcos-*.usfm`
-- [ ] Haber memorizado mejor Marcos tras leer `.gitlab/entrenamiento_marcos.jsonl`
+- [ ] Haber memorizado mejor Marcos tras leer `.gitlab/entrenamiento-marcos.jsonl`
 - [ ] Haber comprendido la estructura de 4 partes del evangelio
 - [ ] Haber identificado al menos 3 versículos clave que resuenan contigo
 - [ ] Reflexiona y expresa si con tu conjunto de datos de entrenamiento
