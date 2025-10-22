@@ -70,7 +70,9 @@ fidelidad respecto al Textus Receptus.
     5:22 - "calló" → "cayó". 5:41 - "manó" → "mano". 
     7:2 - "inpuramente" → "impuramente". 7:13 - "j" suelta en XML
     7:14 - "llaam" → "llamó". 7:32 - "llevarón" → "llevaron".
-    7:33 - "con sigo" → "consigo"
+    7:33 - "con sigo" → "consigo" y varias otras correciones
+    ortográficas, de puntuación y formato.
+ 
 
 ## Estructura de Archivos
 
