@@ -65,32 +65,33 @@ fidelidad respecto al Textus Receptus.
   "homicidios" (G5408). 2:8 "buscan peleas" → "contenciosos".
   3:27 "vanidad" → "vanagloria". 4:15 "indignación" → "ira". 
   4:20 "no la discernió" → "no dudó"
-- **Marcos**: 4:10 - "las parábolas" → "la parábola" (singular). 
+- **Marcos** - 4:10 - "las parábolas" → "la parábola" (singular). 
     4:11 - "los misterios" → "el misterio" (singular). 5:13 - puntuación.
     5:22 - "calló" → "cayó". 5:41 - "manó" → "mano". 
     7:2 - "inpuramente" → "impuramente". 7:13 - "j" suelta en XML
     7:14 - "llaam" → "llamó". 7:32 - "llevarón" → "llevaron".
     7:33 - "con sigo" → "consigo" y varias otras correciones
     ortográficas, de puntuación y formato.
+- **Juan**
  
 
 ## Estructura de Archivos
 
-### Tu traducción
+### La traducción
 - `{libro}.gbfxml` - Traducción español con marcado Strong
 - Formato: `<wi type="G" value="número,orden,">texto</wi>`
 - `type="GC"` = continuación de palabra dividida
 
 ### Referencias
-- `gen/capitulos/romanos-{cc}.gbfxml` es capítulo `cc` de Romanos con 
-   traducciones WEB y SpaTDP y con marcado Strong en SpaTDP
+- `gen/capitulos/romanos-{cc}.gbfxml` es capítulo `cc` (ej. 01, 02,...) de 
+  Romanos con traducciones WEB y SpaTDP y con marcado Strong en SpaTDP
 - `ref/sword_kjv/capitulos/Romans-{cc}.osis.xml)` - es capítulo `cc` de 
-   Filemón de KJV con Strong y morfología Robinson.  
+  Filemón de KJV con Strong y morfología Robinson.  
 - `ref/reina_valera_geiger_nt/capitulos/45_Romans-cc.usfm` - Capítulo `cc`
   de Romanos en RVG2012 (formato USFM)
 - Patrón RVG: ref/reina_valera_geiger_nt/capitulos/NN_{Libro_inglés}-{cc}.usfm 
-  (NN = número). {Libro_ingles} y si tiene número como 2 Timoteo es 
-  `55_2_Timothy.usfm`.
+  (NN = número, cc es número de 2 digitos como 01, 02 ... 24).
+  Si el libro tiene número como 2 Timoteo es `55_2_Timothy-01.usfm`.
 
 ### Herramientas
 - `Makefile` - Build system (obsoleto pero funcional)
@@ -217,6 +218,10 @@ Lo que DEBE coincidir es el **conjunto de números Strong con sus posiciones**.
 2. Extraer cada Strong con su número de posición de KJV (atributo src)
    - De cada `lemma="strong:GXXXX" src="posición"` extraer: GXXXX,posición
    - Ejemplo: `lemma="strong:G3037" src="16"` → G3037 posición 16
+   - Cuando una palabra griega se divide en múltiples palabras inglesas:
+        - KJV: <w ... src="4" type="x-split-1820">the</w> ... <w ... src="4" type="x-split-1820">miracle</w>
+        - Ambas referencias tienen MISMO src (posición)
+        - Al verificar Strong: contar como UNA sola palabra, no dos
 3. Comparar que ambas listas sean idénticas: mismo Strong, misma posición
    - Ordenar ambas listas por número de posición
    - Verificar que cada Strong aparezca con la misma posición en ambas
@@ -272,6 +277,13 @@ KJV: G3037,18 (stone en posición 18)
 ✅ Verificar palabra por palabra
 ✅ Si hay 25 versículos, verificar los 25
 
+#### 4.7 Lista de chequeo por versículo
+
+- [ ] ¿Todos los Strong de SpaTDP están en KJV?
+- [ ] ¿Todas las posiciones coinciden?
+- [ ] ¿Hay palabras divididas en KJV (type="x-split")? → Contar como una
+- [ ] ¿Ortografía correcta en español?
+- [ ] ¿Traducción coherente con el griego?
 
 ### 5. Resumen final
 
