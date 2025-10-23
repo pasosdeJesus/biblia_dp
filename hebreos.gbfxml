@@ -2365,15 +2365,46 @@ remains a priest continually.
 <sv id="Hebreos-7-4">
 Now consider how great this man was, to
 whom even Abraham, the patriarch, gave a tenth out of the best spoils.
-<t xml:lang="es">Ahora considera cuan grande fue este hombre,
-a quién aún Abraham, el patriarca, le dió una décima parte de
-los mejores botines.</t>
+<t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>
+<wi type="G" value="2334,1,">consideren</wi>
+<wi type="G" value="4080,3,">cuan grande</wi> fue
+<wi type="G" value="3778,4,">este hombre</wi>,
+<wi type="G" value="3739,5,">a quién</wi>
+<wi type="G" value="2532,6,">aún</wi>
+<wi type="G" value="11,8,">Abraham</wi>,
+<wi type="G" value="3588,13,"><wi type="G" value="3966,14,">el patriarca</wi></wi>,
+<wi type="G" value="1325,9,">le dio</wi>
+<wi type="G" value="1181,7,">la décima parte</wi>
+<wi type="G" value="1537,10,">de</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="205,12,">los botines</wi></wi>.</t>
 
 </sv>
 <sv id="Hebreos-7-5">
 They indeed of the sons of Levi who receive the priest´s office have a
 commandment to take tithes of the people according to the law, that is, of
 their brothers, though these have come out of the body of Abraham,
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>,
+<wi type="G" value="3588,2,"/><wi type="G" value="3303,3,">de hecho</wi>, <wi type="G" value="1537,4,">de</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="5207,6,">los hijos</wi></wi>
+<wi type="G" value="3017,7,">de Levi</wi>
+<wi type="G" value="2983,10,">que recibieron</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2405,9,">el oficio del
+sacerdocio</wi></wi>
+<wi type="G" value="2192,12,">tienen</wi>
+<wi type="G" value="1785,11,">un mandamiento</wi>
+<wi type="G" value="586,13,">de tomar diezmos</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2992,15,">de la gente</wi></wi>
+<wi type="G" value="2596,16,">de acuerdo a</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="3551,18,">la ley</wi></wi>,
+<wi type="G" value="5124,19,">esto</wi>
+<wi type="G" value="2076,20,">es</wi>, <wi type="G" value="846,23,">de sus</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="80,22,">hermanos</wi></wi>,
+<wi type="G" value="2539,24,">aún cuando también</wi>
+<wi type="G" value="1831,25,">hayan salido</wi>
+<wi type="G" value="1537,26,">de</wi>
+<wi type="G" value="3588,27,"><wi type="G" value="3751,28,">los lomos</wi></wi>
+<wi type="G" value="11,29,">de Abraham</wi>,
+</t>
 </sv>
 <sv id="Hebreos-7-6">
 but
