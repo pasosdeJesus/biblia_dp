@@ -22,16 +22,16 @@
 
 ## ANTES DE CONTINUAR
 
-**Lee `.gitlab/training_style.jsonl` COMPLETO primero.**
-
-Ese archivo define el estilo de trabajo esperado:
+El estilo de trabajo esperado:
 - Evaluación honesta, no marketing
 - Identificar problemas específicos
 - Sugerencias concretas
 - Sin presumir capacidades antes de verificar
 
+Para profundizar en esto lee `.gitlab/training_style.jsonl`
+
 ## Lecciones
-El agente anterior presumió capacidades sin intentar.
+Un agente anterior presumió capacidades sin intentar.
 Fue corregido: "Es mejor hablar después de examinar o intentar."
 No repetir ese error.
 
