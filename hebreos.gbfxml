@@ -2410,6 +2410,27 @@ sacerdocio</wi></wi>
 but
 he whose genealogy is not counted from them has taken tithes of Abraham, and
 has blessed him who has the promises.
+<t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
+<wi type="G" value="3588,1,">aquel que</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3361,3,">no</wi>
+está <wi type="G" value="1075,4,">en la genealogía</wi>
+<wi type="G" value="1537,5,">de</wi>
+<wi type="G" value="846,6,">ellos</wi>
+<rf><citebib id="WEB"/>
+dice `cuya genealogía no se cuenta de ellos,´
+<citebib id="RVG2012"/> dice `cuya genealogía no es contada de ellos.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `γενεαλογούμενος´
+se traduce como el acto del genealogista, recontar el origen y linaje
+de una familia, trazar ancestros.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="1183,7,">recibió los diezmos</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="11,9,">de Abraham</wi>,
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="2127,15,">bendijo</wi>
+<wi type="G" value="3588,11,">al que</wi>
+<wi type="G" value="2192,12,">tiene</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1860,14,">las promesas</wi></wi>.</t>
 </sv>
 <sv id="Hebreos-7-7">
 But without any dispute the less
