@@ -869,7 +869,7 @@ you may have life.
 <wi type="G" value="3165,6,">mí</wi><rf><citebib id="WEB"/> dice
 `no vendrán a mí,´ <citebib id="Peshitta"/> dice `no desean venir a
 mí.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="2443,7f,">para</wi>
+<t xml:lang="es">, <wi type="G" value="2443,7,">para</wi>
 <wi type="G" value="2443,7,">que</wi>
 <wi type="G" value="2192,9,">puedan tener</wi>
 <wi type="G" value="2222,8,">vida</wi>. </t>
@@ -940,10 +940,9 @@ you
 <wi type="G" value="1391,5,">gloria</wi>
 <wi type="G" value="3844,6,">de</wi>
 <wi type="G" value="240,7,">si mismos</wi> <rf>
-<citebib id="WEB"/> dice `en el que recibe gloria de otro,´
-<citebib id="DieBibel"/> dice `cuando ustedes reciben
-la gloria de otro,´ <citebib id="Peshitta"/> dice `que reciben gloria
-quienes se alaban unos a otros.´</rf></rb>
+<citebib id="WEB"/> dice `en los que reciben gloria unos de otros,´
+<citebib id="DieBibel"/> dice `cuando ustedes reciben la gloria de otro,´
+<citebib id="Peshitta"/> dice `quienes se alaban unos a otros.´</rf></rb>
 <t xml:lang="es">, <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="3756,17,">no</wi>
 <wi type="G" value="2212,18,">buscan</wi>

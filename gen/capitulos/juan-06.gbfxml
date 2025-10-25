@@ -516,7 +516,7 @@ you ate of the loaves, and were filled.
 <wi type="G" value="235,17,">sino</wi>
 <wi type="G" value="3754,18,">porque</wi>
 <wi type="G" value="5315,19,">comieron</wi>
-<wi type="G" value="1537,20,20,"/><wi type="G" value="3588,21,"><wi type="G" value="740,22,">pan</wi></wi>
+<wi type="G" value="1537,20,"/><wi type="G" value="3588,21,"><wi type="G" value="740,22,">pan</wi></wi>
 <wi type="G" value="2532,23,">y</wi>
 <wi type="G" value="5526,24,">quedaron llenos</wi>. </t>
 </fr>
@@ -629,7 +629,7 @@ for «heaven», «the heavens», «the sky», and «the air.»
 <sv id="Juan-6-32">
 Jesus therefore said to them,
 <t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="2424,5,">Jesús</wi></wi> l
+<wi type="G" value="3588,4,"><wi type="G" value="2424,5,">Jesús</wi></wi>
 <wi type="G" value="846,3,">les</wi>
 <wi type="G" value="2036,1,">dijo</wi>, </t>
 <fr>«Most assuredly, I tell you, it
@@ -782,17 +782,18 @@ should raise him up at the last day.
 <wi type="G" value="3165,8,">me</wi>
 <wi type="G" value="3992,7,">ha enviado</wi>,
 <wi type="G" value="2443,10,">que</wi>
-<wi type="G" value="1537,17,">de</wi>
 <wi type="G" value="3956,11,">todos</wi>
 <wi type="G" value="3739,12,">los que</wi>
 <wi type="G" value="3427,14,">me</wi>
 <wi type="G" value="1325,13,">ha entregado</wi>, </t>
 <rb xml:lang="es"><wi type="G" value="3361,15,">a ninguno</wi>
+<wi type="G" value="1537,17,">de</wi>
+<wi type="G" value="846,18,">ellos</wi>
 <wi type="G" value="622,16,">debo perder</wi><rf>En <citebib id="DieBibel"/>
 dice `que no los deje yacer en tierra,´ en <citebib id="DiosHablaHoy"/>
 dice `que yo no pierda a ninguno de los que me ha dado,´
 <citebib id="KJV2003"/> dice `nada debo perder.'</rf></rb>
-<t xml:lang="es">, <wi type="G" value="846,18,"/><wi type="G" value="235,19,">sino</wi>
+<t xml:lang="es">, <wi type="G" value="235,19,">sino</wi>
 <wi type="G" value="450,20,"><wi type="G" value="846,21,">resucitarlos</wi></wi>
 <wi type="G" value="1722,22,">en</wi>
 <wi type="G" value="3588,23,"/><wi type="G" value="2078,24,">el último</wi>
@@ -1341,8 +1342,10 @@ believe, and who it was who would betray him.
 <wi type="G" value="4100,19,">creían</wi>,
 <wi type="G" value="2532,20,">y</wi>
 <wi type="G" value="5101,21,">quien</wi>
+<wi type="G" value="2076,22,">era</wi> 
+<wi type="G" value="3588,23,">el que</wi>
 <wi type="G" value="846,25,">lo</wi>
-<wi type="G" value="2076,22,"/><wi type="G" value="3588,23,"/><wi type="G" value="3860,24,">traicionaría</wi>. </t>
+<wi type="G" value="3860,24,">traicionaría</wi>. </t>
 </sv>
 <sv id="Juan-6-65">
 He said,
