@@ -2457,16 +2457,28 @@ one receives tithes of whom it is testified that he lives.
 <wi type="G" value="1161,9,">pero</wi> 
 <wi type="G" value="1563,8,">allá</wi> 
 <wi type="G" value="3140,10,">de quien se testifica</wi> 
-<wi type="G" value="3754,11,">que</wi> 
+<wi type="G" value="3754,11,">que</wi>  
 <wi type="G" value="2198,12,">vive</wi>.</t>
 </sv>
 <sv id="Hebreos-7-9">
 So to say,
 through Abraham even Levi, who receives tithes, has paid tithes,
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi> 
+<wi type="G" value="5613,2,">como</wi> 
+<wi type="G" value="2031,3,"/><wi type="G" value="2036,4,">digo</wi> 
+<wi type="G" value="1223,5,">mediante</wi> 
+<wi type="G" value="11,6,">Abraham</wi> 
+<wi type="G" value="2532,7,">incluso</wi> 
+<wi type="G" value="3017,8,">Levi</wi>, que 
+<wi type="G" value="2983,11,">recibe</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="1181,10,">diezmos</wi>, 
+<wi type="G" value="1183,12,">ha pagado diezmos</wi>, </t>
 </sv>
 <sv id="Hebreos-7-10">
 for he
 was yet in the body of his father when Melchizedek met him.
+<t xml:lang="es">pues el era ún del cuerpo de su padre cuando
+Melquisedec lo conoció</t>
 </sv>
 <sv id="Hebreos-7-11">
 Now if
