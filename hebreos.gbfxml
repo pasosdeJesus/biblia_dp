@@ -2435,13 +2435,13 @@
 <sv id="Hebreos-7-7">
   But without any dispute the less
   is blessed by the better.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> 
-<wi type="G" value="5565,1,">sin</wi> 
-<wi type="G" value="485,4,">contradicción</wi> 
-<wi type="G" value="3956,3,">alguna</wi> 
-<wi type="G" value="3588,5,"/><wi type="G" value="1640,6,">el menor</wi> 
-<wi type="G" value="2127,10,">es bendecido</wi> 
-<wi type="G" value="5259,7,">por</wi> 
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="5565,1,">sin</wi>
+<wi type="G" value="485,4,">contradicción</wi>
+<wi type="G" value="3956,3,">alguna</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="1640,6,">el menor</wi>
+<wi type="G" value="2127,10,">es bendecido</wi>
+<wi type="G" value="5259,7,">por</wi>
 <wi type="G" value="3588,8,"/><wi type="G" value="2909,9,">el mejor</wi>.</t>
 </sv>
 <sv id="Hebreos-7-8">
@@ -2450,35 +2450,43 @@ one receives tithes of whom it is testified that he lives.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
  <wi type="G" value="5602,2,">aquí</wi>,
 <wi type="G" value="3303,3,">de hecho</wi>,
-<wi type="G" value="444,6,">los hombres</wi> 
-<wi type="G" value="599,5,">mortales</wi> 
-<wi type="G" value="2983,7,">reciben</wi> 
+<wi type="G" value="444,6,">los hombres</wi>
+<wi type="G" value="599,5,">mortales</wi>
+<wi type="G" value="2983,7,">reciben</wi>
 <wi type="G" value="1181,4,">los diezmos</wi>,
-<wi type="G" value="1161,9,">pero</wi> 
-<wi type="G" value="1563,8,">allá</wi> 
-<wi type="G" value="3140,10,">de quien se testifica</wi> 
-<wi type="G" value="3754,11,">que</wi>  
+<wi type="G" value="1161,9,">pero</wi>
+<wi type="G" value="1563,8,">allá</wi>
+<wi type="G" value="3140,10,">de quien se testifica</wi>
+<wi type="G" value="3754,11,">que</wi>
 <wi type="G" value="2198,12,">vive</wi>.</t>
 </sv>
 <sv id="Hebreos-7-9">
 So to say,
 through Abraham even Levi, who receives tithes, has paid tithes,
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi> 
-<wi type="G" value="5613,2,">como</wi> 
-<wi type="G" value="2031,3,"/><wi type="G" value="2036,4,">digo</wi> 
-<wi type="G" value="1223,5,">mediante</wi> 
-<wi type="G" value="11,6,">Abraham</wi> 
-<wi type="G" value="2532,7,">incluso</wi> 
-<wi type="G" value="3017,8,">Levi</wi>, que 
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="5613,2,">como</wi>
+<wi type="G" value="2031,3,"/><wi type="G" value="2036,4,">digo</wi>
+<wi type="G" value="1223,5,">mediante</wi>
+<wi type="G" value="11,6,">Abraham</wi>
+<wi type="G" value="2532,7,">incluso</wi>
+<wi type="G" value="3017,8,">Levi</wi>, que
 <wi type="G" value="2983,11,">recibe</wi>
-<wi type="G" value="3588,9,"/><wi type="G" value="1181,10,">diezmos</wi>, 
+<wi type="G" value="3588,9,"/><wi type="G" value="1181,10,">diezmos</wi>,
 <wi type="G" value="1183,12,">ha pagado diezmos</wi>, </t>
 </sv>
 <sv id="Hebreos-7-10">
 for he
 was yet in the body of his father when Melchizedek met him.
-<t xml:lang="es">pues el era ún del cuerpo de su padre cuando
-Melquisedec lo conoció</t>
+<t xml:lang="es"><wi type="G" value="1063,2,">pues</wi>
+<wi type="G" value="2089,1,">aún</wi>
+<wi type="G" value="2258,8,">él estaba</wi>
+<wi type="G" value="1722,3,">en</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="3751,5,">el lomo</wi></wi> 
+<wi type="G" value="3588,6,"><wi type="G" value="3962,7,">de su padre</wi></wi> 
+<wi type="G" value="3753,9,">cuando</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="3198,13,">Melquisedec</wi> 
+<wi type="G" value="846,11,">lo</wi> 
+<wi type="G" value="4876,10,">conoció</wi></t>
 </sv>
 <sv id="Hebreos-7-11">
 Now if
