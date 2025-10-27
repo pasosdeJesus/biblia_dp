@@ -13089,11 +13089,7 @@ times.
 <sv id="Juan-14-1">
 <fr>«Don´t let your heart be troubled. Believe in God. Believe also in
 me.
-<t xml:lang="es">«Que </t>
-<rb xml:lang="es">tu<rf><citebib id="DieBibel"/> en lugar de `tu´ usa
-`ustedes.´</rf></rb>
-<t xml:lang="es">
-<wi type="G" value="5216,3,">su</wi>
+<t xml:lang="es">«Que <wi type="G" value="5216,3,">su</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="2588,5,">corazón</wi></wi>
 <wi type="G" value="3361,1,">no</wi>
 <wi type="G" value="5015,2,">se angustie</wi>.
@@ -13678,7 +13674,7 @@ Del griego `παράκλητος.´ Ver nota al pie de Juan 14:16.</rf></rb>
 <wi type="G" value="3992,9,">enviará</wi>
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="3450,15,">mi</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="3686,14,">nombré</wi></wi>,
+<wi type="G" value="3588,13,"><wi type="G" value="3686,14,">nombre</wi></wi>,
 <wi type="G" value="1565,16,">Él</wi>
 <wi type="G" value="5209,17,">les</wi>
 <wi type="G" value="1321,18,">enseñará</wi>
@@ -13810,7 +13806,7 @@ so I do. Arise, let us go from here.
 <wi type="G" value="3427,13,">me</wi>
 <wi type="G" value="1781,12,">ha ordenado</wi>,
 <wi type="G" value="3779,16,">así</wi>
-<wi type="G" value="4160,17,">obró</wi>.
+<wi type="G" value="4160,17,">obro</wi>.
 <wi type="G" value="1453,18,">Levantémonos</wi>,
 <wi type="G" value="71,19,">vámonos</wi>
 <wi type="G" value="1782,20,">de aquí</wi>. </t>
