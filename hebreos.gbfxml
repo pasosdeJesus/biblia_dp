@@ -2481,11 +2481,11 @@ was yet in the body of his father when Melchizedek met him.
 <wi type="G" value="2089,1,">aún</wi>
 <wi type="G" value="2258,8,">él estaba</wi>
 <wi type="G" value="1722,3,">en</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="3751,5,">el lomo</wi></wi> 
-<wi type="G" value="3588,6,"><wi type="G" value="3962,7,">de su padre</wi></wi> 
+<wi type="G" value="3588,4,"><wi type="G" value="3751,5,">el lomo</wi></wi>
+<wi type="G" value="3588,6,"><wi type="G" value="3962,7,">de su padre</wi></wi>
 <wi type="G" value="3753,9,">cuando</wi>
-<wi type="G" value="3588,12,"/><wi type="G" value="3198,13,">Melquisedec</wi> 
-<wi type="G" value="846,11,">lo</wi> 
+<wi type="G" value="3588,12,"/><wi type="G" value="3198,13,">Melquisedec</wi>
+<wi type="G" value="846,11,">lo</wi>
 <wi type="G" value="4876,10,">conoció</wi></t>
 </sv>
 <sv id="Hebreos-7-11">
@@ -2494,10 +2494,48 @@ there was perfection through the Levitical priesthood (for under it the
 people have received the law), what further need was there for another priest
 to arise after the order of Melchizedek, and not be called after the order of
 Aaron?
+<t xml:lang="es"><wi type="G" value="3303,2,">De hecho</wi>
+<wi type="G" value="3767,3,">entonces</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="2258,9,">hubiera</wi>
+<wi type="G" value="5050,4,">perfección</wi>
+<wi type="G" value="1223,5,">mediante</wi>
+<wi type="G" value="2420,8,">el sacerdocio</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="3020,7,">Levítico</wi>
+(<wi type="G" value="1063,12,">pues</wi>
+<wi type="G" value="1909,13,">bajo</wi>
+<wi type="G" value="846,14,">este</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2992,11,">la gente</wi></wi>
+<wi type="G" value="3549,15,">recibió la ley</wi>),
+¿<wi type="G" value="5101,16,">qué</wi>
+<wi type="G" value="2089,17,">más</wi>
+<wi type="G" value="5532,18,">necesidad</wi> había de
+<wi type="G" value="2087,23,">otro</wi>
+<wi type="G" value="2409,25,">sacerdote</wi>
+<wi type="G" value="450,24,">que se levantara</wi>
+<wi type="G" value="2596,19,">del</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="5010,21,">orden</wi></wi>
+<wi type="G" value="3198,22,">de Melquisedec</wi>,
+<wi type="G" value="2532,26,">y</wi> que
+<wi type="G" value="3756,27,">no</wi>
+<wi type="G" value="3004,32,">fuera llamado</wi>
+<wi type="G" value="2596,28,">del</wi>
+<wi type="G" value="3588,29,"><wi type="G" value="5010,30,">orden</wi></wi>
+<wi type="G" value="2,31,">de Aaron</wi>?
+</t>
 </sv>
 <sv id="Hebreos-7-12">
 For the priesthood being changed, there is of necessity a change
 made also in the law.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3346,1,">al cambiar</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2420,4,">el sacerdocio</wi></wi>,
+<wi type="G" value="2532,7,">también</wi>
+<wi type="G" value="1096,10,">se crea</wi>
+<wi type="G" value="318,6,">la necesidad</wi>
+<wi type="G" value="1537,5,">de</wi>
+<wi type="G" value="3331,9,">cambiar</wi>
+<wi type="G" value="3551,8,">la ley</wi>.</t>
 </sv>
 <sv id="Hebreos-7-13">
 For he of whom these things are said belongs to
