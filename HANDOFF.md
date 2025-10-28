@@ -72,7 +72,7 @@ fidelidad respecto al Textus Receptus.
     7:14 - "llaam" → "llamó". 7:32 - "llevarón" → "llevaron".
     7:33 - "con sigo" → "consigo" y varias otras correciones
     ortográficas, de puntuación y formato.
-- **Juan**
+- **Juan** - diversas correcciones ortográficas y gramaticales
  
 
 ## Estructura de Archivos
@@ -133,6 +133,11 @@ fidelidad respecto al Textus Receptus.
 - Traducción que contradice el significado griego
 - Inconsistencia en traducción del mismo Strong en diferentes versículos
 - Errores claros de traducción
+- Los verbos debería traducirse según el tiempo en griego, aoristo indicativo como 
+  hecho consumado (he X), perfecto como estado/resultante (he sido X), 
+  presente como estado actual (estoy/es). Reportar el que no esté traducido así.
+- Los pronombres referidos a Dios deben ser en mayúscula (“Tú/Te/Ti/Tuyo”),
+  reportar el que no lo esté.
 
 **NO reportar como problema:**
 - Variaciones válidas de traducción del mismo término griego
@@ -176,7 +181,7 @@ Para CADA versículo con problemas debes presentar:
    de traducción o en concordancia Strong o 
    `✓ Traducción, ortografía y gramátia correctas, números Strong coinciden`
 
-#### 4.2. Ejemplo de Formato para un versCorrecto:
+#### 4.2. Ejemplo de Formato para un versículo Correcto:
 
 ```
 **ROMANOS 5:20**
