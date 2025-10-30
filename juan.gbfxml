@@ -17329,8 +17329,7 @@ From that hour, the disciple took her to his own home.
 <wi type="G" value="3588,16,"><wi type="G" value="3101,17,">el discípulo</wi></wi>
 <wi type="G" value="846,15,">la</wi>
 <wi type="G" value="2983,14,">acogió</wi> </t>
-<rb xml:lang="es"><wi type="G" value="1519,18,">con</wi>
-<wi type="G" value="3588,19,"/><wi type="G" value="2398,20,">sigo</wi><rf><citebib id="WEB"/> dice
+<rb xml:lang="es"><wi type="G" value="3588,19,"/><wi type="G" value="1519,18,"><wi type="G" value="2398,20,">consigo</wi></wi><rf><citebib id="WEB"/> dice
 `la acogió en su propia casa´ aunque la palabra casa no está en
 <citebib id="BLB-TR"/>.  Tomamos más de la traducción
 <citebib id="RVG2012"/> que dice `la recibió consigo.´</rf></rb>
@@ -17451,7 +17450,7 @@ value="4521,14,">el día sabático</wi></wi>
 Therefore the soldiers came, and broke the legs of
 the first, and of the other who was crucified with him;
 <t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="4757,4,">los solados</wi></wi>
+<wi type="G" value="3588,3,"><wi type="G" value="4757,4,">los soldados</wi></wi>
 <wi type="G" value="2064,1,">fueron</wi>
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="3303,7,">ciertamente</wi>
