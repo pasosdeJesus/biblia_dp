@@ -1,0 +1,79 @@
+# Pipeline para generar archivos automáticamente tras cada commit
+
+stages:
+  - generate
+  - commit
+
+variables:
+  GIT_STRATEGY: clone
+  GIT_DEPTH: 0
+
+# Job para ejecutar gen.sh y generar archivos
+generate_files:
+  stage: generate
+  image: ubuntu:latest
+  before_script:
+    - apt-get update -qq
+    - apt-get install -y -qq xsltproc gawk git
+    - git config --global user.email "gitlab-ci@gitlab.com"
+    - git config --global user.name "GitLab CI"
+  script:
+    # Ejecutar gen.sh
+    - chmod +x gen.sh
+    - ./gen.sh
+    
+    # Verificar si hay cambios
+    - |
+      if git diff --quiet gen/; then
+        echo "No hay cambios en los archivos generados"
+        exit 0
+      fi
+    
+    # Guardar archivos generados como artefactos
+    - git add gen/
+  artifacts:
+    paths:
+      - gen/
+    expire_in: 1 day
+  only:
+    - branches
+  except:
+    variables:
+      - $CI_COMMIT_MESSAGE =~ /\[skip-generate\]/
+      - $CI_COMMIT_MESSAGE =~ /Actualizar archivos generados/
+
+# Job para hacer commit de los archivos generados
+commit_generated:
+  stage: commit
+  image: ubuntu:latest
+  dependencies:
+    - generate_files
+  before_script:
+    - apt-get update -qq
+    - apt-get install -y -qq git curl
+    - git config --global user.email "gitlab-ci@gitlab.com"
+    - git config --global user.name "GitLab CI"
+  script:
+    # Configurar autenticación con token del proyecto
+    - git remote set-url origin https://oauth2:${CI_JOB_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git
+    - git fetch origin ${CI_COMMIT_REF_NAME}
+    - git checkout ${CI_COMMIT_REF_NAME}
+    
+    # Verificar si hay cambios
+    - |
+      if git diff --quiet gen/; then
+        echo "No hay cambios para commitear"
+        exit 0
+      fi
+    
+    # Hacer commit y push
+    - git add gen/
+    - git commit -m "Actualizar archivos generados [skip-generate]"
+    - git push origin ${CI_COMMIT_REF_NAME}
+  only:
+    - branches
+  except:
+    variables:
+      - $CI_COMMIT_MESSAGE =~ /\[skip-generate\]/
+      - $CI_COMMIT_MESSAGE =~ /Actualizar archivos generados/
+  when: on_success
