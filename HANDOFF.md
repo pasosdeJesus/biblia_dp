@@ -72,8 +72,19 @@ fidelidad respecto al Textus Receptus.
     7:14 - "llaam" → "llamó". 7:32 - "llevarón" → "llevaron".
     7:33 - "con sigo" → "consigo" y varias otras correciones
     ortográficas, de puntuación y formato.
-- **Juan** - diversas correcciones ortográficas y gramaticales
- 
+- **Juan** - diversas correcciones ortográficas y gramaticales (incluso tiempos
+  verbales para concordar más con el Textus Receptus)
+- **Mateo** - por hacer
+- **Hechos** - por hacer
+- **Lucas** - por hacer
+- **Hebreos** - por completar traducción manual antes
+- **Apocalipisis** - antes traducción manual
+- **1 Pedro** - antes traducción manual
+- **1 Juan** - antes traducción manual
+- **Santiago** - antes traducción manual
+- **2 Pedro** - antes traducción manual
+- **Judas** - antes traducción manual
+
 
 ## Estructura de Archivos
 
