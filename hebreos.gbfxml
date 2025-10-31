@@ -2559,51 +2559,72 @@ another tribe, from which no one has officiated at the altar.
 For it is
 evident that our Lord has sprung out of Judah, about which tribe Moses spoke
 nothing concerning priesthood.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> es 
-<wi type="G" value="4271,1,">notorio</wi> 
-<wi type="G" value="3754,3,">que</wi> 
-<wi type="G" value="2257,9,">nuestro</wi> 
-<wi type="G" value="3588,7,"><wi type="G" value="2962,8,">Señor</wi></wi> 
-<wi type="G" value="393,6,">ha salido</wi> 
-<wi type="G" value="1537,4,">de</wi> 
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> es
+<wi type="G" value="4271,1,">notorio</wi>
+<wi type="G" value="3754,3,">que</wi>
+<wi type="G" value="2257,9,">nuestro</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="2962,8,">Señor</wi></wi>
+<wi type="G" value="393,6,">ha salido</wi>
+<wi type="G" value="1537,4,">de</wi>
 <wi type="G" value="2448,5,">Judá</wi>,
-<wi type="G" value="5443,12,">tribu</wi> 
-<wi type="G" value="1519,10,">de</wi> 
-<wi type="G" value="3739,11,">la cual</wi> 
-<wi type="G" value="3475,16,">Moisés</wi> 
-<wi type="G" value="3762,13,">nada</wi> 
-<wi type="G" value="2980,17,">habló</wi> 
-<wi type="G" value="4012,14,">respecto</wi> 
+<wi type="G" value="5443,12,">tribu</wi>
+<wi type="G" value="1519,10,">de</wi>
+<wi type="G" value="3739,11,">la cual</wi>
+<wi type="G" value="3475,16,">Moisés</wi>
+<wi type="G" value="3762,13,">nada</wi>
+<wi type="G" value="2980,17,">habló</wi>
+<wi type="G" value="4012,14,">respecto</wi>
 <wi type="G" value="2420,15,">al sacerdocio</wi>.</t>
 </sv>
 <sv id="Hebreos-7-15">
 This is yet more abundantly evident, if
 after the likeness of Melchizedek there arises another priest,
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi> 
-<wi type="G" value="2076,5,">es</wi> 
-<wi type="G" value="2089,3,">aún</wi> 
-<wi type="G" value="4054,2,">más</wi> 
-<wi type="G" value="2612,4,">evidente</wi>, 
-<wi type="G" value="1487,6,">en que</wi> 
-<wi type="G" value="2596,7,">a</wi> 
-<wi type="G" value="3588,8,"><wi type="G" value="3665,9,">similitud</wi></wi> 
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="2076,5,">es</wi>
+<wi type="G" value="2089,3,">aún</wi>
+<wi type="G" value="4054,2,">más</wi>
+<wi type="G" value="2612,4,">evidente</wi>,
+<wi type="G" value="1487,6,">en que</wi>
+<wi type="G" value="2596,7,">a</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="3665,9,">similitud</wi></wi>
 <wi type="G" value="3198,10,">de Melquisedec</wi>
-<wi type="G" value="450,11,">se levantó</wi> 
-<wi type="G" value="2087,13,">otro</wi> 
+<wi type="G" value="450,11,">se levantó</wi>
+<wi type="G" value="2087,13,">otro</wi>
 <wi type="G" value="2409,12,">sacerdote</wi>,</t>
 </sv>
 <sv id="Hebreos-7-16">
 who has
 been made, not after the law of a fleshly commandment, but after the power of
 an endless life:
+<t xml:lang="es"><wi type="G" value="3739,1,">quien</wi>
+<wi type="G" value="1096,7,">fue constituido</wi>,
+<wi type="G" value="3756,2,">no</wi>
+<wi type="G" value="2596,3,">tras</wi>
+<wi type="G" value="3551,4,">la ley</wi>
+<wi type="G" value="1785,5,">de un mandato</wi>
+<wi type="G" value="4559,6,">carnal</wi>,
+<wi type="G" value="235,8,">sino</wi>
+<wi type="G" value="2596,9,">tras</wi>
+<wi type="G" value="1411,10,">el poder</wi>
+<wi type="G" value="2222,11,">de la vida</wi>
+<wi type="G" value="179,12,">inmortal</wi>:</t>
 </sv>
 <sv id="Hebreos-7-17">
 for it is testified,
+<t xml:lang="es"><wi type="G" value="1063,2,">pues</wi>
+<wi type="G" value="3140,1,">se testificó</wi><wi type="G" value="3754,3,"/>,</t>
 
 <cl/><fp>
 «You are a priest forever,
+<t xml:lang="es">«<wi type="G" value="4771,4,">Tu</wi> eres
+<wi type="G" value="2409,5,">sacerdote</wi>
+<wi type="G" value="1519,6,">por</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="165,8,">siempre</wi></wi>,</t>
 <cl/>
 According to the order of Melchizedek.»
+<t xml:lang="es"><wi type="G" value="2596,9,">de acuerdo</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="5010,11,">al orden</wi></wi>
+<wi type="G" value="3198,12,">de Melquisedec</wi>.»</t>
 </fp>
 
 
