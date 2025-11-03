@@ -2663,18 +2663,60 @@ bringing in thereupon of a better hope, through which we draw near to God.
 </sv>
 <sv id="Hebreos-7-20">
 Inasmuch as he was not made priest without the taking of an oath
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2596,2,">Por</wi>
+<wi type="G" value="3745,3,">cuanto</wi>
+<wi type="G" value="3756,4,">no</wi> </t>
+<rb xml:lang="es"><rf>Para facilitar la lectura
+<citebib id="WEB"/> and <citebib id="KJV2003"/> agregan
+`fue hecho sacerdote.´</rf></rb>
+<t xml:lang="es">
+fue <wi type="G" value="5565,5,">sin</wi>
+<wi type="G" value="3728,6,">un juramento</wi></t>
 
 </sv>
 <sv id="Hebreos-7-21">
 (for they indeed have been made priests without an oath), but he with
 an oath by him that says of him,
-
+<t xml:lang="es">(<wi type="G" value="3588,1,"/><wi type="G" value="1063,3,">pues</wi>
+<wi type="G" value="3303,2,">de hecho</wi> algunos
+<wi type="G" value="1526,6,">han sido</wi>
+<wi type="G" value="1096,8,">hechos</wi>
+<wi type="G" value="2409,7,">sacerdotes</wi>
+<wi type="G" value="5565,4,">sin</wi>
+<wi type="G" value="3728,5,">un juramento</wi>),
+<wi type="G" value="1161,10,">pero</wi>
+<wi type="G" value="3588,9,">este</wi>
+<wi type="G" value="3326,11,">con</wi>
+<wi type="G" value="3728,12,">juramento</wi>
+<wi type="G" value="1223,13,">por</wi>
+<wi type="G" value="3588,14,">el que</wi>
+<wi type="G" value="3004,15,">dijo</wi>
+<wi type="G" value="4314,16,">de</wi>
+<wi type="G" value="846,17,">Él</wi>,</t>
 <cl/><fp>
 «The Lord swore and will not change his mind,
+<t xml:lang="es">«</t>
+<rb xml:lang="es"><wi type="G" value="2962,19,">El Señor</wi>
+<wi type="G" value="3660,18,">juró</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `El Señor juró,´
+<citebib id="RVG2012"/> dice `Juro al Señor.´
+La palabra griega `κυριος´ está en declinación nominativa que sugiere
+que es el sujeto.</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2532,20,">y</wi>
+<wi type="G" value="3756,21,">no</wi>
+<wi type="G" value="3338,22,">se arrepentirá</wi>,</t>
 <cl/>
 `You are a priest forever,
+<t xml:lang="es">`<wi type="G" value="4771,23,">Tu</wi> eres
+<wi type="G" value="2409,24,">sacerdote</wi>
+<wi type="G" value="1519,25,">por</wi>
+<wi type="G" value="3588,26,"><wi type="G" value="165,27,">siempre</wi></wi>,</t>
 <cl/>
 According to the order of Melchizedek´».
+<t xml:lang="es"><wi type="G" value="2596,28,">de acuerdo</wi>
+<wi type="G" value="3588,29,"><wi type="G" value="5010,30,">al orden</wi></wi>
+<wi type="G" value="3198,31,">de Melquisedec</wi>´».</t>
 </fp>
 
 
