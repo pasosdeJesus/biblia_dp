@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Traducción de dominio público abierta a mejoras.
-No es traducción oficial.  Sin garantias.
+No es traducción oficial. Sin garantias.
 Ver detalles de liberación al dominio público de acuerdo a la legislación
 colombiana en http://www.pasosdejesus.org/dominio_publico_colombia.html
 Busque actualizaciones en
@@ -11,7 +11,7 @@ http://groups.yahoo.com/group/evangelios-dp
 ΑΒΓ...α
 
 Se incluye versión en inglés a partir de la cual se
-inició la traducción.  http://www.ebible.org
+inició la traducción. http://www.ebible.org
 -->
 
 <sb id="Mateo" type="BN" xml:lang="en">
@@ -31,7 +31,7 @@ included and give priority to Strong concordances of
 <t xml:lang="es">Damos gracias a Dios.
 Traducción basada en <citebib id="WEB"/>.
 Los nombres a español han sido tomados de <citebib id="SE"/>.
-Algunos cambios en la traducción  (anotados en pies de página) se
+Algunos cambios en la traducción (anotados en pies de página) se
 basan en
 <citebib id="DieBibel"/>, <citebib id="DiosHablaHoy"/>
 , <citebib id="Peshitta"/> y <citebib id="TR-BLB"/>.
@@ -40,11 +40,11 @@ y priorizado las concordancias Strong de <citebib id="KJV2003"/> (que
 a su vez se basan en <citebib id="TR"/>).
 </t>
 Up to now the following people have helped by translating to spanish,
-comparing or correcting:  Wilfredo Rodriguez, Melissa Giraldo
+comparing or correcting: Wilfredo Rodriguez, Melissa Giraldo
 and Vladimir Támara Patiño.
 <t xml:lang="es">
 Hasta el momento han colaborado traduciendo a español, comparando
-y corrigiendo:  Wilfredo Rodriguez, Melissa Giraldo
+y corrigiendo: Wilfredo Rodriguez, Melissa Giraldo
 y Vladimir Támara Patiño.
 </t>
 </credits>
@@ -78,7 +78,7 @@ of Jacob. Jacob became the father of Judah and his brothers.
 <wi type="G" value="3588,8,"/>
 <wi type="G" value="2384,9,">Jacob</wi>, <wi type="G" value="1161,11,">y</wi>
 <wi type="G" value="2384,10,">Jacob</wi>
-<wi type="G" value="1080,12,">concibió</wi>  a
+<wi type="G" value="1080,12,">concibió</wi> a
 <wi type="G" value="3588,13,"/> </t>
 <rb xml:lang="es"><wi type="G" value="2455,14,">Judá</wi><rf><citebib id="WEB"/>
 dice `Judah,´ <citebib id="KJV2003"/> dice `Judas.´</rf></rb>
@@ -108,7 +108,7 @@ Hezron. Hezron became the father of Ram.
 <wi type="G" value="5329,12,">Fares</wi> <wi type="G" value="1080,14,">concibió</wi> a
 <wi type="G" value="3588,15,"/>
 <wi type="G" value="2074,16,">Esrom</wi>; <wi type="G" value="1161,18,"/>
-<wi type="G" value="2074,17,">Esrom</wi> <wi type="G" value="1080,19,">concibió</wi>  a
+<wi type="G" value="2074,17,">Esrom</wi> <wi type="G" value="1080,19,">concibió</wi> a
 <wi type="G" value="3588,20,"/>
 <wi type="G" value="689,21,">Aram</wi>. </t>
 </sv>
@@ -245,7 +245,7 @@ Jechoniah and his brothers, at the time of the exile to Babylon.
 <rb xml:lang="es">cautivos a <wi type="G" value="897,13,">Babilonia</wi><rf>
 <citebib id="WEB"/> dice `exilio,´ <citebib id="DieBibel"/> dice
 `prisión,´ <citebib id="DiosHablaHoy"/> dice `en el tiempo en que los
-israelitas fueron llevados cautivos a Babilonia,´  <citebib id="Peshitta"/>
+israelitas fueron llevados cautivos a Babilonia,´ <citebib id="Peshitta"/>
 dice `cautiverio.´ <citebib id="KJV2003"/> dice
 `en el tiempo que fueron llevados a Babilonia.´</rf></rb>
 <t xml:lang="es">. </t>
@@ -262,7 +262,7 @@ became the father of Zerubbabel.
 <wi type="G" value="4528,9,">Salatiel</wi>. <wi type="G" value="1161,11,"/>
 <wi type="G" value="4528,10,">Salatiel</wi>
 <wi type="G" value="1080,12,">concibió</wi> a
-<wi type="G" value="3588,13,"/>  </t>
+<wi type="G" value="3588,13,"/> </t>
 <rb xml:lang="es"><wi type="G" value="2216,14,">Zerobabel</wi><rf><citebib id="RV1960"/> dice `Zorobabel.´</rf></rb>
 <t xml:lang="es">. </t>
 </sv>
@@ -522,7 +522,7 @@ un <wi type="G" value="5207,9,">hijo</wi>. </t>
 They shall call his name Immanuel;»
 <t xml:lang="es"><wi type="G" value="2532,10,">Y</wi> </t>
 <rb xml:lang="es"><wi type="G" value="2564,11,">lo llamarán</wi><rf>
-<citebib id="WEB"/>  y
+<citebib id="WEB"/> y
 <citebib id="KJV2003"/> dicen `llamarán su nombre.´</rf></rb>
 <t xml:lang="es"> <wi type="G" value="1694,15,">Emmanuel</wi>;» </t>
 </fo>
@@ -988,7 +988,7 @@ todos los niños <wi type="G" value="575,26,">de</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="5550,32,">tiempo</wi><rf>
 <citebib id="WEB"/> dice `tiempo exacto.´</rf></rb>
-<t xml:lang="es"> <wi type="G" value="3739,33,">que</wi>  había
+<t xml:lang="es"> <wi type="G" value="3739,33,">que</wi> había
 <wi type="G" value="198,34,">investigado</wi>
 <wi type="G" value="3844,35,">de</wi> los
 <wi type="G" value="3588,36,"/>
@@ -1023,7 +1023,7 @@ lamentation, weeping and great mourning,
 <wi type="G" value="3602,9,">tristeza</wi></t>,
 <cl/>
 Rachel weeping for her children;
-<t xml:lang="es">  <wi type="G" value="4478,11,">Raquel</wi>
+<t xml:lang="es"> <wi type="G" value="4478,11,">Raquel</wi>
 <wi type="G" value="2799,12,">llorando</wi> por
 <wi type="G" value="3588,13,"/>
 <wi type="G" value="846,15,">sus</wi>
@@ -1451,7 +1451,7 @@ el <wi type="G" value="4151,28,">Espíritu</wi>
 NU add «and with fire»
 <t xml:lang="es"><citebib id="WEB"/> no dice `y con fuego,´ pero esto lo agregan
 <citebib id="TR"/>, <citebib id="NU"/>, <citebib id="DieBibel"/>,
-<citebib id="Peshitta"/>  y <citebib id="KJV2003"/></t></rf></rb>
+<citebib id="Peshitta"/> y <citebib id="KJV2003"/></t></rf></rb>
 </sv>
 <sv id="Mateo-3-12">
 His winnowing
@@ -1516,7 +1516,7 @@ by you, and you come to me?»
 <wi type="G" value="1254,4,">opuso</wi>,
 <wi type="G" value="3004,6,">diciendo</wi>,
 «<wi type="G" value="1473,7,">Yo</wi>
-<wi type="G" value="2192,9,"/><wi type="G"  value="5532,8,">necesito</wi>
+<wi type="G" value="2192,9,"/><wi type="G" value="5532,8,">necesito</wi>
 <wi type="G" value="907,12,">ser bautizado</wi>
 <wi type="G" value="5259,10,">por</wi>
 <wi type="G" value="4675,11,">Ti</wi>,
@@ -1983,7 +1983,7 @@ From that time, Jesus began to preach, and to say,
 <wi type="G" value="2784,6,">predicar</wi>
 <wi type="G" value="2532,7,">y</wi> a
 <wi type="G" value="3004,8,">decir</wi>, </t>
-<fr>«Repent!  For the Kingdom of Heaven is at hand.»
+<fr>«Repent! For the Kingdom of Heaven is at hand.»
 <t xml:lang="es">«</t>
 <rb xml:lang="es">¡<wi type="G" value="3340,9,">Arrepiéntanse</wi>!<rf><citebib id="DiosHablaHoy"/> dice
 `Vuelvanse a Dios´</rf></rb>
@@ -2152,7 +2152,7 @@ healed them.
 <wi type="G" value="3588,3,"/> </t>
 <rb xml:lang="es"><wi type="G" value="189,4,">fama</wi><rf><citebib id="WEB"/>
 dice `La noticia sobre Él se difundió,´ <citebib id="KJV2003"/> y
-<citebib id="DieBibel"/> dicen  `Y su fama fue.´Según
+<citebib id="DieBibel"/> dicen `Y su fama fue.´Según
 <citebib id="Thayer-BLB"/> la palabra griega `akoe' puede traducirse como
 sentido del oido, oido, lo escuchado, instrucción, predicación o
 rumor.</rf></rb>
@@ -2330,7 +2330,7 @@ For they shall inherit the earth.
 con la palabra griega `dikaiosyne´ que
 según el lexicón <citebib id="Thayer-BLB"/> es en sentido amplio quien
 hace lo correcto ante Dios, y en sentido estricto justicia o la virtud
-de dar a cada cual lo que corresponde.  Con la frase que sigue
+de dar a cada cual lo que corresponde. Con la frase que sigue
 `Porque serán saciados´ parece más apropiado `justicia.´ </rf></rb>
 <t xml:lang="es">, </t>
 <cl/>
@@ -2744,7 +2744,7 @@ Ni <citebib id="LAT"/>, ni <citebib id="KJV2003"/> incluyen `sin una causa.´</r
 amaic insult, related to the word for «empty» and conveying the idea of
 empty-headedness.
 <t xml:lang="es">«Raca» es un insulto en Arameo, relacionado con la palabra
-«vacío» y que lleva la idea de cabeza-hueca.  <citebib id="LAT"/> dice
+«vacío» y que lleva la idea de cabeza-hueca. <citebib id="LAT"/> dice
 `cretino,´ <citebib id="RV1960"/> dice `necio.´</t></rf></rb>
 !´ shall be in danger
 of the council; and whoever shall say, `You fool!´ shall be in danger of the
@@ -2849,7 +2849,7 @@ prison.
 <wi type="G" value="1722,10,">en</wi>
 <wi type="G" value="3588,11,"/>
 <wi type="G" value="3598,12,">el camino</wi></t>
-<rb xml:lang="es"><rf><citebib id="DieBibel"/> agrega  `hacia el juez.´</rf></rb>
+<rb xml:lang="es"><rf><citebib id="DieBibel"/> agrega `hacia el juez.´</rf></rb>
 <t xml:lang="es">;
 <wi type="G" value="3379,15,">porque tal vez</wi> </t>
 <rb xml:lang="es"><wi type="G" value="476,19,">el adversario</wi><rf>
@@ -3078,10 +3078,10 @@ viuda' como para `esposa.´</rf></rb>
 en griego `porneia´ <!-- pi omikron ro nu epsilo iota alpha --> de
 acuerdo a <citebib id="Thayer-BLB"/> significa `intercurso sexual ilicito
 (adulterio, fornicación, homosexualidad, intercurso con animales, con
-familiares, con un hombre o mujer divorciada, etc.).'  Otros contextos
+familiares, con un hombre o mujer divorciada, etc.).' Otros contextos
 en los que aparece en este evangelio son 15:19, 19:9, en el primero
 tradujimos como `pecado sexual´ y en el segundo también como
-`fornicación.´  En Hc 15:20 y 15:29 también aparece y la hemos traducido
+`fornicación.´ En Hc 15:20 y 15:29 también aparece y la hemos traducido
 como `inmoralidad sexual.'
 Tanto en Mateo 15:19 como en Marcos 7:21 se emplea `porneia´ para
 `fornicación´ y se distingue de `moicheia´ para `adulterio.´
@@ -3124,7 +3124,7 @@ Lord your vows,´
 <wi type="G" value="4675,15,"><wi type="G" value="3727,14,">lo que has prometido</wi></wi>
 <wi type="G" value="2962,12,">al Señor</wi>
 <wi type="G" value="3588,13,"/><rf>
-<citebib id="WEB"/>  dice `sino que harás tus promesas al Señor,´
+<citebib id="WEB"/> dice `sino que harás tus promesas al Señor,´
 <citebib id="Peshitta"/> dice `sino que completarás tu juramente al
 Señor,´ <citebib id="DieBibel"/> dice `cumplirás lo que has
 prometido al Señor.´</rf></rb>
@@ -3270,8 +3270,8 @@ If anyone sues you to take away your coat, let him have your cloak also.
 <t xml:lang="es"><wi type="G" value="2532,1,">Si</wi>
 <wi type="G" value="3588,2,"/> </t>
 <rb xml:lang="es">alguien <wi type="G" value="2309,3,">quiere</wi>
-<wi type="G" value="2919,5,"><wi type="G" value="4671,4,">demandarte</wi></wi><rf><citebib id="WEB"/> dice `si alguién
-busca llevarte a jucio,' <citebib id="KJV2003"/> dice `si alguién
+<wi type="G" value="2919,5,"><wi type="G" value="4671,4,">demandarte</wi></wi><rf><citebib id="WEB"/> dice `si alguien
+busca llevarte a jucio,' <citebib id="KJV2003"/> dice `si alguien
 quiere demandarte ante la ley,' las palabras griegas son
 `thelo soi krino' la primera es querer, la segunda a ti, la tercera
 entre otros es contender, ir ante la ley.</rf></rb>
@@ -3284,7 +3284,7 @@ entre otros es contender, ir ante la ley.</rf></rb>
 <wi type="G" value="863,11,"><wi type="G" value="846,12,">déjale</wi></wi>
 <wi type="G" value="2532,13,">también</wi>
 <wi type="G" value="3588,14,"/>
-<wi type="G" value="2440,15,">la capa</wi>.  </t>
+<wi type="G" value="2440,15,">la capa</wi>. </t>
 </fr>
 </sv>
 <sv id="Mateo-5-41"><fr>
@@ -3429,15 +3429,15 @@ tax collectors do the same?
 <rb xml:lang="es"><wi type="G" value="5057,13,">recolectores de impuestos</wi><rf>
 <citebib id="Peshitta"/>, <citebib id="LAT"/> y <citebib id="KJV2003"/> dicen
 `los publicanos.´ <citebib id="Barnes"/> dice `Los publicanos eran recolectores
-de impuestas.  Judea era una provincia del imperio romano.  Los judios
+de impuestas. Judea era una provincia del imperio romano. Los judios
 cargaban este yugo ajeno con gran impaciencia, y pagaban sus impuestos
-con gran renuencia.  Ocurría, entonces, que aquellos que se dedicaban a
-recolectar impuestos era grandemente detestados.  Eran, además, hombres que
+con gran renuencia. Ocurría, entonces, que aquellos que se dedicaban a
+recolectar impuestos era grandemente detestados. Eran, además, hombres que
 se supone ejecutarían su oficio a toda costa; hombres decididos a
 integrarse a un empleo odioso y odiado; hombres usualmente de caracter
-abandonado, opresivos en sus mandatos, y laxos en sus vidas.  Los judios
+abandonado, opresivos en sus mandatos, y laxos en sus vidas. Los judios
 los asociaban en caracter con ladrones, adulteros y con quienes eran
-profanos y laxos.  Cristo decía que incluso estos hombres infelices
+profanos y laxos. Cristo decía que incluso estos hombres infelices
 amarían a sus benefactores.'</rf></rb>
 <t xml:lang="es">? </t>
 </fr>
@@ -3460,7 +3460,7 @@ do the same?
 <wi type="G" value="3588,13,"/>
 <wi type="G" value="3780,11,">no</wi>
 <wi type="G" value="4160,16,">hacen</wi>
-<wi type="G" value="3779,15,">lo mismo</wi>  </t>
+<wi type="G" value="3779,15,">lo mismo</wi> </t>
 <rb xml:lang="es"><wi type="G" value="5057,14,">los paganos</wi><rf>
 <citebib id="WEB"/> dice `recolectores de impuestos,´
 <citebib id="Peshitta"/> y <citebib id="KJV2003"/> dicen `publicanos,´
@@ -3900,7 +3900,7 @@ heavenly Father will also forgive you.
 <wi type="G" value="3770,16,">celestial</wi>
 <wi type="G" value="2532,10,">también</wi>
 <wi type="G" value="5213,11,">los</wi>
-<wi type="G" value="863,9,">perdonará</wi>.  </t>
+<wi type="G" value="863,9,">perdonará</wi>. </t>
 </fr>
 </sv>
 <sv id="Mateo-6-15">
@@ -3927,7 +3927,7 @@ trespasses, neither will your Father forgive your trespasses.
 </fr>
 </sv></cm><cm>
 <sv id="Mateo-6-16">
-<fr>«Moreover when you  fast, don´t be like the hypocrites,
+<fr>«Moreover when you fast, don´t be like the hypocrites,
 with sad faces. For they disfigure their faces, that they may be seen
 by men to be fasting. Most assuredly I tell you, they have received
 their reward.
@@ -4063,7 +4063,7 @@ nor rust consume, and where thieves don´t break through and steal;
 <wi type="G" value="853,12,">corrompen</wi>
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="3699,14,">donde</wi>
-<wi type="G" value="2812,15,">los  ladrones</wi>
+<wi type="G" value="2812,15,">los ladrones</wi>
 <wi type="G" value="3756,16,">no</wi>
 <wi type="G" value="1358,17,">entran</wi>
 <wi type="G" value="3761,18,">ni</wi>
@@ -4104,7 +4104,7 @@ whole body will be full of light.
 <rb xml:lang="es"><wi type="G" value="5600,14,">se encuentra</wi>
 <wi type="G" value="573,13,">sano</wi><rf><citebib id="KJV2003"/> puede
 traducirse como `es honesto,´ <citebib id="WEB"/> puede traducirse como
-`se encuentra sano,´ <citebib id="LAT"/> dice `sano.´  De acuerdo a
+`se encuentra sano,´ <citebib id="LAT"/> dice `sano.´ De acuerdo a
 <citebib id="Thayer-BLB"/> la palabra haplous <!-- alpha pi lambda
 omikron omikron sigma --> se traduce como `sano, que desempeña bien su
 función.'</rf></rb>
@@ -4934,7 +4934,7 @@ heaven.
 `<wi type="G" value="2962,6,">Señor</wi>,
 <wi type="G" value="2962,7,">Señor</wi>,´
 <wi type="G" value="1525,8,">entrará</wi>
-<wi type="G" value="1519,9,">al</wi>  <wi type="G" value="932,11,">Reino</wi>
+<wi type="G" value="1519,9,">al</wi> <wi type="G" value="932,11,">Reino</wi>
 <wi type="G" value="3588,10,"/>
 <wi type="G" value="3588,12,"/>
 <wi type="G" value="3772,13,">de los Cielos</wi>;
@@ -5218,7 +5218,7 @@ y <wi type="G" value="846,6,">lo</wi>
 <wi type="G" value="3588,7,"/>
 <wi type="G" value="680,5,">tocó</wi>,
 <wi type="G" value="3004,9,">diciendo</wi>, </t>
-<fr>«I want to.  Be made clean.»
+<fr>«I want to. Be made clean.»
 <t xml:lang="es">«<wi type="G" value="2309,10,">Yo quiero</wi>.
 <wi type="G" value="2511,11,">Se limpio</wi>.» </t>
 </fr> Immediately his leprosy was cleansed.
@@ -5460,7 +5460,7 @@ Jesus said to the centurion,
 <wi type="G" value="1096,11,">Que se cumpla</wi>
 <wi type="G" value="4671,12,">para ti</wi>
 <wi type="G" value="5613,9,">tal como</wi>
-<wi type="G" value="4100,10,">lo haz creído</wi>.» </t>
+<wi type="G" value="4100,10,">lo has creído</wi>.» </t>
 </fr> His servant was healed in that hour.
 <t xml:lang="es"><wi type="G" value="2532,13,">Y</wi>
 <wi type="G" value="3588,15,"/>
@@ -5711,7 +5711,7 @@ covered with the waves, but he was asleep.
 They came to him, and woke him up, saying,
 «Save us, Lord! We are dying!»
 <rb xml:lang="es"><wi type="G" value="846,5,">Sus</wi>
-<wi type="G" value="3101,4,">discipulos</wi><rf><citebib id="KJV2003"/> dice
+<wi type="G" value="3101,4,">discípulos</wi><rf><citebib id="KJV2003"/> dice
 `sus discípulos,´ <citebib id="WEB"/> dice `ellos.´</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2532,1,"/>
@@ -5812,7 +5812,7 @@ que <wi type="G" value="2896,3,"><wi type="G" value="3004,4,">gritaron</wi></wi>
 <wi type="G" value="5207,10,">Hijo</wi>
 <wi type="G" value="3588,11,"/>
 <wi type="G" value="2316,12,">de Dios</wi>?
-¿<wi type="G" value="2064,13,">Haz venido</wi>
+¿<wi type="G" value="2064,13,">Has venido</wi>
 <wi type="G" value="5602,14,">aquí</wi>
 <wi type="G" value="928,17,"><wi type="G" value="2248,18,">a atormentarnos</wi></wi>
 <wi type="G" value="4253,15,">antes</wi>
@@ -5904,7 +5904,7 @@ including what happened to those who were possessed with demons.
 <wi type="G" value="518,10,">y contaron</wi>
 <wi type="G" value="3956,11,">todo</wi> lo sucedido,
 <wi type="G" value="2532,12,">incluyendo</wi>
-<wi type="G" value="3588,13,">lo que paso</wi> con los que estaban
+<wi type="G" value="3588,13,">lo que pasó</wi> con los que estaban
 <wi type="G" value="3588,14,"/>
 <wi type="G" value="1139,15,">poseídos por los demonios</wi>. </t>
 </sv>
@@ -5957,7 +5957,7 @@ bed. Jesus, seeing their faith, said to the paralytic,
 que <wi type="G" value="906,8,">yacía</wi>
 <wi type="G" value="1909,6,">sobre</wi> </t>
 <rb xml:lang="es"><wi type="G" value="2825,7,">una camilla</wi><rf>
-<citebib id="WEB"/> dice  `cama.´</rf></rb>
+<citebib id="WEB"/> dice `cama.´</rf></rb>
 <t xml:lang="es">. <wi type="G" value="2532,9,"/><wi type="G" value="2424,12,">Jesús</wi>
 <wi type="G" value="1492,10,">viendo</wi>
 <wi type="G" value="3588,11,"/>
@@ -5967,7 +5967,7 @@ que <wi type="G" value="906,8,">yacía</wi>
 <wi type="G" value="2036,16,">dijo</wi>
 <wi type="G" value="3588,17,"/>
 <wi type="G" value="3885,18,">al paralítico</wi>, </t>
-<fr>«Son, cheer up!  Your sins are forgiven you.»
+<fr>«Son, cheer up! Your sins are forgiven you.»
 <t xml:lang="es">«¡<wi type="G" value="5043,20,">Hijo</wi>, </t>
 <rb xml:lang="es">
 <wi type="G" value="2293,19,">alégrate</wi><rf><citebib id="WEB"/> dice
@@ -6005,7 +6005,7 @@ Jesus, knowing their thoughts, said,
 <wi type="G" value="1761,6,">pensamientos</wi>,
 <wi type="G" value="2036,8,">dijo</wi>,
 <wi type="G" value="2443,9,"/> </t>
-<fr>«Why do you  think evil in
+<fr>«Why do you think evil in
 your hearts?
 <t xml:lang="es">«¿<wi type="G" value="2444,10,">Por qué</wi>
 <wi type="G" value="1760,12,"><wi type="G" value="5210,11,">piensan</wi></wi>
@@ -6319,7 +6319,7 @@ would tear away from the garment, and a worse hole is made.
 <wi type="G" value="1063,11,">pues</wi>
 <wi type="G" value="3588,12,"/>
 <wi type="G" value="4138,13,"><wi type="G" value="846,14,">el parche</wi></wi> </t>
-<rb xml:lang="es">encogerá,  <wi type="G" value="142,10,">se desprenderá</wi>
+<rb xml:lang="es">encogerá, <wi type="G" value="142,10,">se desprenderá</wi>
 <wi type="G" value="575,15,">del</wi>
 <wi type="G" value="3588,16,"/>
 <wi type="G" value="2440,17,">vestido</wi><rf><citebib id="KJV2003"/> y
@@ -6395,7 +6395,7 @@ and she will live.»
 <citebib id="KJV2003"/> y <citebib id="WEB"/> dicen `adoró.´
 <citebib id="Thayer-BLB"/> dice que la palabra `proskuneo' <!-- pi ro omikron sigma kappa upsilon nu epsilon omega -->
 se traduce entre otras como `en el Nuevo Testamento arodillare o postrarse
-para hacer homenaje a alguién o hacer obediencia, bien para expresar
+para hacer homenaje a alguien o hacer obediencia, bien para expresar
 respeto o para hacer suplica.´</rf></rb>
 <t xml:lang="es"> <wi type="G" value="3004,10,">diciendo</wi>,
 <wi type="G" value="3754,11,"/>
@@ -6693,7 +6693,7 @@ brought to him.
 <wi type="G" value="846,6,">le</wi>
 <wi type="G" value="4374,5,">llevaron</wi>
 <wi type="G" value="444,7,">un hombre</wi>
-<wi type="G" value="2974,8,">mudo</wi>  que estaba
+<wi type="G" value="2974,8,">mudo</wi> que estaba
 <wi type="G" value="1139,9,">poseído por un demonio</wi>. </t>
 </sv>
 <sv id="Mateo-9-33">
@@ -6955,7 +6955,7 @@ designa `celote´ o `fanático.´</rf></rb>
 <wi type="G" value="3588,7,"/> </t>
 <rb xml:lang="es"><wi type="G" value="3860,9,">quien</wi>
 <wi type="G" value="2532,8,">también</wi><rf><citebib id="WEB"/>,
-<citebib id="KJV2003"/> dice `quein también,´ <citebib id="Peshitta"/>  y
+<citebib id="KJV2003"/> dice `quein también,´ <citebib id="Peshitta"/> y
 <citebib id="LAT"/> dicen sólo `quien.´</rf></rb>
 <t xml:lang="es"> <wi type="G" value="846,10,">lo</wi>
 <wi type="GC" value="9">traicionó</wi>. </t>
@@ -7029,7 +7029,7 @@ the dead»<t xml:lang="es"><citebib id="WEB"/> no dice `resuciente a los muertos
 pero si lo incluyen <citebib id="DieBibel"/>, <citebib id="DiosHablaHoy"/>
 <citebib id="TR"/> y <citebib id="KJV2003"/>.</t></rf>
 </rb>
-, and cast out demons.  Freely you  received, so
+, and cast out demons. Freely you received, so
 freely give.
 <t xml:lang="es">, y <wi type="G" value="1544,8,">expulsen</wi>
 <wi type="G" value="1140,7,">demonios</wi>.
@@ -7047,7 +7047,7 @@ silver, nor brass in your money belts.
 <rb xml:lang="es"><wi type="G" value="3361,1,">No</wi>
 <wi type="G" value="2932,2,">lleven</wi><rf><citebib id="Peshitta"/>
 dice `no acumulen,´ <citebib id="KJV2003"/> dice `no provean,´
-<citebib id="LAT"/> dice `no hechen.´  De acuerdo a
+<citebib id="LAT"/> dice `no hechen.´ De acuerdo a
 <citebib id="Thayer-BLB"/> la palabra griega ktaomai <!-- kappa tau
  alpha omikron miu alpha iota --> significa adquirir, recibir o procurar
 algo para un mismo.</rf></rb>
@@ -7117,11 +7117,11 @@ is worthy; and stay there until you
 </fr>
 </sv>
 <sv id="Mateo-10-12"><fr>
-As you  enter into the household, greet it.
+As you enter into the household, greet it.
 <t xml:lang="es"><wi type="G" value="1161,2,"/><wi type="G" value="1525,1,">Cuando entren</wi> </t>
 <rb xml:lang="es"><wi type="G" value="1519,3,">a</wi>
 <wi type="G" value="3588,4,"/> una<rf><citebib id="WEB"/> y <citebib id="LAT"/>
-dicen `en la,´ <citebib id="Peshitta"/>  y <citebib id="KJV2003"/>
+dicen `en la,´ <citebib id="Peshitta"/> y <citebib id="KJV2003"/>
 dicen `a una.´</rf></rb>
 <t xml:lang="es"> <wi type="G" value="3614,5,">casa</wi>, </t>
 <rb xml:lang="es"><wi type="G" value="782,6,">den un saludo de paz</wi><rf><citebib id="DieBibel"/> y <citebib id="KJV2003"/> dicen `saluden,´
@@ -7290,7 +7290,7 @@ kings for my sake, for a testimony to them and to the nations.
 <citebib id="KJV2003"/> dice `testimonio contra ellos.´</rf></rb>
 <t xml:lang="es"> <wi type="G" value="2532,13,">y</wi> </t>
 <wi type="G" value="3588,14,"/>
-<rb xml:lang="es"><wi type="G" value="1484,15,">las  naciones</wi><rf><citebib id="Peshitta"/>
+<rb xml:lang="es"><wi type="G" value="1484,15,">las naciones</wi><rf><citebib id="Peshitta"/>
 y <citebib id="KJV2003"/>, <citebib id="RV1960"/> dicen `a los gentiles.´</rf></rb>
 <t xml:lang="es">. </t>
 </fr>
@@ -7618,7 +7618,7 @@ but the very hairs of your head are all numbered.
 </fr>
 </sv>
 <sv id="Mateo-10-31"><fr>
-Therefore don´t be afraid.  You are of more value than
+Therefore don´t be afraid. You are of more value than
 many sparrows.
 <t xml:lang="es"><wi type="G" value="3767,2,">Por eso</wi>
 <wi type="G" value="3361,1,">no</wi>
@@ -7696,7 +7696,7 @@ to send peace, but a sword.
 <citebib id="Peshitta"/> dice `traer calma,´
 <citebib id="DieBibel"/>
 y <citebib id="DiosHablaHoy"/> dicen `traer paz.´
-De acuerdo a <citebib id="Thayer-BLB"/>  la palabra griega
+De acuerdo a <citebib id="Thayer-BLB"/> la palabra griega
 `eirene´ <!-- epsilon iota ro eta nu eta --> tiene varias definiciones
 entre las que están `estado de tranquilidad nacional, harmonía, seguridad,
 prosperidad, felicidad, paz del Mesias, estado tranquilo del alma asegurada
@@ -7763,7 +7763,7 @@ who loves son or daughter more than me isn´t worthy of me.
 <wi type="G" value="2228,4,">o</wi>
 <wi type="G" value="3384,5,">madre</wi>
 <wi type="G" value="5228,6,">más que</wi>
-<wi type="G" value="1691,7,">a mí</wi>  </t>
+<wi type="G" value="1691,7,">a mí</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3756,8,">no</wi>
 <wi type="G" value="2076,9,">es</wi>
 <wi type="G" value="514,11,">digno</wi>
@@ -7864,7 +7864,7 @@ dice `porque es un profeta,´ <citebib id="DiosHablaHoy"/> dice
 <wi type="G" value="4396,8,">de un profeta</wi>;
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="3588,11,"/>
-<wi type="G" value="1209,12,">aquel que recibe</wi>  </t>
+<wi type="G" value="1209,12,">aquel que recibe</wi> </t>
 <rb xml:lang="es">a <wi type="G" value="1342,13,">un hombre justo</wi><rf><citebib id="DiosHablaHoy"/>
 dice `bueno.´</rf></rb>
 <t xml:lang="es"> <wi type="G" value="1519,14,;3686,15,"/>porque es
@@ -8315,7 +8315,7 @@ Hijo</wi>
 <wi type="G" value="5384,17,">un amigo</wi>
 <wi type="G" value="5057,16,">de los recolectores de impuestos</wi>
 <wi type="G" value="2532,18,">y</wi>
-<wi type="G" value="268,19,">de los pecadores</wi>!´  </t>
+<wi type="G" value="268,19,">de los pecadores</wi>!´ </t>
 <rb xml:lang="es"><wi type="G" value="2532,20,">Pero</wi>
 <wi type="G" value="3588,22,"/>
 <wi type="G" value="4678,23,">la sabiduría</wi>
@@ -8533,7 +8533,7 @@ the Son, and he to whom the Son desires to reveal him.
 <wi type="G" value="1487,13,">excepto</wi>
 <wi type="G" value="3361,14,"/> <wi type="G" value="3588,15,"/>
 <wi type="G" value="3962,16,">el Padre</wi>,
-<wi type="G" value="3761,17,"/><!-- ni -->  y
+<wi type="G" value="3761,17,"/><!-- ni --> y
 <wi type="G" value="5100,20,"/><!-- hombre alguno --> nadie
 <wi type="G" value="1921,21,">conoce</wi>
 <wi type="G" value="3588,18,"/>
@@ -8686,7 +8686,7 @@ was hungry, and those who were with him;
 <wi type="G" value="3588,14,">los que estaban</wi>
 <wi type="G" value="3326,15,">con</wi>
 <wi type="G" value="846,16,">él</wi>
-<wi type="G" value="3983,11,">tuvieron hambre</wi>;  </t>
+<wi type="G" value="3983,11,">tuvieron hambre</wi>; </t>
 </fr>
 </sv>
 <sv id="Mateo-12-4"><fr>
@@ -8814,7 +8814,7 @@ Sabbath day?» that they might accuse him.
 <wi type="G" value="444,3,">un hombre</wi>
 <wi type="G" value="2192,7,">con</wi> su
 <wi type="G" value="5495,6,">mano</wi>
-<wi type="G" value="3584,8,">tullida</wi>.  <wi type="G" value="2532,9,"/>
+<wi type="G" value="3584,8,">tullida</wi>. <wi type="G" value="2532,9,"/>
 Ellos <wi type="G" value="846,11,">le</wi>
 <wi type="G" value="1905,10,">preguntaron</wi>,
 <wi type="G" value="3004,12,"/> <wi type="G" value="1487,13,"/>
@@ -9039,9 +9039,9 @@ Until he leads justice to victory.
 <citebib id="WEB"/> dice `la justicia,´ <citebib id="KJV2003"/> y
 <citebib id="RV1960"/> dicen
 `el juicio.´ De acuerdo a <citebib id="Thayer-BLB"/> la palabra
-griega `krisis´ <!-- kappa ro iota sigma iota sigma -->  puede
+griega `krisis´ <!-- kappa ro iota sigma iota sigma --> puede
 traducirse como separación, selección, juició (opinión, sentencia condenatoria),
-colegio de jueces --de Palestina--  o como justicia.</rf></rb>
+colegio de jueces --de Palestina-- o como justicia.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1519,13,">a</wi>
 <wi type="G" value="3534,14,">la victoria</wi>. </t>
@@ -9157,12 +9157,12 @@ against himself. How then will his kingdom stand?
 <wi type="G" value="1544,7,">expulsara</wi>
 <wi type="G" value="3588,5,"/>
 <wi type="G" value="4567,6,">a Satanás</wi>,
-<wi type="G" value="3307,10,">él se divide</wi>
+<wi type="G" value="3307,10,">se dividiría</wi>
 <wi type="G" value="1909,8,">contra</wi>
-<wi type="G" value="1438,9,">si mismo</wi> .
+<wi type="G" value="1438,9,">sí mismo</wi> .
 ¿<wi type="G" value="4459,11,">Cómo</wi>
 <wi type="G" value="3767,12,">entonces</wi>
-<wi type="G" value="2476,13,">se mantendrá</wi>
+<wi type="G" value="2476,13,">se mantendría</wi>
 <wi type="G" value="846,16,">su</wi> <wi type="G" value="3588,14,"/>
 <wi type="G" value="932,15,">reino</wi>? </t>
 </fr>
@@ -9173,7 +9173,7 @@ cast out demons, by whom do your children cast them out? Therefore they will
 be your judges.
 <t xml:lang="es">¿<wi type="G" value="2532,1,"/><wi type="G" value="1487,2,">Si</wi>
 <wi type="G" value="1473,3,">yo</wi>
-<wi type="G" value="1544,6,">expulsara</wi>
+<wi type="G" value="1544,6,">expulso</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="1140,8,">demonios</wi>
 <wi type="G" value="1722,4,">por</wi>
 <wi type="G" value="3588,9,"/>
@@ -9192,7 +9192,7 @@ dice `sus seguidores´</rf></rb>
 <wi type="G" value="5216,18,">sus</wi>
 <wi type="G" value="2923,20,">jueces</wi><rf><citebib id="DiosHablaHoy"/> dice
 `Por eso ellos mismos demuestran que ustedes están equivocados.´</rf></rb>
-<t xml:lang="es">.  </t>
+<t xml:lang="es">. </t>
 </fr>
 </sv>
 <sv id="Mateo-12-28"><fr>
@@ -9223,7 +9223,7 @@ of the strong man, and plunder his goods, unless he first bind the strong
 man? Then he will plunder his house.
 <t xml:lang="es">¿<wi type="G" value="2228,1,">O</wi>
 <wi type="G" value="4459,2,">cómo</wi>
-<wi type="G" value="1410,3,">puede</wi>
+<wi type="G" value="1410,3,">podría</wi>
 <wi type="G" value="5100,4,">alguien</wi>
 <wi type="G" value="1525,5,">entrar</wi>
 <wi type="G" value="1519,6,">en</wi>
@@ -9238,12 +9238,12 @@ man? Then he will plunder his house.
 <wi type="G" value="1437,16,">a menos</wi> que
 <wi type="G" value="3361,17,"/>
 <wi type="G" value="4412,18,">primero</wi>
-<wi type="G" value="1210,19,">ate</wi>
+<wi type="G" value="1210,19,">atara</wi>
 <wi type="G" value="3588,20,"/>
 <wi type="G" value="2478,21,">al hombre fuerte</wi>?
 <wi type="G" value="2532,22,"/>
 <wi type="G" value="5119,23,">Entonces</wi>
-<wi type="G" value="1283,27,">podrá robar</wi>
+<wi type="G" value="1283,27,">podría robar</wi>
 <wi type="G" value="846,26,">su</wi>
 <wi type="G" value="3588,24,"/>
 <wi type="G" value="3614,25,">casa</wi>. </t>
@@ -9333,7 +9333,7 @@ la que está
 «Either make the tree good, and its fruit good, or make the tree
 corrupt, and its fruit corrupt; for the tree is known by its fruit.
 <t xml:lang="es">«<wi type="G" value="2228,1,">O</wi> bien
-<wi type="G" value="4160,2,">hacen</wi>
+<wi type="G" value="4160,2,">hagan</wi>
 <wi type="G" value="3588,3,"/>
 <wi type="G" value="1186,4,">el árbol</wi>
 <wi type="G" value="2570,5,">bueno</wi>
@@ -9343,7 +9343,7 @@ corrupt, and its fruit corrupt; for the tree is known by its fruit.
 <wi type="G" value="2590,8,">fruto</wi> es
 <wi type="G" value="2570,10,">bueno</wi>,
 <wi type="G" value="2228,11,">o</wi>
-<wi type="G" value="4160,12,">hacen</wi>
+<wi type="G" value="4160,12,">hagan</wi>
 <wi type="G" value="3588,13,"/>
 <wi type="G" value="1186,14,">el árbol</wi>
 <wi type="G" value="4550,15,">corrupto</wi>,
@@ -9365,7 +9365,7 @@ corrupt, and its fruit corrupt; for the tree is known by its fruit.
 You offspring of vipers, how can you,
 being evil, speak good things? For out of the abundance of the heart,
 the mouth speaks.
-<t xml:lang="es">Ustedes <wi type="G" value="1081,1,">nido</wi>
+<t xml:lang="es">Ustedes, <wi type="G" value="1081,1,">nido</wi>
 <wi type="G" value="2191,2,">de víboras</wi>,
 ¿<wi type="G" value="4459,3,">cómo</wi> <wi type="G" value="1410,4,">pueden</wi>
 <wi type="G" value="5607,8,">siendo</wi>
@@ -9514,7 +9514,7 @@ earth.
 <wi type="G" value="5140,13,">tres</wi>
 <wi type="G" value="3571,14,">noches</wi>
 <wi type="G" value="1722,5,">en</wi>
-<wi type="G" value="2836,7,">el estomago</wi>  de
+<wi type="G" value="2836,7,">el estómago</wi> de
 <wi type="G" value="2785,9,">una ballena</wi>,
 <wi type="G" value="3779,15,">así</wi>
 <wi type="G" value="2071,16,">estará</wi>
@@ -9609,7 +9609,7 @@ rest, and doesn´t find it.
 <wi type="G" value="169,4,">impuro</wi>
 <wi type="G" value="3752,1,">cuando</wi> <wi type="G" value="3588,3,"/>
 <wi type="G" value="1831,6,">sale</wi>
-<wi type="G" value="575,7,">del</wi>  <wi type="G" value="3588,8,"/>
+<wi type="G" value="575,7,">del</wi> <wi type="G" value="3588,8,"/>
 <wi type="G" value="444,9,">hombre</wi>
 <wi type="G" value="1330,10,">pasa</wi>
 <wi type="G" value="1223,11,">por</wi>
@@ -9658,13 +9658,13 @@ this evil generation.»
 <wi type="G" value="2087,8,">otros</wi>
 <wi type="G" value="2033,7,">siete</wi>
 <wi type="G" value="4151,9,">espíritus</wi>
-<wi type="G" value="4191,10,">más  malos</wi>
+<wi type="G" value="4191,10,">más malos</wi>
 <wi type="G" value="1438,11,">que él</wi>
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="1525,13,">entran</wi>
 <wi type="G" value="2730,14,">y habitan</wi>
-<wi type="G" value="1563,15,">allí</wi>.  <wi type="G" value="2532,16,"/>
-<wi type="G" value="3588,18,"/>La situación
+<wi type="G" value="1563,15,">allí</wi>. 
+<wi type="G" value="2532,16,"/><wi type="G" value="3588,18,"/>La situación
 <wi type="G" value="2078,19,">final</wi>
 <wi type="G" value="3588,20,"/>
 <wi type="G" value="444,21,">de</wi>
@@ -9672,8 +9672,7 @@ this evil generation.»
 <wi type="GC" value="21"> hombre</wi>
 <wi type="G" value="1096,17,">es</wi>
 <wi type="G" value="5501,23,">peor</wi>
-<wi type="G" value="3588,24,"/>
-<wi type="G" value="4413,25,">que al comienzo</wi>.
+<wi type="G" value="3588,24,"/><wi type="G" value="4413,25,">que al comienzo</wi>.
 <wi type="G" value="2532,28,">También</wi>
 <wi type="G" value="2071,27,">será</wi>
 <wi type="G" value="3779,26,">así</wi>
@@ -9718,7 +9717,7 @@ One said to him,
 «Behold, your mother and your brothers stand outside, seeking to speak to
 you.»
 <t xml:lang="es"><wi type="G" value="1161,2,">Entonces</wi>
-<wi type="G" value="5100,3,">alguién</wi>
+<wi type="G" value="5100,3,">alguien</wi>
 <wi type="G" value="846,4,">le</wi>
 <wi type="G" value="2036,1,">dijo</wi>, «<wi type="G" value="2400,5,">Mira</wi>,
 <wi type="G" value="4675,8,">tu</wi>
@@ -9927,7 +9926,7 @@ Others fell among thorns. The thorns grew up and choked them;
 <wi type="G" value="305,8,">crecieron</wi>
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="846,13,">las</wi>
-<wi type="G" value="638,12,">detuvieron</wi>; </t>
+<wi type="G" value="638,12,">ahogaron</wi>; </t>
 </fr>
 </sv>
 <sv id="Mateo-13-8"><fr>
@@ -10052,7 +10051,7 @@ In them the prophecy of Isaiah is fulfilled, which says,
 <wi type="G" value="2268,7,">de Isaías</wi>, <wi type="G" value="3588,8,"/>
 <wi type="G" value="3004,9,">que dice</wi>, </t>
 </fr><fp><fr>
-`By hearing you  will hear,
+`By hearing you will hear,
 <t xml:lang="es">`<wi type="G" value="189,10,">Escuchando</wi>
 <wi type="G" value="191,11,">ustedes escucharán</wi>, </t>
 <cl/>
@@ -10061,7 +10060,7 @@ And will in no way understand;
 <wi type="G" value="3756,13,"><wi type="G" value="3361,14,">no</wi></wi>
 <wi type="G" value="4920,15,">entenderán</wi>; </t>
 <cl/>
-Seeing you  will see,
+Seeing you will see,
 <t xml:lang="es"><wi type="G" value="2532,16,"/><wi type="G" value="991,17,">Viendo</wi>
 <wi type="G" value="991,18,">ustedes verán</wi>, </t>
 <cl/>
@@ -10391,7 +10390,7 @@ bearded darnel or lolium temulentum) that looks very much like wheat until it
 is mature, when the difference becomes very apparent.
 <t xml:lang="es">La cizaña es un pasto (probablemente lolium temulentum) que
 es muy similar al trigo hasta que está maduro, cuando las diferencias
-se hacen muy visibles.  Un artículo que presenta dos candidatos posibles
+se hacen muy visibles. Un artículo que presenta dos candidatos posibles
 --Cephalaria syriaca y Lolium temulentum-- para la planta referida
 (en griego zizanion <!-- zeta iota zeta alpha nu iota omikron nu -->) puede
 consultarse en
@@ -10577,7 +10576,7 @@ Charles H. Spurgeon, Particular Redemption, A Sermon, 28 Feb 1858
 disponible en <citebib id="Thayer-BLB"/> (palabra griega `pas'),
 "Las palabras `mundo' y `todas' se emplean de unas siete u ocho formas
 en la Escritura; y es muy raro que `todas' signifique todas las
-personas, tomadas individualmente.  Se usan generalmente
+personas, tomadas individualmente. Se usan generalmente
 para indicar que Cristo ha redimido a algunos de todos los tipos
 --algunos Judios, algunos Gentiles, algunos ricos, algunos pobres y
 no ha restringido su redención a Judios o Gentiles."</rf></rb>
@@ -10864,7 +10863,7 @@ furnace of fire. There will be weeping and the gnashing of teeth.
 </sv>
 <sv id="Mateo-13-43"><fr>
 Then the righteous will shine forth like the sun in the Kingdom of their
-Father.  He who has ears to hear, let him hear.
+Father. He who has ears to hear, let him hear.
 <t xml:lang="es"><wi type="G" value="5119,1,">Entonces</wi>
 <wi type="G" value="1342,3,">los justos</wi>
 <wi type="G" value="3588,2,"/>
@@ -10992,7 +10991,7 @@ containers, but the bad they threw away.
 <wi type="G" value="3588,6,"/>
 <wi type="G" value="123,7,">la playa</wi>.
 <wi type="G" value="2532,8,"/>
-<wi type="G" value="2523,9,">Se  sientan</wi>
+<wi type="G" value="2523,9,">Se sientan</wi>
 <wi type="G" value="4816,10,">a recoger</wi>
 <wi type="G" value="3588,11,"/>
 <wi type="G" value="2570,12,">los buenos</wi>
@@ -11049,7 +11048,7 @@ Jesus said to them,
 <t xml:lang="es"><wi type="G" value="3588,3,"/><wi type="G" value="2424,4,">Jesús</wi>
 <wi type="G" value="846,2,">les</wi>
 <wi type="G" value="3004,1,">dijo</wi>, </t>
-<fr>«Have you  understood all these things?»
+<fr>«Have you understood all these things?»
 <t xml:lang="es">«¿<wi type="G" value="4920,5,">Han entendido</wi>
 <wi type="G" value="3956,7,">todas</wi>
 <wi type="G" value="5023,6,">estas cosas</wi>?» </t>
@@ -11325,7 +11324,7 @@ por esposa<rf><citebib id="WEB"/> y <citebib id="KJV2003"/>dicen
 <sv id="Mateo-14-5">
 When he would have put him to death, he feared the
 multitude, because they counted him as a prophet.
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>  aunque
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi> aunque
 <wi type="G" value="2309,2,"><wi type="G" value="846,3,"><wi type="G" value="615,4,">lo hubiera hecho matar</wi></wi></wi>,
 <wi type="G" value="5399,5,">temía</wi>
 <wi type="G" value="3588,6,"/>
@@ -11628,7 +11627,7 @@ which remained left over from the broken pieces.
 <wi type="G" value="3956,3,">todos</wi>
 <wi type="G" value="5315,2,">comieron</wi>,
 <wi type="G" value="2532,4,">y</wi>
-<wi type="G" value="5526,5,">se saciaron</wi>.  <wi type="G" value="2532,6,"/>
+<wi type="G" value="5526,5,">se saciaron</wi>. <wi type="G" value="2532,6,"/>
 <wi type="G" value="142,7,">Recogieron</wi>
 <wi type="G" value="1427,12,">doce</wi>
 <wi type="G" value="2894,13,">canastos</wi>
@@ -11803,7 +11802,7 @@ you on the waters.»
 </sv></cm><cm>
 <sv id="Mateo-14-29">
 He said,
-<t xml:lang="es"><wi type="G" value="2036,3,">Él  le dijo</wi>,
+<t xml:lang="es"><wi type="G" value="2036,3,">Él le dijo</wi>,
 <wi type="G" value="1161,2,"/>
 <wi type="G" value="3588,1,"/>
  </t>
@@ -12050,7 +12049,7 @@ God,»
 <wi type="G" value="2228,9,">o</wi> a su
 <wi type="G" value="3588,10,"/>
 <wi type="G" value="3384,11,">madre</wi> «</t>
-<rb xml:lang="es"><wi type="G" value="3739,13,">Cualquier</wi> ayuda  que
+<rb xml:lang="es"><wi type="G" value="3739,13,">Cualquier</wi> ayuda que
 
 <wi type="G" value="5623,17,">pudieras haber recibido</wi>
 <wi type="G" value="1437,14,"/>
@@ -12312,7 +12311,7 @@ into the mouth passes into the belly, and then out of the body?
 <wi type="G" value="2532,14,">y</wi> después
 <wi type="G" value="1544,17,">va</wi>
 <wi type="G" value="1519,15,">al</wi>
-<wi type="G" value="856,16,">inodoro</wi>?  </t>
+<wi type="G" value="856,16,">inodoro</wi>? </t>
 </fr>
 </sv>
 <sv id="Mateo-15-18"><fr>
@@ -12664,7 +12663,7 @@ way.»
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="2192,21,"><wi type="G" value="3756,20,">no tienen nada</wi></wi>
 <wi type="G" value="5101,22,">para</wi>
-<wi type="G" value="5315,23,">comer</wi>.  <wi type="G" value="2532,24,"/>
+<wi type="G" value="5315,23,">comer</wi>. <wi type="G" value="2532,24,"/>
 <wi type="G" value="3756,28,">No</wi>
 <wi type="G" value="2309,29,">quiero</wi>
 <wi type="G" value="630,25,"><wi type="G" value="846,26,">enviarlos</wi></wi> de regreso
@@ -12704,7 +12703,7 @@ Jesus said to them,
 <wi type="G" value="846,3,">les</wi>
 <wi type="G" value="3588,4,"/>
 <wi type="G" value="3004,2,">dijo</wi>, </t>
-<fr>«How many loaves do you  have?»
+<fr>«How many loaves do you have?»
 <t xml:lang="es">«¿<wi type="G" value="4214,6,">Cuántos</wi>
 <wi type="G" value="740,7,">panes</wi>
 <wi type="G" value="2192,8,">tienen</wi>?» </t>
@@ -12744,7 +12743,7 @@ disciples, and the disciples to the multitudes.
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="3588,7,"/>
 <wi type="G" value="2486,8,">los pescados</wi>.
-<wi type="G" value="2168,9,">Dio gracias</wi>,  lo
+<wi type="G" value="2168,9,">Dio gracias</wi>, lo
 <wi type="G" value="2806,10,">partió</wi>,
 <wi type="G" value="2532,11,">y</wi> lo
 <wi type="G" value="1325,12,">entregó</wi>
@@ -13017,7 +13016,7 @@ for the five thousand, and how many baskets you took up?
 <sv id="Mateo-16-10"><fr>
 Nor the seven loaves for the four thousand, and how many baskets
 you took up?
-<t xml:lang="es">¿<wi type="G" value="3761,1,">Ni</wi> de  los
+<t xml:lang="es">¿<wi type="G" value="3761,1,">Ni</wi> de los
 <wi type="G" value="3588,2,"/>
 <wi type="G" value="2033,3,">siete</wi>
 <wi type="G" value="740,4,">panes</wi>
@@ -13337,7 +13336,7 @@ scribes, and be killed, and the third day be raised up.
 <wi type="G" value="5119,2,">ese momento</wi>
 <wi type="G" value="3588,4,"/>
 <wi type="G" value="2424,5,">Jesús</wi> les
-<wi type="G" value="756,3,">empezó</wi>  a
+<wi type="G" value="756,3,">empezó</wi> a
 <wi type="G" value="1166,6,">mostrar</wi> a
 <wi type="G" value="3588,7,"/>
 <wi type="G" value="846,9,">sus</wi>
@@ -13358,7 +13357,7 @@ scribes, and be killed, and the third day be raised up.
 <wi type="G" value="2532,24,">y</wi> de
 <wi type="G" value="1122,25,">los escribas</wi>,
 <wi type="G" value="2532,26,"/> que
-<wi type="G" value="615,27,">sería  asesinado</wi>
+<wi type="G" value="615,27,">sería asesinado</wi>
 <wi type="G" value="2532,28,">y</wi>
 <wi type="G" value="3588,29,"/>
 <wi type="G" value="2250,31,"><wi type="G" value="5154,30,">al tercer día</wi></wi>
@@ -13493,7 +13492,7 @@ tendrá
 dice `vida,´ <citebib id="KJV2003"/> dice `alma,´ <citebib id="Thayer-BLB"/>
 dice que la palabra griega `psuche´ puede traducirse como
 `aliento de vida´ y como `alma.´</rf></rb>
-<t xml:lang="es">?  ¿<wi type="G" value="2228,15,">O</wi>
+<t xml:lang="es">? ¿<wi type="G" value="2228,15,">O</wi>
 <wi type="G" value="5101,16,">que</wi>
 <wi type="G" value="1325,17,">dará</wi>
 <wi type="G" value="444,18,">un hombre</wi>
@@ -14246,7 +14245,7 @@ n nota al pie de <citebib id="WEB"/> y
 attics o dos dracmas alejandrinos, o un shekel Judío: justo lo suficiente
 para cubrir el impuesto de templo de medio shekel para dos
 personas. <citebib id="Peshitta"/> dice sólo `moneda.´</t></rf></rb>
-<!-- OJO Revisar traducción de shekel, attic  y stater-->
+<!-- OJO Revisar traducción de shekel, attic y stater-->
 
 Take that, and give it to them for me and you.»
 <t xml:lang="es">. <wi type="G" value="2983,26,"><wi type="G" value="1565,25,">Tómala</wi></wi>,
@@ -14414,7 +14413,7 @@ the occasions come, but woe to that person through whom the occasion comes!
 <rb xml:lang="es"><wi type="G" value="4625,6,">las ocasiones de tropiezo</wi><rf>
 <citebib id="KJV2003"/> dice `ofensas,´ <citebib id="WEB"/> dice
 `las ocasiones de tropiezo,´ <citebib id="Thayer-BLB"/> dice que la palabra
-griega `skandalizo´ puede ser bien  `poner una piedara de tropiezo o
+griega `skandalizo´ puede ser bien `poner una piedara de tropiezo o
 impedimento en el camino para que otro caiga, metáfora ofender.'</rf></rb>
 <t xml:lang="es">! <wi type="G" value="1063,8,">Pues</wi>
 <wi type="G" value="2076,9,">es</wi>
@@ -14519,7 +14518,7 @@ two eyes to be cast into the
 </fr>
 </sv>
 <sv id="Mateo-18-10"><fr>
-See that you  don´t despise one of these little ones, for
+See that you don´t despise one of these little ones, for
 I tell you that in heaven their angels always see the face of my
 Father who is in heaven.
 <t xml:lang="es"><wi type="G" value="3708,1,">Observen</wi>
@@ -15374,7 +15373,7 @@ divorced commits adultery.»
 <wi type="G" value="4202,14,">fornicación</wi><rf><citebib id="WEB"/>
 dice `por inmoralidad sexual,´ <citebib id="KJV2003"/> dice `por
 fornicación,' <citebib id="Peshitta"/> dice
-`sin un cargo de adulterio.´   Ver notas al pie de
+`sin un cargo de adulterio.´ Ver notas al pie de
 Mat 5:9 y Mat 15:19.
 </rf></rb>
 <t xml:lang="es">,
@@ -15702,7 +15701,7 @@ sad, for he was one who had great possessions.
 <wi type="G" value="565,7,">se fue</wi>
 <wi type="G" value="3076,8,">triste</wi>,
 <wi type="G" value="1063,10,">pues</wi> </t>
-<rb xml:lang="es"><wi type="G" value="2258,9,">era</wi> alguién que
+<rb xml:lang="es"><wi type="G" value="2258,9,">era</wi> alguien que
 <wi type="G" value="2192,11,">tenía</wi>
 <wi type="G" value="4183,13,">muchas</wi>
 <wi type="G" value="2933,12,">posesiones</wi><rf><citebib id="WEB"/> dice `era
@@ -15746,7 +15745,7 @@ Kingdom of God.»
 <wi type="G" value="3004,3,">digo</wi>,
 <wi type="G" value="2076,6,">es</wi>
 <wi type="G" value="2123,5,">más fácil</wi>
-<wi type="G" value="1330,11,">para</wi>  </t>
+<wi type="G" value="1330,11,">para</wi> </t>
 <rb xml:lang="es"><wi type="G" value="2574,7,">un camello</wi><rf><citebib id="Peshitta"/> dice `una cuerda.´</rf></rb>
 <t xml:lang="es"> <wi type="GC" value="11">pasar</wi>
 <wi type="G" value="1223,8,">por</wi>
@@ -16346,7 +16345,7 @@ scribes, and they will condemn him to death,
 <wi type="G" value="2632,16,">ellos</wi>
 <wi type="G" value="846,17,">lo</wi>
 <wi type="GC" value="16">condenaran</wi>
-<wi type="G" value="2288,18,">a muerte</wi>,  </t>
+<wi type="G" value="2288,18,">a muerte</wi>, </t>
 </fr>
 </sv>
 <sv id="Mateo-20-19"><fr>
@@ -17403,7 +17402,7 @@ these things.
 </sv>
 </cm><cm>
 <sv id="Mateo-21-28"><fr>
-But what do you  think? A man had two sons, and he
+But what do you think? A man had two sons, and he
 came to the first, and said, `Son, go work today in my vineyard.´
 <t xml:lang="es"><wi type="G" value="1161,2,"/>¿<wi type="G" value="5101,1,">Qué</wi>
 <wi type="G" value="1380,4,"><wi type="G" value="5213,3,">piensan</wi></wi>?
@@ -17597,7 +17596,7 @@ farmers, to receive his fruit.
 <wi type="G" value="2983,15,">para recibir</wi>
 <wi type="G" value="3588,16,"/>
 <wi type="G" value="2590,17,">la fruta</wi>
-<wi type="G" value="846,18,"/>.  </t>
+<wi type="G" value="846,18,"/>. </t>
 </fr>
 </sv>
 <sv id="Mateo-21-35"><fr>
@@ -17651,7 +17650,7 @@ them his son, saying, `They will respect my son.´
 <citebib id="KJV2003"/> dice `reverenciarán,´ <citebib id="WEB"/>
 y <citebib id="RV1960"/> dicen `respetarán,´ según
 <citebib id="Thayer-BLB"/> la palabra
-griegeo `entrepo´ se traduce como  `reverenciar, apenarse.´</rf></rb>
+griegeo `entrepo´ se traduce como `reverenciar, apenarse.´</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3450,13,">a mi</wi>
 <wi type="G" value="3588,11,"/>
@@ -17695,7 +17694,7 @@ the vineyard, and killed him.
 <wi type="G" value="3588,6,"/>
 <wi type="G" value="290,7,">del viñedo</wi>
 <wi type="G" value="2532,8,">y</wi> lo
-<wi type="G" value="615,9,">mataron</wi>.  </t>
+<wi type="G" value="615,9,">mataron</wi>. </t>
 </fr>
 </sv>
 <sv id="Mateo-21-40"><fr>
@@ -17960,7 +17959,7 @@ fueron
 ¡<wi type="G" value="1205,24,">Vengan</wi>
 <wi type="G" value="1519,25,">a</wi>
 <wi type="G" value="3588,26,"/>
-<wi type="G" value="1062,27,">la fiesta de matrimonio</wi>!»´  </t> </fr>
+<wi type="G" value="1062,27,">la fiesta de matrimonio</wi>!»´ </t> </fr>
 </sv>
 <sv id="Mateo-22-5"><fr>
 But they made light of it, and went
@@ -18046,7 +18045,7 @@ invited weren´t worthy.
 </fr>
 </sv>
 <sv id="Mateo-22-9"><fr>
-Go  therefore to the intersections of the
+Go therefore to the intersections of the
 highways, and as many as you
  may find, invite to the marriage feast.´
 <t xml:lang="es"><wi type="G" value="4198,1,">Vayan</wi>
@@ -18122,7 +18121,7 @@ you come in here not wearing wedding clothing?´ He was speechless.
 <wi type="G" value="1742,10,">un vestido</wi>
 <wi type="G" value="1062,11,">para el matrimonio</wi>?´
 <wi type="G" value="3588,12,"/>
-<wi type="G" value="1161,13,"/><wi type="G" value="5392,14,">Él estaba sin habla</wi>.  </t>
+<wi type="G" value="1161,13,"/><wi type="G" value="5392,14,">Él estaba sin habla</wi>. </t>
 </fr>
 </sv>
 <sv id="Mateo-22-13"><fr>
@@ -18230,7 +18229,7 @@ dice `no estás parcializado por nadie,´ la
 palabra griega `belpo´ (#991) que puede traducirse com observar o
 discernir según <citebib id="Thayer-BLB"/>, aquí se tradujo como
 `hacer distinción.´</rf></rb>
-<t xml:lang="es">.  </t>
+<t xml:lang="es">. </t>
 </sv>
 <sv id="Mateo-22-17">
 Tell us therefore, what do you think? Is it lawful to pay taxes to Caesar, or
@@ -18393,7 +18392,7 @@ married and died, and having no seed left his wife to his brother.
 <wi type="G" value="3844,3,">con</wi>
 <wi type="G" value="2254,4,">nosotros</wi>
 <wi type="G" value="2033,5,">siete</wi>
-<wi type="G" value="80,6,">hermanos</wi>.  <wi type="G" value="2532,7,"/>
+<wi type="G" value="80,6,">hermanos</wi>. <wi type="G" value="2532,7,"/>
 <wi type="G" value="3588,8,"/>
 <wi type="G" value="4413,9,">El primero</wi>
 <wi type="G" value="1060,10,">se casó</wi> y
@@ -18409,7 +18408,7 @@ married and died, and having no seed left his wife to his brother.
 <wi type="G" value="3588,20,"/>
 <wi type="G" value="80,21,">a</wi>
 <wi type="G" value="846,22,">su</wi>
-<wi type="GC" value="21">hermano</wi>.  </t>
+<wi type="GC" value="21">hermano</wi>. </t>
 </sv>
 <sv id="Mateo-22-26">
 In like manner the second also, and the third, to the seventh.
@@ -18463,7 +18462,7 @@ But Jesus answered them,
 <wi type="G" value="846,6,">les</wi>
 <wi type="G" value="611,1,">respondió</wi>
 <wi type="G" value="2036,5,"/>, </t>
-<fr>«You  are mistaken, not knowing the
+<fr>«You are mistaken, not knowing the
 Scriptures, nor the power of God.
 <t xml:lang="es">«<wi type="G" value="4105,7,">Están perdidos</wi>,
 <wi type="G" value="3361,8,">no</wi>
@@ -18515,7 +18514,7 @@ which was spoken to you by God, saying,
 <wi type="G" value="5213,11,">a ustedes</wi>
 <wi type="G" value="5259,12,">por</wi>
 <wi type="G" value="3588,13,"/>
-<wi type="G" value="2316,14,">Dios</wi>,  <wi type="G" value="3004,15,"/></t>
+<wi type="G" value="2316,14,">Dios</wi>, <wi type="G" value="3004,15,"/></t>
 </fr>
 </sv>
 <sv id="Mateo-22-32"><fr>
@@ -18886,7 +18885,7 @@ con <wi type="G" value="1147,16,">un dedo</wi><rf><citebib id="WEB"/>
 dice `no mueven un dedo para ayudarles,´ <citebib id="KJV2003"/> dice
 `no las mueven con uno de sus dedos.´</rf></rb>
 <t xml:lang="es">
-<wi type="G" value="846,17,"/>.  </t>
+<wi type="G" value="846,17,"/>. </t>
 </fr>
 </sv>
 <sv id="Mateo-23-5"><fr>
@@ -19854,7 +19853,7 @@ Jesus answered them,
 <wi type="G" value="611,2,"><wi type="G" value="3588,3,"/>
 <wi type="G" value="2036,5,">contestó</wi></wi>, </t>
 <fr>«Be careful that no one leads you astray.
-<t xml:lang="es">«<wi type="G" value="991,7,">Tengan cuidado</wi>  para que
+<t xml:lang="es">«<wi type="G" value="991,7,">Tengan cuidado</wi> para que
 <wi type="G" value="3361,8,"><wi type="G" value="5100,9,">nadie</wi></wi>
 <wi type="G" value="5209,10,">los</wi>
 <wi type="G" value="4105,11,">haga perder</wi>. </t>
@@ -20495,7 +20494,7 @@ Most assuredly I tell you, this
 <t xml:lang="es"><wi type="G" value="1074,8,">generación</wi></t><rf>The word
 for «generation» (genea) can also be translated as «race.»
 <t xml:lang="es">La palabra para «generación» (genea) también puede traducirse
-como «raza.» <citebib id="Peshitta"/> dice  `tribu.´</t></rf>
+como «raza.» <citebib id="Peshitta"/> dice `tribu.´</t></rf>
 </rb>
  will not pass away, until all these things are accomplished.
 <t xml:lang="es"> <wi type="G" value="3756,4,">no</wi>
@@ -20661,7 +20660,7 @@ two women grinding at the mill, one will be taken and one will be left.
 </fr>
 </sv>
 <sv id="Mateo-24-42"><fr>
-Watch therefore, for you  don´t
+Watch therefore, for you don´t
 know in what hour your Lord comes.
 <t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
 <wi type="G" value="1127,1,">estén alerta</wi>,
@@ -20707,8 +20706,8 @@ have allowed his house to be broken into.
 </fr>
 </sv>
 <sv id="Mateo-24-44"><fr>
-Therefore also be  ready, for in an
-hour that you  don´t expect, the Son of Man will come.
+Therefore also be ready, for in an
+hour that you don´t expect, the Son of Man will come.
 <t xml:lang="es"><wi type="G" value="1223,1,">Entonces</wi>
 <wi type="G" value="5124,2,"/>
 <wi type="G" value="5210,4,"><wi type="G" value="1096,5,">estén</wi></wi>
@@ -20998,7 +20997,7 @@ Then all those virgins arose, and trimmed their lamps.
 <wi type="G" value="2885,8,">alistaron</wi>
 <wi type="G" value="3588,9,"/>
 <wi type="G" value="846,11,">sus</wi>
-<wi type="G" value="2985,10,">lamparas</wi>.  </t>
+<wi type="G" value="2985,10,">lamparas</wi>. </t>
 </fr>
 </sv>
 <sv id="Mateo-25-8"><fr>
@@ -21803,7 +21802,7 @@ which is prepared for the devil and his angels;
 <wi type="G" value="2532,21,">y</wi>
 <wi type="G" value="3588,22,"/>
 <wi type="G" value="846,24,">sus</wi>
-<wi type="G" value="32,23,">ángeles</wi>;  </t>
+<wi type="G" value="32,23,">ángeles</wi>; </t>
 </fr>
 </sv>
 <sv id="Mateo-25-42"><fr>
@@ -22440,7 +22439,7 @@ He said to him,
 <wi type="GC" value="12">contestó</wi>, </t>
 <fr>«You said it.»
 <t xml:lang="es">«<wi type="G" value="4771,14,">Tu</wi> lo
-<wi type="G" value="2036,15,">has dicho</wi>.»  </t>
+<wi type="G" value="2036,15,">has dicho</wi>.» </t>
 </fr>
 
 </sv></cm><cm>
@@ -22484,7 +22483,7 @@ He took the cup, gave thanks, and gave to them, saying,
 <wi type="G" value="846,8,">se</wi>
 <wi type="G" value="1325,7,">las dio</wi>
 <wi type="G" value="3004,9,">diciendo</wi>, </t>
-<fr>«All of you  drink it,
+<fr>«All of you drink it,
 <t xml:lang="es">«<wi type="G" value="3956,13,">Todos</wi> ustedes
 <wi type="G" value="4095,10,">beban</wi>
 <wi type="G" value="1537,11,">de</wi>
@@ -22889,7 +22888,7 @@ the same words.
 <wi type="G" value="1537,7,"/>
 <wi type="G" value="5154,8,">tercera vez</wi>
 <wi type="G" value="3588,9,"/>
-<wi type="G" value="2036,12,">diciendo</wi>  las
+<wi type="G" value="2036,12,">diciendo</wi> las
 <wi type="G" value="846,10,">mismas</wi>
 <wi type="G" value="3056,11,">palabras</wi>. </t>
 </sv>
@@ -23494,7 +23493,7 @@ salió</wi></wi>
 <wi type="G" value="3588,5,"/>
 <wi type="G" value="4440,6,">pórtico</wi>, </t>
 <rb xml:lang="es"><wi type="G" value="243,9,">alguien</wi>
-más<rf><citebib id="DieBibel"/>  y <citebib id="Peshitta"/> dicen
+más<rf><citebib id="DieBibel"/> y <citebib id="Peshitta"/> dicen
 `otra empleada,´ <citebib id="RV1960"/> dice `otra lo vió.'</rf></rb>
 <t xml:lang="es"> <wi type="G" value="846,8,">lo</wi>
 <wi type="G" value="1492,7,">vio</wi>,
@@ -24165,14 +24164,14 @@ Praetorium, and gathered the whole garrison together against him.
 <wi type="G" value="4757,3,">los soldados</wi> <wi type="G" value="3588,4,"/>
 <wi type="G" value="2232,5,">del gobernador</wi>
 <wi type="G" value="3880,6,">llevaron</wi> <wi type="G" value="3588,7,"/>
-a  <wi type="G" value="2424,8,">Jesús</wi>
+a <wi type="G" value="2424,8,">Jesús</wi>
 <wi type="G" value="1519,9,">a</wi>
 <wi type="G" value="3588,10,"/>
 <wi type="G" value="4232,11,">la tienda del Pretor</wi>
 <wi type="G" value="4863,12,">y reunieron</wi> a
 <wi type="G" value="3650,15,">toda</wi>
 <wi type="G" value="3588,16,"/>
-<wi type="G" value="4686,17,">la tropa</wi>  </t>
+<wi type="G" value="4686,17,">la tropa</wi> </t>
 <rb xml:lang="es">
 <wi type="G" value="1909,13,">en torno</wi> a
 <wi type="G" value="846,14,">Él</wi><rf><citebib id="DiosHablaHoy"/>
@@ -24485,7 +24484,7 @@ He trusts in God. Let God deliver him now, if he wants him; for he said,
 <t xml:lang="es"><wi type="G" value="3982,1,">Él confía</wi>
 <wi type="G" value="1909,2,">en</wi>
 <wi type="G" value="3588,3,"/>
-<wi type="G" value="2316,4,">Dios</wi>.  <wi type="G" value="4506,5,">Que</wi>
+<wi type="G" value="2316,4,">Dios</wi>. <wi type="G" value="4506,5,">Que</wi>
 Dios <wi type="G" value="846,7,">lo</wi>
 <wi type="GC" value="5">libere</wi>
 <wi type="G" value="3568,6,">ahora</wi>,
@@ -24829,7 +24828,7 @@ door of the tomb, and departed.
 <wi type="G" value="3739,9,">que</wi>
 <wi type="G" value="2998,10,">había cavado</wi>
 <wi type="G" value="1722,11,">en</wi> <wi type="G" value="3588,12,"/>
-<wi type="G" value="4073,13,">la roca</wi>,  <wi type="G" value="2532,14,"/>
+<wi type="G" value="4073,13,">la roca</wi>, <wi type="G" value="2532,14,"/>
 <wi type="G" value="4351,15,">rodó</wi>
 una
 <wi type="G" value="3173,17,">gran</wi>
@@ -25045,7 +25044,7 @@ For fear of him, the guards shook, and became like dead men.
 <wi type="G" value="3498,12,">muertos</wi>. </t>
 </sv>
 <sv id="Mateo-28-5">
-The angel answered the women, «Don´t be  afraid, for
+The angel answered the women, «Don´t be afraid, for
 I know that you seek Jesus, who has been crucified.
 <t xml:lang="es"><wi type="G" value="1161,2,"/><wi type="G" value="32,4,">El ángel</wi>
 <wi type="G" value="611,1,">contestó</wi>
@@ -25232,7 +25231,7 @@ they gave a large amount of silver to the soldiers,
 <wi type="G" value="4757,13,">a los soldados</wi>, </t>
 </sv>
 <sv id="Mateo-28-13">
-saying, «Say  that his disciples
+saying, «Say that his disciples
 came by night, and stole him away while we slept.
 <t xml:lang="es">y les <wi type="G" value="3004,1,">dijeron</wi>,
 «<wi type="G" value="2036,2,">Digan</wi> <wi type="G" value="3754,3,"/>
@@ -25242,7 +25241,7 @@ came by night, and stole him away while we slept.
 <wi type="G" value="3571,7,">en la noche</wi>,
 y <wi type="G" value="846,10,">lo</wi>
 <wi type="G" value="2813,9,">robaron</wi>
-<wi type="G" value="2257,11,"><wi type="G" value="2837,12,">mientras dormíamos</wi></wi>.´   </t>
+<wi type="G" value="2257,11,"><wi type="G" value="2837,12,">mientras dormíamos</wi></wi>.´ </t>
 </sv>
 <sv id="Mateo-28-14">
 If this comes to the
@@ -25394,7 +25393,7 @@ you always, even to the end of the age.»
 del <wi type="G" value="165,21,">mundo</wi><rf><citebib id="Peshitta"/>
 y <citebib id="KJV2003"/> dicen `el fin del mundo,´
 <citebib id="WEB"/> dice `fin de la epoca.´</rf></rb>
-<t xml:lang="es">.»  </t>
+<t xml:lang="es">.» </t>
 </fr> Amen.
 <t xml:lang="es"><wi type="G" value="281,22,">Amén</wi>.</t>
 
