@@ -23678,7 +23678,8 @@ went away and hanged himself.
 <wi type="G" value="3588,3,"/>
 <wi type="G" value="694,4,">las monedas de plata</wi>
 <wi type="G" value="1722,5,">en</wi> <wi type="G" value="3588,6,"/> </t>
-<rb xml:lang="es"><wi type="G" value="3485,7,">el santuario</wi><rf>
+<rb xml:lang="es"><wi type="G" value="3485,7,">el templo</wi><rf>
+<citebib id="WEB"/> dice `santuario,´
 <citebib id="Peshitta"/>, <citebib id="RV1960"/> y
 <citebib id="KJV2003"/> dicen `templo,´</rf></rb>
 <t xml:lang="es">,
@@ -24943,8 +24944,8 @@ sealing the stone.
 <wi type="G" value="5028,6,">la tumba</wi>,
 <wi type="G" value="4972,7,">sellando</wi> <wi type="G" value="3588,8,"/>
 <wi type="G" value="3037,9,">la roca</wi>
-<wi type="G" value="3326,10,">y dejando</wi> <wi type="G" value="3588,11,"/></t>
-<rb xml:lang="es"><wi type="G" value="2892,12,">al guardia</wi><rf>
+<wi type="G" value="3326,10,">con</wi> <wi type="G" value="3588,11,"/></t>
+<rb xml:lang="es"><wi type="G" value="2892,12,">la guardia</wi><rf>
 <citebib id="WEB"/> dice `.. fueron con la guardia y aseguraron
 la tumba sellando la roca.' <citebib id="KJV2003"/> dice `..
 aseguraron la tumba sellando la roca y poniendo un guardia.'</rf></rb>
