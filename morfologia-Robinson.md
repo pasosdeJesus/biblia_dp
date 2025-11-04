@@ -141,6 +141,53 @@ Notas:
 
 
 
+## Ejemplos de categorías de revisión morfológica
+
+| Categoría de Revisión | Ejemplo Griego (TR) y Referencia | Verificación en
+SpaTDP |
+| :--- | :--- | :--- |
+| **1. Imperativos griegos → imperativos españoles** | **Mateo 14:16, 18,
+29**<br>G1325 (δότε, "dad"), G5342 (φέρετε, "traed"), G2064 (ἔλθε, "ven") |
+Verificar que se traduce con un imperativo español ("den", "traigan", "ven"). |
+| **2. Subjuntivo/aoristo griego → subjuntivo español** | **Mateo 14:15**<br>G59
+(ἀγοράσωσιν, aoristo subjuntivo 3p) | Confirmar que se usa subjuntivo ("puedan
+comprar") o una forma equivalente. |
+| **3. Participios griegos → gerundios o participios españoles** | **Mateo
+14:13, 19, 25**<br>G191 (ἀκούσαντες, part. aoristo), G4043 (περιπατῶν, part.
+presente) | Verificar que se traduce con gerundio ("escuchando", "caminando") o
+frase equivalente. |
+| **4. Pasivos griegos → voz pasiva española** | **Mateo 14:11, 36**<br>G5342
+(ἠνέχθη, aoristo pasivo), G1295 (διεσώθησαν, aoristo pasivo) | Confirmar que se
+usa voz pasiva ("fue traída", "fueron sanados"). |
+| **5. Concordancia de tiempo verbal** | **Mateo 14:5, 14, 20**<br>Aoristo
+indicativo (acción puntual pasada) | Verificar que se usa pretérito
+perfecto/simple ("comieron", "sanó", "recogieron"). |
+| **6. Concordancia de persona y número** | **Mateo 14:16, 27**<br>Imperativo 2p
+plural (δότε, θαρσεῖτε) | Confirmar que se usa la forma plural correspondiente
+("den", "anímense"). |
+| **7. Sustantivos y Casos Gramaticales (Genitivo/Dativo)** | **Ej: Romanos
+3:22**<br>"πίστεως Ἰησοῦ Χριστοῦ" (Caso Genitivo) | La preposición española
+("de", "en") debe reflejar con precisión la relación del caso griego ("fe **de**
+Jesucristo"). |
+| **8. Modo Imperativo: Formalidad (Tú/Usted)** | **Ej: Marcos
+1:25**<br>"Φιμώθητι" (Imperativo Aoristo Pasivo 2p Singular) | Verificar que el
+nivel de formalidad (**tú** ["cállate"] vs. **usted** ["cállese"]) sea
+consistente en todo el texto. |
+| **9. Artículos Definidos (Presencia/Ausencia)** | **Ej: Juan 1:1**<br>"ὁ
+λόγος" (el Verbo) vs. "Θεὸς" (Dios - sin artículo) | Confirmar que los artículos
+en español solo aparecen donde son naturales, respetando distinciones
+teológicas. |
+| **10. Pronombres Personales y Posesivos** | **Ej: Mateo 26:63**<br>"σὺ εἶ" (tú
+eres) - Pronombre enfático | Asegurar que los pronombres en español no añadan ni
+omitan énfasis inadvertidamente. |
+| **11. Caso Vocativo** | **Ej: Mateo 15:28**<br>"Γύναι" (¡Mujer!) | Confirmar
+que la fuerza del discurso directo se mantenga, usando partículas como "oh" si
+es natural en español. |
+| **12. Partículas de Negación (οὐ/μὴ)** | **Ej: Mateo 5:17**<br>"οὐκ ἦλθον" (No
+he venido - negación factual) | Asegurar que la negación española ("no") capture
+el matiz correcto (hecho vs. prohibición). |
+
+
 
 Fuentes:
 - Robinson Morphology (Logos Wiki): https://wiki.logos.com/Robinson_Morphology
