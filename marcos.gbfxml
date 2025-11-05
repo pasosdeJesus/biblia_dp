@@ -82,7 +82,7 @@ profetas,' <citebib id="DiosHablaHoy"/> dice `el profeta Isaías.'</rf></rb>
 <t xml:lang="es">
 «<wi type="G" value="2400,6,">Observa</wi>,
 <wi type="G" value="1473,7,">Yo</wi>
-<wi type="G" value="649,8,">envío</wi>
+<wi type="G" value="649,8,">envío a</wi>
 <wi type="G" value="3450,11,">mi</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="32,10,">mensajero</wi></wi>
 <wi type="G" value="4253,12,">delante</wi> </t>
@@ -106,13 +106,13 @@ Who will prepare your way before you.
 <cm type="PO">
 <sv id="Marcos-1-3">
 The voice of one crying in the wilderness,
-<rb xml:lang="es"><wi type="G" value="5456,1,">La voz</wi> <rf>Ver notas al pie de Lucas 3,4.
+<rb xml:lang="es"><wi type="G" value="5456,1,">La voz</wi>
+del que <wi type="G" value="994,2,">clama</wi>
+<rf>Ver notas al pie de Lucas 3,4.
 <citebib id="WEB"/> dice `La voz de uno.´</rf></rb>
 <t xml:lang="es">
-<wi type="G" value="994,2,">clamada</wi>
 <wi type="G" value="1722,3,">en</wi>
-<wi type="G" value="3588,4,"/>
-<wi type="G" value="2048,5,">el desierto</wi></t>
+<wi type="G" value="3588,4,"/><wi type="G" value="2048,5,">el desierto</wi></t>
 <cl/>
 `Make
  ready the way of the Lord!
@@ -168,12 +168,13 @@ They were baptized by him in the Jordan river, confessing their sins.
 los de <wi type="G" value="5561,8,">la tierra</wi>
 <wi type="G" value="3588,6,"><wi type="G" value="2449,7,">de Judea</wi></wi>
 <wi type="G" value="2532,9,">y</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="2415,11,">Jerusalén</wi></wi>
+<wi type="G" value="3588,10,">los de</wi>
+<wi type="G" value="2415,11,">Jerusalén</wi>
 <wi type="G" value="1607,2,">fueron</wi>
 <wi type="G" value="4314,3,">a</wi>
 <wi type="G" value="846,4,">él</wi>.
-<wi type="G" value="2532,12,"/>
-<wi type="G" value="3956,14,">Todos</wi>
+<wi type="G" value="2532,12,">Y</wi>
+<wi type="G" value="3956,14,">todos</wi>
 <wi type="G" value="907,13,">fueron bautizados</wi>
 <wi type="G" value="5259,19,">por</wi>
 <wi type="G" value="846,20,">él</wi>
@@ -686,7 +687,8 @@ the house of Simon and Andrew, with James and John.
 <sv id="Marcos-1-30">
 Now Simon´s wife´s
 mother lay sick with a fever, and immediately they told him about her.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="3994,3,">La mamá de la esposa</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="3994,3,">La
+suegra</wi>
 <wi type="G" value="1161,2,"/>
 <wi type="G" value="4613,4,">de Simón</wi>
 <wi type="G" value="2621,5,">yacía</wi>
@@ -827,16 +829,19 @@ He said to them,
 may preach there also, because for this reason I came forth.»
 <t xml:lang="es">«<wi type="G" value="71,4,">Vamos</wi> </t>
 <rb xml:lang="es"><wi type="G" value="1519,5,">a</wi>
-<wi type="G" value="3588,6,"/>
-<wi type="G" value="2969,8,">los pueblos</wi>
-<wi type="G" value="2192,7,">que tenemos</wi><rf><citebib id="WEB"/>
+<wi type="G" value="3588,6,"/><wi type="G" value="2969,8,">los pueblos</wi>
+<wi type="G" value="2192,7,">siguientes</wi><rf><citebib id="WEB"/>
 dice `a los siguientes pueblos,' <citebib id="RV1960"/> dice `a los lugares
 vecinos,' <citebib id="KJV2003"/> dice `a los siguientes pueblos.'
 <citebib id="TR-BLB"/> dice
 `ἐχομένας κωμοπόλεις' la primera palabra es el participio presente pasivo
 del verbo `ἔχω' que según <citebib id="Thayer-BLB"/> se traduce como
 tener, mantener, poseer, adherirse; la segunda palabra es forma plural del
-sustantivo `κηρύσσω' que se traduce como villa o pueblo.
+sustantivo `κηρύσσω' que se traduce como villa o pueblo.  En otros versículos 
+como Lucas 13:33, Hechos 13:44, Hechos 20:15  y Hechos 21:26 el participio 
+ἐχόμενος y sus variantes (ἐχομένῃ, ἐχομένῳ, ἐχομένας) no se traduce con 
+el significado primario de "tener" (del verbo ἔχω), sino como un adjetivo 
+que denota proximidad o secuencia: "siguiente", "próximo".
 </rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="2443,9,">para que</wi>
@@ -971,7 +976,7 @@ in desert places: and they came to him from everywhere.
 <wi type="G" value="4183,6,">en gran manera</wi>
 <wi type="G" value="2532,7,">y</wi>
 <wi type="G" value="1310,8,">a difundir</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="3056,10,">el asunto</wi></wi>,
+<wi type="G" value="3588,9,"><wi type="G" value="3056,10,">el hecho</wi></wi>,
 <wi type="G" value="5620,11,">así que</wi>
 <wi type="G" value="846,13,">Jesús</wi>
 <wi type="G" value="3371,12,">ya no</wi>
@@ -1021,11 +1026,10 @@ to them.
 <wi type="G" value="4183,4,">muchos</wi>
 <wi type="G" value="4863,3,">se juntaron</wi>,
 <wi type="G" value="5620,5,">de forma que</wi>
-<wi type="G" value="3371,6,">no quedo espacio</wi>
-<wi type="G" value="5562,7,">para recibirles</wi>,
+<wi type="G" value="3371,6,">no</wi>
+<wi type="G" value="5562,7,">podía recibirlos</wi>,
 <wi type="G" value="3366,8,">ni siquiera</wi>
-<wi type="G" value="3588,9,"/>
-<wi type="G" value="4314,10,">cerca</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="4314,10,">cerca</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="2374,12,">a la puerta</wi></wi>;
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="2980,14,">Él</wi>
@@ -1035,10 +1039,11 @@ to them.
 </sv>
 <sv id="Marcos-2-3">
 Four people came, carrying a paralytic to him.
-<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2064,2,">Fueron</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="2064,2,">vinieron</wi>
 <wi type="G" value="4314,3,">a</wi>
 <wi type="G" value="846,4,">Él</wi>,
-<wi type="G" value="5342,6,"><wi type="G" value="142,7">llevando</wi></wi>
+<wi type="G" value="5342,6,"><wi type="G" value="142,7">trayendo</wi></wi>
 <wi type="G" value="3885,5,">un paralítico</wi>
 <wi type="G" value="142,7,">que era cargado</wi>
 <wi type="G" value="5259,8,">por</wi>
@@ -1064,8 +1069,8 @@ lying on.
 <t xml:lang="es">
 <wi type="G" value="3699,12,">de donde</wi>
 <wi type="G" value="2258,13,">Él estaba</wi>.
-<wi type="G" value="2532,14,">Y</wi> tras
-<wi type="G" value="1846,15,">quitarlo</wi>,
+<wi type="G" value="2532,14,">Y</wi>
+<wi type="G" value="1846,15,">haciendo una abertura</wi>,
 <wi type="G" value="5465,16,">bajaron</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="2895,18,">la camilla</wi></wi>
 <wi type="G" value="1909,19,"><wi type="G" value="3739,20,">en la que</wi></wi>
@@ -1299,11 +1304,10 @@ tax collectors and sinners sat down with Jesus and his disciples, for there
 were many, and they followed him.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="1096,2,">Sucedió</wi>,
 <wi type="G" value="1722,3,">mientras</wi>
-<wi type="G" value="3588,4,"/>
-<wi type="G" value="2621,5,"><wi type="G" value="846,6,">estaba sentado</wi></wi>
-<wi type="G" value="1722,7,">en</wi> la mesa de
-<wi type="G" value="846,10,">su</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="3614,9,">casa</wi></wi>,
+<wi type="G" value="3588,4,"/><wi type="G" value="2621,5,"><wi type="G" value="846,6,">estaba sentado</wi></wi>
+<wi type="G" value="1722,7,">en</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="3614,9,">la casa</wi></wi>
+<wi type="G" value="846,10,">de él</wi>,
 <wi type="G" value="2532,11,"/>
 que <wi type="G" value="4183,12,">muchos</wi>
 <wi type="G" value="5057,13,">recolectores de impuestos</wi>
@@ -1374,11 +1378,11 @@ righteous, but sinners to repentance.»
 <wi type="G" value="3756,17,">No</wi>
 <wi type="G" value="2064,18,">vine</wi>
 <wi type="G" value="2564,19,">a llamar</wi>
-<wi type="G" value="1519,23,">al</wi>
-<wi type="G" value="3341,24,">arrepentimiento</wi>
-<wi type="G" value="1342,20,">a los justos</wi>
+<wi type="G" value="1342,20,">a justos</wi>
 <wi type="G" value="235,21,">sino</wi>
-<wi type="G" value="268,22,">a los pecadores</wi>.» </t>
+<wi type="G" value="268,22,">a pecadores</wi>
+<wi type="G" value="1519,23,">al</wi>
+<wi type="G" value="3341,24,">arrepentimiento</wi>.» </t>
 </fr>
 </sv></cm>
 
@@ -1422,9 +1426,9 @@ Jesus said to them,
 <wi type="G" value="2036,2,">dijo</wi>, </t> <fr>«Can the groomsmen fast while the bridegroom is
 with them? As long as they have the bridegroom with them, they can´t fast.
 <t xml:lang="es">«¿<wi type="G" value="3361,6,"><wi type="G" value="1410,7,">Pueden</wi></wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,8,"><wi type="G" value="5207,9,">los invitados</wi></wi>
-al
-<wi type="G" value="3588,10,"><wi type="G" value="3567,11,">salón de la boda</wi></wi><rf><citebib id="WEB"/>
+<rb xml:lang="es"><wi type="G" value="3588,8,"><wi type="G" value="5207,9,">los
+que</wi></wi> están
+<wi type="G" value="3588,10,"><wi type="G" value="3567,11,">de boda</wi></wi><rf><citebib id="WEB"/>
 dice `groomsmen' que según <citebib id="gcid"/>
 puede traducirse como `hombres que atienden a la boda del novio,'
 <citebib id="KJV2003"/>
@@ -1490,14 +1494,11 @@ traduce como adición, parche.</rf></rb>
 <wi type="G" value="2440,8,">un vestido</wi>
 <wi type="G" value="3820,9,">viejo</wi>,
 <wi type="G" value="1487,10,"><wi type="G" value="1161,11,"><wi type="G" value="3361,12,">porque</wi></wi></wi>
-<wi type="G" value="2537,18,">el nuevo</wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="2537,18,">el nuevo</wi>
 que <wi type="G" value="846,16,">lo</wi>
-<wi type="G" value="4138,15,">completa</wi>,
-<wi type="G" value="3588,17,"/>
-<wi type="G" value="142,13,">se separa</wi>
-<wi type="G" value="3588,14,"/>
-<wi type="G" value="3588,19,"/>
-<wi type="G" value="3820,20,">del viejo</wi>,
+<wi type="G" value="3588,14,"/><wi type="G" value="4138,15,">completa</wi>,
+<wi type="G" value="142,13,">jala al</wi>
+<wi type="G" value="3588,19,"/><wi type="G" value="3820,20,">viejo</wi>,
 <wi type="G" value="2532,21,">y</wi>
 <wi type="G" value="1096,24,">se hace</wi>
 <wi type="G" value="4978,23,">un hueco</wi>
@@ -1677,7 +1678,7 @@ had his hand withered.
 <wi type="G" value="444,10,">un hombre</wi>
 <wi type="G" value="2192,12,">que tenía</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="5495,14,">una mano</wi></wi>
-<wi type="G" value="3583,11,">tullida</wi>. </t>
+<wi type="G" value="3583,11,">seca</wi>. </t>
 </sv>
 <sv id="Marcos-3-2">
 They watched him, whether he would heal him on
@@ -1698,13 +1699,13 @@ his hand withered,
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3004,2,">Él le había dicho</wi>
 <wi type="G" value="1519,11,">al</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="444,4,">hombre</wi></wi>
-<wi type="G" value="3588,5,"/>
-<wi type="G" value="2192,7,">que tenía</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="2192,7,">que tenía</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="5495,9,">la mano</wi></wi>
 <wi type="G" value="3583,6,">seca</wi>, </t>
 <fr>«Stand up.»
 <wi type="G" value="3588,12,"/>
-<t xml:lang="es">«<wi type="G" value="1453,10,"><wi type="G" value="3319,13,">Levántate</wi></wi>.» </t>
+<t xml:lang="es">«<wi type="G" value="1453,10,">Levántate</wi>
+en <wi type="G" value="3319,13,">medio</wi>.» </t>
 </fr>
 <t xml:lang="es"> </t>
 </sv>
@@ -1755,8 +1756,7 @@ restored as healthy as the other.
 <wi type="G" value="600,23,">quedo restablecida</wi>, </t>
 <rb xml:lang="es">tan <wi type="G" value="5199,27,">sana</wi>
 <wi type="G" value="5613,28,">como</wi>
-<wi type="G" value="3588,29,"/>
-<wi type="G" value="243,30,">la otra</wi><rf>Ni <citebib id="DiosHablaHoy"/>, ni
+<wi type="G" value="3588,29,"/><wi type="G" value="243,30,">la otra</wi><rf>Ni <citebib id="DiosHablaHoy"/>, ni
 <citebib id="Peshitta"/>, ni <citebib id="DieBibel"/> dicen
 `tan sana como la otra.´</rf></rb>
 <t xml:lang="es">. </t>
@@ -1911,7 +1911,8 @@ wanted, and they went to him.
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="4341,7,">llamó</wi>
 <wi type="G" value="3739,8,">a quienes</wi>
-<wi type="G" value="2309,9,"><wi type="G" value="846,10,">había</wi> determinado</wi>,
+<wi type="G" value="846,10,">Él</wi>
+<wi type="G" value="2309,9,">quiso</wi>,
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="565,12,">ellos fueron</wi>
 <wi type="G" value="4314,13,">a</wi>
@@ -1986,7 +1987,7 @@ Alphaeus; Thaddaeus; Simon the Zealot;
 <wi type="G" value="2532,16,"/> <wi type="G" value="2280,17,">Tadeo</wi>;
 <wi type="G" value="2532,18,"/> <wi type="G" value="4613,19,">Simón</wi> </t>
 <rb xml:lang="es">
-<wi type="G" value="3588,20,"><wi type="G" value="2581,21,">el canaanita</wi></wi><rf><citebib id="WEB"/>
+<wi type="G" value="3588,20,"><wi type="G" value="2581,21,">el Zelote</wi></wi><rf><citebib id="WEB"/>
 dice `el zelote,' <citebib id="KJV2003"/> dice `el canaanita,' según
 <citebib id="Thayer-BLB"/> la palabra griega `Καναναῖος' en este contexto
 puede traducirse de ambas formas. </rf></rb>
@@ -2028,16 +2029,15 @@ could not so much as eat bread.
 When his friends heard it, they went
 out to seize him: for they said, «He is insane.»
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="191,2,">Cuando</wi>
-<wi type="G" value="3588,3,"/>
-<wi type="G" value="846,5,">sus</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="846,5,">sus</wi>
 <wi type="G" value="3844,4,">familiares</wi>
 <wi type="GC" value="2">escucharon</wi> esto,
 <wi type="G" value="1831,6,">fueron</wi>
-<wi type="G" value="2902,7,"><wi type="G" value="846,8,">a llevárselo</wi></wi>:
+<wi type="G" value="2902,7,"><wi type="G" value="846,8,">a prenderlo</wi></wi>:
 <wi type="G" value="1063,10,">pues</wi>
 <wi type="G" value="3754,11,"/>
 <wi type="G" value="3004,9,">decían</wi>,
-«<wi type="G" value="1839,12,">Él está loco</wi>.» </t>
+«<wi type="G" value="1839,12,">Él está fuera de sí</wi>.» </t>
 </sv>
 <sv id="Marcos-3-22">
 The scribes who came
@@ -2189,11 +2189,11 @@ forgiveness, but is guilty of an eternal sin»
 <wi type="G" value="859,12,">perdón</wi>,
 <wi type="G" value="3588,14,"/>
 <wi type="G" value="235,16,">sino que</wi>
-<wi type="G" value="2076,18,">está</wi>
-<wi type="G" value="1777,17,">en peligro</wi>
+<wi type="G" value="2076,18,">es</wi>
+<wi type="G" value="1777,17,">culpable</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="2920,20,">de condenación</wi>
-<wi type="G" value="166,19,">eterna</wi><rf><citebib id="Peshitta"/> dice
+<rb xml:lang="es"><wi type="G" value="2920,20,">de juicio</wi>
+<wi type="G" value="166,19,">eterno</wi><rf><citebib id="Peshitta"/> dice
 `ante el juicio que es eterno.´</rf></rb>
 <t xml:lang="es">.» </t>
 </fr>
@@ -2473,17 +2473,14 @@ times, and some one hundred times as much.»
 <wi type="G" value="305,12,">que creció</wi>
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="837,14,">aumentó</wi>.
-<wi type="G" value="2532,15,"/><wi type="G" value="1520,18,">Algunas</wi>
-<wi type="G" value="1722,17,"/>
+<wi type="G" value="2532,15,"/>
+<wi type="G" value="1722,17,">Algunas</wi>
 <wi type="G" value="5342,16,">dieron</wi>
-<wi type="G" value="5144,19,">treinta</wi>,
-<wi type="G" value="2532,20,"/>
-<wi type="G" value="1520,22,">algunas</wi>
-<wi type="G" value="1722,21,"/>
-<wi type="G" value="1835,23,">sesenta</wi>,
-<wi type="G" value="2532,24,">y</wi>
-<wi type="G" value="1520,26,">algunas</wi>
-<wi type="G" value="1722,25,"/>
+<wi type="G" value="5144,18,">treinta</wi>,
+<wi type="G" value="2532,19,"/><wi type="G" value="1722,20,">algunas</wi>
+<wi type="G" value="1835,21,">sesenta</wi>,
+<wi type="G" value="2532,22,">y</wi>
+<wi type="G" value="1722,23,">algunas</wi>
 <wi type="G" value="1540,27,">cien</wi>.» </t>
 </fr>
 </sv>
