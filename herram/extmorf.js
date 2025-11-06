@@ -9,7 +9,7 @@ async function extractAndSaveMorphologyCodes() {
     console.log(`Buscando en: ${directoryPath}`);
 
     const allCodes = [];
-    const morphRegex = /morph=\"robinson:([^\"]*)\"/g;
+    const morphRegex = /robinson:([^\s"]+)/g;
 
     const ntBooksIdentifier = [
         'Matt', 'Mark', 'Luke', 'John', 'Acts', 'Rom', '1Cor', '2Cor', 'Gal', 'Eph',
@@ -31,7 +31,6 @@ async function extractAndSaveMorphologyCodes() {
         console.log(`Procesando ${ntFiles.length} archivos del Nuevo Testamento...`);
 
         for (const file of ntFiles) {
-          console.log("OJO file=", file)
             const filePath = path.join(directoryPath, file);
             try {
                 const content = await fs.promises.readFile(filePath, 'utf-8');
