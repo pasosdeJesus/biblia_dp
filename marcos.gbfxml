@@ -1837,13 +1837,13 @@ wouldn´t press on him.
 <wi type="G" value="2443,6,">que</wi>
 </t>
 <rb xml:lang="es">
-<wi type="G" value="846,9,">le</wi>
-<wi type="G" value="4342,8,">dejarán al lado</wi> 
+<wi type="G" value="4142,7,">una barca</wi>
+<wi type="G" value="4342,8,">estuviera lista junto a</wi> 
+<wi type="G" value="846,9,">Él</wi>
 <rf><citebib id="WEB"/> dice `que estuviera,' <citebib id="KJV2003"/> dice `esperara,' según
 <citebib id="Thayer-BLB"/> el verbo griego `προσκαρτερέω' traduce
 adherirse a alguien, estar atento permanentemente, mantenerse en un lugar, perserverar, mostrar valor, estar preparado constantemente.</rf></rb>
 <t xml:lang="es">
-<wi type="G" value="4142,7,">un pequeño bote</wi>
 <wi type="G" value="1223,10,">para que</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="3793,12,">la  multitud</wi></wi>
 <wi type="G" value="3361,14,"><wi type="G" value="2443,13,">no</wi></wi>
@@ -2548,23 +2548,27 @@ parables,
 that `seeing they may see, and not perceive; and hearing they
 may hear, and not understand; lest perhaps they should turn again, and their
 sins should be forgiven them.´»
-<t xml:lang="es"><wi type="G" value="2443,1,">porque</wi>
+<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
 `<wi type="G" value="991,2,">viendo</wi>
-<wi type="G" value="991,3,">pueden ver</wi>,
-<wi type="G" value="2532,4,">y</wi> <wi type="G" value="3361,5,">no</wi>
-<wi type="G" value="1492,6,">percibir</wi>;
+<wi type="G" value="991,3,">vean</wi>,
+<wi type="G" value="2532,4,">pero</wi> <wi type="G" value="3361,5,">no</wi>
+<wi type="G" value="1492,6,">perciban</wi>;
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="191,8,">oyendo</wi>
-<wi type="G" value="191,9,">pueden oír</wi>,
-<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="191,9,">oigan</wi>,
+<wi type="G" value="2532,7,">pero</wi>
 <wi type="G" value="3361,11,">no</wi>
-<wi type="G" value="4920,12,">entender</wi>;
-<wi type="G" value="3379,13,">a menos que</wi>
+<wi type="G" value="4920,12,">entiendan</wi>;
+</t>
+<rb xml:lang="es"><wi type="G" value="3379,13,">no sea que</wi>
 <wi type="G" value="1994,14,">se convirtieran</wi>,
 <wi type="G" value="2532,15,">y</wi>
-sus <wi type="G" value="3588,18,"><wi type="G" value="265,19,">pecados</wi></wi>
 <wi type="G" value="846,17,">les</wi>
-<wi type="G" value="863,16,">serían perdonados</wi>.´» </t>
+<wi type="G" value="863,16,">sean perdonados</wi>
+los <wi type="G" value="3588,18,"><wi type="G" value="265,19,">pecados</wi></wi>
+<rf>Ver nota al pie
+de Mateo 13:15.</rf></rb>
+<t xml:lang="es">.´» </t>
 </fr>
 </sv></cm>
 
@@ -3177,10 +3181,10 @@ that even the wind and the sea obey him?»
 <wi type="G" value="3004,6,">se dijeron</wi>
 <wi type="G" value="240,8,">entre si</wi>
 <wi type="G" value="4314,7,"/>,
-«¿<wi type="G" value="5101,9,">De que</wi>
-<wi type="G" value="687,10,">forma</wi>
+«¿<wi type="G" value="687,10,">Luego</wi>
+<wi type="G" value="5101,9,">quien</wi>
 <wi type="G" value="2076,12,">es</wi>
-<wi type="G" value="3778,11,">esto</wi>
+<wi type="G" value="3778,11,">Este</wi>
 <wi type="G" value="3754,13,">que</wi>
 <wi type="G" value="2532,14,">hasta</wi>
 <wi type="G" value="3588,15,"><wi type="G" value="417,16,">el viento</wi></wi>
@@ -3306,15 +3310,15 @@ con
 <wi type="G" value="3173,4,">fuerte</wi>
 <wi type="G" value="5456,3,">voz</wi>,
 <wi type="G" value="2036,5,">diciendo</wi>
-«¿<wi type="G" value="5101,6,">Qué</wi> tengo
-<wi type="G" value="2532,8,"/>
+«¿<wi type="G" value="2532,8,">Y</wi>
 <wi type="G" value="1698,7,">yo</wi>
-<wi type="G" value="4671,9,">contigo</wi>,
+<wi type="G" value="5101,6,">qué</wi>
+<wi type="G" value="4671,9,">contigo</wi>?
 <wi type="G" value="2424,10,">Jesús</wi>,
 <wi type="G" value="5207,11,">Hijo</wi>
 <wi type="G" value="3588,14,"/>
 <wi type="G" value="5310,15,">del altísimo</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>?
+<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>.
 <wi type="G" value="4571,17,">Te</wi>
 <wi type="G" value="3726,16,">pido</wi>
 <wi type="G" value="3588,18,"><wi type="G" value="2316,19,">por Dios</wi></wi>,
@@ -3418,26 +3422,22 @@ bank into the sea, and they were drowned in the sea.
 <wi type="G" value="2112,4,">Al momento</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="2424,6,">Jesús</wi></wi>
 <wi type="G" value="846,3,">les</wi>
-<wi type="G" value="2010,2,">dio permiso</wi>
-<wi type="G" value="2532,7,">y</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="4151,10,">los espíritus</wi></wi>
+<wi type="G" value="2010,2,">dio permiso</wi>.
+<wi type="G" value="2532,7,"/><wi type="G" value="3588,9,"><wi type="G" value="4151,10,">Los espíritus</wi></wi>
 <wi type="G" value="169,12,">impuros</wi>
 <wi type="G" value="1831,8,">salieron</wi>
-y
-<wi type="G" value="3588,11,"/>
-<wi type="G" value="1525,13,">entraron</wi>
-<wi type="G" value="1519,14,">a</wi>
+y <wi type="G" value="3588,11,"/><wi type="G" value="1525,13,">entraron</wi>
+<wi type="G" value="1519,14,">en</wi>
 <wi type="G" value="3588,15,"><wi type="G" value="5519,16,">los cerdos</wi></wi>.
-<wi type="G" value="3588,19,"><wi type="G" value="34,20,">El rebaño</wi></wi>
-<wi type="G" value="2258,27,">era</wi>
+<wi type="G" value="2532,17,">Y</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="34,20,">el rebaño</wi></wi>
+—que <wi type="G" value="2258,27,">era</wi>
 <wi type="G" value="1161,28,"/>
 de <wi type="G" value="5613,29,">aproximadamente</wi>
-<wi type="G" value="1367,30,">dos mil</wi>
-cerdos;
-<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="1367,30,">dos mil</wi>—
 <wi type="G" value="3729,18,">se lanzó</wi>
-<wi type="G" value="3588,25,"><wi type="G" value="2281,26,">al mar</wi></wi> desde
-<wi type="G" value="2596,21,"/>
+<wi type="G" value="3588,25,"><wi type="G" value="2281,26,">al mar</wi></wi>
+<wi type="G" value="2596,21,">por</wi>
 <wi type="G" value="3588,22,"><wi type="G" value="2911,23,">un acantilado</wi></wi>
 <wi type="G" value="1519,24,"/><wi type="G" value="2532,31,">y</wi>
 <wi type="G" value="4155,32,">se ahogaron</wi>
@@ -3756,13 +3756,12 @@ from him, turned around in the crowd, and asked,
 <t xml:lang="es"><wi type="G" value="2532,1,"/>
 <wi type="G" value="2112,2,">De inmediato</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="2424,4,">Jesús</wi></wi>,
-<wi type="G" value="1921,5,">supo</wi>
-<wi type="G" value="1722,6,">para</wi>
+<wi type="G" value="1921,5,">percibió</wi>
+<wi type="G" value="1722,6,">en</wi>
 <wi type="G" value="1438,7,">si mismo</wi> que
 <wi type="G" value="1831,12,">había salido</wi>
 <wi type="G" value="1411,11,">poder</wi>
-<wi type="G" value="3588,8,"/>
-<wi type="G" value="1537,9,">de</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="1537,9,">de</wi>
 <wi type="G" value="846,10,">Él</wi>,
 <wi type="G" value="1994,13,">se dio vuelta</wi>
 <wi type="G" value="1722,14,">hacía</wi>
@@ -4289,7 +4288,8 @@ que <wi type="G" value="3361,4,">no</wi>
 <wi type="G" value="281,23,">Ciertamente</wi>,
 <wi type="G" value="5213,25,">les</wi>
 <wi type="G" value="3004,24,">digo</wi>,
-¡<wi type="G" value="2071,27,">será</wi>
+</t>
+<rb xml:lang="es">¡<wi type="G" value="2071,27,">será</wi>
 <wi type="G" value="414,26,">más tolerable</wi>
 <wi type="G" value="4670,28,">para Sodoma</wi>
 <wi type="G" value="2228,29,">y</wi>
@@ -4299,10 +4299,11 @@ que <wi type="G" value="3361,4,">no</wi>
 <wi type="G" value="2920,33,">del juicio</wi>
 <wi type="G" value="2228,34,">que</wi>
 <wi type="G" value="1565,37,">para esa</wi>
-<wi type="G" value="3588,35,"><wi type="G" value="4172,36,">ciudad</wi></wi>!</t>
-<rb xml:lang="es"><rf>La frase sobre Sodoma y Gomorra no aparece
+<wi type="G" value="3588,35,"><wi type="G" value="4172,36,">ciudad</wi></wi>!<rf>
+La frase sobre Sodoma y Gomorra no aparece
 en <citebib id="DiosHablaHoy"/> ni en <citebib id="DieBibel"/>, pero
-si en <citebib id="Peshitta"/> y <citebib id="WEB"/></rf></rb>
+si en <citebib id="TR"/>, <citebib id="Peshitta"/> y 
+<citebib id="WEB"/></rf></rb>
 <t xml:lang="es">» </t>
 </fr></sv></cm>
 
@@ -5095,8 +5096,8 @@ them, and said to them,
 </rb>
 Don´t be afraid.»
 <t xml:lang="es">«¡<wi type="G" value="2293,15,">Anímense</wi>!
-¡<wi type="G" value="1510,17,">Soy</wi>
-<wi type="G" value="1473,16,">yo</wi>!
+¡<wi type="G" value="1473,16,">Yo</wi>
+<wi type="G" value="1510,17,">Soy</wi>!
 <wi type="G" value="3361,18,">No</wi>
 <wi type="G" value="5399,19,">tengan miedo</wi>.» </t>
 </fr>
@@ -5351,7 +5352,7 @@ is written,
 <t xml:lang="es">
 `<wi type="G" value="3778,16,">Esta</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="2992,18,">gente</wi></wi>
-<wi type="G" value="3165,21,">me</wi>
+<wi type="G" value="3165,21,">Me</wi>
 <wi type="G" value="3588,23,"/>
 <wi type="G" value="5091,22,">honra</wi> con
 sus <wi type="G" value="3588,19,"><wi type="G" value="5491,20,">labios</wi></wi>, </t>
@@ -5364,7 +5365,7 @@ But their heart is far from me.
 <wi type="G" value="568,28,">está</wi>
 <wi type="G" value="4206,27,">lejos</wi>
 <wi type="G" value="575,29,">de</wi>
-<wi type="G" value="1700,30,">mi</wi>. </t>
+<wi type="G" value="1700,30,">Mi</wi>. </t>
 <cl/></fp>
 </fr>
 </sv>
@@ -5372,7 +5373,7 @@ But their heart is far from me.
 <fp>But in vain do they worship me,
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="3155,1,">en vano</wi>
-<wi type="G" value="3165,4,">me</wi>
+<wi type="G" value="3165,4,">Me</wi>
 <wi type="G" value="4576,3,">alaban</wi> </t>
 <cl/>
 Teaching as doctrines the commandments of men.´
@@ -5628,8 +5629,8 @@ clean?»
 <wi type="G" value="1607,16,">sale</wi>
 <wi type="G" value="1519,13,">a</wi>
 <wi type="G" value="3588,14,"><wi type="G" value="856,15,">la letrina</wi></wi>,
-<wi type="G" value="2511,17,">haciendo puras</wi> así
-que <wi type="G" value="3956,18,">todas</wi>
+<wi type="G" value="2511,17,">purificando</wi> así
+<wi type="G" value="3956,18,">todas</wi>
 <wi type="G" value="3588,19,"><wi type="G" value="1033,20,">las comidas</wi></wi>?» </t>
 </fr>
 </sv>

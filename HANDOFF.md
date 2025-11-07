@@ -1,5 +1,4 @@
-# HANDOFF: Revisión de Traducción Bíblica biblia_dp o SpaTDP con Claude Sonnet
-4.5 en gitlab
+# HANDOFF: Revisión de Traducción Bíblica biblia_dp o SpaTDP
 
 
 ## DIRECTIVAS PRIORITARIAS 🙏
@@ -40,11 +39,20 @@ Palabras pueden estar divididas en ambas referencias (KJV y tu traducción)
 `<rb><rf>` contiene notas de decisiones de traducción
 
 ## Objetivo del Proyecto
-Traducir Nuevo Testamento al español moderno de dominio público priorizando
+
+Revisar parte de la traducción del nuevo testamento SpaTDP que es en español 
+moderno estilo latinoamericano, de dominio público, al momento priorizando 
 fidelidad respecto al Textus Receptus.
 - Fuente base: WEB (World English Bible, dominio público, inglés)
 - Formato: GBFXML con números Strong del griego
-- Referencias: KJV con Strong (Textus Receptus), RVG2012 (español)
+- Referencia para números strong: KJV con Strong (Textus Receptus)
+- Otras referencias RVG2012 (español)
+- Los verbos deberían traducirse según el tiempo en griego, aoristo indicativo como 
+  hecho consumado (he X), perfecto como estado/resultante (he sido X), 
+  presente como estado actual (estoy/es). Reportar el que no esté traducido así.
+- Los pronombres personales referidos a Dios deben comenzar en mayúscula (“Tú/Te/Ti/Tuyo”),
+  excepto lo, les.
+
 
 ## Progreso de Revisión
 
