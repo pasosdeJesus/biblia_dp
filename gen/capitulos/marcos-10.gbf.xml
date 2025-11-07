@@ -14,17 +14,21 @@ como `fronteras de una región, distrito tierra o territorio.'</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3588,7,"><wi type="G" value="2449,8,">de Judea</wi></wi>,
 </t>
-<rb xml:lang="es"><wi type="G" value="1223,9,"/><wi type="G" value="3588,10,"/><wi type="G" value="4008,11,">más alla</wi><rf><citebib id="WEB"/> dice `y más alla del Jordán,'
+<rb xml:lang="es"><wi type="G" value="1223,9,"/><wi type="G" value="3588,10,"/><wi type="G" value="4008,11,">al otro lado</wi><rf>
+<citebib id="WEB"/> dice `y más allá del Jordán,'
 <citebib id="KJV2003"/> dice `por el lado más lejano del Jordán,'
 <citebib id="RV1960"/> dice `al otro lado del Jordán,'
 según <citebib id="Thayer-BLB"/> la palabra `διά' puede traducirse como `por,' y
 `πέραν' puede traducirse como 'más alla' o `al otro lado,' dice que unido
-a un genitivo con verbos de movimiento denota dirección hacía un lugar [sobre, más alla].  En Marcos 9:30
-dice que habían pasado por Galilea, examinando un mapa como http://www.ccel.org/bible/phillips/CP051GOSPELMAPS.htm se ve Samaria entre Galilea y Judea, las
-tres limitadas a la derecha por el río Jordán. Unos límites más precisos entre ambas regiones (Samaria corresponde al antiguo Reino de Israel Norte y Judea
-al Reino de Juda) se ven en http://en.wikipedia.org/wiki/File:Kingdoms_of_Israel_and_Judah_map_830.svg. Es posible que estuvieran en la costa del mar muerto
-en el límite entre Samaria y Judea, un poco más al sur y al oeste de la
-desembocadura del Jordán en el mar muerto.</rf></rb>
+a un genitivo con verbos de movimiento denota dirección hacía un lugar [sobre, más alla].  
+En Marcos 9:30 dice que habían pasado por Galilea, examinando un mapa 
+como https://en.wikipedia.org/wiki/Perea#/media/File:First_century_Iudaea_province.gif
+se ve Samaria entre Galilea y Judea
+y a la derecha (es decir al oriente) cruzando el río Jordán está Perea.
+Aunque Perea no se menciona explícitamente en los evangelios es bien posible que 
+Jesús y sus discípulos hubieran cruzado el Jordán (al otro lado, del lado
+occidental al lado oriental) para llegar a Perea.
+</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="3588,12,"><wi type="G" value="2446,13,">del Jordán</wi></wi>.
 <wi type="G" value="2532,14,">Y</wi>

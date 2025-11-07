@@ -307,9 +307,9 @@ de <wi type="G" value="2268,6,">Isaías</wi>
 <wi type="G" value="3508,7,">de Neftalí</wi>, </t>
 <cl/>
 Toward the sea, beyond the Jordan,
-<t xml:lang="es"><wi type="G" value="3598,8,"/>hacia <!-- str. hacia es 3598?-->
+<t xml:lang="es"><wi type="G" value="3598,8,"/>hacia
 <wi type="G" value="2281,9,">el mar</wi>, </t>
-<rb xml:lang="es"><wi type="G" value="4008,10,">más allá</wi> del
+<rb xml:lang="es"><wi type="G" value="4008,10,">al otro lado</wi> del
 <wi type="G" value="3588,11,"/>
 <wi type="G" value="2446,12,">Jordán</wi><rf><citebib id="WEB"/> dice
 `más alla del Jordán,´ <citebib id="LAT"/> dice `al otro lado del
@@ -584,9 +584,9 @@ and from beyond the Jordan followed him.
 <wi type="G" value="2414,12,">Jerusalén</wi>,
 <wi type="G" value="2532,13,"/>
 <wi type="G" value="2449,14,">Judea</wi>
-<wi type="G" value="2532,15,">y</wi> de
+<wi type="G" value="2532,15,">y</wi> del
 <wi type="G" value="3588,17,"/>
-<wi type="G" value="4008,16,">más allá</wi> del
+<wi type="G" value="4008,16,">otro lado</wi> del
 <wi type="G" value="2446,18,">Jordán</wi>
 <wi type="G" value="846,3,">lo</wi>
 <wi type="G" value="190,2,">seguían</wi>. </t>

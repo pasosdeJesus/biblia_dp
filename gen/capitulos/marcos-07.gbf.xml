@@ -46,9 +46,11 @@ hands and forearms, holding to the tradition of the elders.
 <wi type="G" value="3538,11,">lavarse</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="5495,13,">las manos</wi></wi>
 </t>
-<rb xml:lang="es">y <wi type="G" value="4435,10,">hasta los codos</wi><rf><citebib id="WEB"/> dice `y antebrazos,' <citebib id="KJV2003"/> dice `a menudo,'
-según <citebib id="Thayer-BLB"/> la palabra griega `πυγμή' puede traducirse
-como `hasta el codo.'</rf></rb>
+<rb xml:lang="es">con <wi type="G" value="4435,10,">el puño</wi><rf><citebib id="WEB"/> 
+dice `y antebrazos,' <citebib id="KJV2003"/> dice `a menudo,'
+según <citebib id="Thayer-BLB"/> la palabra griega `πυγμή' se traduce como el
+puño (lavarse las manos con los puños, de manera que una mano se frota con el
+puño cerrado de la otra) o como lectura marginal hasta el codo. </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2902,16,">manteniendo</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="3862,18,">la tradición</wi></wi>

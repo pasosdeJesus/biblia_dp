@@ -22,7 +22,10 @@ que <wi type="G" value="3332,10,">partió</wi>
 <wi type="G" value="3725,18,">las fronteras</wi>
 <wi type="G" value="3588,19,"/>
 <wi type="G" value="2449,20,">de Judea</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4008,21,">más allá</wi><rf><citebib id="Peshitta"/> dice `al otro lado.´</rf></rb>
+<rb xml:lang="es"><wi type="G" value="4008,21,">al otro lado</wi><rf><citebib
+id="WEB"/> dice "más alla." <citebib id="Peshitta"/> dice `al otro lado.´ Según
+<citebib id="Thayer-BLB"/> la palabra griega πέραν  puede traducirse como
+más allá o al otro lado.</rf></rb>
 <t xml:lang="es"> <wi type="G" value="3588,22,"/><wi type="G" value="2446,23,">del Jordán</wi>. </t>
 </sv>
 <sv id="Mateo-19-2">

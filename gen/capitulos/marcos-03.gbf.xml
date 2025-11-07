@@ -146,7 +146,7 @@ hearing what great things he did, came to him.
 <wi type="G" value="2532,4,"/><wi type="G" value="575,5,">de</wi>
 <wi type="G" value="3588,6,"><wi type="G" value="2401,7,">Idumea</wi></wi>,
 <wi type="G" value="2532,8,"/>de
-<wi type="G" value="4008,9,">más allá</wi>
+<wi type="G" value="4008,9,">al otro lado</wi>
 <wi type="G" value="3588,10,"><wi type="G" value="2446,11,">del Jordán</wi></wi>,
 <wi type="G" value="2532,12,">y</wi>  <wi type="G" value="3588,13,"/>
 del <wi type="G" value="4012,14,">rededor</wi>
@@ -167,13 +167,15 @@ He spoke to his disciples
 that a little boat should stay near him because of the crowd, so that they
 wouldn´t press on him.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
-<wi type="G" value="2036,2,">Él habló</wi>
-con
+<wi type="G" value="2036,2,">dijo a</wi>
 <wi type="G" value="846,5,">sus</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="3101,4,">discípulos</wi></wi>
-<wi type="G" value="2443,6,">para que</wi>
-<wi type="G" value="846,9,">le</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4342,8,">prepararan</wi><rf><citebib id="WEB"/> dice `que estuviera,' <citebib id="KJV2003"/> dice `esperara,' según
+<wi type="G" value="2443,6,">que</wi>
+</t>
+<rb xml:lang="es">
+<wi type="G" value="846,9,">le</wi>
+<wi type="G" value="4342,8,">dejarán al lado</wi> 
+<rf><citebib id="WEB"/> dice `que estuviera,' <citebib id="KJV2003"/> dice `esperara,' según
 <citebib id="Thayer-BLB"/> el verbo griego `προσκαρτερέω' traduce
 adherirse a alguien, estar atento permanentemente, mantenerse en un lugar, perserverar, mostrar valor, estar preparado constantemente.</rf></rb>
 <t xml:lang="es">

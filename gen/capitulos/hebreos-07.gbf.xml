@@ -525,13 +525,54 @@ who doesn´t
 need, like those high priests, to daily offer up sacrifices, first for his
 own sins, and then for the sins of the people. For this he did once for all,
 when he offered up himself.
+<t xml:lang="es"><wi type="G" value="3739,1,">quien</wi>
+<wi type="G" value="3756,2,">no</wi>
+<wi type="G" value="2192,3,">tiene</wi>
+<wi type="G" value="318,6,">necesidad</wi>
+<wi type="G" value="2250,5,">diaria</wi>,
+<wi type="G" value="2596,4,"><wi type="G" value="5618,7,">como</wi></wi>
+<wi type="G" value="3588,8,"><wi type="G" value="749,9,">los sumos sacerdotes</wi></wi>,
+de <wi type="G" value="399,16,">ofrecer</wi>
+<wi type="G" value="2378,15,">sacrificios</wi>
+<wi type="G" value="4386,10,">primero</wi>
+<wi type="G" value="5228,11,">por</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2398,13,">sus</wi></wi>
+<wi type="G" value="266,14,">pecados</wi>,
+<wi type="G" value="1899,17,">y después</wi>
+por <wi type="G" value="3588,18,">los</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="2992,20,">del pueblo</wi></wi>.
+<wi type="G" value="1063,22,">Pues</wi>
+<wi type="G" value="5124,21,">este</wi>
+<wi type="G" value="4160,23,">lo hizo</wi>
+<wi type="G" value="2178,24,">una vez</wi>
+al <wi type="G" value="399,26,">ofrecerse</wi>
+<wi type="G" value="1438,25,">a si mismo</wi>.
+</t>
 </sv>
+
 <sv id="Hebreos-7-28">
 For the law appoints men as high priests
 who have weakness, but the word of the oath which came after the law appoints
 a Son forever who has been perfected.
-
+<t xml:lang="es"><wi type="G" value="1063,3,">Pues</wi>
+<wi type="G" value="3588,1,"><wi type="G" value="3551,2,">la ley</wi></wi>
+<wi type="G" value="2525,5,">designa</wi>
+<wi type="G" value="444,4,">hombres</wi> como
+<wi type="G" value="749,6,">sumos sacerdotes</wi>
+quienes <wi type="G" value="2192,7,">tienen</wi>
+<wi type="G" value="769,8,">debilidades</wi>,
+<wi type="G" value="1161,11,">pero</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="3056,10,">la palabra</wi></wi>
+<wi type="G" value="3588,12,"><wi type="G" value="3728,13,">del juramento</wi></wi>
+<wi type="G" value="3588,14,">que</wi> fue
+<wi type="G" value="3326,15,">después</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="3551,17,">de la ley</wi></wi>
+<wi type="GC" value="5">designa</wi>
+<wi type="G" value="5207,18,">al Hijo</wi>
+<wi type="G" value="5048,22,">perfeccionado</wi>
+<wi type="G" value="1519,19,">por</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="165,21,">siempre</wi></wi>.
+</t>
 <cl/>
-
-
 </sv></cm></sc>
+

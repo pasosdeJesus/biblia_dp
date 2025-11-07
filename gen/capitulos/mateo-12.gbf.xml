@@ -17,9 +17,8 @@ eat.
 <wi type="G" value="3588,11,"/> </t>
 <rb xml:lang="es"><wi type="G" value="4702,12,">los campos de granos</wi><rf>
 <citebib id="WEB"/> dice `campos de granos,´ <citebib id="KJV2003"/>
-dice `maiz,´ de acuerdo a <citebib id="Thayer-BLB"/> la palabra sporimos
-<!-- sigma pi omikron ro iota miu omikron sigma --> se traduce como
-campos de cultivo.</rf></rb>
+dice `maiz,´ de acuerdo a <citebib id="Thayer-BLB"/> la palabra `σπορίμων´
+se traduce como campos de cultivo.</rf></rb>
 <t xml:lang="es">.
 <wi type="G" value="3588,13,"/> <wi type="G" value="1161,14,"/>
 <wi type="G" value="846,16,">Sus</wi>
@@ -121,8 +120,7 @@ Sabbath day, the priests in the temple profane the Sabbath, and are guiltless?
 <rb xml:lang="es"><wi type="G" value="953,17,">profanan</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dice `profanan,´
 <citebib id="Peshitta"/> dice `ignoran,´ de acuerdo a <citebib id="Thayer-BLB"/>
-la palabra `bebeloo´ <!-- beta epsilon beta eta lambda omikron omega --> es
-`profanar.´</rf></rb>
+la palabra `βεβηλοῦσιν´ es `profanar.´</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3588,15,"/>
 <wi type="G" value="4521,16,">el día sabático</wi>,
@@ -425,8 +423,8 @@ Until he leads justice to victory.
 <citebib id="WEB"/> dice `la justicia,´ <citebib id="KJV2003"/> y
 <citebib id="RV1960"/> dicen
 `el juicio.´ De acuerdo a <citebib id="Thayer-BLB"/> la palabra
-griega `krisis´ <!-- kappa ro iota sigma iota sigma --> puede
-traducirse como separación, selección, juició (opinión, sentencia condenatoria),
+griega `κρίσιν´ puede
+traducirse como separación, selección, juicio (opinión, sentencia condenatoria),
 colegio de jueces --de Palestina-- o como justicia.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1519,13,">a</wi>
@@ -705,8 +703,8 @@ neither in this age, nor in that which is to come.
 <wi type="G" value="165,29,">época</wi><rf><citebib id="WEB"/> dice
 `esta epoca,´ <citebib id="Peshitta"/> y
 <citebib id="KJV2003"/> dicen `este mundo.´ De acuerdo
-a <citebib id="Thayer-BLB"/> la palabra griega `aion´ <!-- alpha iota omega
-nu --> se traduce como por (1) siempre, eternidad o (2) universo, (3)
+a <citebib id="Thayer-BLB"/> la palabra griega `αἰῶνι´
+se traduce como por (1) siempre, eternidad o (2) universo, (3)
 periodo de tiempo, era.</rf></rb>
 <t xml:lang="es">, <wi type="G" value="3777,30,">ni</wi>
 <wi type="G" value="1722,31,">en</wi> <wi type="G" value="3588,32,"/>
@@ -1079,13 +1077,13 @@ brothers stood outside, seeking to speak to him.
 <wi type="G" value="846,3,"><wi type="G" value="2980,4,">hablaba</wi></wi>
 <wi type="G" value="3588,5,"/>
 <wi type="G" value="3793,6,">a la multitud</wi>, </t>
-<rb xml:lang="es"><wi type="G" value="2400,7,">vea que</wi><rf>De acuerdo
-a <citebib id="Thayer-BLB"/> la palabra griega `idou´
-<!-- iota delta omikron nu --> puede traducirse como
-`vea, observe,´ y se trata de una `partícula demostrativa encontrada
+<rb xml:lang="es"><wi type="G" value="2400,7,">observen que</wi><rf>De acuerdo
+a <citebib id="Thayer-BLB"/> la palabra griega `ἰδού´
+puede traducirse como `vea, observe,´ y se trata de una `partícula demostrativa encontrada
 en el nuevo testamenteo especialmente en los evangelios de Mateo y
 Lucas ... que le da una vivacidad peculiar al estilo de invitar al lector
-o a quien escucha a atender lo que se dice.' </rf></rb>
+o a quien escucha a atender lo que se dice.' <citebib id="RVG2012"/> suele
+traducirla como "He aquí". </rf></rb>
 <t xml:lang="es"> su <wi type="G" value="3384,9,">madre</wi>
 <wi type="G" value="3588,8,"/>
 <wi type="G" value="2532,10,">y</wi>
