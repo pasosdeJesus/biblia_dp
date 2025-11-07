@@ -5264,9 +5264,11 @@ hands and forearms, holding to the tradition of the elders.
 <wi type="G" value="3538,11,">lavarse</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="5495,13,">las manos</wi></wi>
 </t>
-<rb xml:lang="es">y <wi type="G" value="4435,10,">hasta los codos</wi><rf><citebib id="WEB"/> dice `y antebrazos,' <citebib id="KJV2003"/> dice `a menudo,'
-según <citebib id="Thayer-BLB"/> la palabra griega `πυγμή' puede traducirse
-como `hasta el codo.'</rf></rb>
+<rb xml:lang="es">con <wi type="G" value="4435,10,">el puño</wi><rf><citebib id="WEB"/> 
+dice `y antebrazos,' <citebib id="KJV2003"/> dice `a menudo,'
+según <citebib id="Thayer-BLB"/> la palabra griega `πυγμή' se traduce como el
+puño (lavarse las manos con los puños, de manera que una mano se frota con el
+puño cerrado de la otra) o como lectura marginal hasta el codo. </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2902,16,">manteniendo</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="3862,18,">la tradición</wi></wi>
@@ -6803,13 +6805,16 @@ another form in front of them.
 <wi type="G" value="3588,14,"><wi type="G" value="2491,15,">Juan</wi></wi>
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="846,18,">los</wi>
-<wi type="G" value="399,17,">llevo</wi>
+<wi type="G" value="399,17,">llevó</wi>
 <wi type="G" value="1519,19,">a</wi>
 <wi type="G" value="3735,20,">una montaña</wi>
 <wi type="G" value="5308,21,">alta</wi> </t>
-<rb xml:lang="es"><wi type="G" value="2398,23,"/>donde
-<wi type="G" value="2596,22,"/>quedaron
-<wi type="G" value="3441,24,">solos</wi><rf><citebib id="WEB"/> dice `en privado por si mismos,' <citebib id="RV1960"/> dice `los llevó aparte solos a un monte alto,' <citebib id="KJV2003"/> dice `aparte por si mismos.'</rf></rb>
+<rb xml:lang="es"><wi type="G" value="2398,23,">aparte</wi>
+y <wi type="G" value="2596,22,">a</wi>
+<wi type="G" value="3441,24,">solas</wi><rf><citebib id="WEB"/> dice `en privado
+por si mismos,' <citebib id="RV1960"/> dice `los llevó aparte solos a un monte
+alto,' <citebib id="KJV2003"/> dice `aparte por si mismos.' La palabra
+griega κατά puede traducirse como de, por, de acuerdo a, hacía, </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2532,25,">y</wi>
 <wi type="G" value="3339,26,">se transfiguró</wi>
