@@ -362,12 +362,12 @@ preaching the Good News of the Kingdom of God,
 <wi type="G" value="1161,2,"/>
 <wi type="G" value="3588,5,"><wi type="G" value="2491,6,">Juan</wi></wi>
 <wi type="G" value="3588,3,"/> </t>
-<rb xml:lang="es"><wi type="G" value="3860,4,">fue encarcelado</wi><rf><citebib id="Peshitta"/>
+<rb xml:lang="es"><wi type="G" value="3860,4,">fue entregado</wi><rf><citebib id="Peshitta"/>
 dice `entregado,´ <citebib id="KJV2003"/> dice `fue puesto en
 prisión,' <citebib id="RV1960"/> dice `fue encarcelado,'
 según <citebib id="Thayer-BLB"/> la palabra griega
 `παραδίδωμι' se traduce como dar en manos de otro, entregar a alguien
-en custodia. </rf></rb>
+en custodia. Fue entregado para ser encarcelado. </rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="3588,8,"><wi type="G" value="2424,9,">Jesús</wi></wi>
 <wi type="G" value="2064,7,">llegó</wi>
@@ -1831,13 +1831,15 @@ He spoke to his disciples
 that a little boat should stay near him because of the crowd, so that they
 wouldn´t press on him.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
-<wi type="G" value="2036,2,">Él habló</wi>
-con
+<wi type="G" value="2036,2,">dijo a</wi>
 <wi type="G" value="846,5,">sus</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="3101,4,">discípulos</wi></wi>
-<wi type="G" value="2443,6,">para que</wi>
-<wi type="G" value="846,9,">le</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4342,8,">prepararan</wi><rf><citebib id="WEB"/> dice `que estuviera,' <citebib id="KJV2003"/> dice `esperara,' según
+<wi type="G" value="2443,6,">que</wi>
+</t>
+<rb xml:lang="es">
+<wi type="G" value="846,9,">le</wi>
+<wi type="G" value="4342,8,">dejarán al lado</wi> 
+<rf><citebib id="WEB"/> dice `que estuviera,' <citebib id="KJV2003"/> dice `esperara,' según
 <citebib id="Thayer-BLB"/> el verbo griego `προσκαρτερέω' traduce
 adherirse a alguien, estar atento permanentemente, mantenerse en un lugar, perserverar, mostrar valor, estar preparado constantemente.</rf></rb>
 <t xml:lang="es">
@@ -3200,7 +3202,7 @@ Gadarenes.
 <wi type="G" value="3588,6,"><wi type="G" value="2281,7,">del mar</wi></wi>,
 <wi type="G" value="1519,8,">en</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="5561,10,">la región</wi></wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,11,"/><wi type="G" value="1046,12,">de Gerasa</wi><rf><citebib id="WEB"/>,
+<rb xml:lang="es"><wi type="G" value="3588,11,"/><wi type="G" value="1046,12,">de lo Gadarenos</wi><rf><citebib id="WEB"/>,
 <citebib id="KJV2003"/> y <citebib id="Peshitta"/>
 dicen `Gadarenes,´ <citebib id="DieBibel"/> y <citebib id="DiosHablaHoy"/>
 dice `Gerasa.´</rf></rb>
