@@ -2869,30 +2869,61 @@ have such a high priest, who sat down on the right hand of the throne of the
 Majesty in the heavens,
 <t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>,
 <wi type="G" value="2774,1,">el punto principal</wi>
-<wi type="G" value="1909,3,">de</wi> 
-<wi type="G" value="3588,4,">lo que</wi> 
+<wi type="G" value="1909,3,">de</wi>
+<wi type="G" value="3588,4,">lo que</wi>
 <wi type="G" value="3004,5,">hemos dicho</wi> es:
-<wi type="G" value="2192,7,">Tenemos</wi> 
-<wi type="G" value="5108,6,">tal</wi> 
-<wi type="G" value="749,8,">sumo sacerdote</wi>, 
-<wi type="G" value="3739,9,">que</wi> 
-<wi type="G" value="2523,10,">está sentado</wi> 
-<wi type="G" value="1722,11,">a</wi> 
-<wi type="G" value="1188,12,">la diestra</wi> 
-<wi type="G" value="3588,13,"><wi type="G" value="2362,14,">del trono</wi></wi> 
+<wi type="G" value="2192,7,">Tenemos</wi>
+<wi type="G" value="5108,6,">tal</wi>
+<wi type="G" value="749,8,">sumo sacerdote</wi>,
+<wi type="G" value="3739,9,">que</wi>
+<wi type="G" value="2523,10,">está sentado</wi>
+<wi type="G" value="1722,11,">a</wi>
+<wi type="G" value="1188,12,">la diestra</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="2362,14,">del trono</wi></wi>
 <wi type="G" value="3588,15,"><wi type="G" value="3172,16,">de Majestad</wi></wi>
-<wi type="G" value="1722,17,">en</wi> 
-<wi type="G" value="3588,18,"><wi type="G" value="3772,19,">los cielos</wi></wi>.
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="3772,19,">los cielos</wi></wi>,
 </t>
 </sv>
 <sv id="Hebreos-8-2">
 a minister of the sanctuary, and of the true
 tabernacle, which the Lord pitched, not man.
+<t xml:lang="es"><wi type="G" value="3011,3,">un ministro</wi>
+<wi type="G" value="3588,1,"/><wi type="G" value="39,2,">del santuario</wi>,
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="228,8,">del verdadero</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="4633,6,">tabernáculo</wi></wi>,
+<wi type="G" value="3739,9,">que</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2962,12,">el Señor</wi></wi>
+<wi type="G" value="4078,10,">asentó</wi>,
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="3756,14,">no</wi>
+<wi type="G" value="444,15,">hombre</wi>.
+</t>
 </sv>
 <sv id="Hebreos-8-3">
 For every high priest is
 appointed to offer both gifts and sacrifices. Therefore it is necessary that
 this high priest also have something to offer.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3956,1,">todo</wi>
+<wi type="G" value="749,3,">sumo sacerdote</wi>
+<wi type="G" value="2525,11,">es designado</wi>
+<wi type="G" value="1519,4,">para</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="4374,6,">ofrecer</wi>
+<wi type="G" value="5037,8,">tanto</wi>
+<wi type="G" value="1435,7,">presentes</wi>
+<wi type="G" value="2532,9,">como</wi>
+<wi type="G" value="2378,10,">sacrificios</wi>.
+<wi type="G" value="3606,12,">Así que</wi> es
+<wi type="G" value="316,13,">necesario</wi>
+<wi type="G" value="3739,18,">que</wi>
+<wi type="G" value="5126,17,">este</wi>
+<wi type="G" value="2532,16,">también</wi>
+<wi type="G" value="2192,14,">tuviera</wi>
+<wi type="G" value="5100,15,">algo</wi>
+<wi type="G" value="4374,19,">que ofrecer</wi>.
+</t>
 </sv>
 <sv id="Hebreos-8-4">
 For if he were on earth,
