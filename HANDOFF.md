@@ -51,7 +51,7 @@ fidelidad respecto al Textus Receptus.
   hecho consumado (he X), perfecto como estado/resultante (he sido X), 
   presente como estado actual (estoy/es). Reportar el que no esté traducido así.
 - Los pronombres personales referidos a Dios deben comenzar en mayúscula (“Tú/Te/Ti/Tuyo”),
-  excepto lo, les.
+  excepto lo, les y mí, me, mi.
 
 
 ## Progreso de Revisión
