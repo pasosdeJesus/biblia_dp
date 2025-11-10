@@ -90,7 +90,7 @@ He asked them,
 <wi type="GC" value="2">preguntó</wi>, </t>
 <fr>«How many loaves do you  have?»
 <t xml:lang="es">«¿<wi type="G" value="4214,4,">Cuántos</wi>
-<wi type="G" value="740,6,">pedazos</wi> de pan
+<wi type="G" value="740,6,">panes</wi>
 <wi type="G" value="2192,5,">tienen</wi>?» </t>
 </fr>
 
@@ -115,9 +115,9 @@ disciples to serve, and they served the multitude.
 <wi type="G" value="2983,10,">tomó</wi>
 <wi type="G" value="3588,11,"/>
 <wi type="G" value="2033,12,">los siete</wi>
-<wi type="G" value="740,13,">pedazos</wi>.
+<wi type="G" value="740,13,">panes</wi>.
 </t>
-<rb xml:lang="es"><wi type="G" value="2168,14,">Dando gracias</wi><rf><citebib id="Peshitta"/> dice `los bendijo.´</rf></rb>
+<rb xml:lang="es"><wi type="G" value="2168,14,">Habiendo dado gracias</wi><rf><citebib id="Peshitta"/> dice `los bendijo.´</rf></rb>
 <t xml:lang="es">, los
 <wi type="G" value="2806,15,">partió</wi>,
 <wi type="G" value="2532,16,">y</wi> los
@@ -151,7 +151,7 @@ were filled. They took up seven baskets of broken pieces that were left over.
 <wi type="G" value="5526,4,">quedo satisfecha</wi>.
 <wi type="G" value="2532,5,"/><wi type="G" value="142,6,">Recogieron</wi>
 <wi type="G" value="2033,9,">siete</wi>
-<wi type="G" value="4711,10,">canastos</wi>
+<wi type="G" value="4711,10,">cestas</wi>
 <wi type="G" value="2801,8,">de los pedazos</wi>
 <wi type="G" value="4051,7,">que sobraron</wi>. </t>
 </sv>
@@ -251,17 +251,15 @@ side.
 They forgot to take bread; and they didn´t have more than one
 loaf in the boat with them.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="1950,2,">Habían olvidado</wi>
-<wi type="G" value="2983,3,">subir</wi>
+<wi type="G" value="2983,3,">traer</wi>
 <wi type="G" value="740,4,">pan</wi>;
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="1487,6,"/>
-<wi type="G" value="3361,7,"/>
-<wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="1487,6,"/><wi type="G" value="3361,7,"/><wi type="G" value="1722,14,">en</wi>
 <wi type="G" value="3588,15,"><wi type="G" value="4143,16,">el bote</wi></wi>
 <wi type="G" value="3756,10,">no</wi>
 <wi type="G" value="2192,11,">tenían</wi> más que
 <wi type="G" value="1520,8,">un</wi>
-<wi type="G" value="740,9,">pedazo</wi>
+<wi type="G" value="740,9,">pan</wi>
 <wi type="G" value="3326,12,"><wi type="G" value="1438,13,">consigo</wi></wi>. </t>
 </sv>
 <sv id="Marcos-8-15">
@@ -316,11 +314,11 @@ your heart still hardened?
 <wi type="GC" value="13">aún</wi>,
 <wi type="G" value="3761,15,">ni</wi>
 <wi type="G" value="4920,16,">entienden</wi>?
-¿<wi type="G" value="2192,19,">Están</wi>
+¿<wi type="G" value="2089,17,">Aún</wi>
+<wi type="G" value="2192,19,">están</wi>
+<wi type="G" value="4456,18,">endurecidos</wi>
 <wi type="G" value="5216,22,">sus</wi>
-<wi type="G" value="3588,20,"><wi type="G" value="2588,21,">corazones</wi></wi>
-<wi type="G" value="2089,17,">aún</wi>
-<wi type="G" value="4456,18,">endurecidos</wi>? </t>
+<wi type="G" value="3588,20,"><wi type="G" value="2588,21,">corazones</wi></wi>? </t>
 </fr>
 </sv>
 <sv id="Marcos-8-18"><fr>
@@ -376,8 +374,8 @@ of broken pieces did you
 <wi type="G" value="1519,5,">a</wi>
 <wi type="G" value="3588,6,"/>
 <wi type="G" value="5070,7,">cuatro mil</wi>,
-¿<wi type="G" value="4214,8,">Cuántos</wi>
-<wi type="G" value="4711,9,">canastos</wi>
+¿<wi type="G" value="4214,8,">Cuántas</wi>
+<wi type="G" value="4711,9,">cestas</wi>
 <wi type="G" value="4138,10,">llenos</wi>
 <wi type="G" value="2801,11,">de pedazos</wi>
 <wi type="G" value="142,12,">recogieron</wi>?» </t>
@@ -432,11 +430,10 @@ him, he asked him if he saw anything.
 y <wi type="G" value="846,8,">lo</wi>
 <wi type="G" value="1806,7,">llevo</wi>
 <wi type="G" value="1854,9,">fuera</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="2968,11,">del pueblo</wi></wi>. <wi type="G" value="2532,12,"/>Después
-<wi type="G" value="4429,13,">de humedecerle</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2968,11,">del pueblo</wi></wi>. 
+<wi type="G" value="2532,12,"/><wi type="G" value="4429,13,">Después de humedecerle</wi>
 <wi type="G" value="846,17,">los</wi>
-<wi type="G" value="1519,14,"/>
-<wi type="G" value="3588,15,"><wi type="G" value="3659,16,">ojos</wi></wi>
+<wi type="G" value="1519,14,"/><wi type="G" value="3588,15,"><wi type="G" value="3659,16,">ojos</wi></wi>
 <wi type="GC" value="13">con saliva</wi> y
 <wi type="G" value="2007,18,">colocar</wi>
 <wi type="G" value="3588,19,"><wi type="G" value="5495,20,">sus manos</wi></wi>
@@ -566,7 +563,7 @@ Peter answered, «You are the Christ.»
 <t xml:lang="es"><wi type="G" value="1161,12,"/><wi type="G" value="3588,13,"><wi type="G" value="4074,14,">Pedro</wi></wi>
 <wi type="G" value="611,11,">contestó</wi>
 <wi type="G" value="3004,15,"><wi type="G" value="846,16,">diciendole</wi></wi>,
-«<wi type="G" value="4771,17,">Tu</wi>
+«<wi type="G" value="4771,17,">Tú</wi>
 <wi type="G" value="1488,18,">eres</wi>
 <wi type="G" value="3588,19,"><wi type="G" value="5547,20,">el Mesías</wi></wi></t>
 <rb xml:lang="es"><rf><citebib id="Peshitta"/> agrega
@@ -641,7 +638,7 @@ rebuked Peter, and said,
 <fr>«Get behind me, Satan! For you have in mind not
 the things of God, but the things of men.»
 <t xml:lang="es">«¡<wi type="G" value="5217,13,"><wi type="G" value="3694,14,">Aléjate</wi></wi>
-<wi type="G" value="3450,15,">de mi</wi>,
+<wi type="G" value="3450,15,">de Mi</wi>,
 <wi type="G" value="4567,16,">Satanás</wi>!
 <wi type="G" value="3754,17,">Pues</wi>
 <wi type="G" value="5426,19,">tienes en mente</wi>
@@ -671,8 +668,8 @@ his cross, and follow me.
 <wi type="G" value="2309,12,">desee</wi>
 <wi type="G" value="2064,15,">venir</wi>
 <wi type="G" value="3694,13,">tras</wi>
-<wi type="G" value="3450,14,">de mi</wi>,
-<wi type="G" value="533,16,">nieguese</wi>
+<wi type="G" value="3450,14,">de Mi</wi>,
+<wi type="G" value="533,16,">niéguese</wi>
 <wi type="G" value="1438,17,">a si mismo</wi>,
 <wi type="G" value="2532,18,"/><wi type="G" value="142,19,">tome</wi>
 <wi type="G" value="846,22,">su</wi>
@@ -699,7 +696,7 @@ Good News will save it.
 <wi type="G" value="846,17,">su</wi>
 <wi type="G" value="3588,15,"><wi type="G" value="5590,16,">vida</wi></wi>
 <wi type="G" value="1752,18,">por</wi>
-<wi type="G" value="1700,19,">causa mía</wi>
+<wi type="G" value="1700,19,">causa Mía</wi>
 <wi type="G" value="2532,20,">y</wi> de <wi type="G" value="3588,21,"><wi type="G" value="2098,22,">la Buena Nueva</wi></wi>
 <wi type="G" value="3778,23,"/>
 <wi type="G" value="846,25,">la</wi>
@@ -743,7 +740,7 @@ and sinful generation, the Son of Man also will be ashamed of him,
 when he comes in the glory of his Father with the holy angels.»
 <t xml:lang="es"><wi type="G" value="1063,2,">Entonces</wi> de
 <wi type="G" value="846,24,">aquel</wi> <wi type="G" value="3739,1,"><wi type="G" value="302,3,">que</wi></wi>
-<wi type="G" value="1870,4,">se apene</wi>
+<wi type="G" value="1870,4,">se avergüence</wi>
 <wi type="G" value="3165,5,">de mi</wi>
 <wi type="G" value="2532,6,">y</wi> de
 <wi type="G" value="3588,7,"/>
@@ -758,7 +755,7 @@ when he comes in the glory of his Father with the holy angels.»
 <wi type="G" value="3588,19,"><wi type="G" value="5207,20,">el Hijo</wi></wi>
 <wi type="G" value="3588,21,"><wi type="G" value="444,22,">del Hombre</wi></wi>
 <wi type="G" value="2532,18,">también</wi>
-<wi type="G" value="1870,23,">se apenará</wi>,
+<wi type="G" value="1870,23,">se avergonzará</wi>,
 <wi type="G" value="3752,25,">cuando</wi>
 <wi type="G" value="2064,26,">venga</wi>
 <wi type="G" value="1722,27,">en</wi>

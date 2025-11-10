@@ -133,7 +133,7 @@ is written,
 <t xml:lang="es">
 `<wi type="G" value="3778,16,">Esta</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="2992,18,">gente</wi></wi>
-<wi type="G" value="3165,21,">me</wi>
+<wi type="G" value="3165,21,">Me</wi>
 <wi type="G" value="3588,23,"/>
 <wi type="G" value="5091,22,">honra</wi> con
 sus <wi type="G" value="3588,19,"><wi type="G" value="5491,20,">labios</wi></wi>, </t>
@@ -146,7 +146,7 @@ But their heart is far from me.
 <wi type="G" value="568,28,">está</wi>
 <wi type="G" value="4206,27,">lejos</wi>
 <wi type="G" value="575,29,">de</wi>
-<wi type="G" value="1700,30,">mi</wi>. </t>
+<wi type="G" value="1700,30,">Mi</wi>. </t>
 <cl/></fp>
 </fr>
 </sv>
@@ -154,7 +154,7 @@ But their heart is far from me.
 <fp>But in vain do they worship me,
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="3155,1,">en vano</wi>
-<wi type="G" value="3165,4,">me</wi>
+<wi type="G" value="3165,4,">Me</wi>
 <wi type="G" value="4576,3,">alaban</wi> </t>
 <cl/>
 Teaching as doctrines the commandments of men.´
@@ -410,8 +410,8 @@ clean?»
 <wi type="G" value="1607,16,">sale</wi>
 <wi type="G" value="1519,13,">a</wi>
 <wi type="G" value="3588,14,"><wi type="G" value="856,15,">la letrina</wi></wi>,
-<wi type="G" value="2511,17,">haciendo puras</wi> así
-que <wi type="G" value="3956,18,">todas</wi>
+<wi type="G" value="2511,17,">purificando</wi> así
+<wi type="G" value="3956,18,">todas</wi>
 <wi type="G" value="3588,19,"><wi type="G" value="1033,20,">las comidas</wi></wi>?» </t>
 </fr>
 </sv>

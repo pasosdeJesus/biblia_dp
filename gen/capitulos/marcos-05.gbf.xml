@@ -114,15 +114,15 @@ con
 <wi type="G" value="3173,4,">fuerte</wi>
 <wi type="G" value="5456,3,">voz</wi>,
 <wi type="G" value="2036,5,">diciendo</wi>
-«¿<wi type="G" value="5101,6,">Qué</wi> tengo
-<wi type="G" value="2532,8,"/>
+«¿<wi type="G" value="2532,8,">Y</wi>
 <wi type="G" value="1698,7,">yo</wi>
-<wi type="G" value="4671,9,">contigo</wi>,
+<wi type="G" value="5101,6,">qué</wi>
+<wi type="G" value="4671,9,">contigo</wi>?
 <wi type="G" value="2424,10,">Jesús</wi>,
 <wi type="G" value="5207,11,">Hijo</wi>
 <wi type="G" value="3588,14,"/>
 <wi type="G" value="5310,15,">del altísimo</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>?
+<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>.
 <wi type="G" value="4571,17,">Te</wi>
 <wi type="G" value="3726,16,">pido</wi>
 <wi type="G" value="3588,18,"><wi type="G" value="2316,19,">por Dios</wi></wi>,
@@ -226,26 +226,22 @@ bank into the sea, and they were drowned in the sea.
 <wi type="G" value="2112,4,">Al momento</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="2424,6,">Jesús</wi></wi>
 <wi type="G" value="846,3,">les</wi>
-<wi type="G" value="2010,2,">dio permiso</wi>
-<wi type="G" value="2532,7,">y</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="4151,10,">los espíritus</wi></wi>
+<wi type="G" value="2010,2,">dio permiso</wi>.
+<wi type="G" value="2532,7,"/><wi type="G" value="3588,9,"><wi type="G" value="4151,10,">Los espíritus</wi></wi>
 <wi type="G" value="169,12,">impuros</wi>
 <wi type="G" value="1831,8,">salieron</wi>
-y
-<wi type="G" value="3588,11,"/>
-<wi type="G" value="1525,13,">entraron</wi>
-<wi type="G" value="1519,14,">a</wi>
+y <wi type="G" value="3588,11,"/><wi type="G" value="1525,13,">entraron</wi>
+<wi type="G" value="1519,14,">en</wi>
 <wi type="G" value="3588,15,"><wi type="G" value="5519,16,">los cerdos</wi></wi>.
-<wi type="G" value="3588,19,"><wi type="G" value="34,20,">El rebaño</wi></wi>
-<wi type="G" value="2258,27,">era</wi>
+<wi type="G" value="2532,17,">Y</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="34,20,">el rebaño</wi></wi>
+—que <wi type="G" value="2258,27,">era</wi>
 <wi type="G" value="1161,28,"/>
 de <wi type="G" value="5613,29,">aproximadamente</wi>
-<wi type="G" value="1367,30,">dos mil</wi>
-cerdos;
-<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="1367,30,">dos mil</wi>—
 <wi type="G" value="3729,18,">se lanzó</wi>
-<wi type="G" value="3588,25,"><wi type="G" value="2281,26,">al mar</wi></wi> desde
-<wi type="G" value="2596,21,"/>
+<wi type="G" value="3588,25,"><wi type="G" value="2281,26,">al mar</wi></wi>
+<wi type="G" value="2596,21,">por</wi>
 <wi type="G" value="3588,22,"><wi type="G" value="2911,23,">un acantilado</wi></wi>
 <wi type="G" value="1519,24,"/><wi type="G" value="2532,31,">y</wi>
 <wi type="G" value="4155,32,">se ahogaron</wi>
@@ -564,13 +560,12 @@ from him, turned around in the crowd, and asked,
 <t xml:lang="es"><wi type="G" value="2532,1,"/>
 <wi type="G" value="2112,2,">De inmediato</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="2424,4,">Jesús</wi></wi>,
-<wi type="G" value="1921,5,">supo</wi>
-<wi type="G" value="1722,6,">para</wi>
+<wi type="G" value="1921,5,">percibió</wi>
+<wi type="G" value="1722,6,">en</wi>
 <wi type="G" value="1438,7,">si mismo</wi> que
 <wi type="G" value="1831,12,">había salido</wi>
 <wi type="G" value="1411,11,">poder</wi>
-<wi type="G" value="3588,8,"/>
-<wi type="G" value="1537,9,">de</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="1537,9,">de</wi>
 <wi type="G" value="846,10,">Él</wi>,
 <wi type="G" value="1994,13,">se dio vuelta</wi>
 <wi type="G" value="1722,14,">hacía</wi>

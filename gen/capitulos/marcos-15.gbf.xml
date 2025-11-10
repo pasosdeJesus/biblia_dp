@@ -8,7 +8,7 @@ carried him away, and delivered him up to Pilate.
 <wi type="G" value="2112,2,">tan pronto</wi>
 <wi type="G" value="1909,3,"/>fue
 <wi type="G" value="3588,4,"/><wi type="G" value="4404,5,">la mañana</wi>,
-<wi type="G" value="3588,8,"><wi type="G" value="749,9,">el jefe de los sacerdotes</wi></wi>
+<wi type="G" value="3588,8,"><wi type="G" value="749,9,">los jefes de los sacerdotes</wi></wi>
 <wi type="G" value="4160,7,">hizo</wi>
 <wi type="G" value="4824,6,">reunión</wi>
 <wi type="G" value="3326,10,">con</wi>
@@ -38,7 +38,8 @@ Pilate asked him, «Are you the King of the Jews?»
 
 <cl/>
 He answered, «So you say.»
-<t xml:lang="es"><wi type="G" value="1161,13,"/><wi type="G" value="611,14,">Él contestando</wi>
+<t xml:lang="es"><wi type="G" value="1161,13,"/><wi type="G" value="611,14,">Él
+respondió</wi> y
 <wi type="G" value="3588,12,"/><wi type="G" value="846,16,">le</wi>
 <wi type="G" value="2036,15,">dijo</wi>,
 «<wi type="G" value="4771,17,">Tu</wi> lo
@@ -104,13 +105,13 @@ made insurrection, men who in the insurrection had committed murder.
 <wi type="G" value="3004,4,">llamado</wi>
 <wi type="G" value="912,5,">Barrabas</wi>,
 <wi type="G" value="1210,9,">atado</wi>
-<wi type="G" value="3326,6,">con</wi>
+<wi type="G" value="3326,6,">junto con</wi>
 <wi type="G" value="3588,7,">los que</wi>
-<wi type="G" value="4955,8,">habían hecho insurrección</wi>,
-<wi type="G" value="3748,10,">quienes</wi>
+<wi type="G" value="4955,8,">habían rebelado</wi>,
+y <wi type="G" value="3748,10,">que</wi>
 <wi type="G" value="4160,15,">habían cometido</wi>
 <wi type="G" value="5408,14,">asesinato</wi>
-<wi type="G" value="1722,11,">en</wi>
+<wi type="G" value="1722,11,">durante</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="4714,13,">la insurrección</wi></wi>. </t>
 </sv>
 <sv id="Marcos-15-8">
@@ -171,7 +172,7 @@ you call the King of the Jews?»
 <wi type="G" value="4091,3,">Pilato</wi>
 <wi type="G" value="3825,5,">nuevamente</wi>
 <wi type="G" value="846,7,">les</wi>
-<wi type="G" value="611,4,">contesto</wi>
+<wi type="G" value="611,4,">contestó</wi>
 <wi type="G" value="2036,6,">diciendo</wi>
 «¿<wi type="G" value="5101,8,">Qué</wi>
 <wi type="G" value="2309,10,">quieren</wi>
@@ -236,7 +237,7 @@ called together the whole cohort.
 <wi type="G" value="1161,2,"/><wi type="G" value="846,5,">lo</wi>
 <wi type="G" value="520,4,">condujeron</wi>
 <wi type="G" value="2080,6,">al</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="833,8,">palacio</wi></wi>,
+<wi type="G" value="3588,7,"><wi type="G" value="833,8,">patio</wi></wi>,
 <wi type="G" value="3739,9,"><wi type="G" value="2076,10,">es decir</wi></wi>
 <wi type="G" value="4232,11,">al pretorio</wi>;
 <wi type="G" value="2532,12,">y</wi>
@@ -257,7 +258,7 @@ y <wi type="G" value="4120,8,">tejieron</wi>
 <wi type="G" value="4735,10,">una corona</wi>
 <wi type="G" value="174,9,">de espinas</wi> <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="846,7,">se</wi>
-<wi type="G" value="4060,6,">la pusieron</wi>. </t>
+<wi type="G" value="4060,6,">la colocaron</wi>. </t>
 </sv>
 <sv id="Marcos-15-18">
 They began to salute him, «Hail, King of the Jews!»
@@ -280,7 +281,7 @@ spat on him, and bowing their knees, did homage to him.
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="5087,11,">doblando</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="1119,13,">rodillas</wi></wi>,
-<wi type="G" value="846,15,">le</wi> <wi type="G" value="4352,14,">hacían homenaje</wi>. </t>
+<wi type="G" value="846,15,">le</wi> <wi type="G" value="4352,14,">rendían homenaje</wi>. </t>
 </sv>
 <sv id="Marcos-15-20">
 When they had mocked him, they took the purple off of him, and put his
@@ -306,11 +307,11 @@ They compelled one passing by, coming from the country, Simon of Cyrene,
 the father of Alexander and Rufus, to go with them, that he might bear
 his cross.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="29,2,">Obligaron</wi>
-<wi type="G" value="5100,4,">a un</wi>
+<wi type="G" value="5100,4,">a</wi>
 <wi type="G" value="4613,5,">Simón</wi>
 <wi type="G" value="2956,6,">de Cirenea</wi>
 <wi type="G" value="3855,3,">que pasaba</wi>,
-y <wi type="G" value="2064,7,">venía</wi>
+<wi type="G" value="2064,7,">viniendo</wi>
 <wi type="G" value="575,8,">del</wi>
 <wi type="G" value="68,9,">campo</wi>,
 <wi type="G" value="3588,10,"><wi type="G" value="3962,11,">el padre</wi></wi>
@@ -413,8 +414,8 @@ The Scripture was fulfilled, which says, «He was numbered with transgressors.»
 <wi type="G" value="3588,3,"><wi type="G" value="1124,4,">las Escrituras</wi></wi>
 <wi type="G" value="3588,5,">que</wi>
 <wi type="G" value="3004,6,">dicen</wi>,
-«<wi type="G" value="2532,7,">Y</wi> <wi type="G" value=",">fue</wi>
-<wi type="G" value="3049,10,">contado</wi>
+«<wi type="G" value="2532,7,">Y</wi>
+<wi type="G" value="3049,10,">fue contado</wi>
 <wi type="G" value="3326,8,">con</wi>
 <wi type="G" value="459,9,">transgresores</wi>.» </t></sv></cm>
 
@@ -457,14 +458,14 @@ scribes said, «He saved others. He can´t save himself.
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="2532,3,"/><wi type="G" value="3668,1,">Así mismo</wi>,
 <wi type="G" value="3588,4,"><wi type="G" value="749,5,">los jefes de los sacerdotes</wi></wi>
-<wi type="G" value="1702,6,">ridiculizando</wi>
+<wi type="G" value="1702,6,">ridiculizándolo</wi>
 <wi type="G" value="4314,7,">entre</wi>
 <wi type="G" value="240,8,">ellos</wi>
-<wi type="G" value="3326,9,">con</wi>
+<wi type="G" value="3326,9,">junto con</wi>
 <wi type="G" value="3588,10,"><wi type="G" value="1122,11,">los escribas</wi></wi>
 <wi type="G" value="3004,12,">decían</wi>,
 «</t>
-<rb xml:lang="es"><wi type="G" value="4982,14,">Él salvó</wi><rf><citebib id="Peshitta"/> dice `dio vida.´</rf></rb>
+<rb xml:lang="es"><wi type="G" value="4982,14,">Salvó</wi><rf><citebib id="Peshitta"/> dice `dio vida.´</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="243,13,">a otros</wi>.  Pero
 <wi type="G" value="3756,16,">no</wi>
@@ -548,9 +549,9 @@ which is, being interpreted,
 <wi type="G" value="3177,18,">traducido</wi>
 <wi type="G" value="2076,17,">es</wi>
 «<wi type="G" value="3588,19,"><wi type="G" value="2316,20,">Dios</wi></wi>
-<wi type="G" value="3450,21,">mio</wi>,
+<wi type="G" value="3450,21,">mío</wi>,
 <wi type="G" value="3588,22,"><wi type="G" value="2316,23,">Dios</wi></wi>
-<wi type="G" value="1519,25,"/><wi type="G" value="3450,24,">mio</wi>,
+<wi type="G" value="1519,25,"/><wi type="G" value="3450,24,">mío</wi>,
 ¿<wi type="G" value="5101,26,">Por qué</wi>
 <wi type="G" value="3165,27,">me</wi>
 <wi type="G" value="1459,28,">has abandonado</wi>?» </t></sv></cm>
@@ -626,7 +627,7 @@ like this and breathed his last, he said, «Truly this man was the Son of God!»
 <wi type="G" value="1492,1,">vio</wi> <wi type="G" value="3754,10,">que</wi>
 <wi type="G" value="2896,12,">había gritado</wi>
 <wi type="G" value="3779,11,">así</wi>
-<wi type="G" value="1606,13,">entregando su espíritu</wi>,
+y que <wi type="G" value="1606,13,">había entregado su espíritu</wi>,
 <wi type="G" value="2036,14,">dijo</wi>,
 «¡<wi type="G" value="230,15,">Verdaderamente</wi>
 <wi type="G" value="3778,18,">este</wi>
@@ -700,7 +701,8 @@ the day before the Sabbath,
 Joseph of Arimathaea, a prominent council member who also himself was
 looking for the Kingdom of God, came. He boldly
 went in to Pilate, and asked for Jesus´ body.
-<t xml:lang="es"><wi type="G" value="2501,2,">José</wi>
+<t xml:lang="es"><wi type="G" value="2064,1,">Llegó</wi>
+<wi type="G" value="2501,2,">José</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="575,4,">de</wi>
 <wi type="G" value="707,5,">Arimatea</wi>,
 <wi type="G" value="2158,6,">un prominente</wi>
@@ -710,10 +712,8 @@ went in to Pilate, and asked for Jesus´ body.
 <wi type="G" value="2258,11,"/><wi type="G" value="4327,12,">esperaba</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="932,14,">el Reino</wi></wi>
 <wi type="G" value="3588,15,"><wi type="G" value="2316,16,">de Dios</wi></wi>,
-<wi type="G" value="2064,1,">llegó</wi>.
-<wi type="G" value="1525,18,">Él</wi>
 <wi type="G" value="5111,17,">valientemente</wi>
-<wi type="GC" value="18">fue</wi>
+<wi type="G" value="1525,18,">entró</wi>
 <wi type="G" value="4314,19,">donde</wi>
 <wi type="G" value="4091,20,">Pilato</wi>,
 <wi type="G" value="2532,21,">y</wi>
@@ -724,11 +724,11 @@ went in to Pilate, and asked for Jesus´ body.
 <sv id="Marcos-15-44">
 Pilate marveled if he were already dead; and summoning the centurión,
 he asked him whether he had been dead long.
-<t xml:lang="es"><wi type="G" value="3588,1,"/>A <wi type="G" value="1161,2,"/><wi type="G" value="4091,3,">Pilato</wi> le
-<wi type="G" value="2296,4,">asombró</wi>
-<wi type="G" value="1487,5,">que</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,"/><wi type="G" value="4091,3,">Pilato</wi>
+<wi type="G" value="2296,4,">se asombró</wi>
+<wi type="G" value="1487,5,">porque</wi>
 <wi type="G" value="2235,6,">ya</wi>
-<wi type="G" value="2348,7,">hubiera muerto</wi>;
+<wi type="G" value="2348,7,">había muerto</wi>;
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="4341,9,">citando</wi>
 <wi type="G" value="3588,10,"><wi type="G" value="2760,11,">al centurión</wi></wi>,
@@ -754,7 +754,7 @@ He bought a linen cloth, and taking him down, wound him
 in the linen cloth, and laid him in a tomb which had been cut out of a rock.
 He rolled a stone against the door of the tomb.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="59,2,">Él compró</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4616,3,">una túnica de lino</wi><rf><citebib id="WEB"/> dice `túnica de lino,' <citebib id="KJV2013"/> dice `lino fino,'
+<rb xml:lang="es"><wi type="G" value="4616,3,">una sábana de lino</wi><rf><citebib id="WEB"/> dice `túnica de lino,' <citebib id="KJV2013"/> dice `lino fino,'
 <citebib id="RV1909"/> dice `una sabana,' según <citebib id="BLB-Thayer"/>
 la palabra griega `σινδών' puede traducirse como (1) túnica de lino,
 especialmente fina y costosa que se usaba para envolver los muertos, o

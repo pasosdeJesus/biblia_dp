@@ -257,7 +257,8 @@ que <wi type="G" value="3361,4,">no</wi>
 <wi type="G" value="281,23,">Ciertamente</wi>,
 <wi type="G" value="5213,25,">les</wi>
 <wi type="G" value="3004,24,">digo</wi>,
-¡<wi type="G" value="2071,27,">será</wi>
+</t>
+<rb xml:lang="es">¡<wi type="G" value="2071,27,">será</wi>
 <wi type="G" value="414,26,">más tolerable</wi>
 <wi type="G" value="4670,28,">para Sodoma</wi>
 <wi type="G" value="2228,29,">y</wi>
@@ -267,10 +268,11 @@ que <wi type="G" value="3361,4,">no</wi>
 <wi type="G" value="2920,33,">del juicio</wi>
 <wi type="G" value="2228,34,">que</wi>
 <wi type="G" value="1565,37,">para esa</wi>
-<wi type="G" value="3588,35,"><wi type="G" value="4172,36,">ciudad</wi></wi>!</t>
-<rb xml:lang="es"><rf>La frase sobre Sodoma y Gomorra no aparece
+<wi type="G" value="3588,35,"><wi type="G" value="4172,36,">ciudad</wi></wi>!<rf>
+La frase sobre Sodoma y Gomorra no aparece
 en <citebib id="DiosHablaHoy"/> ni en <citebib id="DieBibel"/>, pero
-si en <citebib id="Peshitta"/> y <citebib id="WEB"/></rf></rb>
+si en <citebib id="TR"/>, <citebib id="Peshitta"/> y 
+<citebib id="WEB"/></rf></rb>
 <t xml:lang="es">» </t>
 </fr></sv></cm>
 
@@ -929,7 +931,7 @@ They took up twelve baskets full of broken pieces and also of the fish.
 Those who ate the loaves were
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3588,3,">Los que</wi>
 <wi type="G" value="5315,4,">comieron</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="740,6,">los trozos</wi></wi>
+<wi type="G" value="3588,5,"><wi type="G" value="740,6,">los panes</wi></wi>
 <wi type="G" value="2258,2,">fueron</wi></t>
 <rb xml:lang="es"><rf></rf></rb>
 <rb xml:lang="es"><wi type="G" value="5616,7,">cerca de</wi>
@@ -1063,8 +1065,8 @@ them, and said to them,
 </rb>
 Don´t be afraid.»
 <t xml:lang="es">«¡<wi type="G" value="2293,15,">Anímense</wi>!
-¡<wi type="G" value="1510,17,">Soy</wi>
-<wi type="G" value="1473,16,">yo</wi>!
+¡<wi type="G" value="1473,16,">Yo</wi>
+<wi type="G" value="1510,17,">Soy</wi>!
 <wi type="G" value="3361,18,">No</wi>
 <wi type="G" value="5399,19,">tengan miedo</wi>.» </t>
 </fr>

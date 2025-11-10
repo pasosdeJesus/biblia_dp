@@ -40,7 +40,7 @@ be left here one stone on another, which will not be thrown down.»
 <wi type="G" value="3037,17,">otra</wi>
 <wi type="G" value="3739,18,">que</wi>
 <wi type="G" value="3756,19,"/><wi type="G" value="3361,20,">no</wi>
-<wi type="G" value="2647,21,">sea derribada</wi>.» </t>
+<wi type="G" value="2647,21,">haya de ser derribada</wi>.» </t>
 </fr></sv></cm>
 
 <cm>
@@ -126,9 +126,9 @@ those must happen, but the end is not yet.
 <wi type="G" value="4171,7,">de guerras</wi>,
 z<wi type="G" value="3361,8,">no</wi>
 <wi type="G" value="1096,12,">se</wi>
-<wi type="G" value="2360,9,">perturben</wi>,
+<wi type="G" value="2360,9,">alarmen</wi>,
 <wi type="G" value="1063,11,">porque</wi>
-<wi type="G" value="1163,10,">debe ocurrir</wi>,
+<wi type="G" value="1163,10,">es necesario que suceda</wi>,
 <wi type="G" value="235,13,">pero</wi>
 <wi type="G" value="3768,14,">aún no</wi>
 será
@@ -140,20 +140,20 @@ For nation will rise against nation, and kingdom against kingdom.
 There will be earthquakes in various places. There will be famines and
 troubles. These things are the beginning of birth pains.
 <t xml:lang="es"><wi type="G" value="1063,2,">Porque</wi>
+<wi type="G" value="1453,1,">se levantará</wi>
 <wi type="G" value="1484,3,">nación</wi>
-<wi type="G" value="1453,1,">se alzará</wi>
 <wi type="G" value="1909,4,">contra</wi>
 <wi type="G" value="1484,5,">nación</wi>,
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="932,7,">reino</wi>
 <wi type="G" value="1909,8,">contra</wi>
 <wi type="G" value="932,9,">reino</wi>,
-<wi type="G" value="2532,10,">y</wi> <wi type="G" value="2071,11,">habrán</wi>
+<wi type="G" value="2532,10,">y</wi> <wi type="G" value="2071,11,">habrá</wi>
 <wi type="G" value="4578,12,">terremotos</wi>
 <wi type="G" value="2596,13,">en</wi>
 <wi type="G" value="5117,14,">varias partes</wi>.
 <wi type="G" value="2532,15,">Y</wi>
-<wi type="G" value="2071,16,">habrán</wi>
+<wi type="G" value="2071,16,">habrá</wi>
 <wi type="G" value="3042,17,">hambrunas</wi>
 <wi type="G" value="2532,18,">y</wi>
 <wi type="G" value="5016,19,">tribulación</wi>.
@@ -311,7 +311,7 @@ reader understand), then let those who are in Judea flee to the mountains,
 <wi type="G" value="5259,10,">por</wi>
 <wi type="G" value="1158,11,">Daniel</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="4396,13,">el profeta</wi></wi>,
-<wi type="G" value="2476,14,">estando</wi>
+<wi type="G" value="2476,14,">puesta</wi>
 <wi type="G" value="3699,15,">donde</wi>
 <wi type="G" value="3756,16,">no</wi>
 <wi type="G" value="1163,17,">debería</wi>
@@ -420,8 +420,8 @@ dice `aflicción,' según <citebib id="Thayer-BLB"/> la palabra griega
 <wi type="G" value="2193,18,">hasta</wi>
 <wi type="G" value="3588,19,"/><wi type="G" value="3568,20,">ahora</wi>
 <wi type="G" value="2532,21,">ni</wi> como
-<wi type="G" value="1096,24,">habrá</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3756,22,"><wi type="G" value="3361,23,">nunca más</wi></wi><rf><citebib id="WEB"/> dice
+la <wi type="G" value="1096,24,">habrá</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3756,22,"><wi type="G" value="3361,23,">jamás</wi></wi><rf><citebib id="WEB"/> dice
 `nunca será,' <citebib id="KJV2003"/> dice `ni habrá', según
 <citebib id="Thayer-BLB"/> las palabras griegas
 `οὐ μή' (ambas con número Strong 3364) se pueden traducir como
@@ -435,9 +435,9 @@ but for the sake of the chosen ones, whom he picked out, he shortened the
 days.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="1487,2,">si</wi>
-<wi type="G" value="3361,3,">no</wi>
-<wi type="G" value="2856,5,">acortara</wi>
 <wi type="G" value="2962,4,">el Señor</wi>
+<wi type="G" value="3361,3,">no</wi>
+<wi type="G" value="2856,5,">hubiera acortado</wi>
 <wi type="G" value="3588,6,"><wi type="G" value="2250,7,">esos días</wi></wi>,
 <wi type="G" value="3756,8,">no</wi>
 <wi type="G" value="302,9,"/>
@@ -449,7 +449,7 @@ days.
 <wi type="G" value="3588,15,"/><wi type="G" value="1588,16,">causa de los elegidos</wi>,
 <wi type="G" value="3739,17,">que</wi>
 <wi type="G" value="1586,18,">Él escogiera</wi>,
-<wi type="G" value="2856,19,">Él acortará</wi>
+<wi type="G" value="2856,19,">los ha acortado</wi>
 <wi type="G" value="3588,20,"><wi type="G" value="2250,21,">los días</wi></wi>. </t>
 </fr>
 </sv>

@@ -49,8 +49,8 @@ costly. She broke the jar, and poured it over his head.
 <wi type="G" value="4613,9,">de Simón</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="3015,11,">el leproso</wi>,
 cuando
-<wi type="G" value="846,13,">se</wi>
-<wi type="G" value="2621,12,">sentaba a la mesa</wi>,
+<wi type="G" value="846,13,">estando</wi>
+<wi type="G" value="2621,12,">sentado a la mesa</wi>,
 <wi type="G" value="2064,14,">llegó</wi>
 <wi type="G" value="1135,15,">una mujer</wi>
 <wi type="G" value="2192,16,">que tenía</wi>
@@ -61,8 +61,8 @@ con <wi type="G" value="3464,18,19,">aceite</wi>
 y <citebib id="RV1960"/> dicen `puro', pero no aparece en
 <citebib id="KJV2003"/>.
 En los marcados strong de <citebib id="KJV2003"/> y de <citebib id="BLB"/>
-está sin asociar a palabra en inglés alguna, la palabra griega `πιστικός'
-que seǵun <citebib id="Thayer-BLB"/> se traduce como `confiable,
+está sin asociar a palabra en inglés alguna. La palabra griega `πιστικός'
+según <citebib id="Thayer-BLB"/> se traduce como `confiable,
 fiel.'</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="4185,21,">muy costoso</wi>.
@@ -87,8 +87,8 @@ this ointment been wasted?
 <wi type="G" value="2532,7,">y</wi>
 <wi type="G" value="3004,8,">decían</wi>,
 «¿<wi type="G" value="1519,9,"/><wi type="G" value="5101,10,">Por qué</wi>
-<wi type="G" value="1096,16,">se ha</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="684,12,">gastado</wi></wi>
+<wi type="G" value="1096,16,">se</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="684,12,">gastó</wi></wi>
 <wi type="G" value="3778,13,">este</wi>
 <wi type="G" value="3588,14,"><wi type="G" value="3464,15,">aceite</wi></wi>?</t>
 </sv>
@@ -129,7 +129,7 @@ has done a good work for me.
 ¿<wi type="G" value="5101,7,">Por qué</wi>
 <wi type="G" value="846,8,">la</wi>
 <wi type="G" value="2873,9,"/><wi type="G" value="3930,10,">molestan</wi>?
-<wi type="G" value="2038,13,">Ella ha hecho</wi>
+<wi type="G" value="2038,13,">Ella hizo</wi>
 <wi type="G" value="2570,11,">un buen</wi>
 <wi type="G" value="2041,12,">trabajo</wi>
 <wi type="G" value="1519,14,"><wi type="G" value="1691,15,">conmigo</wi></wi>. </t>
@@ -163,13 +163,13 @@ not always have me.
 She has done what she could. She has anointed my
 body beforehand for the burying.
 <rb xml:lang="es"><wi type="G" value="846,3,">Ella</wi>
-<wi type="G" value="4160,4,">ha hecho</wi>
+<wi type="G" value="4160,4,">hizo</wi>
 <wi type="G" value="3739,1,">lo que</wi>
-<wi type="G" value="2192,2,">ha podido</wi><rf><citebib id="Peshitta"/>
+<wi type="G" value="2192,2,">pudo</wi><rf><citebib id="Peshitta"/>
 no dice `Ella ha hecho lo que ha podido.´</rf></rb>
 <t xml:lang="es">.
-<wi type="G" value="4301,5,">Se ha anticipado</wi>
-<wi type="G" value="1519,10,">para</wi>
+<wi type="G" value="4301,5,">Se anticipó</wi>
+<wi type="G" value="1519,10,">a</wi>
 <wi type="G" value="3462,6,">ungir</wi>
 <wi type="G" value="3450,7,">mi</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="4983,9,">cuerpo</wi></wi>
@@ -420,7 +420,7 @@ that man if he had not been born.»
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="3303,2,">De hecho</wi>
 <wi type="G" value="5207,3,">al Hijo</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="444,5,">del Hombre</wi></wi>
-le <wi type="G" value="5217,6,">sucede</wi>
+le <wi type="G" value="5217,6,">está sucediendo</wi>
 <wi type="G" value="2531,7,">como</wi>
 <wi type="G" value="1125,8,">está escrito</wi>
 <wi type="G" value="4012,9,">sobre</wi>
@@ -615,7 +615,7 @@ times.»
 But he spoke all the more, «If I must die with you, I will not deny
 you.» They all said the same thing.
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="3004,5,">dijó</wi>
+<wi type="G" value="3004,5,">dijo</wi>
 <wi type="G" value="3123,6,">con más</wi>
 <wi type="G" value="4053,4,">vehemencia</wi>
 «<wi type="G" value="1437,7,">Si</wi>
@@ -722,7 +722,7 @@ from me. However, not what I desire, but what you desire.»
 <wi type="G" value="3588,4,"><wi type="G" value="3962,5,">Padre</wi></wi>,
 <wi type="G" value="3956,6,">todo</wi>
 <wi type="G" value="1415,7,">es posible</wi>
-<wi type="G" value="4671,8,">para ti</wi>.
+<wi type="G" value="4671,8,">para Ti</wi>.
 <wi type="G" value="3911,9,">Aleja</wi>
 <wi type="G" value="5124,14,">esta</wi>
 <wi type="G" value="3588,10,"><wi type="G" value="4221,11,">copa</wi></wi>
@@ -812,7 +812,7 @@ and they didn´t know what to answer him.
 He came the third time, and said to them,
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="2064,2,">volvió</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="5154,4,">por tercera vez</wi> ,
+<wi type="G" value="3588,3,"/><wi type="G" value="5154,4,">por tercera vez</wi>,
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="846,7,">les</wi>
 <wi type="G" value="3004,6,">dijo</wi>, </t>
@@ -896,7 +896,7 @@ safely.»
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="520,17,">llévenlo</wi> </t>
 <rb xml:lang="es">
-<wi type="G" value="806,18,">asegurado</wi><rf>En griego se emplea `ἀσφαλῶς'
+<wi type="G" value="806,18,">bajo custodia</wi><rf>En griego se emplea `ἀσφαλῶς'
 que segùn <citebib id="Thayer-BLB"/> es seguro (para prevenir escape), <citebib id="RV1960"/> traduce `con seguridad,'
 <citebib id="NTV"/> dice `bajo custodia,'
 <citebib id="NVI"/> dice `bien asegurado.'</rf></rb>
@@ -1051,7 +1051,7 @@ light of the fire.
 <wi type="G" value="2193,8,">hasta</wi>
 <wi type="G" value="2080,9,">dentro</wi>
 <wi type="G" value="1519,10,">del</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,11,"><wi type="G" value="833,12,">palacio</wi></wi><rf><citebib id="WEB"/> dice `corte,'
+<rb xml:lang="es"><wi type="G" value="3588,11,"><wi type="G" value="833,12,">patio</wi></wi><rf><citebib id="WEB"/> dice `corte,'
 <citebib id="KJV2013"/> dice aquí `el palacio' y por ejemplo en
 Marcos 15:16 traduce la misma palabra como `sala,'
 <citebib id="RV1909"/> dice `el patio' y en 15:16 dice `sala.'
@@ -1197,13 +1197,13 @@ right hand of Power, and coming with the clouds of the sky.»
 <wi type="G" value="2532,7,"/>Y <wi type="G" value="3700,8,">verás</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="5207,10,">al Hijo</wi></wi>
 <wi type="G" value="3588,11,"><wi type="G" value="444,12,">del</wi> Hombre</wi>
-<wi type="G" value="2521,13,">sentando</wi>
+<wi type="G" value="2521,13,">sentado</wi>
 <wi type="G" value="1537,14,">a</wi>
-<wi type="G" value="1188,15,">la mano derecha</wi>
+<wi type="G" value="1188,15,">la diestra</wi>
 <wi type="G" value="3588,16,"><wi type="G" value="1411,17,">del Poder</wi></wi>,
 <wi type="G" value="2532,18,">y</wi>
 <wi type="G" value="2064,19,">viniendo</wi>
-<wi type="G" value="3326,20,">en</wi>
+<wi type="G" value="3326,20,">con</wi>
 <wi type="G" value="3588,21,"><wi type="G" value="3507,22,">las nubes</wi></wi>
 <wi type="G" value="3588,23,"><wi type="G" value="3772,24,">del cielo</wi></wi>.» </t>
 </fr></sv></cm>
@@ -1268,7 +1268,7 @@ priest came,
 <wi type="G" value="5607,2,">estaba</wi>
 <wi type="G" value="2736,8,">abajo</wi>
 <wi type="G" value="1722,5,">en</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="833,7,">el palacio</wi></wi>,
+<wi type="G" value="3588,6,"><wi type="G" value="833,7,">el patio</wi></wi>,
 cuando <wi type="G" value="2064,9,">llegó</wi>
 <wi type="G" value="1520,10,">una</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="3814,12,">de las empleadas</wi></wi>
@@ -1280,7 +1280,7 @@ said, «You were also with the Nazarene, Jesus!»
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="1492,2,">viendo</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="4074,4,">a Pedro</wi></wi>
-<wi type="G" value="2328,5,">calentádose</wi>,
+<wi type="G" value="2328,5,">calentándose</wi>,
 <wi type="G" value="846,7,">lo</wi>
 <wi type="G" value="1689,6,">miró</wi>, y
 <wi type="G" value="3004,8,">dijo</wi>,

@@ -234,23 +234,27 @@ parables,
 that `seeing they may see, and not perceive; and hearing they
 may hear, and not understand; lest perhaps they should turn again, and their
 sins should be forgiven them.´»
-<t xml:lang="es"><wi type="G" value="2443,1,">porque</wi>
+<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
 `<wi type="G" value="991,2,">viendo</wi>
-<wi type="G" value="991,3,">pueden ver</wi>,
-<wi type="G" value="2532,4,">y</wi> <wi type="G" value="3361,5,">no</wi>
-<wi type="G" value="1492,6,">percibir</wi>;
+<wi type="G" value="991,3,">vean</wi>,
+<wi type="G" value="2532,4,">pero</wi> <wi type="G" value="3361,5,">no</wi>
+<wi type="G" value="1492,6,">perciban</wi>;
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="191,8,">oyendo</wi>
-<wi type="G" value="191,9,">pueden oír</wi>,
-<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="191,9,">oigan</wi>,
+<wi type="G" value="2532,7,">pero</wi>
 <wi type="G" value="3361,11,">no</wi>
-<wi type="G" value="4920,12,">entender</wi>;
-<wi type="G" value="3379,13,">a menos que</wi>
+<wi type="G" value="4920,12,">entiendan</wi>;
+</t>
+<rb xml:lang="es"><wi type="G" value="3379,13,">no sea que</wi>
 <wi type="G" value="1994,14,">se convirtieran</wi>,
 <wi type="G" value="2532,15,">y</wi>
-sus <wi type="G" value="3588,18,"><wi type="G" value="265,19,">pecados</wi></wi>
 <wi type="G" value="846,17,">les</wi>
-<wi type="G" value="863,16,">serían perdonados</wi>.´» </t>
+<wi type="G" value="863,16,">sean perdonados</wi>
+los <wi type="G" value="3588,18,"><wi type="G" value="265,19,">pecados</wi></wi>
+<rf>Ver nota al pie
+de Mateo 13:15.</rf></rb>
+<t xml:lang="es">.´» </t>
 </fr>
 </sv></cm>
 
@@ -863,10 +867,10 @@ that even the wind and the sea obey him?»
 <wi type="G" value="3004,6,">se dijeron</wi>
 <wi type="G" value="240,8,">entre si</wi>
 <wi type="G" value="4314,7,"/>,
-«¿<wi type="G" value="5101,9,">De que</wi>
-<wi type="G" value="687,10,">forma</wi>
+«¿<wi type="G" value="687,10,">Luego</wi>
+<wi type="G" value="5101,9,">quien</wi>
 <wi type="G" value="2076,12,">es</wi>
-<wi type="G" value="3778,11,">esto</wi>
+<wi type="G" value="3778,11,">Este</wi>
 <wi type="G" value="3754,13,">que</wi>
 <wi type="G" value="2532,14,">hasta</wi>
 <wi type="G" value="3588,15,"><wi type="G" value="417,16,">el viento</wi></wi>
