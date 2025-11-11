@@ -2931,19 +2931,19 @@ he would not be a priest at all, seeing there are priests who offer the gifts
 according to the law;
 <t xml:lang="es"><wi type="G" value="1063,3,">Pues</wi>,
 <wi type="G" value="3303,2,">de hecho</wi>,
-<wi type="G" value="1487,1,">si</wi> 
-<wi type="G" value="2258,4,">estuviera</wi> 
-<wi type="G" value="1909,5,">en</wi> 
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="2258,4,">estuviera</wi>
+<wi type="G" value="1909,5,">en</wi>
 <wi type="G" value="1093,6,">la tierra</wi>
-<wi type="G" value="3761,7,">ya no</wi> 
-<wi type="G" value="302,8,"/><wi type="G" value="2258,9,">sería</wi> 
+<wi type="G" value="3761,7,">ya no</wi>
+<wi type="G" value="302,8,"/><wi type="G" value="2258,9,">sería</wi>
 <wi type="G" value="2409,10,">sacerdote</wi>,
-<wi type="G" value="5607,11,">habiendo</wi> 
-<wi type="G" value="3588,12,"><wi type="G" value="2409,13,">sacerdotes</wi></wi> 
+<wi type="G" value="5607,11,">habiendo</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2409,13,">sacerdotes</wi></wi>
 <wi type="G" value="3588,14,">que</wi>
-<wi type="G" value="4374,15,">ofrecen</wi> 
-<wi type="G" value="3588,19,"><wi type="G" value="1435,20,">presentes</wi></wi> 
-<wi type="G" value="2596,16,">de acuerdo</wi> 
+<wi type="G" value="4374,15,">ofrecen</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="1435,20,">presentes</wi></wi>
+<wi type="G" value="2596,16,">de acuerdo</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="3551,18,">a la ley</wi></wi>;
 </t>
 </sv>
@@ -2952,6 +2952,30 @@ who serve a copy and shadow of the heavenly
 things, even as Moses was warned by God when he was about to make the
 tabernacle, for he said, «See, you shall make everything according to the
 pattern that was shown to you on the mountain.»
+<t xml:lang="es"><wi type="G" value="3748,1,">que</wi>
+<wi type="G" value="3000,5,">sirven</wi>
+<wi type="G" value="5262,2,">de ejemplo</wi>
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="4639,4,">sombra</wi>
+<wi type="G" value="3588,6,">de las cosas</wi>
+<wi type="G" value="2032,7,">celestial</wi>,
+<wi type="G" value="2531,8,">así como</wi>
+<wi type="G" value="3475,10,">Moisés</wi>
+<wi type="G" value="5537,9,">fue advertido por Dios</wi>
+<wi type="G" value="3195,11,">cuando iba</wi>
+<wi type="G" value="2005,12,">construir</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="4633,14,">el tabernáculo</wi></wi>,
+<wi type="G" value="1063,16,">pues</wi>,
+<wi type="G" value="5346,17,">dijo</wi>,
+«<wi type="G" value="3708,15,">Mira</wi>, <wi type="G" value="4160,18,">debes hacer</wi>
+<wi type="G" value="3956,19,">todo</wi>
+<wi type="G" value="2596,20,">de acuerdo</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="5179,22,">al patrón</wi></wi> que
+<wi type="G" value="4671,25,">se te</wi>
+<wi type="G" value="3588,23,"/><wi type="G" value="1166,24,">mostró</wi>
+<wi type="G" value="1722,26,">en</wi>
+<wi type="G" value="3588,27,"><wi type="G" value="3735,28,">el monte</wi></wi>.»
+</t>
 </sv>
 <sv id="Hebreos-8-6">
 But now he has obtained
