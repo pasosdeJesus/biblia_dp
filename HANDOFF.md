@@ -82,7 +82,7 @@ fidelidad respecto al Textus Receptus.
     ortográficas, de puntuación y formato.
 - **Juan** - diversas correcciones ortográficas y gramaticales (incluso tiempos
   verbales para concordar más con el Textus Receptus)
-- **Mateo** - por hacer
+- **Mateo** - Completado
 - **Hechos** - por hacer
 - **Lucas** - por hacer
 - **Hebreos** - por completar traducción manual antes
