@@ -3017,12 +3017,39 @@ second.
 </sv>
 <sv id="Hebreos-8-8">
 For finding fault with them, he said,
-
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3201,1,">al encontrar falta</wi> en
+<wi type="G" value="846,3,">ellos</wi><rf>
+<citebib id="WEB"/> dice `al encontrar falta en ellos,´
+<citebib id="RVG2012"/> dice `reprendiéndolos.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`μεμφομενος´ se traduce como culpar, encontrar faltas.
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="3004,4,">dijo</wi>,</t>
 <cl/><fp>
 «Behold, the days come,» says the Lord,
+<t xml:lang="es">«<wi type="G" value="2400,5,">Observen</wi>,
+<wi type="G" value="2250,6,">los días</wi>
+<wi type="G" value="2064,7,">vienen</wi>,
+<wi type="G" value="3004,8,">dice</wi>
+<wi type="G" value="2962,9,">el Señor</wi>,</t>
 <cl/>
 «That I will make a new covenant with the house of Israel and with the house
 of Judah;
+<t xml:lang="es">
+«<wi type="G" value="2532,10,">Cuando</wi>
+<wi type="G" value="4931,11,">haré</wi>
+<wi type="G" value="1242,21,">un pacto</wi>
+<wi type="G" value="2537,22,">nuevo</wi>
+<wi type="G" value="1909,12,">con</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="3624,14,">la casa</wi></wi>
+<wi type="G" value="2474,15,">de Israel</wi>
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="1909,17,">con</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="3624,19,">la casa</wi></wi>
+<wi type="G" value="2448,20,">de Judá</wi>;
+</t>
 </fp>
 </sv></cm><cm type="PO">
 

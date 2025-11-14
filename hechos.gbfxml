@@ -812,9 +812,10 @@ one sat on each of them.
 <wi type="G" value="3700,2,">aparecieron</wi>
 <wi type="G" value="1100,5,">lenguas</wi> </t>
 <rb xml:lang="es"><wi type="G" value="1266,4,">repartidas</wi><rf>
-<citebib id="WEB"/> no dice `repartidas,´ la palabra la incluye
-<citebib id="RV1960"/>, <citebib id="KJV2003"/> dice `bifurcadas,´ o
-`divididas´ proveniente de la palabra griega `διαμερίζω´ de <citebib id="TR"/></rf></rb>
+<citebib id="WEB"/> dice `aparecieron,´
+<citebib id="RV1960"/> dice `repartidas,´
+<citebib id="KJV2003"/> dice `bifurcadas,´ o `divididas´ 
+proveniente de la palabra griega `διαμερίζω´ de <citebib id="TR"/></rf></rb>
 <t xml:lang="es">
 <wi type="G" value="5616,6,">como de</wi>
 <wi type="G" value="4442,7,">fuego</wi>
@@ -869,19 +870,15 @@ When this sound was heard, the multitude came
 together, and were bewildered, because everyone heard them speaking in his
 own language.
 <t xml:lang="es"><wi type="G" value="1161,2,"/><wi type="G" value="1096,1,">Cuando se escuchó</wi>
-<wi type="G" value="3588,3,"/>
-<wi type="G" value="3778,5,">este</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="3778,5,">este</wi>
 <wi type="G" value="5456,4,">sonido</wi>,
 <wi type="G" value="4128,8,">la multitud</wi>
-<wi type="G" value="4905,6,">llegó</wi>,
-<wi type="G" value="3588,7,"/>
-<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="4905,6,">se reunió</wi>,
+<wi type="G" value="3588,7,"/><wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="4797,10,">quedó perpleja</wi>,
 <wi type="G" value="3754,11,">pues</wi>
 <wi type="G" value="1538,14,">cada uno </wi>
-<wi type="G" value="3588,15,"/>
-<wi type="G" value="1520,13,"/>
-<wi type="G" value="846,19,">los</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="1520,13,"/><wi type="G" value="846,19,">los</wi>
 <wi type="G" value="191,12,">escuchó</wi>
 <wi type="G" value="2980,18,">hablar</wi>
 <wi type="G" value="2398,16,">en su propia</wi>
@@ -1041,7 +1038,7 @@ let this be known to you, and listen to my words.
 <wi type="G" value="5456,9,">voz</wi>,
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="846,13,">les</wi>
-<wi type="G" value="669,12,">habló</wi>,
+<wi type="G" value="669,12,">dijo</wi>,
 «<wi type="G" value="435,14,">Ustedes hombres</wi>
 <wi type="G" value="2453,15,">de Judea</wi>,
 <wi type="G" value="2532,16,">y</wi>
@@ -1276,13 +1273,11 @@ midst of you, even as you yourselves know,
 <wi type="G" value="5209,16,">ustedes</wi>
 <wi type="GC" value="14">por</wi>
 <wi type="G" value="1411,17,">los milagros</wi>,
-<wi type="G" value="2532,18,"/>
-<wi type="G" value="5059,19,">maravillas</wi>
+<wi type="G" value="2532,18,"/><wi type="G" value="5059,19,">maravillas</wi>
 <wi type="G" value="2532,20,">y</wi>
 <wi type="G" value="4592,21,">señales</wi>
 <wi type="G" value="3739,22,">que</wi>
-<wi type="G" value="3588,26,"/>
-<wi type="G" value="2316,27,">Dios</wi>
+<wi type="G" value="3588,26,"/><wi type="G" value="2316,27,">Dios</wi>
 <wi type="G" value="4160,23,">hizo</wi>
 <wi type="G" value="1223,24,">mediante</wi>
 <wi type="G" value="846,25,">Él</wi>
@@ -1297,24 +1292,24 @@ como <wi type="G" value="846,33,">ustedes mismos</wi>
 him, being delivered up by the determined counsel and foreknowledge of
 God, you have taken by the hand of lawless men,
 crucified and killed;
-<rb xml:lang="es"><wi type="G" value="1560,9,"><wi type="G" value="5126,1,">entregado</wi></wi>
-con <wi type="G" value="1012,4,">propósito</wi>
-<wi type="G" value="3588,2,"/>
-<wi type="G" value="3724,3,">determinado</wi>
+<rb xml:lang="es"><wi type="G" value="5126,1,">a este</wi>
+<wi type="G" value="1560,9,">lo entregaron</wi>
+con <wi type="G" value="1012,4,">un propósito</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="3724,3,">determinado</wi>
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="4268,6,">ya conocido</wi>
-<wi type="G" value="3588,7,"/>
-<wi type="G" value="2316,8,">de Dios</wi>,
-ustedes lo <wi type="G" value="2983,10,">tomaron</wi><rf><citebib id="WEB"/>
-dice
-`que fue entregado por un determinado concejo que ya conocía de Dios,´
+<wi type="G" value="4268,6,">previamente conocido</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="2316,8,">de Dios</wi>;
+lo <wi type="G" value="2983,10,">tomaron</wi><rf>
+<citebib id="WEB"/> dice `que fue entregado por un determinado concejo 
+que ya conocía de Dios,´ 
 <citebib id="KJV2003"/> dice `Él siendo entregado por un determinado concejo
-y previo conocimiento de Dios, lo han tomado,´ <citebib id="DieBibel"/>
-dice `voluntad´ en lugar de `concejo,´ según <citebib id="Thayer-BLB"/>
-la palabra griega `βουλή´ es concejo o propósito</rf></rb>
-<t xml:lang="es">, <wi type="G" value="1223,11,">y por</wi>
+y previo conocimiento de Dios, lo han tomado,´ 
+<citebib id="DieBibel"/> dice `voluntad´ en lugar de `concejo,´ 
+según <citebib id="Thayer-BLB"/> la palabra griega `βουλή´ es concejo 
+o propósito</rf></rb>
+<t xml:lang="es">, <wi type="G" value="1223,11,">por</wi>
 <wi type="G" value="5495,12,">manos</wi>
-<wi type="G" value="459,13,">sin ley</wi>
+<wi type="G" value="459,13,">de inicuos</wi>,
 <wi type="G" value="4362,14,">lo crucificaron</wi> y
 <wi type="G" value="337,15,">lo mataron</wi>; </t>
 </sv>
@@ -1324,8 +1319,8 @@ because it was not possible that he should be held by it.
 <t xml:lang="es"><wi type="G" value="3739,1,">a quien</wi>
 <wi type="G" value="3588,2,"/>
 <wi type="G" value="2316,3,">Dios</wi>
-<wi type="G" value="450,4,">ha resucitado</wi>, lo
-<wi type="G" value="3089,5,">ha liberado</wi>
+<wi type="G" value="450,4,">resucitó</wi>, lo
+<wi type="G" value="3089,5,">libró</wi>
 <wi type="G" value="3588,6,"/>
 <wi type="G" value="5604,7,">de los dolores</wi>
 <wi type="G" value="3588,8,"/>
@@ -1553,8 +1548,8 @@ Being therefore exalted by the right hand of God, and having received
 from the Father the promise of the Holy Spirit, he has poured out this, which
 you now see and hear.
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="3767,3,">Por tanto</wi>
-<wi type="G" value="5312,6,">siendo exaltado</wi>
-<wi type="G" value="1188,2,">por la mano derecha</wi>
+<wi type="G" value="5312,6,">habiendo sido exaltado</wi>
+<wi type="G" value="1188,2,">por la diestra</wi>
 <wi type="G" value="3588,4,"/>
 <wi type="G" value="2316,5,">de Dios</wi>
 <wi type="G" value="3588,7,"/>
@@ -1829,13 +1824,11 @@ All who believed were together, and had all things in common.
 They sold their possessions and goods, and distributed them to
 all, according as anyone had need.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="4097,7,">Vendieron sus</wi>
-<wi type="G" value="3588,2,"/>
-<wi type="G" value="2933,3,">posesiones</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="2933,3,">posesiones</wi>
 <wi type="G" value="2532,4,">y</wi>
-<wi type="G" value="3588,5,"/>
-<wi type="G" value="5223,6,">bienes</wi>,
+<wi type="G" value="3588,5,"/><wi type="G" value="5223,6,">bienes</wi>,
 <wi type="G" value="2532,8,">y</wi>
-<wi type="G" value="846,10,">las</wi>
+<wi type="G" value="846,10,">los</wi>
 <wi type="G" value="1266,9,">distribuyeron</wi>
 <wi type="G" value="3956,11,">entre todos</wi>,
 <wi type="G" value="2530,12,">de acuerdo a</wi>
@@ -1890,8 +1883,8 @@ en <citebib id="NU"/>, pero si en <citebib id="TR-BLB"/> y en
 <wi type="G" value="2250,18,">día a día</wi>
 <wi type="G" value="3588,19,"/>
 <wi type="G" value="3588,15,">a aquellos</wi>  </t>
-<rb xml:lang="es"><wi type="G" value="2596,17,">que</wi> estaban
-siendo <wi type="G" value="4982,16,">salvados</wi><rf><citebib id="WEB"/> dice
+<rb xml:lang="es"><wi type="G" value="2596,17,">que</wi>
+<wi type="G" value="4982,16,">debían ser salvos</wi><rf><citebib id="WEB"/> dice
 `que estaban siendo salvados,´ <citebib id="KJV2003"/>
 dice `los que debían ser salvos.´ Según <citebib id="BLB-TR"/> el verbo
 en griego `σῴζω´ está conjugado en presente, pasivo y participio. </rf></rb>
@@ -1907,7 +1900,7 @@ Peter and John were going up into the temple at the hour of prayer,
 <wi type="G" value="846,3,"/>
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="2491,7,">Juan</wi>
-<wi type="G" value="305,8,">iban</wi>
+<wi type="G" value="305,8,">subían</wi>
 <wi type="G" value="1909,1,">juntos</wi>
 <wi type="G" value="3588,2,"/>
 <wi type="G" value="1519,9,">al</wi>
@@ -1921,7 +1914,7 @@ Peter and John were going up into the temple at the hour of prayer,
 <wi type="G" value="3588,17,"/>
 </t>
 <rb>the ninth hour<t xml:lang="es">
-<wi type="G" value="1766,18,">la novena</wi> hora</t>
+era <wi type="G" value="1766,18,">la novena</wi> hora</t>
 <rf>3:00 P.M.<t xml:lang="es">3:00 P.M.</t></rf>
 </rb>
 .
@@ -1934,13 +1927,13 @@ temple which is called Beautiful, to ask gifts for the needy of those who
 entered into the temple.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="5100,2,">Cierto</wi>
 <wi type="G" value="435,3,">hombre</wi>
-<wi type="G" value="5560,4,">que era incapacitado</wi>
+<wi type="G" value="5560,4,">que era cojo</wi>
 <wi type="G" value="1537,5,">desde</wi>
 <wi type="G" value="2836,6,">el vientre</wi> de
 <wi type="G" value="846,8,">su</wi>
 <wi type="G" value="5225,9,"/>
 <wi type="G" value="3384,7,">madre</wi>,
-<wi type="G" value="941,10,">estaba siendo cargado</wi>, pues
+<wi type="G" value="941,10,">era cargado</wi>, pues
 <wi type="G" value="3739,11,">lo</wi>
 <wi type="G" value="5087,12,">dejaban</wi>
 <wi type="G" value="2250,14,">a diario</wi> <wi type="G" value="2596,13,"/>
@@ -2050,7 +2043,7 @@ raised him up. Immediately his feet and his ankle bones received strength.
 <wi type="G" value="4084,2,">tomó</wi>
 <wi type="G" value="5495,6,">de la mano</wi>
 <wi type="G" value="3588,4,"/>
-<wi type="G" value="1188,5,">derecha</wi>,
+<wi type="G" value="1188,5,">derecha</wi>
 <wi type="G" value="2532,1,">y</wi> lo
 <wi type="G" value="1453,7,">levantó</wi>.
 <wi type="G" value="1161,9,"/>
@@ -2086,7 +2079,8 @@ temple, walking, leaping, and praising God.
 </sv>
 <sv id="Hechos-3-9">
 All the people saw him walking and praising God.
-<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3956,4,">Toda</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3956,4,">toda</wi>
 <wi type="G" value="3588,5,"/>
 <wi type="G" value="2992,6,">la gente</wi>
 <wi type="G" value="846,3,">lo</wi>
@@ -2135,7 +2129,7 @@ wondering.
 <wi type="G" value="5560,5,">el incapacitado</wi>
 <wi type="G" value="3588,3,"/>
 <wi type="G" value="2390,4,">que fue sanado</wi>
-<wi type="G" value="2902,1,">se mantenía</wi> con
+<wi type="G" value="2902,1,">se quedó</wi> con
 <wi type="G" value="3588,6,"/>
 <wi type="G" value="4074,7,">Pedro</wi>
 <wi type="G" value="2532,8,">y</wi>
