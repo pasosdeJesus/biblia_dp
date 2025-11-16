@@ -1,26 +1,26 @@
-Inglés	Español	Alemán
+InglÃ©s	EspaÃ±ol	AlemÃ¡n
 Abiathar Abiatar
 Abijah	Abias	Abija
 Achaia	Acaya
 Adramyttium	Adrumentio
 Agrippa	Agripa
-Akeldama	Acéldama	Hakeldamach
+Akeldama	AcÃ©ldama	Hakeldamach
 Asa	Asa	Asa
 Abiud	Abiud	Abihud
 Abraham  Abraham
 Achim	Aquim	Achim
-Akeldama	Acéldama	Hakeldamach
+Akeldama	AcÃ©ldama	Hakeldamach
 Alexander	Alejandro
 Alpheus Alfeo
 Ahaz	Acaz	Ahas
 Amminadab	Aminadab	Amminadab
-Amon	Amón	Amos
-Amphipolis	Anfípolis
+Amon	AmÃ³n	Amos
+Amphipolis	AnfÃ­polis
 Ananias	Ananias	 Hananias
-Andrew	Andrés
+Andrew	AndrÃ©s
 Aneas	Eneas
-Antioch	Antioquía
-Antipatris	Antípatris
+Antioch	AntioquÃ­a
+Antipatris	AntÃ­patris
 Apollonia	Apolonia
 Apollos	Apolos
 Appius	Apio
@@ -28,30 +28,30 @@ Aquila	Aquila
 Archelaus	Arquelao	Archelaus
 Aristarchus	Aristarco
 Attalia	Atalia
-Assos	Asón
-Asyncritus	Asíncrito
+Assos	AsÃ³n
+Asyncritus	AsÃ­ncrito
 Azor	Azor	Azor
 Azotus	Azoto
-Barabbas	Barrabás
-Barachiah	Berequías
-Barnabas	Bernabé
-Barssabas	Barsabás	Barsabbas
-Bartholomew Bartolomé
+Barabbas	BarrabÃ¡s
+Barachiah	BerequÃ­as
+Barnabas	BernabÃ©
+Barssabas	BarsabÃ¡s	Barsabbas
+Bartholomew BartolomÃ©
 Berenice	Berenice
 Beroea		Berea
 Bethesda	...	Betesda
 Bethsaida 	Betsaida
-Bethsphage 	Betfagé
+Bethsphage 	BetfagÃ©
 Blastus	Blasto
 Boaz	Booz	Boas
 Caesarea	Cesarea
-Caiaphas	Caifás
-Cana	Caná	Kana
+Caiaphas	CaifÃ¡s
+Cana	CanÃ¡	Kana
 Capernaum	Capernaum	Kafarnaum
 Cenchreae	
 Cephas	Cefas
-Chios	Quío
-Chorazin	Corazín
+Chios	QuÃ­o
+Chorazin	CorazÃ­n
 Cicilia	Cicilia
 Cilicia	Cilicia
 Claudius	Claudio
@@ -66,23 +66,23 @@ Demetrius	Demetrio
 Drusilla	Drusila
 Eleazar	Eleazar	Eleasar
 Eliakim	Eliaquim	Eljakim
-Elijah	Elías
+Elijah	ElÃ­as
 Eliud	Eliud	Eliud
 Elisha  Eliseo
 Ephesus Efeso
-Ephraim	Efraín
+Ephraim	EfraÃ­n
 Erastus Erasto
 Euroclydon	Euroaquilo
 Euthycus	Eutico
-Felix	Félix
-Gadarenes (deutsch y español Gerasa)
+Felix	FÃ©lix
+Gadarenes (deutsch y espaÃ±ol Gerasa)
 Gaius	Gayo
 Galatia	Galacia
-Gallio	Galión
+Gallio	GaliÃ³n
 Gennesaret	Genesaret
-Gergesenes  Gadara (deutsch y español)
+Gergesenes  Gadara (deutsch y espaÃ±ol)
 Golgotha	Golgota
-Haran	Harán	Haran
+Haran	HarÃ¡n	Haran
 Hermes	Hermes
 Hezekiah	Ezequias	Hiskija
 Hezron	Esrom	Hezron
@@ -90,11 +90,11 @@ Immanuel	Emmanuel
 Jacob	Jacob	Jakob
 Jairus 	Jairo
 James	Santiago - esv dice en hechos 12,2 Jacobo
-Jason	Jasón
-Jechoniah	Jeconías	Jojachin
+Jason	JasÃ³n
+Jechoniah	JeconÃ­as	Jojachin
 Jehoshaphat	Josafat	Joschafat
-Jericho	Jericó
-Jesse	Jessé 	Isai
+Jericho	JericÃ³
+Jesse	JessÃ© 	Isai
 Joshua	Josue	Josua
 Joanna	Juana
 John	Juan
@@ -102,41 +102,41 @@ Jonah	Juan 	Johannes
 Joppa	Jope
 Joram	Joram	Joram
 Jotham	Jotam	Jotam
-Joseph	José	Josef
-Josiah	Josías	Joschija
-Judah	Judá	Juda
+Joseph	JosÃ©	Josef
+Josiah	JosÃ­as	Joschija
+Judah	JudÃ¡	Juda
 Justus	Justo	Justus
-Kidron	Cedrón	Kidron
+Kidron	CedrÃ³n	Kidron
 Kish	Cis
-Isaiah Isaías 	Jesaja
+Isaiah IsaÃ­as 	Jesaja
 Lasea	Lasea
 Lucius	Lucio
 Lydda	Lida
 Lysias	Lisias
 Lukas	Lucas
 Malchus	Malco
-Manasseh	Manasés	Manasse
-Magdala	Magadán	Magadan
+Manasseh	ManasÃ©s	Manasse
+Magdala	MagadÃ¡n	Magadan
 Markus	Marcos
 Martha	Marta
 Mary	Maria
 Mary Magdalene 	Maria Magdalena
-Matthan	Matán	Matan
+Matthan	MatÃ¡n	Matan
 Matthew	Mateo
 Matthias	Matias	Matthias
-Midian	Madián
+Midian	MadiÃ¡n
 Miletus	Mileto
 Mitylene	Mitilene
 Mnason	Mnason
-Moses  Moisés 
-Nahshon	Naasón	Nachschon
-Naphtali	Neftalí	Naftali
+Moses  MoisÃ©s 
+Nahshon	NaasÃ³n	Nachschon
+Naphtali	NeftalÃ­	Naftali
 Nazareth Nazaret
-Neapolis	Neápolis
+Neapolis	NeÃ¡polis
 Nineveh	Ninive
-Noah	Noé
+Noah	NoÃ©
 Panphylia	Panfilia
-Patara	Pátara
+Patara	PÃ¡tara
 Patrobas	Patrobas
 Paulus	Paulo	Paulus
 Perez	Fares	Perez
@@ -152,7 +152,7 @@ Publius	Publio
 Puteoli	Puteoli
 Quartus	Cuarto
 Ram	Aram	Aram
-Ramah	Ramá	Rama
+Ramah	RamÃ¡	Rama
 Regium	Regio
 Rehoboam	Roboam	Rehabeam
 Rhoda	Rode
@@ -160,34 +160,34 @@ Rhodes	Rodas
 Ruth	Rut	Rut
 Sadoc	Sadoc	Zadok
 Salamis	Salamina	Salamis
-Salmon	Salmón	Salmon
-Salmone	Salmón
+Salmon	SalmÃ³n	Salmon
+Salmone	SalmÃ³n
 Samos	Samos
 Samothrace	Samotracia
 Sceva	Esceva
 Secundus	Segundo
 Sergius	Sergio	Sergius
-Sharon	Sarón
-Shealtiel	Salatiel	Schealtiël
-Sidon	Sidón
-Siloam	Siloé	Schiloach
-Simon	Simón
+Sharon	SarÃ³n
+Shealtiel	Salatiel	SchealtiÃ«l
+Sidon	SidÃ³n
+Siloam	SiloÃ©	Schiloach
+Simon	SimÃ³n
 Syrtis	Sirte
 Sodom	Sodoma
-Solomon	Salomón	Salomo
-Sopater	Sópater
-Sosipater	Sosípater
-Sosthenes	Sóstenes
+Solomon	SalomÃ³n	Salomo
+Sopater	SÃ³pater
+Sosipater	SosÃ­pater
+Sosthenes	SÃ³stenes
 Sychar	Sicar
 Syria	Siria
 Tarsus	Tarso
 Tertius	Tercio
-Tertullus	Tértulo
+Tertullus	TÃ©rtulo
 Theudas	Teudas	Theudas
 Thomas	Tomas
-Ticus	Tíquico
+Ticus	TÃ­quico
 Troggyllium	Trogilio
-Trophimus	Trófimo
+Trophimus	TrÃ³fimo
 Tyre	Tiro
 Uriah	Urias	Urija
 Uzziah	Uzias	Usija
@@ -195,7 +195,7 @@ Zerah	Zara	Serach
 Zacchaeus	Zaqueo
 Zacharias	Zacarias
 Zarephath	Sarepta
-Zebedee	Zebedeo Zebedäus
-Zebulun	Zabulón	Sebulon
+Zebedee	Zebedeo ZebedÃ¤us
+Zebulun	ZabulÃ³n	Sebulon
 Zerubbabel	Zerobabel	Serubbabel
-Zion	Sión
+Zion	SiÃ³n

@@ -34,7 +34,7 @@
 	     </pp>
      </cm>
 
-     Debería quedar
+     DeberÃ­a quedar
      <cm>
 	     <sv x>
 		     ...

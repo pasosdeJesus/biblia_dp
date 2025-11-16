@@ -50,9 +50,9 @@ function remspace(str) {
 	br=1;
 }
 
-/\^?[0-9]+[«A-Za-záéíóúÁÉÍÓÚñÑÜü¿¡(`_]/  {
+/\^?[0-9]+[Â«A-Za-zÃ¡Ã©Ã­Ã³ÃºÃÃ‰ÃÃ“ÃšÃ±Ã‘ÃœÃ¼Â¿Â¡(`_]/  {
 	while (substr($0,1,6)!="501(c)" && 
-		match($0,/\^?[0-9]+[«A-Za-záéíóúÁÉÍÓÚñÑÜü¿¡(`_]/)!=0) {
+		match($0,/\^?[0-9]+[Â«A-Za-zÃ¡Ã©Ã­Ã³ÃºÃÃ‰ÃÃ“ÃšÃ±Ã‘ÃœÃ¼Â¿Â¡(`_]/)!=0) {
 		p=str_to($0,RSTART);
 		num=substr($0,RSTART,RLENGTH-1);
 		n=remspace(str_from($0,RSTART+RLENGTH-1));
@@ -66,7 +66,7 @@ function remspace(str) {
 #exit 1;
 		print remspace(p);
 		if (int(num)!=int(lver)+1) {
-			print FILENAME ":" FNR ": Versículo errado" > "/dev/stderr";
+			print FILENAME ":" FNR ": VersÃ­culo errado" > "/dev/stderr";
 			error=1;
 		}
 		lver=int(num);		

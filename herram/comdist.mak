@@ -1,22 +1,22 @@
-# Reglas comunes para crear distribución de fuentes y publicar.  
+# Reglas comunes para crear distribuciÃ³n de fuentes y publicar.  
 # Para incluir en Makefile.
-# Dominio público. Sin garantías. structio-info@lists.sourceforge.net
+# Dominio pÃºblico. Sin garantÃ­as. structio-info@lists.sourceforge.net
 
 # Variables requeridas (fuera de otras con programas) 
 
 # PROYECTO nombre corto del proyecto 
 # PRY_VERSION version
 # ACT_PROC regla para actualizar, las disponibles en este script son act-scp y act-ncftpput
-# GENDIST Reglas por iniciar anates de generar distribución (e.g Derechos.txt)
-# LIMPIADIST2 Reglas para ejecutar después de haber limpiado directorio (para limpiar otros archivos que no deben incluirse en fuentes distribuidas).
-# USER, ACTHOST and ACTDIR Usuario, máquina y directorio en Internet para actualizar
+# GENDIST Reglas por iniciar anates de generar distribuciÃ³n (e.g Derechos.txt)
+# LIMPIADIST2 Reglas para ejecutar despuÃ©s de haber limpiado directorio (para limpiar otros archivos que no deben incluirse en fuentes distribuidas).
+# USER, ACTHOST and ACTDIR Usuario, mÃ¡quina y directorio en Internet para actualizar
 # GENACT Reglas por iniciar antes de actualizar sitio en Internet (e.g index.html)
 # FILESACT Archivos por transmitir a ACTHOST:ACTDIR
 
 
 # Reglas requeridas en el Makefile:
 # limpiadist 	Que debe limpiar todo excepto los archivos que deben ir
-# 		en una distribución de fuentes.
+# 		en una distribuciÃ³n de fuentes.
 
 
 distcvs:

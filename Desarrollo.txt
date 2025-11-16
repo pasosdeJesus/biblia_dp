@@ -2,27 +2,27 @@
 Ayudas para traducir, comparar y desarrollar
 --------------------------------------------
 
-Primero pidamÛsle a Dios que nos ilumine con su Santo EspÌritu para
-que hagamos sÛlo cosas acordes a la voluntad de …l.
+Primero pidam√≥sle a Dios que nos ilumine con su Santo Esp√≠ritu para
+que hagamos s√≥lo cosas acordes a la voluntad de √âl.
 
-Si desea comunicarse con otras personas que est·n ayudando a traducir,
+Si desea comunicarse con otras personas que est√°n ayudando a traducir,
 comparar y desarrollar, lo invitamos cordialmente a unirse a la lista
 evangelios-dp@yahoogroups.com por ejemplo desde:
 http://groups.yahoo.com/group/evangelios-dp/
 
-TÈcnicamente estas fuentes est·n en formato GBF XML[1] el cual es 
+T√©cnicamente estas fuentes est√°n en formato GBF XML[1] el cual es 
 apropiado para mantener simultaneamente traducciones de la Biblia.  
-La extensiÛn sugerida es "gbfxml" (ver gbfxml.dtd).
+La extensi√≥n sugerida es "gbfxml" (ver gbfxml.dtd).
 
-Puede ver m·s sobre los formatos y herramientas empleadas en
+Puede ver m√°s sobre los formatos y herramientas empleadas en
 formatos.txt 
 
 [1] El formato GBF XML se basa en el formato GBF de Michael Johnson 
 	(http://ebible.org/bible/gbf.htm)
 
-1. INICIO DE UNA TRADUCCI”N
+1. INICIO DE UNA TRADUCCI√ìN
 
-Extraer libro que se traduce de la biblia en inglÈs convertida a GBF XML:
+Extraer libro que se traduce de la biblia en ingl√©s convertida a GBF XML:
 (web-corr.gbfxml). Desde sistemas tipo Unix para agregar <t lang="es"></t> 
 al libro extraido (digamos si se ha puesto en hechos.gbfxml):
 
@@ -30,12 +30,12 @@ al libro extraido (digamos si se ha puesto en hechos.gbfxml):
 	awk -f herram/adcionat.awk hechos.gbfxml.bak > hechos.gbfxml
 
 
-2. EDICI”N
+2. EDICI√ìN
 
 Para editar un archivo gbfxml puede emplear cualquier editor de texto.
 Hay un modo para vim (herram/vim/ftplugin/gbfxml.vim) y un archivo 
 para colorear de acuerdo a sintaxis (herram/vim/ftplugin/gbfxml.vim) que 
-puede usar asÌ:
+puede usar as√≠:
  1. Agregue a ~/.vim/filetype.vim
 
 	" Formato Biblia en XML GBFXML
@@ -51,8 +51,8 @@ puede usar asÌ:
 
 
 Empleando este modo, al teclear el comienzo de una marquilla esta
-se autocompletar· autom·ticamente.  Por ejemplo si digita <t autom·ticamente
-se completar·: <t lang="es"></t>
+se autocompletar√° autom√°ticamente.  Por ejemplo si digita <t autom√°ticamente
+se completar√°: <t lang="es"></t>
 Las completaciones disponibles son:
 ---
 * '<c' genera '<citebib id=""/>'
@@ -63,27 +63,27 @@ Las completaciones disponibles son:
 
 3. DICCIONARIOS 
 
-Adem·s de los diccionarios impresos o con derechos de reproducciÛn restrictivos
+Adem√°s de los diccionarios impresos o con derechos de reproducci√≥n restrictivos
 a los que tenga acceso, entre otros diccionarios con derechos generosos
 puede usar:
 
-El programa dict y los diccionarios preparados para este (inglÈs-inglÈs),
-despuÈs de descargarlos e instalarlos en su computador (o si tiene
-conexiÛn a internet puede instalar sÛlo cliente para consultar diccionarios
+El programa dict y los diccionarios preparados para este (ingl√©s-ingl√©s),
+despu√©s de descargarlos e instalarlos en su computador (o si tiene
+conexi√≥n a internet puede instalar s√≥lo cliente para consultar diccionarios
 disponibles en Internet): http://www.dict.org/
 
 Diccionarios disponibles en Internet como 
-	- inglÈs-inglÈs http://www.dictionary.com
-	- inglÈs-espaÒol http://www.wordreference.com/es/
-	- aleman-inglÈs http://dict.leo.org/
+	- ingl√©s-ingl√©s http://www.dictionary.com
+	- ingl√©s-espa√±ol http://www.wordreference.com/es/
+	- aleman-ingl√©s http://dict.leo.org/
 
 
 
 4. COMPARACIONES CON OTRAS TRADUCCIONES 
 
-Adem·s de las biblias impresas o con derechos de reproducciÛn restrictivos
+Adem√°s de las biblias impresas o con derechos de reproducci√≥n restrictivos
 a las que tenga acceso, entre otras traducciones de la biblia con
-derechos generosos puede usar algunas de las citadas en la bibliografÌa 
+derechos generosos puede usar algunas de las citadas en la bibliograf√≠a 
 (i.e archivo biblio.gbxml).
 
 

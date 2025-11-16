@@ -1,5 +1,5 @@
 
-GENERACIÓN DE PDF, POSTSCRIPT Y HTML 
+GENERACIÃ“N DE PDF, POSTSCRIPT Y HTML 
 
 Antes de intentar generar documentos configure estas fuentes de acuerdo
 a las herramientas que tenga con:
@@ -9,13 +9,13 @@ a las herramientas que tenga con:
 Este script le indicara programas que se requieren, si alguno llega a 
 hacer falta.
 
-Una vez complete la configuración puede generar HTML, PostScript y PDF con:
+Una vez complete la configuraciÃ³n puede generar HTML, PostScript y PDF con:
 
 	make
 
 con lo que quedan:
 
-Página HTML			html/biblia_dp.html
+PÃ¡gina HTML			html/biblia_dp.html
 PostScript			imp/biblia_dp.ps
 PDF				imp/biblia_dp.pdf
 
@@ -29,7 +29,7 @@ Puede generar cada uno con:
 Puede instalar los archivos generados con:
 	make instala
 
-Vea detalles de los derechos de reproducción (dominio público) en el archivo 
+Vea detalles de los derechos de reproducciÃ³n (dominio pÃºblico) en el archivo 
 Derechos.txt
 
 Si desea colaborar traduciendo o desarrollando por favor consulte el archivo

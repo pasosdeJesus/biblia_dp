@@ -6,15 +6,15 @@
 Monedas [1]
 
 Lepton 		1/128 de denario  
-	Comentario de WEB a Lucas 12-59.  Les digo na saldrán de ahí por
-	medio alguno, hasta que hayan pagado hasta el último lepton.
+	Comentario de WEB a Lucas 12-59.  Les digo na saldrÃ¡n de ahÃ­ por
+	medio alguno, hasta que hayan pagado hasta el Ãºltimo lepton.
 	Es de cobre y zinc. Su valor es medio cuadrante romano.
 Cuadrante	1/64 de denario
 Asarion		1/16 de denario
-	Lucas-12-6: ¿No son cinco gorriones vendidos por dos
+	Lucas-12-6: Â¿No son cinco gorriones vendidos por dos
 		monedas asarion?
-	Asarion era un pequeña moneda de cobre que 
-        equivalía aproximadamente a una hora de pago por el trabajo de un 
+	Asarion era un pequeÃ±a moneda de cobre que 
+        equivalÃ­a aproximadamente a una hora de pago por el trabajo de un 
         agricultor (web)
 Dracma		~1 denario
 Denario		Jornal de un obrero
@@ -51,13 +51,13 @@ Bushel = saco
 
 Tiempo:
 
-Tal vez los judios?  contaban tiempo también en horas de 60 minutos, pero
+Tal vez los judios?  contaban tiempo tambiÃ©n en horas de 60 minutos, pero
 la hora cero era a las 6AM (salida del sol).  Ver Lc-23-44
 
 
 Distancia:
 
-60 estadios ~11 kilómetros ~7 millas
+60 estadios ~11 kilÃ³metros ~7 millas
 Lucas-24-13:
 
 Gente
@@ -88,6 +88,6 @@ Romanos
 
 Lenguas
 
-Griego era común en el templo (Tora en griego).
+Griego era comÃºn en el templo (Tora en griego).
 La gente en el pueblo hablaba arameo.
 

@@ -13,7 +13,7 @@
 <!ENTITY docbookrep-tex.dsl SYSTEM "docbookrep_tex.dsl">
 
 ]>
-<!-- Detalles de estilo.  Dominio público -->
+<!-- Detalles de estilo.  Dominio pÃºblico -->
 
 <style-sheet>
 <style-specification id="print" use="docbook">

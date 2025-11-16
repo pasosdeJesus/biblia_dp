@@ -1,6 +1,6 @@
 #!/bin/awk -f
 # Adiciona <t lang="es"></t> a un archivo gbfxml
-# Dominio público. 2003. vtamara@users.sourceforge.net
+# Dominio pÃºblico. 2003. vtamara@users.sourceforge.net
 
 	
 /<sv/ || /<fr/ || /<\/fr>/ || /<\/cm/ || /<pp/ || /<cl/ { 

@@ -51,7 +51,7 @@ dbrep_html_xsltproc: $(PROYECTO)-4.1.2.$(EXT_DOCBOOK) $(INDEX) $(SOURCES) $(IMAG
 	$(MKDIR) -p $(HTML_DIR)
 	for i in $(IMAGES)  ; do $(CP) $$i $(HTML_DIR)/`basename $$i`; done 
 	bp=`pwd`;cd $(HTML_DIR) && $(RM) -f *html && $(XSLTPROC) --catalogs --nonet $$bp/$(XSLT_HTML) $$bp/$(PROYECTO)-4.1.2.$(EXT_DOCBOOK) 
-	for i in $(HTML_DIR)/*html; do $(CP) $$i $$i.bak; $(SED) -e "s/­/-/g" $$i.bak > $$i; done
+	for i in $(HTML_DIR)/*html; do $(CP) $$i $$i.bak; $(SED) -e "s/Â­/-/g" $$i.bak > $$i; done
 	rm -f $(HTML_DIR)/*bak
 	$(OTHER_HTML)
 
@@ -60,7 +60,7 @@ dbrep_html_xsltproc_single: $(PROYECTO)-4.1.2.$(EXT_DOCBOOK) $(INDEX) $(SOURCES)
 	mkdir -p $(HTML_DIR)
 	for i in $(IMAGES) ; do $(CP) $$i $(HTML_DIR)/`basename $$i`; done 
 	$(XSLTPROC) --catalogs --nonet $(XSLT_HTML) $(PROYECTO)-4.1.2.$(EXT_DOCBOOK) > $(HTML_TARGET).bak
-	$(SED) -e "s/­/-/g" $(HTML_TARGET).bak > $(HTML_TARGET)
+	$(SED) -e "s/Â­/-/g" $(HTML_TARGET).bak > $(HTML_TARGET)
 	$(OTHER_HTML)
 
 
@@ -106,7 +106,7 @@ $(PRINT_DIR)/$(PROYECTO).tex: $(INDEX) $(SOURCES) $(IMAGES:.png=.eps)  $(PROYECT
 
 	-bp=`pwd`; cd $(PRINT_DIR) && $(RM) -f *.aux *.log && $(JADE) -V tex-backend -c$(CATALOG_DSSSL) -D$(DOCBOOK_DSSSL)/print -o $(PROYECTO).tex -t tex -d  $$bp/$(DSSSL_PRINT) $(SGML_XML) $$bp/$(PROYECTO)-4.1.2.$(EXT_DOCBOOK)
 	$(CP) $(PRINT_DIR)/$(PROYECTO).tex $(PRINT_DIR)/$(PROYECTO).tex.bak
-	$(SED) -e "s/­/{-}/g" $(PRINT_DIR)/$(PROYECTO).tex.bak > $(PRINT_DIR)/$(PROYECTO).tex
+	$(SED) -e "s/Â­/{-}/g" $(PRINT_DIR)/$(PROYECTO).tex.bak > $(PRINT_DIR)/$(PROYECTO).tex
 
 
 $(INDEX): $(INDEX).m
@@ -129,7 +129,7 @@ HTML.index.m: $(PROYECTO)-4.1.2.$(EXT_DOCBOOK) $(SOURCES)
 	$(TOUCH) HTML.index.m; \
 	} fi;
 
-# Revisa ortografía empleando ispell
+# Revisa ortografÃ­a empleando ispell
 ispell: $(HTML_TARGET)
 	$(TOUCH) $(PROYECTO).ispell
 	if (test "$(W3M)" = "") then { echo "Se requiere w3m o lynx"; exit 1; } fi
