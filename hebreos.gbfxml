@@ -3055,28 +3055,98 @@ of Judah;
 
 <sv id="Hebreos-8-9">
 Not according to the covenant that I made with their fathers,
+<t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
+<wi type="G" value="2596,2,">de acuerdo</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="1242,4,">al pacto</wi></wi>
+<wi type="G" value="3739,5,">que</wi>
+<wi type="G" value="4160,6,">hice</wi>
+con <wi type="G" value="846,9,">sus</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="3962,8,">padres</wi></wi>,</t>
 <cl/>
 In the day that I took them by the hand to lead them out of the land of
 Egypt;
+<t xml:lang="es"><wi type="G" value="1722,10,">En</wi>
+<wi type="G" value="2250,11,">el día</wi>
+que <wi type="G" value="846,16,">los</wi>
+<wi type="G" value="3450,13,"><wi type="G" value="1949,12,">tomé</wi></wi>
+<wi type="G" value="3588,14,"><wi type="G" value="5495,15,">de la mano</wi></wi>
+<wi type="G" value="1806,17,"><wi type="G" value="846,18,">para sacarlos</wi></wi>
+<wi type="G" value="1537,19,">de</wi>
+<wi type="G" value="1093,20,">la tierra</wi>
+<wi type="G" value="125,21,">de Egipto</wi>;</t>
 <cl/>
 For they didn´t continue in my covenant,
+<t xml:lang="es"><wi type="G" value="3754,22,">Pues</wi>
+<wi type="G" value="846,23,">ellos</wi>
+<wi type="G" value="3756,24,">no</wi>
+<wi type="G" value="1696,25,">se mantuvieron</wi>
+<wi type="G" value="1722,26,">en</wi>
+<wi type="G" value="3450,29,">mi</wi>
+<wi type="G" value="3588,27,"><wi type="G" value="1242,28,">pacto</wi></wi>,</t>
 <cl/>
 And I disregarded them,» says the Lord.
+<t xml:lang="es"><wi type="G" value="2504,30,">Y Yo</wi>
+<wi type="G" value="846,32,">los</wi> </t>
+<rb xml:lang="es"><wi type="G" value="272,31,">ignoré</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen ignoré,
+<citebib id="RVG2012"/> dice `menosprecié.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`ημελησα´ se traduce como  ser descuidado, descuidar.
+</rf></rb>
+<t xml:lang="es">,»
+<wi type="G" value="3004,33,">dice</wi>
+<wi type="G" value="2962,34,">el Señor</wi>.</t>
 <cl/>
 
 </sv>
 <sv id="Hebreos-8-10">
 «For this is the covenant that I will make with the house of Israel.
+<t xml:lang="es">«<wi type="G" value="3754,1,">Entonces</wi>
+<wi type="G" value="3778,2,">este</wi> es
+<wi type="G" value="3588,3,"><wi type="G" value="1242,4,">el pacto</wi></wi>
+<wi type="G" value="3739,5,">que</wi>
+<wi type="G" value="1303,6,">haré</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="3624,8,">con la casa</wi></wi>
+<wi type="G" value="2474,9,">de Israel</wi>.</t>
 <cl/>
 After those days,» says the Lord;
+<t xml:lang="es"><wi type="G" value="3326,10,">Después de</wi>
+<wi type="G" value="1565,13,">esos</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2250,12,">días</wi></wi>,»
+<wi type="G" value="3004,14,">dice</wi>
+<wi type="G" value="2962,15,">el Señor</wi>:</t>
 <cl/>
 «I will put my laws into their mind,
+<t xml:lang="es">«<wi type="G" value="1325,16,">Pondré</wi>
+<wi type="G" value="3450,18,">mis</wi>
+<wi type="G" value="3551,17,">leyes</wi>
+<wi type="G" value="1519,19,">en</wi>
+<wi type="G" value="846,22,">sus</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="1271,21,">mentes</wi></wi>,</t>
 <cl/>
 I will also write them on their heart.
+<t xml:lang="es"><wi type="G" value="2532,23,">Y</wi>
+<wi type="G" value="846,28,">las</wi>
+<wi type="G" value="1924,27,">escribiré</wi>
+<wi type="G" value="1909,24,">en</wi>
+<wi type="G" value="846,26,">sus</wi>
+<wi type="G" value="2588,25,">corazones</wi>.</t>
 <cl/>
 I will be to them a God,
+<t xml:lang="es"><wi type="G" value="2532,29,">Y</wi>
+<wi type="G" value="2071,30,">seré</wi>
+<wi type="G" value="2316,33,">Dios</wi>
+<wi type="G" value="1519,32,">para</wi>
+<wi type="G" value="846,31,">ellos</wi>, </t>
 <cl/>
 And they will be to me a people.
+<t xml:lang="es"><wi type="G" value="2532,34,">Y</wi>
+<wi type="G" value="846,35,">ellos</wi>
+<wi type="G" value="2071,36,">serán</wi>
+<wi type="G" value="2992,39,">pueblo</wi>
+<wi type="G" value="1519,38,">para</wi>
+<wi type="G" value="3427,37,">mi</wi>.
+</t>
 <cl/>
 
 </sv>
