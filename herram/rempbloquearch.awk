@@ -1,9 +1,9 @@
 #!/bin/awk -f
 # Remplaza un bloque de texto por la salida de un comando.
-# El bloque comienza con una cadena, en la siguiente lÌnea
-# una secuencia de guiones (m·s de 2)
-# Termina con una secuencia de guiones (m·s de 2)
-# Dominio p˙blico. 2003. Sin garantÌas. vtamara@users.sourceforge.net.
+# El bloque comienza con una cadena, en la siguiente l√≠nea
+# una secuencia de guiones (m√°s de 2)
+# Termina con una secuencia de guiones (m√°s de 2)
+# Dominio p√∫blico. 2003. Sin garant√≠as. vtamara@users.sourceforge.net.
 
 /--[-]*/ { 
 	if (repbloque==1) {
@@ -36,7 +36,7 @@ BEGIN {
 	}
  	inicio=ENVIRON["INICIO"];
 	if (ENVIRON["CMD"]=="") {
-		print "Falta comando cuya salida se insertar· en variable CMD";
+		print "Falta comando cuya salida se insertar√° en variable CMD";
 		exit 1;
 	}
 	cmd=ENVIRON["CMD"];

@@ -1,4 +1,4 @@
-age  época
+age  Ã©poca
 baptizm
 	bautizo		Acto de bautizar y fiesta.  Lo que hacia Juan el 
 		        bautista.
@@ -6,7 +6,7 @@ baptizm
 
 booths (fest booths)  fiesta de las enramadas (DiosHablaHoy en nota
 	de pie a Juan 7,2 referencia Lv 23,34, Dt 16,13)
-dydimus	dídimo
+dydimus	dÃ­dimo
 farmer	campesino
 village	pueblo
 Sadducees	saduceos

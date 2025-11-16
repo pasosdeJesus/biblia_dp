@@ -1,5 +1,5 @@
 # Reglas para generar HTML, PostScript y PDF 
-# Basadas en reglas de dominio p˙blico de repasa
+# Basadas en reglas de dominio p√∫blico de repasa
 # http://structio.sourceforge.net/repasa
 
 
@@ -35,13 +35,13 @@ DSSSL_HTML=estilo.dsl\#html
 OTHER_HTML=
 
 # INDEX=
-# Si se debe generar Ìndice, nombre del archivo por generar (incluirlo en documento)
+# Si se debe generar √≠ndice, nombre del archivo por generar (incluirlo en documento)
 
 
 # Variables requeridas por comdist.mk
 
 GENDIST=Desarrollo.txt Derechos.txt $(SOURCES) $(IMAGES) 
-# Dependencias para generar distribuciÛn
+# Dependencias para generar distribuci√≥n
 
 ACTHOST=traduccion.pasosdeJesus.org
 ACTDIR=/var/www/pasosdeJesus/traduccion/
@@ -94,7 +94,7 @@ herram/u2d: herram/u2d.c
 
 gutenberg/$(PROYECTO).html: html/$(PROYECTO).html
 	-$(TIDY) html/$(PROYECTO).html | \
-	$(AWK) 'function mayusculas(str) { r=toupper(str); gsub(/·/,"¡",r); gsub(/È/,"…",r); gsub(/Ì/,"Õ",r); gsub(/Û/,"”",r); gsub(/˙/,"⁄",r); return r}\
+	$(AWK) 'function mayusculas(str) { r=toupper(str); gsub(/√°/,"√Å",r); gsub(/√©/,"√â",r); gsub(/√≠/,"√ç",r); gsub(/√≥/,"√ì",r); gsub(/√∫/,"√ö",r); return r}\
 	/<title>/ { nopr=1; } \
 	/<\/title>/ { $$0="<title>The Project Gutenberg eBook of $(PRY_DESC)</title>"; nopr=0; } \
 	/<h1 class="title">/ { h1tit=1; nopr=1; } \
@@ -143,7 +143,7 @@ gutact: gutenberg
 	$(NCFTPPUT) -u $(USER) $(ACTHOST) bdp/$(GUTNUM) gutenberg/$(GUTNUM)/*.{txt,zip}
 
 
-# Reglas para revisar ortografÌa con ispell (al texto plano)
+# Reglas para revisar ortograf√≠a con ispell (al texto plano)
 
 ispell-gut: gutenberg/$(PROYECTO).txt ispell/$(PROYECTO).ispell
 	$(ISPELL) -d spanish -p ispell/$(PROYECTO).ispell gutenberg/$(PROYECTO).txt
@@ -151,7 +151,7 @@ ispell-gut: gutenberg/$(PROYECTO).txt ispell/$(PROYECTO).ispell
 # Para usar DocBook
 include herram/comdocbook.mak
 
-# To crear distribuciÛn de fuentes y actualizar en Internet
+# To crear distribuci√≥n de fuentes y actualizar en Internet
 include herram/comdist.mak
 
 instala:
@@ -167,7 +167,7 @@ instalahtml:
 desinstala:
 	$(RM) -rf $(DESTDIR)$(INSDOC)
 
-# Elimina hasta configuraciÛn
+# Elimina hasta configuraci√≥n
 limpiadist: limpiamas
 	rm -f confv.sh confv.ent Make.inc
 	if (test "$(GUT)" = "") then { rm -f gutenberg/$(PROYECTO).*; } fi
@@ -195,7 +195,7 @@ limpia:
 	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --catalogs --nonet gbfxml2db.xsl $< > $@
 
 #.gbfxml.txt: gbfxml2txt.xsl
-#	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --catalogs --nonet gbfxml2txt.xsl $< > $@  # Por ahora est· mejor w3m
+#	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --catalogs --nonet gbfxml2txt.xsl $< > $@  # Por ahora est√° mejor w3m
 
 .gbf.gbfxml:
 	($(AWK) -f gbf2gbfxml.awk $< > $@ ; \
@@ -254,19 +254,19 @@ html/em.html: gbfxml2html.xsl biblia_dp.gbfxml  mateo.gbfxml
 	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --catalogs --nonet gbfxml2html.xsl biblia_dp.gbfxml > html/em.html
 
 valida-formateo: 
-	echo "Espacios horizontales que posiblemente deben omitirse (para que no quede espacio entre n˙mero de versÌculo y la primera palabra del mismo)"
+	echo "Espacios horizontales que posiblemente deben omitirse (para que no quede espacio entre n√∫mero de vers√≠culo y la primera palabra del mismo)"
 	-xmllint --noent biblia_dp.gbfxml | grep "<t xml:lang=.es.>[^/]*\/>[ ]*$$" 
-	echo "Espacios horizontales que posiblemente deben aÒadirse (para que al ver n˙meros strong quede espacio entre uno y otro que no tienen palabra en espaÒol asociada)"
+	echo "Espacios horizontales que posiblemente deben a√±adirse (para que al ver n√∫meros strong quede espacio entre uno y otro que no tienen palabra en espa√±ol asociada)"
 	-xmllint --noent biblia_dp.gbfxml | grep -n "<wi[^/]*\/><wi[^/]*\/>"
 	-xmllint --noent biblia_dp.gbfxml | grep -n "\/wi><wi"
 	echo "Marcado errado"
 	-xmllint --noent biblia_dp.gbfxml | grep -n "type=\"G\" value=\"[0-9]*\""
-	echo "Apostrofes por cambiar por ¥"
-	-xmllint --noent biblia_dp.gbfxml | grep -n "\`[^\¥']*\'"
-	echo "Signos de puntuaciÛn fuera de \` \¥"
-	-xmllint --noent biblia_dp.gbfxml | grep -n "\¥\."
-	-xmllint --noent biblia_dp.gbfxml | grep -n "\¥\,"
-	echo "MarcaciÛn Strong errada"
+	echo "Apostrofes por cambiar por ¬¥"
+	-xmllint --noent biblia_dp.gbfxml | grep -n "\`[^\¬¥']*\'"
+	echo "Signos de puntuaci√≥n fuera de \` \¬¥"
+	-xmllint --noent biblia_dp.gbfxml | grep -n "\¬¥\."
+	-xmllint --noent biblia_dp.gbfxml | grep -n "\¬¥\,"
+	echo "Marcaci√≥n Strong errada"
 	grep "wi type=\"G[^C]" biblia_dp.gbfxml | grep -v "wi type=\"G\""
 	echo "Errores comunes"
 	grep "i<w" biblia_dp.gbfxml

@@ -1,6 +1,6 @@
 #!/bin/awk -f
-# Extrae documentación del modo gbfxml para vim
-# Dominio público. 2003. vtamara@users.sourceforge.net
+# Extrae documentaciÃ³n del modo gbfxml para vim
+# Dominio pÃºblico. 2003. vtamara@users.sourceforge.net
 
 /imap .* <LocalLeader>[^ ]*/ {
 	match($0,/<LocalLeader>[^ ]/);

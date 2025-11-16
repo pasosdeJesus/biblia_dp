@@ -2,16 +2,16 @@
 Lo siguiente ya ha sido enviado y respondido hasta el 0x0
 
 In footnotes what is it:
-	* TR ? (e.g footnote of John 16,3 says "TR adds «to you»")
-	* NR  (e.g in John 19,28 says "NU, TR reads  «knowing» instead of
-	  «seeing»
+	* TR ? (e.g footnote of John 16,3 says "TR adds Â«to youÂ»")
+	* NR  (e.g in John 19,28 says "NU, TR reads  Â«knowingÂ» instead of
+	  Â«seeingÂ»
 	* MT Luke 7,31
 
 Mark 15-34
 Uses <FR> with "My God, my God, why have you forsaken me?"
 
 Mathew 7,27
-Says `and it felland great was´ should be `and it fell, and great was´
+Says `and it felland great wasÂ´ should be `and it fell, and great wasÂ´
 
 Mathew 10,29 Footnote says "denarius
 (approximately the wages of one half hour of agricultural labor)"
@@ -27,24 +27,24 @@ Mathew 25,36 Shouldn't begin with 'I was' ?
 
 
 Mark 5,27
-footnote ends with ",»" should end with ".»"
+footnote ends with ",Â»" should end with ".Â»"
 
 Mark 5,41 
-`Girl, I tell you, get up´ should not be inside <FR> ?
+`Girl, I tell you, get upÂ´ should not be inside <FR> ?
 
 Mark 7,35
-`Be opened´ should not be inside <FR> ?
+`Be openedÂ´ should not be inside <FR> ?
 
 
 
 Luke 1,51
-Shouldn't be `hearts´ instead of `heart´?
+Shouldn't be `heartsÂ´ instead of `heartÂ´?
 
 Luke 5,30
-Shouldn't be `The scribes´ instead of `Their scribes´
+Shouldn't be `The scribesÂ´ instead of `Their scribesÂ´
 
 Luke 11,29
-« before <FR>
+Â« before <FR>
 
 Luke 12,14
 Shouldn't be "you<WTP>" ?
@@ -60,10 +60,10 @@ should be
 
 Luke 19,9
 Says: 
-	Jesus said to him: «Today salvation has come to this house... lost.»
+	Jesus said to him: Â«Today salvation has come to this house... lost.Â»
 should be
 	Jesus said to him: 
-	<FR>«Today salvation has come to this house... lost.»<Fr>
+	<FR>Â«Today salvation has come to this house... lost.Â»<Fr>
 
 John 5,11
 Says:
@@ -73,9 +73,9 @@ should be
 
 John 6,42
 Says
-<FR>`I have come down out of heaven?´»<Fr>
+<FR>`I have come down out of heaven?Â´Â»<Fr>
 should be
-`I have come down out of heaven?´»
+`I have come down out of heaven?Â´Â»
 
 John 6,58
 Says
@@ -85,9 +85,9 @@ should be
 
 John 7,36
 Says
-... can't come´?
+... can't comeÂ´?
 should be
-... can't come?´
+... can't come?Â´
 
 John 8,22
 There shouldn't be <FR>..<Fr>
@@ -107,7 +107,7 @@ In 'a hundred pounds.<RF>..', better footnote before '.' ?
 John 21,24
 For me, without <FR>
 
----- Hasta aquí fueron correcciones en primer correo 0x0
+---- Hasta aquÃ­ fueron correcciones en primer correo 0x0
 
 Acts 7-23; Acts 15,3;  Acts 28,14; Acts 9-30
 The word 'brothers' has a footnote that IMHO is not appropriate for the

@@ -1,18 +1,18 @@
-A continuaciÛn un listado alfabÈtico de quienes han aportado a la traducciÛn:
+A continuaci√≥n un listado alfab√©tico de quienes han aportado a la traducci√≥n:
 
 Fernando Orozco Calambas
-Melissa Giraldo D·vila
+Melissa Giraldo D√°vila
 Oscar Daniel Duarte
-Vladimir T·mara PatiÒo
-Wilfredo RÛdriguez
+Vladimir T√°mara Pati√±o
+Wilfredo R√≥driguez
 
-Puede ver un poco m·s de detalle de lo que cada quien ha hecho al 
-comienzo de cada libro y a˙n m·s en detalle en la bitacora de cambios de las 
+Puede ver un poco m√°s de detalle de lo que cada quien ha hecho al 
+comienzo de cada libro y a√∫n m√°s en detalle en la bitacora de cambios de las 
 fuentes:
 https://github.com/pasosdeJesus/biblia_dp/commits/master
 https://gitlab.com/pasosdeJesus/biblia_dp/-/commits/main?ref_type=heads
 
-Michael Johnson merece el crÈdito por su trabajo en la biblia WEB que 
-se incluye en inglÈs en las fuentes.
+Michael Johnson merece el cr√©dito por su trabajo en la biblia WEB que 
+se incluye en ingl√©s en las fuentes.
 
 

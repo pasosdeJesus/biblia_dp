@@ -1,6 +1,6 @@
 #!/bin/awk
-# Extrae y arregla URLs en derechos de reproducción extraidos del HTML
-# Dominio público. 2003. Sin garantías.  vtamara@users.sourceforge.net
+# Extrae y arregla URLs en derechos de reproducciÃ³n extraidos del HTML
+# Dominio pÃºblico. 2003. Sin garantÃ­as.  vtamara@users.sourceforge.net
 
 
 function probprint(str) {

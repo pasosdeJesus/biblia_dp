@@ -1,7 +1,7 @@
 #!/bin/awk
-# Para eliminar encabezado y pie de páginas en textos
+# Para eliminar encabezado y pie de pÃ¡ginas en textos
 # obtenidos con lynx o w3m a partir de HTMLs de DocBook
-# Dominio público. 
+# Dominio pÃºblico. 
 
 /___________________________/ || /^-----------------------------------/ {
 	estado=estado+1;

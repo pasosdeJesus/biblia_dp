@@ -81,7 +81,7 @@ function checkPred  {
 		} fi;
 		echo "Valores probados fallaron y este dato es indispensable";
 		echo "$hint";
-		echo -n "Por favor especifique un valor o cancele la configuraci髇 (con Ctrl-C) y realicela nuevamente despu閟 de hacer cambios en su sistema o de cambiar directamente el script $confvar_file (variable $var) :";
+		echo -n "Por favor especifique un valor o cancele la configuraci贸n (con Ctrl-C) y realicela nuevamente despu茅s de hacer cambios en su sistema o de cambiar directamente el script $confvar_file (variable $var) :";
 		read val;
 		export $var="$val";
 	}
@@ -123,7 +123,7 @@ function changeVar {
 		desc=`grep -A 1 "^[ \t]*$1[ \t]*=" $confvar_file | tail -n 1 | sed "s/#\(.*\)/\1/g"`
 		sol=`grep -A 2 "^[ \t]*$1[ \t]*=" $confvar_file | tail -n 1 | sed "s/#\(.*\)/\1/g"`
 		if (test "x$desc" = "x") then {
-			echo "Falta descripci髇 de variable de configuraci髇 $1";
+			echo "Falta descripci贸n de variable de configuraci贸n $1";
 			echo "desc: $desc, sol: $sol, confvar_file: $confvar_file";
 			exit 1;
 		} fi;
@@ -147,7 +147,7 @@ function check  {
 	desc=`grep -A 1 "^[ \t]*$1[ \t]*=" $confvar_file | tail -n 1 | sed "s/#\(.*\)/\1/g"`
 	sol=`grep -A 2 "^[ \t]*$1[ \t]*=" $confvar_file | tail -n 1 | sed "s/#\(.*\)/\1/g"`
 	if (test "x$desc" = "x") then {
-		echo "Falta descripci髇 de variable de configuraci髇 $1";
+		echo "Falta descripci贸n de variable de configuraci贸n $1";
 		exit 1;
 	} fi;
 	echo -n "$desc ";

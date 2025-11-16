@@ -1,13 +1,13 @@
 " Plugin para vim
 " Lenguaje: gbfxml
-" Mantenedor: Vladimir T醡ara (vtamara@pasosdeJesus.org)
+" Mantenedor: Vladimir T谩mara (vtamara@pasosdeJesus.org)
 " URL: http://traduccion.pasosdeJesus.org
 " Last Change: 4/Ago/2003
-" Liberado al dominio p鷅lico
+" Liberado al dominio p煤blico
 
 " Se basa en modo DocBook para vim
 
-" CONFIGURACI覰:
+" CONFIGURACI脫N:
 "
 " 1. Agregar a ~/.vim/filetype.vim
 " au! BufRead,BufNewFile *.gbfxml       setfiletype gbfxml
@@ -16,7 +16,7 @@
 "
 " MODO DE USO
 "
-" Edite un archivo con extensi髇 gbfxml
+" Edite un archivo con extensi贸n gbfxml
 " - <b inserta una nueva referencia bibliografica es decir: 
 "     <bib id="">
 "       <tt></tt>
@@ -26,25 +26,25 @@
 "     </bib>
 " - <ci inserta una cita a una referencia bibliografica es decir:
 "     <citebib id=""/>
-" - <rb inserta una nota al pie de p醙ina es decir:
+" - <rb inserta una nota al pie de p谩gina es decir:
 "     <rb xml:lang="es"><rf></rf></rb>
-" - <t  inserta un traducci髇 a espa駉l es decir:
+" - <t  inserta un traducci贸n a espa帽ol es decir:
 "     <t xml:lang="es"></t>
 " - <w3 inserta referencia strong a un articulo pero sin palabra en
-"   espa駉l es decir:
+"   espa帽ol es decir:
 "     <wi type="G" value="3588,,"/>
-" - <w2 inserta referencia strong a la conjunci髇 Y pero sin palabra en
-"   espa駉l, es decir:
+" - <w2 inserta referencia strong a la conjunci贸n Y pero sin palabra en
+"   espa帽ol, es decir:
 "     <wi type="G" value="2532,,"/>
-" - <w1 inserta referencia strong a otra conjuni髇 Y pero sin palabra en
-"   espa駉l
+" - <w1 inserta referencia strong a otra conjuni贸n Y pero sin palabra en
+"   espa帽ol
 "     <wi type="G" value="1161,,"/>
 " - <wi pone la palabra siguiente entre marcado para agregar referencia
 "   strong, es decir:
 "     <wi type="G" value=",">laPalabraQueSigue</wi>
 
 
-" S髄o carga plugin si el usuario lo desea y no se ha hecho antes
+" S贸lo carga plugin si el usuario lo desea y no se ha hecho antes
 if exists("b:did_ftplugin")
 	finish
 endif

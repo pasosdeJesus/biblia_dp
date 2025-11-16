@@ -24,14 +24,14 @@ GBF -----------> GBF XML -----------------> DocBook
                     |                                                ps2pdf V
                     |                                                      PDF
                     |   gbfxml2html.xls
-                    -----------------------> HTML (una p·gina)
+                    -----------------------> HTML (una p√°gina)
                     |
                     |  gbfxml2vhtml.xls
-                    -----------------------> HTML (una p·gina por libro)
+                    -----------------------> HTML (una p√°gina por libro)
 
 
-Parte de los scripts para conversiÛn (a partir de DocBook), asÌ como los 
-scripts de configuraciÛn y publicaciÛn se basan en los de repasa 
+Parte de los scripts para conversi√≥n (a partir de DocBook), as√≠ como los 
+scripts de configuraci√≥n y publicaci√≥n se basan en los de repasa 
 http://structio.sourceforge.net/repasa   
 
 
@@ -53,8 +53,8 @@ Empleado en textos de Christian Classics Ethereal Library
 
 
 Cada uno de estos lenguajes ofrece sus ventajas, aunque ninguno es
-especÌfico para la biblia, mientras que GBFXML toma los elementos
-fundamentales de GBF que si es especÌfico para la biblia.    
+espec√≠fico para la biblia, mientras que GBFXML toma los elementos
+fundamentales de GBF que si es espec√≠fico para la biblia.    
 
-La conversiÛn de GBFXML a los otros formatos XML descritos es 
-relativamente f·cil preparando hojas XSLT.
+La conversi√≥n de GBFXML a los otros formatos XML descritos es 
+relativamente f√°cil preparando hojas XSLT.

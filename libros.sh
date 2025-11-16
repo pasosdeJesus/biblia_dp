@@ -2,7 +2,7 @@
 
 function genlib {
 	rm -rf ../$1
-	./libro.sh .. $1 "$2: Traducción de dominio público abierta a mejoras" "$3" "$4" "$5" "$6" "$7" "$8"
+	./libro.sh .. $1 "$2: TraducciÃ³n de dominio pÃºblico abierta a mejoras" "$3" "$4" "$5" "$6" "$7" "$8"
 }
 
 genlib mateo_dp "Buena Nueva de acuerdo a Mateo" "mateo.gbfxml" "1ev" 12500 "2 May 2004" "Matthew" "Matthew"

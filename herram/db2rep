@@ -26,22 +26,22 @@
 #  </cmdsynopsis></refsynopsisdiv>
 
 # <refsect1 id="db2rep-descripcion">
-# <title>DESCRIPCI”N</title>
+# <title>DESCRIPCI√ìN</title>
 # <para>
-# El script <command>db2rep</command> convierte uno o m·s archivos
+# El script <command>db2rep</command> convierte uno o m√°s archivos
 # escritos en DocBook con convenciones para &repasa; en tres archivos
 # XML con definiciones (<citerefentry><refentrytitle>def</refentrytitle>
-# <manvolnum>5</manvolnum></citerefentry>), clasificaciÛn 
+# <manvolnum>5</manvolnum></citerefentry>), clasificaci√≥n 
 # (<citerefentry><refentrytitle>clasif</refentrytitle>
 # <manvolnum>5</manvolnum></citerefentry>)  y secuencia 
 # (<citerefentry><refentrytitle>sec</refentrytitle>
 # <manvolnum>5</manvolnum></citerefentry>).  Los archivos generados y
 # las convenciones son apropiadas para procesar material de estudio
-# organizado de acuerdo a la legislaciÛn colombiana vigente para
+# organizado de acuerdo a la legislaci√≥n colombiana vigente para
 # colegios (Ley 115/1994).
 # </para>
 # <para>
-# Este script no recibe opciones por la lÌnea de comando, pero puede
+# Este script no recibe opciones por la l√≠nea de comando, pero puede
 # adaptarse empleando las siguientes variables de ambiente:
 # <variablelist>
 # <varlistentry><term>DEF</term>
@@ -54,22 +54,22 @@
 # <listitem><para>Nombre del archivo de secuencia por generar.
 # </para></listitem></varlistentry>
 # <varlistentry><term>DESC</term>
-# <listitem><para>DescripciÛn por emplear en los archivos que se generan.
+# <listitem><para>Descripci√≥n por emplear en los archivos que se generan.
 # </para></listitem></varlistentry>
 # <varlistentry><term>FECHA</term>
-# <listitem><para>Fecha de actualizaciÛn que debe emplearse.
+# <listitem><para>Fecha de actualizaci√≥n que debe emplearse.
 # </para></listitem></varlistentry>
 # <varlistentry><term>BIBLIO</term>
-# <listitem><para>BibliografÌa por agregar  en los archivos que se generan.
+# <listitem><para>Bibliograf√≠a por agregar  en los archivos que se generan.
 # </para></listitem></varlistentry>
 # <varlistentry><term>TIPO_DERECHOS</term>
-# <listitem><para>Tipo de derechos de reproducciÛn por emplear en archivos que se generan.
+# <listitem><para>Tipo de derechos de reproducci√≥n por emplear en archivos que se generan.
 # </para></listitem></varlistentry>
 # <varlistentry><term>TIEMPO_DERECHOS</term>
-# <listitem><para>AÒo(s) en los que comienzan a regir derechos de reproducciÛn
+# <listitem><para>A√±o(s) en los que comienzan a regir derechos de reproducci√≥n
 # </para></listitem></varlistentry>
 # <varlistentry><term>DERECHOS</term>
-# <listitem><para>TÈrminos de reproducciÛn completos.
+# <listitem><para>T√©rminos de reproducci√≥n completos.
 # </para></listitem></varlistentry>
 # <varlistentry><term>AUTORES</term>
 # <listitem><para>Nombres de los autores.
@@ -80,20 +80,20 @@
 # </para></listitem></varlistentry>
 # </variablelist>
 # </para>
-# <para>Para extraer esta informaciÛn hemos supuesto que el documento DocBook
+# <para>Para extraer esta informaci√≥n hemos supuesto que el documento DocBook
 # es material de referencia para estudiantes, que ha sido escrito por
-# uno o m·s profesores, y que emplea un formato m·s o menos est·ndar:
+# uno o m√°s profesores, y que emplea un formato m√°s o menos est√°ndar:
 # <itemizedlist>
 # <listitem><para>Cuenta con logros y sus indicadores de logros escritos,
-#  por ejemplo, al comienzo de una guÌa o secciÛn o capÌtulo.</para></listitem>
+#  por ejemplo, al comienzo de una gu√≠a o secci√≥n o cap√≠tulo.</para></listitem>
 # <listitem><para>Incluye definiciones importantes diferenciadas del resto 
 # del documento y valoradas de acuerdo a su relevancia.  Estas definiciones 
 # deben  relacionarse con los indicadores de logro que desarrollan. 
-# Las palabras podrÌan servir como elementos del Ìndice del documento, o 
-# junto con las definiciones podrÌan emplearse en un glosario.
+# Las palabras podr√≠an servir como elementos del √≠ndice del documento, o 
+# junto con las definiciones podr√≠an emplearse en un glosario.
 # </para></listitem>
 # <listitem><para>Ejercicios relacionados con indicadores de logro y 
-# sus soluciones.  Las soluciones podrÌan emplearse para generar un 
+# sus soluciones.  Las soluciones podr√≠an emplearse para generar un 
 # solucionario.
 # </para></listitem>
 # <listitem><para>Un orden para presentar los logros e indicadores de
@@ -103,22 +103,22 @@
 # </para>
 
 # <para>
-# Esta informaciÛn es extractada y dejada en archivos XML para 
+# Esta informaci√≥n es extractada y dejada en archivos XML para 
 # &repasa;, que emplean el formato <literal>docbook</literal>.
-# Queda separada asÌ:
+# Queda separada as√≠:
 # <itemizedlist>
 # <listitem><para>Las definiciones y significados quedan en el archivo
 # para definiciones
 # </para></listitem>
 # <listitem><para>Los logros e indicadores quedan en el archivo de
-# clasificaciÛn con tipos <literal>Logro</literal> y
+# clasificaci√≥n con tipos <literal>Logro</literal> y
 # <literal>Indicador</literal>.
-# Dentro de la clasificaciÛn de un indicador quedan
+# Dentro de la clasificaci√≥n de un indicador quedan
 # referenciados los significados que se relacionen con el indicador
 # junto con el peso, y quedan incluidos los ejercicios que se relacionen
 # con el indicador.
 # </para></listitem>
-# <listitem><para>La divisiÛn en periodos queda en el archivo de
+# <listitem><para>La divisi√≥n en periodos queda en el archivo de
 # secuencia con tipo <literal>Periodo</literal>.  Dentro de cada
 # secuencia quedan referenciados los indicadores del periodo
 # correspondiente.</para></listitem>
@@ -129,11 +129,11 @@
 #  <refsect1><title>Convenciones para documentos DocBook</title>
 
 # <para>Hemos buscado adaptar DocBook 4.1.2 sin infringir las expectativas de
-# un procesador tÌpico para este formato.  Para esto hemos empleado 
+# un procesador t√≠pico para este formato.  Para esto hemos empleado 
 # especialmente los atributos <literal>role</literal>, <literal>id</literal> 
 # y <literal>userlevel</literal> que son comunes a todos los elementos de 
-# DocBook, asÌ como extensiones a las hojas de estilo que permiten 
-# procesar las adaptaciones.  A continuaciÛn se presenta en detalle cada 
+# DocBook, as√≠ como extensiones a las hojas de estilo que permiten 
+# procesar las adaptaciones.  A continuaci√≥n se presenta en detalle cada 
 # una de las adaptaciones.
 # </para>
 # */
@@ -187,7 +187,7 @@ function extract_id(str) {
 # type [typ] returns [val].
 function extract_id_role(str,typ) {
 	if (match($0,"role=\"" typ ":")<=0) {
-		print FILENAME ":" FNR ": Se esperaba identificaciÛn en rol";
+		print FILENAME ":" FNR ": Se esperaba identificaci√≥n en rol";
 		error=1;
 		return "";
 	}
@@ -274,10 +274,10 @@ s_cap!=0 && /.*/ {
 #   <title>Periodos</title>
 # <para>
 # El orden en el que se especifiquen y procesen los archivos fuente
-# debe corresponder al orden de presentaciÛn del material en periodos.  
+# debe corresponder al orden de presentaci√≥n del material en periodos.  
 # Puede especificarse el inicio del material para un periodo en 
 # cualquier elemento que tenga el atributo <literal>role="periodo"</literal>.
-# Se supone que el material de un periodo termina si no hay m·s 
+# Se supone que el material de un periodo termina si no hay m√°s 
 # archivos por procesar o al iniciarse material para un nuevo periodo.
 # Se espera que como parte del material para un periodo se especifique
 # al menos un indicador de logro.
@@ -325,15 +325,15 @@ s_cap!=0 && /.*/ {
 #   respectivamente, y con identificador especificado en el atributo
 #   <literal>id</literal>, por ejemplo:
 # <screen>
-# &lt;listitem role="logro" id="escucha"&gt;&lt;para&gt;Escucha m˙sica
+# &lt;listitem role="logro" id="escucha"&gt;&lt;para&gt;Escucha m√∫sica
 # y sigue el ritmo&lt;/para&gt;&lt;/listitem&gt;
 # </screen>
 # o
 # <screen>
 # &lt;listitem role="indicador" id="escucha.clave"&gt;&lt;para&gt;Identifica
-# el instrumento que lleva la melodÌa&lt;/para&gt;&lt;/listitem&gt;
+# el instrumento que lleva la melod√≠a&lt;/para&gt;&lt;/listitem&gt;
 # </screen>
-# Note que el identificador del logro adem·s de ser un identificador
+# Note que el identificador del logro adem√°s de ser un identificador
 # XML 
 # (ver <citerefentry><refentrytitle>xmlintro</refentrytitle>
 # <manvolnum>5</manvolnum></citerefentry>), no debe incluir el caracter
@@ -342,10 +342,10 @@ s_cap!=0 && /.*/ {
 # el indicador desarrolla y seguido de un identificador particular para
 # el indicador que lo distinga de otros posibles indicadores del mismo logro.
 # </para>
-# <para>El logro que desarrolla uno o m·s indicadores debe especificarse
-# antes (digamos los logros al comienzo de un capÌtulo mientras que los
-# indicadores al comienzo de una secciÛn), y los indicadores deben 
-# especificarse cÛmo parte de alg˙n periodo.
+# <para>El logro que desarrolla uno o m√°s indicadores debe especificarse
+# antes (digamos los logros al comienzo de un cap√≠tulo mientras que los
+# indicadores al comienzo de una secci√≥n), y los indicadores deben 
+# especificarse c√≥mo parte de alg√∫n periodo.
 # </para>
 # </refsect2>
 # */
@@ -416,65 +416,65 @@ indpal==1 && /<primary>.*<\/primary>/ {
 # <refsect2 id="db2rep-definiciones">
 #   <title>Definiciones</title>
 # <para>
-# Una definiciÛn debe constar de una palabra,un significado, un
+# Una definici√≥n debe constar de una palabra,un significado, un
 # peso y un indicador de logro asociado (en realidad  pueden ser varias 
-# palabras separadas por espacio o n˙meros o caracteres arbitrarios)
-# Con respecto al documento la palabra puede ser tambiÈn una entrada del Ìndice.
+# palabras separadas por espacio o n√∫meros o caracteres arbitrarios)
+# Con respecto al documento la palabra puede ser tambi√©n una entrada del √≠ndice.
 # </para>
 # <para>
-# Para especificar una palabra que tambiÈn aparezca en el Ìndice se emplea
+# Para especificar una palabra que tambi√©n aparezca en el √≠ndice se emplea
 # el elemento <literal>indexterm</literal> con el atributo 
-# <literal>role="pal"</literal>, a continuaciÛn de este elemento o
-# al menos antes de otro que especifique una definiciÛn debe incluirse
-# la definiciÛn  en un p·rrafo <literal>para</literal> con atributo 
-# <literal>role="sig"</literal>.  Otro atributo del p·rrafo debe ser
-# <literal>id</literal> cuyo valor ser· el identificador de un indicador
+# <literal>role="pal"</literal>, a continuaci√≥n de este elemento o
+# al menos antes de otro que especifique una definici√≥n debe incluirse
+# la definici√≥n  en un p√°rrafo <literal>para</literal> con atributo 
+# <literal>role="sig"</literal>.  Otro atributo del p√°rrafo debe ser
+# <literal>id</literal> cuyo valor ser√° el identificador de un indicador
 # seguido del caracter punto ('.') y una cadena que diferencie la palabra
-# de otras del mismo indicador (se sugiere la palabra misma o una variaciÛn).
-# El p·rrafo con la definiciÛn tambiÈn  debe emplear el atributo 
+# de otras del mismo indicador (se sugiere la palabra misma o una variaci√≥n).
+# El p√°rrafo con la definici√≥n tambi√©n  debe emplear el atributo 
 # <literal>userlevel</literal> para indicar
-# el peso de la palabra con respecto a otras (se sugiere un n˙mero de
-# 1 a 5, siendo 5 las m·s importantes) y si se desea, separada con el caracter 
+# el peso de la palabra con respecto a otras (se sugiere un n√∫mero de
+# 1 a 5, siendo 5 las m√°s importantes) y si se desea, separada con el caracter 
 # dos puntos (':'), la 
-# heurÌstica que una herramienta de repaso
+# heur√≠stica que una herramienta de repaso
 # (ver <citerefentry><refentrytitle>repasa</refentrytitle>
 # <manvolnum>1</manvolnum></citerefentry> o 
 # <citerefentry><refentrytitle>repasatk</refentrytitle>
-# <manvolnum>1</manvolnum></citerefentry>) deberÌa emplear al
-# valorar respuestas de quien estudie la definiciÛn
+# <manvolnum>1</manvolnum></citerefentry>) deber√≠a emplear al
+# valorar respuestas de quien estudie la definici√≥n
 # ---<command>repasa</command> y <command>repasatk</command> soportan
 # <literal>dist</literal> e <literal>indist</literal> para tener en
-# cuenta o no diferencia entre may˙sculas y min˙sculas en respuestas
+# cuenta o no diferencia entre may√∫sculas y min√∫sculas en respuestas
 # abiertas.  Por ejemplo:
 # <screen>
 # &lt;indexterm role="pal"&gt;
 #   &lt;primary&gt;Denario&lt;/primary&gt;
 # &lt;/indexterm&gt;
-# &lt;para role="sig" userlevel="3:indist" id="contexto.historia.denario">Moneda empleada por los romanos del tiempo de Jes˙s, equivalÌa al jornal de un dÌa de trabajo agrÌcola.&lt;/para&gt;
+# &lt;para role="sig" userlevel="3:indist" id="contexto.historia.denario">Moneda empleada por los romanos del tiempo de Jes√∫s, equival√≠a al jornal de un d√≠a de trabajo agr√≠cola.&lt;/para&gt;
 # </screen>
 # Tenga en cuenta que las hojas de estilo distribuidas con &repasa; no 
-# presentan los p·rrafos con definiciones.
+# presentan los p√°rrafos con definiciones.
 # </para>
 # <para>
-# Una definiciÛn cuya palabra no se desea incluir en el Ìndice se especifica 
-# en un p·rrafo con atributo 
+# Una definici√≥n cuya palabra no se desea incluir en el √≠ndice se especifica 
+# en un p√°rrafo con atributo 
 # <literal>role="nipal:<replaceable>palabra</replaceable>"</literal>, siendo
 # <replaceable>palabra</replaceable> la palabra (o palabras) que se
-# define.  El texto del p·rrafo debe corresponder al significado y 
+# define.  El texto del p√°rrafo debe corresponder al significado y 
 # los atributos <literal>id</literal> y <literal>userlevel</literal>
 # se emplean como en el caso de definiciones cuya palabra se incluye en
-# el Ìndice.  Por ejemplo:
+# el √≠ndice.  Por ejemplo:
 # <screen>
 # &lt;para role="nipal:1/128" id="contexto.historia.val-lepton" userlevel="1"&gt;El
-# leptÛn era una moneda de cobre y zinc, cuyo valor correspondÌa a 1/2
+# lept√≥n era una moneda de cobre y zinc, cuyo valor correspond√≠a a 1/2
 # cuadrante y a ... de denario&lt;/para&gt;
 # </screen>
 # </para>
 # <para>
 # De emplear la misma palabra con diversos significados agregue a la
-# identificaciÛn una cadena que distinga unas de otras separadas con
-# el caracter '.'  Por ejemplo una segunda definiciÛn para "denario"
-# podrÌa tener como identificaciÛn 
+# identificaci√≥n una cadena que distinga unas de otras separadas con
+# el caracter '.'  Por ejemplo una segunda definici√≥n para "denario"
+# podr√≠a tener como identificaci√≥n 
 # <literal>contexto.historia.denario.2</literal>
 # </para>
 # </refsect2> 
@@ -496,7 +496,7 @@ indpal==1 && /<primary>.*<\/primary>/ {
 		error=1;
 	}
 	else if (palid=="") {
-		print FILENAME ":" FNR ": Falta identificaciÛn de palabra";
+		print FILENAME ":" FNR ": Falta identificaci√≥n de palabra";
 		error=1;
 	}
 	if (match($0,/userlevel[ ]*=[ ]*"/)<=0) {
@@ -543,10 +543,10 @@ indpal==1 && /<primary>.*<\/primary>/ {
 # <para>
 # Se espera que los ejercicios se incluyan en secciones <literal>qanda</literal>
 # de preguntas y reespuestas.  El ejercicio en un elemento
-# <literal>question</literal> (o en un p·rrafo dentro de este elemento)  con 
+# <literal>question</literal> (o en un p√°rrafo dentro de este elemento)  con 
 # atributo <literal>role="ejer"</literal>, y la respuesta en el elemento
-# <literal>answer</literal> que debe ir despuÈs de <literal>question</literal>.
-# Se espera que el elemento que incluya <literal>role="ejer"</literal> tambiÈn
+# <literal>answer</literal> que debe ir despu√©s de <literal>question</literal>.
+# Se espera que el elemento que incluya <literal>role="ejer"</literal> tambi√©n
 # incluya el atributo <literal>id</literal> cuyo valor debe ser el
 # identificador del ejercicio que se compone del identifcador del indicador
 # de logro que desarrolla, seguido del caracter punto ('.') y una cadena
@@ -556,27 +556,27 @@ indpal==1 && /<primary>.*<\/primary>/ {
 # <screen>
 # &lt;question role="ejer" id="dh.busca.carta"&gt;
 # &lt;para&gt;Un camino directo que puede seguir para buscar determinar
-# si cierta informaciÛn de derechos humanos es cierta o falsa es 
-# preguntar por confirmaciÛn directamente a quienes la informaciÛn 
-# afecte. øDÛnde puede consultar casos actuales de derechos humanos
-# en Colombia y direcciones donde pueda escribir solicitando confirmaciÛn?
+# si cierta informaci√≥n de derechos humanos es cierta o falsa es 
+# preguntar por confirmaci√≥n directamente a quienes la informaci√≥n 
+# afecte. ¬øD√≥nde puede consultar casos actuales de derechos humanos
+# en Colombia y direcciones donde pueda escribir solicitando confirmaci√≥n?
 # &lt;/para&gt;
 # &lt;/question&gt;
 # &lt;answer&gt;&lt;para&gt;
-# Entre las organizaciones que mantienen informaciÛn 
-# reciente sobre casos en Colombia est·n:
+# Entre las organizaciones que mantienen informaci√≥n 
+# reciente sobre casos en Colombia est√°n:
 # &lt;itemizedlist&gt;
-# &lt;listitem&gt;&lt;para&gt;AmnistÌa Internacional.  
-# &lt;ulink url="http://www.amnesty.org"/&gt;.   Adem·s de mantener informaciÛn
+# &lt;listitem&gt;&lt;para&gt;Amnist√≠a Internacional.  
+# &lt;ulink url="http://www.amnesty.org"/&gt;.   Adem√°s de mantener informaci√≥n
 # publicada (reportes, cartas, acciones urgentes), cuenta con una lista de 
-# distribuciÛn abierta de acciones urgentes.  Estas acciones incluyen 
+# distribuci√≥n abierta de acciones urgentes.  Estas acciones incluyen 
 # direcciones a las cuales escribir.&lt;/para&gt;&lt;/listitem&gt;
 # &lt;listitem&gt;&lt;para&gt;Human Right Watch. &lt;ulink url="http://www.hrw.org"/&gt;.
 # Publica reportes con regularidad.  Cuenta con lista de noticias.&lt;/para&gt;&lt;/listitem&gt;
-# &lt;listitem&gt;&lt;para&gt;Banco de violencia polÌtica de Justicia y Paz &amp;
+# &lt;listitem&gt;&lt;para&gt;Banco de violencia pol√≠tica de Justicia y Paz &amp;
 # CINEP.  &lt;ulink url="http://www.nocheyniebla.org"/&gt;. Registra 
-# todos los casos de violaciÛn a derechos humanos de los que se tiene
-# noticia, asÌ como reportes periÛdicos. Cuenta con lista de noticias.&lt;/para&gt;&lt;/listitem&gt;
+# todos los casos de violaci√≥n a derechos humanos de los que se tiene
+# noticia, as√≠ como reportes peri√≥dicos. Cuenta con lista de noticias.&lt;/para&gt;&lt;/listitem&gt;
 # &lt;/itemizedlist&gt;
 # &lt;/para&gt;&lt;/answer&gt;
 # </screen>
@@ -657,7 +657,7 @@ BEGIN {
 		exit 1;
 	}
 	if (desc=="") {
-		print "Falta variable DESC con descripciÛn";
+		print "Falta variable DESC con descripci√≥n";
 		exit 1;
 	}
 
