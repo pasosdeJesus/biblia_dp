@@ -366,8 +366,8 @@
 <wi type="G" value="2816,12,">herederos</wi>
 <wi type="G" value="4991,13,">de la salvación</wi>?</t>
 <cl/>
-
 </sv></cm></sc>
+
 <sc id="Hebreos-2">
 <cm>
 <sv id="Hebreos-2-1">
@@ -1326,8 +1326,9 @@
 <wi type="G" value="3450,10,">mi</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="2663,9,">descanso</wi></wi>.»
 </t>
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-4-6">
   Seeing therefore it remains that some should enter therein, and they to
   whom the good news was before preached failed to enter in because of
@@ -1491,6 +1492,7 @@
 <wi type="G" value="2588,32,">del corazón</wi>.
 </t>
 </sv></cm>
+
 <cm>
 <sv id="Hebreos-4-13">
   There is no creature that is hidden from his sight, but all things are
@@ -1575,11 +1577,9 @@
 <wi type="G" value="996,17,">ayude</wi>
 <wi type="G" value="2121,16,">oportunamente</wi>.
 </t>
-
 <cl/>
-
-
 </sv></cm></sc>
+
 <sc id="Hebreos-5">
 <cm>
 <sv id="Hebreos-5-1">
@@ -1712,10 +1712,9 @@
 <wi type="G" value="3588,12,"><wi type="G" value="5010,13,">el orden</wi></wi>
 <wi type="G" value="3198,14,">de Melquisedec</wi>.»</t>
 </fp>
+</sv></cm>
 
-
-</sv></cm><cm>
-
+<cm>
 <sv id="Hebreos-5-7">
   He, in the days of his flesh, having offered up prayers and petitions
   with strong crying and tears to him who was able to save him from death, and
@@ -2046,9 +2045,9 @@
 <wi type="G" value="3588,11,"><wi type="G" value="5056,12,">fin</wi></wi> es
 <wi type="G" value="1519,13,"/><wi type="G" value="2740,14,">ser quemada</wi>.
 </t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Hebreos-6-9">
   But, beloved, we are persuaded of better things for you, and things that
   accompany salvation, even though we speak like this.
@@ -2280,9 +2279,8 @@
 <wi type="G" value="3198,10,">de Melquisedec</wi>.</t>
 
 <cl/>
-
-
 </sv></cm></sc>
+
 <sc id="Hebreos-7">
 <cm>
 <sv id="Hebreos-7-1">
@@ -2626,10 +2624,9 @@ According to the order of Melchizedek.»
 <wi type="G" value="3588,10,"><wi type="G" value="5010,11,">al orden</wi></wi>
 <wi type="G" value="3198,12,">de Melquisedec</wi>.»</t>
 </fp>
+</sv></cm>
 
-
-</sv></cm><cm>
-
+<cm>
 <sv id="Hebreos-7-18">
 For there is an annulling of a foregoing commandment because of its
 weakness and uselessness
@@ -2718,10 +2715,9 @@ According to the order of Melchizedek´».
 <wi type="G" value="3588,29,"><wi type="G" value="5010,30,">al orden</wi></wi>
 <wi type="G" value="3198,31,">de Melquisedec</wi>´».</t>
 </fp>
+</sv></cm>
 
-
-</sv></cm><cm>
-
+<cm>
 <sv id="Hebreos-7-22">
 By so much has Jesus become the collateral of a better covenant.
 <t xml:lang="es"><wi type="G" value="2596,1,">Por</wi>
@@ -2783,8 +2779,9 @@ make intercession for them.
 <wi type="G" value="5228,19,">por</wi>
 <wi type="G" value="846,20,">ellos</wi>.
 </t>
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-7-26">
 For such a high priest was fitting for us: holy, guiltless, undefiled,
 separated from sinners, and made higher than the heavens;
@@ -3051,8 +3048,9 @@ of Judah;
 <wi type="G" value="2448,20,">de Judá</wi>;
 </t>
 </fp>
-</sv></cm><cm type="PO">
+</sv></cm>
 
+<cm type="PO">
 <sv id="Hebreos-8-9">
 Not according to the covenant that I made with their fathers,
 <t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
@@ -3152,37 +3150,78 @@ And they will be to me a people.
 </sv>
 <sv id="Hebreos-8-11">
 They will not teach every man his
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3756,2,"><wi type="G" value="3361,3,"><wi type="G" value="1538,5,">ninguno</wi></wi></wi>
+<wi type="G" value="1321,4,">enseñará a</wi>
+<wi type="G" value="846,8,">su</wi></t>
 <rb>fellow citizen,
-<t xml:lang="es"/><rf>TR reads
-«neighbor» instead of «fellow citizen»<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="3588,6,"/><wi type="G" value="4139,7,">vecino</wi></t><rf>TR reads
+«neighbor» instead of «fellow citizen»<t xml:lang="es">
+<citebib id="WEB"/> dice `conciudadano´ con nota al pie que
+dice: TR dice `vecino´ en lugar de `conciudadano.´
+<citebib id="KJV2003"/> dice `vecino.´
+</t></rf>
 </rb>
 
 <cl/>
 Every man his brother, saying, `Know the Lord,´
+<t xml:lang="es"><wi type="G" value="2532,9,">Y</wi>
+<wi type="G" value="1538,10,">ninguno</wi> a
+<wi type="G" value="846,13,">su</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="80,12,">hermano</wi></wi>,
+<wi type="G" value="3004,14,">diciendo</wi>,
+`<wi type="G" value="1097,15,">Conoce</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="2962,17,">al Señor</wi></wi>,´</t>
 <cl/>
 For all will know me,
+<t xml:lang="es"><wi type="G" value="3754,18,">Pues</wi>
+<wi type="G" value="3956,19,">todos</wi>
+<wi type="G" value="3165,21,">me</wi>
+<wi type="G" value="1492,20,">conocerán</wi>,</t>
 <cl/>
 From the least of them to the greatest of them.
+<t xml:lang="es"><wi type="G" value="575,22,">Desde</wi>
+<wi type="G" value="3398,23,">el menor</wi>
+<wi type="G" value="846,24,">de ellos</wi>
+<wi type="G" value="2193,25,">hasta</wi>
+<wi type="G" value="3173,26,">el mayor</wi>
+<wi type="G" value="846,27,">de ellos</wi>.</t>
+</sv></cm>
 
-</sv></cm><cm type="PO">
-
+<cm type="PO">
 <sv id="Hebreos-8-12">
 For I will be merciful to their unrighteousness.
+<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
+<wi type="G" value="2071,3,">seré</wi> </t>
+<rb xml:lang="es"><wi type="G" value="2436,2,">misericordioso</wi> de<rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `misericordioso,´
+<citebib id="RVG2012"/> dice `propicio.´
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="846,6,">sus</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="93,5,">injusticias</wi></wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="846,10,">de sus</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="266,9,">pecados</wi></wi>.</t>
 <cl/>
 I will remember their sins and lawless deeds no more.»
+<t xml:lang="es"><wi type="G" value="2532,11,">Y</wi>
+<wi type="G" value="3756,15,"><wi type="G" value="3361,16,">no</wi></wi>
+<wi type="G" value="2089,18,">volveré a</wi>
+<wi type="G" value="3415,17,">recordar</wi>
+<wi type="G" value="846,14,">sus</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="458,13,">iniquidades</wi></wi>.
+</t>
+</sv></cm>
 
-
-
-</sv></cm><cm>
-
+<cm>
 <sv id="Hebreos-8-13">
 In that he says, «A new covenant,» he has made the first old. But that
 which is becoming old and grows aged is near to vanishing away.
 
 <cl/>
-
-
 </sv></cm></sc>
+
 <sc id="Hebreos-9">
 <cm>
 <sv id="Hebreos-9-1">
@@ -3237,8 +3276,9 @@ being only (with meats
 and drinks and various washings) fleshly ordinances, imposed until a time of
 reformation.
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-9-11">
 But Christ having come as a high priest of the coming good things,
 through the greater and more perfect tabernacle, not made with hands, that is
@@ -3289,8 +3329,9 @@ and all the people,
 saying, «This is the blood of the covenant which
 God has commanded you.»
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-9-21">
 Moreover he sprinkled the tabernacle and all the vessels of the
 ministry in like manner with the blood.
@@ -3331,9 +3372,8 @@ many, will appear a second time, without sin, to those who are eagerly
 waiting for him for salvation.
 
 <cl/>
-
-
 </sv></cm></sc>
+
 <sc id="Hebreos-10">
 <cm>
 <sv id="Hebreos-10-1">
@@ -3363,8 +3403,9 @@ he comes into the world, he says,
 <cl/>
 But a body did you prepare for me;
 </fp>
-</sv></cm><cm type="PO">
+</sv></cm>
 
+<cm type="PO">
 <sv id="Hebreos-10-6">
 In whole burnt offerings and sacrifices for sin you had no pleasure.
 <cl/>
@@ -3376,10 +3417,9 @@ written of me)
 <cl/>
 To do your will, God.´»
 
+</sv></cm>
 
-
-</sv></cm><cm>
-
+<cm>
 <sv id="Hebreos-10-8">
 Previously saying, «Sacrifices and offerings and whole burnt offerings
 and sacrifices for sin you didn´t desire, neither had pleasure in them»
@@ -3415,8 +3455,9 @@ one offering he has perfected forever those who are being sanctified.
 <sv id="Hebreos-10-15">
 The Holy Spirit also testifies to us, for after saying,
 
-</sv></cm><cm type="PO">
+</sv></cm>
 
+<cm type="PO">
 <sv id="Hebreos-10-16">
 «This is the covenant that I will make with them:
 <cl/>
@@ -3425,19 +3466,15 @@ The Holy Spirit also testifies to us, for after saying,
 `I will put my laws on their heart,
 <cl/>
 I will also write them on their mind;´»
-
-
 <cl/>
 then he says,
 
-</sv></cm><cm type="PO">
+</sv></cm>
 
+<cm type="PO">
 <sv id="Hebreos-10-17">
 «I will remember their sins and their iniquities no more.»
-
-
 <cl/>
-
 </sv>
 <sv id="Hebreos-10-18">
 Now where remission of these is, there is no more offering for sin.
@@ -3464,8 +3501,9 @@ and having our body washed with pure water,
 let us hold fast the
 confession of our hope without wavering; for he who promised is faithful.
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-10-24">
 Let us consider how to provoke one another to love and good works,
 
@@ -3535,32 +3573,32 @@ For you
 God, you
 <wi type="T" value="P"/> may receive the promise.
 
-</sv></cm><cm type="PO">
+</sv></cm>
 
+<cm type="PO">
 <sv id="Hebreos-10-37">
 «In a very little while,
 <cl/>
 He who comes will come, and will not wait.
 
-</sv></cm><cm type="PO">
+</sv></cm>
 
+<cm type="PO">
 <sv id="Hebreos-10-38">
 But the righteous will live by faith.
 <cl/>
 If he shrinks back, my soul has no pleasure in him.»
 
+</sv></cm>
 
-
-</sv></cm><cm>
-
+<cm>
 <sv id="Hebreos-10-39">
 But we are not of those who shrink back to destruction, but of those
 who have faith to the saving of the soul.
-
 <cl/>
-
-
 </sv></cm></sc>
+
+
 <sc id="Hebreos-11">
 <cm>
 <sv id="Hebreos-11-1">
@@ -3648,8 +3686,9 @@ But now they desire a better country, that is, a heavenly one.
 Therefore God is not ashamed of them, to be called their God, for he has
 prepared a city for them.
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-11-17">
 By faith, Abraham, being tested, offered up Isaac. Yes, he who had
 gladly received the promises was offering up his one and only son;
@@ -3760,11 +3799,9 @@ their faith, didn´t receive the promise,
 God having provided some
 better thing concerning us, so that apart from us they should not be made
 perfect.
-
 <cl/>
-
-
 </sv></cm></sc>
+
 <sc id="Hebreos-12">
 <cm>
 <sv id="Hebreos-12-1">
@@ -3799,8 +3836,9 @@ reasons with you as with children,
 <cl/>
 Nor faint when you are reproved by him;
 </fp>
-</sv></cm><cm type="PO">
+</sv></cm>
 
+<cm type="PO">
 <sv id="Hebreos-12-6">
 For whom the Lord loves, he chastens,
 <cl/>
@@ -3808,8 +3846,9 @@ And scourges every son whom he receives.»
 
 
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-12-7">
 It is for discipline that you
 <wi type="T" value="P"/> endure. God deals with you as with
@@ -3891,8 +3930,9 @@ touches the mountain, it shall be stoned
 and so fearful was the appearance, that
 Moses said, «I am terrified and trembling.»
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-12-22">
 But you
 <wi type="T" value="P"/> have come to Mount Zion, and to the city of the living
@@ -3908,8 +3948,9 @@ to
 Jesus, the mediator of a new covenant, and to the blood of sprinkling that
 speaks better than that of Abel.
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-12-25">
 See that you
 <wi type="T" value="P"/> don´t refuse him who speaks. For if they didn´t
@@ -3936,9 +3977,8 @@ for our
 God is a consuming fire.
 
 <cl/>
-
-
 </sv></cm></sc>
+
 <sc id="Hebreos-13">
 <cm>
 <sv id="Hebreos-13-1">
@@ -3958,8 +3998,9 @@ Let marriage be held in
 honor among all, and let the bed be undefiled: but God will judge the
 sexually immoral and adulterers.
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-13-5">
 Be
 <wi type="T" value="P"/> free from the love of money, content with such things as
@@ -3977,8 +4018,9 @@ What can man do to me?»
 </fp>
 
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-13-7">
 Remember your leaders, men who spoke to you the word of God, and
 considering the results of their conduct, imitate their faith.
@@ -3993,8 +4035,9 @@ by various and strange teachings, for it is good that the heart be
 established by grace, not by food, through which those who were so occupied
 were not benefited.
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-13-10">
 We have an altar from which those who serve the holy tabernacle have no
 right to eat.
@@ -4026,15 +4069,17 @@ continually, that is, the fruit of lips which make confession to his name.
 But don´t forget to be doing good and sharing, for with such sacrifices
 God is well pleased.
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-13-17">
 Obey your leaders and submit to them, for they watch on behalf of your
 souls, as those who will give account, that they may do this with joy, and
 not with groaning, for that would be unprofitable for you.
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-13-18">
 Pray for us, for we are persuaded that we have a good conscience,
 desiring to live honorably in all things.
@@ -4043,8 +4088,9 @@ desiring to live honorably in all things.
 I strongly urge you to do
 this, that I may be restored to you sooner.
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-13-20">
 Now may the God of peace, who brought again from the dead the great
 shepherd of the sheep with the blood of an eternal covenant, our Lord Jesus,
@@ -4055,8 +4101,9 @@ make you complete in every good work to do his will, working in you
 that which is well pleasing in his sight, through Jesus Christ, to whom be
 the glory forever and ever. Amen.
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-13-22">
 But I exhort you, brothers, endure the word of exhortation, for I have
 written to you in few words.
