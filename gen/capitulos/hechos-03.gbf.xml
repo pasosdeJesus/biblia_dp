@@ -6,7 +6,7 @@ Peter and John were going up into the temple at the hour of prayer,
 <wi type="G" value="846,3,"/>
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="2491,7,">Juan</wi>
-<wi type="G" value="305,8,">iban</wi>
+<wi type="G" value="305,8,">subían</wi>
 <wi type="G" value="1909,1,">juntos</wi>
 <wi type="G" value="3588,2,"/>
 <wi type="G" value="1519,9,">al</wi>
@@ -20,7 +20,7 @@ Peter and John were going up into the temple at the hour of prayer,
 <wi type="G" value="3588,17,"/>
 </t>
 <rb>the ninth hour<t xml:lang="es">
-<wi type="G" value="1766,18,">la novena</wi> hora</t>
+era <wi type="G" value="1766,18,">la novena</wi> hora</t>
 <rf>3:00 P.M.<t xml:lang="es">3:00 P.M.</t></rf>
 </rb>
 .
@@ -33,13 +33,13 @@ temple which is called Beautiful, to ask gifts for the needy of those who
 entered into the temple.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="5100,2,">Cierto</wi>
 <wi type="G" value="435,3,">hombre</wi>
-<wi type="G" value="5560,4,">que era incapacitado</wi>
+<wi type="G" value="5560,4,">que era cojo</wi>
 <wi type="G" value="1537,5,">desde</wi>
 <wi type="G" value="2836,6,">el vientre</wi> de
 <wi type="G" value="846,8,">su</wi>
 <wi type="G" value="5225,9,"/>
 <wi type="G" value="3384,7,">madre</wi>,
-<wi type="G" value="941,10,">estaba siendo cargado</wi>, pues
+<wi type="G" value="941,10,">era cargado</wi>, pues
 <wi type="G" value="3739,11,">lo</wi>
 <wi type="G" value="5087,12,">dejaban</wi>
 <wi type="G" value="2250,14,">a diario</wi> <wi type="G" value="2596,13,"/>
@@ -149,7 +149,7 @@ raised him up. Immediately his feet and his ankle bones received strength.
 <wi type="G" value="4084,2,">tomó</wi>
 <wi type="G" value="5495,6,">de la mano</wi>
 <wi type="G" value="3588,4,"/>
-<wi type="G" value="1188,5,">derecha</wi>,
+<wi type="G" value="1188,5,">derecha</wi>
 <wi type="G" value="2532,1,">y</wi> lo
 <wi type="G" value="1453,7,">levantó</wi>.
 <wi type="G" value="1161,9,"/>
@@ -185,7 +185,8 @@ temple, walking, leaping, and praising God.
 </sv>
 <sv id="Hechos-3-9">
 All the people saw him walking and praising God.
-<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3956,4,">Toda</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3956,4,">toda</wi>
 <wi type="G" value="3588,5,"/>
 <wi type="G" value="2992,6,">la gente</wi>
 <wi type="G" value="846,3,">lo</wi>
@@ -234,7 +235,7 @@ wondering.
 <wi type="G" value="5560,5,">el incapacitado</wi>
 <wi type="G" value="3588,3,"/>
 <wi type="G" value="2390,4,">que fue sanado</wi>
-<wi type="G" value="2902,1,">se mantenía</wi> con
+<wi type="G" value="2902,1,">se quedó</wi> con
 <wi type="G" value="3588,6,"/>
 <wi type="G" value="4074,7,">Pedro</wi>
 <wi type="G" value="2532,8,">y</wi>

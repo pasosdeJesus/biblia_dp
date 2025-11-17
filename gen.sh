@@ -5,5 +5,7 @@
 trad=`grep -l "wi type" *gbfxml`
 (for i in $trad; do  n=`echo $i | sed -e "s/.gbfxml//"`; echo $n; ./gbfxml2usfm.sh $i gen/usfm; done)
 node herram/extmorf.js
-cp gen/usfm/marcos-*.usfm ia/piedra_fundamental/
+# Por ahora no corregimos sutiles problemas en Marcos para ayudarnos a detectar que
+# modelos lo logran
+#cp gen/usfm/marcos-*.usfm ia/piedra_fundamental/
 

@@ -68,19 +68,19 @@ he would not be a priest at all, seeing there are priests who offer the gifts
 according to the law;
 <t xml:lang="es"><wi type="G" value="1063,3,">Pues</wi>,
 <wi type="G" value="3303,2,">de hecho</wi>,
-<wi type="G" value="1487,1,">si</wi> 
-<wi type="G" value="2258,4,">estuviera</wi> 
-<wi type="G" value="1909,5,">en</wi> 
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="2258,4,">estuviera</wi>
+<wi type="G" value="1909,5,">en</wi>
 <wi type="G" value="1093,6,">la tierra</wi>
-<wi type="G" value="3761,7,">ya no</wi> 
-<wi type="G" value="302,8,"/><wi type="G" value="2258,9,">sería</wi> 
+<wi type="G" value="3761,7,">ya no</wi>
+<wi type="G" value="302,8,"/><wi type="G" value="2258,9,">sería</wi>
 <wi type="G" value="2409,10,">sacerdote</wi>,
-<wi type="G" value="5607,11,">habiendo</wi> 
-<wi type="G" value="3588,12,"><wi type="G" value="2409,13,">sacerdotes</wi></wi> 
+<wi type="G" value="5607,11,">habiendo</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2409,13,">sacerdotes</wi></wi>
 <wi type="G" value="3588,14,">que</wi>
-<wi type="G" value="4374,15,">ofrecen</wi> 
-<wi type="G" value="3588,19,"><wi type="G" value="1435,20,">presentes</wi></wi> 
-<wi type="G" value="2596,16,">de acuerdo</wi> 
+<wi type="G" value="4374,15,">ofrecen</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="1435,20,">presentes</wi></wi>
+<wi type="G" value="2596,16,">de acuerdo</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="3551,18,">a la ley</wi></wi>;
 </t>
 </sv>
@@ -89,52 +89,201 @@ who serve a copy and shadow of the heavenly
 things, even as Moses was warned by God when he was about to make the
 tabernacle, for he said, «See, you shall make everything according to the
 pattern that was shown to you on the mountain.»
+<t xml:lang="es"><wi type="G" value="3748,1,">que</wi>
+<wi type="G" value="3000,5,">sirven</wi>
+<wi type="G" value="5262,2,">de ejemplo</wi>
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="4639,4,">sombra</wi>
+<wi type="G" value="3588,6,">de las cosas</wi>
+<wi type="G" value="2032,7,">celestial</wi>,
+<wi type="G" value="2531,8,">así como</wi>
+<wi type="G" value="3475,10,">Moisés</wi>
+<wi type="G" value="5537,9,">fue advertido por Dios</wi>
+<wi type="G" value="3195,11,">cuando iba</wi>
+<wi type="G" value="2005,12,">construir</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="4633,14,">el tabernáculo</wi></wi>,
+<wi type="G" value="1063,16,">pues</wi>,
+<wi type="G" value="5346,17,">dijo</wi>,
+«<wi type="G" value="3708,15,">Mira</wi>, <wi type="G" value="4160,18,">debes hacer</wi>
+<wi type="G" value="3956,19,">todo</wi>
+<wi type="G" value="2596,20,">de acuerdo</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="5179,22,">al patrón</wi></wi> que
+<wi type="G" value="4671,25,">se te</wi>
+<wi type="G" value="3588,23,"/><wi type="G" value="1166,24,">mostró</wi>
+<wi type="G" value="1722,26,">en</wi>
+<wi type="G" value="3588,27,"><wi type="G" value="3735,28,">el monte</wi></wi>.»
+</t>
 </sv>
 <sv id="Hebreos-8-6">
 But now he has obtained
 a more excellent ministry, by so much as he is also the mediator of a better
 covenant, which has been enacted on better promises.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="3570,1,">ahora</wi>
+<wi type="G" value="5177,4,">Él ha obtenido</wi>
+<wi type="G" value="3009,5,">un ministerio</wi>
+<wi type="G" value="1313,3,">más excelente</wi>,
+<wi type="G" value="3745,6,">por cuanto</wi>
+<wi type="G" value="2076,9,">Él es</wi>
+<wi type="G" value="2532,7,">también</wi>
+<wi type="G" value="3316,11,">el mediador</wi>
+<wi type="G" value="1242,10,">de un pacto</wi>
+<wi type="G" value="2909,8,">mejor</wi>,
+<wi type="G" value="3748,12,">que</wi>
+<wi type="G" value="3549,16,">ha sido establecido</wi>
+<wi type="G" value="1909,13,">sobre</wi>
+<wi type="G" value="2909,14,">mejores</wi>
+<wi type="G" value="1860,15,">promesas</wi>.
+</t>
 </sv>
 <sv id="Hebreos-8-7">
 For if that first
 covenant had been faultless, then no place would have been sought for a
 second.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="1565,5,">ese</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="4413,4,">primero</wi>
+<wi type="G" value="2258,6,">hubiera sido</wi>
+<wi type="G" value="273,7,">sin falta</wi>,
+<wi type="G" value="3756,8,">no habría</wi>
+<wi type="G" value="5117,12,">lugar</wi>
+<wi type="G" value="2212,11,">para buscar</wi>
+<wi type="G" value="302,9,"/><wi type="G" value="1208,10,">un segundo</wi>.
+</t>
 </sv>
 <sv id="Hebreos-8-8">
 For finding fault with them, he said,
-
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3201,1,">al encontrar falta</wi> en
+<wi type="G" value="846,3,">ellos</wi><rf>
+<citebib id="WEB"/> dice `al encontrar falta en ellos,´
+<citebib id="RVG2012"/> dice `reprendiéndolos.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`μεμφομενος´ se traduce como culpar, encontrar faltas.
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="3004,4,">dijo</wi>,</t>
 <cl/><fp>
 «Behold, the days come,» says the Lord,
+<t xml:lang="es">«<wi type="G" value="2400,5,">Observen</wi>,
+<wi type="G" value="2250,6,">los días</wi>
+<wi type="G" value="2064,7,">vienen</wi>,
+<wi type="G" value="3004,8,">dice</wi>
+<wi type="G" value="2962,9,">el Señor</wi>,</t>
 <cl/>
 «That I will make a new covenant with the house of Israel and with the house
 of Judah;
+<t xml:lang="es">
+«<wi type="G" value="2532,10,">Cuando</wi>
+<wi type="G" value="4931,11,">haré</wi>
+<wi type="G" value="1242,21,">un pacto</wi>
+<wi type="G" value="2537,22,">nuevo</wi>
+<wi type="G" value="1909,12,">con</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="3624,14,">la casa</wi></wi>
+<wi type="G" value="2474,15,">de Israel</wi>
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="1909,17,">con</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="3624,19,">la casa</wi></wi>
+<wi type="G" value="2448,20,">de Judá</wi>;
+</t>
 </fp>
 </sv></cm><cm type="PO">
 
 <sv id="Hebreos-8-9">
 Not according to the covenant that I made with their fathers,
+<t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
+<wi type="G" value="2596,2,">de acuerdo</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="1242,4,">al pacto</wi></wi>
+<wi type="G" value="3739,5,">que</wi>
+<wi type="G" value="4160,6,">hice</wi>
+con <wi type="G" value="846,9,">sus</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="3962,8,">padres</wi></wi>,</t>
 <cl/>
 In the day that I took them by the hand to lead them out of the land of
 Egypt;
+<t xml:lang="es"><wi type="G" value="1722,10,">En</wi>
+<wi type="G" value="2250,11,">el día</wi>
+que <wi type="G" value="846,16,">los</wi>
+<wi type="G" value="3450,13,"><wi type="G" value="1949,12,">tomé</wi></wi>
+<wi type="G" value="3588,14,"><wi type="G" value="5495,15,">de la mano</wi></wi>
+<wi type="G" value="1806,17,"><wi type="G" value="846,18,">para sacarlos</wi></wi>
+<wi type="G" value="1537,19,">de</wi>
+<wi type="G" value="1093,20,">la tierra</wi>
+<wi type="G" value="125,21,">de Egipto</wi>;</t>
 <cl/>
 For they didn´t continue in my covenant,
+<t xml:lang="es"><wi type="G" value="3754,22,">Pues</wi>
+<wi type="G" value="846,23,">ellos</wi>
+<wi type="G" value="3756,24,">no</wi>
+<wi type="G" value="1696,25,">se mantuvieron</wi>
+<wi type="G" value="1722,26,">en</wi>
+<wi type="G" value="3450,29,">mi</wi>
+<wi type="G" value="3588,27,"><wi type="G" value="1242,28,">pacto</wi></wi>,</t>
 <cl/>
 And I disregarded them,» says the Lord.
+<t xml:lang="es"><wi type="G" value="2504,30,">Y Yo</wi>
+<wi type="G" value="846,32,">los</wi> </t>
+<rb xml:lang="es"><wi type="G" value="272,31,">ignoré</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen ignoré,
+<citebib id="RVG2012"/> dice `menosprecié.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`ημελησα´ se traduce como  ser descuidado, descuidar.
+</rf></rb>
+<t xml:lang="es">,»
+<wi type="G" value="3004,33,">dice</wi>
+<wi type="G" value="2962,34,">el Señor</wi>.</t>
 <cl/>
 
 </sv>
 <sv id="Hebreos-8-10">
 «For this is the covenant that I will make with the house of Israel.
+<t xml:lang="es">«<wi type="G" value="3754,1,">Entonces</wi>
+<wi type="G" value="3778,2,">este</wi> es
+<wi type="G" value="3588,3,"><wi type="G" value="1242,4,">el pacto</wi></wi>
+<wi type="G" value="3739,5,">que</wi>
+<wi type="G" value="1303,6,">haré</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="3624,8,">con la casa</wi></wi>
+<wi type="G" value="2474,9,">de Israel</wi>.</t>
 <cl/>
 After those days,» says the Lord;
+<t xml:lang="es"><wi type="G" value="3326,10,">Después de</wi>
+<wi type="G" value="1565,13,">esos</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2250,12,">días</wi></wi>,»
+<wi type="G" value="3004,14,">dice</wi>
+<wi type="G" value="2962,15,">el Señor</wi>:</t>
 <cl/>
 «I will put my laws into their mind,
+<t xml:lang="es">«<wi type="G" value="1325,16,">Pondré</wi>
+<wi type="G" value="3450,18,">mis</wi>
+<wi type="G" value="3551,17,">leyes</wi>
+<wi type="G" value="1519,19,">en</wi>
+<wi type="G" value="846,22,">sus</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="1271,21,">mentes</wi></wi>,</t>
 <cl/>
 I will also write them on their heart.
+<t xml:lang="es"><wi type="G" value="2532,23,">Y</wi>
+<wi type="G" value="846,28,">las</wi>
+<wi type="G" value="1924,27,">escribiré</wi>
+<wi type="G" value="1909,24,">en</wi>
+<wi type="G" value="846,26,">sus</wi>
+<wi type="G" value="2588,25,">corazones</wi>.</t>
 <cl/>
 I will be to them a God,
+<t xml:lang="es"><wi type="G" value="2532,29,">Y</wi>
+<wi type="G" value="2071,30,">seré</wi>
+<wi type="G" value="2316,33,">Dios</wi>
+<wi type="G" value="1519,32,">para</wi>
+<wi type="G" value="846,31,">ellos</wi>, </t>
 <cl/>
 And they will be to me a people.
+<t xml:lang="es"><wi type="G" value="2532,34,">Y</wi>
+<wi type="G" value="846,35,">ellos</wi>
+<wi type="G" value="2071,36,">serán</wi>
+<wi type="G" value="2992,39,">pueblo</wi>
+<wi type="G" value="1519,38,">para</wi>
+<wi type="G" value="3427,37,">mi</wi>.
+</t>
 <cl/>
 
 </sv>

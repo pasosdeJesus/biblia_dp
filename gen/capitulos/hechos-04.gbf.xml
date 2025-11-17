@@ -26,7 +26,7 @@ of the temple and the Sadducees came to them,
 <sv id="Hechos-4-2">
 being upset because they taught
 the people and proclaimed in Jesus the resurrection from the dead.
-<t xml:lang="es"><wi type="G" value="1278,1,">disgustados</wi>
+<t xml:lang="es"><wi type="G" value="1278,1,">molestos</wi>
 <wi type="G" value="1223,2,">porque</wi>
 <wi type="G" value="3588,3,"/>
 <wi type="G" value="1321,4,"><wi type="G" value="846,5,">enseñaban</wi></wi> a
@@ -41,7 +41,7 @@ the people and proclaimed in Jesus the resurrection from the dead.
 <wi type="G" value="386,14,">la resurrección</wi>
 <wi type="G" value="3588,15,"/>
 <wi type="G" value="1537,16,">de</wi>
-<wi type="G" value="3498,17,">la muerte</wi>. </t>
+<wi type="G" value="3498,17,">los muertos</wi>. </t>
 </sv>
 <sv id="Hechos-4-3">
 They laid hands on them, and put them in custody until the next day,
@@ -53,7 +53,7 @@ for it was now evening.
 <wi type="G" value="3588,4,"/>
 <wi type="G" value="2532,6,">y</wi> los
 <wi type="G" value="5087,7,">dejaron</wi>
-<wi type="G" value="1519,8,">bajo</wi>
+<wi type="G" value="1519,8,">en</wi>
 <wi type="G" value="5084,9,">custodia</wi>
 <wi type="G" value="1519,10,">hasta</wi>
 <wi type="G" value="3588,11,"/>
@@ -95,7 +95,7 @@ gathered together in Jerusalem.
 <wi type="G" value="4863,6,">que</wi> se reunieron
 <wi type="G" value="846,7,">sus</wi>
 <wi type="G" value="3588,8,"/>
-<wi type="G" value="758,9,">dirigentes</wi>,
+<wi type="G" value="758,9,">gobernantes</wi>,
 <wi type="G" value="2532,10,"/>
 <wi type="G" value="4245,11,">los ancianos</wi>
 <wi type="G" value="2532,12,">y</wi>
@@ -120,11 +120,11 @@ Caiaphas, John, Alexander, and as many as were relatives of the high priest.
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="223,12,">Alejandro</wi> </t>
 <rb xml:lang="es"><wi type="G" value="2532,13,">y</wi> con
-<wi type="G" value="3745,14,">tantos como</wi>
+<wi type="G" value="3745,14,">todos los que</wi>
 <wi type="G" value="2258,15,">eran</wi>
 <wi type="G" value="1537,16,">del</wi>
-<wi type="G" value="1085,17,">linaje</wi> del
-<wi type="G" value="748,18,">sumo sacerdote</wi><rf><citebib id="WEB"/> dice
+<wi type="G" value="1085,17,">linaje</wi>
+<wi type="G" value="748,18,">sacerdotal</wi><rf><citebib id="WEB"/> dice
 `y tantos como eran parientes del sumo sacerdote,´
 <citebib id="SE"/> dice `y todos los que eran de linaje sacerdotal.´</rf></rb>
 <t xml:lang="es">.</t>
@@ -139,13 +139,13 @@ power, or in what name, have you done this?»
 <wi type="G" value="3319,6,">medio</wi>, les
 <wi type="G" value="4441,7,">preguntaron</wi>,
 «¿<wi type="G" value="1722,8,">Por</wi>
-<wi type="G" value="4169,9,">cúal</wi>
+<wi type="G" value="4169,9,">cuál</wi>
 <wi type="G" value="1411,10,">poder</wi>,
 <wi type="G" value="2228,11,">o</wi>
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="3686,14,">nombre</wi>
 de <wi type="G" value="4169,13,">quien</wi>
-<wi type="G" value="4160,15,"><wi type="G" value="5210,17,">han hecho</wi></wi>
+<wi type="G" value="4160,15,"><wi type="G" value="5210,17,">hicieron</wi></wi>
 <wi type="G" value="5124,16,">esto</wi>?» </t>
 
 </sv></cm><cm>
@@ -155,7 +155,7 @@ rulers of the people, and elders of Israel,
 <t xml:lang="es"><wi type="G" value="5119,1,">Entonces</wi>
 <wi type="G" value="4074,2,">Pedro</wi>,
 <wi type="G" value="4130,3,">lleno</wi>
-<wi type="G" value="4151,4,">de Espíritu</wi>
+<wi type="G" value="4151,4,">del Espíritu</wi>
 <wi type="G" value="40,5,">Santo</wi>,
 <wi type="G" value="4314,7,"/>
 <wi type="G" value="846,8,">les</wi>
@@ -201,7 +201,7 @@ does this man stand here before you whole.
 <wi type="G" value="2992,8,">la gente</wi>
 <wi type="G" value="2474,9,">de Israel</wi>,
 <wi type="G" value="3754,10,">que</wi>
-ha sido <wi type="G" value="1722,11,">en</wi>
+fue <wi type="G" value="1722,11,">en</wi>
 <wi type="G" value="3588,12,"/>
 <wi type="G" value="3686,13,">el nombre</wi>
 <wi type="G" value="2424,14,">de Jesús</wi>
@@ -217,26 +217,25 @@ ha sido <wi type="G" value="1722,11,">en</wi>
 <wi type="G" value="1453,24,">resucitó</wi>
 <wi type="G" value="1537,25,">de</wi>
 <wi type="G" value="3498,26,">la muerte</wi>; </t>
-<rb xml:lang="es"><wi type="G" value="1722,27,">por</wi> Él<rf><citebib id="WEB"/>
-dice `en Él,´
+<rb xml:lang="es"><wi type="G" value="1722,27,">por</wi> Él<rf>
+<citebib id="WEB"/> dice `en Él,´
 <citebib id="SE"/> y <citebib id="Gideons"/> dice `por Él.´</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="5129,28,">este</wi>
 <wi type="G" value="3778,29,">hombre</wi>
 <wi type="G" value="3936,30,">está</wi>
-<wi type="G" value="1799,31,">frente</wi>
-<wi type="G" value="5216,32,">a ustedes</wi>
-<wi type="G" value="5199,33,">sano</wi>. </t>
+<wi type="G" value="5199,33,">sano</wi>
+<wi type="G" value="1799,31,">delante</wi>
+<wi type="G" value="5216,32,">de ustedes</wi>. </t>
 </sv>
 <sv id="Hechos-4-11">
 He is `the stone which was regarded as worthless by you, the builders,
 which has become the head of the corner.´
-<rb xml:lang="es"><wi type="G" value="3778,1,">El mismo</wi>
-<wi type="G" value="3588,5,">que</wi>
-<wi type="G" value="2076,2,">es</wi>
-<wi type="G" value="3588,3,"/>
-`<wi type="G" value="3037,4,">la piedra</wi><rf><citebib id="WEB"/>
-dice `Él es la piedra,´ <citebib id="KJV2003"/> dice `Este es la piedra,´
+<rb xml:lang="es"><wi type="G" value="3778,1,">Este</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="2076,2,">es</wi>
+`<wi type="G" value="3588,3,"/><wi type="G" value="3037,4,">la piedra</wi><rf>
+<citebib id="WEB"/> dice `Él es la piedra,´ 
+<citebib id="KJV2003"/> dice `Este es la piedra,´
 según <citebib id="Thayer-BLB"/> la palabra griega `οὗτος´ se traduce
 como este, estos, aunque muestra que en algunos casos se ha traducido como
 ella, ellos, él, el mismo.</rf></rb>
@@ -244,14 +243,14 @@ ella, ellos, él, el mismo.</rf></rb>
 <wi type="G" value="5259,7,">por</wi>
 <wi type="G" value="5216,8,">ustedes</wi>,
 <wi type="G" value="3588,9,"/>
-<wi type="G" value="3618,10,">constructores</wi>,
+<wi type="G" value="3618,10,">edificadores</wi>,
 <wi type="G" value="3588,11,">que</wi>
 <wi type="G" value="1096,12,">fue hecha</wi>
  </t>
 <rb xml:lang="es"><wi type="G" value="2776,14,">cabeza</wi>
 <wi type="G" value="1519,13,">de</wi>
 <wi type="G" value="1137,15,">la esquina</wi><rf><citebib id="SE"/> dice
-`cabeza del ángulo.´</rf></rb>
+`cabeza del ángulo.´ Es típico `piedra angular.´</rf></rb>
 <t xml:lang="es">.´ </t>
 </sv>
 <sv id="Hechos-4-12">
@@ -280,8 +279,8 @@ dice `salud.´</rf></rb>
 <wi type="G" value="1325,18,">dado</wi>
 <wi type="G" value="1722,19,">a</wi>
 <wi type="G" value="444,20,">los hombres</wi>,
-<wi type="G" value="1722,21,">por quien</wi>
-<wi type="G" value="3739,22,"/>
+<wi type="G" value="1722,21,">por</wi>
+<wi type="G" value="3739,22,">quien</wi>
 <wi type="G" value="1163,23,"><wi type="G" value="2248,25,">debamos</wi></wi>
  </t>
 <rb xml:lang="es"><wi type="G" value="4982,24,">ser salvos</wi><rf><citebib id="Gideons"/> dice `bendecidos.´</rf></rb>
@@ -295,7 +294,7 @@ that they had been with Jesus.
 <t xml:lang="es"><wi type="G" value="1161,2,"/><wi type="G" value="2334,1,">Cuando vieron</wi>
 <wi type="G" value="3588,3,"/>
 <wi type="G" value="3588,4,"/>
-<wi type="G" value="3954,6,">el coraje</wi>
+<wi type="G" value="3954,6,">la valentía</wi>
 <wi type="G" value="4074,5,">de Pedro</wi>
 <wi type="G" value="2532,7,">y</wi>
 <wi type="G" value="2491,8,">Juan</wi>,
@@ -306,14 +305,14 @@ that they had been with Jesus.
 <wi type="G" value="444,12,">hombres</wi>
 <wi type="G" value="62,13,">sin educación</wi>
 <wi type="G" value="2532,15,">y</wi> </t>
-<rb xml:lang="es"><wi type="G" value="2399,16,">simples</wi><rf><citebib id="WEB"/>
+<rb xml:lang="es"><wi type="G" value="2399,16,">comunes</wi><rf><citebib id="WEB"/>
 dice `ignorantes,´ <citebib id="Gideons"/> dice `simples.´</rf></rb>
 <t xml:lang="es">, <wi type="G" value="2296,17,">se maravillaron</wi>
 <wi type="G" value="5037,19,">y</wi>
 <wi type="G" value="1921,18,">reconocieron</wi>
 <wi type="G" value="3754,21,">que</wi>
 <wi type="G" value="846,20,">ellos</wi>
-<wi type="G" value="2258,25,">estuvieron</wi>
+<wi type="G" value="2258,25,">habían estado</wi>
 <wi type="G" value="4862,22,">con</wi>
 <wi type="G" value="3588,23,"/>
 <wi type="G" value="2424,24,">Jesús</wi>. </t>
@@ -355,7 +354,7 @@ notable miracle has been done through them, as can be plainly seen by all who
 dwell in Jerusalem, and we can´t deny it.
 <t xml:lang="es"><wi type="G" value="3004,1,">diciendo</wi>, «¿
 <wi type="G" value="5101,2,">Qué</wi>
-<wi type="G" value="4160,3,">debemos hacer</wi> con
+<wi type="G" value="4160,3,">hacemos</wi> con
 <wi type="G" value="3588,4,"/>
 <wi type="G" value="5125,6,">estos</wi>
 <wi type="G" value="444,5,">hombres</wi>?
@@ -364,7 +363,7 @@ dwell in Jerusalem, and we can´t deny it.
 <wi type="G" value="3303,8,">de hecho</wi>
 <wi type="G" value="1223,13,">por</wi>
 <wi type="G" value="846,14,">ellos</wi>
-<wi type="G" value="1096,12,">se ha realizado</wi>
+<wi type="G" value="1096,12,">se hizo</wi>
 <wi type="G" value="4592,11,">un milagro</wi>
 <wi type="G" value="1110,10,">notable</wi>,
 <wi type="G" value="5318,19,">manifestado</wi>
@@ -541,12 +540,20 @@ who made the heaven, the earth, the sea, and all that is in them;
 <wi type="G" value="3661,4,">en un acorde</wi>,
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="2036,11,">dijeron</wi>,
-«<wi type="G" value="1203,12,">Señor</wi>,
+«</t>
+<rb xml:lang="es"><wi type="G" value="1203,12,">Soberano</wi>,<rf>
+<citebib id="WEB"/> dice  `Señor,´
+<citebib id="RV1960"/> dice `Soberano.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `δεσποτα´ 
+puede traducirse como maestro, Señor. Y cita
+como sinonimo de Trench `κύριος.´
+</rf></rb>
+<t xml:lang="es">
 <wi type="G" value="4771,13,">tu</wi>
 <wi type="G" value="3588,14,"/>
 eres <wi type="G" value="2316,15,">Dios</wi>
 <wi type="G" value="3588,16,">que</wi>
-<wi type="G" value="4160,17,">ha creado</wi>
+<wi type="G" value="4160,17,">has creado</wi>
 <wi type="G" value="3588,18,"/>
 <wi type="G" value="3772,19,">el cielo</wi>,
 <wi type="G" value="2532,20,">y</wi>
@@ -783,7 +790,7 @@ possessed was his own, but they had all things in common.
 <wi type="G" value="3588,4,"/>
 <wi type="G" value="4100,5,">de creyentes</wi>
 <wi type="G" value="2258,6,">era</wi>
-<wi type="G" value="1520,12,">un</wi>
+<wi type="G" value="1520,12,">de un</wi>
 <wi type="G" value="3588,7,"/>
 <wi type="G" value="2588,8,">corazón</wi>
 <wi type="G" value="2532,9,">y</wi>
@@ -793,7 +800,7 @@ possessed was his own, but they had all things in common.
 <wi type="G" value="3761,14,"><wi type="G" value="5100,16,">Ninguno</wi></wi>
 <wi type="G" value="1520,15,"/>
 <wi type="G" value="3004,20,">proclamaba</wi>
-<wi type="G" value="3588,17,">que</wi> <wi type="G" value="5224,18,">un bien</wi>
+<wi type="G" value="3588,17,">que</wi> <wi type="G" value="5224,18,">algún bien</wi>
 <wi type="G" value="1511,22,">fuera</wi>
 de <wi type="G" value="846,19,">su</wi>
 <wi type="G" value="2398,21,">propiedad</wi>,
@@ -885,14 +892,14 @@ interpreted, Son of Encouragement), a Levite, a man of Cyprus by race,
 <wi type="G" value="921,5,">Barnabas</wi>
 (<wi type="G" value="3739,9,">que</wi> <wi type="G" value="2076,10,"><wi type="G" value="3177,11,">significa</wi></wi> </t>
 <rb xml:lang="es"><wi type="G" value="5207,12,">Hijo</wi>
-<wi type="G" value="3874,13,">del Ánimo </wi><rf><citebib id="WEB"/>
-dice `Hijo del Incentivo,´ <citebib id="RV1960"/>, <citebib id="KJV2003"/>
+<wi type="G" value="3874,13,">de la consolación</wi><rf><citebib id="WEB"/>
+dice `Hijo del ánimo,´ <citebib id="RV1960"/>, <citebib id="KJV2003"/>
 y <citebib id="DiosHablaHoy"/> dicen `Hijo de Consolación.´ Según
 <citebib id="Thayer-BLB"/> la palabra griega `παράκλησις´ puede traducirse
 como suplica, exortación, consolación, solaz.</rf></rb>
 <t xml:lang="es">),
 <wi type="G" value="3019,14,">un Levita</wi>, <wi type="G" value="3588,16,"/>
-de la <wi type="G" value="1085,17,">nación</wi> de
+<wi type="G" value="1085,17,">nacido</wi> en
 <wi type="G" value="2953,15,">Chipre</wi>, </t>
 </sv>
 <sv id="Hechos-4-37">
