@@ -5346,9 +5346,9 @@ as her own son.
 <wi type="G" value="337,4,"/>
 <wi type="G" value="3588,6,"><wi type="G" value="2364,7,">la hija</wi></wi>
 <wi type="G" value="5328,8,">del faraón</wi>
-<wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="846,5,">lo</wi>
-<wi type="G" value="397,10,">tomó</wi>, y
+<wi type="G" value="397,10,">tomó</wi>
+<wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="846,11,">lo</wi>
 <wi type="GC" value="10">crió</wi>
 <wi type="G" value="1519,13,">como</wi>
@@ -6381,7 +6381,7 @@ and lame were healed.
 <wi type="G" value="4151,5,">espíritus</wi>
 <wi type="G" value="169,6,">impuros</wi>
 <wi type="G" value="4183,1,">de muchos</wi> que
-<wi type="G" value="2192,4,">estaban poseidos</wi>.
+<wi type="G" value="2192,4,">estaban poseídos</wi>.
 Salieron, <wi type="G" value="994,7,">gritando</wi>
 <wi type="G" value="3173,8,">con fuerte</wi>
 <wi type="G" value="5456,9,">voz</wi>.
@@ -6629,7 +6629,7 @@ money!
 <wi type="G" value="3543,19,">pensaste</wi>
 <wi type="G" value="1223,20,">que</wi>
 <wi type="G" value="2932,22,">podías comprar</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="1431,16,">los dondes</wi></wi>
+<wi type="G" value="3588,15,"><wi type="G" value="1431,16,">los dones</wi></wi>
 <wi type="G" value="3588,17,"><wi type="G" value="2316,18,">de Dios</wi></wi>
 <wi type="G" value="5536,21,">con dinero</wi>! </t>
 </sv>
@@ -6805,14 +6805,12 @@ asocia `a cargo´ con la palabra griega `ἐπί´ que según
 He was returning and
 sitting in his chariot, and was reading the prophet Isaiah.
 <t xml:lang="es"><wi type="G" value="2258,1,"/><wi type="G" value="5290,3,">Regresaba</wi>
-<wi type="G" value="5037,2,"/>
-<wi type="G" value="2532,4,">y</wi>
-<wi type="G" value="2521,5,">sentado</wi>
+<wi type="G" value="5037,2,"/><wi type="G" value="2532,4,"/><wi type="G" value="2521,5,">sentado</wi>
 <wi type="G" value="1909,6,">en</wi>
 <wi type="G" value="846,9,">su</wi>
 <wi type="G" value="3588,7,"><wi type="G" value="716,8,">carroza</wi></wi>,
 <wi type="G" value="2532,10,">y</wi>
-estaba <wi type="G" value="314,11,">leyendo</wi>
+<wi type="G" value="314,11,">leía</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="4396,13,">al profeta</wi></wi>
 <wi type="G" value="2268,14,">Isaías</wi>. </t>
 </sv></cm>
@@ -6835,13 +6833,12 @@ Philip ran to him, and heard him reading Isaiah the prophet, and said,
 «Do you understand what you are reading?»
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="5376,4,">Felipe</wi></wi>
-<wi type="G" value="4370,1,">corrío</wi> hacía él, y al
+<wi type="G" value="4370,1,">corrió</wi> hacia él, y al
 <wi type="G" value="191,5,"><wi type="G" value="846,6,">escucharlo</wi></wi>
 <wi type="G" value="314,7,">leyendo</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="4396,9,">al profeta</wi></wi>
 <wi type="G" value="2268,10,">Isaías</wi>,
-<wi type="G" value="2532,11,">y</wi>
-le
+<wi type="G" value="2532,11,"/> le
 <wi type="G" value="2036,12,">dijo</wi>,
 <wi type="G" value="687,13,"/>
 <wi type="G" value="1065,14,"/>
@@ -6924,7 +6921,7 @@ le <wi type="G" value="142,8,">fue retirado</wi>
 <wi type="G" value="1161,10,"/> </t>
 <cl/>
 Who will declare His generation?
-<t xml:lang="es">¿<wi type="G" value="5101,13,">Quien</wi>
+<t xml:lang="es">¿<wi type="G" value="5101,13,">Quién</wi>
 <wi type="G" value="1334,14,">declarará</wi>
 <wi type="G" value="846,12,">Su</wi>
 <wi type="G" value="1074,11,">generación</wi>? </t>
@@ -6979,7 +6976,7 @@ him Jesus.
 <wi type="G" value="3778,13,">la misma</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="1124,12,">Escritura</wi></wi>,
 <wi type="G" value="846,15,">le</wi>
-<wi type="G" value="2097,14,">predico</wi> sobre </t>
+<wi type="G" value="2097,14,">predicó</wi> sobre </t>
 <rb xml:lang="es"><wi type="G" value="3588,16,"><wi type="G" value="2424,17,">Jesús</wi></wi><rf><citebib id="Gideons"/> dice `el
 evangelio de Jesús.´</rf></rb>
 <t xml:lang="es">. </t>
@@ -7119,8 +7116,8 @@ disciples of the Lord, went to the high priest,
 <wi type="G" value="1519,9,">contra</wi>
 <wi type="G" value="3588,10,"><wi type="G" value="3101,11,">los discípulos</wi></wi>
 <wi type="G" value="3588,12,"><wi type="G" value="2962,13,">del Señor</wi></wi>,
-<wi type="G" value="4334,14,">fue donde</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="749,16,">el sumo sacerdote</wi></wi>, </t>
+<wi type="G" value="4334,14,">fue</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="749,16,">al sumo sacerdote</wi></wi>, </t>
 </sv>
 
 <sv id="Hechos-9-2">
@@ -7139,7 +7136,7 @@ Way, whether men or women, he might bring them bound to Jerusalem.
 <wi type="G" value="1437,11,">si</wi>
 <wi type="G" value="2147,13,">encontraba</wi>
 <wi type="G" value="5100,12,">a alguno</wi> en
-<wi type="G" value="3588,14,"><wi type="G" value="3598,15,">el camino</wi></wi>,
+<wi type="G" value="3588,14,"><wi type="G" value="3598,15,">el Camino</wi></wi>,
 <wi type="G" value="5037,18,">bien</wi>
 <wi type="G" value="5607,16,">fuera</wi>
 <wi type="G" value="435,17,">hombre</wi>
@@ -7173,7 +7170,7 @@ from the sky shone around him.
 He fell on the earth, and heard a voice
 saying to him,
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
-<wi type="G" value="4098,2,">calló</wi>
+<wi type="G" value="4098,2,">cayó</wi>
 <wi type="G" value="1909,3,">a</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="1093,5,">tierra</wi></wi>
 <wi type="G" value="191,6,">y escuchó</wi>
@@ -7193,7 +7190,7 @@ He said, «Who are you, Lord?»
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="2036,1,">él dijo</wi>,
 «¿<wi type="G" value="5101,3,">Quién</wi>
-<wi type="G" value="1488,4,">eres tu</wi>,
+<wi type="G" value="1488,4,">eres Tú</wi>,
 <wi type="G" value="2962,5,">Señor</wi>?» </t>
 
 <cl/>
@@ -7338,10 +7335,9 @@ said to him in a vision,
 
 <cl/>
 He said, «Behold, it´s me, Lord.»
-<t xml:lang="es"><wi type="G" value="1161,19,"/>
-<wi type="G" value="2036,20,">Él dijo</wi>
-<wi type="G" value="3588,18,"/>, «<wi type="G" value="2400,21,">Observa</wi>,
-<wi type="G" value="1473,22,">soy yo</wi>,
+<t xml:lang="es"><wi type="G" value="1161,19,">Y</wi>
+<wi type="G" value="3588,18,"/><wi type="G" value="2036,20,">dijo</wi>
+«<wi type="G" value="2400,21,"><wi type="G" value="1437,22,">Heme aquí</wi></wi>
 <wi type="G" value="2962,23,">Señor</wi>.» </t>
 </sv></cm>
 <cm>
@@ -7470,7 +7466,7 @@ sake.»
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="846,4,">le</wi>
 <wi type="G" value="1473,1,"><wi type="G" value="5263,3,">mostraré</wi></wi>
-<wi type="G" value="3745,5,">cuantas cosas</wi> </t>
+<wi type="G" value="3745,5,">cuántas cosas</wi> </t>
 <rb xml:lang="es"><wi type="G" value="846,7,"><wi type="G" value="1163,6,">debe</wi></wi>
 <wi type="G" value="3958,12,">sufrir</wi>
 <wi type="G" value="5228,8,">por</wi>
@@ -7610,8 +7606,7 @@ had come here intending to bring them bound before the chief priests!»
 <wi type="G" value="71,28,"><wi type="G" value="846,27,">llevarlos</wi></wi>
 <wi type="G" value="1210,26,">presos</wi>
 <wi type="G" value="1909,29,">ante</wi>
-<wi type="G" value="3588,30,"><wi type="G" value="749,31,">el sumo
-sacerdote</wi></wi>!» </t>
+<wi type="G" value="3588,30,"><wi type="G" value="749,31,">los principales sacerdotes</wi></wi>!» </t>
 
 </sv></cm><cm>
 <sv id="Hechos-9-22">
@@ -7622,9 +7617,9 @@ at Damascus, proving that this is the Christ.
 <wi type="G" value="1743,4,">se fortalecía</wi>,
 <wi type="G" value="3123,3,">más</wi>
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="4797,6,">confundia</wi> a
+<wi type="G" value="4797,6,">confundía</wi> a
 <wi type="G" value="3588,7,"/>
-<wi type="G" value="2453,8,">los Judíos</wi>
+<wi type="G" value="2453,8,">los judíos</wi>
 <wi type="G" value="3588,9,">que</wi>
 <wi type="G" value="2730,10,">moraban</wi>
 <wi type="G" value="1722,11,">en</wi>
@@ -7645,7 +7640,7 @@ fulfilled, the Jews conspired together to kill him,
 <wi type="G" value="2425,5,">muchos</wi>
 <wi type="G" value="2250,4,">días</wi>,
 <wi type="G" value="3588,7,"/>
-<wi type="G" value="2453,8,">los Judíos</wi>
+<wi type="G" value="2453,8,">los judíos</wi>
 <wi type="G" value="4823,6,">conspiraron</wi>
 para
 <wi type="G" value="337,9,"><wi type="G" value="846,10,">matarlo</wi></wi>, </t>
@@ -7801,7 +7796,7 @@ Caesarea, and sent him off to Tarsus.
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="846,11,">lo</wi>
 <wi type="G" value="1821,10,">enviaron</wi>
-<wi type="G" value="1519,12,">donde</wi>
+<wi type="G" value="1519,12,">a</wi>
 <wi type="G" value="5019,13,">Tarso</wi>. </t>
 </sv>
 <sv id="Hechos-9-31">
@@ -7847,9 +7842,8 @@ also to the saints who lived at Lydda.
 <wi type="G" value="3956,6,">todas</wi> estas partes, que
 <wi type="G" value="2532,8,">también</wi>
 <wi type="G" value="2718,7,">fue</wi>
-<wi type="G" value="4314,9,">donde</wi>
-<wi type="G" value="3588,10,"/>
-<wi type="G" value="40,11,">los santos</wi>
+<wi type="G" value="4314,9,">a</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="40,11,">los santos</wi>
 <wi type="G" value="3588,12,">que</wi>
 <wi type="G" value="2730,13,">vivían</wi>
 <wi type="G" value="3069,14,">en Lida</wi>. </t>
@@ -7910,12 +7904,11 @@ Sharon saw him, and they turned to the Lord.
 <wi type="G" value="3069,7,">en Lida</wi>
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="4565,10,">en Sarón</wi></wi>
-<wi type="G" value="846,3,">lo</wi>
+y que <wi type="G" value="846,3,">lo</wi>
 <wi type="G" value="1492,2,">vieron</wi>,
-y
-<wi type="G" value="1994,12,">se dieron vuelta</wi>
-<wi type="G" value="1909,13,">hacia</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="2962,15,">el Señor</wi></wi>. </t>
+<wi type="G" value="1994,12,">se convirtieron</wi>
+<wi type="G" value="1909,13,">al</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2962,15,">Señor</wi></wi>. </t>
 
 </sv></cm><cm>
 <sv id="Hechos-9-36">
@@ -7998,7 +7991,7 @@ omitido por <citebib id="NU"/>, <citebib id="TR"/> y
 <citebib id="TR-BLB"/> como `δύο ἄνδρας.´</t></rf>
 </rb>
  to him, imploring him not to delay in coming to them.
-<t xml:lang="es"> <wi type="G" value="4314,18,">donde</wi>
+<t xml:lang="es"> <wi type="G" value="4314,18,">a</wi>
 <wi type="G" value="846,19,">él</wi>,
 <wi type="G" value="3870,20,">para pedirle que</wi>
 <wi type="G" value="3361,21,">no</wi>
@@ -8044,7 +8037,7 @@ tomado de <citebib id="SE"/></rf></rb>
 Peter put them all out, and kneeled down and prayed. Turning to the
 body, he said, «Tabitha, get up!» She opened her eyes, and when she saw
 Peter, she sat up.
-<t xml:lang="es"><wi type="G" value="1161,2,">Más</wi>
+<t xml:lang="es"><wi type="G" value="1161,2,">Mas</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="4074,6,">Pedro</wi></wi>
 <wi type="G" value="1544,1,">los sacó</wi>
 <wi type="G" value="1854,3,">afuera</wi>
@@ -8180,13 +8173,13 @@ and saying to him, «Cornelius!»
 <wi type="G" value="1722,2,">en</wi>
 <wi type="G" value="3705,3,">una visión</wi> a
 <wi type="G" value="32,10,">un ángel</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="2316,12,">del Señor</wi></wi>
-<wi type="G" value="1525,13,">que llegaba</wi>
-<wi type="G" value="4314,14,">donde</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2316,12,">de Dios</wi></wi>
+<wi type="G" value="1525,13,">que vino</wi>
+<wi type="G" value="4314,14,">a</wi>
 <wi type="G" value="846,15,">él</wi>
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="846,18,">le</wi>
-<wi type="G" value="2036,17,">decía</wi>,
+<wi type="G" value="2036,17,">dijo</wi>,
 «¡<wi type="G" value="2883,19,">Cornelio</wi>!» </t>
 
 </sv></cm><cm>
@@ -8196,10 +8189,10 @@ Lord?»
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="846,4,">lo</wi>
 <wi type="G" value="816,3,">miró</wi>
-<wi type="G" value="2532,5,"/>
 <wi type="G" value="1719,6,"><wi type="G" value="1096,7,">asustado</wi></wi>
-<wi type="G" value="2036,8,">y dijo</wi>,
-«¿<wi type="G" value="5101,9,">Que</wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="2036,8,">dijo</wi>,
+«¿<wi type="G" value="5101,9,">Qué</wi>
 <wi type="G" value="2076,10,">es</wi>,
 <wi type="G" value="2962,11,">Señor</wi>?» </t>
 <cl/>
@@ -8242,7 +8235,7 @@ the seaside.
 <wi type="G" value="3844,3,">con</wi>
 <wi type="G" value="5100,4,">un</wi>
 <wi type="G" value="4613,5,">Simón</wi>,
-<wi type="G" value="1038,6,">un curtidor</wi>,
+<wi type="G" value="1038,6,">curtidor</wi>,
 <wi type="G" value="3739,7,">cuya</wi>
 <wi type="G" value="3614,9,">casa</wi>
 <wi type="G" value="2076,8,">está</wi>
@@ -20868,7 +20861,7 @@ send him to Caesar.»
 <wi type="G" value="1233,11,">decisión</wi> del
 <wi type="G" value="3588,9,"/>
 <wi type="G" value="4575,10,">emperador</wi><rf><citebib id="SE"/> dice
-`Mas apelando Pablo a ser
+`Más apelando Pablo a ser
 guardado al conocimiento de Augusto,´ según
 <citebib id="Thayer-BLB"/> la palabra griega `τηρέω´ traduce
 atender cuidadosamente, guardar, observar, reservar; mientras que
