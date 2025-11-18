@@ -3218,7 +3218,19 @@ I will remember their sins and lawless deeds no more.»
 <sv id="Hebreos-8-13">
 In that he says, «A new covenant,» he has made the first old. But that
 which is becoming old and grows aged is near to vanishing away.
-
+<t xml:lang="es"><wi type="G" value="1722,1,">Al</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="3004,3,">decir</wi>
+«<wi type="G" value="2537,4,">nuevo</wi> pacto,»
+<wi type="G" value="3822,5,">ha hecho viejo</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="4413,7,">al primero</wi>.
+<wi type="G" value="1161,9,">Y</wi>
+<wi type="G" value="3588,8,">lo que</wi>
+<wi type="G" value="3822,10,">decae</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="1095,12,">envejece</wi>
+está <wi type="G" value="1451,13,">listo</wi>
+<wi type="G" value="854,14,">a desaparecer</wi>.
+</t>
 <cl/>
 </sv></cm></sc>
 
@@ -3226,12 +3238,30 @@ which is becoming old and grows aged is near to vanishing away.
 <cm>
 <sv id="Hebreos-9-1">
 Now indeed even the first
-<rb>
-<t xml:lang="es"/><rf>TR adds «tabernacle»<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="3767,3,">Ahora</wi>
+<wi type="G" value="3303,2,">de hecho</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="4413,6,">el primero</wi></wi></t>
+<rb><t xml:lang="es"><wi type="G" value="4633,7,">tabernáculo</wi></t><rf>
+TR adds «tabernacle»<t xml:lang="es">
+<citebib id="WEB"/>, <citebib id="KJV2003"/> y
+<citebib id="RVG2012"/> dicen `pacto´ en lugar de tabernáculo. 
+<citebib id="WEB"/> agrega nota al pie que dice `TR añade «tabernaculo»´
+Revisando <citebib id="TR-BLB"/> se ve en la posición 7 la
+palabra griega σκηνή que se traduce como tabernáculo.
+</t></rf>
 </rb>
  covenant had
 ordinances of divine service, and an earthly sanctuary.
+<t xml:lang="es">
+<wi type="G" value="2192,1,">tenía</wi>
+<wi type="G" value="2532,4,">también</wi>
+<wi type="G" value="1345,7,">ordenanzas</wi> sobre
+<wi type="G" value="2999,8,">el servicio divino</wi>,
+<wi type="G" value="5037,10,">y</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="39,11,">el santuario</wi></wi>
+<wi type="G" value="2886,12,">terrenal</wi>.</t>
 </sv>
+
 <sv id="Hebreos-9-2">
 For there was a
 tabernacle prepared. In the first part were the lampstand, the table, and the
