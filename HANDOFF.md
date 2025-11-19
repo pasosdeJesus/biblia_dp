@@ -102,7 +102,7 @@ fidelidad respecto al Textus Receptus.
 - `type="GC"` = continuación de palabra dividida
 
 ### Referencias
-- `gen/capitulos/romanos-{cc}.gbfxml` es capítulo `cc` (ej. 01, 02,...) de 
+- `gen/capitulos/romanos-{cc}.gbf.xml` es capítulo `cc` (ej. 01, 02,...) de 
   Romanos con traducciones WEB y SpaTDP y con marcado Strong en SpaTDP
 - `ref/sword_kjv/capitulos/Romans-{cc}.osis.xml)` - es capítulo `cc` de 
   Filemón de KJV con Strong y morfología Robinson.  
@@ -127,7 +127,7 @@ fidelidad respecto al Textus Receptus.
    - Si el usuario dice "continúa con capítulos X-Y", leer TODOS esos capítulos
 
 2. **Comparar palabra por palabra, versículo por versículo**:
-   - La traducción SpaTDP (gen/capitulos/*.gbfxml)
+   - La traducción SpaTDP (gen/capitulos/*.gbf.xml)
    - KJV+Strong (ref/sword_kjv/capitulos/*.osis.xml)
    - RVG2012 (ref/reina_valera_geiger_nt/capitulos/*.usfm)
 

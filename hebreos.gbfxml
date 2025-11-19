@@ -3240,37 +3240,72 @@ está <wi type="G" value="1451,13,">listo</wi>
 Now indeed even the first
 <t xml:lang="es"><wi type="G" value="3767,3,">Ahora</wi>
 <wi type="G" value="3303,2,">de hecho</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="4413,6,">el primero</wi></wi></t>
+<wi type="G" value="3588,5,"><wi type="G" value="4413,6,">el primer</wi></wi></t>
 <rb><t xml:lang="es"><wi type="G" value="4633,7,">tabernáculo</wi></t><rf>
 TR adds «tabernacle»<t xml:lang="es">
 <citebib id="WEB"/>, <citebib id="KJV2003"/> y
-<citebib id="RVG2012"/> dicen `pacto´ en lugar de tabernáculo. 
+<citebib id="RVG2012"/> dicen `pacto´ en lugar de tabernáculo.
 <citebib id="WEB"/> agrega nota al pie que dice `TR añade «tabernaculo»´
-Revisando <citebib id="TR-BLB"/> se ve en la posición 7 la
-palabra griega σκηνή que se traduce como tabernáculo.
-</t></rf>
-</rb>
+Revisando <citebib id="TR-BLB"/> se ve este versículo con las 13
+palabras `εἶχέν μὲν οὖν καὶ ἡ πρώτη σκηνή δικαιώματα λατρείας τό τε ἅγιον
+κοσμικόν´ que en la posición 7 tiene la
+palabra griega `σκηνή´ que se traduce como tabernáculo. 
+El marcado Strong de <citebib id="KJV2003"/> sólo tiene 12 palabras omitiendo
+`σκηνή.´
+</t></rf></rb>
  covenant had
 ordinances of divine service, and an earthly sanctuary.
 <t xml:lang="es">
 <wi type="G" value="2192,1,">tenía</wi>
 <wi type="G" value="2532,4,">también</wi>
-<wi type="G" value="1345,7,">ordenanzas</wi> sobre
-<wi type="G" value="2999,8,">el servicio divino</wi>,
-<wi type="G" value="5037,10,">y</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="39,11,">el santuario</wi></wi>
-<wi type="G" value="2886,12,">terrenal</wi>.</t>
+<wi type="G" value="1345,8,">ordenanzas</wi> sobre
+<wi type="G" value="2999,9,">el servicio divino</wi>,
+<wi type="G" value="5037,11,">y</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="39,12,">el santuario</wi></wi>
+<wi type="G" value="2886,13,">terrenal</wi>.</t>
 </sv>
 
 <sv id="Hebreos-9-2">
 For there was a
 tabernacle prepared. In the first part were the lampstand, the table, and the
 show bread; which is called the Holy Place.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2680,3,">se preparó</wi>
+<wi type="G" value="4633,1,">un tabernáculo</wi>.
+<wi type="G" value="1722,6,">En</wi> <wi type="G" value="3739,7,">cuya</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="4413,5,">primera parte</wi></wi>
+estaba <wi type="G" value="5037,9,">tanto</wi> </t>
+<rb xml:lang="es">
+<wi type="G" value="3588,8,"><wi type="G" value="3087,10,">el candelero</wi></wi>
+<rf><citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="TR"/> dicen  
+`candelero,´
+<citebib id="RVG2012"/> dice `candeleros´ (en plural).</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2532,11,">como</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="5132,13,">la mesa</wi></wi>,
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="740,18,">los panes</wi></wi>
+<wi type="G" value="3588,15,"><wi type="G" value="4286,16,">de la proposición</wi></wi>
+;
+<wi type="G" value="3748,19,">lo que</wi>
+<wi type="G" value="3004,20,">se llama</wi>
+<wi type="G" value="39,21,">el Santuario</wi>.
+</t>
 </sv>
+
 <sv id="Hebreos-9-3">
 After the second veil was
 the tabernacle which is called the Holy of Holies,
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3326,1,">tras</wi>
+<wi type="G" value="1208,4,">el segundo</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2665,5,">velo</wi></wi> estaba
+<wi type="G" value="4633,6,">el tabernáculo</wi>
+<wi type="G" value="3588,7,">que</wi>
+<wi type="G" value="3004,8,">es llamado</wi>
+<wi type="G" value="39,9,"><wi type="G" value="39,10,">el Lugar Santísimo</wi></wi>.</t>
 </sv>
+
 <sv id="Hebreos-9-4">
 having a golden altar
 of incense, and the ark of the covenant overlaid on all sides with gold, in
