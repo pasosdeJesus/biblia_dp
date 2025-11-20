@@ -3249,7 +3249,7 @@ TR adds «tabernacle»<t xml:lang="es">
 Revisando <citebib id="TR-BLB"/> se ve este versículo con las 13
 palabras `εἶχέν μὲν οὖν καὶ ἡ πρώτη σκηνή δικαιώματα λατρείας τό τε ἅγιον
 κοσμικόν´ que en la posición 7 tiene la
-palabra griega `σκηνή´ que se traduce como tabernáculo. 
+palabra griega `σκηνή´ que se traduce como tabernáculo.
 El marcado Strong de <citebib id="KJV2003"/> sólo tiene 12 palabras omitiendo
 `σκηνή.´
 </t></rf></rb>
@@ -3277,7 +3277,7 @@ show bread; which is called the Holy Place.
 estaba <wi type="G" value="5037,9,">tanto</wi> </t>
 <rb xml:lang="es">
 <wi type="G" value="3588,8,"><wi type="G" value="3087,10,">el candelero</wi></wi>
-<rf><citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="TR"/> dicen  
+<rf><citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="TR"/> dicen
 `candelero,´
 <citebib id="RVG2012"/> dice `candeleros´ (en plural).</rf></rb>
 <t xml:lang="es">
@@ -3311,6 +3311,28 @@ having a golden altar
 of incense, and the ark of the covenant overlaid on all sides with gold, in
 which was a golden pot holding the manna, Aaron´s rod that budded, and the
 tables of the covenant;
+<t xml:lang="es">Que <wi type="G" value="2192,2,">Tenía</wi>
+<wi type="G" value="2369,3,">un incensario</wi>
+<wi type="G" value="5552,1,">de oro</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2787,6,">el arca</wi></wi>
+<wi type="G" value="3588,7,"><wi type="G" value="1242,8,">del pacto</wi></wi>
+<wi type="G" value="4028,9,">recubierta</wi>
+<wi type="G" value="3840,10,">por todos los lados</wi>
+<wi type="G" value="5553,11,">con oro</wi>;
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="3739,13,">la que</wi> estaban
+<wi type="G" value="4713,14,">la urna</wi>
+<wi type="G" value="5552,15,">de oro</wi>
+<wi type="G" value="2192,16,">que tenía</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="3131,18,">el mana</wi></wi>
+<wi type="G" value="2532,19,">y</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="4464,21,">la vara</wi></wi>
+<wi type="G" value="2,22,">de Aaron</wi>
+<wi type="G" value="3588,23,"><wi type="G" value="985,24,">que reverdeció</wi></wi>
+<wi type="G" value="2532,25,">y</wi>
+<wi type="G" value="3588,26,"><wi type="G" value="4109,27,">las tablas</wi></wi>
+<wi type="G" value="3588,28,"><wi type="G" value="1242,29,">del pacto</wi></wi>;</t>
 </sv>
 <sv id="Hebreos-9-5">
 and above it cherubim of glory overshadowing the
