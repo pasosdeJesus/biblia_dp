@@ -3391,8 +3391,14 @@ himself, and for the errors of the people.
 <wi type="G" value="5228,16,">por</wi>
 <wi type="G" value="1438,17,">si mismo</wi>
 <wi type="G" value="2532,18,">y</wi>
-por
-<wi type="G" value="51,22,">los errores</wi>
+por </t>
+<rb xml:lang="es"><wi type="G" value="51,22,">los pecados de ignorancia</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dice `errores´
+<citebib id="RVG2012"/> dice `pecados de ignorancia.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `αγνοηματων´
+se traduce como pecado cometido por ignorancia o sin pensar.
+</rf></rb>
+<t xml:lang="es">
 <wi type="G" value="3588,19,"/><wi type="G" value="3588,20,"><wi type="G" value="2992,21,">del pueblo</wi></wi>.
 </t>
 </sv>
