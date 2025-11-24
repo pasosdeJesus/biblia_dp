@@ -1,6 +1,5 @@
-
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs'
+import path from 'path'
 
 // Referencia principal para los códigos morfológicos: https://studybible.info/mac
 
