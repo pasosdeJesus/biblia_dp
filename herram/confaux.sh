@@ -24,9 +24,7 @@ confvar_file="confv.sh"
 
 # Prints value of a variable
 function valvar {
-	echo "echo \$$1" > confaux.tmp
-	valp1=`. ./confaux.tmp`;
-	echo $valp1;
+  eval "printf '%s\\n' \"\$$1\""
 }
 
 

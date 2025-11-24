@@ -1,4 +1,4 @@
-#!/usr/bin/env ksh
+#!/bin/sh
 
 # Script genérico para preparar herramientas de DocBook y configurar.
 # Esta fuente se cede al dominio público 2003. No se ofrecen garantías.
@@ -235,11 +235,11 @@ if (test "$HTML_PROC" = "dbrep_html_jade" -o "$HTML_PROC" = "dbrep_html_jade_sin
 	echo "jade"
 }
 elif (test -f $DOCBOOK_XSL/html/docbook.xsl) then {
-        isfm=`grep "<fm:project>" $DOCBOOK_XSL/VERSION`;
+        isfm=`grep "<fm:project>" $DOCBOOK_XSL/VERSION.xsl`;
         if (test "$isfm" != "") then {
-                v=`grep "fm:Version>" $DOCBOOK_XSL/VERSION | sed -e "s|.*fm:Version>\([.0-9]*\)</fm:Version.*|\1|g"`;
+                v=`grep "fm:Version>" $DOCBOOK_XSL/VERSION.xsl | sed -e "s|.*fm:Version>\([.0-9]*\)</fm:Version.*|\1|g"`;
         } else {
-                v=`grep -i "VERSION\"" $DOCBOOK_XSL/VERSION | tr [a-z] [A-Z] | sed -e "s/^.*VERSION[^>]*>\([0-9]*[.][0-9]*\)[.].*$/\1/g"`;
+                v=`grep -i "VERSION\"" $DOCBOOK_XSL/VERSION.xsl | tr [a-z] [A-Z] | sed -e "s/^.*VERSION[^>]*>\([0-9]*[.][0-9]*\)[.].*$/\1/g"`;
         } fi;
 	if (test "$v" = "") then {
 		echo "** Falta archivo VERSION en directorio $DOCBOOK_XSL";
