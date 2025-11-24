@@ -56,13 +56,13 @@ and saying to him, «Cornelius!»
 <wi type="G" value="1722,2,">en</wi>
 <wi type="G" value="3705,3,">una visión</wi> a
 <wi type="G" value="32,10,">un ángel</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="2316,12,">del Señor</wi></wi>
-<wi type="G" value="1525,13,">que llegaba</wi>
-<wi type="G" value="4314,14,">donde</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2316,12,">de Dios</wi></wi>
+<wi type="G" value="1525,13,">que vino</wi>
+<wi type="G" value="4314,14,">a</wi>
 <wi type="G" value="846,15,">él</wi>
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="846,18,">le</wi>
-<wi type="G" value="2036,17,">decía</wi>,
+<wi type="G" value="2036,17,">dijo</wi>,
 «¡<wi type="G" value="2883,19,">Cornelio</wi>!» </t>
 
 </sv></cm><cm>
@@ -72,10 +72,10 @@ Lord?»
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="846,4,">lo</wi>
 <wi type="G" value="816,3,">miró</wi>
-<wi type="G" value="2532,5,"/>
 <wi type="G" value="1719,6,"><wi type="G" value="1096,7,">asustado</wi></wi>
-<wi type="G" value="2036,8,">y dijo</wi>,
-«¿<wi type="G" value="5101,9,">Que</wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="2036,8,">dijo</wi>,
+«¿<wi type="G" value="5101,9,">Qué</wi>
 <wi type="G" value="2076,10,">es</wi>,
 <wi type="G" value="2962,11,">Señor</wi>?» </t>
 <cl/>
@@ -116,9 +116,9 @@ the seaside.
 <t xml:lang="es"><wi type="G" value="3778,1,">Él</wi>
 <wi type="G" value="3579,2,">se hospeda</wi>
 <wi type="G" value="3844,3,">con</wi>
-<wi type="G" value="5100,4,">un</wi>
 <wi type="G" value="4613,5,">Simón</wi>,
-<wi type="G" value="1038,6,">un curtidor</wi>,
+<wi type="G" value="5100,4,">un</wi>
+<wi type="G" value="1038,6,">curtidor</wi>
 <wi type="G" value="3739,7,">cuya</wi>
 <wi type="G" value="3614,9,">casa</wi>
 <wi type="G" value="2076,8,">está</wi>
@@ -375,7 +375,7 @@ traduce como estar totalmente perdido o estar perplejo. </rf></rb>
 <wi type="G" value="3588,22,"><wi type="G" value="2883,23,">Cornelio</wi></wi>
 <wi type="G" value="1331,24,">habían preguntado</wi> por
 <wi type="G" value="3588,25,"><wi type="G" value="3614,26,">la casa</wi></wi>
-<wi type="G" value="4613,27,">de Simon</wi>
+<wi type="G" value="4613,27,">de Simón</wi>
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="2186,28,,">estaban</wi>
 <wi type="G" value="1909,29,">frente</wi>
@@ -489,7 +489,7 @@ dice `dirigente.´</rf></rb>
 <wi type="G" value="3650,15,">toda</wi>
 <wi type="G" value="3588,16,"><wi type="G" value="1484,17,">la nación</wi></wi>
 <wi type="G" value="3588,18,"/>
-<wi type="G" value="2453,19,">de los Judíos</wi>, </t>
+<wi type="G" value="2453,19,">de los judíos</wi>, </t>
 <rb xml:lang="es"><wi type="G" value="5537,20,">fue dirigido</wi><rf><citebib id="WEB"/> dice `fue dirigido,´ <citebib id="KJV2003"/> dice `fue avisado
 por Dios,´ <citebib id="RV1960"/> dice `ha recibido instrucciones,´
 según <citebib id="Thayer-BLB"/> la palabra griega `χρηματίζω´ se
@@ -515,7 +515,7 @@ went out with them, and some of the brothers from Joppa accompanied him.
 <t xml:lang="es"><wi type="G" value="3767,2,">Así que</wi> él
 <wi type="G" value="846,3,">los</wi>
 <wi type="G" value="1528,1,">llamó</wi>
-y los <wi type="G" value="3579,4,">hospedo</wi>.
+y los <wi type="G" value="3579,4,">hospedó</wi>.
 <wi type="G" value="3588,5,"/>
 <wi type="G" value="1161,6,"/><wi type="G" value="1887,7,">Al día siguiente</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="4074,9,">Pedro</wi></wi> </t>
@@ -567,7 +567,7 @@ his feet, and worshiped him.
 <wi type="G" value="3588,9,"><wi type="G" value="2883,10,">Cornelio</wi></wi>
 se <wi type="G" value="4876,7,">encontró</wi>
 con <wi type="G" value="846,8,">él</wi>,
-<wi type="G" value="4098,11,">callo</wi>
+<wi type="G" value="4098,11,">cayó</wi>
 <wi type="G" value="1909,12,">a</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="4228,14,">sus pies</wi></wi>
 <wi type="G" value="4352,15,">y adoró</wi>. </t>
@@ -617,7 +617,7 @@ para un <wi type="G" value="435,10,">hombre</wi>
 <wi type="G" value="2853,12,">congregarse</wi>
 <wi type="G" value="2228,13,">o</wi>
 <wi type="G" value="4334,14,">ir</wi>
-donde <wi type="G" value="246,15,">alguien de otra nación</wi>,
+con <wi type="G" value="246,15,">alguien de otra nación</wi>,
 <wi type="G" value="2532,16,">pero</wi>
 <wi type="G" value="3588,18,"><wi type="G" value="2316,19,">Dios</wi></wi>
 <wi type="G" value="1698,17,">me</wi>
@@ -687,7 +687,7 @@ is heard, and your gifts to the needy are remembered in the sight of God.
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="5346,2,">dijo</wi>,
 `<wi type="G" value="2883,3,">Cornelio</wi>,
-<wi type="G" value="4675,5,">tu</wi>
+<wi type="G" value="4675,5,">tú</wi>
 <wi type="G" value="3588,6,"><wi type="G" value="4335,7,">oración</wi></wi>
 <wi type="G" value="1522,4,">es escuchada</wi>,
 <wi type="G" value="2532,8,">y</wi>
@@ -735,7 +735,7 @@ all things that have been commanded you by God.»
 <wi type="G" value="4314,4,">por</wi>
 <wi type="G" value="4571,5,">ti</wi>,
 <wi type="G" value="5037,7,">y</wi>
-<wi type="G" value="4771,6,">tu</wi>
+<wi type="G" value="4771,6,">tú</wi>
 <wi type="G" value="4160,9,">hiciste</wi>
 <wi type="G" value="2573,8,">bien</wi> al
 <wi type="G" value="3854,10,">venir</wi>.
@@ -787,9 +787,9 @@ righteousness is acceptable to him.
 <wi type="G" value="1484,4,">nación</wi>,
 <wi type="G" value="3588,5,">aquel</wi> que
 <wi type="G" value="846,7,">le</wi>
-<wi type="G" value="5399,6,">tema</wi>
+<wi type="G" value="5399,6,">teme</wi>
 <wi type="G" value="2532,8,">y</wi>
-<wi type="G" value="2038,9,">obre</wi>
+<wi type="G" value="2038,9,">obra</wi>
 <wi type="G" value="1343,10,">rectamente</wi>
 <wi type="G" value="2076,13,">es</wi>
 <wi type="G" value="1184,11,">aceptable</wi>
@@ -895,7 +895,7 @@ they
 <wi type="G" value="1722,8,">en</wi>
 <wi type="G" value="3588,10,"><wi type="G" value="5561,11,">la tierra</wi></wi>
 <wi type="G" value="3588,12,"/>
-<wi type="G" value="2453,13,">de los Judíos</wi>,
+<wi type="G" value="2453,13,">de los judíos</wi>,
 <wi type="G" value="2532,14,">como</wi>
 <wi type="G" value="1722,15,">en</wi>
 <wi type="G" value="2419,16,">Jerusalén</wi>;
@@ -955,7 +955,7 @@ to us, who ate and drank with him after he rose from the dead.
 <wi type="G" value="3588,19,"/>
 <wi type="G" value="846,21,"><wi type="G" value="450,20,">resucitó</wi></wi>
 <wi type="G" value="1537,22,">de</wi>
-<wi type="G" value="3498,23,">la muerte</wi>. </t>
+<wi type="G" value="3498,23,">los muertos</wi>. </t>
 </sv>
 <sv id="Hechos-10-42">
 He charged us to preach
@@ -989,8 +989,8 @@ sins.»
 <wi type="G" value="3140,5,">dieron testimonio</wi>
 <wi type="G" value="5129,1,">de Él</wi>,
 <wi type="G" value="1223,9,">que por</wi>
-<wi type="G" value="846,12,">su</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="3686,11,">Nombre</wi></wi>
+<wi type="G" value="846,12,">Su</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="3686,11,">nombre</wi></wi>
 <wi type="G" value="3956,13,">todos los que</wi>
 <wi type="G" value="3588,14,"/>
 <wi type="G" value="4100,15,">creyeran</wi>
@@ -1030,7 +1030,7 @@ also poured out on the nations.
 `Judíos que habían creído y que habían ido con Pedro.´</rf></rb>
 <t xml:lang="es"> <wi type="G" value="4103,6,">que creían</wi>
 <wi type="G" value="1839,2,">estaban asombrados</wi>,
-<wi type="G" value="3745,7,">pues muchos</wi>
+<wi type="G" value="3745,7,">cuantos</wi>
 <wi type="G" value="4905,8,">fueron</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="4074,10,">con Pedro</wi></wi>,
 <wi type="G" value="3754,11,">porque</wi>

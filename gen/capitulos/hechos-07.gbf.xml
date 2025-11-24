@@ -32,7 +32,7 @@ father Abraham, when he was in Mesopotamia, before he lived in Haran,
 <wi type="G" value="4250,22,">antes</wi> que
 <wi type="G" value="2228,23,"/>
 <wi type="G" value="846,25,">él</wi>
-<wi type="G" value="2730,24,">vivieran</wi>
+<wi type="G" value="2730,24,">viviera</wi>
 <wi type="G" value="1722,26,">en</wi>
 <wi type="G" value="5488,27,">Harán</wi>, </t>
 </sv>
@@ -472,9 +472,9 @@ as her own son.
 <wi type="G" value="337,4,"/>
 <wi type="G" value="3588,6,"><wi type="G" value="2364,7,">la hija</wi></wi>
 <wi type="G" value="5328,8,">del faraón</wi>
-<wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="846,5,">lo</wi>
-<wi type="G" value="397,10,">tomó</wi>, y
+<wi type="G" value="397,10,">tomó</wi>
+<wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="846,11,">lo</wi>
 <wi type="GC" value="10">crió</wi>
 <wi type="G" value="1519,13,">como</wi>

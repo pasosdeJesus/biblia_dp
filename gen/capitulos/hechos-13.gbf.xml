@@ -17,7 +17,7 @@ the foster brother of Herod the tetrarch, and Saul.
 <wi type="G" value="1320,12,">maestros</wi>
 <wi type="G" value="3588,13,"/>
 <wi type="G" value="5037,14,">como</wi>:
-<wi type="G" value="921,15,">Barnabas</wi>,
+<wi type="G" value="921,15,">Bernabé</wi>,
 <wi type="G" value="2532,16,"/>
 <wi type="G" value="4826,17,">Simón</wi>
 <wi type="G" value="3588,18,"/>
@@ -25,8 +25,8 @@ the foster brother of Herod the tetrarch, and Saul.
 <wi type="G" value="3526,20,">Niger</wi>,
 <wi type="G" value="2532,21,"/>
 <wi type="G" value="3066,22,">Lucio</wi>
-<wi type="G" value="3588,23,"><wi type="G" value="2956,24,">de Cirenea</wi></wi>,
-<wi type="G" value="5037,26,"/>
+<wi type="G" value="3588,23,"><wi type="G" value="2956,24,">de Cirene</wi></wi>
+<wi type="G" value="5037,26,">y</wi>
 <wi type="G" value="3127,25,">Manaén</wi> </t>
 <rb xml:lang="es"><wi type="G" value="4939,30,">hermano de crianza de</wi>
 <wi type="G" value="2264,27,">Herodes</wi><rf><citebib id="SE"/> y
@@ -43,21 +43,20 @@ for the work to which I have called them.»
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="846,3,">ellos</wi>
 <wi type="G" value="3008,1,">servían</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="2962,5,">al señor</wi></wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2962,5,">al Señor</wi></wi>
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="3522,7,">ayunaban</wi>,
 <wi type="G" value="3588,9,"><wi type="G" value="4151,10,">el Espíritu</wi></wi>
 <wi type="G" value="3588,11,"/>
 <wi type="G" value="40,12,">Santo</wi>
 <wi type="G" value="2036,8,">dijo</wi>,
-«<wi type="G" value="873,13,">Separen</wi>
+«<wi type="G" value="873,13,"><wi type="G" value="3427,15,">Separenme</wi></wi>
 <wi type="G" value="1211,14,"/>
 <wi type="G" value="921,18,">a Bernabé</wi>
 <wi type="G" value="3588,16,"/>
 <wi type="G" value="5037,17,"/>
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="3588,20,"><wi type="G" value="4569,21,">a Saulo</wi></wi>
-<wi type="G" value="3427,15,">para mí</wi>,
 <wi type="G" value="1519,22,">para</wi>
 <wi type="G" value="3588,23,"><wi type="G" value="2041,24,">el trabajo</wi></wi>
 <wi type="G" value="3739,25,">para el cual</wi>
@@ -73,7 +72,7 @@ sent them away.
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="4336,4,">orado</wi>,
 <wi type="G" value="2532,5,">y</wi> de
-<wi type="G" value="2007,6,">que haber impuesto</wi>
+<wi type="G" value="2007,6,">haber impuesto</wi>
 sus <wi type="G" value="3588,7,"><wi type="G" value="5495,8,">manos</wi></wi>
 <wi type="G" value="846,9,">sobre ellos</wi>, los
 <wi type="G" value="630,10,">enviaron</wi>. </t>
@@ -81,7 +80,7 @@ sus <wi type="G" value="3588,7,"><wi type="G" value="5495,8,">manos</wi></wi>
 <sv id="Hechos-13-4">
 So, being sent out by the Holy Spirit, they went down to
 Seleucia. From there they sailed to Cyprus.
-<t xml:lang="es"><wi type="G" value="3303,2,">Así</wi>, que
+<t xml:lang="es"><wi type="G" value="3303,2,">Así</wi> que,
 <wi type="G" value="3778,1,"><wi type="G" value="1599,4,">enviados</wi></wi>
 <wi type="G" value="3767,3,"/>
 <wi type="G" value="5259,5,">por</wi>
@@ -111,7 +110,7 @@ John as their attendant.
 <wi type="G" value="1722,10,">en</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="4864,12,">las sinagogas</wi></wi>
 <wi type="G" value="3588,13,"/>
-<wi type="G" value="2453,14,">de los Judíos</wi>.
+<wi type="G" value="2453,14,">de los judíos</wi>.
 <wi type="G" value="1161,16,">Y</wi>
 <wi type="G" value="2532,17,">también</wi>
 <wi type="G" value="2192,15,">tenían</wi> como
@@ -157,7 +156,7 @@ dice `un hombre de entendimiento,´ <citebib id="KJV2003"/> dice
 `συνετός´ se traduce como inteligente, entendido, sabio, educado.</rf></rb>
 <t xml:lang="es">,  <wi type="G" value="3778,10,">quien</wi>
 <wi type="G" value="4341,11,">llamaba</wi>
-<wi type="G" value="921,12,">a Barnabas</wi>
+<wi type="G" value="921,12,">a Bernabé</wi>
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="4569,14,">a Saulo</wi>, y
 <wi type="G" value="1934,15,">buscaba</wi>
@@ -197,8 +196,7 @@ fastened his eyes on him,
 <wi type="G" value="4130,6,">lleno</wi>
 <wi type="G" value="4151,7,">de Espíritu</wi>
 <wi type="G" value="40,8,">Santo</wi>
-<wi type="G" value="2532,9,"/>
-<wi type="G" value="816,10,">fijó sus ojos</wi>
+<wi type="G" value="2532,9,"/><wi type="G" value="816,10,">fijó sus ojos</wi>
 <wi type="G" value="1519,11,">en</wi>
 <wi type="G" value="846,12,">él</wi>, </t>
 </sv>
@@ -233,7 +231,7 @@ levedad, inescrupuloso, maldad, engañoso. </rf></rb>
 <wi type="G" value="3973,15,">dejarás</wi>
 <wi type="G" value="1294,16,">de pervertir</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="3598,18,">los caminos</wi></wi>
-<wi type="G" value="2117,21,">correctos</wi>
+<wi type="G" value="2117,21,">rectos</wi>
 <wi type="G" value="3588,20,"/>
 <wi type="G" value="2962,19,">del Señor</wi>? </t>
 </sv>
@@ -281,8 +279,8 @@ was done, believed, being astonished at the teaching of the Lord.
 <wi type="G" value="1492,2,">vio</wi>
 <wi type="G" value="3588,5,"/>
 <wi type="G" value="1096,6,">lo hecho</wi>,
-<wi type="G" value="4100,7,">creyó</wi> y
-<wi type="G" value="1605,8,">quedó asombrado</wi>
+<wi type="G" value="4100,7,">creyó</wi>
+<wi type="G" value="1605,8,">quedando asombrado</wi>
 <wi type="G" value="1909,9,">de</wi>
 <wi type="G" value="3588,10,"><wi type="G" value="1322,11,">la enseñanza</wi></wi>
 <wi type="G" value="3588,12,"><wi type="G" value="2962,13,">del Señor</wi></wi>. </t>
@@ -345,9 +343,8 @@ speak.»
 <wi type="G" value="2532,7,">y</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="4396,9,">los profetas</wi></wi>,
 <wi type="G" value="3588,11,"><wi type="G" value="752,12,">los dirigentes de la sinagoga</wi></wi>
-<wi type="G" value="649,10,">mandaron</wi>
-<wi type="G" value="4314,13,"/>
-<wi type="G" value="3004,15,"><wi type="G" value="846,14,">decirles</wi></wi>
+<wi type="G" value="649,10,">mandaron a</wi>
+<wi type="G" value="4314,13,"/><wi type="G" value="3004,15,"><wi type="G" value="846,14,">decirles</wi></wi>
 «<wi type="G" value="435,16,">Hombres</wi>
 <wi type="G" value="80,17,">hermanos</wi>,
 <wi type="G" value="1487,18,">si</wi>
@@ -442,9 +439,8 @@ years.
 <wi type="G" value="846,9,">les</wi>
 <wi type="G" value="2624,8,">repartió</wi>
 <wi type="G" value="846,12,">su</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="1093,11,">tierra</wi></wi> </t>
-<rb xml:lang="es"><rf><citebib id="WEB"/> agrega `por herencia.´</rf></rb>
-<t xml:lang="es">. </t>
+<wi type="G" value="3588,10,"><wi type="G" value="1093,11,">tierra por
+herencia</wi></wi>. </t>
 </sv>
 <sv id="Hechos-13-20">
 <rb xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
@@ -604,7 +600,7 @@ Brothers, children of the stock of Abraham, and those among you who fear
 God, the word of this salvation is sent out to you.
 <t xml:lang="es"><wi type="G" value="435,1,"/><wi type="G" value="80,2,">Hermanos</wi>,
 <wi type="G" value="5207,3,">hijos</wi>
-<wi type="G" value="1085,4,">del rebaño</wi>
+<wi type="G" value="1085,4,">del linaje</wi>
 <wi type="G" value="11,5,">de Abraham</wi>,
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="3588,7,">aquellos</wi>
@@ -684,8 +680,8 @@ But God raised him from the dead,
 <wi type="G" value="2316,3,">Dios</wi>
 <wi type="G" value="846,5,">lo</wi>
 <wi type="G" value="1453,4,">resucitó</wi>
-<wi type="G" value="1537,6,">de</wi>
-<wi type="G" value="3498,7,">la muerte</wi>, </t>
+<wi type="G" value="1537,6,">de entre</wi>
+<wi type="G" value="3498,7,">los muertos</wi>, </t>
 </sv>
 <sv id="Hechos-13-31">
 and he was seen for many days by those who
@@ -917,9 +913,8 @@ prophets:
 `Behold, you
  scoffers, and wonder, and perish;
 <t xml:lang="es">`<wi type="G" value="1492,1,">Observen</wi>, </t>
-<rb xml:lang="es"><wi type="G" value="3588,2,"><wi type="G" value="2707,3,">glotones</wi></wi>,
-<wi type="G" value="2532,4,"/>
-<wi type="G" value="2296,5,">sorpréndanse</wi>
+<rb xml:lang="es"><wi type="G" value="3588,2,"><wi type="G" value="2707,3,">menospreciadores</wi></wi>,
+<wi type="G" value="2532,4,"/><wi type="G" value="2296,5,">sorpréndanse</wi>
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="853,7,">perezcan</wi><rf>
 <citebib id="SE"/> dice `oh menospreciadores, y entonteceos, y
@@ -1022,13 +1017,13 @@ and blasphemed.
 <wi type="G" value="4130,7,">se llenaron</wi>
 <wi type="G" value="2205,8,">de celos</wi>,
 <wi type="G" value="2532,9,">y</wi>
-<wi type="G" value="483,10,">hablaban en contra</wi> <wi type="G" value="3004,15,">de lo dicho</wi>
-<wi type="G" value="3588,11,"/>
-<wi type="G" value="5259,12,">por</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="3972,14,">Pablo</wi></wi>
-<wi type="G" value="483,16,">contradecían</wi>
+<wi type="G" value="483,10,">se oponían a</wi>
+<wi type="G" value="3588,11,">lo que</wi>
+<wi type="G" value="3004,15,">decía</wi>
+<wi type="G" value="5259,12,"/><wi type="G" value="3588,13,"><wi type="G" value="3972,14,">Pablo</wi></wi>
+<wi type="G" value="483,16,">contradiciendo</wi>
 <wi type="G" value="2532,17,">y</wi>
-<wi type="G" value="987,18,">blasfemaban</wi>. </t>
+<wi type="G" value="987,18,">blasfemando</wi>. </t>
 </sv></cm><cm>
 <sv id="Hechos-13-46">
 Paul and Barnabas spoke out boldly, and said, «It was necessary that
@@ -1063,12 +1058,11 @@ la palabra griega `ἀπωθεῖσθε´ se traduce como alejar,
 desechar, despreciar.</rf></rb>
 <t xml:lang="es">, <wi type="G" value="2532,22,">y</wi>
 <wi type="G" value="1438,26,">ustedes mismos</wi>
-<wi type="G" value="3756,23,"/>
-<wi type="G" value="2919,25,">juzgan</wi> que es de
-<wi type="G" value="514,24,">poco valor</wi> para
+<wi type="G" value="3756,23,">no</wi>
+<wi type="G" value="2919,25,">se juzgan</wi>
+<wi type="G" value="514,24,">dignos</wi> para
 <wi type="G" value="2222,29,">la vida</wi>
-<wi type="G" value="3588,27,"/>
-<wi type="G" value="166,28,">eterna</wi>,
+<wi type="G" value="3588,27,"/><wi type="G" value="166,28,">eterna</wi>,
 <wi type="G" value="2400,30,">observen</wi>, ahora
 <wi type="G" value="4762,31,">damos vuelta</wi>
 <wi type="G" value="1519,32,">hacia</wi>
@@ -1173,7 +1167,7 @@ dice `honestas.´</rf></rb>
 <wi type="G" value="1544,26,">expulsaron</wi>
 <wi type="G" value="575,28,">de</wi>
 <wi type="G" value="846,31,">sus</wi>
-<wi type="G" value="3588,29,"><wi type="G" value="3725,30,">costas</wi></wi>.
+<wi type="G" value="3588,29,"><wi type="G" value="3725,30,">fronteras</wi></wi>.
 </t>
 </sv>
 <sv id="Hechos-13-51">

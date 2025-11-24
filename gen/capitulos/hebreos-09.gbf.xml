@@ -2,58 +2,243 @@
 <cm>
 <sv id="Hebreos-9-1">
 Now indeed even the first
-<rb>
-<t xml:lang="es"/><rf>TR adds «tabernacle»<t xml:lang="es"/></rf>
-</rb>
+<t xml:lang="es"><wi type="G" value="3767,3,">Ahora</wi>
+<wi type="G" value="3303,2,">de hecho</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="4413,6,">el primer</wi></wi></t>
+<rb><t xml:lang="es"><wi type="G" value="4633,7,">tabernáculo</wi></t><rf>
+TR adds «tabernacle»<t xml:lang="es">
+<citebib id="WEB"/>, <citebib id="KJV2003"/> y
+<citebib id="RVG2012"/> dicen `pacto´ en lugar de tabernáculo.
+<citebib id="WEB"/> agrega nota al pie que dice `TR añade «tabernaculo»´
+Revisando <citebib id="TR-BLB"/> se ve este versículo con las 13
+palabras `εἶχέν μὲν οὖν καὶ ἡ πρώτη σκηνή δικαιώματα λατρείας τό τε ἅγιον
+κοσμικόν´ que en la posición 7 tiene la
+palabra griega `σκηνή´ que se traduce como tabernáculo.
+El marcado Strong de <citebib id="KJV2003"/> sólo tiene 12 palabras omitiendo
+`σκηνή.´
+</t></rf></rb>
  covenant had
 ordinances of divine service, and an earthly sanctuary.
+<t xml:lang="es">
+<wi type="G" value="2192,1,">tenía</wi>
+<wi type="G" value="2532,4,">también</wi>
+<wi type="G" value="1345,8,">ordenanzas</wi> sobre
+<wi type="G" value="2999,9,">el servicio divino</wi>,
+<wi type="G" value="5037,11,">y</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="39,12,">el santuario</wi></wi>
+<wi type="G" value="2886,13,">terrenal</wi>.</t>
 </sv>
+
 <sv id="Hebreos-9-2">
 For there was a
 tabernacle prepared. In the first part were the lampstand, the table, and the
 show bread; which is called the Holy Place.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2680,3,">se preparó</wi>
+<wi type="G" value="4633,1,">un tabernáculo</wi>.
+<wi type="G" value="1722,6,">En</wi> <wi type="G" value="3739,7,">cuya</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="4413,5,">primera parte</wi></wi>
+estaba <wi type="G" value="5037,9,">tanto</wi> </t>
+<rb xml:lang="es">
+<wi type="G" value="3588,8,"><wi type="G" value="3087,10,">el candelero</wi></wi>
+<rf><citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="TR"/> dicen
+`candelero,´
+<citebib id="RVG2012"/> dice `candeleros´ (en plural).</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2532,11,">como</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="5132,13,">la mesa</wi></wi>,
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="740,18,">los panes</wi></wi>
+<wi type="G" value="3588,15,"><wi type="G" value="4286,16,">de la proposición</wi></wi>
+;
+<wi type="G" value="3748,19,">lo que</wi>
+<wi type="G" value="3004,20,">se llama</wi>
+<wi type="G" value="39,21,">el Santuario</wi>.
+</t>
 </sv>
+
 <sv id="Hebreos-9-3">
 After the second veil was
 the tabernacle which is called the Holy of Holies,
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3326,1,">tras</wi>
+<wi type="G" value="1208,4,">el segundo</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2665,5,">velo</wi></wi> estaba
+<wi type="G" value="4633,6,">el tabernáculo</wi>
+<wi type="G" value="3588,7,">que</wi>
+<wi type="G" value="3004,8,">es llamado</wi>
+<wi type="G" value="39,9,"><wi type="G" value="39,10,">el Lugar Santísimo</wi></wi>.</t>
 </sv>
+
 <sv id="Hebreos-9-4">
 having a golden altar
 of incense, and the ark of the covenant overlaid on all sides with gold, in
 which was a golden pot holding the manna, Aaron´s rod that budded, and the
 tables of the covenant;
+<t xml:lang="es">Que <wi type="G" value="2192,2,">Tenía</wi>
+<wi type="G" value="2369,3,">un incensario</wi>
+<wi type="G" value="5552,1,">de oro</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="2787,6,">el arca</wi></wi>
+<wi type="G" value="3588,7,"><wi type="G" value="1242,8,">del pacto</wi></wi>
+<wi type="G" value="4028,9,">recubierta</wi>
+<wi type="G" value="3840,10,">por todos los lados</wi>
+<wi type="G" value="5553,11,">con oro</wi>;
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="3739,13,">la que</wi> estaban
+<wi type="G" value="4713,14,">la urna</wi>
+<wi type="G" value="5552,15,">de oro</wi>
+<wi type="G" value="2192,16,">que tenía</wi>
+<wi type="G" value="3588,17,"><wi type="G" value="3131,18,">el mana</wi></wi>
+<wi type="G" value="2532,19,">y</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="4464,21,">la vara</wi></wi>
+<wi type="G" value="2,22,">de Aaron</wi>
+<wi type="G" value="3588,23,"><wi type="G" value="985,24,">que reverdeció</wi></wi>
+<wi type="G" value="2532,25,">y</wi>
+<wi type="G" value="3588,26,"><wi type="G" value="4109,27,">las tablas</wi></wi>
+<wi type="G" value="3588,28,"><wi type="G" value="1242,29,">del pacto</wi></wi>;</t>
 </sv>
 <sv id="Hebreos-9-5">
 and above it cherubim of glory overshadowing the
 mercy seat, of which things we can´t now speak in detail.
+<t xml:lang="es"><wi type="G" value="1161,2,">y</wi>
+<wi type="G" value="5231,1,">encima</wi>
+<wi type="G" value="846,3,">de esta</wi>
+<wi type="G" value="5502,4,">los querubines</wi>
+<wi type="G" value="1391,5,">de gloria</wi>
+<wi type="G" value="2683,6,">cubriendo</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="2435,8,">el propiciatorio</wi></wi>,
+<wi type="G" value="4012,9,">del</wi>
+<wi type="G" value="3739,10,">cual</wi>
+<wi type="G" value="3756,11,">no</wi>
+<wi type="G" value="2076,12,">podemos</wi>,
+<wi type="G" value="3568,13,">ahora</wi>,
+<wi type="G" value="3004,14,">hablar</wi>
+<wi type="G" value="2596,15,">en</wi>
+<wi type="G" value="3313,16,">detalle</wi>.
+</t>
 </sv>
 <sv id="Hebreos-9-6">
 Now these
 things having been thus prepared, the priests go in continually into the
 first tabernacle, accomplishing the services,
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> con
+<wi type="G" value="5130,1,">estas cosas</wi>
+<wi type="G" value="3779,3,">así</wi>
+<wi type="G" value="2680,4,">ordenadas</wi>,
+<wi type="G" value="3303,6,">de hecho</wi>,
+<wi type="G" value="3588,12,"><wi type="G" value="2409,13,">los sacerdotes</wi></wi>
+<wi type="G" value="1524,11,">entraban</wi>
+<wi type="G" value="1275,10,">continuamente</wi>
+<wi type="G" value="1519,5,">en</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="4413,8,">el primer</wi>
+<wi type="G" value="4633,9,">tabernáculo</wi>,
+<wi type="G" value="2005,16,">cumpliendo</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2999,15,">los servicios</wi></wi>, </t>
 </sv>
 <sv id="Hebreos-9-7">
 but into the second the
 high priest alone, once in the year, not without blood, which he offers for
 himself, and for the errors of the people.
+<t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
+<wi type="G" value="1519,1,">en</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="1208,4,">el segundo</wi>,
+<wi type="G" value="3441,8,">sólo</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="749,10,">el sumo sacerdote</wi></wi>,
+<wi type="G" value="530,5,">una vez</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="1763,7,">al año</wi></wi>,
+<wi type="G" value="3756,11,">no</wi>
+<wi type="G" value="5565,12,">sin</wi>
+<wi type="G" value="129,13,">sangre</wi>,
+<wi type="G" value="3739,14,">que</wi>
+<wi type="G" value="4374,15,">ofrece</wi>
+<wi type="G" value="5228,16,">por</wi>
+<wi type="G" value="1438,17,">si mismo</wi>
+<wi type="G" value="2532,18,">y</wi>
+por </t>
+<rb xml:lang="es"><wi type="G" value="51,22,">los pecados de ignorancia</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dice `errores´
+<citebib id="RVG2012"/> dice `pecados de ignorancia.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `αγνοηματων´
+se traduce como pecado cometido por ignorancia o sin pensar.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3588,19,"/><wi type="G" value="3588,20,"><wi type="G" value="2992,21,">del pueblo</wi></wi>.
+</t>
 </sv>
 <sv id="Hebreos-9-8">
 The Holy Spirit is indicating
 this, that the way into the Holy Place wasn´t yet revealed while the first
 tabernacle was still standing;
+<t xml:lang="es"><wi type="G" value="3588,3,"><wi type="G" value="4151,4,">El Espíritu</wi></wi>
+<wi type="G" value="3588,5,"><wi type="G" value="40,6,">Santo</wi></wi>
+<wi type="G" value="1213,2,">indica</wi>
+<wi type="G" value="5124,1,">con esto</wi>,
+<wi type="G" value="3588,9,">que</wi>
+<wi type="G" value="3598,12,">el camino al</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="39,11,">Lugar Santísimo</wi>
+<wi type="G" value="3380,7,">no</wi>
+<wi type="G" value="5319,8,">había sido revelado</wi>
+<wi type="G" value="2089,13,">mientras</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="4413,15,">el primer</wi>
+<wi type="G" value="4633,16,">tabernáculo</wi>
+<wi type="G" value="2192,17,">estuviera</wi>
+<wi type="G" value="4714,18,">en pie</wi>;
+</t>
 </sv>
 <sv id="Hebreos-9-9">
 which is a symbol of the present age,
 where gifts and sacrifices are offered that are incapable, concerning the
 conscience, of making the worshipper perfect;
+<t xml:lang="es"><wi type="G" value="3748,1,">lo que</wi> es
+<wi type="G" value="3850,2,">un símbolo</wi>
+<wi type="G" value="1519,3,">del</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2540,5,">tiempo</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="1764,7,">presente</wi>,
+<wi type="G" value="2596,8,">en</wi>
+<wi type="G" value="3739,9,">el cual</wi>
+<wi type="G" value="4374,14,">se ofrecían</wi>
+<wi type="G" value="5037,11,">tanto</wi>
+<wi type="G" value="1435,10,">ofrendas</wi>
+<wi type="G" value="2532,12,">como</wi>
+<wi type="G" value="2378,13,">sacrificios</wi>
+<wi type="G" value="3361,15,"><wi type="G" value="1410,16,">incapaces</wi></wi>,
+<wi type="G" value="2596,17,">respecto a</wi>
+<wi type="G" value="4893,18,">la conciencia</wi>,
+<wi type="G" value="5048,19,">de perfeccionar</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,20,"/><wi type="G" value="3000,21,">al que realizaba el servicio</wi><rf>
+<citebib id="WEB"/> dice `adorador,´
+<citebib id="KJV2003"/> dice `al que realiza el servicio.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `λατρευοντα´ se traduce
+de ambas formas.
+</rf></rb>
+<t xml:lang="es">;
+</t>
 </sv>
+
 <sv id="Hebreos-9-10">
 being only (with meats
 and drinks and various washings) fleshly ordinances, imposed until a time of
 reformation.
+<t xml:lang="es">siendo <wi type="G" value="3440,1,">sólo</wi>
+<wi type="G" value="1909,2,">mediante</wi>
+<wi type="G" value="1033,3,">alimentos</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="4188,5,">bebidas</wi>
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="1313,7,">varios</wi>
+<wi type="G" value="909,8,">lavamientos</wi>
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="1345,10,">ordenanzas</wi>
+<wi type="G" value="4561,11,">sobre la carne</wi>,
+<wi type="G" value="1945,15,">impuestas</wi>
+<wi type="G" value="3360,12,">hasta</wi>
+<wi type="G" value="2540,13,">un tiempo</wi>
+<wi type="G" value="1357,14,">de reformación</wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Hebreos-9-11">
 But Christ having come as a high priest of the coming good things,
 through the greater and more perfect tabernacle, not made with hands, that is
@@ -104,8 +289,9 @@ and all the people,
 saying, «This is the blood of the covenant which
 God has commanded you.»
 
-</sv></cm><cm>
+</sv></cm>
 
+<cm>
 <sv id="Hebreos-9-21">
 Moreover he sprinkled the tabernacle and all the vessels of the
 ministry in like manner with the blood.
@@ -146,6 +332,5 @@ many, will appear a second time, without sin, to those who are eagerly
 waiting for him for salvation.
 
 <cl/>
-
-
 </sv></cm></sc>
+

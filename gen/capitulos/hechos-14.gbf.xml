@@ -14,7 +14,7 @@ of Greeks believed.
 <wi type="G" value="1519,10,">a</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="4864,12,">la sinagoga</wi></wi>
 <wi type="G" value="3588,13,"/>
-<wi type="G" value="2453,14,">de los Judíos</wi>,
+<wi type="G" value="2453,14,">de los judíos</wi>,
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="3779,17,">de tal forma</wi>
 <wi type="G" value="2980,16,">hablaron</wi>
@@ -120,8 +120,8 @@ and stone them,
 <sv id="Hechos-14-6">
 they became aware of it, and fled to the cities of
 Lycaonia, Lystra, Derbe, and the surrounding region.
-<t xml:lang="es"><wi type="G" value="4894,1,">ellos se previnieron</wi>
-<wi type="G" value="2703,2,">y huyeron</wi>
+<t xml:lang="es"><wi type="G" value="4894,1,">al entenderlo</wi>
+<wi type="G" value="2703,2,">huyeron</wi>
 <wi type="G" value="1519,3,">a</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="4172,5,">las ciudades</wi></wi>
 <wi type="G" value="3588,6,"><wi type="G" value="3071,7,">de Licaonia</wi></wi>,
@@ -188,7 +188,7 @@ walked.
 <wi type="G" value="4675,9,">tus</wi>
 <wi type="G" value="3588,7,"><wi type="G" value="4228,8,">pies</wi></wi>!»
 <wi type="G" value="2532,11,">Y</wi>
-<wi type="G" value="242,12,">él se levantó</wi>
+<wi type="G" value="242,12,">él saltó</wi>
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="4043,14,">caminó</wi>. </t>
 </sv>
@@ -239,9 +239,8 @@ whose temple was in front of their city, brought oxen and garlands to the
 gates, and would have made a sacrifice along with the multitudes.
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="2409,3,">El sacerdote</wi>
 <wi type="G" value="1161,2,"/>
-<wi type="G" value="3588,4,"><wi type="G" value="2203,5,">de Júpiter</wi></wi>,
-<wi type="G" value="3588,6,"/>
-<wi type="G" value="5607,7,">que estaba</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2203,5,">del templo de Júpiter</wi></wi>,
+<wi type="G" value="3588,6,"/><wi type="G" value="5607,7,">que estaba</wi>
 <wi type="G" value="4253,8,">frente</wi> <wi type="G" value="846,11,">a su</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="4172,10,">ciudad</wi></wi>,
 <wi type="G" value="5342,18,">trajo</wi>
@@ -270,7 +269,7 @@ and sprang into the multitude, crying out,
 <wi type="G" value="846,11,">sus</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="2440,10,">vestidos</wi></wi>
 <wi type="G" value="1530,12,">y saltaron</wi>
-<wi type="G" value="1519,13,">hacía</wi>
+<wi type="G" value="1519,13,">hacia</wi>
 <wi type="G" value="3588,14,"><wi type="G" value="3793,15,">la multitud</wi></wi>,
 <wi type="G" value="2896,16,">gritando</wi>, </t>
 </sv>
@@ -300,9 +299,9 @@ que
 <wi type="G" value="575,15,">de</wi>
 <wi type="G" value="5130,16,">estas</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="3152,18,">cosas vanas</wi></wi>
-<wi type="G" value="1994,19,">deben darse vuelta</wi>
-<wi type="G" value="1909,20,">hacia</wi>
-<wi type="G" value="3588,21,"><wi type="G" value="2316,22,">el Dios</wi></wi>
+para que <wi type="G" value="1994,19,">se conviertan</wi>
+<wi type="G" value="1909,20,">al</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="2316,22,">Dios</wi></wi>
 <wi type="G" value="3588,23,"><wi type="G" value="2198,24,">vivo</wi></wi>,
 <wi type="G" value="3739,25,">quien</wi>
 <wi type="G" value="4160,26,">hizo</wi>
@@ -312,7 +311,7 @@ que
 <wi type="G" value="3956,36,">todo lo que hay</wi>
 <wi type="G" value="3588,37,"/>
 <wi type="G" value="1722,38,">en</wi>
-<wi type="G" value="846,39,">este</wi>; </t>
+<wi type="G" value="846,39,">ellos</wi>; </t>
 </sv>
 <sv id="Hechos-14-16">
 who in the generations gone by allowed all the nations to walk in
@@ -382,7 +381,7 @@ multitudes</wi></wi> de
 But some Jews from Antioch and Iconium came
 there, and having persuaded the multitudes, they stoned Paul, and dragged him
 out of the city, supposing that he was dead.
-<t xml:lang="es"><wi type="G" value="1161,2,">Más</wi>
+<t xml:lang="es"><wi type="G" value="1161,2,">Mas</wi>
 <wi type="G" value="1904,1,">llegaron</wi>
 <wi type="G" value="2453,7,">judíos</wi>
 <wi type="G" value="575,3,">de</wi>
@@ -458,10 +457,10 @@ must enter into the Kingdom of God.
 <wi type="G" value="3870,6,">exhortándolos</wi>
 <wi type="G" value="1696,7,">para continuar</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="4102,9,">en la fe</wi></wi>,
-<wi type="G" value="2532,10,">y</wi> </t>
-<rb xml:lang="es">enseñándoles<rf>Ni <citebib id="WEB"/>, ni
-<citebib id="TR-KJV2003"/> dicen `enseñandoles,´
-aparece en <citebib id="SE"/></rf></rb>
+<wi type="G" value="2532,10,"/> </t>
+<rb xml:lang="es"><rf><citebib id="SE"/> agrega `enseñandoles,´
+aunque no aparece ni en <citebib id="WEB"/>, 
+ni en <citebib id="TR-KJV2003"/>.</rf></rb>
 <t xml:lang="es"> <wi type="G" value="3754,11,">que</wi>
 <wi type="G" value="1223,12,">por medio</wi>
 <wi type="G" value="4183,13,">de muchas</wi>
@@ -526,8 +525,8 @@ the work which they had fulfilled.
 <wi type="G" value="3860,7,">recomendado</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,8,"><wi type="G" value="5485,9,">por gracia</wi></wi>
 <wi type="G" value="3588,10,"><wi type="G" value="2316,11,">de Dios</wi></wi>
-<wi type="G" value="1519,12,">a causa</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="2041,14,">del trabajo</wi></wi>
+<wi type="G" value="1519,12,">para</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="2041,14,">la obra</wi></wi>
 <wi type="G" value="3739,15,">que</wi>
 <wi type="G" value="4137,16,">habían realizado</wi><rf>
 <citebib id="SE"/> dice `a la gracia de Dios para la obra que habían
@@ -539,10 +538,9 @@ When they had arrived, and had
 gathered the assembly together, they reported all the things that God had
 done with them, and that he had opened a door of faith to the nations.
 <t xml:lang="es"><wi type="G" value="1161,2,"/><wi type="G" value="3854,1,">Cuando llegaron</wi>,
-<wi type="G" value="2532,3,"/>
-<wi type="G" value="4863,4,">reunieron</wi>
+<wi type="G" value="2532,3,"/><wi type="G" value="4863,4,">reunieron</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="1577,6,">a la iglesia</wi></wi>,
-y <wi type="G" value="312,7,">reportaron</wi>
+<wi type="G" value="312,7,">reportaron</wi>
 <wi type="G" value="3745,8,">todo</wi>
 lo que <wi type="G" value="3588,10,"><wi type="G" value="2316,11,">Dios</wi></wi>
 <wi type="G" value="4160,9,">había hecho</wi>

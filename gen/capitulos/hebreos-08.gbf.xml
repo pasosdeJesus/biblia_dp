@@ -188,8 +188,9 @@ of Judah;
 <wi type="G" value="2448,20,">de Judá</wi>;
 </t>
 </fp>
-</sv></cm><cm type="PO">
+</sv></cm>
 
+<cm type="PO">
 <sv id="Hebreos-8-9">
 Not according to the covenant that I made with their fathers,
 <t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
@@ -289,34 +290,87 @@ And they will be to me a people.
 </sv>
 <sv id="Hebreos-8-11">
 They will not teach every man his
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3756,2,"><wi type="G" value="3361,3,"><wi type="G" value="1538,5,">ninguno</wi></wi></wi>
+<wi type="G" value="1321,4,">enseñará a</wi>
+<wi type="G" value="846,8,">su</wi></t>
 <rb>fellow citizen,
-<t xml:lang="es"/><rf>TR reads
-«neighbor» instead of «fellow citizen»<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="3588,6,"/><wi type="G" value="4139,7,">vecino</wi></t><rf>TR reads
+«neighbor» instead of «fellow citizen»<t xml:lang="es">
+<citebib id="WEB"/> dice `conciudadano´ con nota al pie que
+dice: TR dice `vecino´ en lugar de `conciudadano.´
+<citebib id="KJV2003"/> dice `vecino.´
+</t></rf>
 </rb>
 
 <cl/>
 Every man his brother, saying, `Know the Lord,´
+<t xml:lang="es"><wi type="G" value="2532,9,">Y</wi>
+<wi type="G" value="1538,10,">ninguno</wi> a
+<wi type="G" value="846,13,">su</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="80,12,">hermano</wi></wi>,
+<wi type="G" value="3004,14,">diciendo</wi>,
+`<wi type="G" value="1097,15,">Conoce</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="2962,17,">al Señor</wi></wi>,´</t>
 <cl/>
 For all will know me,
+<t xml:lang="es"><wi type="G" value="3754,18,">Pues</wi>
+<wi type="G" value="3956,19,">todos</wi>
+<wi type="G" value="3165,21,">me</wi>
+<wi type="G" value="1492,20,">conocerán</wi>,</t>
 <cl/>
 From the least of them to the greatest of them.
+<t xml:lang="es"><wi type="G" value="575,22,">Desde</wi>
+<wi type="G" value="3398,23,">el menor</wi>
+<wi type="G" value="846,24,">de ellos</wi>
+<wi type="G" value="2193,25,">hasta</wi>
+<wi type="G" value="3173,26,">el mayor</wi>
+<wi type="G" value="846,27,">de ellos</wi>.</t>
+</sv></cm>
 
-</sv></cm><cm type="PO">
-
+<cm type="PO">
 <sv id="Hebreos-8-12">
 For I will be merciful to their unrighteousness.
+<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
+<wi type="G" value="2071,3,">seré</wi> </t>
+<rb xml:lang="es"><wi type="G" value="2436,2,">misericordioso</wi> de<rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `misericordioso,´
+<citebib id="RVG2012"/> dice `propicio.´
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="846,6,">sus</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="93,5,">injusticias</wi></wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="846,10,">de sus</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="266,9,">pecados</wi></wi>.</t>
 <cl/>
 I will remember their sins and lawless deeds no more.»
+<t xml:lang="es"><wi type="G" value="2532,11,">Y</wi>
+<wi type="G" value="3756,15,"><wi type="G" value="3361,16,">no</wi></wi>
+<wi type="G" value="2089,18,">volveré a</wi>
+<wi type="G" value="3415,17,">recordar</wi>
+<wi type="G" value="846,14,">sus</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="458,13,">iniquidades</wi></wi>.
+</t>
+</sv></cm>
 
-
-
-</sv></cm><cm>
-
+<cm>
 <sv id="Hebreos-8-13">
 In that he says, «A new covenant,» he has made the first old. But that
 which is becoming old and grows aged is near to vanishing away.
-
+<t xml:lang="es"><wi type="G" value="1722,1,">Al</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="3004,3,">decir</wi>
+«<wi type="G" value="2537,4,">nuevo</wi> pacto,»
+<wi type="G" value="3822,5,">ha hecho viejo</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="4413,7,">al primero</wi>.
+<wi type="G" value="1161,9,">Y</wi>
+<wi type="G" value="3588,8,">lo que</wi>
+<wi type="G" value="3822,10,">decae</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="1095,12,">envejece</wi>
+está <wi type="G" value="1451,13,">listo</wi>
+<wi type="G" value="854,14,">a desaparecer</wi>.
+</t>
 <cl/>
-
-
 </sv></cm></sc>
+

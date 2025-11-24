@@ -54,10 +54,10 @@ present rain, and because of the cold.
 But when Paul had gathered a
 bundle of sticks and laid them on the fire, a viper came out because of the
 heat, and fastened on his hand.
-<t xml:lang="es">Cuando
-<wi type="G" value="1161,2,"/>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="3972,4,">Pablo</wi></wi>
-<wi type="G" value="4962,1,">había reunido</wi>
+<wi type="G" value="4962,1,">reunió</wi>
 <wi type="G" value="4128,6,">un montón</wi>
 <wi type="G" value="5434,5,">de palos</wi>
 <wi type="G" value="2532,7,">y</wi> los
@@ -66,8 +66,8 @@ heat, and fastened on his hand.
 <wi type="G" value="3588,10,"><wi type="G" value="4443,11,">el fuego</wi></wi>,
 <wi type="G" value="2191,12,">una serpiente</wi>
 <wi type="G" value="1831,16,">salió</wi>
-<wi type="G" value="1537,13,">alejandose</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="2329,15,">del calor</wi></wi>,
+<wi type="G" value="1537,13,">por el</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="2329,15,">calor</wi></wi>,
 y <wi type="G" value="846,20,">lo</wi>
 <wi type="G" value="2510,17,">mordió</wi> en
 <wi type="G" value="3588,18,"><wi type="G" value="5495,19,">la mano</wi></wi>. </t>
@@ -95,10 +95,9 @@ se <wi type="G" value="3004,13,">dijeron</wi>
 <wi type="G" value="3588,19,"><wi type="G" value="444,20,">hombre</wi></wi>
 <wi type="G" value="2076,18,">es</wi>
 <wi type="G" value="5406,17,">un asesino</wi>,
-<wi type="G" value="3739,22,">a quien</wi>,
-<wi type="G" value="1295,23,">aunque escapa</wi>
-<wi type="G" value="1537,24,"/>
-<wi type="G" value="3588,25,"><wi type="G" value="2281,26,">del mar</wi></wi>, </t>
+<wi type="G" value="3739,22,">que</wi>,
+<wi type="G" value="1295,23,">ha sido rescatado</wi>
+<wi type="G" value="1537,24,"/><wi type="G" value="3588,25,"><wi type="G" value="2281,26,">del mar</wi></wi>, </t>
 <rb xml:lang="es"><wi type="G" value="3588,27,"><wi type="G" value="1349,28,">la justicia</wi></wi><rf><citebib id="WEB"/> dice `la justicia,´
 <citebib id="KJV2003"/> dice `la venganza,´ según <citebib id="TR-BLB"/> ambas
 son traducciones de la palabra griega `δίκη´</rf></rb>
@@ -194,7 +193,7 @@ yacer enfermo.</rf></rb>
 <wi type="G" value="4912,10,">enfermo</wi>
 <wi type="G" value="4446,7,">de fiebre</wi>
 <wi type="G" value="2532,8,">y</wi> </t>
-<rb xml:lang="es"><wi type="G" value="1420,9,">desintería</wi><rf><citebib id="WEB"/>
+<rb xml:lang="es"><wi type="G" value="1420,9,">disentería</wi><rf><citebib id="WEB"/>
 dice `desintería,´ <citebib id="KJV2003"/> dice `flujo de sangre.´</rf></rb>
 <t xml:lang="es">. <wi type="G" value="3588,14,"><wi type="G" value="3972,15,">Pablo</wi></wi> se
 <wi type="G" value="4314,12,"><wi type="G" value="3739,13,">le</wi></wi>
@@ -359,9 +358,9 @@ soldier who guarded him.
 <wi type="G" value="1519,4,">a</wi>
 <wi type="G" value="4516,5,">Roma</wi>, </t>
 <rb xml:lang="es"><wi type="G" value="3588,6,"><wi type="G" value="1543,7,">el centurión</wi></wi>
-<wi type="G" value="3860,8,">envió</wi>
+<wi type="G" value="3860,8,">entregó</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="1198,10,">los prisioneros</wi></wi>
-donde <wi type="G" value="3588,11,"><wi type="G" value="4759,12,">el capitán
+al <wi type="G" value="3588,11,"><wi type="G" value="4759,12,">capitán
 de la guardia</wi></wi><rf><citebib id="Gideons"/> no
 dice `el centurión envió los prisioneres donde el capitán de la
 guardia.'</rf></rb>
@@ -397,7 +396,7 @@ de <wi type="G" value="5140,5,">tres</wi>
 <wi type="G" value="3588,9,"/>
 <wi type="G" value="4779,6,">reunió</wi>
 <wi type="G" value="4413,13,">a los
-lideres</wi>
+líderes</wi>
 <wi type="G" value="3588,11,"/>
 <wi type="G" value="2453,12,">de los judíos</wi>.
 <wi type="G" value="1161,15,">Y</wi>
@@ -721,7 +720,7 @@ among themselves.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="846,3,">Cuando él</wi>
 <wi type="G" value="2036,4,">dijo</wi>
 <wi type="G" value="5023,2,">estas palabras</wi>,
-<wi type="G" value="2453,7,">los Judíos</wi>
+<wi type="G" value="2453,7,">los judíos</wi>
 <wi type="G" value="565,5,">partieron</wi>,
 <wi type="G" value="3588,6,"/>
 <wi type="G" value="2192,9,">teniendo</wi>
