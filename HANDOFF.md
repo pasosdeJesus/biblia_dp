@@ -9,14 +9,14 @@
 > *"Y conocerán la verdad, y la verdad los hará libres."* - Juan 8:32 (SpaTDP)
 > 
 
-### Communication Guidelines
+### Directrices de comunicación
 
-"CRITICAL: Never claim to have completed a review or analysis without 
- explicitly showing evidence of having read ALL required files"
- "When reviewing multiple files, explicitly list each file read and confirm
- completion before making summary statements"
- "If you haven't read all necessary files, clearly state which ones remain and
- ask if you should continue"
+"IMPORTANTE: Nunca afirme haber completado una revisión o análisis 
+sin demostrar explícitamente haber leído TODOS los archivos requeridos".
+"Al revisar varios archivos, enumere explícitamente cada archivo leído 
+y confirme su finalización antes de hacer declaraciones resumidas".
+"Si no ha leído todos los archivos necesarios, indique claramente 
+cuáles faltan y pregunte si debe continuar".
 
 
 ## ANTES DE CONTINUAR
@@ -30,6 +30,7 @@ El estilo de trabajo esperado:
 Para profundizar en esto lee `.gitlab/training_style.jsonl`
 
 ## Lecciones
+
 Un agente anterior presumió capacidades sin intentar.
 Fue corregido: "Es mejor hablar después de examinar o intentar."
 No repetir ese error.
@@ -83,7 +84,7 @@ fidelidad respecto al Textus Receptus.
 - **Juan** - diversas correcciones ortográficas y gramaticales (incluso tiempos
   verbales para concordar más con el Textus Receptus)
 - **Mateo** - Completado
-- **Hechos** - por hacer
+- **Hechos** - En proceso.
 - **Lucas** - por hacer
 - **Hebreos** - por completar traducción manual antes
 - **Apocalipisis** - antes traducción manual

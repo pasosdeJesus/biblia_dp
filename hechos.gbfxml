@@ -12301,7 +12301,7 @@ que <wi type="G" value="3972,17,">Pablo</wi>, <wi type="G" value="2532,18,"/>
 <wi type="G" value="4245,29,">los ancianos</wi>
 <wi type="G" value="4012,32,">con</wi>
 <wi type="G" value="5127,35,">esta</wi>
-<wi type="G" value="3588,33,"><wi type="G" value="2213,34,">cuestion</wi></wi>. </t>
+<wi type="G" value="3588,33,"><wi type="G" value="2213,34,">cuestión</wi></wi>. </t>
 </sv>
 <sv id="Hechos-15-3">
 They,
@@ -12373,7 +12373,7 @@ Moses.»
 <wi type="G" value="3588,6,"><wi type="G" value="139,7,">la secta</wi></wi>
 <wi type="G" value="3588,8,"><wi type="G" value="5330,9,">de los fariseos</wi></wi>
 <wi type="G" value="1817,1,">se levantaron</wi>
-<wi type="G" value="3004,11,">dicendo</wi>
+<wi type="G" value="3004,11,">diciendo</wi>
 <wi type="G" value="3754,12,">que</wi>
 <wi type="G" value="1163,13,">era necesario</wi>
 <wi type="G" value="4059,14,"><wi type="G" value="846,15,">circuncidarlos</wi></wi>,
@@ -12497,7 +12497,7 @@ disciples which neither our fathers nor we were able to bear?
 </sv>
 <sv id="Hechos-15-11">
 But we believe that we are saved through the grace of the Lord Jesus
-<t xml:lang="es"><wi type="G" value="235,1,">Más</wi>
+<t xml:lang="es"><wi type="G" value="235,1,">Mas</wi>
 <wi type="G" value="4100,8,">creemos</wi>
 <wi type="G" value="3739,11,">que</wi>
 <wi type="G" value="4982,9,">seremos salvados</wi>
@@ -12555,7 +12555,7 @@ After they were silent, James answered, «Brothers, listen to me.
 <t xml:lang="es"><wi type="G" value="3326,1,">Después</wi>
 <wi type="G" value="1161,2,"/>
 <wi type="G" value="3588,3,"/>de
-<wi type="G" value="4601,4,"><wi type="G" value="846,5,">estar silenciosos</wi></wi>,
+<wi type="G" value="4601,4,"><wi type="G" value="846,5,">que callaron</wi></wi>,
 <wi type="G" value="2385,7,">Jacobo</wi>
 <wi type="G" value="611,6,">contestó</wi>
 <wi type="G" value="3004,8,">diciendo</wi>,
@@ -12692,8 +12692,8 @@ Gentiles who turn to God,
 <wi type="G" value="575,7,">de entre</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="1484,9,">los gentiles</wi></wi>
 <wi type="G" value="1994,10,">que se conviertan</wi>
-<wi type="G" value="1909,11,">al</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Señor</wi></wi>, </t>
+<wi type="G" value="1909,11,">a</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>, </t>
 </sv>
 <sv id="Hechos-15-20">
 but that we write to them that they abstain
@@ -12770,7 +12770,7 @@ Paul and Barnabas: Judas called Barsabbas, and Silas, chief men among the
 <wi type="G" value="921,23,">Bernabé</wi>:
 <wi type="G" value="2455,24,">Judas</wi>
 <wi type="G" value="3588,25,"/>
-<wi type="G" value="1941,26,">llamados</wi>
+<wi type="G" value="1941,26,">llamado</wi>
 <wi type="G" value="923,27,">Barsabás</wi>
 <wi type="G" value="2532,28,">y</wi>
 <wi type="G" value="4609,29,">Silas</wi>,
@@ -12822,7 +12822,7 @@ Gentiles in Antioch, Syria, and Cilicia: greetings.
 <wi type="G" value="2532,18,"/>
 <wi type="G" value="4947,19,">Siria</wi>
 <wi type="G" value="2532,20,">y</wi>
-<wi type="G" value="2791,21,">Cilica</wi>. </t>
+<wi type="G" value="2791,21,">Cilicia</wi>. </t>
 </sv>
 <sv id="Hechos-15-24">
 Because we have
@@ -12838,14 +12838,14 @@ gave no commandment;
 <wi type="G" value="3739,21,">a quienes</wi>
 <wi type="G" value="3756,22,">no</wi>
 <wi type="G" value="1291,23,">dimos orden</wi>,
-<wi type="G" value="1831,7,">fueron</wi> donde
+<wi type="G" value="1831,7,">fueron</wi> a
 ustedes y <wi type="G" value="5209,9,">los</wi>
-<wi type="G" value="5015,8,">han perturbado</wi>
+<wi type="G" value="5015,8,">perturbaron</wi>
 <wi type="G" value="3056,10,">con palabras</wi>,
 <wi type="G" value="384,11,">desestabilizando</wi>
 <wi type="G" value="5216,14,">sus</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="5590,13,">almas</wi></wi> </t>
-<rb xml:lang="es"><wi type="G" value="3004,15,">diciendo</wi>
+<rb xml:lang="es"><wi type="G" value="3004,15,">al decir</wi>
 `Deben <wi type="G" value="4059,16,">circuncidarse</wi>
 <wi type="G" value="2532,17,">y</wi>
 <wi type="G" value="5083,18,">mantener</wi>
@@ -12899,7 +12899,7 @@ you the same things by word of mouth.
 <wi type="G" value="4609,5,">a Silas</wi>,
 <wi type="G" value="846,7,">ellos</wi>
 <wi type="G" value="2532,6,">también</wi>
-<wi type="G" value="518,10,">les diran</wi>
+<wi type="G" value="518,10,">les dirán</wi>
 <wi type="G" value="3588,11,"/>
 <wi type="G" value="846,12,">estas cosas</wi>
 <wi type="G" value="1223,8,">con</wi> su
@@ -13044,7 +13044,7 @@ manuscritos (según indica nota al pie en <citebib id="WEB"/>) incluyendo
 <sv id="Hechos-15-35">
 But Paul and Barnabas stayed in Antioch, teaching and preaching the word of the
 Lord, with many others also.
-<t xml:lang="es"><wi type="G" value="1161,2,">Más</wi>
+<t xml:lang="es"><wi type="G" value="1161,2,">Mas</wi>
 <wi type="G" value="3972,1,">Pablo</wi>
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="921,4,">Bernabé</wi>
@@ -13142,7 +13142,7 @@ to Cyprus,
 <wi type="G" value="3880,12,">tomó</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="3138,14,">a Marco</wi></wi>
 <wi type="G" value="1602,15,">y zarpó</wi>
-<wi type="G" value="1519,16,">hacía</wi>
+<wi type="G" value="1519,16,">hacia</wi>
 <wi type="G" value="2954,17,">Chipre</wi>,  </t>
 </sv>
 <sv id="Hechos-15-40">
@@ -13185,23 +13185,22 @@ Greek.
 <wi type="G" value="1191,4,">Derbe</wi>
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="3082,6,">Listra</wi>.
-<wi type="G" value="2532,7,"/>
-<wi type="G" value="2400,8,">Observe que</wi>
+<wi type="G" value="2532,7,">Y</wi>
+<wi type="G" value="2400,8,">he aquí que</wi>
 <wi type="G" value="5100,10,">cierto</wi>
 <wi type="G" value="3101,9,">discípulo</wi>
 <wi type="G" value="3686,13,">de nombre</wi>
 <wi type="G" value="5095,14,">Timoteo</wi>
 <wi type="G" value="2258,11,">estaba</wi>
 <wi type="G" value="1563,12,">allí</wi>,
-<wi type="G" value="5207,15,">el hijo</wi>
+<wi type="G" value="5207,15,">hijo</wi>
 <wi type="G" value="5100,17,">de</wi>
 <wi type="G" value="1135,16,">una mujer</wi>
 <wi type="G" value="2453,18,">Judía</wi>
 <wi type="G" value="4103,19,">que creía</wi>;
-<wi type="G" value="1161,21,">pero</wi>
+<wi type="G" value="1161,21,">y</wi>
 <wi type="G" value="3962,20,">su padre</wi>
-era
-<wi type="G" value="1672,22,">Griego</wi>. </t>
+era <wi type="G" value="1672,22,">Griego</wi>. </t>
 </sv>
 <sv id="Hechos-16-2">
 The brothers who were at Lystra and Iconium gave a good testimony
@@ -13236,7 +13235,7 @@ knew that his father was a Greek.
 <wi type="G" value="3588,15,"/>
 <wi type="G" value="5607,16,">que estaban</wi>
 <wi type="G" value="1722,17,">en</wi>
-<wi type="G" value="1565,20,">esta</wi>
+<wi type="G" value="1565,20,">aquella</wi>
 <wi type="G" value="3588,18,"><wi type="G" value="5117,19,">región</wi></wi>;
 <wi type="G" value="1063,22,">pues</wi>
 <wi type="G" value="537,23,">todos</wi>
@@ -13434,7 +13433,7 @@ todo, una parte asignada, una porción.</rf></rb>
 <wi type="G" value="2862,13,">una colonia</wi> romana.
 <wi type="G" value="1161,15,">Y</wi>
 <wi type="G" value="1510,14,">estuvimos</wi>
-<wi type="G" value="1304,20,">quedandonos</wi>
+<wi type="G" value="1304,20,">quedándonos</wi>
 <wi type="G" value="5100,22,">varios</wi>
 <wi type="G" value="2250,21,">días</wi>
 <wi type="G" value="1722,16,">en</wi>
@@ -13452,8 +13451,7 @@ the women who had come together.
 <wi type="G" value="1854,7,"><wi type="G" value="1831,6,">salimos</wi></wi>
 <wi type="G" value="3588,8,"><wi type="G" value="4172,9,">de la ciudad</wi></wi>
 <wi type="G" value="3844,10,">por</wi>
-<wi type="G" value="4215,11,">la rivera
-de un río</wi>,
+<wi type="G" value="4215,11,">la ribera de un río</wi>,
 <wi type="G" value="3757,12,">donde</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3543,13,">solía</wi>
 <wi type="G" value="1511,15,">hacerse</wi>
@@ -13490,8 +13488,8 @@ nos
 <wi type="G" value="3588,14,"><wi type="G" value="2962,15,">el Señor</wi></wi>
 <wi type="G" value="1272,16,">abrió</wi>
 su <wi type="G" value="3588,17,"><wi type="G" value="2588,18,">corazón</wi></wi>
-<wi type="G" value="4337,19,">para que prestara atención</wi>
-a <wi type="G" value="3588,20,">a lo</wi>
+<wi type="G" value="4337,19,">para que prestara atención a</wi>
+<wi type="G" value="3588,20,">lo</wi>
 <wi type="G" value="2980,21,">dicho</wi>
 <wi type="G" value="5259,22,">por</wi>
 <wi type="G" value="3588,23,"><wi type="G" value="3972,24,">Pablo</wi></wi>.
@@ -13806,7 +13804,7 @@ Paul and Silas,
 <t xml:lang="es"><wi type="G" value="1161,2,">Entonces</wi>
 <wi type="G" value="154,1,">pidió</wi>
 <wi type="G" value="5457,3,">luz</wi>, </t>
-<rb xml:lang="es"><wi type="G" value="1530,4,">corrío</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `saltó,´ según
+<rb xml:lang="es"><wi type="G" value="1530,4,">corrió</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `saltó,´ según
 <citebib id="Thayer-BLB"/> la palabra griega `εἰσπηδάω´ significa
 `correr impetuosamente´</rf></rb>
 <t xml:lang="es">
@@ -13875,7 +13873,7 @@ was immediately baptized, he and all his household.
 <wi type="G" value="3588,8,"><wi type="G" value="3571,9,">de la noche</wi></wi>,
 <wi type="G" value="3068,10,">lavó</wi> sus
 <wi type="G" value="575,11,"/>
-<wi type="G" value="3588,12,"><wi type="G" value="4127,13,">vestidos</wi></wi>,
+<wi type="G" value="3588,12,"><wi type="G" value="4127,13,">heridas</wi></wi>,
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="907,15,">fue bautizado</wi> de inmediato,
 <wi type="G" value="846,16,">él</wi>
@@ -13912,7 +13910,8 @@ those men go.»
 <wi type="G" value="3588,5,"><wi type="G" value="4755,6,">los magistrados</wi></wi>
 <wi type="G" value="649,4,">enviaron</wi>
 <wi type="G" value="3588,7,"><wi type="G" value="4465,8,">a los sargentos</wi></wi>,
-<wi type="G" value="3004,9,">diciendo</wi> «<wi type="G" value="630,10,">Que</wi>
+<wi type="G" value="3004,9,">diciendo</wi>
+«<wi type="G" value="630,10,">Que</wi>
 <wi type="G" value="1565,13,">esos</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="444,12,">hombres</wi></wi>
 <wi type="GC" value="10">se vayan</wi>.» </t>
