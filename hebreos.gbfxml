@@ -3412,7 +3412,7 @@ tabernacle was still standing;
 <wi type="G" value="5124,1,">con esto</wi>,
 <wi type="G" value="3588,9,">que</wi>
 <wi type="G" value="3598,12,">el camino al</wi>
-<wi type="G" value="3588,10,"/><wi type="G" value="39,11,">Lugar Santísimo</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="39,11,">santuario</wi>
 <wi type="G" value="3380,7,">no</wi>
 <wi type="G" value="5319,8,">había sido revelado</wi>
 <wi type="G" value="2089,13,">mientras</wi>
@@ -3479,11 +3479,48 @@ reformation.
 But Christ having come as a high priest of the coming good things,
 through the greater and more perfect tabernacle, not made with hands, that is
 to say, not of this creation,
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="5547,1,">Cristo</wi>
+<wi type="G" value="3854,3,">habiendo llegado</wi> como
+<wi type="G" value="749,4,">sumo sacerdote</wi>
+<wi type="G" value="18,7,">de las buenas cosas</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="3195,6,">que vendrían</wi>,
+<wi type="G" value="1223,8,">por</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="3173,10,">el mayor</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="5046,12,">más perfecto</wi>
+<wi type="G" value="4633,13,">tabernáculo</wi>,
+<wi type="G" value="3756,14,">no</wi>
+<wi type="G" value="5499,15,">hecho con manos</wi>,
+<wi type="G" value="5124,16,"/><wi type="G" value="2076,17,">es decir</wi>,
+<wi type="G" value="3756,18,">no</wi>
+<wi type="G" value="3778,19,">de esta</wi>
+<wi type="G" value="3588,20,"><wi type="G" value="2937,21,">creación</wi></wi>,
+</t>
 </sv>
+
 <sv id="Hebreos-9-12">
 nor yet through the blood of goats and
 calves, but through his own blood, entered in once for all into the Holy
 Place, having obtained eternal redemption.
+<t xml:lang="es"><wi type="G" value="3761,1,">Y no</wi>
+<wi type="G" value="1223,2,">por</wi>
+<wi type="G" value="129,3,">la sangre</wi>
+<wi type="G" value="5131,4,">de cabras</wi>
+<wi type="G" value="2532,5,">ni</wi>
+<wi type="G" value="3448,6,">becerros</wi>,
+<wi type="G" value="1161,8,">sino</wi>
+<wi type="G" value="1223,7,">por</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="2398,10,">su propia</wi>
+<wi type="G" value="129,11,">sangre</wi>,
+<wi type="G" value="1525,12,">entrando</wi>
+<wi type="G" value="2178,13,">una sola vez</wi>
+<wi type="G" value="1519,14,">en</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="39,16,">el santuario</wi>,
+<wi type="G" value="2147,19,">habiendo obtenido</wi>
+<wi type="G" value="3085,18,">redención</wi>
+<wi type="G" value="166,17,">eterna</wi>.
+</t>
 </sv>
 <sv id="Hebreos-9-13">
 For if the blood of goats
