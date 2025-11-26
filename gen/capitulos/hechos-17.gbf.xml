@@ -5,12 +5,12 @@ Now when they had passed through Amphipolis and Apollonia, they
 came to Thessalonica, where there was a synagogue of the Jews.
 <t xml:lang="es"><wi type="G" value="1353,1,">Cuando pasaron</wi>
 <wi type="G" value="1161,2,"/> por
-<wi type="G" value="3588,3,"><wi type="G" value="295,4,">Amfípolis</wi></wi>
+<wi type="G" value="3588,3,"><wi type="G" value="295,4,">Anfípolis</wi></wi>
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="624,6,">Apolinia</wi>,
 <wi type="G" value="2064,7,">fueron</wi>
 <wi type="G" value="1519,8,">a</wi>
-<wi type="G" value="2332,9,">Tesalonica</wi>,
+<wi type="G" value="2332,9,">Tesalónica</wi>,
 <wi type="G" value="3699,10,">donde</wi>
 <wi type="G" value="2258,11,">había</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="4864,13,">una sinagoga</wi></wi>
@@ -50,8 +50,8 @@ proclaim to you, is the Christ.»
 <wi type="G" value="450,10,">resucitar</wi>
 <wi type="G" value="1537,11,">de</wi>
 <wi type="G" value="3498,12,">la muerte</wi>,
-<wi type="G" value="2532,13,">y</wi> </t>
-<rb xml:lang="es">diciendo<rf><citebib id="WEB"/> agrega `diciendo.´
+<wi type="G" value="2532,13,">y</wi> que </t>
+<rb xml:lang="es"><rf><citebib id="WEB"/> agrega `diciendo.´
 No está en <citebib id="KJV2003"/> ni en <citebib id="TR-KJV2003"/></rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3754,14,"/> «
@@ -85,8 +85,8 @@ Greeks a great multitude, and not a few of the chief women.
 <wi type="G" value="5037,20,">y</wi>
 <wi type="G" value="3588,21,"/>
 <wi type="G" value="3756,23,">no</wi>
-<wi type="G" value="3641,24,">una menor</wi> cantidad
-<wi type="G" value="1135,19,">de mujeres</wi>
+<wi type="G" value="3641,24,">pocas</wi>
+<wi type="G" value="1135,19,">mujeres</wi>
 <wi type="G" value="4413,22,">principales</wi>. </t>
 </sv>
 <sv id="Hechos-17-5">
@@ -266,8 +266,7 @@ por <wi type="G" value="1487,21,">si</wi>
 Many of them therefore
 believed; also of the prominent Greek women, and not a few men.
 <t xml:lang="es"><wi type="G" value="3767,3,">Entonces</wi>
-<wi type="G" value="3303,2,"/>
-<wi type="G" value="4183,1,">muchos</wi>
+<wi type="G" value="3303,2,"/><wi type="G" value="4183,1,">muchos</wi>
 <wi type="G" value="1537,4,">de</wi>
 <wi type="G" value="846,5,">ellos</wi>
 <wi type="G" value="4100,6,">creyeron</wi>;
