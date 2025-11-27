@@ -64,12 +64,30 @@ const KNOWN_EXCEPTIONS = {
       '14': { missingInSpatdp: [], missingInKjv: ["G1161-2", "G5213-3", "G1122-4", "G2532-5", "G5273-7", "G3754-8", "G2719-9", "G3588-10", "G3614-11", "G3588-12", "G5503-13", "G2532-14", "G4392-15", "G3117-16", "G4336-17", "G1223-18", "G5124-19", "G2983-20", "G4053-21", "G2917-22"], reason: 'SpaTDP sigue el TR que incluye este versículo, ausente en la base de KJV.'}
     }
   },
+  'marcos': {
+    '4': {
+      '20': { missingInSpatdp: ['G1722-19', 'G1722-22', 'G1722-25'], missingInKjv: ['G1520-19', 'G1520-22', 'G1520-25'], reason: 'KJV es incorrecto. Omite G1520 (ἓν) que se repite en el TR y en su lugar añade G1722 (ἐν).' }
+    },
+    '8': {
+      '24': { missingInSpatdp: ['G4043-10'], missingInKjv: ['G3708-10', 'G4043-11'], reason: 'SpaTDP (corregido) es correcto al diferenciar G991 y G3708. KJV omite G3708 y tiene una posición incorrecta para G4043.' }
+    },
+    '12': {
+      '31': { missingInSpatdp: ['G846-4'], missingInKjv: ['G3778-4'], reason: 'Divergencia de referencia para αὕτη. SpaTDP sigue BLB.org (G3778), mientras que KJV usa G846.' }
+    },
+    '15': {
+      '3': { missingInSpatdp: ['G846-7', 'G1161-8', 'G3762-9', 'G611-10'], missingInKjv: [], reason: 'SpaTDP es correcto al omitir una frase no presente en el TR de referencia, pero que KJV sí incluye.' }
+    }
+  },
   'hebreos': {
     '1': {
       '3': { missingInKjv: ['G3588-13'], reason: 'SpaTDP correctly includes the article [τοῦ] based on Textus Receptus.' }
     },
     '9': {
-      '1': { missingInKjv: ['G4633-7'], reason: 'SpaTDP correctly includes the word [σκηνη] based on Textus Receptus.' }
+      '1': {
+        missingInSpatdp: ['G1345-7', 'G2999-8', 'G3588-9', 'G5037-10', 'G39-11', 'G2886-12'],
+        missingInKjv: ['G4633-7', 'G1345-8', 'G2999-9', 'G3588-10', 'G5037-11', 'G39-12', 'G2886-13'],
+        reason: 'Divergencia textual. SpaTDP incluye G4633 (σκηνη) basado en el Textus Receptus, lo que causa un desfase en la numeración de posición del resto del versículo en comparación con la KJV.'
+      }
     }
   }
 };
@@ -81,10 +99,10 @@ function parseSpaTdp(filepath) {
     const content = fs.readFileSync(filepath, 'utf-8');
     const strongsData = new Map();
     const untranslatedVerses = new Set();
-    const svBlocks = content.match(/<sv id="[^"]+"[^>]*>([\s\S]*?)<\/sv>/g) || [];
+    const svBlocks = content.match(/<sv id="[^\"]+\"[^>]*>([\s\S]*?)<\/sv>/g) || [];
 
 for (const block of svBlocks) {
-  const idMatch = block.match(/<sv id="[^-]+-[^-]+-(\d+)"/);
+  const idMatch = block.match(/<sv id="[^-]+-[^-]+-(\d+)\"/);
   if (!idMatch) continue;
   const verseNum = parseInt(idMatch[1], 10);
 
@@ -227,10 +245,10 @@ async function debugBook(bookLower) {
 
       const spatdpSet = spatdpData.get(verse) || new Set();
       const kjvSet = kjvData.get(verse) || new Set();
-      const missingInSpaTdp = new Set([...kjvSet].filter(item => !spatdpSet.has(item)));
+      const missingInSpatdp = new Set([...kjvSet].filter(item => !spatdpSet.has(item)));
       const missingInKjv = new Set([...spatdpSet].filter(item => !kjvSet.has(item)));
 
-      if (missingInSpaTdp.size === 0 && missingInKjv.size === 0) {
+      if (missingInSpatdp.size === 0 && missingInKjv.size === 0) {
         continue;
       }
 
@@ -242,8 +260,8 @@ async function debugBook(bookLower) {
         // Check if the actual diff matches the exception's expected diff
         const isExceptionMatch = missingInKjv.size === expectedMissingKjv.size &&
           [...missingInKjv].every(item => expectedMissingKjv.has(item)) &&
-          missingInSpaTdp.size === expectedMissingSpatdp.size &&
-          [...missingInSpaTdp].every(item => expectedMissingSpatdp.has(item));
+          missingInSpatdp.size === expectedMissingSpatdp.size &&
+          [...missingInSpatdp].every(item => expectedMissingSpatdp.has(item));
 
         if (isExceptionMatch) {
           console.log(`\n  - NOTE (Verse ${chapter}:${verse}): ${exception.reason}`);
@@ -255,7 +273,7 @@ async function debugBook(bookLower) {
 
       totalMismatches++;
       chapterHasIssue = true;
-      verseMismatches.push({ verse, missingInSpaTdp, missingInKjv });
+      verseMismatches.push({ verse, missingInSpatdp, missingInKjv });
     }
 
     if (verseMismatches.length > 0) {
@@ -263,7 +281,7 @@ async function debugBook(bookLower) {
       for(const mismatch of verseMismatches) {
         console.log(`\n  - Verse ${chapter}:${mismatch.verse}`);
         let parts = [];
-        if (mismatch.missingInSpaTdp.size > 0) parts.push(`Missing in SpaTDP: [${Array.from(mismatch.missingInSpaTdp).sort(sorter).join(', ')}]`);
+        if (mismatch.missingInSpatdp.size > 0) parts.push(`Missing in SpaTDP: [${Array.from(mismatch.missingInSpatdp).sort(sorter).join(', ')}]`);
         if (mismatch.missingInKjv.size > 0) parts.push(`Missing in KJV: [${Array.from(mismatch.missingInKjv).sort(sorter).join(', ')}]`);
         console.log(`    Result: ${parts.join('; ')}`);
       }
@@ -316,3 +334,4 @@ if (process.argv.length == 2) {
     debugBook(process.argv[i])
   }
 }
+
