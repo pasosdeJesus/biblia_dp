@@ -47,6 +47,23 @@ const KJV_PATH_TEMPLATE = "ref/sword_kjv/capitulos/{book_kjv}-{chapter_padded}.o
 
 // Known, correct exceptions where SpaTDP follows Textus Receptus
 const KNOWN_EXCEPTIONS = {
+  'mateo': {
+    '3': {
+      '15': { missingInKjv: ['G4241-12', 'G2076-13'], reason: 'SpaTDP sigue el TR que incluye "πρεπον εστιν".' }
+    },
+    '6': {
+      '24': { missingInKjv: ['G3126-28'], reason: 'SpaTDP sigue el TR que incluye "μαμμωνᾷ".' }
+    },
+    '14': {
+      '16': { missingInKjv: ['G2192-8', 'G565-9'], reason: 'SpaTDP sigue el TR que incluye "οὐ χρείαν ἔχουσιν ἀπελθεῖν".' }
+    },
+    '17': {
+      '8': { missingInKjv: ['G3440-13'], reason: 'SpaTDP sigue el TR que incluye "μόνον".' }
+    },
+    '23': {
+      '14': { missingInSpatdp: [], missingInKjv: ["G1161-2", "G5213-3", "G1122-4", "G2532-5", "G5273-7", "G3754-8", "G2719-9", "G3588-10", "G3614-11", "G3588-12", "G5503-13", "G2532-14", "G4392-15", "G3117-16", "G4336-17", "G1223-18", "G5124-19", "G2983-20", "G4053-21", "G2917-22"], reason: 'SpaTDP sigue el TR que incluye este versículo, ausente en la base de KJV.'}
+    }
+  },
   'hebreos': {
     '1': {
       '3': { missingInKjv: ['G3588-13'], reason: 'SpaTDP correctly includes the article [τοῦ] based on Textus Receptus.' }
@@ -100,8 +117,8 @@ function parseKjv(filepath) {
   try {
     const content = fs.readFileSync(filepath, 'utf-8');
     const versesData = new Map();
-    const verseChunks = content.split(/\$\$\$[A-Za-z0-9_]+\s\d+:/);
-    const verseMarkers = content.match(/\$\$\$([A-Za-z0-9_]+\s\d+:(\d+))/g) || [];
+    const verseChunks = content.split(/\$\$\$[A-Za-z0-9_ ]+\s\d+:/);
+    const verseMarkers = content.match(/\$\$\$([A-Za-z0-9_ ]+\s\d+:(\d+))/g) || [];
 
     if (verseChunks.length === 0 || verseMarkers.length === 0) {
       return versesData;
@@ -172,15 +189,17 @@ async function debugBook(bookLower) {
   while (true) {
     const chapterPadded = String(chapter).padStart(2, '0');
     const spatdpFilepath = SPATDP_PATH_TEMPLATE.replace('{book_lower}', bookLower).replace('{chapter_padded}', chapterPadded);
-    console.log("OJO spatdpFilepath=",spatdpFilepath)
     if (!fs.existsSync(spatdpFilepath)) {
       if (chapter === 1) console.log(`No files found for ${bookDisplayName}.`);
       break;
     }
+    const { strongsData: spatdpData, untranslatedVerses } = parseSpaTdp(spatdpFilepath);
 
     const kjvFilepath = KJV_PATH_TEMPLATE.replace('{book_kjv}', bookInfo.kjv).replace('{chapter_padded}', chapterPadded);
-    console.log("OJO kjvFilepath", kjvFilepath)
-    const { strongsData: spatdpData, untranslatedVerses } = parseSpaTdp(spatdpFilepath);
+    if (!fs.existsSync(kjvFilepath)) {
+      console.log(`Not found ${kjvFilepath}.`);
+      break;
+    }
     const kjvData = fs.existsSync(kjvFilepath) ? parseKjv(kjvFilepath) : new Map();
 
     let chapterHasIssue = false;
@@ -293,7 +312,7 @@ async function main() {
 if (process.argv.length == 2) {
   main()
 } else {
-  for (let i = 2; i <= process.argv.length; i++) {
+  for (let i = 2; i < process.argv.length; i++) {
     debugBook(process.argv[i])
   }
 }
