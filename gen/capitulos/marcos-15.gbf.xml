@@ -53,7 +53,12 @@ The chief priests accused him of many things.
 <wi type="G" value="3588,4,"><wi type="G" value="749,5,">los jefes de los sacerdotes</wi></wi>
 <wi type="G" value="846,3,">lo</wi>
 <wi type="G" value="2723,2,">acusaban</wi>
-<wi type="G" value="4183,6,">de muchas cosas</wi>. </t>
+<wi type="G" value="4183,6,">de muchas cosas</wi>
+</t>
+<rb xml:lang="es">.<rf><citebib id="KJV2003"/> agrega `Pero el nada contestó.´
+No está presente en <citebib id="WEB"/> ni en <citebib id="RVG2012"/> 
+ni en <citebib id="TR-BLB"/>
+</rf></rb>
 </sv>
 <sv id="Marcos-15-4">
 Pilate again asked him, «Have you no answer? See how many things they

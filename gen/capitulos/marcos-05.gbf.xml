@@ -573,10 +573,9 @@ from him, turned around in the crowd, and asked,
 <wi type="G" value="3004,17,">y preguntó</wi>, </t>
 <fr>«Who touched my clothes?»
 <t xml:lang="es">«¿<wi type="G" value="5101,18,">Quien</wi>
-<wi type="G" value="5101,19,"/>
-<wi type="G" value="680,21,">tocó</wi>
-<wi type="G" value="3450,20,">mi</wi>
-<wi type="G" value="3588,22,"><wi type="G" value="2440,23,">ropa</wi></wi>?» </t>
+<wi type="G" value="680,20,">tocó</wi>
+<wi type="G" value="3450,19,">mi</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="2440,22,">ropa</wi></wi>?» </t>
 </fr>
 </sv></cm>
 
@@ -594,9 +593,8 @@ and you say, `Who touched me?´»
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="3004,13,">dices</wi>,
 `¿<wi type="G" value="5101,14,">Quien</wi>
-<wi type="G" value="5101,15,"/>
-<wi type="G" value="3450,16,">me</wi>
-<wi type="G" value="680,17,">tocó</wi>?´» </t>
+<wi type="G" value="3450,15,">me</wi>
+<wi type="G" value="680,16,">tocó</wi>?´» </t>
 </sv></cm>
 
 <cm>

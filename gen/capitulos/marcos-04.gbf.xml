@@ -169,7 +169,7 @@ times, and some one hundred times as much.»
 <wi type="G" value="1835,21,">sesenta</wi>,
 <wi type="G" value="2532,22,">y</wi>
 <wi type="G" value="1722,23,">algunas</wi>
-<wi type="G" value="1540,27,">cien</wi>.» </t>
+<wi type="G" value="1540,24,">cien</wi>.» </t>
 </fr>
 </sv>
 <sv id="Marcos-4-9">
@@ -421,17 +421,14 @@ sixty times, and some one hundred times.»
 la <wi type="G" value="3858,16,">reciben</wi>,
 <wi type="G" value="2532,17,">y</wi>
 <wi type="G" value="2592,18,">dan fruto</wi>,
-<wi type="G" value="1722,19,"/>
-<wi type="G" value="1520,20,">algunos</wi>
-<wi type="G" value="5144,21,">treinta veces</wi>,
-<wi type="G" value="2532,22,">y</wi>
-<wi type="G" value="1722,23,"/>
-<wi type="G" value="1520,24,">algunos</wi>
-<wi type="G" value="1835,25,">sesenta veces</wi>,
-<wi type="G" value="2532,26,">y</wi>
-<wi type="G" value="1722,27,"/>
-<wi type="G" value="1520,28,">otros</wi>
-<wi type="G" value="1540,29,">cien veces</wi>.» </t>
+<wi type="G" value="1520,19,">algunos</wi>
+<wi type="G" value="5144,20,">treinta veces</wi>,
+<wi type="G" value="2532,21,">y</wi>
+<wi type="G" value="1520,22,">algunos</wi>
+<wi type="G" value="1835,23,">sesenta veces</wi>,
+<wi type="G" value="2532,24,">y</wi>
+<wi type="G" value="1520,25,">otros</wi>
+<wi type="G" value="1540,26,">cien veces</wi>.» </t>
 </fr>
 </sv></cm>
 

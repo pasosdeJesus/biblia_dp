@@ -459,7 +459,7 @@ Immediately they left their nets, and followed him.
 <wi type="G" value="846,6,">sus</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="1350,5,">redes</wi></wi>, y
 <wi type="G" value="846,8,">lo</wi>
-<wi type="G" value="190,7,"/><wi type="G" value="190,9,">siguieron</wi>. </t>
+<wi type="G" value="190,7,">siguieron</wi>. </t>
 </sv>
 
 <sv id="Marcos-1-19">
@@ -2483,7 +2483,7 @@ times, and some one hundred times as much.»
 <wi type="G" value="1835,21,">sesenta</wi>,
 <wi type="G" value="2532,22,">y</wi>
 <wi type="G" value="1722,23,">algunas</wi>
-<wi type="G" value="1540,27,">cien</wi>.» </t>
+<wi type="G" value="1540,24,">cien</wi>.» </t>
 </fr>
 </sv>
 <sv id="Marcos-4-9">
@@ -2735,17 +2735,14 @@ sixty times, and some one hundred times.»
 la <wi type="G" value="3858,16,">reciben</wi>,
 <wi type="G" value="2532,17,">y</wi>
 <wi type="G" value="2592,18,">dan fruto</wi>,
-<wi type="G" value="1722,19,"/>
-<wi type="G" value="1520,20,">algunos</wi>
-<wi type="G" value="5144,21,">treinta veces</wi>,
-<wi type="G" value="2532,22,">y</wi>
-<wi type="G" value="1722,23,"/>
-<wi type="G" value="1520,24,">algunos</wi>
-<wi type="G" value="1835,25,">sesenta veces</wi>,
-<wi type="G" value="2532,26,">y</wi>
-<wi type="G" value="1722,27,"/>
-<wi type="G" value="1520,28,">otros</wi>
-<wi type="G" value="1540,29,">cien veces</wi>.» </t>
+<wi type="G" value="1520,19,">algunos</wi>
+<wi type="G" value="5144,20,">treinta veces</wi>,
+<wi type="G" value="2532,21,">y</wi>
+<wi type="G" value="1520,22,">algunos</wi>
+<wi type="G" value="1835,23,">sesenta veces</wi>,
+<wi type="G" value="2532,24,">y</wi>
+<wi type="G" value="1520,25,">otros</wi>
+<wi type="G" value="1540,26,">cien veces</wi>.» </t>
 </fr>
 </sv></cm>
 
@@ -3769,10 +3766,9 @@ from him, turned around in the crowd, and asked,
 <wi type="G" value="3004,17,">y preguntó</wi>, </t>
 <fr>«Who touched my clothes?»
 <t xml:lang="es">«¿<wi type="G" value="5101,18,">Quien</wi>
-<wi type="G" value="5101,19,"/>
-<wi type="G" value="680,21,">tocó</wi>
-<wi type="G" value="3450,20,">mi</wi>
-<wi type="G" value="3588,22,"><wi type="G" value="2440,23,">ropa</wi></wi>?» </t>
+<wi type="G" value="680,20,">tocó</wi>
+<wi type="G" value="3450,19,">mi</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="2440,22,">ropa</wi></wi>?» </t>
 </fr>
 </sv></cm>
 
@@ -3790,9 +3786,8 @@ and you say, `Who touched me?´»
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="3004,13,">dices</wi>,
 `¿<wi type="G" value="5101,14,">Quien</wi>
-<wi type="G" value="5101,15,"/>
-<wi type="G" value="3450,16,">me</wi>
-<wi type="G" value="680,17,">tocó</wi>?´» </t>
+<wi type="G" value="3450,15,">me</wi>
+<wi type="G" value="680,16,">tocó</wi>?´» </t>
 </sv></cm>
 
 <cm>
@@ -6436,10 +6431,11 @@ He looked up, and said, «I see men; for I see them like trees
 walking.»
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="308,2,">Alzó la mirada</wi>
 <wi type="G" value="3004,3,">y dijo</wi>,
-«<wi type="G" value="3708,10,"><wi type="G" value="991,4,">Veo</wi></wi>
-<wi type="G" value="3588,5,"><wi type="G" value="444,6,">hombres</wi></wi>; los veo
+«<wi type="G" value="991,4,">Veo</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="444,6,">hombres</wi></wi>; 
+<wi type="G" value="3708,10,">percibo</wi>
 <wi type="G" value="3754,7,"><wi type="G" value="5613,8,">como</wi></wi>
-<wi type="G" value="1186,9,">arboles</wi>
+<wi type="G" value="1186,9,">árboles</wi>
 <wi type="G" value="4043,11,">caminando</wi>.» </t></sv></cm>
 
 <cm>
@@ -9548,7 +9544,7 @@ will tell you by what authority I do these things.
 <wi type="G" value="2532,12,"/><wi type="G" value="611,13,"><wi type="G" value="3427,14,">Contéstenme</wi></wi>
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="5213,17,">les</wi>
-<wi type="G" value="2046,16">diré</wi>
+<wi type="G" value="2046,16,">diré</wi>
 <wi type="G" value="1722,18,">con</wi>
 <wi type="G" value="4169,19,">que</wi>
 <wi type="G" value="1849,20,">autoridad</wi>
@@ -10313,18 +10309,18 @@ these.»
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="1208,2,">el segundo</wi>
 <wi type="G" value="3664,3,">corresponde</wi>
-<wi type="G" value="846,4,">a este</wi>,
-`<wi type="G" value="3778,5,"/><wi type="G" value="25,6,">Amarás</wi>
-<wi type="G" value="4675,9,">a tu</wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="4139,8,">prójimo</wi>
-<wi type="G" value="5613,10,">como</wi>
-<wi type="G" value="4572,11,">a ti mismo</wi>.´
-<wi type="G" value="3756,16,">No</wi>
-<wi type="G" value="2076,17,">hay</wi>
-<wi type="G" value="243,14,">otro</wi>
-<wi type="G" value="1785,15,">mandamiento</wi>
-<wi type="G" value="3187,12,">más importante</wi>
-<wi type="G" value="5130,13,">que estos</wi>.» </t>
+<wi type="G" value="3778,4,">a este</wi>,
+`<wi type="G" value="25,5,">Amarás</wi>
+<wi type="G" value="4675,8,">a tu</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="4139,7,">prójimo</wi>
+<wi type="G" value="5613,9,">como</wi>
+<wi type="G" value="4572,10,">a ti mismo</wi>.´
+<wi type="G" value="3756,15,">No</wi>
+<wi type="G" value="2076,16,">hay</wi>
+<wi type="G" value="243,13,">otro</wi>
+<wi type="G" value="1785,14,">mandamiento</wi>
+<wi type="G" value="3187,11,">más importante</wi>
+<wi type="G" value="5130,12,">que estos</wi>.» </t>
 </fr></sv></cm>
 
 <cm>
@@ -10628,18 +10624,18 @@ gave all that she had to live on.»
 <wi type="G" value="1537,3,">de</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="846,6,">su</wi>
 <wi type="G" value="4052,5,">abundancia</wi>,
-<wi type="G" value="3778,9,"/><wi type="G" value="1161,10,">pero</wi>
+<wi type="G" value="1161,9,">pero</wi>
 <wi type="G" value="846,8,">ella</wi>,
-<wi type="G" value="1537,11,">de</wi>
-<wi type="G" value="846,14,">su</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="5304,13,">pobreza</wi></wi>,
-<wi type="G" value="906,18,">dio</wi>
-<wi type="G" value="3956,15,">todo</wi>
-<wi type="G" value="3745,16,">lo que</wi>
-<wi type="G" value="2192,17,">tenía</wi>,
-<wi type="G" value="3650,19,">todo</wi>
-<wi type="G" value="846,22,">su</wi>
-<wi type="G" value="3588,20,"><wi type="G" value="979,21,">sustento</wi></wi>.» </t>
+<wi type="G" value="1537,10,">de</wi>
+<wi type="G" value="846,13,">su</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="5304,12,">pobreza</wi></wi>,
+<wi type="G" value="906,17,">dio</wi>
+<wi type="G" value="3956,14,">todo</wi>
+<wi type="G" value="3745,15,">lo que</wi>
+<wi type="G" value="2192,16,">tenía</wi>,
+<wi type="G" value="3650,18,">todo</wi>
+<wi type="G" value="846,21,">su</wi>
+<wi type="G" value="3588,19,"><wi type="G" value="979,20,">sustento</wi></wi>.» </t>
 </fr>
 </sv></cm></sc>
 
@@ -12238,21 +12234,20 @@ He came the third time, and said to them,
 <fr>«Sleep on now, and take your rest. It is enough. The hour has come.
 Behold, the Son of Man is betrayed into the hands of sinners.
 <t xml:lang="es">«<wi type="G" value="2518,8,">Duerman</wi>,
-<wi type="G" value="2518,9,"/>
-<wi type="G" value="3588,10,"/><wi type="G" value="3063,11,">ahora</wi>,
-<wi type="G" value="2532,12,">y</wi>
-<wi type="G" value="373,13,"/><wi type="G" value="373,14,">descansen</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="3063,10,">ahora</wi>,
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="373,12,"/><wi type="G" value="373,13,">descansen</wi>
 .
-<wi type="G" value="566,15,">Es suficiente</wi>.
-<wi type="G" value="3588,17,"><wi type="G" value="5610,18,">La hora</wi></wi>
-<wi type="G" value="2064,16,">ha llegado</wi>.
-<wi type="G" value="2400,19,">Observen</wi>,
-<wi type="G" value="3588,21,"><wi type="G" value="5207,22,">el Hijo</wi></wi>
-<wi type="G" value="3588,23,"><wi type="G" value="444,24,">del Hombre</wi></wi>
-<wi type="G" value="3860,20,">es traicionado y entregado</wi>
-<wi type="G" value="1519,25,">en</wi>
-<wi type="G" value="3588,26,"><wi type="G" value="5495,27,">manos</wi></wi>
-<wi type="G" value="3588,28,"/><wi type="G" value="268,29,">de pecadores</wi>. </t>
+<wi type="G" value="566,14,">Es suficiente</wi>.
+<wi type="G" value="3588,16,"><wi type="G" value="5610,17,">La hora</wi></wi>
+<wi type="G" value="2064,15,">ha llegado</wi>.
+<wi type="G" value="2400,18,">Observen</wi>,
+<wi type="G" value="3588,20,"><wi type="G" value="5207,21,">el Hijo</wi></wi>
+<wi type="G" value="3588,22,"><wi type="G" value="444,23,">del Hombre</wi></wi>
+<wi type="G" value="3860,19,">es traicionado y entregado</wi>
+<wi type="G" value="1519,24,">en</wi>
+<wi type="G" value="3588,25,"><wi type="G" value="5495,26,">manos</wi></wi>
+<wi type="G" value="3588,27,"/><wi type="G" value="268,28,">de pecadores</wi>. </t>
 </fr>
 </sv>
 <sv id="Marcos-14-42"><fr>
@@ -12879,7 +12874,12 @@ The chief priests accused him of many things.
 <wi type="G" value="3588,4,"><wi type="G" value="749,5,">los jefes de los sacerdotes</wi></wi>
 <wi type="G" value="846,3,">lo</wi>
 <wi type="G" value="2723,2,">acusaban</wi>
-<wi type="G" value="4183,6,">de muchas cosas</wi>. </t>
+<wi type="G" value="4183,6,">de muchas cosas</wi>
+</t>
+<rb xml:lang="es">.<rf><citebib id="KJV2003"/> agrega `Pero el nada contestó.´
+No está presente en <citebib id="WEB"/> ni en <citebib id="RVG2012"/> 
+ni en <citebib id="TR-BLB"/>
+</rf></rb>
 </sv>
 <sv id="Marcos-15-4">
 Pilate again asked him, «Have you no answer? See how many things they
