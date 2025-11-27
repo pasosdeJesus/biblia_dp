@@ -1,4 +1,4 @@
-for i in lucas hechos mateo juan marcos romanos corintios1 corintios2 efesios galatas hebreos timoteo1 filipenses colosenses ; do 
+for i in lucas hechos mateo juan marcos romanos corintios1 corintios2 efesios galatas hebreos timoteo1 filipenses colosenses tesalonicenses1 tesalonicenses2 timoteo2 tito filemon; do 
   echo $i;
   split -p "<sc" ../../$i.gbfxml $i-
   for j in $i*; do
