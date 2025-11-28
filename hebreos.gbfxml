@@ -3625,10 +3625,31 @@ es <wi type="G" value="318,5,">necesario</wi>  que
 For a will is in force
 where there has been death, for it is never in force while he who made it
 lives.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1242,1,">un testamento</wi>
+<wi type="G" value="949,5,">está en firme</wi>
+<wi type="G" value="1909,3,">cuando</wi>
+<wi type="G" value="3498,4,">hay muerte</wi>,
+<wi type="G" value="1893,6,">porque</wi>
+<wi type="G" value="3379,7,">no</wi>
+<wi type="G" value="2480,8,">tiene fuerza</wi>
+<wi type="G" value="3753,9,">mientras</wi>
+<wi type="G" value="2198,10,">viva</wi>
+<wi type="G" value="3588,11,">el que</wi>
+<wi type="G" value="1303,12,">lo hizo</wi>.
+</t>
 </sv>
 <sv id="Hebreos-9-18">
 Therefore even the first covenant has not been dedicated without
 blood.
+<t xml:lang="es"><wi type="G" value="3606,1,">Entonces</wi>
+<wi type="G" value="3761,2,">incluso</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="4413,4,">el primero</wi>
+<wi type="GC" value="2">no</wi>
+<wi type="G" value="1457,7,">fue dedicado</wi>
+<wi type="G" value="5565,5,">sin</wi>
+<wi type="G" value="129,6,">sangre</wi>.
+</t>
 </sv>
 <sv id="Hebreos-9-19">
 For when every commandment had been spoken by Moses to all the
