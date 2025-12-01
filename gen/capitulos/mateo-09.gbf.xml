@@ -331,26 +331,29 @@ fast often, but your disciples don´t fast?»
 </sv></cm><cm>
 <sv id="Mateo-9-15">
 Jesus said to them,
-<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2424,5,">Jesús</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="2424,5,">Jesús</wi>
 <wi type="G" value="846,3,">les</wi>
-<wi type="G" value="3588,4,"/>
 <wi type="G" value="2036,2,">dijo</wi>, </t>
 <fr>«Can the friends of the bridegroom mourn, as
 long as the bridegroom is with them? But the days will come when the
 bridegroom will be taken away from them, and then they will fast.
-<t xml:lang="es">«¿Acaso <wi type="G" value="1410,7,">pueden</wi>
-<wi type="G" value="3361,6,"/>
+<t xml:lang="es">«¿<wi type="G" value="3361,6,"/><wi type="G" value="1410,7,">Pueden</wi>
 <wi type="G" value="3588,8,"/>
 <wi type="G" value="3588,10,"/>
 estar
 <wi type="G" value="3996,12,">tristes</wi> </t>
-<rb xml:lang="es"><wi type="G" value="5207,9,;3567,11,"/>los amigos del novio<rf>
-<citebib id="WEB"/> dice `los amigos del novío,´ <citebib id="Peshitta"/>
-y <citebib id="KJV2003"/> dicen `los hijos de la fiesta de bodas.´
+<rb xml:lang="es"><wi type="G" value="3588,8,">los</wi>
+<wi type="G" value="3588,10,"/>
+<wi type="G" value="5207,9,"><wi type="G" value="3567,11,">amigos del novio</wi></wi><rf>
+<citebib id="WEB"/> dice `los amigos del novio,´
+<citebib id="Peshitta"/> y <citebib id="KJV2003"/> dicen
+`los hijos de la fiesta de bodas.´
 De acuerdo a <citebib id="Thayer-BLB"/> la palabra
-`υἱοὶ´ se usa tanto para hijos como para seguidores, la palabra `νυμφῶνος´
-se relaciona con `los amigos del novio, cuya labor era proveer y 
-cuidar todo lo relacionado con las celebración de las nupcias.' </rf></rb>
+`υἱοὶ´ se usa tanto para hijos como para seguidores,
+la palabra `νυμφῶνος´ se relaciona con `los amigos del novio,
+cuya labor era proveer y cuidar todo lo relacionado con las
+celebración de las nupcias.' </rf></rb>
 <t xml:lang="es"> <wi type="G" value="1909,13,"><wi type="G" value="3745,14,">mientras</wi></wi>
 <wi type="G" value="3566,19,"/> él
 <wi type="G" value="2076,17,">está</wi>
@@ -458,7 +461,7 @@ and she will live.»
 <rb xml:lang="es">
 <wi type="G" value="4352,8,"><wi type="G" value="846,9,">se arrodillo ante Él</wi></wi><rf>
 <citebib id="KJV2003"/> y <citebib id="WEB"/> dicen `adoró.´
-<citebib id="Thayer-BLB"/> dice que la palabra `προσεκύνειp' 
+<citebib id="Thayer-BLB"/> dice que la palabra `προσεκύνειp'
 se traduce entre otras como `en el Nuevo Testamento arodillare o postrarse
 para hacer homenaje a alguien o hacer obediencia, bien para expresar
 respeto o para hacer suplica.´</rf></rb>

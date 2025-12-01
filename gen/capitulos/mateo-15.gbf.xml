@@ -501,10 +501,10 @@ after us.»
 <wi type="G" value="846,13,">le</wi>
 <wi type="G" value="2065,12,">rogaron</wi>,
 <wi type="G" value="3004,14,">diciendo</wi>, «</t>
-<rb xml:lang="es"><wi type="G" value="630,15,;846,16,">Envíala de
-regreso</wi><rf><citebib id="DieBibel"/> dice
-`Libérala (de su preocupación),´ <citebib id="KJV2003"/> dice `envíala
-lejos,' <citebib id="RV1960"/> dice `despidela.'</rf></rb>
+<rb xml:lang="es"><wi type="G" value="630,15,"><wi type="G" value="846,16,">Despidela</wi></wi><rf>
+<citebib id="DieBibel"/> dice `Libérala (de su preocupación),´ 
+<citebib id="KJV2003"/> dice `envíala lejos,'
+<citebib id="RV1960"/> dice `despidela.'</rf></rb>
 <t xml:lang="es">; <wi type="G" value="3754,17,">pues</wi>
 <wi type="G" value="2896,18,">ella llora</wi>
 <wi type="G" value="3693,19,">detrás</wi> de

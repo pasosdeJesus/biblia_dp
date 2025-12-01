@@ -307,9 +307,9 @@ de <wi type="G" value="2268,6,">Isaías</wi>
 <wi type="G" value="3508,5,">de Neftalí</wi>, </t>
 <cl/>
 Toward the sea, beyond the Jordan,
-<t xml:lang="es"><wi type8"G" value="3598,6,">hacia</wi>
+<t xml:lang="es"><wi type="G" value="3598,6,">hacia</wi>
 <wi type="G" value="2281,7,">el mar</wi>, </t>
-<rb xml:lang="es"><wi type="G" value="4008,8,">al otro lado</wi> 
+<rb xml:lang="es"><wi type="G" value="4008,8,">al otro lado</wi>
 <wi type="G" value="3588,9,">del</wi>
 <wi type="G" value="2446,10,">Jordán</wi><rf><citebib id="WEB"/> dice
 `más alla del Jordán,´ <citebib id="LAT"/> dice `al otro lado del
@@ -318,7 +318,7 @@ Jordán.'</rf></rb>
 <cl/>
 Galilee of the Gentiles,
 <t xml:lang="es"><wi type="G" value="1056,11,">Galilea</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,12,">de los</wi> 
+<rb xml:lang="es"><wi type="G" value="3588,12,">de los</wi>
 <wi type="G" value="1484,13,">Gentiles</wi><rf>
 <citebib id="Peshitta"/> dice `de las naciones´</rf></rb>
 <t xml:lang="es">.

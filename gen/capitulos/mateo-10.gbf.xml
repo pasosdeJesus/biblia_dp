@@ -1006,13 +1006,15 @@ name of a righteous man will receive a righteous man´s reward.
 <t xml:lang="es"><wi type="G" value="1209,2,">Aquel que recibe</wi>
 <wi type="G" value="3588,1,"/>
 <wi type="G" value="4396,3,">a un profeta</wi> </t>
-<rb xml:lang="es"><wi type="G" value="1519,4,"/>
-<wi type="G" value="3686,5,"/>
-porque
-es <wi type="G" value="4396,6,">profeta</wi><rf><citebib id="DieBibel"/>
-dice `porque es un profeta,´ <citebib id="DiosHablaHoy"/> dice
-`porque habla en nombre de Dios,´ <citebib id="KJV2003"/> y
-<citebib id="WEB"/> dicen `en el nombre de un profeta.´</rf></rb>
+<rb xml:lang="es"><wi type="G" value="1519,4,">por</wi> 
+<wi type="G" value="3686,5,">ser llamado</wi>
+<wi type="G" value="4396,6,">profeta</wi><rf>
+<citebib id="DieBibel"/> dice `porque es un profeta,´ 
+<citebib id="DiosHablaHoy"/> dice `porque habla en nombre de Dios,´ 
+<citebib id="KJV2003"/> y <citebib id="WEB"/> dicen 
+`en el nombre de un profeta.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `ὄνομα´ puede
+traducirse como nombre, nombrado, llamado.</rf></rb>
 <t xml:lang="es">, <wi type="G" value="2983,9,">recibirá</wi>
 <wi type="G" value="3408,7,">la recompensa</wi>
 <wi type="G" value="4396,8,">de un profeta</wi>;
@@ -1021,7 +1023,8 @@ dice `porque es un profeta,´ <citebib id="DiosHablaHoy"/> dice
 <wi type="G" value="1209,12,">aquel que recibe</wi> </t>
 <rb xml:lang="es">a <wi type="G" value="1342,13,">un hombre justo</wi><rf><citebib id="DiosHablaHoy"/>
 dice `bueno.´</rf></rb>
-<t xml:lang="es"> <wi type="G" value="1519,14,;3686,15,"/>porque es
+<t xml:lang="es"> <wi type="G" value="1519,14,">por</wi>
+<wi type="G" value="3686,15,">ser llamado</wi>
 <wi type="G" value="1342,16,">justo</wi>,
 <wi type="G" value="2983,19,">recibirá</wi>
 <wi type="G" value="3408,17,">la recompensa</wi> de
@@ -1035,30 +1038,28 @@ of a disciple, most assuredly I tell you he will in no way lose his
 reward.»
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="3739,2,">cualquiera</wi>
-<wi type="G" value="1437,3,"/>
-<wi type="G" value="4222,4,">que le da</wi>
+<wi type="G" value="1437,3,"/><wi type="G" value="4222,4,">que le de</wi>
 <wi type="G" value="3398,7,">a</wi>
 <wi type="G" value="1520,5,">uno de</wi>
-<wi type="G" value="3588,6,"/>
-<wi type="G" value="5130,8,">estos</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="5130,8,">estos</wi>
 <wi type="GC" value="7">pequeños</wi>
 <wi type="G" value="3440,11,">sólo</wi>
-<wi type="G" value="4221,9,">un vaso</wi> de agua
-<wi type="G" value="5593,10,">fría</wi>
-<wi type="GC" value="4">para</wi> beber </t>
-<rb xml:lang="es"><wi type="G" value="1519,12,;3686,13,"/>por ser un
-<wi type="G" value="3101,14,">discípulo</wi> mio<rf><citebib id="WEB"/>,
+<wi type="G" value="4221,9,">un vaso</wi>
+<wi type="G" value="5593,10,">de agua fría</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="1519,12,">por</wi>
+<wi type="G" value="3686,13,">ser llamado</wi>
+<wi type="G" value="3101,14,">discípulo</wi><rf><citebib id="WEB"/>,
 <citebib id="KJV2003"/> y <citebib id="Peshitta"/> dicen `en el
 nombre de un discípulo,´ <citebib id="DiosHablaHoy"/> dice
 `por ser seguidor mio.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="281,15,">con seguridad</wi>
+<t xml:lang="es">, <wi type="G" value="281,15,">en verdad</wi>
 <wi type="G" value="5213,17,">les</wi>
 <wi type="G" value="3004,16,">digo</wi>
 que
 <wi type="G" value="3756,18,"><wi type="G" value="3361,19,">de ninguna forma</wi></wi>
 <wi type="G" value="622,20,">perderá</wi>
-<wi type="G" value="3588,21,"/>
-<wi type="G" value="846,23,">su</wi>
+<wi type="G" value="3588,21,"/><wi type="G" value="846,23,">su</wi>
 <wi type="G" value="3408,22,">recompensa</wi>.» </t>
 </fr>
 </sv></cm></sc>

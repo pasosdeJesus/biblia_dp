@@ -1922,9 +1922,9 @@ de <wi type="G" value="2268,6,">Isaías</wi>
 <wi type="G" value="3508,5,">de Neftalí</wi>, </t>
 <cl/>
 Toward the sea, beyond the Jordan,
-<t xml:lang="es"><wi type8"G" value="3598,6,">hacia</wi>
+<t xml:lang="es"><wi type="G" value="3598,6,">hacia</wi>
 <wi type="G" value="2281,7,">el mar</wi>, </t>
-<rb xml:lang="es"><wi type="G" value="4008,8,">al otro lado</wi> 
+<rb xml:lang="es"><wi type="G" value="4008,8,">al otro lado</wi>
 <wi type="G" value="3588,9,">del</wi>
 <wi type="G" value="2446,10,">Jordán</wi><rf><citebib id="WEB"/> dice
 `más alla del Jordán,´ <citebib id="LAT"/> dice `al otro lado del
@@ -1933,7 +1933,7 @@ Jordán.'</rf></rb>
 <cl/>
 Galilee of the Gentiles,
 <t xml:lang="es"><wi type="G" value="1056,11,">Galilea</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,12,">de los</wi> 
+<rb xml:lang="es"><wi type="G" value="3588,12,">de los</wi>
 <wi type="G" value="1484,13,">Gentiles</wi><rf>
 <citebib id="Peshitta"/> dice `de las naciones´</rf></rb>
 <t xml:lang="es">.
@@ -5308,9 +5308,10 @@ Jesus said to him,
 <sv id="Mateo-8-8">
 The centurion answered, «Lord, I´m not worthy for you to come under my
 roof. Just say the word, and my servant will be healed.
-<t xml:lang="es"><wi type="G" value="3588,3,"/><wi type="G" value="1543,4,">El centurión</wi> le
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="1543,4,">el centurión</wi>
 <wi type="G" value="611,2,">contestó</wi>
-<wi type="G" value="2532,1,;5346,5,"/>,
+<wi type="G" value="5346,5,">diciendo</wi>,
 «<wi type="G" value="2962,6,">Señor</wi>,
 <wi type="G" value="3756,7,">no</wi>
 <wi type="G" value="1510,8,">soy</wi>
@@ -6262,26 +6263,29 @@ fast often, but your disciples don´t fast?»
 </sv></cm><cm>
 <sv id="Mateo-9-15">
 Jesus said to them,
-<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2424,5,">Jesús</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="2424,5,">Jesús</wi>
 <wi type="G" value="846,3,">les</wi>
-<wi type="G" value="3588,4,"/>
 <wi type="G" value="2036,2,">dijo</wi>, </t>
 <fr>«Can the friends of the bridegroom mourn, as
 long as the bridegroom is with them? But the days will come when the
 bridegroom will be taken away from them, and then they will fast.
-<t xml:lang="es">«¿Acaso <wi type="G" value="1410,7,">pueden</wi>
-<wi type="G" value="3361,6,"/>
+<t xml:lang="es">«¿<wi type="G" value="3361,6,"/><wi type="G" value="1410,7,">Pueden</wi>
 <wi type="G" value="3588,8,"/>
 <wi type="G" value="3588,10,"/>
 estar
 <wi type="G" value="3996,12,">tristes</wi> </t>
-<rb xml:lang="es"><wi type="G" value="5207,9,;3567,11,"/>los amigos del novio<rf>
-<citebib id="WEB"/> dice `los amigos del novío,´ <citebib id="Peshitta"/>
-y <citebib id="KJV2003"/> dicen `los hijos de la fiesta de bodas.´
+<rb xml:lang="es"><wi type="G" value="3588,8,">los</wi>
+<wi type="G" value="3588,10,"/>
+<wi type="G" value="5207,9,"><wi type="G" value="3567,11,">amigos del novio</wi></wi><rf>
+<citebib id="WEB"/> dice `los amigos del novio,´
+<citebib id="Peshitta"/> y <citebib id="KJV2003"/> dicen
+`los hijos de la fiesta de bodas.´
 De acuerdo a <citebib id="Thayer-BLB"/> la palabra
-`υἱοὶ´ se usa tanto para hijos como para seguidores, la palabra `νυμφῶνος´
-se relaciona con `los amigos del novio, cuya labor era proveer y 
-cuidar todo lo relacionado con las celebración de las nupcias.' </rf></rb>
+`υἱοὶ´ se usa tanto para hijos como para seguidores,
+la palabra `νυμφῶνος´ se relaciona con `los amigos del novio,
+cuya labor era proveer y cuidar todo lo relacionado con las
+celebración de las nupcias.' </rf></rb>
 <t xml:lang="es"> <wi type="G" value="1909,13,"><wi type="G" value="3745,14,">mientras</wi></wi>
 <wi type="G" value="3566,19,"/> él
 <wi type="G" value="2076,17,">está</wi>
@@ -6389,7 +6393,7 @@ and she will live.»
 <rb xml:lang="es">
 <wi type="G" value="4352,8,"><wi type="G" value="846,9,">se arrodillo ante Él</wi></wi><rf>
 <citebib id="KJV2003"/> y <citebib id="WEB"/> dicen `adoró.´
-<citebib id="Thayer-BLB"/> dice que la palabra `προσεκύνειp' 
+<citebib id="Thayer-BLB"/> dice que la palabra `προσεκύνειp'
 se traduce entre otras como `en el Nuevo Testamento arodillare o postrarse
 para hacer homenaje a alguien o hacer obediencia, bien para expresar
 respeto o para hacer suplica.´</rf></rb>
@@ -7848,13 +7852,15 @@ name of a righteous man will receive a righteous man´s reward.
 <t xml:lang="es"><wi type="G" value="1209,2,">Aquel que recibe</wi>
 <wi type="G" value="3588,1,"/>
 <wi type="G" value="4396,3,">a un profeta</wi> </t>
-<rb xml:lang="es"><wi type="G" value="1519,4,"/>
-<wi type="G" value="3686,5,"/>
-porque
-es <wi type="G" value="4396,6,">profeta</wi><rf><citebib id="DieBibel"/>
-dice `porque es un profeta,´ <citebib id="DiosHablaHoy"/> dice
-`porque habla en nombre de Dios,´ <citebib id="KJV2003"/> y
-<citebib id="WEB"/> dicen `en el nombre de un profeta.´</rf></rb>
+<rb xml:lang="es"><wi type="G" value="1519,4,">por</wi> 
+<wi type="G" value="3686,5,">ser llamado</wi>
+<wi type="G" value="4396,6,">profeta</wi><rf>
+<citebib id="DieBibel"/> dice `porque es un profeta,´ 
+<citebib id="DiosHablaHoy"/> dice `porque habla en nombre de Dios,´ 
+<citebib id="KJV2003"/> y <citebib id="WEB"/> dicen 
+`en el nombre de un profeta.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `ὄνομα´ puede
+traducirse como nombre, nombrado, llamado.</rf></rb>
 <t xml:lang="es">, <wi type="G" value="2983,9,">recibirá</wi>
 <wi type="G" value="3408,7,">la recompensa</wi>
 <wi type="G" value="4396,8,">de un profeta</wi>;
@@ -7863,7 +7869,8 @@ dice `porque es un profeta,´ <citebib id="DiosHablaHoy"/> dice
 <wi type="G" value="1209,12,">aquel que recibe</wi> </t>
 <rb xml:lang="es">a <wi type="G" value="1342,13,">un hombre justo</wi><rf><citebib id="DiosHablaHoy"/>
 dice `bueno.´</rf></rb>
-<t xml:lang="es"> <wi type="G" value="1519,14,;3686,15,"/>porque es
+<t xml:lang="es"> <wi type="G" value="1519,14,">por</wi>
+<wi type="G" value="3686,15,">ser llamado</wi>
 <wi type="G" value="1342,16,">justo</wi>,
 <wi type="G" value="2983,19,">recibirá</wi>
 <wi type="G" value="3408,17,">la recompensa</wi> de
@@ -7877,30 +7884,28 @@ of a disciple, most assuredly I tell you he will in no way lose his
 reward.»
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="3739,2,">cualquiera</wi>
-<wi type="G" value="1437,3,"/>
-<wi type="G" value="4222,4,">que le da</wi>
+<wi type="G" value="1437,3,"/><wi type="G" value="4222,4,">que le de</wi>
 <wi type="G" value="3398,7,">a</wi>
 <wi type="G" value="1520,5,">uno de</wi>
-<wi type="G" value="3588,6,"/>
-<wi type="G" value="5130,8,">estos</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="5130,8,">estos</wi>
 <wi type="GC" value="7">pequeños</wi>
 <wi type="G" value="3440,11,">sólo</wi>
-<wi type="G" value="4221,9,">un vaso</wi> de agua
-<wi type="G" value="5593,10,">fría</wi>
-<wi type="GC" value="4">para</wi> beber </t>
-<rb xml:lang="es"><wi type="G" value="1519,12,;3686,13,"/>por ser un
-<wi type="G" value="3101,14,">discípulo</wi> mio<rf><citebib id="WEB"/>,
+<wi type="G" value="4221,9,">un vaso</wi>
+<wi type="G" value="5593,10,">de agua fría</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="1519,12,">por</wi>
+<wi type="G" value="3686,13,">ser llamado</wi>
+<wi type="G" value="3101,14,">discípulo</wi><rf><citebib id="WEB"/>,
 <citebib id="KJV2003"/> y <citebib id="Peshitta"/> dicen `en el
 nombre de un discípulo,´ <citebib id="DiosHablaHoy"/> dice
 `por ser seguidor mio.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="281,15,">con seguridad</wi>
+<t xml:lang="es">, <wi type="G" value="281,15,">en verdad</wi>
 <wi type="G" value="5213,17,">les</wi>
 <wi type="G" value="3004,16,">digo</wi>
 que
 <wi type="G" value="3756,18,"><wi type="G" value="3361,19,">de ninguna forma</wi></wi>
 <wi type="G" value="622,20,">perderá</wi>
-<wi type="G" value="3588,21,"/>
-<wi type="G" value="846,23,">su</wi>
+<wi type="G" value="3588,21,"/><wi type="G" value="846,23,">su</wi>
 <wi type="G" value="3408,22,">recompensa</wi>.» </t>
 </fr>
 </sv></cm></sc>
@@ -8022,7 +8027,7 @@ de <wi type="G" value="1698,9,">mi</wi><rf><citebib id="WEB"/> dice `para tropez
 <citebib id="Peshitta"/> y <citebib id="KJV2003"/> dicen `el que no es
 ofendido en mí,´ <citebib id="LAT"/> dice `quien no se
 escandalize de mí.' De acuerdo a <citebib id="Thayer-BLB"/> la palabra
-`σκανδαλισθῇ´ puede traducirse como `poner una roca de tropiezo o un 
+`σκανδαλισθῇ´ puede traducirse como `poner una roca de tropiezo o un
 impedimento en el
 camino, metaf. ofender; caer en pecado, hacer que una persona
 desconfie; hacer caer, ser ofendido por otro i.e ver en otro lo que
@@ -8236,20 +8241,17 @@ sitting in the marketplaces, who call to their companions
 ¿<wi type="G" value="5101,1,">con qué</wi>
 <wi type="G" value="3666,3,">compararé</wi> a
 <wi type="G" value="3778,6,">esta</wi>
-<wi type="G" value="3588,4,"/>
-<wi type="G" value="1074,5,">generación</wi>?
-<wi type="G" value="3664,8,"/>
-<wi type="G" value="2076,9,">Es</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="1074,5,">generación</wi>?
+<wi type="G" value="2076,8,">Es</wi>
 <wi type="G" value="3664,7,">como</wi>
-<wi type="G" value="3808,10,">niños</wi>
-<wi type="G" value="2521,13,">que se sientan</wi>
-<wi type="G" value="1722,11,">en</wi>
-<wi type="G" value="58,12,">las plazas</wi>,
-<wi type="G" value="2532,14,"/>
-<wi type="G" value="4377,15,">llaman</wi> a
-<wi type="G" value="846,18,">sus</wi>
-<wi type="G" value="3588,16,"/>
-<wi type="G" value="2083,17,">compañeros</wi> </t>
+<wi type="G" value="3808,9,">niños</wi>
+<wi type="G" value="2521,12,">que se sientan</wi>
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="58,11,">las plazas</wi>,
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="4377,14,">llaman</wi> a
+<wi type="G" value="846,17,">sus</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="2083,16,">compañeros</wi> </t>
 </fr>
 </sv>
 <sv id="Mateo-11-17"><fr>
@@ -9657,7 +9659,7 @@ this evil generation.»
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="1525,13,">entran</wi>
 <wi type="G" value="2730,14,">y habitan</wi>
-<wi type="G" value="1563,15,">allí</wi>. 
+<wi type="G" value="1563,15,">allí</wi>.
 <wi type="G" value="2532,16,"/><wi type="G" value="3588,18,"/>La situación
 <wi type="G" value="2078,19,">final</wi>
 <wi type="G" value="3588,20,"/>
@@ -10627,7 +10629,7 @@ yeast, which a woman took, and hid in three
 <rb>measures
 <t xml:lang="es"><wi type="G" value="4568,18,">medidas</wi></t><rf>literally,
 three sata. 3 sata is about 39 litres or a bit more than a bushel
-<t xml:lang="es">Literalmente tres sata, del griego `σάτα´. Cada sata son 
+<t xml:lang="es">Literalmente tres sata, del griego `σάτα´. Cada sata son
 cerca de 3 galones. 3 satas son cerca de
 39 litros. </t></rf>
 </rb>
@@ -11074,7 +11076,7 @@ brings out of his treasure new and old things.»
 <rb xml:lang="es"><wi type="G" value="3100,9,">instruido</wi><rf><citebib id="WEB"/>
 dice `que ha sido hecho discípulo,´ <citebib id="KJV2003"/> dice `que es
 instruido.' De acuerdo a <citebib id="Thayer-BLB"/> la palabra
-`μαθητευθεὶς´ se traduce como `ser discípulo; seguir preceptos e instrucción; 
+`μαθητευθεὶς´ se traduce como `ser discípulo; seguir preceptos e instrucción;
 hacer disciplina; enseñar, instruir' </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1519,10,">para</wi> <wi type="G" value="3588,11,"/>
@@ -12435,10 +12437,10 @@ after us.»
 <wi type="G" value="846,13,">le</wi>
 <wi type="G" value="2065,12,">rogaron</wi>,
 <wi type="G" value="3004,14,">diciendo</wi>, «</t>
-<rb xml:lang="es"><wi type="G" value="630,15,;846,16,">Envíala de
-regreso</wi><rf><citebib id="DieBibel"/> dice
-`Libérala (de su preocupación),´ <citebib id="KJV2003"/> dice `envíala
-lejos,' <citebib id="RV1960"/> dice `despidela.'</rf></rb>
+<rb xml:lang="es"><wi type="G" value="630,15,"><wi type="G" value="846,16,">Despidela</wi></wi><rf>
+<citebib id="DieBibel"/> dice `Libérala (de su preocupación),´ 
+<citebib id="KJV2003"/> dice `envíala lejos,'
+<citebib id="RV1960"/> dice `despidela.'</rf></rb>
 <t xml:lang="es">; <wi type="G" value="3754,17,">pues</wi>
 <wi type="G" value="2896,18,">ella llora</wi>
 <wi type="G" value="3693,19,">detrás</wi> de
@@ -13211,7 +13213,7 @@ I also tell you that you are
 <rb>Peter,
 <t xml:lang="es"><wi type="G" value="4074,8,">Pedro</wi></t><rf>Peter´s name,
 Petros in Greek, is the word for a specific rock or stone.
-<t xml:lang="es">El nombre de Pedro, `Πέτρος´ o `Petro´ en Griego 
+<t xml:lang="es">El nombre de Pedro, `Πέτρος´ o `Petro´ en Griego
 además de ser un nombre propio de persona, significa piedra.
 Según <citebib id="Thayer-BLB"/> Πέτρος es tanto el nombre del apostol,
 como una piedra individual o separada, pequeña pero más grande que λίθος.
@@ -13226,17 +13228,17 @@ pero que es de origen Caldeo. </t></rf>
 <rb>rock
 <t xml:lang="es"><wi type="G" value="4073,13,">Roca</wi></t><rf>Greek,
 petra, a rock mass or bedrock.
-<t xml:lang="es">En griego `Πέτρα´ o `Petra´, número Strong 4073, 
-es una masa de roca o cama de piedras. 
+<t xml:lang="es">En griego `Πέτρα´ o `Petra´, número Strong 4073,
+es una masa de roca o cama de piedras.
 <citebib id="Thayer-BLB"/> dice `algunas interpretaciones
 tratan la diferencia (usualmente observada en griego clásico, ver los
-comentarios y cf. 
+comentarios y cf.
 Schmidt, Syn., capítulo 51, §§ 4-6) entre πέτρα, la roca viviente masiva, y
 πέτρος, un fragmento grande pero separado, como importante para una
 comprensión correcta de este pasaje; otros explican los diferente géneros
 aquí como debidos primero a la referencia personal y luego a la
-referencia material, Cf. Meyer, Keil, others; Green.' 
-A lo largo del nuevo testamento la palabra Πέτρα se usa para 
+referencia material, Cf. Meyer, Keil, others; Green.'
+A lo largo del nuevo testamento la palabra Πέτρα se usa para
 referirse sólo a una masa de roca o a Cristo, incluso por parte del mismo
 apostol Pedro: i.e Mat 7:24-25, Mat 27:51, Mat
 27:60, Mar 15:46, Luc 6:48, Luc 8:6, Luc 8:13, Rom 9:33, 1 Co 10:4, 1 Pe 2:8,
@@ -13396,7 +13398,7 @@ God, but on the things of men.»
 <citebib id="Thayer-BLB"/> indica que la palabra griega
 `ὑπάγω´ puede significar alejarse,
 partir, quitarse mientras que la palabra `ὀπίσω´
-es un adverbio de lugar o tiempo que puede traducirse como atrás 
+es un adverbio de lugar o tiempo que puede traducirse como atrás
 o como adelante. </rf></rb>
 <rb xml:lang="es"><wi type="G" value="3450,12,">Me</wi>
 <wi type="G" value="1488,13,">eres</wi>
@@ -16382,7 +16384,7 @@ kneeling and asking a certain thing of him.
 <wi type="G" value="5207,11,">hijos</wi>, </t>
 <rb xml:lang="es"><wi type="G" value="4352,13,">arrodillándose</wi><rf>
 <citebib id="KJV2003"/> dice `adorandolo,´ <citebib id="Thayer-BLB"/> dice
-que la palabra griega `προσκυνοῦσα´ 
+que la palabra griega `προσκυνοῦσα´
 significa besar la mano o arrodillarse o postrarse en
 homenaje u obediencia.</rf></rb>
 <t xml:lang="es"> <wi type="G" value="2532,14,">y</wi>
@@ -18899,8 +18901,8 @@ the fringes of their garments,
 <wi type="G" value="1161,13,"/>
 <wi type="G" value="846,16,">sus</wi>
 <wi type="G" value="3588,14,"/>
-<wi type="G" value="5440,15,">filacterias</wi><rf>"Filacterias" son las 
-pequeñas cajas de cuero con textos de las Escrituras que los judíos 
+<wi type="G" value="5440,15,">filacterias</wi><rf>"Filacterias" son las
+pequeñas cajas de cuero con textos de las Escrituras que los judíos
 observantes usaban en el brazo y la frente. <citebib id="DiosHablaHoy"/>
 dice `Les gusta llevar en la frente y en los brazos
 porciones de las Escrituras escritas en anchas
@@ -19173,7 +19175,7 @@ the temple, he is obligated.´
 </t>
 <rb xml:lang="es"><wi type="G" value="3784,24,">es deudor</wi><rf><citebib
 id="WEB"/> dice `está obligado,´
-<citebib id="Peshitta"/> dice `es culpable,´ 
+<citebib id="Peshitta"/> dice `es culpable,´
 <citebib id="KJV2003"/> dice `es deudor.´</rf></rb>
 <t xml:lang="es">.´</t>
 </fr>
@@ -22083,7 +22085,7 @@ But Jesus, knowing this, said to them,
 <fr>«Why do you trouble the
 woman? Because she has done a good work for me.
 <t xml:lang="es">«¿<wi type="G" value="5101,7,">Por qué</wi>
-<wi type="G" value="3930,9,">le ponen</wi> 
+<wi type="G" value="3930,9,">le ponen</wi>
 <wi type="G" value="2873,8,">problema</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="1135,11,">a la mujer</wi>?
 <wi type="G" value="1063,13,">Pues</wi>
@@ -22204,7 +22206,7 @@ dice `acordaron,´ <citebib id="DieBibel"/> dice
 <citebib id="Peshitta"/> dice `le prometieron,´
 <citebib id="KJV2003"/> dice `acordaron con él.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `ἵστημι´
-se traduce como estar de pie, establecer, fijar, permanecer quieto, 
+se traduce como estar de pie, establecer, fijar, permanecer quieto,
 estar a la espera.
 </rf></rb>
 <t xml:lang="es">
