@@ -42,7 +42,6 @@ const BOOK_MAP = {
   'apocalipsis': { kjv: 'Revelation', display: 'Revelation' }
 };
 
-const SPATDP_PATH_TEMPLATE = "gen/capitulos/{book_lower}-{chapter_padded}.gbf.xml";
 const KJV_PATH_TEMPLATE = "ref/sword_kjv/capitulos/{book_kjv}-{chapter_padded}.osis.xml";
 
 // Known, correct exceptions where SpaTDP follows Textus Receptus
@@ -97,38 +96,46 @@ const KNOWN_EXCEPTIONS = {
 function parseSpaTdp(filepath) {
   try {
     const content = fs.readFileSync(filepath, 'utf-8');
-    const strongsData = new Map();
-    const untranslatedVerses = new Set();
-    const svBlocks = content.match(/<sv id="[^\"]+\"[^>]*>([\s\S]*?)<\/sv>/g) || [];
+    const bookData = new Map();
+    const svBlocks = content.match(/<sv id="[^"]+"[^>]*>([\s\S]*?)<\/sv>/g) || [];
 
-for (const block of svBlocks) {
-  const idMatch = block.match(/<sv id="[^-]+-[^-]+-(\d+)\"/);
-  if (!idMatch) continue;
-  const verseNum = parseInt(idMatch[1], 10);
+    for (const block of svBlocks) {
+      const idMatch = block.match(/<sv id="[^-]+-(\d+)-(\d+)"/);
+      if (!idMatch) continue;
+      const chapterNum = parseInt(idMatch[1], 10);
+      const verseNum = parseInt(idMatch[2], 10);
 
-  const tMatch = block.match(/<t xml:lang="es">([\s\S]*?)<\/t>/);
-  if (!tMatch || !tMatch[1].trim()) {
-    untranslatedVerses.add(verseNum);
-  }
-
-  const contentWithoutFootnotes = block.replace(/<rf>[\s\S]*?<\/rf>/g, '');
-  const strongs = new Set();
-  const wiTagRegex = /<wi[\s\S]*?>/g;
-  const wiTags = contentWithoutFootnotes.match(wiTagRegex) || [];
-
-  for (const wiTag of wiTags) {
-    const normalizedTag = wiTag.replace(/\n?\n|\n/g, ' ').replace(/\s{2,}/g, ' ');
-    const valueMatch = normalizedTag.match(/value=\"(\d+),(\d+),/);
-      if (valueMatch) {
-        strongs.add(`G${valueMatch[1]}-${parseInt(valueMatch[2], 10)}`);
+      if (!bookData.has(chapterNum)) {
+        bookData.set(chapterNum, {
+          strongsData: new Map(),
+          untranslatedVerses: new Set()
+        });
       }
+
+      const chapterContent = bookData.get(chapterNum);
+      const tMatch = block.match(/<t xml:lang="es">([\s\S]*?)<\/t>/);
+      if (!tMatch || !tMatch[1].trim()) {
+        chapterContent.untranslatedVerses.add(verseNum);
+      }
+
+      const contentWithoutFootnotes = block.replace(/<rf>[\s\S]*?<\/rf>/g, '');
+      const strongs = new Set();
+      const wiTagRegex = /<wi[\s\S]*?>/g;
+      const wiTags = contentWithoutFootnotes.match(wiTagRegex) || [];
+
+      for (const wiTag of wiTags) {
+        const normalizedTag = wiTag.replace(/\n?\n|\n/g, ' ').replace(/\s{2,}/g, ' ');
+        const valueMatch = normalizedTag.match(/value="(\d+),(\d+),/);
+        if (valueMatch) {
+          strongs.add(`G${valueMatch[1]}-${parseInt(valueMatch[2], 10)}`);
+        }
+      }
+      chapterContent.strongsData.set(verseNum, strongs);
+    }
+    return bookData;
+  } catch (e) {
+    return new Map();
   }
-  strongsData.set(verseNum, strongs);
-}
-return { strongsData, untranslatedVerses };
-} catch (e) {
-  return { strongsData: new Map(), untranslatedVerses: new Set() };
-}
 }
 
 function parseKjv(filepath) {
@@ -158,25 +165,25 @@ function parseKjv(filepath) {
       const wTags = verseContent.match(/<w [^>]+>/g) || [];
 
       for (const wTag of wTags) {
-        const srcMatch = wTag.match(/src=\"([\d\s]+)\"/);
-          if (!srcMatch) continue;
-          const positions = srcMatch[1].split(/\s+/).map(p => parseInt(p, 10));
+        const srcMatch = wTag.match(/src="([\d\s]+)"/);
+        if (!srcMatch) continue;
+        const positions = srcMatch[1].split(/\s+/).map(p => parseInt(p, 10));
 
-          const lemmaMatch = wTag.match(/lemma=\"([^\"]*)\"/);
-            if (!lemmaMatch) continue;
+        const lemmaMatch = wTag.match(/lemma="([^"]*)"/);
+        if (!lemmaMatch) continue;
 
-            const strongsInLemma = lemmaMatch[1].match(/strong:G\d+/g) || [];
-            const strongNumbers = strongsInLemma.map(s => s.replace('strong:', ''));
+        const strongsInLemma = lemmaMatch[1].match(/strong:G\d+/g) || [];
+        const strongNumbers = strongsInLemma.map(s => s.replace('strong:', ''));
 
-            if (strongNumbers.length > 0 && strongNumbers.length === positions.length) {
-              for (let j = 0; j < strongNumbers.length; j++) {
-                strongs.add(`${strongNumbers[j]}-${positions[j]}`);
-              }
-            } else if (strongNumbers.length > 0 && positions.length === 1) {
-              for (const strongNum of strongNumbers) {
-                strongs.add(`${strongNum}-${positions[0]}`);
-              }
-            }
+        if (strongNumbers.length > 0 && strongNumbers.length === positions.length) {
+          for (let j = 0; j < strongNumbers.length; j++) {
+            strongs.add(`${strongNumbers[j]}-${positions[j]}`);
+          }
+        } else if (strongNumbers.length > 0 && positions.length === 1) {
+          for (const strongNum of strongNumbers) {
+            strongs.add(`${strongNum}-${positions[0]}`);
+          }
+        }
       }
       versesData.set(verseNum, strongs);
     }
@@ -191,13 +198,20 @@ function parseKjv(filepath) {
 async function debugBook(bookLower) {
   const bookInfo = BOOK_MAP[bookLower];
   if (typeof bookInfo == "undefined") {
-    console.log("Libro desconocido: ", bookLower)
-    process.exit(1)
+    console.log("Libro desconocido: ", bookLower);
+    process.exit(1);
   }
 
   const bookDisplayName = bookInfo.display;
   console.log(`\n\n--- Analyzing ${bookDisplayName} ---\n`);
   console.log("======================================================");
+
+  const spatdpBookFilepath = `${bookLower}.gbfxml`;
+  if (!fs.existsSync(spatdpBookFilepath)) {
+      console.log(`No file found for ${bookDisplayName}: ${spatdpBookFilepath}. Skipping.`);
+      return { totalMismatches: 0, totalUntranslated: 0, totalExceptions: 0 };
+  }
+  const spatdpBookData = parseSpaTdp(spatdpBookFilepath);
 
   let chapter = 1;
   let totalMismatches = 0;
@@ -206,19 +220,15 @@ async function debugBook(bookLower) {
 
   while (true) {
     const chapterPadded = String(chapter).padStart(2, '0');
-    const spatdpFilepath = SPATDP_PATH_TEMPLATE.replace('{book_lower}', bookLower).replace('{chapter_padded}', chapterPadded);
-    if (!fs.existsSync(spatdpFilepath)) {
-      if (chapter === 1) console.log(`No files found for ${bookDisplayName}.`);
-      break;
-    }
-    const { strongsData: spatdpData, untranslatedVerses } = parseSpaTdp(spatdpFilepath);
-
     const kjvFilepath = KJV_PATH_TEMPLATE.replace('{book_kjv}', bookInfo.kjv).replace('{chapter_padded}', chapterPadded);
     if (!fs.existsSync(kjvFilepath)) {
-      console.log(`Not found ${kjvFilepath}.`);
+      if (chapter === 1) console.log(`No KJV files found for ${bookDisplayName}.`);
       break;
     }
-    const kjvData = fs.existsSync(kjvFilepath) ? parseKjv(kjvFilepath) : new Map();
+    
+    const kjvData = parseKjv(kjvFilepath);
+    const spatdpChapterData = spatdpBookData.get(chapter) || { strongsData: new Map(), untranslatedVerses: new Set() };
+    const { strongsData: spatdpData, untranslatedVerses } = spatdpChapterData;
 
     let chapterHasIssue = false;
 
@@ -238,7 +248,6 @@ async function debugBook(bookLower) {
     let verseMismatches = [];
 
     for (const verse of sortedVerseKeys) {
-      // Skip concordance check for untranslated verses
       if (untranslatedVerses.has(verse)) {
         continue;
       }
@@ -252,12 +261,10 @@ async function debugBook(bookLower) {
         continue;
       }
 
-      // Check for known exceptions
       const exception = KNOWN_EXCEPTIONS[bookLower]?.[chapter]?.[verse];
       if (exception) {
         const expectedMissingKjv = new Set(exception.missingInKjv || []);
         const expectedMissingSpatdp = new Set(exception.missingInSpatdp || []);
-        // Check if the actual diff matches the exception's expected diff
         const isExceptionMatch = missingInKjv.size === expectedMissingKjv.size &&
           [...missingInKjv].every(item => expectedMissingKjv.has(item)) &&
           missingInSpatdp.size === expectedMissingSpatdp.size &&
