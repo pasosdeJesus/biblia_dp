@@ -3758,11 +3758,35 @@ con <wi type="G" value="2909,16,">mejores</wi>
 <wi type="G" value="3778,19,">estos</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-9-24">
 For Christ hasn´t entered
 into holy places made with hands, which are representations of the true, but
 into heaven itself, now to appear in the presence of God for us;
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="5547,8,">Cristo</wi></wi>
+<wi type="G" value="3756,1,">no</wi>
+<wi type="G" value="1525,6,">entró</wi>
+<wi type="G" value="1519,3,">en</wi>
+<wi type="G" value="39,5,">lugares santos</wi>
+<wi type="G" value="5499,4,">hechos con manos</wi>,
+que son <wi type="G" value="499,9,">representaciones</wi>
+<wi type="G" value="3588,10,">del</wi>
+<wi type="G" value="228,11,">verdadero</wi>,
+<wi type="G" value="235,12,">sino</wi>
+<wi type="G" value="1519,13,">en</wi>
+<wi type="G" value="3588,15,">el</wi>
+<wi type="G" value="3772,16,">cielo</wi>
+<wi type="G" value="846,14,">mismo</wi>,
+<wi type="G" value="3568,17,">ahora</wi>
+<wi type="G" value="1718,18,">aparece</wi>
+<wi type="G" value="5228,23,">por</wi>
+<wi type="G" value="2257,24,">nosotros</wi> en
+<wi type="G" value="3588,19,"><wi type="G" value="4383,20,">la presencia</wi></wi>
+<wi type="G" value="3588,21,"><wi type="G" value="2316,22,">de Dios</wi></wi>;
+</t>
 </sv>
+
 <sv id="Hebreos-9-25">
 nor
 yet that he should offer himself often, as the high priest enters into the
