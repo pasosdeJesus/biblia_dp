@@ -12821,7 +12821,7 @@ show them a sign from heaven.
 <wi type="G" value="3985,7,">probaron</wi>
 <wi type="G" value="1905,8,">pidiéndole</wi>
 que <wi type="G" value="846,15,">les</wi>
-<wi type="GC" value="1925,14">mostrara</wi>
+<wi type="GC" value="1925,14,">mostrara</wi>
 <wi type="G" value="4592,10,">una señal</wi>
 <wi type="G" value="1537,11,">del</wi>
 <wi type="G" value="3588,12,"/><wi type="G" value="3772,13,">cielo</wi>. </t>
@@ -13179,27 +13179,31 @@ and blood has not revealed this to you, but my Father who is in heaven.
 <t xml:lang="es">«<wi type="G" value="3107,7,">Bendecido</wi>
 <wi type="G" value="1488,8,">eres tu</wi>,
 <wi type="G" value="4613,9,">Simón</wi> </t>
-<rb xml:lang="es"><wi type="G" value="920,10,"><wi type="G" value="920,11,">hijo de Jonás</wi></wi><rf>
+<rb xml:lang="es"><wi type="G" value="920,10,">hijo de Jonás</wi><rf>
 <citebib id="WEB"/> dice `Simon Bar Jonah,´ <citebib id="KJV2003"/> dice
-`Simon Bar jona.´</rf></rb>
+`Simon Bar Jona.´ En el <citebib id="TR"/> se usan las 2 palabras `Βαρ Ἰωνᾶ´
+en las posiciones 10 y 11 de este versículo, pero tanto en 
+<citebib id="KJV2003"/> como aquí usamos el número Strong `920´ que representa 
+las 2 palabras --dejando 26 números Strong para las 27 palabras en griego de
+este versículo. </rf></rb>
 <t xml:lang="es">
-<wi type="G" value="2495,12,"/><wi type="G" value="3754,13,">pues</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4561,14,">carne</wi>
-<wi type="G" value="2532,15,">y</wi>
-<wi type="G" value="129,16,">sangre</wi>
-<wi type="G" value="3756,17,">no</wi>
-<wi type="G" value="4671,19,">te</wi>
-<wi type="G" value="601,18,">han revelado</wi> esto<rf>
+<wi type="G" value="2495,11,"/><wi type="G" value="3754,12,">pues</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4561,13,">carne</wi>
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="129,15,">sangre</wi>
+<wi type="G" value="3756,16,">no</wi>
+<wi type="G" value="4671,18,">te</wi>
+<wi type="G" value="601,17,">han revelado</wi> esto<rf>
 <citebib id="DiosHablaHoy"/> dice
 `ningún hombre te lo ha mostrado.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="235,20,">sino</wi>
-<wi type="G" value="3450,23,">mi</wi>
-<wi type="G" value="3588,21,"/>
-<wi type="G" value="3962,22,">Padre</wi>
-<wi type="G" value="3588,24,">que está</wi>
-<wi type="G" value="1722,25,">en</wi>
-<wi type="G" value="3588,26,"/>
-<wi type="G" value="3772,27,">el cielo</wi>. </t>
+<t xml:lang="es">, <wi type="G" value="235,19,">sino</wi>
+<wi type="G" value="3450,22,">mi</wi>
+<wi type="G" value="3588,20,"/>
+<wi type="G" value="3962,21,">Padre</wi>
+<wi type="G" value="3588,23,">que está</wi>
+<wi type="G" value="1722,24,">en</wi>
+<wi type="G" value="3588,25,"/>
+<wi type="G" value="3772,26,">el cielo</wi>. </t>
 </fr>
 </sv>
 <sv id="Mateo-16-18"><fr>
