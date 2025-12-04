@@ -177,18 +177,16 @@ cuando <wi type="G" value="3004,9,">dijo</wi>
 «<wi type="G" value="2532,10,">Y</wi> </t>
 <rb xml:lang="es"><wi type="G" value=",">tomaron</wi><rf><citebib id="Peshitta"/> dice `tomé.´</rf></rb>
 <t xml:lang="es">
-<wi type="G" value="2983,11,"/>
-<wi type="G" value="2983,12,"/> las
-<wi type="G" value="3588,13,"/>
-<wi type="G" value="5144,14,">treinta</wi>
-<wi type="G" value="694,15,">monedas de plata</wi>,</t>
+<wi type="G" value="2983,11,"/>las
+<wi type="G" value="3588,12,"/><wi type="G" value="5144,13,">treinta</wi>
+<wi type="G" value="694,14,">monedas de plata</wi>,</t>
 <cl/>
 The price of him upon whom a price had been set,
 <t xml:lang="es">
-<wi type="G" value="3588,16,"/>
-<wi type="G" value="5092,17,">El precio</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,18,"/>
-<wi type="G" value="5091,19,">del que fue avaluado</wi><rf>
+<wi type="G" value="3588,15,"/>
+<wi type="G" value="5092,16,">El precio</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,17,"/>
+<wi type="G" value="5091,18,">del que fue avaluado</wi><rf>
 <citebib id="Peshitta"/> dice `del precioso,´
 <citebib id="DiosHablaHoy"/> dice
 `el precio que los israelitas le habían puesto,´
@@ -196,11 +194,11 @@ The price of him upon whom a price had been set,
 <t xml:lang="es">, </t>
 <cl/>
 Whom some of the children of Israel priced,
-<rb xml:lang="es"><wi type="G" value="3739,20,">A quien</wi>
-<wi type="G" value="5207,23,">los hijos</wi>
-<wi type="G" value="575,22,">de</wi>
-<wi type="G" value="2474,24,">Israel</wi>
-<wi type="G" value="5091,21,">le pusieron precio</wi><rf>
+<rb xml:lang="es"><wi type="G" value="3739,19,">A quien</wi>
+<wi type="G" value="5207,22,">los hijos</wi>
+<wi type="G" value="575,21,">de</wi>
+<wi type="G" value="2474,23,">Israel</wi>
+<wi type="G" value="5091,20,">le pusieron precio</wi><rf>
 <citebib id="Peshitta"/> dice `acordado por los hijos de Israel.´</rf></rb>
 <t xml:lang="es">, </t>
 </fp>
@@ -972,10 +970,12 @@ lo que significa.</t></rf>
 <t xml:lang="es">«<wi type="G" value="2316,18,">Dios</wi>
 <wi type="G" value="3450,19,">mio</wi>,
 <wi type="G" value="2316,20,">Dios</wi>
-<wi type="G" value="3450,21,">mio</wi>,
-¿<wi type="G" value="2444,22,">por qué</wi>
-<wi type="G" value="3165,23,">me</wi>
-<wi type="G" value="1459,24,">has abandonado</wi>?» </t>
+<wi type="G" value="3450,21,">mio</wi>, ¿</t>
+<rb xml:lang="es"><wi type="G" value="2443,22,"><wi type="G" value="2444,23,">por qué</wi></wi><rf>Respecto al marcado Strong ver nota al pie de 
+Mateo 9:4.</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3165,24,">me</wi>
+<wi type="G" value="1459,25,">has abandonado</wi>?» </t>
 </fr>
 
 </sv></cm><cm>

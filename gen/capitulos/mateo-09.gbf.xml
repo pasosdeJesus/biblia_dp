@@ -71,10 +71,18 @@ Jesus, knowing their thoughts, said,
 <wi type="G" value="3588,5,"/>
 <wi type="G" value="1761,6,">pensamientos</wi>,
 <wi type="G" value="2036,8,">dijo</wi>,
-<wi type="G" value="2443,9,"/> </t>
+</t>
 <fr>«Why do you think evil in
 your hearts?
-<t xml:lang="es">«¿<wi type="G" value="2444,10,">Por qué</wi>
+<t xml:lang="es">«¿</t>
+<rb xml:lang="es"><wi type="G" value="2443,9,"><wi type="G" value="2444,10,">Por
+qué</wi></wi><rf><citebib id="KJV2003"/> marca la palabra ἵνατί 
+con los 2 strong G2443 y G2444. <citebib id="BLB"/> la marca sólo con el strong
+G2444. En este versículo
+https://github.com/byztxt/greektext-textus-receptus/blob/master/parsed/MT.UTR la
+marca con los strong G2443 y G5101.
+</rf></rb>
+<t xml:lang="es">
 <wi type="G" value="1760,12,"><wi type="G" value="5210,11,">piensan</wi></wi>
 <wi type="G" value="4190,13,">mal</wi>
 <wi type="G" value="1722,14,">en</wi>

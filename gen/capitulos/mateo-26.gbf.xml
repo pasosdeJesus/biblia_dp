@@ -211,21 +211,20 @@ for burial.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
 si <wi type="G" value="846,3,">ella</wi>
 <wi type="G" value="906,1,">ha vertido</wi>
-<wi type="G" value="3778,4,"/>
-<wi type="G" value="5124,7,">este</wi>
-<wi type="G" value="3588,5,"/>
-<wi type="G" value="3464,6,">ungüento</wi>
-<wi type="G" value="1909,8,">en</wi>
-<wi type="G" value="3450,11,">mi</wi>
-<wi type="G" value="3588,9,"/>
-<wi type="G" value="4983,10,">cuerpo</wi>,
-<wi type="G" value="4160,16,">lo hizo</wi>
-<wi type="G" value="4314,12,">como</wi>
-<wi type="G" value="1779,14,">preparación</wi>
+<wi type="G" value="3588,4,"/>
+<wi type="G" value="5124,6,">este</wi>
+<wi type="G" value="3464,5,">ungüento</wi>
+<wi type="G" value="1909,7,">en</wi>
+<wi type="G" value="3450,10,">mi</wi>
+<wi type="G" value="3588,8,"/>
+<wi type="G" value="4983,9,">cuerpo</wi>,
+<wi type="G" value="4160,15,">lo hizo</wi>
+<wi type="G" value="4314,11,">como</wi>
+<wi type="G" value="1779,13,">preparación</wi>
 para
-<wi type="G" value="3165,15,">mi</wi>
-<wi type="G" value="3588,13,"/>
-<wi type="GC" value="14">sepultura</wi>. </t>
+<wi type="G" value="3165,14,">mi</wi>
+<wi type="G" value="3588,12,"/>
+<wi type="GC" value="13">sepultura</wi>. </t>
 </fr>
 </sv>
 <sv id="Mateo-26-13"><fr>
@@ -251,9 +250,8 @@ que
 <wi type="G" value="4160,17,">ha hecho</wi>
 <wi type="G" value="2532,15,">también</wi>
 <wi type="G" value="2980,14,">será dicho</wi>
-<wi type="G" value="3778,19,"/>
-<wi type="G" value="1519,20,">para</wi>
-<wi type="G" value="3422,21,"><wi type="G" value="846,22,">recordarla</wi></wi>.» </t>
+<wi type="G" value="1519,19,">para</wi>
+<wi type="G" value="3422,20,"><wi type="G" value="846,21,">recordarla</wi></wi>.» </t>
 </fr>
 </sv></cm>
 <cm>
@@ -981,25 +979,24 @@ Then he came to his disciples, and said to them,
 <wi type="G" value="3004,8,">dijo</wi>, </t>
 <fr>«Sleep on now, and take your rest. Behold, the hour is at hand, and the
 Son of Man is betrayed into the hands of sinners.
-<t xml:lang="es">«<wi type="G" value="3063,13,">Ahora</wi>
-<wi type="G" value="2518,10,">duerman</wi> <wi type="G" value="2518,11,"/>
-<wi type="G" value="3588,12,"/>
-<wi type="G" value="2532,14,">y</wi>
-<wi type="G" value="373,15,">descansen</wi>.
-<wi type="G" value="373,16,"/>
-<wi type="G" value="2400,17,">Observen</wi>
-<wi type="G" value="5610,20,">la hora</wi>
-<wi type="G" value="1448,18,">está cerca</wi>
-<wi type="G" value="3588,19,"/>
-<wi type="G" value="2532,21,">y</wi>
+<t xml:lang="es">«<wi type="G" value="3063,12,">Ahora</wi>
+<wi type="G" value="2518,10,">duerman</wi>
+<wi type="G" value="3588,11,"/>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="373,14,">descansen</wi>.
+<wi type="G" value="2400,15,">Observen</wi>
+<wi type="G" value="5610,18,">la hora</wi>
+<wi type="G" value="1448,16,">está cerca</wi>
+<wi type="G" value="3588,17,"/>
+<wi type="G" value="2532,19,">y</wi>
+<wi type="G" value="3588,20,"/>
+<wi type="G" value="5207,21,">el Hijo</wi>
 <wi type="G" value="3588,22,"/>
-<wi type="G" value="5207,23,">el Hijo</wi>
-<wi type="G" value="3588,24,"/>
-<wi type="G" value="444,25,">del Hombre</wi>
-<wi type="G" value="3860,26,">es traicionado</wi>
-<wi type="G" value="1519,27,">en</wi>
-<wi type="G" value="5495,28,">las manos</wi>
-<wi type="G" value="268,29,">de pecadores</wi>. </t>
+<wi type="G" value="444,23,">del Hombre</wi>
+<wi type="G" value="3860,24,">es traicionado</wi>
+<wi type="G" value="1519,25,">en</wi>
+<wi type="G" value="5495,26,">las manos</wi>
+<wi type="G" value="268,27,">de pecadores</wi>. </t>
 </fr>
 </sv>
 <sv id="Mateo-26-46"><fr>

@@ -77,7 +77,7 @@ and of the end of the age?»
 será
 <wi type="G" value="4592,24,">la señal</wi>
 <wi type="G" value="3588,25,"/><wi type="G" value="4674,26,">de tu</wi>
-<wi type="G" value="3952,27">advenimiento</wi>
+<wi type="G" value="3952,27,">advenimiento</wi>
 <wi type="G" value="2532,28,">y</wi>
 <wi type="G" value="3588,29,"/>
 <wi type="G" value="4930,30,">del final</wi> de esta
@@ -715,12 +715,12 @@ see all these things, know
 <wi type="G" value="1492,5,">vean</wi>
 <wi type="G" value="3956,6,">todas</wi>
 <wi type="G" value="5023,7,">estas cosas</wi>,
-<wi type="G" value="1097,8,">sepan</wi> <wi type="G" value="1097,9,"/>
-<wi type="G" value="3754,10,">que</wi>
-<wi type="G" value="2076,12,">está</wi>
-<wi type="G" value="1451,11,">cerca</wi>, incluso
-<wi type="G" value="1909,13,">en</wi>
-<wi type="G" value="2374,14,">la puerta</wi>. </t>
+<wi type="G" value="1097,8,">sepan</wi>
+<wi type="G" value="3754,9,">que</wi>
+<wi type="G" value="2076,11,">está</wi>
+<wi type="G" value="1451,10,">cerca</wi>, incluso
+<wi type="G" value="1909,12,">en</wi>
+<wi type="G" value="2374,13,">la puerta</wi>. </t>
 </fr>
 </sv>
 <sv id="Mateo-24-34"><fr>
@@ -920,28 +920,28 @@ of the night the thief was coming, he would have watched, and would not
 have allowed his house to be broken into.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="1097,3,">sepan</wi>
-<wi type="G" value="1565,1,">esto</wi>, <wi type="G" value="1097,4,"/>
-<wi type="G" value="3754,5,">que</wi>
-<wi type="G" value="1487,6,">si</wi>
-<wi type="G" value="3588,8,"/>
-<wi type="G" value="3617,9,">el dueño de la casa</wi>
-<wi type="G" value="1492,7,">supiera</wi>
-<wi type="G" value="5438,11,">a</wi>
-<wi type="G" value="4169,10,">que</wi>
+<wi type="G" value="1565,1,">esto</wi>,
+<wi type="G" value="3754,4,">que</wi>
+<wi type="G" value="1487,5,">si</wi>
+<wi type="G" value="3588,7,"/>
+<wi type="G" value="3617,8,">el dueño de la casa</wi>
+<wi type="G" value="1492,6,">supiera</wi>
+<wi type="G" value="5438,10,">a</wi>
+<wi type="G" value="4169,9,">que</wi>
 <wi type="GC" value="11">hora de la noche</wi>
-<wi type="G" value="3588,12,"/>
-<wi type="G" value="2064,14,">llega</wi>
-<wi type="G" value="2812,13,">el ladrón</wi>,
-<wi type="G" value="1127,15,">él estaría alerta</wi>,
-<wi type="G" value="302,16,"/>
-<wi type="G" value="2532,17,">y</wi>
-<wi type="G" value="3756,18,">no</wi>
-<wi type="G" value="302,19,"/>
-<wi type="G" value="1439,20,">permitiría</wi>
-<wi type="G" value="1358,21,">que entrara</wi> a
-<wi type="G" value="3588,22,"/>
-<wi type="G" value="846,24,">su</wi>
-<wi type="G" value="3614,23,">casa</wi>. </t>
+<wi type="G" value="3588,11,"/>
+<wi type="G" value="2064,13,">llega</wi>
+<wi type="G" value="2812,12,">el ladrón</wi>,
+<wi type="G" value="1127,14,">él estaría alerta</wi>,
+<wi type="G" value="302,15,"/>
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="3756,17,">no</wi>
+<wi type="G" value="302,18,"/>
+<wi type="G" value="1439,19,">permitiría</wi>
+<wi type="G" value="1358,20,">que entrara</wi> a
+<wi type="G" value="3588,21,"/>
+<wi type="G" value="846,23,">su</wi>
+<wi type="G" value="3614,22,">casa</wi>. </t>
 </fr>
 </sv>
 <sv id="Mateo-24-44"><fr>
