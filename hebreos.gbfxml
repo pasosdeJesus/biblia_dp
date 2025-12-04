@@ -3835,11 +3835,41 @@ the ages, he has been revealed to put away sin by the sacrifice of himself.
 <sv id="Hebreos-9-27">
 Inasmuch as it is appointed for men to die once, and after this,
 judgment,
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="2596,2,">en</wi>
+<wi type="G" value="3745,3,">tanto como</wi>
+<wi type="G" value="606,4,">está dispuesto que</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="444,6,">los hombres</wi></wi>
+<wi type="G" value="599,8,">mueran</wi>
+<wi type="G" value="530,7,">una vez</wi>,
+<wi type="G" value="1161,10,">y</wi>
+<wi type="G" value="3326,9,">después de</wi>
+<wi type="G" value="5124,11,">esto</wi>,
+<wi type="G" value="2920,12,">el juicio</wi>, </t>
 </sv>
 <sv id="Hebreos-9-28">
 so Christ also, having been once offered to bear the sins of
 many, will appear a second time, without sin, to those who are eagerly
 waiting for him for salvation.
+<t xml:lang="es"><wi type="G" value="3779,1,">así</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="5547,3,">Cristo</wi></wi> también,
+<wi type="G" value="4374,5,">habiendo sido ofrecido</wi>
+<wi type="G" value="530,4,">una vez</wi>
+<wi type="G" value="1519,6,">para</wi>
+<wi type="G" value="399,9,">llevar</wi>
+<wi type="G" value="266,10,">los pecados</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="4183,8,">de muchos</wi>,
+<wi type="G" value="3700,15,">aparecerá</wi>
+<wi type="G" value="1537,11,">por</wi>
+<wi type="G" value="1208,12,">segunda vez</wi>,
+<wi type="G" value="5565,13,">sin</wi>
+<wi type="G" value="266,14,">pecado</wi>,
+<wi type="G" value="1519,19,">para</wi>
+<wi type="G" value="4991,20,">salvación</wi>
+<wi type="G" value="3588,16,">de los que</wi>
+<wi type="G" value="846,17,">lo</wi>
+<wi type="G" value="553,18,">esperan fervientemente</wi>.
+</t>
 
 <cl/>
 </sv></cm></sc>
