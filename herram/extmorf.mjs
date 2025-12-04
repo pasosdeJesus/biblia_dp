@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import fs from 'fs'
 import path from 'path'
 
@@ -191,7 +193,7 @@ function translateCode(code) {
 }
 
 async function extractAndSaveMorphologyCodes() {
-    const directoryPath = 'ref/sword_kjv/capitulos/';
+    const directoryPath = 'ref/sword_kjv/capitulos2003/';
     const outputPath = 'gen/resumen_morfologia.json';
     console.log(`Buscando en: ${directoryPath}`);
 

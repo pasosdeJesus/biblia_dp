@@ -13,79 +13,84 @@ import fs from 'fs';
 // --- Configuration ---
 
 const BOOK_MAP = {
-  'mateo': { kjv: 'Matthew', display: 'Matthew' },
-  'marcos': { kjv: 'Mark', display: 'Mark' },
-  'lucas': { kjv: 'Luke', display: 'Luke' },
-  'juan': { kjv: 'John', display: 'John' },
-  'hechos': { kjv: 'Acts', display: 'Acts' },
-  'romanos': { kjv: 'Romans', display: 'Romans' },
-  'corintios1': { kjv: 'I_Corinthians', display: '1 Corinthians' },
-  'corintios2': { kjv: 'II_Corinthians', display: '2 Corinthians' },
-  'galatas': { kjv: 'Galatians', display: 'Galatians' },
-  'efesios': { kjv: 'Ephesians', display: 'Ephesians' },
-  'filipenses': { kjv: 'Philippians', display: 'Philippians' },
-  'colosenses': { kjv: 'Colossians', display: 'Colossians' },
-  'tesalonicenses1': { kjv: 'I_Thessalonians', display: '1 Thessalonians' },
-  'tesalonicenses2': { kjv: 'II_Thessalonians', display: '2 Thessalonians' },
-  'timoteo1': { kjv: 'I_Timothy', display: '1 Timothy' },
-  'timoteo2': { kjv: 'II_Timothy', display: '2 Timothy' },
-  'tito': { kjv: 'Titus', display: 'Titus' },
-  'filemon': { kjv: 'Philemon', display: 'Philemon' },
-  'hebreos': { kjv: 'Hebrews', display: 'Hebrews' },
-  'santiago': { kjv: 'James', display: 'James' },
-  'pedro1': { kjv: 'I_Peter', display: '1 Peter' },
-  'pedro2': { kjv: 'II_Peter', display: '2 Peter' },
-  'juan1': { kjv: 'I_John', display: '1 John' },
-  'juan2': { kjv: 'II_John', display: '2 John' },
-  'juan3': { kjv: 'III_John', display: '3 John' },
-  'judas': { kjv: 'Jude', display: 'Jude' },
-  'apocalipsis': { kjv: 'Revelation', display: 'Revelation' }
+  'mateo': { kjv2003: 'Matthew', display: 'Matthew' },
+  'marcos': { kjv2003: 'Mark', display: 'Mark' },
+  'lucas': { kjv2003: 'Luke', display: 'Luke' },
+  'juan': { kjv2003: 'John', display: 'John' },
+  'hechos': { kjv2003: 'Acts', display: 'Acts' },
+  'romanos': { kjv2003: 'Romans', display: 'Romans' },
+  'corintios1': { kjv2003: 'I_Corinthians', display: '1 Corinthians' },
+  'corintios2': { kjv2003: 'II_Corinthians', display: '2 Corinthians' },
+  'galatas': { kjv2003: 'Galatians', display: 'Galatians' },
+  'efesios': { kjv2003: 'Ephesians', display: 'Ephesians' },
+  'filipenses': { kjv2003: 'Philippians', display: 'Philippians' },
+  'colosenses': { kjv2003: 'Colossians', display: 'Colossians' },
+  'tesalonicenses1': { kjv2003: 'I_Thessalonians', display: '1 Thessalonians' },
+  'tesalonicenses2': { kjv2003: 'II_Thessalonians', display: '2 Thessalonians' },
+  'timoteo1': { kjv2003: 'I_Timothy', display: '1 Timothy' },
+  'timoteo2': { kjv2003: 'II_Timothy', display: '2 Timothy' },
+  'tito': { kjv2003: 'Titus', display: 'Titus' },
+  'filemon': { kjv2003: 'Philemon', display: 'Philemon' },
+  'hebreos': { kjv2003: 'Hebrews', display: 'Hebrews' },
+  'santiago': { kjv2003: 'James', display: 'James' },
+  'pedro1': { kjv2003: 'I_Peter', display: '1 Peter' },
+  'pedro2': { kjv2003: 'II_Peter', display: '2 Peter' },
+  'juan1': { kjv2003: 'I_John', display: '1 John' },
+  'juan2': { kjv2003: 'II_John', display: '2 John' },
+  'juan3': { kjv2003: 'III_John', display: '3 John' },
+  'judas': { kjv2003: 'Jude', display: 'Jude' },
+  'apocalipsis': { kjv2003: 'Revelation', display: 'Revelation' }
 };
 
-const KJV_PATH_TEMPLATE = "ref/sword_kjv/capitulos/{book_kjv}-{chapter_padded}.osis.xml";
+const KJV2003_PATH_TEMPLATE = "ref/sword_kjv/capitulos2003/{book_kjv2003}-{chapter_padded}.osis.xml";
 
 // Known, correct exceptions where SpaTDP follows Textus Receptus
 const KNOWN_EXCEPTIONS = {
   'mateo': {
     '3': {
-      '15': { missingInKjv: ['G4241-12', 'G2076-13'], reason: 'SpaTDP sigue el TR que incluye "πρεπον εστιν".' }
+      '15': { missingInKjv2003: ['G4241-12', 'G2076-13'], reason: 'SpaTDP sigue el TR que incluye "πρεπον εστιν".' }
     },
     '6': {
-      '24': { missingInKjv: ['G3126-28'], reason: 'SpaTDP sigue el TR que incluye "μαμμωνᾷ".' }
+      '24': { missingInKjv2003: ['G3126-28'], reason: 'SpaTDP sigue el TR que incluye "μαμμωνᾷ".' }
     },
     '14': {
-      '16': { missingInKjv: ['G2192-8', 'G565-9'], reason: 'SpaTDP sigue el TR que incluye "οὐ χρείαν ἔχουσιν ἀπελθεῖν".' }
+      '16': { missingInKjv2003: ['G2192-8', 'G565-9'], reason: 'SpaTDP sigue el TR que incluye "οὐ χρείαν ἔχουσιν ἀπελθεῖν".' }
     },
     '17': {
-      '8': { missingInKjv: ['G3440-13'], reason: 'SpaTDP sigue el TR que incluye "μόνον".' }
+      '8': { missingInKjv2003: ['G3440-13'], reason: 'SpaTDP sigue el TR que incluye "μόνον".' }
     },
     '23': {
-      '14': { missingInSpatdp: [], missingInKjv: ["G1161-2", "G5213-3", "G1122-4", "G2532-5", "G5273-7", "G3754-8", "G2719-9", "G3588-10", "G3614-11", "G3588-12", "G5503-13", "G2532-14", "G4392-15", "G3117-16", "G4336-17", "G1223-18", "G5124-19", "G2983-20", "G4053-21", "G2917-22"], reason: 'SpaTDP sigue el TR que incluye este versículo, ausente en la base de KJV.'}
+      '14': { missingInSpatdp: [], missingInKjv2003: ["G1161-2", "G5213-3", "G1122-4", "G2532-5", "G5273-7", "G3754-8", "G2719-9", "G3588-10", "G3614-11", "G3588-12", "G5503-13", "G2532-14", "G4392-15", "G3117-16", "G4336-17", "G1223-18", "G5124-19", "G2983-20", "G4053-21", "G2917-22"], reason: 'SpaTDP sigue el TR que incluye este versículo, ausente en la base de KJV2003.'}
     }
   },
   'marcos': {
     '4': {
-      '20': { missingInSpatdp: ['G1722-19', 'G1722-22', 'G1722-25'], missingInKjv: ['G1520-19', 'G1520-22', 'G1520-25'], reason: 'KJV es incorrecto. Omite G1520 (ἓν) que se repite en el TR y en su lugar añade G1722 (ἐν).' }
+      '20': { missingInSpatdp: ['G1722-19', 'G1722-22', 'G1722-25'], missingInKjv2003: ['G1520-19', 'G1520-22', 'G1520-25'], reason: 'KJV2003 es incorrecto. Omite G1520 (ἓν) que se repite en el TR y en su lugar añade G1722 (ἐν).' }
     },
     '8': {
-      '24': { missingInSpatdp: ['G4043-10'], missingInKjv: ['G3708-10', 'G4043-11'], reason: 'SpaTDP (corregido) es correcto al diferenciar G991 y G3708. KJV omite G3708 y tiene una posición incorrecta para G4043.' }
+      '24': { missingInSpatdp: ['G4043-10'], missingInKjv2003: ['G3708-10', 'G4043-11'], reason: 'SpaTDP (corregido) es correcto al diferenciar G991 y G3708. KJV2003 omite G3708 y tiene una posición incorrecta para G4043.' }
     },
     '12': {
-      '31': { missingInSpatdp: ['G846-4'], missingInKjv: ['G3778-4'], reason: 'Divergencia de referencia para αὕτη. SpaTDP sigue BLB.org (G3778), mientras que KJV usa G846.' }
+      '31': { missingInSpatdp: ['G846-4'], missingInKjv2003: ['G3778-4'], reason: 'Divergencia de referencia para αὕτη. SpaTDP sigue BLB.org (G3778), mientras que KJV2003 usa G846.' }
     },
     '15': {
-      '3': { missingInSpatdp: ['G846-7', 'G1161-8', 'G3762-9', 'G611-10'], missingInKjv: [], reason: 'SpaTDP es correcto al omitir una frase no presente en el TR de referencia, pero que KJV sí incluye.' }
+      '3': { missingInSpatdp: ['G846-7', 'G1161-8', 'G3762-9', 'G611-10'], missingInKjv2003: [], reason: 'SpaTDP es correcto al omitir una frase no presente en el TR de referencia, pero que KJV2003 sí incluye.' }
     }
+  },
+  'hechos': {
+      '7': {
+        '26': { missingInSpatdp: ['G1161-2'], missingInKjv2003: ['G5037-2'], reason: 'Variación textual menor. SpaTDP sigue el TR (δὲ, G1161), mientras que la base de datos KJV2003 usa (τε, G5037).' }
+      }
   },
   'hebreos': {
     '1': {
-      '3': { missingInKjv: ['G3588-13'], reason: 'SpaTDP correctly includes the article [τοῦ] based on Textus Receptus.' }
+      '3': { missingInKjv2003: ['G3588-13'], reason: 'SpaTDP correctly includes the article [τοῦ] based on Textus Receptus.' }
     },
     '9': {
       '1': {
         missingInSpatdp: ['G1345-7', 'G2999-8', 'G3588-9', 'G5037-10', 'G39-11', 'G2886-12'],
-        missingInKjv: ['G4633-7', 'G1345-8', 'G2999-9', 'G3588-10', 'G5037-11', 'G39-12', 'G2886-13'],
-        reason: 'Divergencia textual. SpaTDP incluye G4633 (σκηνη) basado en el Textus Receptus, lo que causa un desfase en la numeración de posición del resto del versículo en comparación con la KJV.'
+        missingInKjv2003: ['G4633-7', 'G1345-8', 'G2999-9', 'G3588-10', 'G5037-11', 'G39-12', 'G2886-13'],
+        reason: 'Divergencia textual. SpaTDP incluye G4633 (σκηνη) basado en el Textus Receptus, lo que causa un desfase en la numeración de posición del resto del versículo en comparación con la KJV2003.'
       }
     }
   }
@@ -138,7 +143,7 @@ function parseSpaTdp(filepath) {
   }
 }
 
-function parseKjv(filepath) {
+function parseKjv2003(filepath) {
   try {
     const content = fs.readFileSync(filepath, 'utf-8');
     const versesData = new Map();
@@ -220,13 +225,13 @@ async function debugBook(bookLower) {
 
   while (true) {
     const chapterPadded = String(chapter).padStart(2, '0');
-    const kjvFilepath = KJV_PATH_TEMPLATE.replace('{book_kjv}', bookInfo.kjv).replace('{chapter_padded}', chapterPadded);
-    if (!fs.existsSync(kjvFilepath)) {
-      if (chapter === 1) console.log(`No KJV files found for ${bookDisplayName}.`);
+    const kjv2003Filepath = KJV2003_PATH_TEMPLATE.replace('{book_kjv2003}', bookInfo.kjv2003).replace('{chapter_padded}', chapterPadded);
+    if (!fs.existsSync(kjv2003Filepath)) {
+      if (chapter === 1) console.log(`No KJV2003 files found for ${bookDisplayName}.`);
       break;
     }
     
-    const kjvData = parseKjv(kjvFilepath);
+    const kjv2003Data = parseKjv2003(kjv2003Filepath);
     const spatdpChapterData = spatdpBookData.get(chapter) || { strongsData: new Map(), untranslatedVerses: new Set() };
     const { strongsData: spatdpData, untranslatedVerses } = spatdpChapterData;
 
@@ -238,7 +243,7 @@ async function debugBook(bookLower) {
       console.log(`\n** Chapter ${chapter}: Found ${untranslatedVerses.size} untranslated verse(s): ${Array.from(untranslatedVerses).sort((a,b)=>a-b).join(', ')}`);
     }
 
-    const allVerseKeys = new Set([...spatdpData.keys(), ...kjvData.keys()]);
+    const allVerseKeys = new Set([...spatdpData.keys(), ...kjv2003Data.keys()]);
     const sortedVerseKeys = Array.from(allVerseKeys).sort((a, b) => a - b);
     const sorter = (a, b) => {
       const [, posA] = a.split('-').map(Number); const [, posB] = b.split('-').map(Number);
@@ -253,20 +258,20 @@ async function debugBook(bookLower) {
       }
 
       const spatdpSet = spatdpData.get(verse) || new Set();
-      const kjvSet = kjvData.get(verse) || new Set();
-      const missingInSpatdp = new Set([...kjvSet].filter(item => !spatdpSet.has(item)));
-      const missingInKjv = new Set([...spatdpSet].filter(item => !kjvSet.has(item)));
+      const kjv2003Set = kjv2003Data.get(verse) || new Set();
+      const missingInSpatdp = new Set([...kjv2003Set].filter(item => !spatdpSet.has(item)));
+      const missingInKjv2003 = new Set([...spatdpSet].filter(item => !kjv2003Set.has(item)));
 
-      if (missingInSpatdp.size === 0 && missingInKjv.size === 0) {
+      if (missingInSpatdp.size === 0 && missingInKjv2003.size === 0) {
         continue;
       }
 
       const exception = KNOWN_EXCEPTIONS[bookLower]?.[chapter]?.[verse];
       if (exception) {
-        const expectedMissingKjv = new Set(exception.missingInKjv || []);
+        const expectedMissingKjv2003 = new Set(exception.missingInKjv2003 || []);
         const expectedMissingSpatdp = new Set(exception.missingInSpatdp || []);
-        const isExceptionMatch = missingInKjv.size === expectedMissingKjv.size &&
-          [...missingInKjv].every(item => expectedMissingKjv.has(item)) &&
+        const isExceptionMatch = missingInKjv2003.size === expectedMissingKjv2003.size &&
+          [...missingInKjv2003].every(item => expectedMissingKjv2003.has(item)) &&
           missingInSpatdp.size === expectedMissingSpatdp.size &&
           [...missingInSpatdp].every(item => expectedMissingSpatdp.has(item));
 
@@ -280,7 +285,7 @@ async function debugBook(bookLower) {
 
       totalMismatches++;
       chapterHasIssue = true;
-      verseMismatches.push({ verse, missingInSpatdp, missingInKjv });
+      verseMismatches.push({ verse, missingInSpatdp, missingInKjv2003 });
     }
 
     if (verseMismatches.length > 0) {
@@ -289,7 +294,7 @@ async function debugBook(bookLower) {
         console.log(`\n  - Verse ${chapter}:${mismatch.verse}`);
         let parts = [];
         if (mismatch.missingInSpatdp.size > 0) parts.push(`Missing in SpaTDP: [${Array.from(mismatch.missingInSpatdp).sort(sorter).join(', ')}]`);
-        if (mismatch.missingInKjv.size > 0) parts.push(`Missing in KJV: [${Array.from(mismatch.missingInKjv).sort(sorter).join(', ')}]`);
+        if (mismatch.missingInKjv2003.size > 0) parts.push(`Missing in KJV2003: [${Array.from(mismatch.missingInKjv2003).sort(sorter).join(', ')}]`);
         console.log(`    Result: ${parts.join('; ')}`);
       }
     }
