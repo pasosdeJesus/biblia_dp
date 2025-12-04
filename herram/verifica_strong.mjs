@@ -60,7 +60,11 @@ const KNOWN_EXCEPTIONS = {
       '8': { missingInKjv2003: ['G3440-13'], reason: 'SpaTDP sigue el TR que incluye "μόνον".' }
     },
     '23': {
-      '14': { missingInSpatdp: [], missingInKjv2003: ["G1161-2", "G5213-3", "G1122-4", "G2532-5", "G5273-7", "G3754-8", "G2719-9", "G3588-10", "G3614-11", "G3588-12", "G5503-13", "G2532-14", "G4392-15", "G3117-16", "G4336-17", "G1223-18", "G5124-19", "G2983-20", "G4053-21", "G2917-22"], reason: 'SpaTDP sigue el TR que incluye este versículo, ausente en la base de KJV2003.'}
+      '14': {
+        missingInSpatdp: ['G5330-6'],
+        missingInKjv2003: ['G5330-5'],
+        reason: 'Diferencia de posición para G5330 (Φαρισαῖος). SpaTDP (pos 5) es correcto según el TR. La base KJV2003 tiene una variación textual que desplaza la posición a 6.'
+      }
     }
   },
   'marcos': {

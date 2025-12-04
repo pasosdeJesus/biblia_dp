@@ -1,0 +1,9 @@
+*.tmp
+Make.inc
+biblia_dp-*
+biblia_dp.xdbk
+confaux.sed
+*.bak
+confv.ent
+confv.sh
+html/
