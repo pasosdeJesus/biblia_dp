@@ -1,6 +1,6 @@
 {
     "A-APF": {
-        "count": 82,
+        "count": 85,
         "en_full_name": "Adjective - Accusative Plural Feminine",
         "es_full_name": "Adjetivo - Acusativo Plural Femenino"
     },
@@ -10,14 +10,9 @@
         "es_full_name": "Adjetivo - Acusativo Plural Femenino - Comparativo"
     },
     "A-APM": {
-        "count": 363,
+        "count": 388,
         "en_full_name": "Adjective - Accusative Plural Masculine",
         "es_full_name": "Adjetivo - Acusativo Plural Masculino"
-    },
-    "A-APM robin": {
-        "count": 1,
-        "en_full_name": "Adjective - Accusative Plural Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Adjetivo - Acusativo Plural Masculino - (Sufijo no reconocido:  robin?)"
     },
     "A-APM-C": {
         "count": 6,
@@ -25,14 +20,9 @@
         "es_full_name": "Adjetivo - Acusativo Plural Masculino - Comparativo"
     },
     "A-APN": {
-        "count": 339,
+        "count": 360,
         "en_full_name": "Adjective - Accusative Plural Neuter",
         "es_full_name": "Adjetivo - Acusativo Plural Neutro"
-    },
-    "A-APN robin": {
-        "count": 1,
-        "en_full_name": "Adjective - Accusative Plural Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Adjetivo - Acusativo Plural Neutro - (Sufijo no reconocido:  robin?)"
     },
     "A-APN-C": {
         "count": 10,
@@ -40,22 +30,22 @@
         "es_full_name": "Adjetivo - Acusativo Plural Neutro - Comparativo"
     },
     "A-ASF": {
-        "count": 333,
+        "count": 347,
         "en_full_name": "Adjective - Accusative Singular Feminine",
         "es_full_name": "Adjetivo - Acusativo Singular Femenino"
-    },
-    "A-ASF robin": {
-        "count": 1,
-        "en_full_name": "Adjective - Accusative Singular Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Adjetivo - Acusativo Singular Femenino - (Sufijo no reconocido:  robin?)"
     },
     "A-ASF-C": {
         "count": 5,
         "en_full_name": "Adjective - Accusative Singular Feminine - Comparative",
         "es_full_name": "Adjetivo - Acusativo Singular Femenino - Comparativo"
     },
+    "A-ASF-S": {
+        "count": 1,
+        "en_full_name": "Adjective - Accusative Singular Feminine - Superlative",
+        "es_full_name": "Adjetivo - Acusativo Singular Femenino - Superlativo"
+    },
     "A-ASM": {
-        "count": 390,
+        "count": 408,
         "en_full_name": "Adjective - Accusative Singular Masculine",
         "es_full_name": "Adjetivo - Acusativo Singular Masculino"
     },
@@ -65,14 +55,9 @@
         "es_full_name": "Adjetivo - Acusativo Singular Masculino - Comparativo"
     },
     "A-ASN": {
-        "count": 414,
+        "count": 453,
         "en_full_name": "Adjective - Accusative Singular Neuter",
         "es_full_name": "Adjetivo - Acusativo Singular Neutro"
-    },
-    "A-ASN robin": {
-        "count": 2,
-        "en_full_name": "Adjective - Accusative Singular Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Adjetivo - Acusativo Singular Neutro - (Sufijo no reconocido:  robin?)"
     },
     "A-ASN-C": {
         "count": 19,
@@ -80,19 +65,14 @@
         "es_full_name": "Adjetivo - Acusativo Singular Neutro - Comparativo"
     },
     "A-DPF": {
-        "count": 42,
+        "count": 43,
         "en_full_name": "Adjective - Dative Plural Feminine",
         "es_full_name": "Adjetivo - Dativo Plural Femenino"
     },
     "A-DPM": {
-        "count": 170,
+        "count": 182,
         "en_full_name": "Adjective - Dative Plural Masculine",
         "es_full_name": "Adjetivo - Dativo Plural Masculino"
-    },
-    "A-DPM robin": {
-        "count": 1,
-        "en_full_name": "Adjective - Dative Plural Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Adjetivo - Dativo Plural Masculino - (Sufijo no reconocido:  robin?)"
     },
     "A-DPM-C": {
         "count": 1,
@@ -100,17 +80,12 @@
         "es_full_name": "Adjetivo - Dativo Plural Masculino - Comparativo"
     },
     "A-DPN": {
-        "count": 64,
+        "count": 67,
         "en_full_name": "Adjective - Dative Plural Neuter",
         "es_full_name": "Adjetivo - Dativo Plural Neutro"
     },
-    "A-DPN robin": {
-        "count": 1,
-        "en_full_name": "Adjective - Dative Plural Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Adjetivo - Dativo Plural Neutro - (Sufijo no reconocido:  robin?)"
-    },
     "A-DSF": {
-        "count": 190,
+        "count": 200,
         "en_full_name": "Adjective - Dative Singular Feminine",
         "es_full_name": "Adjetivo - Dativo Singular Femenino"
     },
@@ -120,7 +95,7 @@
         "es_full_name": "Adjetivo - Dativo Singular Femenino - Superlativo"
     },
     "A-DSM": {
-        "count": 160,
+        "count": 168,
         "en_full_name": "Adjective - Dative Singular Masculine",
         "es_full_name": "Adjetivo - Dativo Singular Masculino"
     },
@@ -135,27 +110,22 @@
         "es_full_name": "Adjetivo - Dativo Singular Masculino - Superlativo"
     },
     "A-DSN": {
-        "count": 123,
+        "count": 136,
         "en_full_name": "Adjective - Dative Singular Neuter",
         "es_full_name": "Adjetivo - Dativo Singular Neutro"
     },
     "A-GPF": {
-        "count": 19,
+        "count": 21,
         "en_full_name": "Adjective - Genitive Plural Feminine",
         "es_full_name": "Adjetivo - Genitivo Plural Femenino"
     },
     "A-GPM": {
-        "count": 421,
+        "count": 467,
         "en_full_name": "Adjective - Genitive Plural Masculine",
         "es_full_name": "Adjetivo - Genitivo Plural Masculino"
     },
-    "A-GPM robin": {
-        "count": 1,
-        "en_full_name": "Adjective - Genitive Plural Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Adjetivo - Genitivo Plural Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "A-GPN": {
-        "count": 96,
+        "count": 106,
         "en_full_name": "Adjective - Genitive Plural Neuter",
         "es_full_name": "Adjetivo - Genitivo Plural Neutro"
     },
@@ -165,14 +135,9 @@
         "es_full_name": "Adjetivo - Genitivo Plural Neutro - Comparativo"
     },
     "A-GSF": {
-        "count": 189,
+        "count": 205,
         "en_full_name": "Adjective - Genitive Singular Feminine",
         "es_full_name": "Adjetivo - Genitivo Singular Femenino"
-    },
-    "A-GSF robin": {
-        "count": 2,
-        "en_full_name": "Adjective - Genitive Singular Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Adjetivo - Genitivo Singular Femenino - (Sufijo no reconocido:  robin?)"
     },
     "A-GSF-C": {
         "count": 4,
@@ -180,7 +145,7 @@
         "es_full_name": "Adjetivo - Genitivo Singular Femenino - Comparativo"
     },
     "A-GSM": {
-        "count": 136,
+        "count": 157,
         "en_full_name": "Adjective - Genitive Singular Masculine",
         "es_full_name": "Adjetivo - Genitivo Singular Masculino"
     },
@@ -190,14 +155,9 @@
         "es_full_name": "Adjetivo - Genitivo Singular Masculino - Comparativo"
     },
     "A-GSN": {
-        "count": 111,
+        "count": 118,
         "en_full_name": "Adjective - Genitive Singular Neuter",
         "es_full_name": "Adjetivo - Genitivo Singular Neutro"
-    },
-    "A-GSN robin": {
-        "count": 1,
-        "en_full_name": "Adjective - Genitive Singular Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Adjetivo - Genitivo Singular Neutro - (Sufijo no reconocido:  robin?)"
     },
     "A-GSN-S": {
         "count": 1,
@@ -205,12 +165,17 @@
         "es_full_name": "Adjetivo - Genitivo Singular Neutro - Superlativo"
     },
     "A-NPF": {
-        "count": 96,
+        "count": 97,
         "en_full_name": "Adjective - Nominative Plural Feminine",
         "es_full_name": "Adjetivo - Nominativo Plural Femenino"
     },
+    "A-NPF-C": {
+        "count": 1,
+        "en_full_name": "Adjective - Nominative Plural Feminine - Comparative",
+        "es_full_name": "Adjetivo - Nominativo Plural Femenino - Comparativo"
+    },
     "A-NPM": {
-        "count": 683,
+        "count": 714,
         "en_full_name": "Adjective - Nominative Plural Masculine",
         "es_full_name": "Adjetivo - Nominativo Plural Masculino"
     },
@@ -220,19 +185,14 @@
         "es_full_name": "Adjetivo - Nominativo Plural Masculino - Comparativo"
     },
     "A-NPN": {
-        "count": 148,
+        "count": 157,
         "en_full_name": "Adjective - Nominative Plural Neuter",
         "es_full_name": "Adjetivo - Nominativo Plural Neutro"
     },
     "A-NSF": {
-        "count": 249,
+        "count": 262,
         "en_full_name": "Adjective - Nominative Singular Feminine",
         "es_full_name": "Adjetivo - Nominativo Singular Femenino"
-    },
-    "A-NSF robin": {
-        "count": 3,
-        "en_full_name": "Adjective - Nominative Singular Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Adjetivo - Nominativo Singular Femenino - (Sufijo no reconocido:  robin?)"
     },
     "A-NSF-C": {
         "count": 2,
@@ -240,14 +200,9 @@
         "es_full_name": "Adjetivo - Nominativo Singular Femenino - Comparativo"
     },
     "A-NSM": {
-        "count": 936,
+        "count": 995,
         "en_full_name": "Adjective - Nominative Singular Masculine",
         "es_full_name": "Adjetivo - Nominativo Singular Masculino"
-    },
-    "A-NSM robin": {
-        "count": 6,
-        "en_full_name": "Adjective - Nominative Singular Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Adjetivo - Nominativo Singular Masculino - (Sufijo no reconocido:  robin?)"
     },
     "A-NSM-ATT": {
         "count": 2,
@@ -255,19 +210,14 @@
         "es_full_name": "Adjetivo - Nominativo Singular Masculino - Ático"
     },
     "A-NSM-C": {
-        "count": 41,
+        "count": 42,
         "en_full_name": "Adjective - Nominative Singular Masculine - Comparative",
         "es_full_name": "Adjetivo - Nominativo Singular Masculino - Comparativo"
     },
     "A-NSN": {
-        "count": 313,
+        "count": 334,
         "en_full_name": "Adjective - Nominative Singular Neuter",
         "es_full_name": "Adjetivo - Nominativo Singular Neutro"
-    },
-    "A-NSN robin": {
-        "count": 1,
-        "en_full_name": "Adjective - Nominative Singular Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Adjetivo - Nominativo Singular Neutro - (Sufijo no reconocido:  robin?)"
     },
     "A-NSN-C": {
         "count": 28,
@@ -275,7 +225,7 @@
         "es_full_name": "Adjetivo - Nominativo Singular Neutro - Comparativo"
     },
     "A-NUI": {
-        "count": 432,
+        "count": 441,
         "en_full_name": "Adjective - Indeclinable Numeral",
         "es_full_name": "Adjetivo - Numeral Indeclinable"
     },
@@ -300,14 +250,9 @@
         "es_full_name": "Adjetivo - Vocativo Singular Masculino"
     },
     "ADV": {
-        "count": 3486,
+        "count": 3502,
         "en_full_name": "Adverb",
         "es_full_name": "Adverbio"
-    },
-    "ADV robin": {
-        "count": 3,
-        "en_full_name": "Unknown Code: ADV robin",
-        "es_full_name": "Código Desconocido: ADV robin"
     },
     "ADV-C": {
         "count": 37,
@@ -315,7 +260,7 @@
         "es_full_name": "Adverbio, forma contraída"
     },
     "ADV-I": {
-        "count": 101,
+        "count": 102,
         "en_full_name": "Adverb, interrogative",
         "es_full_name": "Adverbio, interrogativo"
     },
@@ -325,14 +270,9 @@
         "es_full_name": "Adverbio, superlativo"
     },
     "ARAM": {
-        "count": 40,
+        "count": 46,
         "en_full_name": "Aramaic Word",
         "es_full_name": "Palabra Aramea"
-    },
-    "ARAM robin": {
-        "count": 1,
-        "en_full_name": "Unknown Code: ARAM robin",
-        "es_full_name": "Código Desconocido: ARAM robin"
     },
     "C-APM": {
         "count": 60,
@@ -350,7 +290,7 @@
         "es_full_name": "Conjunción - Dativo Plural Neutro"
     },
     "C-GPM": {
-        "count": 15,
+        "count": 16,
         "en_full_name": "Conjunction - Genitive Plural Masculine",
         "es_full_name": "Conjunción - Genitivo Plural Masculino"
     },
@@ -360,14 +300,9 @@
         "es_full_name": "Conjunción - Genitivo Plural Neutro"
     },
     "COND": {
-        "count": 580,
+        "count": 626,
         "en_full_name": "Conditional Particle",
         "es_full_name": "Partícula Condicional"
-    },
-    "COND robin": {
-        "count": 36,
-        "en_full_name": "Unknown Code: COND robin",
-        "es_full_name": "Código Desconocido: COND robin"
     },
     "COND-C": {
         "count": 15,
@@ -375,14 +310,9 @@
         "es_full_name": "Partícula Condicional, forma contraída"
     },
     "CONJ": {
-        "count": 14559,
+        "count": 14585,
         "en_full_name": "Conjunction",
         "es_full_name": "Conjunción"
-    },
-    "CONJ robin": {
-        "count": 19,
-        "en_full_name": "Unknown Code: CONJ robin",
-        "es_full_name": "Código Desconocido: CONJ robin"
     },
     "D-APF": {
         "count": 12,
@@ -405,14 +335,9 @@
         "es_full_name": "Adverbio - Acusativo Plural Neutro"
     },
     "D-ASF": {
-        "count": 56,
+        "count": 58,
         "en_full_name": "Adverb - Accusative Singular Feminine",
         "es_full_name": "Adverbio - Acusativo Singular Femenino"
-    },
-    "D-ASF robin": {
-        "count": 1,
-        "en_full_name": "Adverb - Accusative Singular Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Adverbio - Acusativo Singular Femenino - (Sufijo no reconocido:  robin?)"
     },
     "D-ASM": {
         "count": 75,
@@ -425,7 +350,7 @@
         "es_full_name": "Adverbio - Acusativo Singular Masculino - Comparativo"
     },
     "D-ASN": {
-        "count": 181,
+        "count": 184,
         "en_full_name": "Adverb - Accusative Singular Neuter",
         "es_full_name": "Adverbio - Acusativo Singular Neutro"
     },
@@ -460,7 +385,7 @@
         "es_full_name": "Adverbio - Dativo Singular Masculino"
     },
     "D-DSN": {
-        "count": 25,
+        "count": 26,
         "en_full_name": "Adverb - Dative Singular Neuter",
         "es_full_name": "Adverbio - Dativo Singular Neutro"
     },
@@ -480,7 +405,7 @@
         "es_full_name": "Adverbio - Genitivo Plural Neutro"
     },
     "D-GSF": {
-        "count": 52,
+        "count": 54,
         "en_full_name": "Adverb - Genitive Singular Feminine",
         "es_full_name": "Adverbio - Genitivo Singular Femenino"
     },
@@ -525,7 +450,7 @@
         "es_full_name": "Adverbio - Nominativo Singular Femenino"
     },
     "D-NSM": {
-        "count": 244,
+        "count": 245,
         "en_full_name": "Adverb - Nominative Singular Masculine",
         "es_full_name": "Adverbio - Nominativo Singular Masculino"
     },
@@ -635,7 +560,7 @@
         "es_full_name": "Pronombre Reflexivo - 3ra Persona Genitivo Singular Masculino"
     },
     "HEB": {
-        "count": 184,
+        "count": 187,
         "en_full_name": "Hebrew Word",
         "es_full_name": "Palabra Hebrea"
     },
@@ -655,14 +580,9 @@
         "es_full_name": "Pronombre Interrogativo - Acusativo Singular Masculino"
     },
     "I-ASN": {
-        "count": 255,
+        "count": 259,
         "en_full_name": "Interrogative Pronoun - Accusative Singular Neuter",
         "es_full_name": "Pronombre Interrogativo - Acusativo Singular Neutro"
-    },
-    "I-ASN robin": {
-        "count": 1,
-        "en_full_name": "Interrogative Pronoun - Accusative Singular Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Pronombre Interrogativo - Acusativo Singular Neutro - (Sufijo no reconocido:  robin?)"
     },
     "I-DPM": {
         "count": 2,
@@ -680,7 +600,7 @@
         "es_full_name": "Pronombre Interrogativo - Dativo Singular Masculino"
     },
     "I-DSN": {
-        "count": 7,
+        "count": 8,
         "en_full_name": "Interrogative Pronoun - Dative Singular Neuter",
         "es_full_name": "Pronombre Interrogativo - Dativo Singular Neutro"
     },
@@ -750,12 +670,12 @@
         "es_full_name": "Pronombre Correlativo - Acusativo Plural Neutro"
     },
     "K-ASM": {
-        "count": 4,
+        "count": 5,
         "en_full_name": "Correlative Pronoun - Accusative Singular Masculine",
         "es_full_name": "Pronombre Correlativo - Acusativo Singular Masculino"
     },
     "K-ASN": {
-        "count": 9,
+        "count": 11,
         "en_full_name": "Correlative Pronoun - Accusative Singular Neuter",
         "es_full_name": "Pronombre Correlativo - Acusativo Singular Neutro"
     },
@@ -795,14 +715,9 @@
         "es_full_name": "Pronombre Correlativo - Nominativo Singular Neutro"
     },
     "N-APF": {
-        "count": 236,
+        "count": 498,
         "en_full_name": "Noun - Accusative Plural Feminine",
         "es_full_name": "Sustantivo - Acusativo Plural Femenino"
-    },
-    "N-APF robin": {
-        "count": 1,
-        "en_full_name": "Noun - Accusative Plural Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Sustantivo - Acusativo Plural Femenino - (Sufijo no reconocido:  robin?)"
     },
     "N-APF-C": {
         "count": 5,
@@ -810,17 +725,12 @@
         "es_full_name": "Sustantivo - Acusativo Plural Femenino - Comparativo"
     },
     "N-APM": {
-        "count": 324,
+        "count": 718,
         "en_full_name": "Noun - Accusative Plural Masculine",
         "es_full_name": "Sustantivo - Acusativo Plural Masculino"
     },
-    "N-APM robin": {
-        "count": 1,
-        "en_full_name": "Noun - Accusative Plural Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Sustantivo - Acusativo Plural Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "N-APN": {
-        "count": 256,
+        "count": 561,
         "en_full_name": "Noun - Accusative Plural Neuter",
         "es_full_name": "Sustantivo - Acusativo Plural Neutro"
     },
@@ -830,14 +740,9 @@
         "es_full_name": "Sustantivo - Acusativo Plural Neutro - Comparativo"
     },
     "N-ASF": {
-        "count": 1270,
+        "count": 2468,
         "en_full_name": "Noun - Accusative Singular Feminine",
         "es_full_name": "Sustantivo - Acusativo Singular Femenino"
-    },
-    "N-ASF robin": {
-        "count": 2,
-        "en_full_name": "Noun - Accusative Singular Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Sustantivo - Acusativo Singular Femenino - (Sufijo no reconocido:  robin?)"
     },
     "N-ASF-C": {
         "count": 1,
@@ -845,52 +750,42 @@
         "es_full_name": "Sustantivo - Acusativo Singular Femenino - Comparativo"
     },
     "N-ASM": {
-        "count": 1026,
+        "count": 2231,
         "en_full_name": "Noun - Accusative Singular Masculine",
         "es_full_name": "Sustantivo - Acusativo Singular Masculino"
     },
-    "N-ASM robin": {
-        "count": 1,
-        "en_full_name": "Noun - Accusative Singular Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Sustantivo - Acusativo Singular Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "N-ASN": {
-        "count": 466,
+        "count": 1067,
         "en_full_name": "Noun - Accusative Singular Neuter",
         "es_full_name": "Sustantivo - Acusativo Singular Neutro"
     },
-    "N-ASN robin": {
-        "count": 1,
-        "en_full_name": "Noun - Accusative Singular Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Sustantivo - Acusativo Singular Neutro - (Sufijo no reconocido:  robin?)"
-    },
     "N-DPF": {
-        "count": 113,
+        "count": 272,
         "en_full_name": "Noun - Dative Plural Feminine",
         "es_full_name": "Sustantivo - Dativo Plural Femenino"
     },
     "N-DPM": {
-        "count": 128,
+        "count": 380,
         "en_full_name": "Noun - Dative Plural Masculine",
         "es_full_name": "Sustantivo - Dativo Plural Masculino"
     },
     "N-DPN": {
-        "count": 67,
+        "count": 176,
         "en_full_name": "Noun - Dative Plural Neuter",
         "es_full_name": "Sustantivo - Dativo Plural Neutro"
     },
     "N-DSF": {
-        "count": 573,
+        "count": 1167,
         "en_full_name": "Noun - Dative Singular Feminine",
         "es_full_name": "Sustantivo - Dativo Singular Femenino"
     },
     "N-DSM": {
-        "count": 426,
+        "count": 1034,
         "en_full_name": "Noun - Dative Singular Masculine",
         "es_full_name": "Sustantivo - Dativo Singular Masculino"
     },
     "N-DSN": {
-        "count": 254,
+        "count": 525,
         "en_full_name": "Noun - Dative Singular Neuter",
         "es_full_name": "Sustantivo - Dativo Singular Neutro"
     },
@@ -900,84 +795,69 @@
         "es_full_name": "Sustantivo - Genitivo"
     },
     "N-GPF": {
-        "count": 122,
+        "count": 236,
         "en_full_name": "Noun - Genitive Plural Feminine",
         "es_full_name": "Sustantivo - Genitivo Plural Femenino"
     },
     "N-GPM": {
-        "count": 228,
+        "count": 690,
         "en_full_name": "Noun - Genitive Plural Masculine",
         "es_full_name": "Sustantivo - Genitivo Plural Masculino"
     },
     "N-GPN": {
-        "count": 187,
+        "count": 343,
         "en_full_name": "Noun - Genitive Plural Neuter",
         "es_full_name": "Sustantivo - Genitivo Plural Neutro"
     },
     "N-GSF": {
-        "count": 826,
+        "count": 1905,
         "en_full_name": "Noun - Genitive Singular Feminine",
         "es_full_name": "Sustantivo - Genitivo Singular Femenino"
     },
-    "N-GSF robin": {
-        "count": 2,
-        "en_full_name": "Noun - Genitive Singular Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Sustantivo - Genitivo Singular Femenino - (Sufijo no reconocido:  robin?)"
-    },
     "N-GSM": {
-        "count": 948,
+        "count": 2416,
         "en_full_name": "Noun - Genitive Singular Masculine",
         "es_full_name": "Sustantivo - Genitivo Singular Masculino"
     },
     "N-GSN": {
-        "count": 261,
+        "count": 657,
         "en_full_name": "Noun - Genitive Singular Neuter",
         "es_full_name": "Sustantivo - Genitivo Singular Neutro"
     },
     "N-LI": {
-        "count": 3,
+        "count": 9,
         "en_full_name": "Noun - Indeclinable",
         "es_full_name": "Sustantivo - Indeclinable"
     },
     "N-NPF": {
-        "count": 114,
+        "count": 218,
         "en_full_name": "Noun - Nominative Plural Feminine",
         "es_full_name": "Sustantivo - Nominativo Plural Femenino"
     },
     "N-NPM": {
-        "count": 314,
+        "count": 822,
         "en_full_name": "Noun - Nominative Plural Masculine",
         "es_full_name": "Sustantivo - Nominativo Plural Masculino"
     },
     "N-NPN": {
-        "count": 93,
+        "count": 216,
         "en_full_name": "Noun - Nominative Plural Neuter",
         "es_full_name": "Sustantivo - Nominativo Plural Neutro"
     },
     "N-NSF": {
-        "count": 630,
+        "count": 1262,
         "en_full_name": "Noun - Nominative Singular Feminine",
         "es_full_name": "Sustantivo - Nominativo Singular Femenino"
     },
     "N-NSM": {
-        "count": 1414,
+        "count": 3223,
         "en_full_name": "Noun - Nominative Singular Masculine",
         "es_full_name": "Sustantivo - Nominativo Singular Masculino"
     },
-    "N-NSM robin": {
-        "count": 2,
-        "en_full_name": "Noun - Nominative Singular Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Sustantivo - Nominativo Singular Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "N-NSN": {
-        "count": 260,
+        "count": 589,
         "en_full_name": "Noun - Nominative Singular Neuter",
         "es_full_name": "Sustantivo - Nominativo Singular Neutro"
-    },
-    "N-NSN robin": {
-        "count": 1,
-        "en_full_name": "Noun - Nominative Singular Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Sustantivo - Nominativo Singular Neutro - (Sufijo no reconocido:  robin?)"
     },
     "N-NSN-C": {
         "count": 1,
@@ -985,12 +865,12 @@
         "es_full_name": "Sustantivo - Nominativo Singular Neutro - Comparativo"
     },
     "N-OI": {
-        "count": 8,
+        "count": 13,
         "en_full_name": "Noun - Indeclinable",
         "es_full_name": "Sustantivo - Indeclinable"
     },
     "N-PRI": {
-        "count": 648,
+        "count": 819,
         "en_full_name": "Noun - Proper Name",
         "es_full_name": "Sustantivo - Nombre Propio"
     },
@@ -1030,7 +910,7 @@
         "es_full_name": "Pronombre Personal - 1ra Persona Acusativo Plural"
     },
     "P-1AS": {
-        "count": 381,
+        "count": 383,
         "en_full_name": "Personal Pronoun - 1st Person Accusative Singular",
         "es_full_name": "Pronombre Personal - 1ra Persona Acusativo Singular"
     },
@@ -1045,7 +925,7 @@
         "es_full_name": "Pronombre Personal - 1ra Persona Dativo Plural"
     },
     "P-1DS": {
-        "count": 298,
+        "count": 299,
         "en_full_name": "Personal Pronoun - 1st Person Dative Singular",
         "es_full_name": "Pronombre Personal - 1ra Persona Dativo Singular"
     },
@@ -1120,164 +1000,139 @@
         "es_full_name": "Pronombre Personal - 2da Persona Nominativo Singular"
     },
     "P-APF": {
-        "count": 11,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "count": 12,
+        "en_full_name": "Personal Pronoun - 3rd Person Accusative Plural Feminine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Acusativo Plural Femenino"
     },
     "P-APM": {
         "count": 346,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Accusative Plural Masculine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Acusativo Plural Masculino"
     },
     "P-APN": {
-        "count": 47,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "count": 48,
+        "en_full_name": "Personal Pronoun - 3rd Person Accusative Plural Neuter",
+        "es_full_name": "Pronombre Personal - 3ra Persona Acusativo Plural Neutro"
     },
     "P-ASF": {
-        "count": 123,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "count": 127,
+        "en_full_name": "Personal Pronoun - 3rd Person Accusative Singular Feminine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Acusativo Singular Femenino"
     },
     "P-ASM": {
         "count": 992,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Accusative Singular Masculine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Acusativo Singular Masculino"
     },
     "P-ASN": {
-        "count": 84,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "count": 88,
+        "en_full_name": "Personal Pronoun - 3rd Person Accusative Singular Neuter",
+        "es_full_name": "Pronombre Personal - 3ra Persona Acusativo Singular Neutro"
     },
     "P-DPF": {
         "count": 17,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Dative Plural Feminine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Dativo Plural Femenino"
     },
     "P-DPM": {
         "count": 568,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Dative Plural Masculine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Dativo Plural Masculino"
     },
     "P-DPN": {
         "count": 15,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Dative Plural Neuter",
+        "es_full_name": "Pronombre Personal - 3ra Persona Dativo Plural Neutro"
     },
     "P-DSF": {
-        "count": 114,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "count": 119,
+        "en_full_name": "Personal Pronoun - 3rd Person Dative Singular Feminine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Dativo Singular Femenino"
     },
     "P-DSM": {
-        "count": 832,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
-    },
-    "P-DSM robin": {
-        "count": 1,
-        "en_full_name": "Personal Pronoun - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Pronombre Personal - (Sufijo no reconocido:  robin?)"
+        "count": 836,
+        "en_full_name": "Personal Pronoun - 3rd Person Dative Singular Masculine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Dativo Singular Masculino"
     },
     "P-DSN": {
         "count": 21,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Dative Singular Neuter",
+        "es_full_name": "Pronombre Personal - 3ra Persona Dativo Singular Neutro"
     },
     "P-GPF": {
         "count": 25,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Genitive Plural Feminine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Genitivo Plural Femenino"
     },
     "P-GPM": {
         "count": 512,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Genitive Plural Masculine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Genitivo Plural Masculino"
     },
     "P-GPN": {
         "count": 24,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Genitive Plural Neuter",
+        "es_full_name": "Pronombre Personal - 3ra Persona Genitivo Plural Neutro"
     },
     "P-GSF": {
-        "count": 161,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "count": 164,
+        "en_full_name": "Personal Pronoun - 3rd Person Genitive Singular Feminine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Genitivo Singular Femenino"
     },
     "P-GSM": {
         "count": 1322,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Genitive Singular Masculine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Genitivo Singular Masculino"
     },
     "P-GSN": {
-        "count": 45,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "count": 46,
+        "en_full_name": "Personal Pronoun - 3rd Person Genitive Singular Neuter",
+        "es_full_name": "Pronombre Personal - 3ra Persona Genitivo Singular Neutro"
     },
     "P-NPM": {
         "count": 65,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Nominative Plural Masculine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Nominativo Plural Masculino"
     },
     "P-NPN": {
         "count": 2,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Nominative Plural Neuter",
+        "es_full_name": "Pronombre Personal - 3ra Persona Nominativo Plural Neutro"
     },
     "P-NSF": {
         "count": 22,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Nominative Singular Feminine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Nominativo Singular Femenino"
     },
     "P-NSM": {
         "count": 153,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Nominative Singular Masculine",
+        "es_full_name": "Pronombre Personal - 3ra Persona Nominativo Singular Masculino"
     },
     "P-NSN": {
         "count": 4,
-        "en_full_name": "Personal Pronoun",
-        "es_full_name": "Pronombre Personal"
+        "en_full_name": "Personal Pronoun - 3rd Person Nominative Singular Neuter",
+        "es_full_name": "Pronombre Personal - 3ra Persona Nominativo Singular Neutro"
     },
     "PREP": {
-        "count": 8810,
+        "count": 8880,
         "en_full_name": "Preposition",
         "es_full_name": "Preposición"
     },
-    "PREP robin": {
-        "count": 60,
-        "en_full_name": "Unknown Code: PREP robin",
-        "es_full_name": "Código Desconocido: PREP robin"
-    },
     "PRT": {
-        "count": 878,
+        "count": 905,
         "en_full_name": "Particle",
         "es_full_name": "Partícula"
     },
-    "PRT robin": {
-        "count": 3,
-        "en_full_name": "Unknown Code: PRT robin",
-        "es_full_name": "Código Desconocido: PRT robin"
-    },
     "PRT-I": {
-        "count": 123,
+        "count": 125,
         "en_full_name": "Interrogative Particle",
         "es_full_name": "Partícula Interrogativa"
     },
     "PRT-N": {
-        "count": 1949,
+        "count": 2091,
         "en_full_name": "Negative Particle",
         "es_full_name": "Partícula Negativa"
-    },
-    "PRT-N robin": {
-        "count": 72,
-        "en_full_name": "Unknown Code: PRT-N robin",
-        "es_full_name": "Código Desconocido: PRT-N robin"
-    },
-    "PRT_N robin": {
-        "count": 1,
-        "en_full_name": "Unknown Code: PRT_N robin",
-        "es_full_name": "Código Desconocido: PRT_N robin"
     },
     "Q-APF": {
         "count": 1,
@@ -1350,32 +1205,22 @@
         "es_full_name": "Pronombre Relativo - Acusativo Singular Femenino"
     },
     "R-ASM": {
-        "count": 144,
+        "count": 145,
         "en_full_name": "Relative Pronoun - Accusative Singular Masculine",
         "es_full_name": "Pronombre Relativo - Acusativo Singular Masculino"
     },
-    "R-ASM robin": {
-        "count": 1,
-        "en_full_name": "Relative Pronoun - Accusative Singular Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Pronombre Relativo - Acusativo Singular Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "R-ASM-P": {
         "count": 1,
-        "en_full_name": "Relative Pronoun - Accusative Singular Masculine - (Unrecognized suffix: P?)",
-        "es_full_name": "Pronombre Relativo - Acusativo Singular Masculino - (Sufijo no reconocido: P?)"
+        "en_full_name": "Relative Pronoun - Accusative Singular Masculine - with Emphasis",
+        "es_full_name": "Pronombre Relativo - Acusativo Singular Masculino - con Énfasis"
     },
     "R-ASN": {
-        "count": 142,
+        "count": 148,
         "en_full_name": "Relative Pronoun - Accusative Singular Neuter",
         "es_full_name": "Pronombre Relativo - Acusativo Singular Neutro"
     },
-    "R-ASN robin": {
-        "count": 2,
-        "en_full_name": "Relative Pronoun - Accusative Singular Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Pronombre Relativo - Acusativo Singular Neutro - (Sufijo no reconocido:  robin?)"
-    },
     "R-DPF": {
-        "count": 10,
+        "count": 11,
         "en_full_name": "Relative Pronoun - Dative Plural Feminine",
         "es_full_name": "Pronombre Relativo - Dativo Plural Femenino"
     },
@@ -1385,27 +1230,22 @@
         "es_full_name": "Pronombre Relativo - Dativo Plural Masculino"
     },
     "R-DPN": {
-        "count": 14,
+        "count": 15,
         "en_full_name": "Relative Pronoun - Dative Plural Neuter",
         "es_full_name": "Pronombre Relativo - Dativo Plural Neutro"
     },
     "R-DSF": {
-        "count": 31,
+        "count": 33,
         "en_full_name": "Relative Pronoun - Dative Singular Feminine",
         "es_full_name": "Pronombre Relativo - Dativo Singular Femenino"
     },
     "R-DSM": {
-        "count": 64,
+        "count": 71,
         "en_full_name": "Relative Pronoun - Dative Singular Masculine",
         "es_full_name": "Pronombre Relativo - Dativo Singular Masculino"
     },
-    "R-DSM robin": {
-        "count": 2,
-        "en_full_name": "Relative Pronoun - Dative Singular Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Pronombre Relativo - Dativo Singular Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "R-DSN": {
-        "count": 26,
+        "count": 30,
         "en_full_name": "Relative Pronoun - Dative Singular Neuter",
         "es_full_name": "Pronombre Relativo - Dativo Singular Neutro"
     },
@@ -1420,7 +1260,7 @@
         "es_full_name": "Pronombre Relativo - Genitivo Plural Masculino"
     },
     "R-GPN": {
-        "count": 36,
+        "count": 37,
         "en_full_name": "Relative Pronoun - Genitive Plural Neuter",
         "es_full_name": "Pronombre Relativo - Genitivo Plural Neutro"
     },
@@ -1430,17 +1270,17 @@
         "es_full_name": "Pronombre Relativo - Genitivo Singular Femenino"
     },
     "R-GSM": {
-        "count": 87,
+        "count": 88,
         "en_full_name": "Relative Pronoun - Genitive Singular Masculine",
         "es_full_name": "Pronombre Relativo - Genitivo Singular Masculino"
     },
     "R-GSN": {
-        "count": 19,
+        "count": 20,
         "en_full_name": "Relative Pronoun - Genitive Singular Neuter",
         "es_full_name": "Pronombre Relativo - Genitivo Singular Neutro"
     },
     "R-GSN-ATT": {
-        "count": 5,
+        "count": 6,
         "en_full_name": "Relative Pronoun - Genitive Singular Neuter - Attic",
         "es_full_name": "Pronombre Relativo - Genitivo Singular Neutro - Ático"
     },
@@ -1465,24 +1305,14 @@
         "es_full_name": "Pronombre Relativo - Nominativo Singular Femenino"
     },
     "R-NSM": {
-        "count": 201,
+        "count": 220,
         "en_full_name": "Relative Pronoun - Nominative Singular Masculine",
         "es_full_name": "Pronombre Relativo - Nominativo Singular Masculino"
     },
-    "R-NSM robin": {
-        "count": 14,
-        "en_full_name": "Relative Pronoun - Nominative Singular Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Pronombre Relativo - Nominativo Singular Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "R-NSN": {
-        "count": 54,
+        "count": 58,
         "en_full_name": "Relative Pronoun - Nominative Singular Neuter",
         "es_full_name": "Pronombre Relativo - Nominativo Singular Neutro"
-    },
-    "R-NSN robin": {
-        "count": 4,
-        "en_full_name": "Relative Pronoun - Nominative Singular Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Pronombre Relativo - Nominativo Singular Neutro - (Sufijo no reconocido:  robin?)"
     },
     "S-1APF": {
         "count": 2,
@@ -1500,12 +1330,17 @@
         "es_full_name": "Pronombre Posesivo - 1ra Persona Acusativo Plural Neutro"
     },
     "S-1ASF": {
-        "count": 8,
+        "count": 10,
         "en_full_name": "Possessive Pronoun - 1st Person Accusative Singular Feminine",
         "es_full_name": "Pronombre Posesivo - 1ra Persona Acusativo Singular Femenino"
     },
+    "S-1ASM": {
+        "count": 4,
+        "en_full_name": "Possessive Pronoun - 1st Person Accusative Singular Masculine",
+        "es_full_name": "Pronombre Posesivo - 1ra Persona Acusativo Singular Masculino"
+    },
     "S-1ASN": {
-        "count": 3,
+        "count": 4,
         "en_full_name": "Possessive Pronoun - 1st Person Accusative Singular Neuter",
         "es_full_name": "Pronombre Posesivo - 1ra Persona Acusativo Singular Neutro"
     },
@@ -1520,7 +1355,7 @@
         "es_full_name": "Pronombre Posesivo - 1ra Persona Dativo Plural Neutro"
     },
     "S-1DSF": {
-        "count": 3,
+        "count": 4,
         "en_full_name": "Possessive Pronoun - 1st Person Dative Singular Feminine",
         "es_full_name": "Pronombre Posesivo - 1ra Persona Dativo Singular Femenino"
     },
@@ -1545,7 +1380,7 @@
         "es_full_name": "Pronombre Posesivo - 1ra Persona Genitivo Plural Neutro"
     },
     "S-1GSF": {
-        "count": 1,
+        "count": 2,
         "en_full_name": "Possessive Pronoun - 1st Person Genitive Singular Feminine",
         "es_full_name": "Pronombre Posesivo - 1ra Persona Genitivo Singular Femenino"
     },
@@ -1555,12 +1390,12 @@
         "es_full_name": "Pronombre Posesivo - 1ra Persona Nominativo Plural Masculino"
     },
     "S-1NPN": {
-        "count": 5,
+        "count": 6,
         "en_full_name": "Possessive Pronoun - 1st Person Nominative Plural Neuter",
         "es_full_name": "Pronombre Posesivo - 1ra Persona Nominativo Plural Neutro"
     },
     "S-1NSF": {
-        "count": 6,
+        "count": 11,
         "en_full_name": "Possessive Pronoun - 1st Person Nominative Singular Feminine",
         "es_full_name": "Pronombre Posesivo - 1ra Persona Nominativo Singular Femenino"
     },
@@ -1575,12 +1410,12 @@
         "es_full_name": "Pronombre Posesivo - 1ra Persona Nominativo Singular Neutro"
     },
     "S-2APM": {
-        "count": 1,
+        "count": 2,
         "en_full_name": "Possessive Pronoun - 2nd Person Accusative Plural Masculine",
         "es_full_name": "Pronombre Posesivo - 2da Persona Acusativo Plural Masculino"
     },
     "S-2APN": {
-        "count": 1,
+        "count": 2,
         "en_full_name": "Possessive Pronoun - 2nd Person Accusative Plural Neuter",
         "es_full_name": "Pronombre Posesivo - 2da Persona Acusativo Plural Neutro"
     },
@@ -1630,7 +1465,7 @@
         "es_full_name": "Pronombre Posesivo - 2da Persona Nominativo Plural Femenino"
     },
     "S-2NPM": {
-        "count": 3,
+        "count": 4,
         "en_full_name": "Possessive Pronoun - 2nd Person Nominative Plural Masculine",
         "es_full_name": "Pronombre Posesivo - 2da Persona Nominativo Plural Masculino"
     },
@@ -1645,279 +1480,159 @@
         "es_full_name": "Pronombre Posesivo - 2da Persona Nominativo Singular Masculino"
     },
     "S-2NSN": {
-        "count": 1,
+        "count": 2,
         "en_full_name": "Possessive Pronoun - 2nd Person Nominative Singular Neuter",
         "es_full_name": "Pronombre Posesivo - 2da Persona Nominativo Singular Neutro"
     },
-    "T-AAP-NPM robin": {
+    "T-AAP-NPM": {
         "count": 1,
-        "en_full_name": "Article - Accusative - (Unrecognized suffix: NPM robin?)",
-        "es_full_name": "Artículo - Acusativo - (Sufijo no reconocido: NPM robin?)"
+        "en_full_name": "Article - Accusative - (Unrecognized suffix: NPM?)",
+        "es_full_name": "Artículo - Acusativo - (Sufijo no reconocido: NPM?)"
     },
     "T-APF": {
-        "count": 29,
+        "count": 298,
         "en_full_name": "Article - Accusative Plural Feminine",
         "es_full_name": "Artículo - Acusativo Plural Femenino"
     },
-    "T-APF robin": {
-        "count": 268,
-        "en_full_name": "Article - Accusative Plural Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Acusativo Plural Femenino - (Sufijo no reconocido:  robin?)"
-    },
     "T-APM": {
-        "count": 238,
+        "count": 663,
         "en_full_name": "Article - Accusative Plural Masculine",
         "es_full_name": "Artículo - Acusativo Plural Masculino"
     },
-    "T-APM robin": {
-        "count": 425,
-        "en_full_name": "Article - Accusative Plural Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Acusativo Plural Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "T-APN": {
-        "count": 207,
+        "count": 540,
         "en_full_name": "Article - Accusative Plural Neuter",
         "es_full_name": "Artículo - Acusativo Plural Neutro"
     },
-    "T-APN robin": {
-        "count": 333,
-        "en_full_name": "Article - Accusative Plural Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Acusativo Plural Neutro - (Sufijo no reconocido:  robin?)"
-    },
     "T-ASF": {
-        "count": 181,
+        "count": 1393,
         "en_full_name": "Article - Accusative Singular Feminine",
         "es_full_name": "Artículo - Acusativo Singular Femenino"
     },
-    "T-ASF robin": {
-        "count": 1212,
-        "en_full_name": "Article - Accusative Singular Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Acusativo Singular Femenino - (Sufijo no reconocido:  robin?)"
-    },
     "T-ASM": {
-        "count": 225,
+        "count": 1480,
         "en_full_name": "Article - Accusative Singular Masculine",
         "es_full_name": "Artículo - Acusativo Singular Masculino"
     },
-    "T-ASM robin": {
-        "count": 1255,
-        "en_full_name": "Article - Accusative Singular Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Acusativo Singular Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "T-ASN": {
-        "count": 295,
+        "count": 964,
         "en_full_name": "Article - Accusative Singular Neuter",
         "es_full_name": "Artículo - Acusativo Singular Neutro"
     },
-    "T-ASN robin": {
-        "count": 667,
-        "en_full_name": "Article - Accusative Singular Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Acusativo Singular Neutro - (Sufijo no reconocido:  robin?)"
-    },
     "T-DPF": {
-        "count": 19,
+        "count": 179,
         "en_full_name": "Article - Dative Plural Feminine",
         "es_full_name": "Artículo - Dativo Plural Femenino"
     },
-    "T-DPF robin": {
-        "count": 160,
-        "en_full_name": "Article - Dative Plural Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Dativo Plural Femenino - (Sufijo no reconocido:  robin?)"
-    },
     "T-DPM": {
-        "count": 160,
+        "count": 431,
         "en_full_name": "Article - Dative Plural Masculine",
         "es_full_name": "Artículo - Dativo Plural Masculino"
     },
-    "T-DPM robin": {
-        "count": 271,
-        "en_full_name": "Article - Dative Plural Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Dativo Plural Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "T-DPN": {
-        "count": 45,
+        "count": 156,
         "en_full_name": "Article - Dative Plural Neuter",
         "es_full_name": "Artículo - Dativo Plural Neutro"
     },
-    "T-DPN robin": {
-        "count": 111,
-        "en_full_name": "Article - Dative Plural Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Dativo Plural Neutro - (Sufijo no reconocido:  robin?)"
-    },
     "T-DSF": {
-        "count": 147,
+        "count": 757,
         "en_full_name": "Article - Dative Singular Feminine",
         "es_full_name": "Artículo - Dativo Singular Femenino"
     },
-    "T-DSF robin": {
-        "count": 610,
-        "en_full_name": "Article - Dative Singular Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Dativo Singular Femenino - (Sufijo no reconocido:  robin?)"
-    },
     "T-DSM": {
-        "count": 191,
+        "count": 830,
         "en_full_name": "Article - Dative Singular Masculine",
         "es_full_name": "Artículo - Dativo Singular Masculino"
     },
-    "T-DSM robin": {
-        "count": 639,
-        "en_full_name": "Article - Dative Singular Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Dativo Singular Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "T-DSN": {
-        "count": 31,
+        "count": 317,
         "en_full_name": "Article - Dative Singular Neuter",
         "es_full_name": "Artículo - Dativo Singular Neutro"
     },
-    "T-DSN robin": {
-        "count": 282,
-        "en_full_name": "Article - Dative Singular Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Dativo Singular Neutro - (Sufijo no reconocido:  robin?)"
-    },
     "T-GPF": {
-        "count": 8,
+        "count": 123,
         "en_full_name": "Article - Genitive Plural Feminine",
         "es_full_name": "Artículo - Genitivo Plural Femenino"
     },
-    "T-GPF robin": {
-        "count": 115,
-        "en_full_name": "Article - Genitive Plural Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Genitivo Plural Femenino - (Sufijo no reconocido:  robin?)"
-    },
     "T-GPM": {
-        "count": 281,
+        "count": 808,
         "en_full_name": "Article - Genitive Plural Masculine",
         "es_full_name": "Artículo - Genitivo Plural Masculino"
     },
-    "T-GPM robin": {
-        "count": 525,
-        "en_full_name": "Article - Genitive Plural Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Genitivo Plural Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "T-GPN": {
-        "count": 57,
+        "count": 231,
         "en_full_name": "Article - Genitive Plural Neuter",
         "es_full_name": "Artículo - Genitivo Plural Neutro"
     },
-    "T-GPN robin": {
-        "count": 174,
-        "en_full_name": "Article - Genitive Plural Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Genitivo Plural Neutro - (Sufijo no reconocido:  robin?)"
-    },
     "T-GSF": {
-        "count": 84,
+        "count": 1182,
         "en_full_name": "Article - Genitive Singular Feminine",
         "es_full_name": "Artículo - Genitivo Singular Femenino"
     },
-    "T-GSF robin": {
-        "count": 1097,
-        "en_full_name": "Article - Genitive Singular Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Genitivo Singular Femenino - (Sufijo no reconocido:  robin?)"
-    },
     "T-GSM": {
-        "count": 259,
+        "count": 1905,
         "en_full_name": "Article - Genitive Singular Masculine",
         "es_full_name": "Artículo - Genitivo Singular Masculino"
     },
-    "T-GSM robin": {
-        "count": 1646,
-        "en_full_name": "Article - Genitive Singular Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Genitivo Singular Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "T-GSN": {
-        "count": 34,
+        "count": 442,
         "en_full_name": "Article - Genitive Singular Neuter",
         "es_full_name": "Artículo - Genitivo Singular Neutro"
     },
-    "T-GSN robin": {
-        "count": 408,
-        "en_full_name": "Article - Genitive Singular Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Genitivo Singular Neutro - (Sufijo no reconocido:  robin?)"
-    },
     "T-NPF": {
-        "count": 31,
+        "count": 138,
         "en_full_name": "Article - Nominative Plural Feminine",
         "es_full_name": "Artículo - Nominativo Plural Femenino"
     },
-    "T-NPF robin": {
-        "count": 107,
-        "en_full_name": "Article - Nominative Plural Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Nominativo Plural Femenino - (Sufijo no reconocido:  robin?)"
-    },
     "T-NPM": {
-        "count": 527,
+        "count": 1106,
         "en_full_name": "Article - Nominative Plural Masculine",
         "es_full_name": "Artículo - Nominativo Plural Masculino"
     },
-    "T-NPM robin": {
-        "count": 578,
-        "en_full_name": "Article - Nominative Plural Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Nominativo Plural Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "T-NPN": {
-        "count": 58,
+        "count": 193,
         "en_full_name": "Article - Nominative Plural Neuter",
         "es_full_name": "Artículo - Nominativo Plural Neutro"
     },
-    "T-NPN robin": {
-        "count": 135,
-        "en_full_name": "Article - Nominative Plural Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Nominativo Plural Neutro - (Sufijo no reconocido:  robin?)"
-    },
     "T-NSF": {
-        "count": 144,
+        "count": 799,
         "en_full_name": "Article - Nominative Singular Feminine",
         "es_full_name": "Artículo - Nominativo Singular Femenino"
     },
-    "T-NSF robin": {
-        "count": 655,
-        "en_full_name": "Article - Nominative Singular Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Nominativo Singular Femenino - (Sufijo no reconocido:  robin?)"
-    },
     "T-NSM": {
-        "count": 870,
+        "count": 2831,
         "en_full_name": "Article - Nominative Singular Masculine",
         "es_full_name": "Artículo - Nominativo Singular Masculino"
     },
-    "T-NSM robin": {
-        "count": 1959,
-        "en_full_name": "Article - Nominative Singular Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Nominativo Singular Masculino - (Sufijo no reconocido:  robin?)"
-    },
     "T-NSN": {
-        "count": 144,
+        "count": 503,
         "en_full_name": "Article - Nominative Singular Neuter",
         "es_full_name": "Artículo - Nominativo Singular Neutro"
     },
-    "T-NSN robin": {
-        "count": 359,
-        "en_full_name": "Article - Nominative Singular Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Artículo - Nominativo Singular Neutro - (Sufijo no reconocido:  robin?)"
-    },
-    "T-PAP-DSM robin": {
+    "T-PAP-DSM": {
         "count": 1,
-        "en_full_name": "Article - (Unrecognized suffix: DSM robin?)",
-        "es_full_name": "Artículo - (Sufijo no reconocido: DSM robin?)"
+        "en_full_name": "Article - (Unrecognized suffix: DSM?)",
+        "es_full_name": "Artículo - (Sufijo no reconocido: DSM?)"
     },
-    "T-PAP-NPM robin": {
+    "T-PAP-NPM": {
         "count": 1,
-        "en_full_name": "Article - (Unrecognized suffix: NPM robin?)",
-        "es_full_name": "Artículo - (Sufijo no reconocido: NPM robin?)"
+        "en_full_name": "Unknown 1",
+        "es_full_name": "Desconocido 1"
     },
-    "T-PNP-APM robin": {
+    "T-PNP-APM": {
         "count": 1,
-        "en_full_name": "Article - (Unrecognized suffix: APM robin?)",
-        "es_full_name": "Artículo - (Sufijo no reconocido: APM robin?)"
+        "en_full_name": "Article - (Unrecognized suffix: APM?)",
+        "es_full_name": "Artículo - (Sufijo no reconocido: APM?)"
     },
-    "T-PNP-NPM robin": {
+    "T-PNP-NPM": {
         "count": 1,
-        "en_full_name": "Article - (Unrecognized suffix: NPM robin?)",
-        "es_full_name": "Artículo - (Sufijo no reconocido: NPM robin?)"
+        "en_full_name": "Article - (Unrecognized suffix: NPM?)",
+        "es_full_name": "Artículo - (Sufijo no reconocido: NPM?)"
     },
-    "T-PNP-NSM robin": {
+    "T-PNP-NSM": {
         "count": 2,
-        "en_full_name": "Article - (Unrecognized suffix: NSM robin?)",
-        "es_full_name": "Artículo - (Sufijo no reconocido: NSM robin?)"
+        "en_full_name": "Article - (Unrecognized suffix: NSM?)",
+        "es_full_name": "Artículo - (Sufijo no reconocido: NSM?)"
     },
     "V-2AAI-1P": {
         "count": 46,
@@ -1940,7 +1655,7 @@
         "es_full_name": "Verbo - 2do Aoristo Activo Indicativo - 2da Persona Singular"
     },
     "V-2AAI-3P": {
-        "count": 532,
+        "count": 535,
         "en_full_name": "Verb - 2nd Aorist Active Indicative - 3rd Person Plural",
         "es_full_name": "Verbo - 2do Aoristo Activo Indicativo - 3ra Persona Plural"
     },
@@ -1950,7 +1665,7 @@
         "es_full_name": "Verbo - 2do Aoristo Activo Indicativo - 3ra Persona Plural - Ático"
     },
     "V-2AAI-3S": {
-        "count": 1348,
+        "count": 1354,
         "en_full_name": "Verb - 2nd Aorist Active Indicative - 3rd Person Singular",
         "es_full_name": "Verbo - 2do Aoristo Activo Indicativo - 3ra Persona Singular"
     },
@@ -1966,8 +1681,8 @@
     },
     "V-2AAM-2S-AP": {
         "count": 3,
-        "en_full_name": "Verb - 2nd Aorist Active Imperative - 2nd Person Singular - (Unrecognized suffix: AP?)",
-        "es_full_name": "Verbo - 2do Aoristo Activo Imperativo - 2da Persona Singular - (Sufijo no reconocido: AP?)"
+        "en_full_name": "Verb - 2nd Aorist Active Imperative - 2nd Person Singular - Apocopated",
+        "es_full_name": "Verbo - 2do Aoristo Activo Imperativo - 2da Persona Singular - Apocopado"
     },
     "V-2AAM-2S-ATT": {
         "count": 1,
@@ -1985,7 +1700,7 @@
         "es_full_name": "Verbo - 2do Aoristo Activo Imperativo - 3ra Persona Singular"
     },
     "V-2AAN": {
-        "count": 432,
+        "count": 438,
         "en_full_name": "Verb - 2nd Aorist Active Infinitive",
         "es_full_name": "Verbo - 2do Aoristo Activo Infinitivo"
     },
@@ -2010,12 +1725,12 @@
         "es_full_name": "Verbo - 2do Aoristo Activo Participio - Acusativo Plural Masculino"
     },
     "V-2AAP-ASF": {
-        "count": 2,
+        "count": 3,
         "en_full_name": "Verb - 2nd Aorist Active Participle - Accusative Singular Feminine",
         "es_full_name": "Verbo - 2do Aoristo Activo Participio - Acusativo Singular Femenino"
     },
     "V-2AAP-ASM": {
-        "count": 22,
+        "count": 23,
         "en_full_name": "Verb - 2nd Aorist Active Participle - Accusative Singular Masculine",
         "es_full_name": "Verbo - 2do Aoristo Activo Participio - Acusativo Singular Masculino"
     },
@@ -2028,6 +1743,11 @@
         "count": 1,
         "en_full_name": "Verb - 2nd Aorist Active Participle - Dative Plural Feminine",
         "es_full_name": "Verbo - 2do Aoristo Activo Participio - Dativo Plural Femenino"
+    },
+    "V-2AAP-DPM": {
+        "count": 2,
+        "en_full_name": "Verb - 2nd Aorist Active Participle - Dative Plural Masculine",
+        "es_full_name": "Verbo - 2do Aoristo Activo Participio - Dativo Plural Masculino"
     },
     "V-2AAP-DSF": {
         "count": 1,
@@ -2065,7 +1785,7 @@
         "es_full_name": "Verbo - 2do Aoristo Activo Participio - Nominativo Plural Femenino"
     },
     "V-2AAP-NPM": {
-        "count": 252,
+        "count": 255,
         "en_full_name": "Verb - 2nd Aorist Active Participle - Nominative Plural Masculine",
         "es_full_name": "Verbo - 2do Aoristo Activo Participio - Nominativo Plural Masculino"
     },
@@ -2080,14 +1800,9 @@
         "es_full_name": "Verbo - 2do Aoristo Activo Participio - Nominativo Singular Femenino"
     },
     "V-2AAP-NSM": {
-        "count": 521,
+        "count": 525,
         "en_full_name": "Verb - 2nd Aorist Active Participle - Nominative Singular Masculine",
         "es_full_name": "Verbo - 2do Aoristo Activo Participio - Nominativo Singular Masculino"
-    },
-    "V-2AAP-NSM robin": {
-        "count": 1,
-        "en_full_name": "Verb - 2nd Aorist Active Participle - Nominative Singular Masculine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Verbo - 2do Aoristo Activo Participio - Nominativo Singular Masculino - (Sufijo no reconocido:  robin?)"
     },
     "V-2AAP-NSN": {
         "count": 4,
@@ -2145,19 +1860,9 @@
         "es_full_name": "Verbo - 2do Aoristo Medio o Pasivo Deponente Indicativo - 3ra Persona Plural"
     },
     "V-2ADI-3S": {
-        "count": 208,
+        "count": 210,
         "en_full_name": "Verb - 2nd Aorist Middle or Passive Deponent Indicative - 3rd Person Singular",
         "es_full_name": "Verbo - 2do Aoristo Medio o Pasivo Deponente Indicativo - 3ra Persona Singular"
-    },
-    "V-2ADI-3S ": {
-        "count": 1,
-        "en_full_name": "Verb - 2nd Aorist Middle or Passive Deponent Indicative - 3rd Person Singular - (Unrecognized suffix:  ?)",
-        "es_full_name": "Verbo - 2do Aoristo Medio o Pasivo Deponente Indicativo - 3ra Persona Singular - (Sufijo no reconocido:  ?)"
-    },
-    "V-2ADI-3S robin": {
-        "count": 1,
-        "en_full_name": "Verb - 2nd Aorist Middle or Passive Deponent Indicative - 3rd Person Singular - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Verbo - 2do Aoristo Medio o Pasivo Deponente Indicativo - 3ra Persona Singular - (Sufijo no reconocido:  robin?)"
     },
     "V-2ADM-3S": {
         "count": 3,
@@ -2175,7 +1880,7 @@
         "es_full_name": "Verbo - 2do Aoristo Medio o Pasivo Deponente Optativo - 1ra Persona Singular"
     },
     "V-2ADO-3S": {
-        "count": 2,
+        "count": 16,
         "en_full_name": "Verb - 2nd Aorist Middle or Passive Deponent Optative - 3rd Person Singular",
         "es_full_name": "Verbo - 2do Aoristo Medio o Pasivo Deponente Optativo - 3ra Persona Singular"
     },
@@ -2220,14 +1925,9 @@
         "es_full_name": "Verbo - 2do Aoristo Medio o Pasivo Deponente Participio - Genitivo Plural Masculino"
     },
     "V-2ADP-GSF": {
-        "count": 36,
+        "count": 37,
         "en_full_name": "Verb - 2nd Aorist Middle or Passive Deponent Participle - Genitive Singular Feminine",
         "es_full_name": "Verbo - 2do Aoristo Medio o Pasivo Deponente Participio - Genitivo Singular Femenino"
-    },
-    "V-2ADP-GSF robin": {
-        "count": 1,
-        "en_full_name": "Verb - 2nd Aorist Middle or Passive Deponent Participle - Genitive Singular Feminine - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Verbo - 2do Aoristo Medio o Pasivo Deponente Participio - Genitivo Singular Femenino - (Sufijo no reconocido:  robin?)"
     },
     "V-2ADP-GSM": {
         "count": 12,
@@ -2240,7 +1940,7 @@
         "es_full_name": "Verbo - 2do Aoristo Medio o Pasivo Deponente Participio - Genitivo Singular Neutro"
     },
     "V-2ADP-NPF": {
-        "count": 3,
+        "count": 4,
         "en_full_name": "Verb - 2nd Aorist Middle or Passive Deponent Participle - Nominative Plural Feminine",
         "es_full_name": "Verbo - 2do Aoristo Medio o Pasivo Deponente Participio - Nominativo Plural Femenino"
     },
@@ -2270,14 +1970,9 @@
         "es_full_name": "Verbo - 2do Aoristo Medio o Pasivo Deponente Subjuntivo - 3ra Persona Plural"
     },
     "V-2ADS-3S": {
-        "count": 39,
+        "count": 40,
         "en_full_name": "Verb - 2nd Aorist Middle or Passive Deponent Subjunctive - 3rd Person Singular",
         "es_full_name": "Verbo - 2do Aoristo Medio o Pasivo Deponente Subjuntivo - 3ra Persona Singular"
-    },
-    "V-2ADS-3S robin": {
-        "count": 1,
-        "en_full_name": "Verb - 2nd Aorist Middle or Passive Deponent Subjunctive - 3rd Person Singular - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Verbo - 2do Aoristo Medio o Pasivo Deponente Subjuntivo - 3ra Persona Singular - (Sufijo no reconocido:  robin?)"
     },
     "V-2AMI-1S": {
         "count": 4,
@@ -2440,7 +2135,7 @@
         "es_full_name": "Verbo - 2do Aoristo Pasivo Participio - Nominativo Plural Femenino"
     },
     "V-2APP-NPM": {
-        "count": 5,
+        "count": 6,
         "en_full_name": "Verb - 2nd Aorist Passive Participle - Nominative Plural Masculine",
         "es_full_name": "Verbo - 2do Aoristo Pasivo Participio - Nominativo Plural Masculino"
     },
@@ -2450,7 +2145,7 @@
         "es_full_name": "Verbo - 2do Aoristo Pasivo Participio - Nominativo Singular Femenino"
     },
     "V-2APP-NSM": {
-        "count": 18,
+        "count": 19,
         "en_full_name": "Verb - 2nd Aorist Passive Participle - Nominative Singular Masculine",
         "es_full_name": "Verbo - 2do Aoristo Pasivo Participio - Nominativo Singular Masculino"
     },
@@ -2590,7 +2285,7 @@
         "es_full_name": "Verbo - 2do Perfecto Activo Indicativo - 3ra Persona Singular - Ático"
     },
     "V-2RAN": {
-        "count": 8,
+        "count": 9,
         "en_full_name": "Verb - 2nd Perfect Active Infinitive",
         "es_full_name": "Verbo - 2do Perfecto Activo Infinitivo"
     },
@@ -2700,7 +2395,7 @@
         "es_full_name": "Verbo - Aoristo Activo Imperativo - 3ra Persona Singular"
     },
     "V-AAN": {
-        "count": 497,
+        "count": 499,
         "en_full_name": "Verb - Aorist Active Infinitive",
         "es_full_name": "Verbo - Aoristo Activo Infinitivo"
     },
@@ -2711,8 +2406,8 @@
     },
     "V-AAO-3P-A": {
         "count": 1,
-        "en_full_name": "Verb - Aorist Active Optative - 3rd Person Plural - (Unrecognized suffix: A?)",
-        "es_full_name": "Verbo - Aoristo Activo Optativo - 3ra Persona Plural - (Sufijo no reconocido: A?)"
+        "en_full_name": "Verb - Aorist Active Optative - 3rd Person Plural - Aeolic dialect",
+        "es_full_name": "Verbo - Aoristo Activo Optativo - 3ra Persona Plural - dialecto Eólico"
     },
     "V-AAO-3S": {
         "count": 4,
@@ -2735,7 +2430,7 @@
         "es_full_name": "Verbo - Aoristo Activo Participio - Acusativo Singular Femenino"
     },
     "V-AAP-ASM": {
-        "count": 12,
+        "count": 14,
         "en_full_name": "Verb - Aorist Active Participle - Accusative Singular Masculine",
         "es_full_name": "Verbo - Aoristo Activo Participio - Acusativo Singular Masculino"
     },
@@ -2750,12 +2445,12 @@
         "es_full_name": "Verbo - Aoristo Activo Participio - Dativo Plural Masculino"
     },
     "V-AAP-DSM": {
-        "count": 10,
+        "count": 12,
         "en_full_name": "Verb - Aorist Active Participle - Dative Singular Masculine",
         "es_full_name": "Verbo - Aoristo Activo Participio - Dativo Singular Masculino"
     },
     "V-AAP-GPM": {
-        "count": 16,
+        "count": 17,
         "en_full_name": "Verb - Aorist Active Participle - Genitive Plural Masculine",
         "es_full_name": "Verbo - Aoristo Activo Participio - Genitivo Plural Masculino"
     },
@@ -2765,7 +2460,7 @@
         "es_full_name": "Verbo - Aoristo Activo Participio - Genitivo Singular Femenino"
     },
     "V-AAP-GSM": {
-        "count": 44,
+        "count": 48,
         "en_full_name": "Verb - Aorist Active Participle - Genitive Singular Masculine",
         "es_full_name": "Verbo - Aoristo Activo Participio - Genitivo Singular Masculino"
     },
@@ -2775,17 +2470,17 @@
         "es_full_name": "Verbo - Aoristo Activo Participio - Nominativo Plural Femenino"
     },
     "V-AAP-NPM": {
-        "count": 210,
+        "count": 217,
         "en_full_name": "Verb - Aorist Active Participle - Nominative Plural Masculine",
         "es_full_name": "Verbo - Aoristo Activo Participio - Nominativo Plural Masculino"
     },
     "V-AAP-NSF": {
-        "count": 28,
+        "count": 29,
         "en_full_name": "Verb - Aorist Active Participle - Nominative Singular Feminine",
         "es_full_name": "Verbo - Aoristo Activo Participio - Nominativo Singular Femenino"
     },
     "V-AAP-NSM": {
-        "count": 353,
+        "count": 359,
         "en_full_name": "Verb - Aorist Active Participle - Nominative Singular Masculine",
         "es_full_name": "Verbo - Aoristo Activo Participio - Nominativo Singular Masculino"
     },
@@ -2910,7 +2605,7 @@
         "es_full_name": "Verbo - Aoristo Medio o Pasivo Deponente Participio - Nominativo Singular Femenino"
     },
     "V-ADP-NSM": {
-        "count": 63,
+        "count": 65,
         "en_full_name": "Verb - Aorist Middle or Passive Deponent Participle - Nominative Singular Masculine",
         "es_full_name": "Verbo - Aoristo Medio o Pasivo Deponente Participio - Nominativo Singular Masculino"
     },
@@ -3165,7 +2860,7 @@
         "es_full_name": "Verbo - Aoristo Pasivo Deponente Participio - Nominativo Singular Femenino"
     },
     "V-AOP-NSM": {
-        "count": 126,
+        "count": 128,
         "en_full_name": "Verb - Aorist Passive Deponent Participle - Nominative Singular Masculine",
         "es_full_name": "Verbo - Aoristo Pasivo Deponente Participio - Nominativo Singular Masculino"
     },
@@ -3255,7 +2950,7 @@
         "es_full_name": "Verbo - Aoristo Pasivo Imperativo - 3ra Persona Singular"
     },
     "V-APN": {
-        "count": 147,
+        "count": 148,
         "en_full_name": "Verb - Aorist Passive Infinitive",
         "es_full_name": "Verbo - Aoristo Pasivo Infinitivo"
     },
@@ -3285,7 +2980,7 @@
         "es_full_name": "Verbo - Aoristo Pasivo Participio - Acusativo Singular Masculino"
     },
     "V-APP-ASN": {
-        "count": 3,
+        "count": 4,
         "en_full_name": "Verb - Aorist Passive Participle - Accusative Singular Neuter",
         "es_full_name": "Verbo - Aoristo Pasivo Participio - Acusativo Singular Neutro"
     },
@@ -3320,12 +3015,12 @@
         "es_full_name": "Verbo - Aoristo Pasivo Participio - Genitivo Plural Neutro"
     },
     "V-APP-GSF": {
-        "count": 8,
+        "count": 9,
         "en_full_name": "Verb - Aorist Passive Participle - Genitive Singular Feminine",
         "es_full_name": "Verbo - Aoristo Pasivo Participio - Genitivo Singular Femenino"
     },
     "V-APP-GSM": {
-        "count": 7,
+        "count": 8,
         "en_full_name": "Verb - Aorist Passive Participle - Genitive Singular Masculine",
         "es_full_name": "Verbo - Aoristo Pasivo Participio - Genitivo Singular Masculino"
     },
@@ -3335,7 +3030,7 @@
         "es_full_name": "Verbo - Aoristo Pasivo Participio - Genitivo Singular Neutro"
     },
     "V-APP-NPM": {
-        "count": 40,
+        "count": 42,
         "en_full_name": "Verb - Aorist Passive Participle - Nominative Plural Masculine",
         "es_full_name": "Verbo - Aoristo Pasivo Participio - Nominativo Plural Masculino"
     },
@@ -3360,7 +3055,7 @@
         "es_full_name": "Verbo - Aoristo Pasivo Participio - Nominativo Singular Masculino - (Sufijo no reconocido: M?)"
     },
     "V-APP-NSN": {
-        "count": 12,
+        "count": 14,
         "en_full_name": "Verb - Aorist Passive Participle - Nominative Singular Neuter",
         "es_full_name": "Verbo - Aoristo Pasivo Participio - Nominativo Singular Neutro"
     },
@@ -3480,14 +3175,9 @@
         "es_full_name": "Verbo - Futuro Medio o Pasivo Deponente Indicativo - 2da Persona Plural"
     },
     "V-FDI-2S": {
-        "count": 21,
+        "count": 23,
         "en_full_name": "Verb - Future Middle or Passive Deponent Indicative - 2nd Person Singular",
         "es_full_name": "Verbo - Futuro Medio o Pasivo Deponente Indicativo - 2da Persona Singular"
-    },
-    "V-FDI-2S robin": {
-        "count": 2,
-        "en_full_name": "Verb - Future Middle or Passive Deponent Indicative - 2nd Person Singular - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Verbo - Futuro Medio o Pasivo Deponente Indicativo - 2da Persona Singular - (Sufijo no reconocido:  robin?)"
     },
     "V-FDI-2S-ATT": {
         "count": 3,
@@ -3520,7 +3210,7 @@
         "es_full_name": "Verbo - Futuro Medio o Pasivo Deponente Participio - Nominativo Plural Masculino"
     },
     "V-FMI-1S": {
-        "count": 4,
+        "count": 5,
         "en_full_name": "Verb - Future Middle Indicative - 1st Person Singular",
         "es_full_name": "Verbo - Futuro Medio Indicativo - 1ra Persona Singular"
     },
@@ -3795,19 +3485,14 @@
         "es_full_name": "Verbo - Imperfecto Sin Voz Indicativo - 2da Persona Singular"
     },
     "V-IXI-3P": {
-        "count": 101,
+        "count": 102,
         "en_full_name": "Verb - Imperfect No Voice Indicative - 3rd Person Plural",
         "es_full_name": "Verbo - Imperfecto Sin Voz Indicativo - 3ra Persona Plural"
     },
     "V-IXI-3S": {
-        "count": 365,
+        "count": 369,
         "en_full_name": "Verb - Imperfect No Voice Indicative - 3rd Person Singular",
         "es_full_name": "Verbo - Imperfecto Sin Voz Indicativo - 3ra Persona Singular"
-    },
-    "V-IXI-3S robin": {
-        "count": 2,
-        "en_full_name": "Verb - Imperfect No Voice Indicative - 3rd Person Singular - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Verbo - Imperfecto Sin Voz Indicativo - 3ra Persona Singular - (Sufijo no reconocido:  robin?)"
     },
     "V-LAI-1S": {
         "count": 6,
@@ -3875,7 +3560,7 @@
         "es_full_name": "Verbo - Presente Activo Indicativo - 1ra Persona Singular - Comparativo"
     },
     "V-PAI-2P": {
-        "count": 325,
+        "count": 326,
         "en_full_name": "Verb - Present Active Indicative - 2nd Person Plural",
         "es_full_name": "Verbo - Presente Activo Indicativo - 2da Persona Plural"
     },
@@ -3885,14 +3570,9 @@
         "es_full_name": "Verbo - Presente Activo Indicativo - 2da Persona Singular"
     },
     "V-PAI-3P": {
-        "count": 325,
+        "count": 330,
         "en_full_name": "Verb - Present Active Indicative - 3rd Person Plural",
         "es_full_name": "Verbo - Presente Activo Indicativo - 3ra Persona Plural"
-    },
-    "V-PAI-3P robin": {
-        "count": 3,
-        "en_full_name": "Verb - Present Active Indicative - 3rd Person Plural - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Verbo - Presente Activo Indicativo - 3ra Persona Plural - (Sufijo no reconocido:  robin?)"
     },
     "V-PAI-3P-ATT": {
         "count": 1,
@@ -3925,14 +3605,9 @@
         "es_full_name": "Verbo - Presente Activo Imperativo - 3ra Persona Singular"
     },
     "V-PAN": {
-        "count": 571,
+        "count": 583,
         "en_full_name": "Verb - Present Active Infinitive",
         "es_full_name": "Verbo - Presente Activo Infinitivo"
-    },
-    "V-PAN robin": {
-        "count": 2,
-        "en_full_name": "Verb - Present Active Infinitive - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Verbo - Presente Activo Infinitivo - (Sufijo no reconocido:  robin?)"
     },
     "V-PAO-3P": {
         "count": 1,
@@ -3950,7 +3625,7 @@
         "es_full_name": "Verbo - Presente Activo Participio - Acusativo Plural Femenino"
     },
     "V-PAP-APM": {
-        "count": 133,
+        "count": 138,
         "en_full_name": "Verb - Present Active Participle - Accusative Plural Masculine",
         "es_full_name": "Verbo - Presente Activo Participio - Acusativo Plural Masculino"
     },
@@ -3965,12 +3640,12 @@
         "es_full_name": "Verbo - Presente Activo Participio - Acusativo Singular Femenino"
     },
     "V-PAP-ASM": {
-        "count": 91,
+        "count": 94,
         "en_full_name": "Verb - Present Active Participle - Accusative Singular Masculine",
         "es_full_name": "Verbo - Presente Activo Participio - Acusativo Singular Masculino"
     },
     "V-PAP-ASN": {
-        "count": 28,
+        "count": 33,
         "en_full_name": "Verb - Present Active Participle - Accusative Singular Neuter",
         "es_full_name": "Verbo - Presente Activo Participio - Acusativo Singular Neutro"
     },
@@ -3980,7 +3655,7 @@
         "es_full_name": "Verbo - Presente Activo Participio - Dativo Plural Femenino"
     },
     "V-PAP-DPM": {
-        "count": 41,
+        "count": 44,
         "en_full_name": "Verb - Present Active Participle - Dative Plural Masculine",
         "es_full_name": "Verbo - Presente Activo Participio - Dativo Plural Masculino"
     },
@@ -3990,12 +3665,12 @@
         "es_full_name": "Verbo - Presente Activo Participio - Dativo Plural Neutro"
     },
     "V-PAP-DSF": {
-        "count": 3,
+        "count": 4,
         "en_full_name": "Verb - Present Active Participle - Dative Singular Feminine",
         "es_full_name": "Verbo - Presente Activo Participio - Dativo Singular Femenino"
     },
     "V-PAP-DSM": {
-        "count": 50,
+        "count": 61,
         "en_full_name": "Verb - Present Active Participle - Dative Singular Masculine",
         "es_full_name": "Verbo - Presente Activo Participio - Dativo Singular Masculino"
     },
@@ -4010,52 +3685,52 @@
         "es_full_name": "Verbo - Presente Activo Participio - Genitivo Plural Femenino"
     },
     "V-PAP-GPM": {
-        "count": 112,
+        "count": 120,
         "en_full_name": "Verb - Present Active Participle - Genitive Plural Masculine",
         "es_full_name": "Verbo - Presente Activo Participio - Genitivo Plural Masculino"
     },
     "V-PAP-GPN": {
-        "count": 14,
+        "count": 17,
         "en_full_name": "Verb - Present Active Participle - Genitive Plural Neuter",
         "es_full_name": "Verbo - Presente Activo Participio - Genitivo Plural Neutro"
     },
     "V-PAP-GSF": {
-        "count": 21,
+        "count": 22,
         "en_full_name": "Verb - Present Active Participle - Genitive Singular Feminine",
         "es_full_name": "Verbo - Presente Activo Participio - Genitivo Singular Femenino"
     },
     "V-PAP-GSM": {
-        "count": 115,
+        "count": 117,
         "en_full_name": "Verb - Present Active Participle - Genitive Singular Masculine",
         "es_full_name": "Verbo - Presente Activo Participio - Genitivo Singular Masculino"
     },
     "V-PAP-GSN": {
-        "count": 20,
+        "count": 24,
         "en_full_name": "Verb - Present Active Participle - Genitive Singular Neuter",
         "es_full_name": "Verbo - Presente Activo Participio - Genitivo Singular Neutro"
     },
     "V-PAP-NPF": {
-        "count": 18,
+        "count": 19,
         "en_full_name": "Verb - Present Active Participle - Nominative Plural Feminine",
         "es_full_name": "Verbo - Presente Activo Participio - Nominativo Plural Femenino"
     },
     "V-PAP-NPM": {
-        "count": 529,
+        "count": 545,
         "en_full_name": "Verb - Present Active Participle - Nominative Plural Masculine",
         "es_full_name": "Verbo - Presente Activo Participio - Nominativo Plural Masculino"
     },
     "V-PAP-NPN": {
-        "count": 26,
+        "count": 27,
         "en_full_name": "Verb - Present Active Participle - Nominative Plural Neuter",
         "es_full_name": "Verbo - Presente Activo Participio - Nominativo Plural Neutro"
     },
     "V-PAP-NSF": {
-        "count": 74,
+        "count": 76,
         "en_full_name": "Verb - Present Active Participle - Nominative Singular Feminine",
         "es_full_name": "Verbo - Presente Activo Participio - Nominativo Singular Femenino"
     },
     "V-PAP-NSM": {
-        "count": 739,
+        "count": 792,
         "en_full_name": "Verb - Present Active Participle - Nominative Singular Masculine",
         "es_full_name": "Verbo - Presente Activo Participio - Nominativo Singular Masculino"
     },
@@ -4230,7 +3905,7 @@
         "es_full_name": "Verbo - Presente Medio Participio - Dativo Singular Masculino"
     },
     "V-PMP-GPM": {
-        "count": 3,
+        "count": 5,
         "en_full_name": "Verb - Present Middle Participle - Genitive Plural Masculine",
         "es_full_name": "Verbo - Presente Medio Participio - Genitivo Plural Masculino"
     },
@@ -4260,7 +3935,7 @@
         "es_full_name": "Verbo - Presente Medio Participio - Nominativo Singular Femenino"
     },
     "V-PMP-NSM": {
-        "count": 26,
+        "count": 27,
         "en_full_name": "Verb - Present Middle Participle - Nominative Singular Masculine",
         "es_full_name": "Verbo - Presente Medio Participio - Nominativo Singular Masculino"
     },
@@ -4280,12 +3955,12 @@
         "es_full_name": "Verbo - Presente Medio Subjuntivo - 3ra Persona Singular"
     },
     "V-PNI-1P": {
-        "count": 18,
+        "count": 20,
         "en_full_name": "Verb - Present Middle or Passive Indicative - 1st Person Plural",
         "es_full_name": "Verbo - Presente Medio o Pasivo Indicativo - 1ra Persona Plural"
     },
     "V-PNI-1S": {
-        "count": 80,
+        "count": 83,
         "en_full_name": "Verb - Present Middle or Passive Indicative - 1st Person Singular",
         "es_full_name": "Verbo - Presente Medio o Pasivo Indicativo - 1ra Persona Singular"
     },
@@ -4295,14 +3970,9 @@
         "es_full_name": "Verbo - Presente Medio o Pasivo Indicativo - 1ra Persona Singular - Comparativo"
     },
     "V-PNI-2P": {
-        "count": 41,
+        "count": 48,
         "en_full_name": "Verb - Present Middle or Passive Indicative - 2nd Person Plural",
         "es_full_name": "Verbo - Presente Medio o Pasivo Indicativo - 2da Persona Plural"
-    },
-    "V-PNI-2P robin": {
-        "count": 4,
-        "en_full_name": "Verb - Present Middle or Passive Indicative - 2nd Person Plural - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Verbo - Presente Medio o Pasivo Indicativo - 2da Persona Plural - (Sufijo no reconocido:  robin?)"
     },
     "V-PNI-2S": {
         "count": 36,
@@ -4320,19 +3990,14 @@
         "es_full_name": "Verbo - Presente Medio o Pasivo Indicativo - 2da Persona Singular - Comparativo"
     },
     "V-PNI-3P": {
-        "count": 63,
+        "count": 65,
         "en_full_name": "Verb - Present Middle or Passive Indicative - 3rd Person Plural",
         "es_full_name": "Verbo - Presente Medio o Pasivo Indicativo - 3ra Persona Plural"
     },
     "V-PNI-3S": {
-        "count": 271,
+        "count": 280,
         "en_full_name": "Verb - Present Middle or Passive Indicative - 3rd Person Singular",
         "es_full_name": "Verbo - Presente Medio o Pasivo Indicativo - 3ra Persona Singular"
-    },
-    "V-PNI-3S robin": {
-        "count": 2,
-        "en_full_name": "Verb - Present Middle or Passive Indicative - 3rd Person Singular - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Verbo - Presente Medio o Pasivo Indicativo - 3ra Persona Singular - (Sufijo no reconocido:  robin?)"
     },
     "V-PNI-3S-I": {
         "count": 2,
@@ -4360,7 +4025,7 @@
         "es_full_name": "Verbo - Presente Medio o Pasivo Imperativo - 3ra Persona Singular"
     },
     "V-PNN": {
-        "count": 87,
+        "count": 88,
         "en_full_name": "Verb - Present Middle or Passive Infinitive",
         "es_full_name": "Verbo - Presente Medio o Pasivo Infinitivo"
     },
@@ -4380,12 +4045,12 @@
         "es_full_name": "Verbo - Presente Medio o Pasivo Optativo - 3ra Persona Singular"
     },
     "V-PNP-APF": {
-        "count": 1,
+        "count": 2,
         "en_full_name": "Verb - Present Middle or Passive Participle - Accusative Plural Feminine",
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Acusativo Plural Femenino"
     },
     "V-PNP-APM": {
-        "count": 23,
+        "count": 26,
         "en_full_name": "Verb - Present Middle or Passive Participle - Accusative Plural Masculine",
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Acusativo Plural Masculino"
     },
@@ -4400,7 +4065,7 @@
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Acusativo Singular Femenino"
     },
     "V-PNP-ASM": {
-        "count": 46,
+        "count": 49,
         "en_full_name": "Verb - Present Middle or Passive Participle - Accusative Singular Masculine",
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Acusativo Singular Masculino"
     },
@@ -4410,7 +4075,7 @@
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Acusativo Singular Neutro"
     },
     "V-PNP-DPM": {
-        "count": 16,
+        "count": 18,
         "en_full_name": "Verb - Present Middle or Passive Participle - Dative Plural Masculine",
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Dativo Plural Masculino"
     },
@@ -4425,7 +4090,7 @@
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Dativo Singular Femenino"
     },
     "V-PNP-DSM": {
-        "count": 18,
+        "count": 21,
         "en_full_name": "Verb - Present Middle or Passive Participle - Dative Singular Masculine",
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Dativo Singular Masculino"
     },
@@ -4440,7 +4105,7 @@
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Genitivo Plural Femenino"
     },
     "V-PNP-GPM": {
-        "count": 29,
+        "count": 31,
         "en_full_name": "Verb - Present Middle or Passive Participle - Genitive Plural Masculine",
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Genitivo Plural Masculino"
     },
@@ -4448,6 +4113,11 @@
         "count": 1,
         "en_full_name": "Verb - Present Middle or Passive Participle - Genitive Plural Neuter",
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Genitivo Plural Neutro"
+    },
+    "V-PNP-GSF": {
+        "count": 3,
+        "en_full_name": "Verb - Present Middle or Passive Participle - Genitive Singular Feminine",
+        "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Genitivo Singular Femenino"
     },
     "V-PNP-GSM": {
         "count": 47,
@@ -4465,7 +4135,7 @@
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Nominativo Plural Femenino"
     },
     "V-PNP-NPM": {
-        "count": 90,
+        "count": 92,
         "en_full_name": "Verb - Present Middle or Passive Participle - Nominative Plural Masculine",
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Nominativo Plural Masculino"
     },
@@ -4480,12 +4150,12 @@
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Nominativo Singular Femenino"
     },
     "V-PNP-NSM": {
-        "count": 117,
+        "count": 129,
         "en_full_name": "Verb - Present Middle or Passive Participle - Nominative Singular Masculine",
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Nominativo Singular Masculino"
     },
     "V-PNP-NSN": {
-        "count": 10,
+        "count": 11,
         "en_full_name": "Verb - Present Middle or Passive Participle - Nominative Singular Neuter",
         "es_full_name": "Verbo - Presente Medio o Pasivo Participio - Nominativo Singular Neutro"
     },
@@ -4570,7 +4240,7 @@
         "es_full_name": "Verbo - Presente Pasivo Imperativo - 3ra Persona Singular"
     },
     "V-PPN": {
-        "count": 97,
+        "count": 98,
         "en_full_name": "Verb - Present Passive Infinitive",
         "es_full_name": "Verbo - Presente Pasivo Infinitivo"
     },
@@ -4590,7 +4260,7 @@
         "es_full_name": "Verbo - Presente Pasivo Participio - Acusativo Plural Masculino"
     },
     "V-PPP-APN": {
-        "count": 6,
+        "count": 7,
         "en_full_name": "Verb - Present Passive Participle - Accusative Plural Neuter",
         "es_full_name": "Verbo - Presente Pasivo Participio - Acusativo Plural Neutro"
     },
@@ -4600,7 +4270,7 @@
         "es_full_name": "Verbo - Presente Pasivo Participio - Acusativo Singular Femenino"
     },
     "V-PPP-ASM": {
-        "count": 27,
+        "count": 29,
         "en_full_name": "Verb - Present Passive Participle - Accusative Singular Masculine",
         "es_full_name": "Verbo - Presente Pasivo Participio - Acusativo Singular Masculino"
     },
@@ -4635,7 +4305,7 @@
         "es_full_name": "Verbo - Presente Pasivo Participio - Dativo Singular Neutro"
     },
     "V-PPP-GPM": {
-        "count": 16,
+        "count": 17,
         "en_full_name": "Verb - Present Passive Participle - Genitive Plural Masculine",
         "es_full_name": "Verbo - Presente Pasivo Participio - Genitivo Plural Masculino"
     },
@@ -4655,7 +4325,7 @@
         "es_full_name": "Verbo - Presente Pasivo Participio - Genitivo Singular Masculino"
     },
     "V-PPP-GSN": {
-        "count": 1,
+        "count": 2,
         "en_full_name": "Verb - Present Passive Participle - Genitive Singular Neuter",
         "es_full_name": "Verbo - Presente Pasivo Participio - Genitivo Singular Neutro"
     },
@@ -4665,7 +4335,7 @@
         "es_full_name": "Verbo - Presente Pasivo Participio - Nominativo Plural Femenino"
     },
     "V-PPP-NPM": {
-        "count": 35,
+        "count": 36,
         "en_full_name": "Verb - Present Passive Participle - Nominative Plural Masculine",
         "es_full_name": "Verbo - Presente Pasivo Participio - Nominativo Plural Masculino"
     },
@@ -4675,17 +4345,17 @@
         "es_full_name": "Verbo - Presente Pasivo Participio - Nominativo Plural Neutro"
     },
     "V-PPP-NSF": {
-        "count": 17,
+        "count": 18,
         "en_full_name": "Verb - Present Passive Participle - Nominative Singular Feminine",
         "es_full_name": "Verbo - Presente Pasivo Participio - Nominativo Singular Femenino"
     },
     "V-PPP-NSM": {
-        "count": 60,
+        "count": 62,
         "en_full_name": "Verb - Present Passive Participle - Nominative Singular Masculine",
         "es_full_name": "Verbo - Presente Pasivo Participio - Nominativo Singular Masculino"
     },
     "V-PPP-NSN": {
-        "count": 25,
+        "count": 27,
         "en_full_name": "Verb - Present Passive Participle - Nominative Singular Neuter",
         "es_full_name": "Verbo - Presente Pasivo Participio - Nominativo Singular Neutro"
     },
@@ -4725,14 +4395,9 @@
         "es_full_name": "Verbo - Presente Sin Voz Participio - Acusativo Plural Neutro"
     },
     "V-PQP-NSN": {
-        "count": 5,
+        "count": 6,
         "en_full_name": "Verb - Present No Voice Participle - Nominative Singular Neuter",
         "es_full_name": "Verbo - Presente Sin Voz Participio - Nominativo Singular Neutro"
-    },
-    "V-PQP-NSN robin": {
-        "count": 1,
-        "en_full_name": "Verb - Present No Voice Participle - Nominative Singular Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Verbo - Presente Sin Voz Participio - Nominativo Singular Neutro - (Sufijo no reconocido:  robin?)"
     },
     "V-PQS-3S": {
         "count": 3,
@@ -4765,14 +4430,9 @@
         "es_full_name": "Verbo - Presente Sin Voz Indicativo - 3ra Persona Plural"
     },
     "V-PXI-3S": {
-        "count": 751,
+        "count": 755,
         "en_full_name": "Verb - Present No Voice Indicative - 3rd Person Singular",
         "es_full_name": "Verbo - Presente Sin Voz Indicativo - 3ra Persona Singular"
-    },
-    "V-PXI-3S robin": {
-        "count": 2,
-        "en_full_name": "Verb - Present No Voice Indicative - 3rd Person Singular - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Verbo - Presente Sin Voz Indicativo - 3ra Persona Singular - (Sufijo no reconocido:  robin?)"
     },
     "V-PXM-2S": {
         "count": 4,
@@ -4790,7 +4450,7 @@
         "es_full_name": "Verbo - Presente Sin Voz Imperativo - 3ra Persona Singular"
     },
     "V-PXN": {
-        "count": 104,
+        "count": 106,
         "en_full_name": "Verb - Present No Voice Infinitive",
         "es_full_name": "Verbo - Presente Sin Voz Infinitivo"
     },
@@ -4805,12 +4465,12 @@
         "es_full_name": "Verbo - Presente Sin Voz Optativo - 3ra Persona Singular"
     },
     "V-PXP-APM": {
-        "count": 10,
+        "count": 11,
         "en_full_name": "Verb - Present No Voice Participle - Accusative Plural Masculine",
         "es_full_name": "Verbo - Presente Sin Voz Participio - Acusativo Plural Masculino"
     },
     "V-PXP-APN": {
-        "count": 3,
+        "count": 4,
         "en_full_name": "Verb - Present No Voice Participle - Accusative Plural Neuter",
         "es_full_name": "Verbo - Presente Sin Voz Participio - Acusativo Plural Neutro"
     },
@@ -4824,18 +4484,28 @@
         "en_full_name": "Verb - Present No Voice Participle - Accusative Singular Masculine",
         "es_full_name": "Verbo - Presente Sin Voz Participio - Acusativo Singular Masculino"
     },
+    "V-PXP-ASN": {
+        "count": 1,
+        "en_full_name": "Verb - Present No Voice Participle - Accusative Singular Neuter",
+        "es_full_name": "Verbo - Presente Sin Voz Participio - Acusativo Singular Neutro"
+    },
     "V-PXP-DPM": {
         "count": 9,
         "en_full_name": "Verb - Present No Voice Participle - Dative Plural Masculine",
         "es_full_name": "Verbo - Presente Sin Voz Participio - Dativo Plural Masculino"
     },
+    "V-PXP-DPN": {
+        "count": 1,
+        "en_full_name": "Verb - Present No Voice Participle - Dative Plural Neuter",
+        "es_full_name": "Verbo - Presente Sin Voz Participio - Dativo Plural Neutro"
+    },
     "V-PXP-DSF": {
-        "count": 6,
+        "count": 7,
         "en_full_name": "Verb - Present No Voice Participle - Dative Singular Feminine",
         "es_full_name": "Verbo - Presente Sin Voz Participio - Dativo Singular Femenino"
     },
     "V-PXP-DSM": {
-        "count": 3,
+        "count": 4,
         "en_full_name": "Verb - Present No Voice Participle - Dative Singular Masculine",
         "es_full_name": "Verbo - Presente Sin Voz Participio - Dativo Singular Masculino"
     },
@@ -4855,12 +4525,12 @@
         "es_full_name": "Verbo - Presente Sin Voz Participio - Genitivo Singular Femenino"
     },
     "V-PXP-GSM": {
-        "count": 14,
+        "count": 15,
         "en_full_name": "Verb - Present No Voice Participle - Genitive Singular Masculine",
         "es_full_name": "Verbo - Presente Sin Voz Participio - Genitivo Singular Masculino"
     },
     "V-PXP-GSN": {
-        "count": 2,
+        "count": 3,
         "en_full_name": "Verb - Present No Voice Participle - Genitive Singular Neuter",
         "es_full_name": "Verbo - Presente Sin Voz Participio - Genitivo Singular Neutro"
     },
@@ -4880,7 +4550,7 @@
         "es_full_name": "Verbo - Presente Sin Voz Participio - Nominativo Singular Femenino"
     },
     "V-PXP-NSM": {
-        "count": 39,
+        "count": 46,
         "en_full_name": "Verb - Present No Voice Participle - Nominative Singular Masculine",
         "es_full_name": "Verbo - Presente Sin Voz Participio - Nominativo Singular Masculino"
     },
@@ -4980,7 +4650,7 @@
         "es_full_name": "Verbo - Perfecto Activo Imperativo - 2da Persona Plural"
     },
     "V-RAN": {
-        "count": 22,
+        "count": 23,
         "en_full_name": "Verb - Perfect Active Infinitive",
         "es_full_name": "Verbo - Perfecto Activo Infinitivo"
     },
@@ -4990,7 +4660,7 @@
         "es_full_name": "Verbo - Perfecto Activo Infinitivo - Ático"
     },
     "V-RAP-APM": {
-        "count": 15,
+        "count": 16,
         "en_full_name": "Verb - Perfect Active Participle - Accusative Plural Masculine",
         "es_full_name": "Verbo - Perfecto Activo Participio - Acusativo Plural Masculino"
     },
@@ -5005,7 +4675,7 @@
         "es_full_name": "Verbo - Perfecto Activo Participio - Acusativo Singular Femenino"
     },
     "V-RAP-ASM": {
-        "count": 11,
+        "count": 13,
         "en_full_name": "Verb - Perfect Active Participle - Accusative Singular Masculine",
         "es_full_name": "Verbo - Perfecto Activo Participio - Acusativo Singular Masculino"
     },
@@ -5040,7 +4710,7 @@
         "es_full_name": "Verbo - Perfecto Activo Participio - Genitivo Plural Masculino"
     },
     "V-RAP-GPN": {
-        "count": 1,
+        "count": 2,
         "en_full_name": "Verb - Perfect Active Participle - Genitive Plural Neuter",
         "es_full_name": "Verbo - Perfecto Activo Participio - Genitivo Plural Neutro"
     },
@@ -5090,7 +4760,7 @@
         "es_full_name": "Verbo - Perfecto Activo Participio - Nominativo Singular Femenino"
     },
     "V-RAP-NSM": {
-        "count": 44,
+        "count": 48,
         "en_full_name": "Verb - Perfect Active Participle - Nominative Singular Masculine",
         "es_full_name": "Verbo - Perfecto Activo Participio - Nominativo Singular Masculino"
     },
@@ -5195,7 +4865,7 @@
         "es_full_name": "Verbo - Perfecto Pasivo Infinitivo"
     },
     "V-RPP-APF": {
-        "count": 3,
+        "count": 4,
         "en_full_name": "Verb - Perfect Passive Participle - Accusative Plural Feminine",
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Acusativo Plural Femenino"
     },
@@ -5205,7 +4875,7 @@
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Acusativo Plural Masculino"
     },
     "V-RPP-APN": {
-        "count": 17,
+        "count": 18,
         "en_full_name": "Verb - Perfect Passive Participle - Accusative Plural Neuter",
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Acusativo Plural Neutro"
     },
@@ -5220,7 +4890,7 @@
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Acusativo Singular Masculino"
     },
     "V-RPP-ASN": {
-        "count": 27,
+        "count": 30,
         "en_full_name": "Verb - Perfect Passive Participle - Accusative Singular Neuter",
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Acusativo Singular Neutro"
     },
@@ -5230,7 +4900,7 @@
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Acusativo Singular Neutro - Ático"
     },
     "V-RPP-DPM": {
-        "count": 10,
+        "count": 12,
         "en_full_name": "Verb - Perfect Passive Participle - Dative Plural Masculine",
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Dativo Plural Masculino"
     },
@@ -5255,7 +4925,7 @@
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Dativo Singular Neutro"
     },
     "V-RPP-GPM": {
-        "count": 17,
+        "count": 18,
         "en_full_name": "Verb - Perfect Passive Participle - Genitive Plural Masculine",
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Genitivo Plural Masculino"
     },
@@ -5270,7 +4940,7 @@
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Genitivo Singular Femenino"
     },
     "V-RPP-GSM": {
-        "count": 3,
+        "count": 5,
         "en_full_name": "Verb - Perfect Passive Participle - Genitive Singular Masculine",
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Genitivo Singular Masculino"
     },
@@ -5285,12 +4955,12 @@
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Nominativo Plural Femenino"
     },
     "V-RPP-NPM": {
-        "count": 79,
+        "count": 82,
         "en_full_name": "Verb - Perfect Passive Participle - Nominative Plural Masculine",
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Nominativo Plural Masculino"
     },
     "V-RPP-NPN": {
-        "count": 9,
+        "count": 10,
         "en_full_name": "Verb - Perfect Passive Participle - Nominative Plural Neuter",
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Nominativo Plural Neutro"
     },
@@ -5305,7 +4975,7 @@
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Nominativo Singular Masculino"
     },
     "V-RPP-NSN": {
-        "count": 28,
+        "count": 29,
         "en_full_name": "Verb - Perfect Passive Participle - Nominative Singular Neuter",
         "es_full_name": "Verbo - Perfecto Pasivo Participio - Nominativo Singular Neutro"
     },
@@ -5355,14 +5025,9 @@
         "es_full_name": "Partícula Indeclinable - Acusativo Singular Masculino"
     },
     "X-ASN": {
-        "count": 64,
+        "count": 69,
         "en_full_name": "Indeclinable Particle - Accusative Singular Neuter",
         "es_full_name": "Partícula Indeclinable - Acusativo Singular Neutro"
-    },
-    "X-ASN robin": {
-        "count": 2,
-        "en_full_name": "Indeclinable Particle - Accusative Singular Neuter - (Unrecognized suffix:  robin?)",
-        "es_full_name": "Partícula Indeclinable - Acusativo Singular Neutro - (Sufijo no reconocido:  robin?)"
     },
     "X-DPM": {
         "count": 1,
@@ -5440,7 +5105,7 @@
         "es_full_name": "Partícula Indeclinable - Nominativo Singular Masculino"
     },
     "X-NSN": {
-        "count": 10,
+        "count": 12,
         "en_full_name": "Indeclinable Particle - Nominative Singular Neuter",
         "es_full_name": "Partícula Indeclinable - Nominativo Singular Neutro"
     }

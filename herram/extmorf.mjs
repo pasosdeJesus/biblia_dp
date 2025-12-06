@@ -98,7 +98,9 @@ const dictionary = {
     'N': { en: 'Neuter', es: 'Neutro' }
   },
   special: {
+    'A': {en: 'Aeolic dialect', es: 'dialecto Eólico'},
     'ABB': {en: 'Abbreviated', es: 'Abreviado'},
+    'AP': {en: 'Apocopated', es: 'Apocopado'},
     'ATT': {en: 'Attic', es: 'Ático'},
     'C': {en: 'Comparative', es: 'Comparativo'},
     'I': {en: 'Interrogative', es: 'Interrogativo'},
@@ -106,6 +108,7 @@ const dictionary = {
     'LI': {en: 'Indeclinable', es: 'Indeclinable'},
     'NUI': {en: 'Indeclinable Numeral', es: 'Numeral Indeclinable'},
     'OI': {en: 'Indeclinable', es: 'Indeclinable'},
+    'P': {en: 'with Emphasis', es: 'con Énfasis'},
     'PRI': {en: 'Proper Name', es: 'Nombre Propio'},
     'S': {en: 'Superlative', es: 'Superlativo'}
   }
@@ -168,24 +171,36 @@ function translateCode(code) {
         restOfDeclension = rest;
 
     } else if (pos === 'P') { // Pronombre Personal
-        const person = declensionStr[0] || '';
-        const caseVal = declensionStr[1] || '';
-        const number = declensionStr[2] || '';
-        const gender = (person === '3' && declensionStr.length > 3) ? declensionStr[3] : null;
-        
-        let personEn = dictionary.person[person]?.en || '';
-        let personEs = dictionary.person[person]?.es || '';
+        const personChar = declensionStr[0] || '';
+        if (dictionary.person[personChar]) { // Handles codes like P-1AP, P-2AS
+            const person = personChar;
+            const caseVal = declensionStr[1] || '';
+            const number = declensionStr[2] || '';
+            const gender = (person === '3' && declensionStr.length > 3) ? declensionStr[3] : null;
+            
+            let personEn = dictionary.person[person]?.en || '';
+            let personEs = dictionary.person[person]?.es || '';
 
-        let consumed = 3;
-        if (gender && dictionary.gender[gender]) {
-            personEn = `${personEn} ${dictionary.gender[gender].en}`;
-            personEs = `${personEs} ${dictionary.gender[gender].es}`;
-            consumed = 4;
+            let consumed = 3;
+            if (gender && dictionary.gender[gender]) {
+                personEn = `${personEn} ${dictionary.gender[gender].en}`;
+                personEs = `${personEs} ${dictionary.gender[gender].es}`;
+                consumed = 4;
+            }
+
+            translations.en.push(`${personEn} ${dictionary.case[caseVal]?.en || ''} ${dictionary.number[number]?.en || ''}`.trim().replace(/\s+/g, ' '));
+            translations.es.push(`${personEs} ${dictionary.case[caseVal]?.es || ''} ${dictionary.number[number]?.es || ''}`.trim().replace(/\s+/g, ' '));
+            restOfDeclension = declensionStr.substring(consumed);
+        } else { // Handles codes like P-APF, P-ASM (assumed 3rd person)
+            const caseVal = declensionStr[0] || '';
+            const number = declensionStr[1] || '';
+            const gender = declensionStr[2] || '';
+            const enDesc = `3rd Person ${dictionary.case[caseVal]?.en || ''} ${dictionary.number[number]?.en || ''} ${dictionary.gender[gender]?.en || ''}`.trim().replace(/\s+/g, ' ');
+            const esDesc = `3ra Persona ${dictionary.case[caseVal]?.es || ''} ${dictionary.number[number]?.es || ''} ${dictionary.gender[gender]?.es || ''}`.trim().replace(/\s+/g, ' ');
+            translations.en.push(enDesc);
+            translations.es.push(esDesc);
+            restOfDeclension = declensionStr.substring(3);
         }
-
-        translations.en.push(`${personEn} ${dictionary.case[caseVal]?.en || ''} ${dictionary.number[number]?.en || ''}`.trim().replace(/\s+/g, ' '));
-        translations.es.push(`${personEs} ${dictionary.case[caseVal]?.es || ''} ${dictionary.number[number]?.es || ''}`.trim().replace(/\s+/g, ' '));
-        restOfDeclension = declensionStr.substring(consumed);
 
     } else if (['F', 'S'].includes(pos)) { // Pronombre Reflexivo/Posesivo
         const person = declensionStr[0] || '';
@@ -227,7 +242,7 @@ async function extractAndSaveMorphologyCodes() {
     console.log(`Buscando en: ${directoryPath}`);
 
     const codeCounts = {};
-    const morphRegex = /robinson:([^\\s"]+)/g;
+    const morphRegex = /robinson:([^\s"]+)/g;
 
     const ntBooksIdentifier = ['Matt', 'Mark', 'Luke', 'John', 'Acts', 'Rom', '1Cor', '2Cor', 'Gal', 'Eph', 'Phil', 'Col', '1Thess', '2Thess', '1Tim', '2Tim', 'Titus', 'Phlm', 'Heb', 'Jas', '1Pet', '2Pet', '1John', '2John', '3John', 'Jude', 'Rev'];
 
@@ -247,6 +262,12 @@ async function extractAndSaveMorphologyCodes() {
             }
         }
 
+        // Consolidate PRT_N into PRT-N
+        if (codeCounts['PRT_N']) {
+            codeCounts['PRT-N'] = (codeCounts['PRT-N'] || 0) + codeCounts['PRT_N'];
+            delete codeCounts['PRT_N'];
+        }
+
         const sortedCodes = Object.keys(codeCounts).sort();
         const translatedSummary = {};
         for (const code of sortedCodes) {
@@ -259,7 +280,7 @@ async function extractAndSaveMorphologyCodes() {
         }
 
         await fs.promises.writeFile(outputPath, JSON.stringify(translatedSummary, null, 4));
-        console.log(`\\n¡Éxito! El resumen morfológico ha sido guardado en: ${outputPath}`);
+        console.log(`\n¡Éxito! El resumen morfológico ha sido guardado en: ${outputPath}`);
 
     } catch (err) {
         console.error('Ocurrió un error en la ejecución:', err);
