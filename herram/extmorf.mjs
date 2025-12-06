@@ -112,11 +112,14 @@ const dictionary = {
 };
 
 function translateCode(code) {
-    if (dictionary.exactMatch[code]) {
-        return { en_full_name: dictionary.exactMatch[code].en, es_full_name: dictionary.exactMatch[code].es };
+    // Normalize codes like PRT_N to PRT-N
+    const normalizedCode = code.replace('_', '-');
+    if (dictionary.exactMatch[normalizedCode]) {
+        return { en_full_name: dictionary.exactMatch[normalizedCode].en, es_full_name: dictionary.exactMatch[normalizedCode].es };
     }
 
     const parts = code.split('-');
+    let restOfDeclension = '';
     const translations = { en: [], es: [] };
     const pos = parts[0];
     const posInfo = dictionary.partOfSpeech[pos];
@@ -141,49 +144,75 @@ function translateCode(code) {
         const tensePart = tensePartMatch ? tensePartMatch[0] : '';
         let rest = declensionStr.substring(tensePart.length);
 
-        const voice = rest[0];
-        const mood = rest[1];
+        const voice = rest[0] || '';
+        const mood = rest[1] || '';
         rest = rest.substring(2);
 
         translations.en.push(`${dictionary.tense[tensePart]?.en || ''} ${dictionary.voice[voice]?.en || ''} ${dictionary.mood[mood]?.en || ''}`.trim().replace(/\s+/g, ' '));
         translations.es.push(`${dictionary.tense[tensePart]?.es || ''} ${dictionary.voice[voice]?.es || ''} ${dictionary.mood[mood]?.es || ''}`.trim().replace(/\s+/g, ' '));
         
-        if (mood === 'P') { // Es un participio, usa declinación
-            const caseVal = rest[0];
-            const number = rest[1];
-            const gender = rest[2];
+        if (mood === 'P') { // Participle, uses declension
+            const caseVal = rest[0] || '';
+            const number = rest[1] || '';
+            const gender = rest[2] || '';
+            rest = rest.substring(3);
             translations.en.push(`${dictionary.case[caseVal]?.en || ''} ${dictionary.number[number]?.en || ''} ${dictionary.gender[gender]?.en || ''}`.trim().replace(/\s+/g, ' '));
             translations.es.push(`${dictionary.case[caseVal]?.es || ''} ${dictionary.number[number]?.es || ''} ${dictionary.gender[gender]?.es || ''}`.trim().replace(/\s+/g, ' '));
-        } else { // Es un verbo finito, usa persona/número
-            const person = rest[0];
-            const number = rest[1];
+        } else if (mood !== 'N') { // Finite verb (not infinitive)
+            const person = rest[0] || '';
+            const number = rest[1] || '';
+            rest = rest.substring(2);
             translations.en.push(`${dictionary.person[person]?.en || ''} ${dictionary.number[number]?.en || ''}`.trim().replace(/\s+/g, ' '));
             translations.es.push(`${dictionary.person[person]?.es || ''} ${dictionary.number[number]?.es || ''}`.trim().replace(/\s+/g, ' '));
         }
+        restOfDeclension = rest;
+
     } else if (pos === 'P') { // Pronombre Personal
-        const person = declensionStr[0];
-        const caseVal = declensionStr[1];
-        const number = declensionStr[2];
-        translations.en.push(`${dictionary.person[person]?.en || ''} ${dictionary.case[caseVal]?.en || ''} ${dictionary.number[number]?.en || ''}`.trim().replace(/\s+/g, ' '));
-        translations.es.push(`${dictionary.person[person]?.es || ''} ${dictionary.case[caseVal]?.es || ''} ${dictionary.number[number]?.es || ''}`.trim().replace(/\s+/g, ' '));
+        const person = declensionStr[0] || '';
+        const caseVal = declensionStr[1] || '';
+        const number = declensionStr[2] || '';
+        const gender = (person === '3' && declensionStr.length > 3) ? declensionStr[3] : null;
+        
+        let personEn = dictionary.person[person]?.en || '';
+        let personEs = dictionary.person[person]?.es || '';
+
+        let consumed = 3;
+        if (gender && dictionary.gender[gender]) {
+            personEn = `${personEn} ${dictionary.gender[gender].en}`;
+            personEs = `${personEs} ${dictionary.gender[gender].es}`;
+            consumed = 4;
+        }
+
+        translations.en.push(`${personEn} ${dictionary.case[caseVal]?.en || ''} ${dictionary.number[number]?.en || ''}`.trim().replace(/\s+/g, ' '));
+        translations.es.push(`${personEs} ${dictionary.case[caseVal]?.es || ''} ${dictionary.number[number]?.es || ''}`.trim().replace(/\s+/g, ' '));
+        restOfDeclension = declensionStr.substring(consumed);
+
     } else if (['F', 'S'].includes(pos)) { // Pronombre Reflexivo/Posesivo
-        const person = declensionStr[0];
-        const caseVal = declensionStr[1];
-        const number = declensionStr[2];
-        const gender = declensionStr[3];
+        const person = declensionStr[0] || '';
+        const caseVal = declensionStr[1] || '';
+        const number = declensionStr[2] || '';
+        const gender = declensionStr[3] || '';
         translations.en.push(`${dictionary.person[person]?.en || ''} ${dictionary.case[caseVal]?.en || ''} ${dictionary.number[number]?.en || ''} ${dictionary.gender[gender]?.en || ''}`.trim().replace(/\s+/g, ' '));
         translations.es.push(`${dictionary.person[person]?.es || ''} ${dictionary.case[caseVal]?.es || ''} ${dictionary.number[number]?.es || ''} ${dictionary.gender[gender]?.es || ''}`.trim().replace(/\s+/g, ' '));
+        restOfDeclension = declensionStr.substring(4);
+
     } else if (declensionStr) { // Resto de palabras declinables
-        const caseVal = declensionStr[0];
-        const number = declensionStr[1];
-        const gender = declensionStr[2];
+        const caseVal = declensionStr[0] || '';
+        const number = declensionStr[1] || '';
+        const gender = declensionStr[2] || '';
         translations.en.push(`${dictionary.case[caseVal]?.en || ''} ${dictionary.number[number]?.en || ''} ${dictionary.gender[gender]?.en || ''}`.trim().replace(/\s+/g, ' '));
         translations.es.push(`${dictionary.case[caseVal]?.es || ''} ${dictionary.number[number]?.es || ''} ${dictionary.gender[gender]?.es || ''}`.trim().replace(/\s+/g, ' '));
+        restOfDeclension = declensionStr.substring(3);
     }
 
     if (specialSuffix) {
         translations.en.push(dictionary.special[specialSuffix].en);
         translations.es.push(dictionary.special[specialSuffix].es);
+    }
+
+    if (restOfDeclension) {
+        translations.en.push(`(Unrecognized suffix: ${restOfDeclension}?)`);
+        translations.es.push(`(Sufijo no reconocido: ${restOfDeclension}?)`);
     }
     
     return {
@@ -198,7 +227,7 @@ async function extractAndSaveMorphologyCodes() {
     console.log(`Buscando en: ${directoryPath}`);
 
     const codeCounts = {};
-    const morphRegex = /robinson:([^\s"]+)/g;
+    const morphRegex = /robinson:([^\\s"]+)/g;
 
     const ntBooksIdentifier = ['Matt', 'Mark', 'Luke', 'John', 'Acts', 'Rom', '1Cor', '2Cor', 'Gal', 'Eph', 'Phil', 'Col', '1Thess', '2Thess', '1Tim', '2Tim', 'Titus', 'Phlm', 'Heb', 'Jas', '1Pet', '2Pet', '1John', '2John', '3John', 'Jude', 'Rev'];
 
@@ -230,7 +259,7 @@ async function extractAndSaveMorphologyCodes() {
         }
 
         await fs.promises.writeFile(outputPath, JSON.stringify(translatedSummary, null, 4));
-        console.log(`\n¡Éxito! El resumen morfológico ha sido guardado en: ${outputPath}`);
+        console.log(`\\n¡Éxito! El resumen morfológico ha sido guardado en: ${outputPath}`);
 
     } catch (err) {
         console.error('Ocurrió un error en la ejecución:', err);
