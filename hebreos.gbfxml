@@ -3943,7 +3943,7 @@ that the blood of bulls and goats should take away sins.
 <wi type="G" value="129,3,">la sangre</wi>
 <wi type="G" value="5022,4,">de toros</wi>
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="4131,6,">cabras</wi>
+<wi type="G" value="5131,6,">cabras</wi>
 <wi type="G" value="851,7,">quite</wi>
 <wi type="G" value="266,8,">los pecados</wi>.
 </t>
@@ -3951,25 +3951,66 @@ that the blood of bulls and goats should take away sins.
 <sv id="Hebreos-10-5">
 Therefore when
 he comes into the world, he says,
+<t xml:lang="es"><wi type="G" value="1352,1,">Entonce</wi>
+<wi type="G" value="1525,2,">cuando viene</wi>
+<wi type="G" value="1519,3,">al</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2889,5,">mundo</wi></wi>,
+<wi type="G" value="3004,6,">dice</wi>,
+</t>
 
 <cl/><fp>
 «Sacrifice and offering you didn´t desire,
+<t xml:lang="es">
+<wi type="G" value="2378,7,">Sacrificio</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="4376,9,">ofrenda</wi>
+«<wi type="G" value="3756,10,">no</wi>
+<wi type="G" value="2309,11,">quisiste</wi>,
+</t>
 <cl/>
 But a body did you prepare for me;
+<t xml:lang="es">
+<wi type="G" value="1161,13,">Pero</wi> <wi type="G" value="3427,15,">me</wi>
+<wi type="G" value="2675,14,">preparaste</wi>
+<wi type="G" value="4983,12,">un cuerpo</wi>;
+</t>
 </fp>
 </sv></cm>
 
 <cm type="PO">
 <sv id="Hebreos-10-6">
 In whole burnt offerings and sacrifices for sin you had no pleasure.
+<t xml:lang="es"><wi type="G" value="2532,2,">Y</wi>
+<wi type="G" value="3646,1,">las ofrendas quemadas</wi>
+<wi type="G" value="4012,3,">por</wi>
+<wi type="G" value="266,4,">el pecado</wi>
+<wi type="G" value="3756,5,">no</wi>
+<wi type="G" value="2106,6,">te complacieron</wi>.</t>
 <cl/>
 
 </sv>
 <sv id="Hebreos-10-7">
 Then I said, `Behold, I have come (In the scroll of the book it is
 written of me)
+<t xml:lang="es"><wi type="G" value="5119,1,">Entonces</wi>
+<wi type="G" value="2036,2,">dije</wi>,
+`<wi type="G" value="2400,3,">Observa</wi>,
+<wi type="G" value="2240,4,">he venido</wi>
+(<wi type="G" value="1722,5,">En</wi>
+<wi type="G" value="2777,6,">el rollo</wi>
+<wi type="G" value="975,7,">del libro</wi>
+<wi type="G" value="1125,8,">está escrito</wi>
+<wi type="G" value="4012,9,">sobre</wi>
+<wi type="G" value="1700,10,">mi</wi>)
+</t>
 <cl/>
 To do your will, God.´»
+<t xml:lang="es">
+<wi type="G" value="3588,11,"/><wi type="G" value="4160,12,">A hacer</wi>
+<wi type="G" value="4675,17,">Tu</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2307,16,">voluntad</wi></wi>,
+<wi type="G" value="3588,13,"><wi type="G" value="2316,14,">Dios</wi></wi>.´»
+</t>
 
 </sv></cm>
 
