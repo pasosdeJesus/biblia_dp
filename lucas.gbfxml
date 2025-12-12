@@ -2254,10 +2254,16 @@ petitions night and day.
 <wi type="G" value="846,2,"/><wi type="G" value="5503,3,">viuda</wi>
 <wi type="G" value="5613,4,">por casi</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3589,6,"><wi type="G" value="5064,7,">ochenta y cuatro</wi></wi><rf><citebib id="KJV2003"/> marca `ochenta y cuatro´ 
-con el número Strong G3589. Aunque según <citebib id="TR-BLB"/>
-la sexta palabra de este versículo es `ὀγδοηκοντατεσσάρων´ que significa 
-ochenta y cuatro, compuesta por `ὀγδοηκοντατ´ que es ochenta con número 
-Strong G3589 y `τεσσάρων´ que es cuatro con número Strong G5064. 
+con el número Strong G3589 que se traduce como ochenta. 
+Según <citebib id="TR-BLB"/> la sexta palabra de este versículo es
+`ὀγδοηκοντατεσσάρων´ que significa ochenta y cuatro, compuesta por
+`ὀγδοηκοντατ´ que es ochenta con número Strong G3589 y `τεσσάρων´ que es 
+cuatro con número Strong G5064. No hay un número Strong para 
+`ochenta y cuatro´ y nuestro marcado actual no permite
+poner dos números Strong en la misma posición, temporalmente resolvimos
+"insertando" el `cuatro´ que le faltaba a <citebib id="KJV2003"/> como 
+séptima palabra a costa de un desfase en la numeración Strong interna de 
+este versículo a partir de la posición 7.
 </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2094,5,">años</wi>.
@@ -5663,20 +5669,19 @@ For you  will mourn and weep.
 For their fathers did the same thing to the false prophets.
 <t xml:lang="es"><wi type="G" value="1063,12,">Porque</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="2596,10,"><wi type="G" value="3778,11,">así</wi></wi><rf>
+<rb xml:lang="es"><wi type="G" value="2596,10,"><wi type="G" value="3778,11,">así mismo</wi></wi><rf>
 No vemos necesidad de traducir por separado las palabras décima y undécima 
 de este versículo en griego, como tampoco lo hacen
 <citebib id="KJV2003"/>, <citebib id="RVG2012"/> ni <citebib id="WEB"/>.
 Tanto <citebib id="TR-BLB"/> como <citebib id="KJV2003"/> dicen que la
-décima palabra es la preposición `κατὰ´ que se traduce como así.
-Pero según <citebib id="TR-BLB"/> la undécima es `ταῦτα` con Strong G3778 
+décima palabra es la preposición `κατὰ´ que se traduce como `así´.
+Pero según <citebib id="TR-BLB"/> la undécima es `ταῦτα´ con Strong G3778 
 que corresponde al pronombre demostrativo en declinación acusativa, neutra 
-y plural `estas´ (o `estas cosas´), mientras que el marcado de 
+y plural `estas´ (o podría ser `estas cosas´), mientras que el marcado de 
 <citebib id="KJV2003"/> usa la palabra `ταυτα´ que asocia
 con el Strong G5024. Según <citebib id="Thayer-BLB"/> el Strong G5024 
-sería `ταὐτά´ y corresponde tanto a la conjugación neutra plural del 
-artículo `ὁ´ (G3588 - artículo el) como al pronombre αὐτός (G846 - pronombre
-él/ella) como adverbio.
+sería `ταὐτά´ y corresponde a un crasis de τά αὐτά (con números Strong G3588 y
+G846) y que se suele traducir como   `de la misma manera.´ 
 https://github.com/byztxt/greektext-textus-receptus/blob/master/parsed/LU.UTR 
 dice `tauta 3778 {D-APN}.´
 </rf></rb>

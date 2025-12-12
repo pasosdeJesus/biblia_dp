@@ -518,12 +518,11 @@ que <wi type="G" value="5216,12,">su</wi>
 <wi type="G" value="3588,15,"><wi type="G" value="3772,16,">el cielo</wi></wi>
 es <wi type="G" value="4183,13,">grande</wi>,
 <wi type="G" value="1063,19,">pues</wi>
-<wi type="G" value="2596,17,">de</wi>
-<wi type="G" value="3778,18,">la misma forma</wi>
+<wi type="G" value="3778,18,">eso</wi> mismo
 <wi type="G" value="4160,20,">hicieron</wi>
 <wi type="G" value="846,25,">sus</wi>
 <wi type="G" value="3588,23,"><wi type="G" value="3962,24,">padres</wi></wi>
-con
+<wi type="G" value="2596,17,">con</wi>
 <wi type="G" value="3588,21,"><wi type="G" value="4396,22,">los profetas</wi></wi>. </t>
 </fr>
 </sv></cm><cm type="PO">
@@ -589,7 +588,24 @@ For you  will mourn and weep.
 <cl/>
 For their fathers did the same thing to the false prophets.
 <t xml:lang="es"><wi type="G" value="1063,12,">Porque</wi>
-<wi type="G" value="2596,10,"/><wi type="G" value="3778,11,">así</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="2596,10,"><wi type="G" value="3778,11,">así mismo</wi></wi><rf>
+No vemos necesidad de traducir por separado las palabras décima y undécima 
+de este versículo en griego, como tampoco lo hacen
+<citebib id="KJV2003"/>, <citebib id="RVG2012"/> ni <citebib id="WEB"/>.
+Tanto <citebib id="TR-BLB"/> como <citebib id="KJV2003"/> dicen que la
+décima palabra es la preposición `κατὰ´ que se traduce como `así´.
+Pero según <citebib id="TR-BLB"/> la undécima es `ταῦτα´ con Strong G3778 
+que corresponde al pronombre demostrativo en declinación acusativa, neutra 
+y plural `estas´ (o podría ser `estas cosas´), mientras que el marcado de 
+<citebib id="KJV2003"/> usa la palabra `ταυτα´ que asocia
+con el Strong G5024. Según <citebib id="Thayer-BLB"/> el Strong G5024 
+sería `ταὐτά´ y corresponde a un crasis de τά αὐτά (con números Strong G3588 y
+G846) y que se suele traducir como   `de la misma manera.´ 
+https://github.com/byztxt/greektext-textus-receptus/blob/master/parsed/LU.UTR 
+dice `tauta 3778 {D-APN}.´
+</rf></rb>
+<t xml:lang="es">,
 <wi type="G" value="4160,13,">hicieron</wi>
 <wi type="G" value="846,18,">sus</wi>
 <wi type="G" value="3588,16,"><wi type="G" value="3962,17,">padres</wi></wi> con

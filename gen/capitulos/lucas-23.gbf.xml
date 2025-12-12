@@ -375,7 +375,7 @@ him.»
 ¿<wi type="G" value="1063,8,">Qué</wi>
 <wi type="G" value="2556,9,">mal</wi>
 <wi type="G" value="4160,10,">ha hecho</wi>
-<wi type="G" value="3778,11,">él</wi>?
+<wi type="G" value="3778,11,">este</wi>?
 <wi type="G" value="3762,12,">No</wi>
 <wi type="G" value="2147,15,">he encontrado</wi>
 <wi type="G" value="158,13,">delito</wi>
@@ -755,7 +755,7 @@ wrong.»
 <wi type="G" value="3739,7,">por lo</wi>
 <wi type="G" value="4238,8,">hecho</wi>,
 <wi type="G" value="1161,11,">pero</wi>
-<wi type="G" value="3778,10,">este hombre</wi>
+<wi type="G" value="3778,10,">este</wi>  hombre
 <wi type="G" value="3762,12,">nada</wi>
 <wi type="G" value="824,13,">malo</wi>
 <wi type="G" value="4238,14,">ha hecho</wi>.» </t>
@@ -933,7 +933,7 @@ de Judea.´</rf></rb>
 <sv id="Lucas-23-51">
 (he had not consented to their counsel and deed), from
 Arimathaea, a city of the Jews, who was also waiting for the Kingdom of God:
-<t xml:lang="es"><wi type="G" value="3778,1,">El cual</wi>
+<t xml:lang="es"><wi type="G" value="3778,1,">Este</wi>
 <wi type="G" value="3756,2,">no</wi>
 <wi type="G" value="2258,3,">había</wi>
 <wi type="G" value="4784,4,">estado de acuerdo</wi>

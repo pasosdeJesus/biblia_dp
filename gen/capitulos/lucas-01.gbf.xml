@@ -457,7 +457,7 @@ After these days
 Elizabeth, his wife, conceived, and she hid herself five months, saying,
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="3326,1,">después</wi> de
-<wi type="G" value="3778,3,">unos</wi>
+<wi type="G" value="3778,3,">estos</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="2250,5,">días</wi></wi>
 <wi type="G" value="1665,7,">Isabel</wi>,
 <wi type="G" value="846,10,">su</wi>
@@ -601,7 +601,7 @@ you will conceive in your womb, and bring forth a son, and will call his name
 <sv id="Lucas-1-32">
 He will be great, and will be called the Son of the Most High.
 The Lord God will give him the throne of his father, David,
-<t xml:lang="es"><wi type="G" value="3778,1,">Él</wi>
+<t xml:lang="es"><wi type="G" value="3778,1,">Este</wi>
 <wi type="G" value="2071,2,">será</wi>
 <wi type="G" value="3173,3,">grande</wi>,
 <wi type="G" value="2532,4,">y</wi>
@@ -678,8 +678,11 @@ is born from you will be called the Son of God.
 <wi type="G" value="1982,15,">cubrirá</wi>.
 <wi type="G" value="1352,17,">Por eso</wi>
 <wi type="G" value="2532,18,">también</wi>
-<wi type="G" value="40,21,">el santo</wi>
-<wi type="G" value="3588,19,"/><wi type="G" value="1080,20,">que nacerá de ti</wi>
+<wi type="G" value="40,21,">el santo</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,19,"/><wi type="G" value="1080,20,">que nacerá</wi><rf>
+<citebib id="KJV2003"/> agrega `de ti´ aunque no está en <citebib id="TR"/>.
+</rf></rb>
+<t xml:lang="es">
 <wi type="G" value="2564,22,">será llamado</wi>
 <wi type="G" value="5207,23,">el Hijo</wi>
 <wi type="G" value="2316,24,">de Dios</wi>. </t>

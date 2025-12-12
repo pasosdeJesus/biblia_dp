@@ -1,7 +1,8 @@
 biblia_dp
 =========
 
-Evangelios de Dominio Público
+Nuevo testamento de Dominio Público con concordancia Strong
+respecto al Textus Receptus de Stephanus 1550.
 
 En este repositorio encuentra código fuente en formato GBFXML 
 y herramientas para convertirlo a otros formatos.
