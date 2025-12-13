@@ -81,6 +81,38 @@ const KNOWN_EXCEPTIONS = {
       '3': { missingInSpatdp: ['G846-7', 'G1161-8', 'G3762-9', 'G611-10'], missingInKjv2003: [], reason: 'SpaTDP es correcto al omitir una frase no presente en el TR de referencia, pero que KJV2003 sí incluye.' }
     }
   },
+  'lucas': {
+    '1': {
+      '35': {
+        missingInSpatdp: ['G1537-21', 'G4675-22', 'G40-23', 'G2564-24', 'G5207-25', 'G2316-26'],
+        missingInKjv2003: ['G40-21', 'G2564-22', 'G5207-23', 'G2316-24'],
+        reason: 'SpaTDP es fiel al TR. KJV2003 agrega \'ἐκ σοῦ\' (de ti).'
+      }
+    },
+  '2': {
+    '37': {
+      missingInSpatdp: ['G3739-7', 'G3756-8', 'G868-9', 'G575-10', 'G3588-11', 'G2411-12', 'G3521-13', 'G2532-14', 'G1162-15', 'G3000-16', 'G3571-17', 'G2532-18', 'G2250-19'],
+      missingInKjv2003: ['G5064-7', 'G3739-8', 'G3756-9', 'G868-10', 'G575-11', 'G3588-12', 'G2411-13', 'G3521-14', 'G2532-15', 'G1162-16', 'G3000-17', 'G3571-18', 'G2532-19', 'G2250-20'],
+      reason: 'SpaTDP es fiel al TR y divide correctamente el número compuesto ὀγδοηκοντατεσσάρων (ochenta y cuatro), añadiendo G5064. La base KJV2003 no lo divide, causando un desfase en la numeración del resto del versículo.'
+    }
+  },
+  '3': {
+    '24': {
+      missingInKjv2003: ['G3588-3'],
+      reason: 'SpaTDP incluye el artículo τοῦ (G3588) que es implícito y omitido en la base KJV2003.'
+    }
+  },
+  '2': {
+    '37': { missingInKjv2003: ['G5064-7'], reason: 'SpaTDP es fiel al TR y divide correctamente el número compuesto ὀγδοηκοντατεσσάρων (ochenta y cuatro) en G3589 y G5064. La base KJV2003 omite G5064.' }
+  },
+  '6': {
+    '26': { 
+      missingInSpatdp: ['G5024-11'], 
+      missingInKjv2003: ['G3778-11'], 
+      reason: 'Variante textual. SpaTDP sigue la lectura ταῦτα (G3778) de ediciones como la de Stephanus. KJV2003 sigue la crasis ταὐτὰ (G5024) tal vez de la edición de Scrivener (?).' 
+    }
+  }
+},
   'hechos': {
       '7': {
         '26': { missingInSpatdp: ['G1161-2'], missingInKjv2003: ['G5037-2'], reason: 'Variación textual menor. SpaTDP sigue el TR (δὲ, G1161), mientras que la base de datos KJV2003 usa (τε, G5037).' }
