@@ -103,7 +103,11 @@ const KNOWN_EXCEPTIONS = {
     }
   },
   '2': {
-    '37': { missingInKjv2003: ['G5064-7'], reason: 'SpaTDP es fiel al TR y divide correctamente el número compuesto ὀγδοηκοντατεσσάρων (ochenta y cuatro) en G3589 y G5064. La base KJV2003 omite G5064.' }
+    '37': {
+      missingInSpatdp: ['G3739-7', 'G3756-8', 'G868-9', 'G575-10', 'G3588-11', 'G2411-12', 'G3521-13', 'G2532-14', 'G1162-15', 'G3000-16', 'G3571-17', 'G2532-18', 'G2250-19'],
+      missingInKjv2003: ['G5064-7', 'G3739-8', 'G3756-9', 'G868-10', 'G575-11', 'G3588-12', 'G2411-13', 'G3521-14', 'G2532-15', 'G1162-16', 'G3000-17', 'G3571-18', 'G2532-19', 'G2250-20'],
+      reason: 'SpaTDP es fiel al TR y divide correctamente el número compuesto ὀγδοηκοντατεσσάρων (ochenta y cuatro), añadiendo G5064 (cuatro) y causando un desfase en la numeración interna de la concordancia Strong. La base KJV2003 no lo divide y deja solo `ὀγδοηκον´ (ochenta).'
+    }
   },
   '6': {
     '26': { 
