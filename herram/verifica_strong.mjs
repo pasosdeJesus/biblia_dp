@@ -118,9 +118,15 @@ const KNOWN_EXCEPTIONS = {
   }
 },
   'hechos': {
-      '7': {
-        '26': { missingInSpatdp: ['G1161-2'], missingInKjv2003: ['G5037-2'], reason: 'Variación textual menor. SpaTDP sigue el TR (δὲ, G1161), mientras que la base de datos KJV2003 usa (τε, G5037).' }
+    '4': {
+      '12': {
+        missingInKjv2003: ['G3762-6'],
+        reason: 'Fidelidad al TR. SpaTDP incluye \'οὐδὲ\' (G3762), que la base KJV2003 omite.'
       }
+    },
+    '7': {
+      '26': { missingInSpatdp: ['G1161-2'], missingInKjv2003: ['G5037-2'], reason: 'Variación textual menor. SpaTDP sigue el TR (δὲ, G1161), mientras que la base de datos KJV2003 usa (τε, G5037).' }
+    }
   },
   'hebreos': {
     '1': {

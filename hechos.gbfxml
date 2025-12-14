@@ -2259,10 +2259,9 @@ quien toma liderazgo en algo y da ejemplo, pionero, autor.  </rf></rb>
 <wi type="G" value="1537,11,">de</wi>
 <wi type="G" value="3498,12,">la muerte</wi>,
 <wi type="G" value="3739,13,">de lo cual</wi>
-<wi type="G" value="3739,14,"/>
-<wi type="G" value="2249,15,">nosotros</wi>
-<wi type="G" value="2070,17,">somos</wi>
-<wi type="G" value="3144,16,">testigos</wi>. </t>
+<wi type="G" value="2249,14,">nosotros</wi>
+<wi type="G" value="2070,16,">somos</wi>
+<wi type="G" value="3144,15,">testigos</wi>. </t>
 </sv>
 <sv id="Hechos-3-16">
 By faith in his name has his name made this man strong, whom
@@ -4653,7 +4652,7 @@ a <wi type="G" value="4736,11,">Esteban</wi>,
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="4151,16,">Espíritu</wi>
 <wi type="G" value="40,17,">Santo</wi>,
-<wi type="G" value="2532,18">y</wi>
+<wi type="G" value="2532,18,">y</wi>
 <wi type="G" value="5376,19,">Felipe</wi>,
 <wi type="G" value="2532,20,">y</wi>
 <wi type="G" value="4402,21,">Prócoro</wi>,
@@ -5255,9 +5254,9 @@ según <citebib id="Thayer-BLB"/> la palabra griega `ἀργύριον´ puede
 traducirse tanto como plata, como dinero y como moneda de plata.</rf></rb>
 <t xml:lang="es"> a
 <wi type="G" value="3588,16,"><wi type="G" value="5207,17,">los hijos</wi></wi>
-<wi type="G" value="3844,15,">de</wi> <wi type="G" value="1697,18,"/>
-<wi type="G" value="1697,19,">Hamor</wi> en
-<wi type="G" value="4966,20,">Siquem</wi>.  </t>
+<wi type="G" value="3844,15,">de</wi> 
+<wi type="G" value="1697,18,">Hemor</wi> de
+<wi type="G" value="3588,19,"/><wi type="G" value="4966,20,">Siquem</wi>.  </t>
 </sv></cm><cm>
 <sv id="Hechos-7-17">
 «But as the time of the promise came close which God had sworn to
@@ -10302,8 +10301,8 @@ y <wi type="G" value="4198,27,">se fue</wi>
 <sv id="Hechos-12-18">
 Now as soon as it was day, there was no small stir among the soldiers
 about what had become of Peter.
-<t xml:lang="es"><wi type="G" value="1096,1,">Tan pronto como</wi>
-<wi type="G" value="1161,2,"/>
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="1096,1,">tan pronto como</wi>
 se hizo
 <wi type="G" value="2250,3,">de día</wi>,
 <wi type="G" value="2258,4,">hubo</wi>  una
@@ -10311,12 +10310,10 @@ se hizo
 <wi type="G" value="3756,6,">nada</wi>
 <wi type="G" value="3641,7,">pequeña</wi>,
 <wi type="G" value="1722,8,">entre</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="4757,10,">los
-soldados</wi></wi>
+<wi type="G" value="3588,9,"><wi type="G" value="4757,10,">los soldados</wi></wi>
 <wi type="G" value="5101,11,">por lo que</wi>
-<wi type="G" value="687,12,"/>
-<wi type="G" value="1096,15,">había ocurrido</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="4074,14,">a Pedro</wi></wi>. </t	>
+le <wi type="G" value="687,12,"/><wi type="G" value="1096,15,">había ocurrido</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="4074,14,">a Pedro</wi></wi>. </t>
 </sv>
 <sv id="Hechos-12-19">
 When Herod had sought for him, and
