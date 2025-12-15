@@ -85,13 +85,12 @@ accuse him.»
 <wi type="G" value="4782,7,">vengan</wi>,
 <wi type="G" value="2723,15,">y acusen</wi>
 <wi type="G" value="5129,14,">a este</wi>
-<wi type="G" value="435,13,">hombre</wi>
-<wi type="G" value="846,16,"/> <wi type="G" value="1487,8,">si</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="435,13,">hombre</wi>
+<wi type="G" value="1487,8,">si</wi>
 <wi type="G" value="2076,10,">hay</wi>
 <wi type="G" value="5100,9,">algo</wi>
-<wi type="G" value="1722,11,">errado</wi>
-<wi type="G" value="3588,12,">en</wi>
-<wi type="G" value="846,17,">él</wi>.» </t>
+<wi type="G" value="1722,11,">en</wi>
+<wi type="G" value="846,16,">él</wi>.» </t>
 </sv></cm><cm>
 <sv id="Hechos-25-6">
 When he had stayed among them more than ten days, he went down to
@@ -554,29 +553,28 @@ ought not to live any longer.
 <wi type="G" value="4840,10,">aquí presentes</wi>
 <wi type="G" value="2254,11,">con nosotros</wi>,
 <wi type="G" value="2334,13,">ustedes ven</wi>
-<wi type="G" value="2334,14,"/>
-<wi type="G" value="5126,15,">a este</wi>
+<wi type="G" value="5126,14,">a este</wi>
 <wi type="G" value="435,12,">hombre</wi>,
-<wi type="G" value="4012,16,">sobre</wi>
-<wi type="G" value="3739,17,">quien</wi>
-<wi type="G" value="3956,18,">toda</wi>
-<wi type="G" value="3588,19,"><wi type="G" value="4128,20,">la multitud</wi></wi>
-<wi type="G" value="3588,21,"/>
-<wi type="G" value="2453,22,">de judíos</wi>
-<wi type="G" value="3427,24,">me</wi>
-<wi type="G" value="1793,23,">ha dicho</wi>
-<wi type="G" value="1916,30,">gritando</wi>,
-<wi type="G" value="5037,26,">tanto</wi>
-<wi type="G" value="1722,25,">en</wi>
-<wi type="G" value="2414,27,">Jerusalén</wi>
-<wi type="G" value="2532,28,">como</wi>
-<wi type="G" value="1759,29,">aquí</wi>,
+<wi type="G" value="4012,15,">sobre</wi>
+<wi type="G" value="3739,16,">quien</wi>
+<wi type="G" value="3956,17,">toda</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="4128,19,">la multitud</wi></wi>
+<wi type="G" value="3588,20,"/>
+<wi type="G" value="2453,21,">de judíos</wi>
+<wi type="G" value="3427,23,">me</wi>
+<wi type="G" value="1793,22,">ha dicho</wi>
+<wi type="G" value="1916,29,">gritando</wi>,
+<wi type="G" value="5037,25,">tanto</wi>
+<wi type="G" value="1722,24,">en</wi>
+<wi type="G" value="2414,26,">Jerusalén</wi>
+<wi type="G" value="2532,27,">como</wi>
+<wi type="G" value="1759,28,">aquí</wi>,
 que
-<wi type="G" value="846,34,">él</wi>
-<wi type="G" value="3361,31,">no</wi>
-<wi type="G" value="1163,32,">debería</wi>
-<wi type="G" value="2198,33,">vivir</wi>
-<wi type="G" value="3371,35,">más</wi>. </t>
+<wi type="G" value="846,33,">él</wi>
+<wi type="G" value="3361,30,">no</wi>
+<wi type="G" value="1163,31,">debería</wi>
+<wi type="G" value="2198,32,">vivir</wi>
+<wi type="G" value="3371,34,">más</wi>. </t>
 </sv>
 <sv id="Hechos-25-25">
 But when I found that he had committed nothing worthy of death, and as

@@ -177,12 +177,12 @@ Lasea.
 <rb xml:lang="es"><wi type="G" value="2570,10,">Buenos</wi>
 <wi type="G" value="3040,11,">Puertos</wi><rf><citebib id="SE"/> y <citebib id="Gideons"/>
 dice `Buenos Puertos.´ Según <citebib id="Thayer-BLB"/> las palabras
-griegas `Καλοὶ λιμένες´ son un sustanativo propio con número strong 2568 y
+griegas `Καλοὶ λιμένες´ son un sustantivo propio con número Strong 2568 y
 se refieren a un bahía en Creta, llamada así por su buen puerto.</rf></rb>
 <t xml:lang="es">, <wi type="G" value="1451,13,">cerca</wi>
 <wi type="G" value="3739,12,">del cual</wi>
 <wi type="G" value="2258,14,">estaba</wi>
-<wi type="G" value="5172,15,">la ciudad</wi> de
+<wi type="G" value="4172,15,">la ciudad</wi> de
 <wi type="G" value="2996,16,">Lasea</wi>. </t>
 </sv></cm>
 <cm>
@@ -520,7 +520,7 @@ a <wi type="G" value="2114,5,">alegrarse</wi>,
 de <wi type="G" value="5590,8,">vidas</wi>
 <wi type="G" value="1537,11,">entre</wi>
 <wi type="G" value="5216,12,">ustedes</wi>
-<wi type="G" value="4143,13,">sino sólo</wi>
+<wi type="G" value="4133,13,">sino sólo</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="4143,15,">del barco</wi>. </t>
 </sv>
 <sv id="Hechos-27-23">
