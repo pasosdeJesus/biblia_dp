@@ -610,9 +610,14 @@ pues <wi type="G" value="846,8,">Él mismo</wi>
 <wi type="G" value="3956,10,">toda</wi>
 <wi type="G" value="2222,11,">vida</wi>
 <wi type="G" value="2532,12,">y</wi>
-<wi type="G" value="4157,13,">aliento</wi>
-<wi type="G" value="2596,14,">y</wi>
-<wi type="G" value="3956,15,">todas las cosas</wi>. </t>
+<wi type="G" value="4157,13,">aliento</wi> </t>
+<rb xml:lang="es"><wi type="G" value="2596,14,">en</wi>
+<wi type="G" value="3956,15,">todas las cosas</wi><rf>
+<citebib id="KJV2003"/> y
+https://github.com/byztxt/greektext-textus-receptus/blob/master/parsed/AC.UTR
+indican que el TR de Stephanus 1550 es `καὶ τὰ πάντα´ mientras que
+<citebib id="TR-BLB"/> dice `κατὰ πάντα.´</rf></rb>
+<t xml:lang="es">. </t>
 </sv>
 <sv id="Hechos-17-26">
 He made from one blood every nation of men to dwell on

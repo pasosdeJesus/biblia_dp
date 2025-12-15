@@ -174,11 +174,14 @@ Lasea.
 <wi type="G" value="5117,7,">cierto lugar</wi>
 <wi type="G" value="5100,8,"/>
 <wi type="G" value="2564,9,">llamado</wi> </t>
-<rb xml:lang="es"><wi type="G" value="2570,10,">Buenos</wi>
-<wi type="G" value="3040,11,">Puertos</wi><rf><citebib id="SE"/> y <citebib id="Gideons"/>
-dice `Buenos Puertos.´ Según <citebib id="Thayer-BLB"/> las palabras
-griegas `Καλοὶ λιμένες´ son un sustantivo propio con número Strong 2568 y
-se refieren a un bahía en Creta, llamada así por su buen puerto.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="2568,10,">Buenos</wi>
+<wi type="G" value="2568,11,">Puertos</wi><rf><citebib id="SE"/> y <citebib id="Gideons"/>
+dice `Buenos Puertos.´ Según https://www.blueletterbible.org/lexicon/g2568/kjv/tr/0-1/  el número Strong
+G2568 corresponde al sustantivo propio `Καλοὶ λιμένες´ y se 
+refiere a una bahía en Creta, llamada así por su 
+buen puerto. <citebib id="KJV2003"/> marca las dos palabras por separado con
+ese mismo número Strong, sin embargo <citebib id="TR-BLB"/> las marca con los
+números Strong G2570 y G3040.</rf></rb>
 <t xml:lang="es">, <wi type="G" value="1451,13,">cerca</wi>
 <wi type="G" value="3739,12,">del cual</wi>
 <wi type="G" value="2258,14,">estaba</wi>
