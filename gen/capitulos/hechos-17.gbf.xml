@@ -616,7 +616,14 @@ pues <wi type="G" value="846,8,">Él mismo</wi>
 <citebib id="KJV2003"/> y
 https://github.com/byztxt/greektext-textus-receptus/blob/master/parsed/AC.UTR
 indican que el TR de Stephanus 1550 es `καὶ τὰ πάντα´ mientras que
-<citebib id="TR-BLB"/> dice `κατὰ πάντα.´</rf></rb>
+<citebib id="TR-BLB"/> y https://www.textusreceptusbibles.com/Stephanus/ dicen `κατὰ πάντα.´  En nuestra inspección del
+la Editio Regia del Textus Receputs de Stephanus 1550 disponible en
+https://archive.org/details/TextusReceptusEditioRegia1550/Textus%20Receptus%20-%20Editio%20Regia%20%281550%29/page/244/mode/2up
+en la línea 21 
+de la página 245 la segunda "posición" se ve una ligadura que según
+https://github.com/byztxt/greektext-textus-receptus/issues/2 es κατὰ y 
+en su aparato crítico dice que una variante es `καὶ τὰ´.
+</rf></rb>
 <t xml:lang="es">. </t>
 </sv>
 <sv id="Hechos-17-26">
