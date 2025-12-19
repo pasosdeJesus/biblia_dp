@@ -2,7 +2,7 @@
 
 **"Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres" (Colosenses 3:23)**
 
-Este documento es la conciencia y la memoria del proyecto. Su propósito es guiar a todos los agentes (IA o humanos) que contribuyan, asegurando que el trabajo no solo sea técnicamente excelente, sino también fiel a su propósito fundamental.
+Este documento es la conciencia y la memoria del proyecto. Su propósito es guiar a todos los agentes (IA) que contribuyan, asegurando que el trabajo no solo sea técnicamente excelente, sino también fiel a su propósito fundamental.
 
 ---
 
