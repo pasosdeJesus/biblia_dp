@@ -126,48 +126,49 @@ const KNOWN_EXCEPTIONS = {
     },
     '7': {
       '16': {
-        missingInKjv2003: ['G3588-19'],
-        reason: 'Fidelidad al TR. SpaTDP incluye el artículo τοῦ (G3588) antes de Siquem, que KJV2003 omite.'
+        missingInSpatdp: ['G4966-19'],
+        missingInKjv2003: ['G3588-19', 'G4966-20'],
+        reason: 'Fidelidad al TR. SpaTDP incluye el artículo τοῦ (G3588) antes de Siquem, causando un desfase posicional que la base KJV2003 (que lo omite) no tiene.'
       },
-      '26': { 
-        missingInSpatdp: ['G1161-2'], 
-        missingInKjv2003: ['G5037-2'], 
-        reason: 'Variación textual menor. SpaTDP sigue el TR (δὲ, G1161), mientras que la base de datos KJV2003 usa (τε, G5037).' },
+      '26': {
+        missingInSpatdp: ['G1161-2'],
+        missingInKjv2003: ['G5037-2'],
+        reason: 'Variación textual menor. SpaTDP sigue el TR (δὲ, G1161), mientras que la base de datos KJV2003 usa (τε, G5037).'
+      },
       '44': {
-        missingInSpatdp: ['G1722-6'],
-        reason: 'Fidelidad al TR. SpaTDP omite correctamente el \'ἐν\' (G1722) que la base KJV2003 erróneamente añade antes de \'τοῖς πατράσιν\'.'
+        missingInSpatdp: ['G3588-6', 'G3962-7', 'G2257-8', 'G1722-9', 'G3588-10', 'G2531-12', 'G1299-13', 'G3588-14', 'G2980-15', 'G3588-16', 'G3475-17', 'G4160-18', 'G846-19', 'G2596-20', 'G3588-21', 'G5179-22', 'G3739-23', 'G3708-24'],
+        missingInKjv2003: ['G1722-6', 'G3588-7', 'G3962-8', 'G2257-9', 'G1722-10', 'G3588-12', 'G2531-13', 'G1299-14', 'G3588-15', 'G2980-16', 'G3588-17', 'G3475-18', 'G4160-19', 'G846-20', 'G2596-21', 'G3588-22', 'G5179-23', 'G3739-24', 'G3708-25'],
+        reason: 'Fidelidad al TR. SpaTDP omite un \'ἐν\' (G1722) que la base KJV2003 añade en la posición 6, causando un desfase posicional en todo el resto del versículo.'
       }
     },
     '8': {
       '28': {
-        missingInKjv2003: ['G2532-10'],
-        reason: 'Fidelidad al TR. SpaTDP incluye un \'καὶ\' (G2532) que la base KJV2003 omite.'
+        missingInSpatdp: ['G314-10', 'G3588-11', 'G4396-12', 'G2268-13'],
+        missingInKjv2003: ['G2532-10', 'G314-11', 'G3588-12', 'G4396-13', 'G2268-14'],
+        reason: 'Fidelidad al TR. SpaTDP incluye un \'καὶ\' (G2532) en la posición 10 que la base KJV2003 omite, causando un desfase posicional.'
       }
     },
     '17': {
       '25': {
-        missingInKjv2003: ['G2596-12', 'G3956-13'],
-        reason: 'Fidelidad al TR. SpaTDP sigue la lectura \'κατὰ πάντα\' (G2596, G3956) del Stephanus 1550, que la base KJV2003 no tiene.'
+        missingInSpatdp: ['G2532-14', 'G3588-15', 'G3956-16'],
+        missingInKjv2003: ['G2596-14', 'G3956-15'],
+        reason: 'Variante textual. SpaTDP es fiel al TR (καὶ τὰ πάντα), mientras que la base KJV2003 usa la variante (κατὰ πάντα).'
       }
     },
     '24': {
       '13': {
-        missingInKjv2003: ['G3165-3'],
-        reason: 'Fidelidad al TR. SpaTDP incluye el pronombre \'με\' (G3165), que la base KJV2003 omite.'
+        missingInSpatdp: ['G1410-3', 'G4012-4', 'G3739-5', 'G3568-6', 'G2723-7', 'G3450-8'],
+        missingInKjv2003: ['G3165-3', 'G1410-4', 'G4012-5', 'G3739-6', 'G3568-7', 'G2723-8', 'G3450-9'],
+        reason: 'Fidelidad al TR. SpaTDP incluye el pronombre \'με\' (G3165) en la posición 3, que la base KJV2003 omite, causando un desfase posicional.'
       }
     },
     '25': {
       '5': {
-        missingInSpatdp: ['G824-11'],
-        reason: 'Fidelidad al TR. SpaTDP omite correctamente \'ἄτοπον\' (G824), que la base KJV2003 erróneamente añade.'
+        missingInSpatdp: ['G824-11', 'G1722-12', 'G3588-13', 'G435-14', 'G5129-15', 'G2723-16', 'G846-17'],
+        missingInKjv2003: ['G1722-11', 'G3588-12', 'G435-13', 'G5129-14', 'G2723-15', 'G846-16'],
+        reason: 'Fidelidad al TR. SpaTDP omite correctamente \'ἄτοπον\' (G824), que la base KJV2003 erróneamente añade en la posición 11, causando un desfase posicional.'
       }
     },
-    '27': {
-      '37': {
-        missingInKjv2003: ['G1803-11'],
-        reason: 'Fidelidad al TR. SpaTDP incluye \'ἕξ\' (seis, G1803), que la base KJV2003 omite, resultando en un conteo incorrecto de 270 en lugar de 276.'
-      }
-    }
   },
   'hebreos': {
     '1': {
