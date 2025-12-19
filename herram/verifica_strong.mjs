@@ -148,6 +148,13 @@ const KNOWN_EXCEPTIONS = {
         reason: 'Fidelidad al TR. SpaTDP incluye un \'καὶ\' (G2532) en la posición 10 que la base KJV2003 omite, causando un desfase posicional.'
       }
     },
+    '15': {
+      '32': {
+        missingInSpatdp: ['G1161-2'],
+        missingInKjv2003: ['G5037-2'],
+        reason: 'Variación textual menor. SpaTDP sigue el TR (δὲ, G1161), mientras que la base KJV2003 usa (τε, G5037).'
+      }
+    },
     '17': {
       '25': {
         missingInSpatdp: ['G2532-14', 'G3588-15', 'G3956-16'],
@@ -169,6 +176,12 @@ const KNOWN_EXCEPTIONS = {
         reason: 'Fidelidad al TR. SpaTDP omite correctamente \'ἄτοπον\' (G824), que la base KJV2003 erróneamente añade en la posición 11, causando un desfase posicional.'
       }
     },
+    '27': {
+      '37': {
+        missingInKjv2003: ['G1803-11'],
+        reason: 'Fidelidad al TR. SpaTDP incluye \'ἕξ\' (seis, G1803), que la base KJV2003 omite, resultando en un conteo incorrecto de 270 en lugar de 276.'
+      },
+    }
   },
   'hebreos': {
     '1': {
