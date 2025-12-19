@@ -220,7 +220,12 @@ function parseSpaTdp(filepath) {
 
       const chapterContent = bookData.get(chapterNum);
       const tMatch = block.match(/<t xml:lang="es">([\s\S]*?)<\/t>/);
-      if (!tMatch || !tMatch[1].trim()) {
+      const rbMatch = block.match(/<rb xml:lang="es">([\s\S]*?)<\/rb>/);
+      
+      const hasTContent = tMatch && tMatch[1] && tMatch[1].trim();
+      const hasRbContent = rbMatch && rbMatch[1] && rbMatch[1].trim();
+      
+      if (!hasTContent && !hasRbContent) {
         chapterContent.untranslatedVerses.add(verseNum);
       }
 
