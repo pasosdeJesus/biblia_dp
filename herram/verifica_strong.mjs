@@ -183,6 +183,20 @@ const KNOWN_EXCEPTIONS = {
       },
     }
   },
+  'romanos': {
+    '3': {
+      '26': {
+        missingInKjv2003: ['G1722-1', 'G3588-2', 'G463-3', 'G3588-4', 'G2316-5'],
+        reason: 'Fidelidad al TR. SpaTDP incluye "ἐν τῇ ἀνοχῇ τοῦ θεοῦ" al inicio del v. 26, mientras que KJV2003 la anexa al final del v. 25.'
+      }
+    },
+    '9': {
+      '14': {
+        missingInKjv2003: ['G3361-4'],
+        reason: 'Fidelidad al TR. SpaTDP incluye la partícula interrogativa "μὴ" (G3361), que la base KJV2003 omite.'
+      }
+    }
+  },
   'hebreos': {
     '1': {
       '3': { missingInKjv2003: ['G3588-13'], reason: 'SpaTDP correctly includes the article [τοῦ] based on Textus Receptus.' }
