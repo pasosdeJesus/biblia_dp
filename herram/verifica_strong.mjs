@@ -125,7 +125,48 @@ const KNOWN_EXCEPTIONS = {
       }
     },
     '7': {
-      '26': { missingInSpatdp: ['G1161-2'], missingInKjv2003: ['G5037-2'], reason: 'Variación textual menor. SpaTDP sigue el TR (δὲ, G1161), mientras que la base de datos KJV2003 usa (τε, G5037).' }
+      '16': {
+        missingInKjv2003: ['G3588-19'],
+        reason: 'Fidelidad al TR. SpaTDP incluye el artículo τοῦ (G3588) antes de Siquem, que KJV2003 omite.'
+      },
+      '26': { 
+        missingInSpatdp: ['G1161-2'], 
+        missingInKjv2003: ['G5037-2'], 
+        reason: 'Variación textual menor. SpaTDP sigue el TR (δὲ, G1161), mientras que la base de datos KJV2003 usa (τε, G5037).' },
+      '44': {
+        missingInSpatdp: ['G1722-6'],
+        reason: 'Fidelidad al TR. SpaTDP omite correctamente el \'ἐν\' (G1722) que la base KJV2003 erróneamente añade antes de \'τοῖς πατράσιν\'.'
+      }
+    },
+    '8': {
+      '28': {
+        missingInKjv2003: ['G2532-10'],
+        reason: 'Fidelidad al TR. SpaTDP incluye un \'καὶ\' (G2532) que la base KJV2003 omite.'
+      }
+    },
+    '17': {
+      '25': {
+        missingInKjv2003: ['G2596-12', 'G3956-13'],
+        reason: 'Fidelidad al TR. SpaTDP sigue la lectura \'κατὰ πάντα\' (G2596, G3956) del Stephanus 1550, que la base KJV2003 no tiene.'
+      }
+    },
+    '24': {
+      '13': {
+        missingInKjv2003: ['G3165-3'],
+        reason: 'Fidelidad al TR. SpaTDP incluye el pronombre \'με\' (G3165), que la base KJV2003 omite.'
+      }
+    },
+    '25': {
+      '5': {
+        missingInSpatdp: ['G824-11'],
+        reason: 'Fidelidad al TR. SpaTDP omite correctamente \'ἄτοπον\' (G824), que la base KJV2003 erróneamente añade.'
+      }
+    },
+    '27': {
+      '37': {
+        missingInKjv2003: ['G1803-11'],
+        reason: 'Fidelidad al TR. SpaTDP incluye \'ἕξ\' (seis, G1803), que la base KJV2003 omite, resultando en un conteo incorrecto de 270 en lugar de 276.'
+      }
     }
   },
   'hebreos': {
