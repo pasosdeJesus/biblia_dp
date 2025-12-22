@@ -374,30 +374,30 @@ the blood of Jesus,
 <sv id="Hebreos-10-20">
 by the way which he dedicated for us, a new and
 living way, through the veil, that is to say, his flesh;
-<t xml:lang="es"><wi type="G" value="3598,4,">por la forma</wi> 
-<wi type="G" value="4372,5,">nueva</wi> 
-<wi type="G" value="2532,6,">y</wi> 
+<t xml:lang="es"><wi type="G" value="3598,4,">por la forma</wi>
+<wi type="G" value="4372,5,">nueva</wi>
+<wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="2198,7,">viva</wi>
-<wi type="G" value="3739,1,">con la que</wi> 
-<wi type="G" value="1457,2,">se consagró</wi> 
+<wi type="G" value="3739,1,">con la que</wi>
+<wi type="G" value="1457,2,">se consagró</wi>
 <wi type="G" value="2254,3,">para nosotros</wi>,
-<wi type="G" value="1223,8,">mediante</wi> 
-<wi type="G" value="3588,9,"><wi type="G" value="2665,10,">el velo</wi></wi>, 
-<wi type="G" value="5124,11,">que</wi> 
-<wi type="G" value="2076,12,">es decir</wi>, 
-<wi type="G" value="846,15,">su</wi> 
+<wi type="G" value="1223,8,">mediante</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="2665,10,">el velo</wi></wi>,
+<wi type="G" value="5124,11,">que</wi>
+<wi type="G" value="2076,12,">es decir</wi>,
+<wi type="G" value="846,15,">su</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="4561,14,">carne</wi></wi>;</t>
 </sv>
 
 <sv id="Hebreos-10-21">
 and having a
 great priest over the house of God,
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi> 
-teniendo 
-<wi type="G" value="3173,3,">un gran</wi> 
-<wi type="G" value="2409,2,">sacerdote</wi> 
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+teniendo
+<wi type="G" value="3173,3,">un gran</wi>
+<wi type="G" value="2409,2,">sacerdote</wi>
 <wi type="G" value="1909,4,">sobre</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="3624,6,">la casa</wi></wi> 
+<wi type="G" value="3588,5,"><wi type="G" value="3624,6,">la casa</wi></wi>
 <wi type="G" value="3588,7,"><wi type="G" value="2316,8,">de Dios</wi></wi>,</t>
 </sv>
 
@@ -405,11 +405,45 @@ teniendo
 let´s draw near with a true heart
 in fullness of faith, having our hearts sprinkled from an evil conscience,
 and having our body washed with pure water,
+<t xml:lang="es"><wi type="G" value="4334,1,">acerquémonos</wi>
+<wi type="G" value="3326,2,">con</wi>
+<wi type="G" value="2588,4,">un corazón</wi>
+<wi type="G" value="228,3,">verdadero</wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="4102,7,">fe</wi>
+<wi type="G" value="4136,6,">completa</wi>,
+<wi type="G" value="4472,8,">teniendo</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="2588,10,">los corazones</wi></wi> </t>
+<rb xml:lang="es"><wi type="G" value="4472,8,">limpios</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `rociados,´
+<citebib id="RVG2012"/> dice `purificados.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `ερραντισμενοι´
+se refiere a limpiar rociando, purificar.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="575,11,">de</wi>
+<wi type="G" value="4190,13,">una mala</wi>
+<wi type="G" value="4893,12,">conciencia</wi>,
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="3588,16,"><wi type="G" value="4983,17,">el cuerpo</wi></wi>
+<wi type="G" value="3068,15,">lavado</wi>
+<wi type="G" value="5204,18,">con agua</wi>
+<wi type="G" value="2513,19,">pura</wi>,
+</t>
 </sv>
 <sv id="Hebreos-10-23">
 let us hold fast the
 confession of our hope without wavering; for he who promised is faithful.
-
+<t xml:lang="es"><wi type="G" value="2722,1,">apeguémonos a</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="3671,3,">la confesión de</wi></wi>
+nuestra
+<wi type="G" value="3588,4,"><wi type="G" value="1680,5,">esperanza</wi></wi>
+<wi type="G" value="186,6,">sin dudar</wi>;
+<wi type="G" value="1063,8,">pues</wi>
+es <wi type="G" value="4103,7,">fiel</wi>
+<wi type="G" value="3588,9,">el que</wi>
+<wi type="G" value="1861,10,">prometió</wi>.
+</t>
 </sv></cm>
 
 <cm>
