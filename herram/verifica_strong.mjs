@@ -197,6 +197,20 @@ const KNOWN_EXCEPTIONS = {
       }
     }
   },
+  'corintios1': {
+    '7': {
+      '37': {
+        missingInKjv2003: ['G1161-12'],
+        reason: 'Fidelidad al TR. SpaTDP incluye la partícula "δὲ" (G1161), que la base KJV2003 omite.'
+      }
+    },
+    '15': {
+      '35': {
+        missingInKjv2003: ['G3498-7'],
+        reason: 'Fidelidad al TR. SpaTDP incluye "νεκροί" (G3498), que la base KJV2003 omite.'
+      }
+    }
+  },
   'hebreos': {
     '1': {
       '3': { missingInKjv2003: ['G3588-13'], reason: 'SpaTDP correctly includes the article [τοῦ] based on Textus Receptus.' }
