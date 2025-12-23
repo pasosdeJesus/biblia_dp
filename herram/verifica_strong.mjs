@@ -211,6 +211,20 @@ const KNOWN_EXCEPTIONS = {
       }
     }
   },
+  'corintios2': {
+    '1': {
+      '6': {
+        missingInKjv2003: ['G2532-29', 'G3588-30', 'G1680-31', 'G2257-32', 'G949-33', 'G5228-34', 'G5216-35'],
+        reason: 'Fidelidad al TR. SpaTDP sigue la división de versículos del TR, que incluye una cláusula que la KJV mueve al v. 7.'
+      }
+    },
+    '8': {
+      '10': {
+        missingInKjv2003: ['G1722-3', 'G5129-4'],
+        reason: 'Fidelidad al TR. SpaTDP incluye la frase "ἐν τούτῳ" (en esto), que la base KJV2003 omite.'
+      }
+    }
+  },
   'hebreos': {
     '1': {
       '3': { missingInKjv2003: ['G3588-13'], reason: 'SpaTDP correctly includes the article [τοῦ] based on Textus Receptus.' }
