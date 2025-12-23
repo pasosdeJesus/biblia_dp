@@ -4290,7 +4290,7 @@ and having our body washed with pure water,
 <wi type="G" value="4136,6,">completa</wi>,
 <wi type="G" value="4472,8,">teniendo</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="2588,10,">los corazones</wi></wi> </t>
-<rb xml:lang="es"><wi type="G" value="4472,8,">limpios</wi><rf>
+<rb xml:lang="es"><wi type="GC" value="8">limpios</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `rociados,´
 <citebib id="RVG2012"/> dice `purificados.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `ερραντισμενοι´
@@ -4325,13 +4325,39 @@ es <wi type="G" value="4103,7,">fiel</wi>
 <cm>
 <sv id="Hebreos-10-24">
 Let us consider how to provoke one another to love and good works,
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="2657,2,">considerémonos</wi>
+<wi type="G" value="240,3,">unos a otros</wi>
+<wi type="G" value="1519,4,">para</wi>
+<wi type="G" value="3948,5,">provocarnos</wi> al
+<wi type="G" value="26,6,">amor</wi>
+<wi type="G" value="2532,7,">y</wi> a
+<wi type="G" value="2570,8,">las buenas</wi>
+<wi type="G" value="2041,9,">obras</wi>,
+</t>
 
 </sv>
 <sv id="Hebreos-10-25">
 not forsaking our own assembling together, as the custom of some is,
 but exhorting one another; and so much the more, as you
-<wi type="T" value="P"/> see the Day
-approaching.
+see the Day approaching.
+<t xml:lang="es"><wi type="G" value="3361,1,">sin</wi>
+<wi type="G" value="1459,2,">abandonar</wi>
+<wi type="G" value="1438,5,">nuestras</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="1997,4,">reuniones</wi></wi>,
+<wi type="G" value="2531,6,">como</wi>
+<wi type="G" value="1485,7,">es costumbre</wi>
+<wi type="G" value="5100,8,">de algunos</wi>,
+<wi type="G" value="235,9,">sino</wi>
+<wi type="G" value="3870,10,">exhortándonos</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="5118,12,">mucho</wi>
+<wi type="G" value="3123,13,">más</wi>, <wi type="G" value="3745,14,">al</wi>
+<wi type="G" value="991,15,">ver</wi>
+que
+<wi type="G" value="3588,17,"><wi type="G" value="2250,18,">el Día</wi></wi>
+<wi type="G" value="1448,16,">se aproxima</wi>.
+</t>
 </sv>
 <sv id="Hebreos-10-26">
 For if we sin willfully after we have received the
