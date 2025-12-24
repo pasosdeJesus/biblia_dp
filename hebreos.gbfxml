@@ -4362,11 +4362,36 @@ que
 <sv id="Hebreos-10-26">
 For if we sin willfully after we have received the
 knowledge of the truth, there remains no more a sacrifice for sins,
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="264,3,"><wi type="G" value="2257,4,">si pecamos</wi></wi>
+<wi type="G" value="1596,1,">deliberadamente</wi>
+<wi type="G" value="3326,5,">después</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="2983,7,">de haber recibido</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="1922,9,">el conocimiento</wi></wi>
+<wi type="G" value="3588,10,"><wi type="G" value="225,11,">de la verdad</wi></wi>,
+<wi type="G" value="3765,12,">ya no</wi>
+<wi type="G" value="620,15,">queda</wi>
+<wi type="GC" value="12">más</wi>
+<wi type="G" value="2378,16,">sacrificio</wi>
+<wi type="G" value="4012,13,">por</wi>
+<wi type="G" value="266,14,">los pecados</wi>,
+</t>
 </sv>
 <sv id="Hebreos-10-27">
-but
-a certain fearful expectation of judgment, and a fierceness of fire which
+but a certain fearful expectation of judgment, and a fierceness of fire which
 will devour the adversaries.
+<t xml:lang="es"><wi type="G" value="1161,2,">sino</wi>
+<wi type="G" value="5100,3,">cierta</wi>
+<wi type="G" value="1561,4,">expectativa</wi>
+<wi type="G" value="5398,1,">temerosa</wi>
+<wi type="G" value="2920,5,">del juicio</wi>,
+<wi type="G" value="2532,6,">y</wi> una
+<wi type="G" value="2205,8,">indignación</wi>
+<wi type="G" value="4442,7,">como fuego</wi>
+<wi type="G" value="3195,10,">que habrá de</wi>
+<wi type="G" value="2068,9,">devorar</wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="5227,12,">a los adversarios</wi>.
+una </t>
 </sv>
 <sv id="Hebreos-10-28">
 A man who disregards Moses´ law dies
