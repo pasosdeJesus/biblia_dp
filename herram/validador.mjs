@@ -2,11 +2,12 @@
 // -*- coding: utf-8 -*-
 
 /**
- * Script for verse-by-verse concordance debugging.
+ * Script for verse-by-verse concordance and format debugging.
  * - Analyzes all NT books with corrected naming conventions.
  * - Identifies and reports known, correct exceptions (e.g., Textus Receptus differences).
  * - Skips concordance analysis for untranslated verses to provide a cleaner report.
  * - Reads exceptions from an external `herram/excepciones.json` file.
+ * - Validates XML format, including spacing, punctuation, and tag structure.
  */
 
 import fs from 'fs';
@@ -46,7 +47,6 @@ const BOOK_MAP = {
 
 const KJV2003_PATH_TEMPLATE = "ref/sword_kjv/capitulos2003/{book_kjv2003}-{chapter_padded}.osis.xml";
 
-// Load known exceptions from external JSON file
 const EXCEPTIONS_PATH = 'herram/excepciones.json';
 let KNOWN_EXCEPTIONS = {};
 if (fs.existsSync(EXCEPTIONS_PATH)) {
@@ -58,6 +58,44 @@ if (fs.existsSync(EXCEPTIONS_PATH)) {
     process.exit(1);
   }
 }
+
+// --- Validation Functions ---
+
+function validateBookFormat(bookLower) {
+  const bookFilepath = `${bookLower}.gbfxml`;
+  if (!fs.existsSync(bookFilepath)) return;
+
+  const content = fs.readFileSync(bookFilepath, 'utf-8');
+  const lines = content.split('\n');
+  let hasIssues = false;
+
+  console.log(`\n--- Running Format Validation for ${bookLower} ---`);
+
+  const issues = {
+    "Espacios horizontales que posiblemente deben omitirse": /<t xml:lang="es">[^/]*\/>[ ]*$/,
+    "Espacios horizontales que posiblemente deben añadirse": /<wi[^/]*\/><wi[^/]*\/>/,
+    "Marcado errado (wi pegado a wi)": /\/wi><wi/,
+    "Marcado errado (type=\"G\" value=\"[0-9]*\")": /type=\"G\" value=\"[0-9]*\"/,
+    "Apostrofes por cambiar por ´": /\`[^\´']*\'/,
+    "Signos de puntuación fuera de \` \´": /\´[\.,]/,
+    "Marcación Strong errada": /wi type=\"G[^C]"/,
+    "Errores comunes (i<w)": /i<w/
+  };
+
+  for (const [description, regex] of Object.entries(issues)) {
+    for (let i = 0; i < lines.length; i++) {
+      if (regex.test(lines[i])) {
+        console.log(`  [L ${i + 1}] ${description}: ${lines[i].trim()}`);
+        hasIssues = true;
+      }
+    }
+  }
+
+  if (!hasIssues) {
+    console.log("  No format issues found.");
+  }
+}
+
 
 // --- Parsing Functions ---
 
@@ -166,9 +204,9 @@ function parseKjv2003(filepath) {
   }
 }
 
-// --- Main Debugging Logic ---
+// --- Main Concordance Logic ---
 
-async function debugBook(bookLower) {
+async function debugBookConcordance(bookLower) {
   const bookInfo = BOOK_MAP[bookLower];
   if (typeof bookInfo == "undefined") {
     console.log("Libro desconocido: ", bookLower);
@@ -176,7 +214,7 @@ async function debugBook(bookLower) {
   }
 
   const bookDisplayName = bookInfo.display;
-  console.log(`\n\n--- Analyzing ${bookDisplayName} ---\n`);
+  console.log(`\n\n--- Analyzing Concordance for ${bookDisplayName} ---\n`);
   console.log("======================================================");
 
   const spatdpBookFilepath = `${bookLower}.gbfxml`;
@@ -292,42 +330,56 @@ async function debugBook(bookLower) {
   return { totalMismatches, totalUntranslated, totalExceptions };
 }
 
-async function main() {
-  console.log("Starting refined New Testament concordance analysis...");
-  let grandTotalMismatches = 0;
-  let grandTotalUntranslated = 0;
-  let grandTotalExceptions = 0;
-  const booksWithIssues = new Set();
 
-  for (const bookLower of Object.keys(BOOK_MAP)) {
-    const { totalMismatches, totalUntranslated, totalExceptions } = await debugBook(bookLower);
-    if (totalMismatches > 0) {
-      grandTotalMismatches += totalMismatches;
-      booksWithIssues.add(BOOK_MAP[bookLower].display);
-    }
-    if (totalUntranslated > 0) {
-      grandTotalUntranslated += totalUntranslated;
-      booksWithIssues.add(BOOK_MAP[bookLower].display);
-    }
-    if (totalExceptions > 0) {
-      grandTotalExceptions += totalExceptions;
+// --- Main Execution Logic ---
+
+async function main() {
+  const args = process.argv.slice(2);
+  const validationModeArg = args.find(arg => arg.startsWith('--validation-mode='));
+  const validationMode = validationModeArg ? validationModeArg.split('=')[1] : 'concordance';
+  
+  const booksToValidate = args.filter(arg => !arg.startsWith('--'));
+
+  const targetBooks = booksToValidate.length > 0 ? booksToValidate : Object.keys(BOOK_MAP);
+
+  if (validationMode === 'format' || validationMode === 'all') {
+    for (const book of targetBooks) {
+        validateBookFormat(book);
     }
   }
 
-  console.log("\n\n\n======================================================");
-  console.log("            Full New Testament Analysis Summary");
-  console.log("======================================================");
-  console.log(`Untranslated Verses: ${grandTotalUntranslated} total.`);
-  console.log(`Noted Exceptions (Correct): ${grandTotalExceptions} total (reported for clarity, not errors).`);
-  console.log(`True Mismatches: ${grandTotalMismatches} total verses requiring review.`);
-  if(booksWithIssues.size > 0) console.log(`  (Issues found in: ${Array.from(booksWithIssues).join(', ')})`);
+  if (validationMode === 'concordance' || validationMode === 'all') {
+      console.log("\n\nStarting refined New Testament concordance analysis...");
+      let grandTotalMismatches = 0;
+      let grandTotalUntranslated = 0;
+      let grandTotalExceptions = 0;
+      const booksWithIssues = new Set();
+
+      for (const book of targetBooks) {
+        const { totalMismatches, totalUntranslated, totalExceptions } = await debugBookConcordance(book);
+        if (totalMismatches > 0) {
+          grandTotalMismatches += totalMismatches;
+          booksWithIssues.add(BOOK_MAP[book].display);
+        }
+        if (totalUntranslated > 0) {
+          grandTotalUntranslated += totalUntranslated;
+          booksWithIssues.add(BOOK_MAP[book].display);
+        }
+        if (totalExceptions > 0) {
+          grandTotalExceptions += totalExceptions;
+        }
+      }
+
+      console.log("\n\n\n======================================================");
+      console.log("            Full New Testament Analysis Summary");
+      console.log("======================================================");
+      console.log(`Untranslated Verses: ${grandTotalUntranslated} total.`);
+      console.log(`Noted Exceptions (Correct): ${grandTotalExceptions} total (reported for clarity, not errors).`);
+      console.log(`True Mismatches: ${grandTotalMismatches} total verses requiring review.`);
+      if(booksWithIssues.size > 0) console.log(`  (Issues found in: ${Array.from(booksWithIssues).join(', ')})`);
+  }
+
   console.log("\nAnalysis complete.");
 }
 
-if (process.argv.length == 2) {
-  main()
-} else {
-  for (let i = 2; i < process.argv.length; i++) {
-    debugBook(process.argv[i])
-  }
-}
+main();
