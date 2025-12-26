@@ -225,6 +225,14 @@ const KNOWN_EXCEPTIONS = {
       }
     }
   },
+  'timoteo1': {
+    '4': {
+      '8': {
+        missingInKjv2003: ['G3588-19'],
+        reason: 'Fidelidad al TR. SpaTDP incluye el artículo "τῆς" (G3588) antes de "νῦν", que la base KJV2003 omite.'
+      }
+    }
+  },
   'hebreos': {
     '1': {
       '3': { missingInKjv2003: ['G3588-13'], reason: 'SpaTDP correctly includes the article [τοῦ] based on Textus Receptus.' }
