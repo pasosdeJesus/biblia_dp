@@ -4396,15 +4396,51 @@ una </t>
 <sv id="Hebreos-10-28">
 A man who disregards Moses´ law dies
 without compassion on the word of two or three witnesses.
+<t xml:lang="es"><wi type="G" value="5100,2,">El que</wi>
+<wi type="G" value="114,1,">desprecia</wi>
+<wi type="G" value="3551,3,">la ley</wi>
+<wi type="G" value="3475,4,">de Moisés</wi>
+<wi type="G" value="599,12,">muere</wi>
+<wi type="G" value="5565,5,">sin</wi>
+<wi type="G" value="3628,6,">compasión</wi>
+<wi type="G" value="1909,7,">por</wi>
+<wi type="G" value="1417,8,">dos</wi>
+<wi type="G" value="2228,9,">o</wi>
+<wi type="G" value="5140,10,">tres</wi>
+<wi type="G" value="3144,11,">testigos</wi>.
+</t>
 </sv>
+
 <sv id="Hebreos-10-29">
 How much
 worse punishment, do you
-<wi type="T" value="P"/> think, will he be judged worthy of, who has
+think, will he be judged worthy of, who has
 trodden under foot the Son of God, and has counted the blood of the covenant
 with which he was sanctified an unholy thing, and has insulted the Spirit of
 grace?
+<t xml:lang="es">¿<wi type="G" value="4214,1,">Cuan</wi>
+<wi type="G" value="5501,3,">peor</wi>
+<wi type="G" value="5098,5,">castigo</wi>,
+<wi type="G" value="1380,2,">piensan que</wi>
+<wi type="G" value="515,4,">merecerá</wi>
+<wi type="G" value="3588,6,">el que</wi>
+<wi type="G" value="2662,11,">haya pisoteado</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="5207,8,">al Hijo</wi></wi>
+<wi type="G" value="3588,9,"><wi type="G" value="2316,10,">de Dios</wi></wi>,
+<wi type="G" value="2532,12,">y</wi> que
+<wi type="G" value="2233,18,">haya contado como</wi>
+<wi type="G" value="2839,17,">impura</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="129,14,">la sangre</wi></wi>
+<wi type="G" value="3588,15,"><wi type="G" value="1242,16,">del pacto</wi></wi>
+<wi type="G" value="1722,19,"><wi type="G" value="3739,20,">con la que</wi></wi>
+<wi type="G" value="37,21,">fue santificado</wi>
+<wi type="G" value="2532,22,">y</wi>
+que <wi type="G" value="1796,27,">haya insultado</wi>
+<wi type="G" value="3588,23,"><wi type="G" value="4151,24,">al Espíritu</wi></wi>
+<wi type="G" value="3588,25,"><wi type="G" value="5485,26,">de gracia</wi></wi>?
+</t>
 </sv>
+
 <sv id="Hebreos-10-30">
 For we know him who said, «Vengeance belongs to me,» says the
 Lord, «I will repay.» Again, «The Lord will judge his people.»
