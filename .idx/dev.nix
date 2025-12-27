@@ -43,8 +43,9 @@
     workspace = {
       # Runs when a workspace is first created
       onCreate = {
-        # Example: install JS dependencies from NPM
-        # npm-install = "npm install";
+        # Set up git user configuration
+        git-user-name = "git config --global user.name \"Vladimir Támara Patiño\"";
+        git-user-email = "git config --global user.email \"vtamara@pasosdeJesus.org\"";
       };
       # Runs when the workspace is (re)started
       onStart = {
@@ -54,4 +55,3 @@
     };
   };
 }
-
