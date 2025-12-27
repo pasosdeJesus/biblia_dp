@@ -61,11 +61,11 @@ but the wise took oil in their vessels with their lamps.
 <wi type="G" value="2983,4,">llevaron</wi>
 <wi type="G" value="1637,5,">aceite</wi>
 <wi type="G" value="1722,6,">en</wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="846,9,"/><wi type="G" value="30,8,">vasijas</wi>
+<wi type="G" value="846,9,">sus</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="30,8,">vasijas</wi>
 <wi type="G" value="3326,10,">junto con</wi>
 <wi type="G" value="846,13,">sus</wi>
-<wi type="G" value="3588,11,"/>
-<wi type="G" value="2985,12,">lámparas</wi>. </t>
+<wi type="G" value="3588,11,"/><wi type="G" value="2985,12,">lámparas</wi>. </t>
 </fr>
 </sv>
 <sv id="Mateo-25-5"><fr>
@@ -304,8 +304,7 @@ and traded with them, and made another five talents.
 </sv>
 <sv id="Mateo-25-17"><fr>
 In like manner he also who got the two gained another two.
-<t xml:lang="es"><wi type="G" value="2532,2,"/>
-<wi type="G" value="5615,1,">De la misma forma</wi>
+<t xml:lang="es"><wi type="G" value="2532,2,"/><wi type="G" value="5615,1,">De la misma forma</wi>
 <wi type="G" value="3588,3,">el que</wi>
 había recibido
 <wi type="G" value="3588,4,"/>
