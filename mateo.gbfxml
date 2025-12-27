@@ -5892,8 +5892,7 @@ que <wi type="G" value="34,19,">la piara</wi>
 <sv id="Mateo-8-33">
 Those who fed them fled, and went away into the city, and told everything,
 including what happened to those who were possessed with demons.
-<t xml:lang="es"><wi type="G" value="3588,1,"/>
-<wi type="G" value="1006,3,">Los que cuidaban</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1006,3,">Los que cuidaban</wi>
 <wi type="G" value="1161,2,"/>
 <wi type="G" value="5343,4,">huyeron</wi>
 <wi type="G" value="2532,5,">y</wi> <wi type="G" value="565,6,">fueron</wi>
@@ -8906,9 +8905,10 @@ how they might destroy him.
 <wi type="G" value="5330,3,">los fariseos</wi>
 <wi type="G" value="1831,8,">salieron</wi>
 y </t>
-<rb xml:lang="es"><wi type="G" value="2983,5,"/><wi type="G" value="4824,4,"/>conspiraron en
-<wi type="G" value="2596,6,">contra</wi> <wi type="G" value="846,7,"/>
-de Jesús<rf>
+<rb xml:lang="es"><wi type="G" value="2983,5,">tuvieron</wi>
+<wi type="G" value="4824,4,">un consejo</wi>
+<wi type="G" value="2596,6,">en contra</wi>
+<wi type="G" value="846,7,">de Él</wi><rf>
 <citebib id="WEB"/> dice `conspiraron en contra de Jesús,´
 <citebib id="KJV2003"/>
 dice `hicieron un consejo en contra de Él.´</rf></rb>
@@ -9668,20 +9668,20 @@ this evil generation.»
 <wi type="G" value="1525,13,">entran</wi>
 <wi type="G" value="2730,14,">y habitan</wi>
 <wi type="G" value="1563,15,">allí</wi>.
-<wi type="G" value="2532,16,"/><wi type="G" value="3588,18,"/>La situación
+<wi type="G" value="2532,16,">Y</wi>
+<wi type="G" value="3588,18,">el</wi>
 <wi type="G" value="2078,19,">final</wi>
-<wi type="G" value="3588,20,"/>
-<wi type="G" value="444,21,">de</wi>
+<wi type="G" value="3588,20,"/><wi type="G" value="444,21,">de</wi>
 <wi type="G" value="1565,22,">ese</wi>
 <wi type="GC" value="21"> hombre</wi>
 <wi type="G" value="1096,17,">es</wi>
 <wi type="G" value="5501,23,">peor</wi>
-<wi type="G" value="3588,24,"/><wi type="G" value="4413,25,">que al comienzo</wi>.
+<wi type="G" value="3588,24,">que el</wi>
+<wi type="G" value="4413,25,">comienzo</wi>.
 <wi type="G" value="2532,28,">También</wi>
 <wi type="G" value="2071,27,">será</wi>
 <wi type="G" value="3779,26,">así</wi>
-<wi type="G" value="3588,29,"/>
-<wi type="G" value="1074,30,">para</wi>
+<wi type="G" value="3588,29,"/><wi type="G" value="1074,30,">para</wi>
 <wi type="G" value="3778,31,">esta</wi>
 <wi type="G" value="3588,32,"/>
 <wi type="GC" value="30">generación</wi>
@@ -19333,11 +19333,14 @@ you tithe mint, dill, and
 <wi type="G" value="5273,6,">hipócritas</wi>!
 <wi type="G" value="3754,7,">Pues</wi>
 <wi type="G" value="586,8,">ustedes diezman</wi>
-<wi type="G" value="3588,9,"/><wi type="G" value="2238,10,">de la menta</wi>,
-<wi type="G" value="2532,11,"/><wi type="G" value="3588,12,"/><wi type="G" value="432,13,">del anís</wi>,
-<wi type="G" value="2532,14,"/>
-<wi type="G" value="3588,15,"/></t>
-<rb>cumin<t xml:lang="es"><wi type="G" value="2951,16,">del comino</wi></t><rf>
+<wi type="G" value="3588,9,">de la</wi>
+<wi type="G" value="2238,10,">menta</wi>,
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="3588,12,">del</wi>
+<wi type="G" value="432,13,">anís</wi>,
+<wi type="G" value="2532,14,">y
+<wi type="G" value="3588,15,">del</wi></t>
+<rb>cumin<t xml:lang="es"><wi type="G" value="2951,16,">comino</wi></t><rf>
 Cumin is an aromatic
 seed from Cuminum cyminum, resembling caraway in flavor and appearance.
 It is used as a spice.
@@ -19348,15 +19351,19 @@ mercy, and faith. But you
  ought to have done these, and not to have left
 the other undone.
 <t xml:lang="es">,
-<wi type="G" value="2532,17,">y</wi>
-<wi type="G" value="863,18,">han omitido</wi> las cosas
-<wi type="G" value="3588,19,"/>
+<wi type="G" value="2532,17,">pero</wi>
+<wi type="G" value="863,18,">han omitido</wi> 
+<wi type="G" value="3588,19,">las cosas</wi>
 <wi type="G" value="926,20,">más importantes</wi>
-<wi type="G" value="3588,21,"/><wi type="G" value="3551,22,">de la ley</wi>:
-<wi type="G" value="3588,23,"/><wi type="G" value="2920,24,">la justicia</wi>,
-<wi type="G" value="2532,25,"/><wi type="G" value="3588,26,"/><wi type="G" value="1656,27,">la misericordia</wi>,
+<wi type="G" value="3588,21,">de la</wi>
+<wi type="G" value="3551,22,">ley</wi>:
+<wi type="G" value="3588,23,">la</wi>
+<wi type="G" value="2920,24,">justicia</wi>,
+<wi type="G" value="2532,25,"/><wi type="G" value="3588,26,">la</wi>
+<wi type="G" value="1656,27,">misericordia</wi>,
 <wi type="G" value="2532,28,">y</wi>
-<wi type="G" value="3588,29,"/><wi type="G" value="4102,30,">la fe</wi>.
+<wi type="G" value="3588,29,">la</wi>
+<wi type="G" value="4102,30,">fe</wi>.
 <wi type="G" value="1163,32,">Ustedes debieron</wi>
 <wi type="G" value="4160,33,">haber hecho</wi>
 <wi type="G" value="5023,31,">estas cosas</wi>,
@@ -20945,11 +20952,11 @@ but the wise took oil in their vessels with their lamps.
 <wi type="G" value="2983,4,">llevaron</wi>
 <wi type="G" value="1637,5,">aceite</wi>
 <wi type="G" value="1722,6,">en</wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="846,9,"/><wi type="G" value="30,8,">vasijas</wi>
+<wi type="G" value="846,9,">sus</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="30,8,">vasijas</wi>
 <wi type="G" value="3326,10,">junto con</wi>
 <wi type="G" value="846,13,">sus</wi>
-<wi type="G" value="3588,11,"/>
-<wi type="G" value="2985,12,">lámparas</wi>. </t>
+<wi type="G" value="3588,11,"/><wi type="G" value="2985,12,">lámparas</wi>. </t>
 </fr>
 </sv>
 <sv id="Mateo-25-5"><fr>
@@ -21188,8 +21195,7 @@ and traded with them, and made another five talents.
 </sv>
 <sv id="Mateo-25-17"><fr>
 In like manner he also who got the two gained another two.
-<t xml:lang="es"><wi type="G" value="2532,2,"/>
-<wi type="G" value="5615,1,">De la misma forma</wi>
+<t xml:lang="es"><wi type="G" value="2532,2,"/><wi type="G" value="5615,1,">De la misma forma</wi>
 <wi type="G" value="3588,3,">el que</wi>
 había recibido
 <wi type="G" value="3588,4,"/>
