@@ -4444,11 +4444,36 @@ que <wi type="G" value="1796,27,">haya insultado</wi>
 <sv id="Hebreos-10-30">
 For we know him who said, «Vengeance belongs to me,» says the
 Lord, «I will repay.» Again, «The Lord will judge his people.»
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1492,1,">conocemos</wi>
+<wi type="G" value="3588,3,">al que</wi>
+<wi type="G" value="2036,4,">dijo</wi>,
+«<wi type="G" value="1557,6,">La venganza</wi> es
+<wi type="G" value="1698,5,">mía</wi>,»
+<wi type="G" value="3004,9,">dijo</wi>
+<wi type="G" value="2962,10,">el Señor</wi>,
+«<wi type="G" value="1473,7,">Yo</wi>
+<wi type="G" value="467,8,">recompensaré</wi>.»
+<wi type="G" value="2532,11,">Y</wi>
+<wi type="G" value="3825,12,">otra vez</wi>,
+«<wi type="G" value="2962,13,">El Señor</wi>
+<wi type="G" value="2919,14,">juzgará</wi>
+<wi type="G" value="846,17,">a su</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="2992,16,">pueblo</wi></wi>.»
+</t>
 </sv>
+
 <sv id="Hebreos-10-31">
 It is a
 fearful thing to fall into the hands of the living God.
+<t xml:lang="es"><wi type="G" value="5398,1,">Temible</wi> es
+<wi type="G" value="3588,2,"/><wi type="G" value="1706,3,">caer</wi>
+<wi type="G" value="1519,4,">en</wi>
+<wi type="G" value="5495,5,">las manos</wi>
+<wi type="G" value="2316,6,">del Dios</wi>
+<wi type="G" value="2198,7,">vivo</wi>.</t>
 </sv>
+
 <sv id="Hebreos-10-32">
 But remember
 the former days, in which, after you
