@@ -6,12 +6,9 @@
 
   # Use https://search.nixos.org/packages to find packages
   packages = [
-    # pkgs.go
-    # pkgs.python311
-    # pkgs.python311Packages.pip
-    # pkgs.nodejs_20
-    # pkgs.nodePackages.nodemon
-    pkgs.openjade
+    pkgs.openjade,
+    pkgs.bmake,
+    pkgs.texlive.combined.scheme-tetex
   ];
 
   # Sets environment variables in the workspace
@@ -51,6 +48,7 @@
       onStart = {
         # Example: start a background task to watch and re-build backend code
         # watch-backend = "npm run watch-backend";
+        make-alias = "alias make='bmake'";
       };
     };
   };
