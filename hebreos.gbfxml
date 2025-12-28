@@ -4475,16 +4475,39 @@ fearful thing to fall into the hands of the living God.
 </sv>
 
 <sv id="Hebreos-10-32">
-But remember
-the former days, in which, after you
-<wi type="T" value="P"/> were enlightened, you
-<wi type="T" value="P"/> endured
-a great struggle with sufferings;
+But remember the former days, in which, after you
+were enlightened, you endured a great struggle with sufferings;
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="363,1,">recuerden</wi>
+<wi type="G" value="2250,5,">los días</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="4386,4,">anteriores</wi>,
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="3739,7,">los que</wi>,
+<wi type="G" value="5461,8,">tras ser iluminados</wi>,
+<wi type="G" value="5278,11,">soportaron</wi>
+<wi type="G" value="4183,9,">una gran</wi>
+<wi type="G" value="119,10,">pelea</wi>
+<wi type="G" value="3804,12,">con sufrimientos</wi>;</t>
 </sv>
 <sv id="Hebreos-10-33">
 partly, being exposed to both
 reproaches and oppressions; and partly, becoming partakers with those who
 were treated so.
+<t xml:lang="es"><wi type="G" value="5124,1,">en parte</wi>,
+<wi type="G" value="3303,2,">ciertamente</wi>,
+<wi type="G" value="2301,7,">expuestos</wi>
+<wi type="G" value="5037,4,">tanto</wi>
+<wi type="G" value="3680,3,">a reproches</wi>
+<wi type="G" value="2532,5,">como a</wi>
+<wi type="G" value="2347,6,">aflicciones</wi>;
+<wi type="G" value="1161,9,">y</wi>
+<wi type="G" value="5124,8,">en parte</wi>,
+<wi type="G" value="1096,14,">volviéndose</wi>
+<wi type="G" value="2844,10,">copartícipes</wi>
+con <wi type="G" value="3588,11,">los que</wi>
+<wi type="G" value="3779,12,">así</wi>
+<wi type="G" value="390,13,">vivían</wi>.
+</t>
 </sv>
 <sv id="Hebreos-10-34">
 For you
