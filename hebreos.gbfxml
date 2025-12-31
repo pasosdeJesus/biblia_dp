@@ -4591,9 +4591,28 @@ God, you may receive the promise.
 <cm type="PO">
 <sv id="Hebreos-10-37">
 «In a very little while,
+<t xml:lang="es">
+«<wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2089,1,">aún</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3745,4,"><wi type="G" value="3745,5,">muy, muy</wi></wi>
+<wi type="G" value="3397,3,">poco</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `muy corto lapso,´
+<citebib id="RVG2012"/> dice `un poquito.´
+Según <citebib id="Thayer-BLB"/> en griego bíblico la expresión
+`μικρόν ὅσον ὅσον´ se traduce como un muy corto lapso.
+</rf></rb>
+<t xml:lang="es">,
+</t>
 <cl/>
 He who comes will come, and will not wait.
-
+<t xml:lang="es">Y
+<wi type="G" value="3588,6,">el que</wi>
+<wi type="G" value="2064,7,">ha de venir</wi>
+<wi type="G" value="2240,8,">vendrá</wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="3756,10,">no</wi>
+<wi type="G" value="5549,11,">tardará</wi>.
+</t>
 </sv></cm>
 
 <cm type="PO">

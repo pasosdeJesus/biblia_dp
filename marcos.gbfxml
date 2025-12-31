@@ -242,7 +242,8 @@ I baptized you
 <t xml:lang="es"><wi type="G" value="1722,5,">en</wi></t>
 <rf>The Greek word (en) translated
 here as «in» could also be translated as «with» in some contexts.
-<t xml:lang="es">La palabra griega ἐν, según <citebib id="Thayer-BLB"/>
+<t xml:lang="es">
+La palabra griega ἐν, según <citebib id="Thayer-BLB"/>
 puede traducirse por ejemplo como en, por, con.  En este versículo
 <citebib id="KJV2003"/>
 la traduce como «con», mientras que <citebib id="WEB"/> la traduce como
@@ -380,8 +381,8 @@ en custodia. Fue entregado para ser encarcelado. </rf></rb>
 </sv>
 <sv id="Marcos-1-15">
 and saying,
-<t xml:lang="es"><wi type="G" value="2532,1,"/>
-<wi type="G" value="3004,2,">diciendo</wi>,
+<t xml:lang="es">
+<wi type="G" value="2532,1,"/><wi type="G" value="3004,2,">diciendo</wi>,
 <wi type="G" value="3754,3,"/> </t>
 <fr>«The time
 is fulfilled, and the Kingdom of God is at hand! Repent
@@ -2045,7 +2046,8 @@ out to seize him: for they said, «He is insane.»
 The scribes who came
 down from Jerusalem said, «He has Beelzebul,» and, «By the prince of the
 demons he casts out the demons.»
-<t xml:lang="es"><wi type="G" value="2532,1,"/>
+<t xml:lang="es">
+<wi type="G" value="2532,1,"/>
 <wi type="G" value="3588,2,"><wi type="G" value="1122,3,">Los maestros de la ley</wi></wi>
 <wi type="G" value="3588,4,">que</wi>
 <wi type="G" value="2597,7,">llegaron</wi>
@@ -2600,8 +2602,8 @@ The farmer sows the word.
 These are the ones by the road, where the word is sown; and when they
 have heard, immediately Satan comes, and takes away the word which has been
 sown in them.
-<t xml:lang="es"><wi type="G" value="1161,2,"/>
-<wi type="G" value="3778,1,">Estas que</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,"/><wi type="G" value="3778,1,">Estas que</wi>
 <wi type="G" value="1526,3,">están</wi>
 <wi type="G" value="3588,4,"/>
 <wi type="G" value="3844,5,">sobre</wi>

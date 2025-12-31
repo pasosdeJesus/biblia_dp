@@ -8,6 +8,8 @@
  * - Skips concordance analysis for untranslated verses to provide a cleaner report.
  * - Reads exceptions from an external `herram/excepciones.json` file.
  * - Validates XML format, including spacing, punctuation, and tag structure.
+ *
+ * herram/validador.mjs  --validation-mode=all
  */
 
 import fs from 'fs';
