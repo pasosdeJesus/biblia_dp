@@ -2677,8 +2677,7 @@ cuando
 <sv id="Marcos-4-18"><fr>
 Others are those who are sown among the thorns. These are those who
 have heard the word,
-<t xml:lang="es"><wi type="G" value="2532,1,"/>
-<wi type="G" value="3778,2,">Estas</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3778,2,">Estas</wi>
 <wi type="G" value="1526,3,">son</wi>
 <wi type="G" value="3588,4,"/>
 <wi type="G" value="4687,8,">las sembradas</wi>
@@ -2893,8 +2892,7 @@ earth,
 <sv id="Marcos-4-27"><fr>
 and should sleep and rise night and day, and the seed should
 spring up and grow, he doesn´t know how.
-<t xml:lang="es"><wi type="G" value="2532,1,"/>
-<wi type="G" value="2518,2,">debe dormir</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2518,2,">debe dormir</wi>
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="1453,4,">levantarse</wi>
 <wi type="G" value="3571,5,">noche</wi>
@@ -2919,7 +2917,8 @@ For the earth bears fruit:
 first the blade, then the ear, then the full grain in the ear.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="1093,4,">la tierra</wi></wi>
-<wi type="G" value="2592,5,">da frutos</wi><wi type="G" value="844,1,"/>:
+<wi type="G" value="2592,5,">da frutos</wi>
+<wi type="G" value="844,1,">por si misma</wi>:
 <wi type="G" value="4412,6,">primero</wi>
 <wi type="G" value="5528,7,">la hoja</wi>,
 <wi type="G" value="1534,8,">luego</wi>
@@ -2937,7 +2936,8 @@ the fruit is ripe, immediately he puts forth the sickle, because the harvest
 has come.»
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="3752,1,">cuando</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="2590,5,">el fruto</wi></wi>
+<wi type="G" value="3588,4,">el</wi>
+<wi type="G" value="2590,5,">fruto</wi>
 <wi type="G" value="3860,3,">está maduro</wi>,
 <wi type="G" value="2112,6,">inmediatamente</wi>
 <wi type="G" value="649,7,">él saca</wi>
@@ -3354,8 +3354,7 @@ He asked him,
 </fr>
 <cl/>
 He said to him, «My name is legion, for we are many.»
-<t xml:lang="es"><wi type="G" value="2532,7,"/>
-<wi type="G" value="611,8,">él contestó</wi>
+<t xml:lang="es"><wi type="G" value="2532,7,"/><wi type="G" value="611,8,">él contestó</wi>
 <wi type="G" value="3004,9,">diciendo</wi>,
 «<wi type="G" value="3427,12,">Mi</wi>
 <wi type="G" value="3686,11,">nombre</wi>
@@ -3417,8 +3416,7 @@ him, saying, «Send us into the pigs, that we may enter into them.»
 At once Jesus gave them permission. The unclean spirits came out and
 entered into the pigs. The herd of about two thousand rushed down the steep
 bank into the sea, and they were drowned in the sea.
-<t xml:lang="es"><wi type="G" value="2532,1,"/>
-<wi type="G" value="2112,4,">Al momento</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2112,4,">Al momento</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="2424,6,">Jesús</wi></wi>
 <wi type="G" value="846,3,">les</wi>
 <wi type="G" value="2010,2,">dio permiso</wi>.
@@ -3752,8 +3750,7 @@ en <wi type="G" value="3588,11,"><wi type="G" value="4983,12,">el cuerpo</wi></w
 <sv id="Marcos-5-30">
 Immediately Jesus, perceiving in himself that the power had gone out
 from him, turned around in the crowd, and asked,
-<t xml:lang="es"><wi type="G" value="2532,1,"/>
-<wi type="G" value="2112,2,">De inmediato</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2112,2,">De inmediato</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="2424,4,">Jesús</wi></wi>,
 <wi type="G" value="1921,5,">percibió</wi>
 <wi type="G" value="1722,6,">en</wi>
@@ -3876,7 +3873,7 @@ de la sinagoga</wi></wi>
 <sv id="Marcos-5-36">
 But Jesus, when he heard the message spoken, immediately said to the
 ruler of the synagogue,
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,"/>Pero
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="2424,3,">Jesús</wi>,
 <wi type="G" value="191,5,">al oír</wi>
 <wi type="G" value="3588,6,"><wi type="G" value="3056,7,">el mensaje</wi></wi>,
@@ -4031,8 +4028,7 @@ se traduce como decir o hablar.</rf></rb>
 <sv id="Marcos-6-1">
 He went out from there. He came into his own country, and his
 disciples followed him.
-<t xml:lang="es"><wi type="G" value="2532,1,"/>
-<wi type="G" value="1831,2,">Salió</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="1831,2,">Salió</wi>
 <wi type="G" value="1564,3,">de allí</wi>,
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="2064,5,">llegó</wi>
@@ -4429,8 +4425,7 @@ le <wi type="G" value="3004,1,">había dicho</wi>
 <sv id="Marcos-6-19">
 Herodías set herself against him, and desired to kill
 him, but she couldn´t,
-<t xml:lang="es"><wi type="G" value="3588,1,"/>
-<wi type="G" value="1161,2,">Entonces</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Entonces</wi>
 <wi type="G" value="2266,3,">Herodías</wi>
 <wi type="G" value="1758,4,">se puso en contra</wi> de
 <wi type="G" value="846,5,">él</wi>,
@@ -5963,8 +5958,7 @@ he commanded them, so much the more widely they proclaimed it.
 They
 were astonished beyond measure, saying, «He has done all things well. He
 makes even the deaf hear, and the mute speak!»
-<t xml:lang="es"><wi type="G" value="2532,1,"/>
-<wi type="G" value="1605,3,">Estaban asombrados</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="1605,3,">Estaban asombrados</wi>
 <wi type="G" value="5249,2,">fuera de toda medida</wi> y
 <wi type="G" value="3004,4,">decían</wi>,
 «¡<wi type="G" value="4160,7,">Él ha hecho</wi>
@@ -6237,10 +6231,11 @@ loaf in the boat with them.
 <wi type="G" value="2983,3,">traer</wi>
 <wi type="G" value="740,4,">pan</wi>;
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="1487,6,"/><wi type="G" value="3361,7,"/><wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="1722,14,">en</wi>
 <wi type="G" value="3588,15,"><wi type="G" value="4143,16,">el bote</wi></wi>
 <wi type="G" value="3756,10,">no</wi>
-<wi type="G" value="2192,11,">tenían</wi> más que
+<wi type="G" value="2192,11,">tenían</wi> 
+<wi type="G" value="1487,6,"/><wi type="G" value="3361,7,">más que</wi>
 <wi type="G" value="1520,8,">un</wi>
 <wi type="G" value="740,9,">pan</wi>
 <wi type="G" value="3326,12,"><wi type="G" value="1438,13,">consigo</wi></wi>. </t>
@@ -7836,7 +7831,8 @@ como `fronteras de una región, distrito tierra o territorio.´</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3588,7,"><wi type="G" value="2449,8,">de Judea</wi></wi>,
 </t>
-<rb xml:lang="es"><wi type="G" value="1223,9,"/><wi type="G" value="3588,10,"/><wi type="G" value="4008,11,">al otro lado</wi><rf>
+<rb xml:lang="es"><wi type="G" value="1223,9,"/><wi type="G" value="3588,10,">al</wi>
+<wi type="G" value="4008,11,">otro lado</wi><rf>
 <citebib id="WEB"/> dice `y más allá del Jordán,´
 <citebib id="KJV2003"/> dice `por el lado más lejano del Jordán,´
 <citebib id="RV1960"/> dice `al otro lado del Jordán,´
@@ -7847,8 +7843,8 @@ En Marcos 9:30 dice que habían pasado por Galilea, examinando un mapa
 como https://en.wikipedia.org/wiki/Perea#/media/File:First_century_Iudaea_province.gif
 se ve Samaria entre Galilea y Judea
 y a la derecha (es decir al oriente) cruzando el río Jordán está Perea.
-Aunque Perea no se menciona explícitamente en los evangelios es bien posible que 
-Jesús y sus discípulos hubieran cruzado el Jordán (al otro lado, del lado
+Aunque Perea no se menciona explícitamente en los evangelios es bien posible
+que Jesús y sus discípulos hubieran cruzado el Jordán (al otro lado, del lado
 occidental al lado oriental) para llegar a Perea.
 </rf></rb>
 <t xml:lang="es">,
@@ -8642,7 +8638,8 @@ and to be baptized with the baptism that I am baptized with?»
 <cm>
 <sv id="Marcos-10-39">
 They said to him, «We are able.»
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,"/><wi type="G" value="2036,3,">Ellos</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="2036,3,">ellos</wi>
 <wi type="G" value="846,4,">le</wi>
 <wi type="GC" value="3">dijeron</wi>,
 «<wi type="G" value="3588,6,"/><wi type="G" value="1410,5,">Si podemos</wi>.» </t>
@@ -8709,7 +8706,9 @@ John.
 <cm>
 <sv id="Marcos-10-42">
 Jesus summoned them, and said to them,
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,"/><wi type="G" value="2424,3,">Jesús</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G"
+value="1161,2,">Y</wi>
+<wi type="G" value="2424,3,">Jesús</wi>
 <wi type="G" value="846,5,">los</wi>
 <wi type="G" value="4341,4,">llamó</wi>
 y
@@ -8906,7 +8905,7 @@ Jesus asked him,
 <wi type="G" value="2309,8,">quieres</wi>
 <wi type="GC" value="7">que</wi>
 <wi type="G" value="4160,9,">haga</wi>
-<wi type="G" value="4671,10,">por ti</wi><wi type="G" value="3588,11,"/>?» </t>
+<wi type="G" value="3588,11,"/><wi type="G" value="4671,10,">por ti</wi>?» </t>
 </fr>
 
 <cl/>
@@ -9076,7 +9075,9 @@ doing, untying the young donkey?»
 <sv id="Marcos-11-6">
 They said to
 them just as Jesus had said, and they let them go.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,"/><wi type="G" value="846,4,">Les</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G"
+value="1161,2,">Y</wi>
+<wi type="G" value="846,4,">les</wi>
 <wi type="G" value="2036,3,">dijeron</wi>
 <wi type="G" value="2531,5,">tal como</wi>
 <wi type="G" value="3588,7,"><wi type="G" value="2424,8,">Jesús</wi></wi>
@@ -9686,7 +9687,8 @@ farmer his share of the fruit of the vineyard.
 </sv>
 <sv id="Marcos-12-3"><fr>
 They took him, beat him, and sent him away empty.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,"/><wi type="G" value="846,4,">Lo</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="846,4,">lo</wi>
 <wi type="G" value="2983,3,">tomaron</wi>,
 <wi type="G" value="1194,5,">golpearon</wi>,
 <wi type="G" value="2532,6,">y</wi>
@@ -9975,7 +9977,7 @@ He said to them,
 <wi type="G" value="3778,10,">esta</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="1504,9,">imagen</wi></wi>
 <wi type="G" value="2532,11,">e</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="1923,13,">inscripción</wi></wi><wi type="G" value="3588,14,"/>?» </t>
+<wi type="G" value="3588,14,"/><wi type="G" value="3588,12,"><wi type="G" value="1923,13,">inscripción</wi></wi>?» </t>
 </fr>
 
 <cl/>
@@ -11657,7 +11659,8 @@ lo <wi type="G" value="191,3,">escucharon</wi>,
 On the first day of unleavened bread, when
 they sacrificed the Passover, his disciples asked him, «Where do you want us
 to go and make ready that you may eat the Passover?»
-<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3588,2,"/><wi type="G" value="4413,3,">El primer</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="4413,3,">el primer</wi>
 <wi type="G" value="2250,4,">día</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="106,6,">de pan sin levadura</wi>,
 <wi type="G" value="3753,7,">cuando</wi>
@@ -11905,8 +11908,10 @@ He said to them,
 <t xml:lang="es">«<wi type="G" value="5124,4,">Esta</wi>
 <wi type="G" value="2076,5,">es</wi>
 <wi type="G" value="3450,8,">mi</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="129,7,">sangre</wi></wi>
-<wi type="G" value="3588,9,"/><wi type="G" value="3588,10,"/><wi type="G" value="2537,11,">de la nueva</wi> </t>
+<wi type="G" value="3588,6,"><wi type="G" value="129,7,">sangre</wi></wi>,
+<wi type="G" value="3588,9,">la</wi>
+<wi type="G" value="3588,10,">de la</wi>
+<wi type="G" value="2537,11,">nueva</wi> </t>
 <rb xml:lang="es"><wi type="G" value="1242,12,">alianza</wi><rf><citebib id="WEB"/>
 dice `alianza,´ <citebib id="KJV2003"/> dice `testamento.´ Según
 <citebib id="Thayer-lexicon"/> la palabra griega `διαθήκη´ se puede
@@ -13551,7 +13556,9 @@ went in to Pilate, and asked for Jesus´ body.
 <sv id="Marcos-15-44">
 Pilate marveled if he were already dead; and summoning the centurión,
 he asked him whether he had been dead long.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,"/><wi type="G" value="4091,3,">Pilato</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G"
+value="1161,2,">Y</wi>
+<wi type="G" value="4091,3,">Pilato</wi>
 <wi type="G" value="2296,4,">se asombró</wi>
 <wi type="G" value="1487,5,">porque</wi>
 <wi type="G" value="2235,6,">ya</wi>
