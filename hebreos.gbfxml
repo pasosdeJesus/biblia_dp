@@ -4618,22 +4618,22 @@ He who comes will come, and will not wait.
 <cm type="PO">
 <sv id="Hebreos-10-38">
 But the righteous will live by faith.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi> 
-<wi type="G" value="1342,3,">el justo</wi> 
-<wi type="G" value="2198,6,">vivirá</wi> 
-<wi type="G" value="1537,4,">por</wi> 
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="1342,3,">el justo</wi>
+<wi type="G" value="2198,6,">vivirá</wi>
+<wi type="G" value="1537,4,">por</wi>
 <wi type="G" value="4102,5,">la fe</wi>.</t>
 <cl/>
 If he shrinks back, my soul has no pleasure in him.»
 <t xml:lang="es">
-<wi type="G" value="2532,7,">Más</wi> 
+<wi type="G" value="2532,7,">Más</wi>
 <wi type="G" value="1437,8,">si</wi>
-<wi type="G" value="5288,9,">retrocede</wi>, 
-<wi type="G" value="3450,14,">mi</wi> 
-<wi type="G" value="3588,12,"><wi type="G" value="5590,13,">alma</wi></wi> 
-<wi type="G" value="3756,10,">no</wi> 
-<wi type="G" value="2106,11,">se complacerá</wi> 
-<wi type="G" value="1722,15,">en</wi> 
+<wi type="G" value="5288,9,">retrocede</wi>,
+<wi type="G" value="3450,14,">mi</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="5590,13,">alma</wi></wi>
+<wi type="G" value="3756,10,">no</wi>
+<wi type="G" value="2106,11,">se complacerá</wi>
+<wi type="G" value="1722,15,">en</wi>
 <wi type="G" value="846,16,">él</wi>.»
 </t>
 </sv></cm>
@@ -4642,17 +4642,17 @@ If he shrinks back, my soul has no pleasure in him.»
 <sv id="Hebreos-10-39">
 But we are not of those who shrink back to destruction, but of those
 who have faith to the saving of the soul.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> 
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="2249,1,">nosotros</wi>
-<wi type="G" value="3756,3,">no</wi> 
-<wi type="G" value="2070,4,">somos</wi> 
-<wi type="G" value="5289,5,">de los que retroceden</wi> 
-<wi type="G" value="1519,6,">a</wi> 
+<wi type="G" value="3756,3,">no</wi>
+<wi type="G" value="2070,4,">somos</wi>
+<wi type="G" value="5289,5,">de los que retroceden</wi>
+<wi type="G" value="1519,6,">a</wi>
 <wi type="G" value="684,7,">la destrucción</wi>,
-<wi type="G" value="235,8,">sino</wi> 
-<wi type="G" value="4102,9,">de los creyentes</wi> 
-<wi type="G" value="1519,10,">en</wi> 
-<wi type="G" value="4047,11,">la salvación</wi> 
+<wi type="G" value="235,8,">sino</wi>
+<wi type="G" value="4102,9,">de los creyentes</wi>
+<wi type="G" value="1519,10,">en</wi>
+<wi type="G" value="4047,11,">la salvación</wi>
 <wi type="G" value="5590,12,">del alma</wi>.
 </t>
 <cl/>
@@ -4664,10 +4664,28 @@ who have faith to the saving of the soul.
 <sv id="Hebreos-11-1">
 Now faith is assurance of things hoped for, proof of things not
 seen.
+<t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>
+<wi type="G" value="4102,3,">la fe</wi>
+<wi type="G" value="2076,1,">es</wi>
+<wi type="G" value="5287,5,">seguridad</wi> de lo que
+<wi type="G" value="1679,4,">se espera</wi>,
+<wi type="G" value="1650,7,">la evidencia</wi>
+<wi type="G" value="4229,6,">de cosas</wi>
+<wi type="G" value="3756,8,">que no</wi>
+<wi type="G" value="991,9,">se han visto</wi>.
+</t>
 </sv>
+
 <sv id="Hebreos-11-2">
 For by this, the elders obtained testimony.
+<t xml:lang="es"><wi type="G" value="1063,3,">Pues</wi>
+<wi type="G" value="1722,1,">mediante</wi>
+<wi type="G" value="3778,2,">esta</wi>,
+<wi type="G" value="3588,5,">los</wi>
+<wi type="G" value="4245,6,">ancianos</wi>
+<wi type="G" value="3140,4,">obtuvieron testimonio</wi>.</t>
 </sv>
+
 <sv id="Hebreos-11-3">
 By faith, we
 understand that the universe has been framed by the word of God, so that what

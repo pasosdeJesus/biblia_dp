@@ -218,8 +218,7 @@ the Lord and burn incense.
 <sv id="Lucas-1-10">
 The whole multitude of the people were
 praying outside at the hour of incense.
-<t xml:lang="es"><wi type="G" value="2532,1,"/>
-<wi type="G" value="3956,2,">Toda</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3956,2,">Toda</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="4128,4,">una multitud</wi></wi>
 <wi type="G" value="3588,5,"><wi type="G" value="2992,6,">de gente</wi></wi>
 <wi type="G" value="2258,7,">estaba</wi>
@@ -1823,8 +1822,11 @@ thing that has happened, which the Lord has made known to us.»
 <wi type="G" value="846,6,">ellos</wi>
 <wi type="G" value="1519,7,">hacia</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="3772,9,">el cielo</wi></wi>,
-<wi type="G" value="2532,12,"/>que <wi type="G" value="3588,15,"><wi type="G" value="4166,16,">los pastores</wi></wi>
-<wi type="G" value="3588,13,"/><wi type="G" value="444,14,"/><wi type="G" value="2036,17,">se dijeron</wi>
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="3588,13,">los</wi> 
+<wi type="G" value="444,14,">hombres</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="4166,16,">pastores</wi></wi>
+<wi type="G" value="2036,17,">se dijeron</wi>
 <wi type="G" value="240,19,">unos</wi>
 <wi type="G" value="4314,18,">a</wi>
 <wi type="GC" value="19">otros</wi>,
@@ -1850,8 +1852,10 @@ the feeding trough.
 <wi type="G" value="4692,3,">de prisa</wi>
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="429,5,">encontraron</wi>
-<wi type="G" value="3588,6,"/><wi type="G" value="5037,7,"/><wi type="G" value="3137,8,">a María</wi>,
-<wi type="G" value="2532,9,"/><wi type="G" value="3588,10,"/><wi type="G" value="2501,11,">a José</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="5037,7,">tanto a</wi>
+<wi type="G" value="3137,8,">María</wi>,
+<wi type="G" value="2532,9,">como a</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="2501,11,">José</wi>
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="1025,14,">al Bebé</wi></wi>
 <wi type="G" value="2749,15,">acostado</wi>
@@ -5953,8 +5957,9 @@ les <wi type="G" value="1325,12,">darán</wi></t>
 <wi type="G" value="5216,16,">sus</wi>
 <wi type="G" value="3588,14,"><wi type="G" value="2859,15,">bolsas</wi></wi></t>
 <rf>literally, into your bosom.
-<t xml:lang="es">Literalmente, en sus pechos. <citebib id="DiosHablaHoy"/>
-dice `en sus bolsas,´ <citebib id="RV1960"/> dice `en su regazo,´ según
+<t xml:lang="es">Literalmente, en sus pechos. 
+<citebib id="DiosHablaHoy"/> dice `en sus bolsas,´ 
+<citebib id="RV1960"/> dice `en su regazo,´ según
 <citebib id="Thayer-BLB"/> la palabra griega `κόλπος´ se traduce como
 pecho o bolsa.
 </t></rf></rb>
