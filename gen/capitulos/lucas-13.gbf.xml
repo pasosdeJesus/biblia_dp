@@ -143,7 +143,7 @@ trabajadores.´</rf></rb>
 <wi type="G" value="2094,8,">años</wi>
 <wi type="G" value="2064,9,">he venido</wi>
 <wi type="G" value="2212,10,">buscando</wi>
-<wi type="G" value="2590,11,">frutas</wi>
+<wi type="G" value="2590,11,">frutos</wi>
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="3778,15,">esta</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="4808,14,">higuera</wi></wi>,
@@ -153,8 +153,9 @@ trabajadores.´</rf></rb>
 <wi type="G" value="1581,19,"><wi type="G" value="846,20,">Córtala</wi></wi>.
 ¿<wi type="G" value="2443,21,">Para</wi>
 <wi type="G" value="2444,22,">qué</wi>
-<wi type="G" value="2532,23,"/><wi type="G" value="3588,24,"/><wi type="G" value="2673,26,">gastar</wi>
-<wi type="G" value="1093,25,">la tierra</wi>? </t>
+<wi type="G" value="2532,23,"/><wi type="G" value="2673,26,">gastar</wi>
+<wi type="G" value="3588,24,">la</wi>
+<wi type="G" value="1093,25,">tierra</wi>? </t>
 </fr>
 </sv>
 <sv id="Lucas-13-8"><fr>
@@ -187,10 +188,12 @@ you can cut it down.´»
 <wi type="G" value="2590,4,">frutos</wi>, bien;
 <wi type="G" value="1161,6,">pero</wi>
 <wi type="G" value="1487,5,">si</wi>
-<wi type="G" value="3361,7,">no</wi><wi type="G" value="1519,8,"/><wi type="G" value="3588,9,"/>, </t>
-<rb xml:lang="es"><wi type="G" value="3195,10,">después de esto</wi><rf><citebib id="Peshitta"/> dice
-`el próximo año.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="1581,11,"><wi type="G" value="846,12,">cortarla</wi></wi>.´» </t>
+<wi type="G" value="3361,7,">no</wi>, </t>
+<rb xml:lang="es"><wi type="G" value="1519,8,">en</wi>
+<wi type="G" value="3588,9,">el que</wi>
+<wi type="G" value="3195,10,">viene</wi><rf>
+<citebib id="Peshitta"/> dice `el próximo año.´</rf></rb>
+<t xml:lang="es">, <wi type="G" value="1581,11,"><wi type="G" value="846,12,">será cortada</wi></wi>.´» </t>
 </fr>
 
 </sv></cm><cm><sv id="Lucas-13-10">
@@ -215,9 +218,9 @@ and she was bent over, and could in no way straighten herself up.
 <wi type="G" value="4151,5,">un espíritu</wi>
 <wi type="G" value="769,7,">de enfermedad</wi>
 por
-<wi type="G" value="1176,9,">dieciocho</wi>
+<wi type="G" value="1176,9,"><wi type="G" value="2532,10,"><wi type="G" value="3638,11,">dieciocho</wi></wi></wi>
 <wi type="G" value="2094,8,">años</wi>,
-<wi type="G" value="2532,10,"/><wi type="G" value="3638,11,"/><wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="2258,13,">estaba</wi>
 <wi type="G" value="4794,14,">encorvada</wi>,
 <wi type="G" value="2532,15,">y</wi>
@@ -585,7 +588,7 @@ iniquity.´
 <wi type="G" value="3588,16,"><wi type="G" value="93,17,">de maldad</wi></wi> <rf><citebib id="Peshitta"/>
 dice `trabajadores de la falsedad,´ <citebib id="DiosHablaHoy"/> dice
 `malhechores,´ <citebib id="DieBibel"/> `todos ustedes que han hecho
-injusticias,´ <citebib id="RVG2012"/>dice `obreros de iniquidad'</rf></rb>
+injusticias,´ <citebib id="RVG2012"/>dice `obreros de iniquidad´</rf></rb>
 <t xml:lang="es">.´ </t>
 </fr>
 </sv>
@@ -698,9 +701,9 @@ mission.
 <wi type="G" value="3588,19,"/><wi type="G" value="5154,20,">al tercer</wi> día, </t>
 <rb xml:lang="es">
 <wi type="G" value="5048,21,">termino mi obra</wi><rf><citebib id="KJV2013"/>
-dice `seré perfeccionado,' <citebib id="WEB"/> dice `completo mi misión,'
-<citebib id="RV1960"/> dice `termino mi obra.' Según <citebib id="Thayer-BLB"/>
-la palabra griega `τελειόω' se puede traducir como perfeccionar, completar, llevar a termino un propósito, cumplir.</rf></rb>
+dice `seré perfeccionado,´ <citebib id="WEB"/> dice `completo mi misión,´
+<citebib id="RV1960"/> dice `termino mi obra.´ Según <citebib id="Thayer-BLB"/>
+la palabra griega `τελειόω´ se puede traducir como perfeccionar, completar, llevar a termino un propósito, cumplir.</rf></rb>
 <t xml:lang="es">. </t>
 </fr>
 </sv>

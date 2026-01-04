@@ -3,8 +3,7 @@
 <sv id="Marcos-6-1">
 He went out from there. He came into his own country, and his
 disciples followed him.
-<t xml:lang="es"><wi type="G" value="2532,1,"/>
-<wi type="G" value="1831,2,">Salió</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="1831,2,">Salió</wi>
 <wi type="G" value="1564,3,">de allí</wi>,
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="2064,5,">llegó</wi>
@@ -401,8 +400,7 @@ le <wi type="G" value="3004,1,">había dicho</wi>
 <sv id="Marcos-6-19">
 Herodías set herself against him, and desired to kill
 him, but she couldn´t,
-<t xml:lang="es"><wi type="G" value="3588,1,"/>
-<wi type="G" value="1161,2,">Entonces</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Entonces</wi>
 <wi type="G" value="2266,3,">Herodías</wi>
 <wi type="G" value="1758,4,">se puso en contra</wi> de
 <wi type="G" value="846,5,">él</wi>,
@@ -701,7 +699,7 @@ themselves.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3588,5,"><wi type="G" value="3793,6,">La gente</wi></wi></t>
 <rf>TR reads «The multitudes» instead of «They.»
 <t xml:lang="es">En lugar de `La gente´ <citebib id="WEB"/> dice
-`Ellos,´ <citebib id="TR-BLB"/> emplea el sustantivo griego `ὄχλος' que
+`Ellos,´ <citebib id="TR-BLB"/> emplea el sustantivo griego `ὄχλος´ que
 puede traducirse como multitd.</t></rf>
 </rb>
 saw them going, and many recognized him and ran there on foot from all the
@@ -874,7 +872,7 @@ They sat down in ranks, by hundreds and by fifties.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="377,2,">Se sentaron</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="4237,3,"><wi type="G" value="4237,4,">en grupos</wi></wi><rf><citebib id="WEB"/> dice `ranks´ que podría traducirse como filas, <citebib id="Peshitta"/>, <citebib id="LBA"/> y <citebib id="DiosHablaHoy"/> dicen `grupos.´
-Según <citebib id="TR-BLB"/> la palabra griega `πρασιά' designa un terreno pero en el contexto de `ἀνέπεσον πρασιαὶ πρασιαὶ` se refiere a este contexto es hebreismo para referirse a reclinarse en en </rf></rb>
+Según <citebib id="TR-BLB"/> la palabra griega `πρασιά´ designa un terreno pero en el contexto de `ἀνέπεσον πρασιαὶ πρασιαὶ` se refiere a este contexto es hebreismo para referirse a reclinarse en en </rf></rb>
 <t xml:lang="es">, <wi type="G" value="303,5,">de</wi>
 <wi type="G" value="1540,6,">cien</wi>
 <wi type="G" value="2532,7,">y</wi>
@@ -935,7 +933,7 @@ Those who ate the loaves were
 <wi type="G" value="2258,2,">fueron</wi></t>
 <rb xml:lang="es"><rf></rf></rb>
 <rb xml:lang="es"><wi type="G" value="5616,7,">cerca de</wi>
-<rf><citebib id="WEB"/> no dice 'cerca de,' pero esto si lo incluye
+<rf><citebib id="WEB"/> no dice ´cerca de,' pero esto si lo incluye
 <citebib id="TR-BLB"/>
 </rf></rb>
 five thousand men.
@@ -1011,10 +1009,10 @@ walking on the sea, and he would have passed by them,
 <rb xml:lang="es"><wi type="G" value="5067,16,">la cuarta</wi>
 <wi type="G" value="5438,17,">vigilia</wi> <wi type="G" value="3588,18,"><wi type="G" value="3571,19,">de la noche</wi></wi><rf><citebib id="WEB"/>, <citebib id="Peshitta"/>
 y <citebib id="DieBibel"/> dicen `a la cuarta vigilia de la noche,´
-<citebib id="KJV2003"/> dice `a la cuarta hora,'
+<citebib id="KJV2003"/> dice `a la cuarta hora,´
 <citebib id="DiosHablaHoy"/> dice `a la madrugada´
-<citebib id="TR-BLB"/> dice `τέταρτος' y `φυλακή' que según
-<citebib id="Thayer-BLB"/> traducen `cuarta' y guarda o vigilia
+<citebib id="TR-BLB"/> dice `τέταρτος´ y `φυλακή´ que según
+<citebib id="Thayer-BLB"/> traducen `cuarta´ y guarda o vigilia
 respectivamente.</rf></rb>
 <t xml:lang="es"> <wi type="G" value="2064,20,">llegó</wi>
 <wi type="G" value="4314,21,">donde</wi>
@@ -1115,7 +1113,7 @@ to the shore.
 <rb xml:lang="es"><wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="4358,9,">amarraron el bote</wi><rf>Esta parte no aparece
 en <citebib id="Peshitta"/>, según <citebib id="Thayer-BLB"/> la palabra
-griega `προσορμίζω' se refiere a llevar un barco al sitio de los norayes.</rf></rb>
+griega `προσορμίζω´ se refiere a llevar un barco al sitio de los norayes.</rf></rb>
 <t xml:lang="es">. </t>
 </sv>
 <sv id="Marcos-6-54">

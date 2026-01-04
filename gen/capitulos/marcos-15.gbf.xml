@@ -729,7 +729,9 @@ went in to Pilate, and asked for Jesus´ body.
 <sv id="Marcos-15-44">
 Pilate marveled if he were already dead; and summoning the centurión,
 he asked him whether he had been dead long.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,"/><wi type="G" value="4091,3,">Pilato</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G"
+value="1161,2,">Y</wi>
+<wi type="G" value="4091,3,">Pilato</wi>
 <wi type="G" value="2296,4,">se asombró</wi>
 <wi type="G" value="1487,5,">porque</wi>
 <wi type="G" value="2235,6,">ya</wi>
@@ -759,9 +761,9 @@ He bought a linen cloth, and taking him down, wound him
 in the linen cloth, and laid him in a tomb which had been cut out of a rock.
 He rolled a stone against the door of the tomb.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="59,2,">Él compró</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4616,3,">una sábana de lino</wi><rf><citebib id="WEB"/> dice `túnica de lino,' <citebib id="KJV2013"/> dice `lino fino,'
-<citebib id="RV1909"/> dice `una sabana,' según <citebib id="BLB-Thayer"/>
-la palabra griega `σινδών' puede traducirse como (1) túnica de lino,
+<rb xml:lang="es"><wi type="G" value="4616,3,">una sábana de lino</wi><rf><citebib id="WEB"/> dice `túnica de lino,´ <citebib id="KJV2013"/> dice `lino fino,´
+<citebib id="RV1909"/> dice `una sabana,´ según <citebib id="BLB-Thayer"/>
+la palabra griega `σινδών´ puede traducirse como (1) túnica de lino,
 especialmente fina y costosa que se usaba para envolver los muertos, o
 (2) algo hecho de tela fina o
 (3) una prenda liviana y amplia que podía ponerse sobre el cuerpo.</rf></rb>

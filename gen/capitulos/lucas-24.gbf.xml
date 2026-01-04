@@ -46,12 +46,13 @@ It happened, while they were
 greatly perplexed about this, behold, two men stood by them in dazzling
 clothing.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
-<wi type="G" value="1096,2,">Ocurrió</wi>,
+<wi type="G" value="1096,2,">ocurrió</wi>,
 <wi type="G" value="1722,3,">mientras aún</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="1280,5,"><wi type="G" value="846,6,">estaban perplejas</wi></wi>
-<wi type="G" value="4012,7,">por esto</wi>,
-<wi type="G" value="5127,8,">que</wi>
-<wi type="G" value="2532,9,"/><wi type="G" value="2400,10,"/><wi type="G" value="1417,11,">dos</wi>
+<wi type="G" value="4012,7,">por </wi>
+<wi type="G" value="5127,8,">esto</wi>,
+<wi type="G" value="2532,9,"/><wi type="G" value="2400,10,">he aquí que</wi>
+<wi type="G" value="1417,11,">dos</wi>
 <wi type="G" value="435,12,">hombres</wi>
 <wi type="G" value="2186,13,">se pararon</wi> junto
 <wi type="G" value="846,14,">a ellas</wi>
@@ -202,8 +203,8 @@ themselves, and he departed to his home, wondering what had happened.
 <wi type="G" value="3588,12,"><wi type="G" value="3608,13,">las tiras de lino</wi></wi>
 <wi type="G" value="2749,14,">tendidas</wi><rf><citebib id="WEB"/>  y
 <citebib id="KJV2003"/> dicen
-`las tiras de lino tendidas por si mismas,'
-<citebib id="RVG1912"/> dice `solos los lienzos echados.'</rf></rb>
+`las tiras de lino tendidas por si mismas,´
+<citebib id="RVG1912"/> dice `solos los lienzos echados.´</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="565,17,">partió</wi>
@@ -297,7 +298,8 @@ walk, and are sad?»
 <wi type="G" value="4314,11,">uno</wi>
 <wi type="G" value="240,12,">a otro</wi>
 <wi type="G" value="4043,13,">mientras caminan</wi>
-<wi type="G" value="2532,14,"/><wi type="G" value="2075,15,"/><wi type="G" value="4659,16,">entristecidos</wi>? </t>
+<wi type="G" value="2532,14,"/><wi type="G" value="2075,15,">estando</wi>
+<wi type="G" value="4659,16,">entristecidos</wi>? </t>
 </fr>
 
 </sv></cm>

@@ -6,8 +6,8 @@ villages, preaching and bringing the good news of the Kingdom of God. With
 him were the twelve,
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="1096,2,">sucedió</wi>
-<wi type="G" value="1722,3,"/><wi type="G" value="3588,4,"/><wi type="G" value="2517,5,">después</wi>
-<wi type="G" value="2532,6,">que</wi>
+<wi type="G" value="1722,3,"/><wi type="G" value="2517,5,">después</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="2532,6,">que</wi>
 <wi type="G" value="846,7,"><wi type="G" value="1353,8,">anduvo</wi></wi>
 por
 <wi type="G" value="2596,9,">toda</wi>
@@ -215,7 +215,7 @@ hearing they may not understand.´
 <wi type="G" value="2532,22,">y</wi>
 <wi type="G" value="191,23,">escuchando</wi>
 <wi type="G" value="3361,24,">no</wi>
-<wi type="G" value="4920,25,">pueden entender</wi>.' </t>
+<wi type="G" value="4920,25,">pueden entender</wi>.´ </t>
 </fr>
 </sv>
 <sv id="Lucas-8-11"><fr>
@@ -373,9 +373,9 @@ secret, that will not be known and come to light.
 <wi type="G" value="2076,3,">hay</wi>
 <wi type="GC" value="1">nada</wi> </t>
 <rb xml:lang="es"><wi type="G" value="2927,4,">secreto</wi><rf><citebib id="WEB"/>
-dice `escondido' y <citebib id="KJV2003"/> dice `secreto' y viceversa en la frase que
-sigue.  Según <citebib id="Thayer-BLB"/> la palabra en griego aquí es `κρυπτός'
-(raíz de criptografía) mientras que la siguiente es `ἀπόκρυφος'
+dice `escondido´ y <citebib id="KJV2003"/> dice `secreto´ y viceversa en la frase que
+sigue.  Según <citebib id="Thayer-BLB"/> la palabra en griego aquí es `κρυπτός´
+(raíz de criptografía) mientras que la siguiente es `ἀπόκρυφος´
 (raíz de apócrifo) que se relacionan mejor con secreto y escondido respectivamente.
 </rf></rb>
 <t xml:lang="es">,
@@ -596,8 +596,8 @@ is opposite Galilee.
 <wi type="G" value="3748,8,">que</wi>
 <wi type="G" value="2076,9,">está</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="495,10,">en la rivera opuesta</wi><rf><citebib id="WEB"/> dice `al lado opuesto,' <citebib id="RV1960"/> dice
-`en la rivera opuesta.'</rf></rb>
+<rb xml:lang="es"><wi type="G" value="495,10,">en la rivera opuesta</wi><rf><citebib id="WEB"/> dice `al lado opuesto,´ <citebib id="RV1960"/> dice
+`en la rivera opuesta.´</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3588,11,"><wi type="G" value="1056,12,">a Galilea</wi></wi>. </t>
 
@@ -679,7 +679,7 @@ desert.
 <wi type="G" value="4884,14,">se apoderaba</wi>
 <wi type="G" value="846,15,">de él</wi>,
 <wi type="G" value="2532,16,">y</wi> </t>
-<rb xml:lang="es"><rf><citebib id="WEB"/> incluye `bajo guardia' pero no <citebib id="RV1960"/> ni <citebib id="KVJ2003"/>.</rf></rb>
+<rb xml:lang="es"><rf><citebib id="WEB"/> incluye `bajo guardia´ pero no <citebib id="RV1960"/> ni <citebib id="KVJ2003"/>.</rf></rb>
 <t xml:lang="es">
 lo
 <wi type="G" value="5442,21,">matenian</wi>
@@ -1164,7 +1164,7 @@ and she will be healed.»
 <rb xml:lang="es"><wi type="G" value="4982,13,">sanada</wi><rf><citebib id="DieBibel"/>
 y <citebib id="DiosHablaHoy"/> dicen `salvada,´
 <citebib id="Peshitta"/> dice `vivirá,´ la
-palabra griega `σῴζω' según <citebib id="Thayer-BLB"/> puede traducirse
+palabra griega `σῴζω´ según <citebib id="Thayer-BLB"/> puede traducirse
 como salvar o sanar.</rf></rb>
 <t xml:lang="es">.» </t>
 </fr>

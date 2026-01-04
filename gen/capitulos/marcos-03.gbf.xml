@@ -176,8 +176,8 @@ wouldn´t press on him.
 <wi type="G" value="4142,7,">una barca</wi>
 <wi type="G" value="4342,8,">estuviera lista junto a</wi> 
 <wi type="G" value="846,9,">Él</wi>
-<rf><citebib id="WEB"/> dice `que estuviera,' <citebib id="KJV2003"/> dice `esperara,' según
-<citebib id="Thayer-BLB"/> el verbo griego `προσκαρτερέω' traduce
+<rf><citebib id="WEB"/> dice `que estuviera,´ <citebib id="KJV2003"/> dice `esperara,´ según
+<citebib id="Thayer-BLB"/> el verbo griego `προσκαρτερέω´ traduce
 adherirse a alguien, estar atento permanentemente, mantenerse en un lugar, perserverar, mostrar valor, estar preparado constantemente.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1223,10,">para que</wi>
@@ -259,8 +259,8 @@ wanted, and they went to him.
 <sv id="Marcos-3-14">
 He appointed twelve, that they might be
 with him, and that he might send them out to preach,
-<rb xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="4160,2,">Formó</wi><rf><citebib id="WEB"/> dice `designó,' <citebib id="KJV2003"/> dice `ordenó,' según
-<citebib id="Thayer-BLB"/> la palabra griega `ποιέω' se traduce como
+<rb xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="4160,2,">Formó</wi><rf><citebib id="WEB"/> dice `designó,´ <citebib id="KJV2003"/> dice `ordenó,´ según
+<citebib id="Thayer-BLB"/> la palabra griega `ποιέω´ se traduce como
 hacer, producir, formar, construir, ser autor, alistar, preparar, concebir, adquirir, hacer una cosa de algo, constituir, designar u ordenar, declarar. </rf></rb> <t xml:lang="es">a
 <wi type="G" value="1427,3,">doce</wi>,
 <wi type="G" value="2443,4,">para que</wi>
@@ -326,8 +326,8 @@ Alphaeus; Thaddaeus; Simon the Zealot;
 <wi type="G" value="2532,18,"/> <wi type="G" value="4613,19,">Simón</wi> </t>
 <rb xml:lang="es">
 <wi type="G" value="3588,20,"><wi type="G" value="2581,21,">el Zelote</wi></wi><rf><citebib id="WEB"/>
-dice `el zelote,' <citebib id="KJV2003"/> dice `el canaanita,' según
-<citebib id="Thayer-BLB"/> la palabra griega `Καναναῖος' en este contexto
+dice `el zelote,´ <citebib id="KJV2003"/> dice `el canaanita,´ según
+<citebib id="Thayer-BLB"/> la palabra griega `Καναναῖος´ en este contexto
 puede traducirse de ambas formas. </rf></rb>
 <t xml:lang="es">;</t>
 </sv>
@@ -381,7 +381,8 @@ out to seize him: for they said, «He is insane.»
 The scribes who came
 down from Jerusalem said, «He has Beelzebul,» and, «By the prince of the
 demons he casts out the demons.»
-<t xml:lang="es"><wi type="G" value="2532,1,"/>
+<t xml:lang="es">
+<wi type="G" value="2532,1,"/>
 <wi type="G" value="3588,2,"><wi type="G" value="1122,3,">Los maestros de la ley</wi></wi>
 <wi type="G" value="3588,4,">que</wi>
 <wi type="G" value="2597,7,">llegaron</wi>
@@ -584,7 +585,7 @@ him, «Behold, your mother, your brothers, and
 <wi type="G" value="3588,14,"><wi type="G" value="80,15,">hermanos</wi></wi>
 <rb>your sisters
 <rf>TR omits «your sisters.»
-<t xml:lang="es"><citebib id="WEB"/> dice también  `tus hermanas,' pero
+<t xml:lang="es"><citebib id="WEB"/> dice también  `tus hermanas,´ pero
 esto no lo dicen <citebib id="TR"/>, <citebib id="DieBibel"/> ni
 <citebib id="Peshitta"/></t></rf></rb>
 are outside looking for you.»

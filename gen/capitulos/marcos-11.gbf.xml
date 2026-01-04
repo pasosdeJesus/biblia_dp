@@ -38,10 +38,10 @@ que está </t>
 <rb xml:lang="es"><wi type="G" value="3588,8,"/><wi type="G" value="2713,9,">enfrente</wi>
 <wi type="G" value="5216,10,">de ustedes</wi><rf><citebib id="Peshitta"/>
 dice `al otro lado,´ <citebib id="WEB"/> y
-<citebib id="KJV2003"/>dicen `al lado contrario,'
-<citebib id="RV1960"/> dice `enfrente de vosotros,' según
-<citebib id="Thayer-BLB"/> la palabra griega `κατέναντι' se
-traduce como `al lado contrario,' 'delante.' </rf></rb>
+<citebib id="KJV2003"/>dicen `al lado contrario,´
+<citebib id="RV1960"/> dice `enfrente de vosotros,´ según
+<citebib id="Thayer-BLB"/> la palabra griega `κατέναντι´ se
+traduce como `al lado contrario,´ 'delante.' </rf></rb>
 <t xml:lang="es">.  <wi type="G" value="2532,11,">Y</wi>
 <wi type="G" value="2112,12,">tan pronto</wi>
 <wi type="G" value="1531,13,">entren</wi>
@@ -95,9 +95,9 @@ open street, and they untied him.
 <rb xml:lang="es"><wi type="G" value="1854,11,">afuera</wi>
 <wi type="G" value="1909,12,">sobre</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="296,14,">la calle</wi></wi>,<rf><citebib id="WEB"/> dice `afuera
-sobre la calle,' <citebib id="RV1960"/> dice `en el recodo del camino,'
-según <citebib id="Thayer-BLB"/> la palabra griega `ἔξω' se puede
-traducir como afuera, la palabra `ἐπί' somo sobre y la palabra `ἄμφοδον' como
+sobre la calle,´ <citebib id="RV1960"/> dice `en el recodo del camino,´
+según <citebib id="Thayer-BLB"/> la palabra griega `ἔξω´ se puede
+traducir como afuera, la palabra `ἐπί´ somo sobre y la palabra `ἄμφοδον´ como
 calle.  </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2532,15,">y</wi>
@@ -121,7 +121,9 @@ doing, untying the young donkey?»
 <sv id="Marcos-11-6">
 They said to
 them just as Jesus had said, and they let them go.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,"/><wi type="G" value="846,4,">Les</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G"
+value="1161,2,">Y</wi>
+<wi type="G" value="846,4,">les</wi>
 <wi type="G" value="2036,3,">dijeron</wi>
 <wi type="G" value="2531,5,">tal como</wi>
 <wi type="G" value="3588,7,"><wi type="G" value="2424,8,">Jesús</wi></wi>
@@ -658,9 +660,9 @@ They answered Jesus, «We don´t know.»
 <wi type="G" value="3588,4,"><wi type="G" value="2424,5,">a Jesús</wi></wi>
 <wi type="G" value="3004,3,">diciendo</wi>,
 «<wi type="G" value="3756,6,">No</wi> </t>
-<rb xml:lang="es"><wi type="G" value="1492,7,">sabemos</wi><rf><citebib id="WEB"/> y <citebib id="RV1960"/> dicen `No sabemos,' <citebib id="KJV2003"/> dice
-`No podemos decir,' de acuerdo a <citebib id="Thayer-BLB"/> la palabra
-griega `εἴδω' se traduce como ver o saber.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="1492,7,">sabemos</wi><rf><citebib id="WEB"/> y <citebib id="RV1960"/> dicen `No sabemos,´ <citebib id="KJV2003"/> dice
+`No podemos decir,´ de acuerdo a <citebib id="Thayer-BLB"/> la palabra
+griega `εἴδω´ se traduce como ver o saber.</rf></rb>
 <t xml:lang="es">.» </t>
 
 <cl/>

@@ -17,11 +17,11 @@ indicando <wi type="G" value="3956,13,">que</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,14,"><wi type="G" value="3625,15,">toda la gente</wi></wi><rf><citebib id="WEB"/> y
 <citebib id="DiosHablaHoy"/> dicen `todo el mundo,´
 <citebib id="DieBibel"/> dice `los habitantes del reino,´
-<citebib id="Peshitta"/> dice `toda la gente de su dominio.'</rf></rb>
+<citebib id="Peshitta"/> dice `toda la gente de su dominio.´</rf></rb>
 <t xml:lang="es"> </t>
 <rb xml:lang="es"><wi type="G" value="583,12,">debía registrarse</wi><rf><citebib id="WEB"/>
-dice `debía registrarse,' <citebib id="KJV2003"/> decía `debía pagar impuestos,'
-la palabra griega `ἀπογράφω' según <citebib id="Thayer-BLB"/> puede
+dice `debía registrarse,´ <citebib id="KJV2003"/> decía `debía pagar impuestos,´
+la palabra griega `ἀπογράφω´ según <citebib id="Thayer-BLB"/> puede
 traducirse como escribir, ingresar en registros en particular ingresar en
 registros públicos el nombre de los hombres, sus propiedades e ingresos. </rf></rb>
 <t xml:lang="es">. </t>
@@ -118,10 +118,10 @@ room for them in the inn.
 <wi type="G" value="3588,3,"><wi type="G" value="5207,4,">hijo</wi></wi>,
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="846,10,">lo</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4683,9,">envolvió en una manta</wi><rf><citebib id="WEB"/> dice `bandas de algodon,'
-<citebib id="KJV2003"/> dice `en mantillas,' <citebib id="RV1906"/>
-dice `pañales.' Según <citebib id="Thayer-BLB"/> la palabra griega
-`σπαργανόω' es envolver en una manta.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="4683,9,">envolvió en una manta</wi><rf><citebib id="WEB"/> dice `bandas de algodon,´
+<citebib id="KJV2003"/> dice `en mantillas,´ <citebib id="RV1906"/>
+dice `pañales.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+`σπαργανόω´ es envolver en una manta.</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="846,13,">lo</wi>
@@ -276,8 +276,11 @@ thing that has happened, which the Lord has made known to us.»
 <wi type="G" value="846,6,">ellos</wi>
 <wi type="G" value="1519,7,">hacia</wi>
 <wi type="G" value="3588,8,"><wi type="G" value="3772,9,">el cielo</wi></wi>,
-<wi type="G" value="2532,12,"/>que <wi type="G" value="3588,15,"><wi type="G" value="4166,16,">los pastores</wi></wi>
-<wi type="G" value="3588,13,"/><wi type="G" value="444,14,"/><wi type="G" value="2036,17,">se dijeron</wi>
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="3588,13,">los</wi> 
+<wi type="G" value="444,14,">hombres</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="4166,16,">pastores</wi></wi>
+<wi type="G" value="2036,17,">se dijeron</wi>
 <wi type="G" value="240,19,">unos</wi>
 <wi type="G" value="4314,18,">a</wi>
 <wi type="GC" value="19">otros</wi>,
@@ -303,8 +306,10 @@ the feeding trough.
 <wi type="G" value="4692,3,">de prisa</wi>
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="429,5,">encontraron</wi>
-<wi type="G" value="3588,6,"/><wi type="G" value="5037,7,"/><wi type="G" value="3137,8,">a María</wi>,
-<wi type="G" value="2532,9,"/><wi type="G" value="3588,10,"/><wi type="G" value="2501,11,">a José</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="5037,7,">tanto a</wi>
+<wi type="G" value="3137,8,">María</wi>,
+<wi type="G" value="2532,9,">como a</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="2501,11,">José</wi>
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="1025,14,">al Bebé</wi></wi>
 <wi type="G" value="2749,15,">acostado</wi>
@@ -334,9 +339,11 @@ the things which were spoken to them by the shepherds.
 <wi type="G" value="2296,5,">se admiraban</wi>
 <wi type="G" value="4012,6,">de</wi>
 <wi type="G" value="3588,7,">lo</wi>
-<wi type="G" value="4314,12,"/><wi type="G" value="846,13,"/><wi type="G" value="2980,8,">dicho</wi>
+<wi type="G" value="2980,8,">dicho</wi>
 <wi type="G" value="5259,9,">por</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4166,11,">los pastores</wi></wi>. </t>
+<wi type="G" value="3588,10,"><wi type="G" value="4166,11,">los pastores</wi></wi>
+<wi type="G" value="4314,12,">sobre</wi>
+<wi type="G" value="846,13,">esto</wi>. </t>
 </sv>
 <sv id="Lucas-2-19">
 But Mary kept
@@ -582,8 +589,8 @@ Which you have prepared before the face of all peoples;
 <rb xml:lang="es"><wi type="G" value="3588,6,"><wi type="G" value="2992,7,">la gente</wi></wi><rf><citebib id="WEB"/> y <citebib id="DiosHablaHoy"/>
 dicen `personas,´ <citebib id="DieBibel"/> dice `pueblos,´
 <citebib id="Peshitta"/> dice `naciones,´
-<citebib id="KJV2003"/> dice `gente.' La palabra griega
-`λαός' de acuerdo a <citebib id="Thayer-BLB"/> puede traducirse como gente,
+<citebib id="KJV2003"/> dice `gente.´ La palabra griega
+`λαός´ de acuerdo a <citebib id="Thayer-BLB"/> puede traducirse como gente,
 grupo de personas, tribu, nación, todos los que comparten tradición y lengua,
 o como una gran población reunida en un sitio.
 </rf></rb>
@@ -912,7 +919,7 @@ understanding and his answers.
 <rb xml:lang="es"><wi type="G" value="3588,8,"><wi type="G" value="4907,9,">entendimiento</wi></wi><rf><citebib id="DieBibel"/> y <citebib id="WEB"/>
 dicen `entendimiento,´ <citebib id="DiosHablaHoy"/> dice
 `inteligencia,´ <citebib id="Peshitta"/> dice `sabiduría,´
-según <citebib id="Thayer-BLB"/> la palabra griega `σύνεσις' se traduce como conocimiento, entendimiento.</rf></rb>
+según <citebib id="Thayer-BLB"/> la palabra griega `σύνεσις´ se traduce como conocimiento, entendimiento.</rf></rb>
 <t xml:lang="es"> <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="612,12,">respuestas</wi></wi>. </t>
 </sv>
@@ -952,9 +959,9 @@ He said to them,
 know that I must be in my Father´s house?»
 <t xml:lang="es">«¿</t>
 <rb xml:lang="es"><wi type="G" value="5101,5,">Cómo</wi><rf><citebib id="KJV"/>
-dice `Cómo es qué,' <citebib id="RV1909"/> dice `¿Que hay? ¿Por que.'
-Según <citebib id="Thayer-BLB"/> la palabra griega `τίς' es un partícula
-interrogativa que puede traducirse como `qué, quien, por qué, a quien, cual.'
+dice `Cómo es qué,´ <citebib id="RV1909"/> dice `¿Que hay? ¿Por que.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `τίς´ es un partícula
+interrogativa que puede traducirse como `qué, quien, por qué, a quien, cual.´
 </rf></rb>
 <t xml:lang="es">
 es <wi type="G" value="3754,6,">que</wi>

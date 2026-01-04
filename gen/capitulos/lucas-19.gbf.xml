@@ -106,10 +106,10 @@ has gone in to lodge with a man who is a sinner.»
 <wi type="G" value="1492,2,">vieron</wi> eso
 <wi type="G" value="537,3,">todos</wi>
 <wi type="G" value="1234,4,">murmuraron</wi>
-<wi type="G" value="3004,5,">diciendo</wi><wi type="G" value="3754,6,"/>,
+<wi type="G" value="3004,5,">diciendo</wi>,
 «<wi type="G" value="1525,10,">Ha ido</wi>
 <wi type="G" value="2647,11,">a alojarse</wi>
-<wi type="G" value="3844,7,">donde</wi>
+<wi type="G" value="3754,6,"/><wi type="G" value="3844,7,">donde</wi>
 <wi type="G" value="435,9,">un hombre</wi>
 <wi type="G" value="268,8,">pecador</wi>.» </t>
 
@@ -259,9 +259,9 @@ us.´
 <wi type="G" value="2532,7,">y</wi>
 <wi type="G" value="649,8,">enviaron</wi></t>
 <rb xml:lang="es"><wi type="G" value="4242,9,">embajadores</wi><rf><citebib id="Peshitta"/> dice `embajadores,´
-<citebib id="KJV2003"/> dice `un mensaje,' <citebib id="RGV2012"/> dice
-`una embajada.' Según <citebib id="Thayer-BLB"/> la palabra griega
-`πρεσβεία' se puede traducir como embajada o mensaje.</rf></rb>
+<citebib id="KJV2003"/> dice `un mensaje,´ <citebib id="RGV2012"/> dice
+`una embajada.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+`πρεσβεία´ se puede traducir como embajada o mensaje.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3694,10,">trás</wi>
 <wi type="G" value="846,11,">él</wi>
@@ -403,9 +403,9 @@ sow.´
 <wi type="G" value="1488,7,">usted es</wi>
 <wi type="G" value="444,5,">un hombre</wi> </t>
 <rb xml:lang="es"><wi type="G" value="840,6,">austero</wi><rf><citebib id="WEB"/>
-dice `severo,' <citebib id="RVG2012"/> dice `recio,'
-<citebib id="KJV2003"/> dice `austero,' según
-<citebib id="Thayer-BLB"/> la palabra griega `αὐστηρός' se traduce como
+dice `severo,´ <citebib id="RVG2012"/> dice `recio,´
+<citebib id="KJV2003"/> dice `austero,´ según
+<citebib id="Thayer-BLB"/> la palabra griega `αὐστηρός´ se traduce como
 recio o en sentido figurado severo, austero.</rf></rb>
 <t xml:lang="es">.
 <wi type="G" value="142,8,">Toma</wi>
@@ -655,7 +655,8 @@ As they were untying the colt, the owners of it said to them,
 <wi type="G" value="3089,1,">desamarrar</wi>
 <wi type="G" value="846,3,"/><wi type="G" value="3588,4,"><wi type="G" value="4454,5,">el burro</wi></wi>,
 <wi type="G" value="3588,7,"><wi type="G" value="2962,8,">los dueños</wi></wi>
-<wi type="G" value="846,9,"/><wi type="G" value="4314,10,"/><wi type="G" value="846,11,">les</wi>
+<wi type="G" value="846,9,">de este</wi>
+<wi type="G" value="4314,10,"/><wi type="G" value="846,11,">les</wi>
 <wi type="G" value="2036,6,">dijeron</wi>,
 «¿<wi type="G" value="5101,12,">Por qué</wi>
 <wi type="G" value="3089,13,">están desamarrando</wi>
@@ -831,7 +832,7 @@ you in on every side,
 <rb xml:lang="es"><wi type="G" value="4016,7,">levantarán</wi>
 <wi type="G" value="5482,11,">una barricada</wi>
 <wi type="G" value="4671,12,">contra ti</wi><rf><citebib id="Peshitta"/>
-no dice esto. Según <citebib id="Thayer-BLB"/> la palabra griega `χάραξ'
+no dice esto. Según <citebib id="Thayer-BLB"/> la palabra griega `χάραξ´
 se traduce como estaca o empalizada o barricada.</rf></rb>
 <t xml:lang="es">, <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="4571,15,">te</wi>
@@ -939,9 +940,9 @@ every word that he said.
 <wi type="G" value="3588,7,"><wi type="G" value="2992,8,">la gente</wi></wi> </t>
 <rb xml:lang="es"><wi type="G" value="1582,11,">estaba atenta a</wi>
 <wi type="G" value="191,13,"><wi type="G" value="846,12,">escucharlo</wi></wi><rf>
-<citebib id="WEB"/> dice `se ceñia a cada palabra que decía,'
+<citebib id="WEB"/> dice `se ceñia a cada palabra que decía,´
 <citebib id="DieBibel"/> dice `la gente lo oía gustosa,´
-<citebib id="RVG2012"/> dice `el pueblo estaba en suspenso oyéndole.'</rf></rb>
+<citebib id="RVG2012"/> dice `el pueblo estaba en suspenso oyéndole.´</rf></rb>
 <t xml:lang="es">. </t>
 
 </sv></cm></sc>

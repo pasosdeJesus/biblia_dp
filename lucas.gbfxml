@@ -1885,9 +1885,11 @@ the things which were spoken to them by the shepherds.
 <wi type="G" value="2296,5,">se admiraban</wi>
 <wi type="G" value="4012,6,">de</wi>
 <wi type="G" value="3588,7,">lo</wi>
-<wi type="G" value="4314,12,"/><wi type="G" value="846,13,"/><wi type="G" value="2980,8,">dicho</wi>
+<wi type="G" value="2980,8,">dicho</wi>
 <wi type="G" value="5259,9,">por</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4166,11,">los pastores</wi></wi>. </t>
+<wi type="G" value="3588,10,"><wi type="G" value="4166,11,">los pastores</wi></wi>
+<wi type="G" value="4314,12,">sobre</wi>
+<wi type="G" value="846,13,">esto</wi>. </t>
 </sv>
 <sv id="Lucas-2-19">
 But Mary kept
@@ -4433,9 +4435,8 @@ with him, at the catch of fish which they had caught;
 <wi type="G" value="4862,8,">estaba con</wi>
 <wi type="G" value="846,9,">él</wi>,
 <wi type="G" value="1909,10,">por</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="61,12,">la pesca</wi></wi>
-<wi type="G" value="3588,13,"/><wi type="G" value="2486,14,"/>
-<wi type="G" value="3739,15,">que</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="61,12,"><wi type="G" value="2486,14,">la</wi> pesca</wi></wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="3739,15,">que</wi>
 <wi type="G" value="4815,16,">habían hecho</wi>; </t>
 </sv>
 <sv id="Lucas-5-10">
@@ -4499,8 +4500,8 @@ begged him, saying, «Lord, if you want to, you can make me clean.»
 <wi type="G" value="1722,7,">en</wi>
 <wi type="G" value="1520,8,">una</wi> de
 <wi type="G" value="3588,9,"><wi type="G" value="4172,10,">las ciudades</wi></wi>,
-<wi type="G" value="2532,11,"/><wi type="G" value="2400,12,"/>que había
-<wi type="G" value="435,13,">un hombre</wi>
+<wi type="G" value="2532,11,"/><wi type="G" value="2400,12,">he aquí</wi>
+había <wi type="G" value="435,13,">un hombre</wi>
 <wi type="G" value="4134,14,">lleno</wi>
 <wi type="G" value="3014,15,">de lepra</wi>.
 <wi type="G" value="2532,16,">Y</wi> al
@@ -7364,8 +7365,8 @@ villages, preaching and bringing the good news of the Kingdom of God. With
 him were the twelve,
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="1096,2,">sucedió</wi>
-<wi type="G" value="1722,3,"/><wi type="G" value="3588,4,"/><wi type="G" value="2517,5,">después</wi>
-<wi type="G" value="2532,6,">que</wi>
+<wi type="G" value="1722,3,"/><wi type="G" value="2517,5,">después</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="2532,6,">que</wi>
 <wi type="G" value="846,7,"><wi type="G" value="1353,8,">anduvo</wi></wi>
 por
 <wi type="G" value="2596,9,">toda</wi>
@@ -10266,9 +10267,10 @@ Kingdom of God has come near to you.´
 <wi type="G" value="2254,6,">nos</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="2853,5,">pega</wi>,
 lo
-<wi type="G" value="631,11,">limpiamos</wi><wi type="G" value="5213,12,"/>.
+<wi type="G" value="631,11,">limpiamos</wi>.
 
-<wi type="G" value="4133,13,">Sin embargo</wi>
+<wi type="G" value="5213,12,">Y</wi>
+<wi type="G" value="4133,13,">sin embargo</wi>
 <wi type="G" value="1097,15,">sepan</wi>
 <wi type="G" value="5124,14,">esto</wi>,
 <wi type="G" value="3754,16,">que</wi>
@@ -10733,8 +10735,9 @@ departed, leaving him half dead.
 <wi type="G" value="4127,21,"><wi type="G" value="2007,22,">golpearon</wi></wi>,
 y
 <wi type="G" value="565,23,">se fueron</wi>
-<wi type="G" value="863,24,">dejándolo</wi>
-<wi type="G" value="2253,25,">medio muerto</wi><wi type="G" value="5177,26,"/>. </t>
+<wi type="G" value="5177,26,">habiéndolo</wi>
+<wi type="G" value="863,24,">dejado</wi>
+<wi type="G" value="2253,25,">medio muerto</wi>. </t>
 </fr>
 </sv>
 <sv id="Lucas-10-31"><fr>
@@ -11336,8 +11339,8 @@ those who ask him?»
 <wi type="G" value="3123,14,">más</wi>
 el
 <wi type="G" value="3588,15,"><wi type="G" value="3962,16,">Padre</wi></wi>
-<wi type="G" value="3588,17,"/><wi type="G" value="1537,18,"/><wi type="G" value="3772,19,">celestial</wi>
-<wi type="G" value="1325,20,">dará</wi>
+<wi type="G" value="1537,18,"/><wi type="G" value="3772,19,">celestial</wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="1325,20,">dará</wi>
 <wi type="G" value="4151,21,">Espíritu</wi>
 <wi type="G" value="40,22,">Santo</wi>
 a <wi type="G" value="3588,23,">quienes</wi>
@@ -13682,7 +13685,7 @@ trabajadores.´</rf></rb>
 <wi type="G" value="2094,8,">años</wi>
 <wi type="G" value="2064,9,">he venido</wi>
 <wi type="G" value="2212,10,">buscando</wi>
-<wi type="G" value="2590,11,">frutas</wi>
+<wi type="G" value="2590,11,">frutos</wi>
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="3778,15,">esta</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="4808,14,">higuera</wi></wi>,
@@ -13692,8 +13695,9 @@ trabajadores.´</rf></rb>
 <wi type="G" value="1581,19,"><wi type="G" value="846,20,">Córtala</wi></wi>.
 ¿<wi type="G" value="2443,21,">Para</wi>
 <wi type="G" value="2444,22,">qué</wi>
-<wi type="G" value="2532,23,"/><wi type="G" value="3588,24,"/><wi type="G" value="2673,26,">gastar</wi>
-<wi type="G" value="1093,25,">la tierra</wi>? </t>
+<wi type="G" value="2532,23,"/><wi type="G" value="2673,26,">gastar</wi>
+<wi type="G" value="3588,24,">la</wi>
+<wi type="G" value="1093,25,">tierra</wi>? </t>
 </fr>
 </sv>
 <sv id="Lucas-13-8"><fr>
@@ -13726,10 +13730,12 @@ you can cut it down.´»
 <wi type="G" value="2590,4,">frutos</wi>, bien;
 <wi type="G" value="1161,6,">pero</wi>
 <wi type="G" value="1487,5,">si</wi>
-<wi type="G" value="3361,7,">no</wi><wi type="G" value="1519,8,"/><wi type="G" value="3588,9,"/>, </t>
-<rb xml:lang="es"><wi type="G" value="3195,10,">después de esto</wi><rf><citebib id="Peshitta"/> dice
-`el próximo año.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="1581,11,"><wi type="G" value="846,12,">cortarla</wi></wi>.´» </t>
+<wi type="G" value="3361,7,">no</wi>, </t>
+<rb xml:lang="es"><wi type="G" value="1519,8,">en</wi>
+<wi type="G" value="3588,9,">el que</wi>
+<wi type="G" value="3195,10,">viene</wi><rf>
+<citebib id="Peshitta"/> dice `el próximo año.´</rf></rb>
+<t xml:lang="es">, <wi type="G" value="1581,11,"><wi type="G" value="846,12,">será cortada</wi></wi>.´» </t>
 </fr>
 
 </sv></cm><cm><sv id="Lucas-13-10">
@@ -13754,9 +13760,9 @@ and she was bent over, and could in no way straighten herself up.
 <wi type="G" value="4151,5,">un espíritu</wi>
 <wi type="G" value="769,7,">de enfermedad</wi>
 por
-<wi type="G" value="1176,9,">dieciocho</wi>
+<wi type="G" value="1176,9,"><wi type="G" value="2532,10,"><wi type="G" value="3638,11,">dieciocho</wi></wi></wi>
 <wi type="G" value="2094,8,">años</wi>,
-<wi type="G" value="2532,10,"/><wi type="G" value="3638,11,"/><wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="2258,13,">estaba</wi>
 <wi type="G" value="4794,14,">encorvada</wi>,
 <wi type="G" value="2532,15,">y</wi>
@@ -15019,7 +15025,8 @@ who doesn´t renounce all that he has, he can´t be my disciple.
 <wi type="G" value="3756,7,">no</wi>
 <wi type="G" value="657,8,">renuncie</wi>
 <wi type="G" value="3956,9,">a todo</wi>
-<wi type="G" value="3588,10,"/><wi type="G" value="1438,11,"/><wi type="G" value="5224,12,">lo que tiene</wi>,
+<wi type="G" value="3588,10,"/><wi type="G" value="1438,11,">sus propias</wi>
+<wi type="G" value="5224,12,">posesiones</wi>,
 <wi type="G" value="3756,13,">no</wi>
 <wi type="G" value="1410,14,">puede</wi>
 <wi type="G" value="1511,16,">ser</wi>
@@ -17930,7 +17937,8 @@ Hearing a multitude going by, he asked what this meant.
 <wi type="G" value="1279,4,">que pasaba</wi>,
 <wi type="G" value="4441,5,">él preguntó</wi>
 <wi type="G" value="5101,6,">que</wi>
-<wi type="G" value="1498,7,">significaba</wi><wi type="G" value="5124,8,"/>. </t>
+<wi type="G" value="1498,7,">significaba</wi>
+<wi type="G" value="5124,8,">esto</wi>. </t>
 </sv>
 <sv id="Lucas-18-37">
 They told
@@ -18157,10 +18165,10 @@ has gone in to lodge with a man who is a sinner.»
 <wi type="G" value="1492,2,">vieron</wi> eso
 <wi type="G" value="537,3,">todos</wi>
 <wi type="G" value="1234,4,">murmuraron</wi>
-<wi type="G" value="3004,5,">diciendo</wi><wi type="G" value="3754,6,"/>,
+<wi type="G" value="3004,5,">diciendo</wi>,
 «<wi type="G" value="1525,10,">Ha ido</wi>
 <wi type="G" value="2647,11,">a alojarse</wi>
-<wi type="G" value="3844,7,">donde</wi>
+<wi type="G" value="3754,6,"/><wi type="G" value="3844,7,">donde</wi>
 <wi type="G" value="435,9,">un hombre</wi>
 <wi type="G" value="268,8,">pecador</wi>.» </t>
 
@@ -18706,7 +18714,8 @@ As they were untying the colt, the owners of it said to them,
 <wi type="G" value="3089,1,">desamarrar</wi>
 <wi type="G" value="846,3,"/><wi type="G" value="3588,4,"><wi type="G" value="4454,5,">el burro</wi></wi>,
 <wi type="G" value="3588,7,"><wi type="G" value="2962,8,">los dueños</wi></wi>
-<wi type="G" value="846,9,"/><wi type="G" value="4314,10,"/><wi type="G" value="846,11,">les</wi>
+<wi type="G" value="846,9,">de este</wi>
+<wi type="G" value="4314,10,"/><wi type="G" value="846,11,">les</wi>
 <wi type="G" value="2036,6,">dijeron</wi>,
 «¿<wi type="G" value="5101,12,">Por qué</wi>
 <wi type="G" value="3089,13,">están desamarrando</wi>
@@ -20919,6 +20928,7 @@ He said to them,
 <fr>«I have earnestly desired to eat this Passover
 with you before I suffer,
 <t xml:lang="es">«<wi type="G" value="1939,5,">Realmente</wi>
+<wi type="G" value="3165,15,">Yo</wi>
 <wi type="G" value="1937,6,">he deseado</wi>
 <wi type="G" value="5315,10,">comer</wi>
 <wi type="G" value="5124,7,">esta</wi>
@@ -20926,7 +20936,7 @@ with you before I suffer,
 <wi type="G" value="3326,11,">con</wi>
 <wi type="G" value="5216,12,">ustedes</wi>
 <wi type="G" value="4253,13,">antes</wi> de
-<wi type="G" value="3588,14,"/><wi type="G" value="3165,15,"/><wi type="G" value="3958,16,">sufrir</wi>, </t>
+<wi type="G" value="3588,14,"/><wi type="G" value="3958,16,">sufrir</wi>, </t>
 </fr>
 </sv>
 <sv id="Lucas-22-16"><fr>
@@ -22007,10 +22017,11 @@ me <wi type="G" value="630,10,">dejarán ir</wi>. </t>
 <sv id="Lucas-22-69"><fr>
 From now on, the
 Son of Man will be seated at the right hand of the power of God.»
-<t xml:lang="es"><wi type="G" value="575,1,">Desde ahora</wi>,
+<t xml:lang="es"><wi type="G" value="575,1,">Desde</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="3568,3,">ahora</wi>,
 <wi type="G" value="3588,5,"><wi type="G" value="5207,6,">el Hijo</wi></wi>
 <wi type="G" value="3588,7,"><wi type="G" value="444,8,">del Hombre</wi></wi>
-<wi type="G" value="3588,2,"/><wi type="G" value="3568,3,"/><wi type="G" value="2071,4,">se</wi>
+<wi type="G" value="2071,4,">se</wi>
 <wi type="G" value="2521,9,">sentará</wi>
 <wi type="G" value="1537,10,">a</wi>
 <wi type="G" value="1188,11,">la mano derecha</wi>
@@ -23153,12 +23164,13 @@ It happened, while they were
 greatly perplexed about this, behold, two men stood by them in dazzling
 clothing.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
-<wi type="G" value="1096,2,">Ocurrió</wi>,
+<wi type="G" value="1096,2,">ocurrió</wi>,
 <wi type="G" value="1722,3,">mientras aún</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="1280,5,"><wi type="G" value="846,6,">estaban perplejas</wi></wi>
-<wi type="G" value="4012,7,">por esto</wi>,
-<wi type="G" value="5127,8,">que</wi>
-<wi type="G" value="2532,9,"/><wi type="G" value="2400,10,"/><wi type="G" value="1417,11,">dos</wi>
+<wi type="G" value="4012,7,">por </wi>
+<wi type="G" value="5127,8,">esto</wi>,
+<wi type="G" value="2532,9,"/><wi type="G" value="2400,10,">he aquí que</wi>
+<wi type="G" value="1417,11,">dos</wi>
 <wi type="G" value="435,12,">hombres</wi>
 <wi type="G" value="2186,13,">se pararon</wi> junto
 <wi type="G" value="846,14,">a ellas</wi>
@@ -23404,7 +23416,8 @@ walk, and are sad?»
 <wi type="G" value="4314,11,">uno</wi>
 <wi type="G" value="240,12,">a otro</wi>
 <wi type="G" value="4043,13,">mientras caminan</wi>
-<wi type="G" value="2532,14,"/><wi type="G" value="2075,15,"/><wi type="G" value="4659,16,">entristecidos</wi>? </t>
+<wi type="G" value="2532,14,"/><wi type="G" value="2075,15,">estando</wi>
+<wi type="G" value="4659,16,">entristecidos</wi>? </t>
 </fr>
 
 </sv></cm>

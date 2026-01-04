@@ -65,9 +65,9 @@ son
 </sv>
 <sv id="Lucas-10-3"><fr>
 Go your ways. Behold, I send you out as lambs among wolves.
-<rb xml:lang="es"><wi type="G" value="5217,1,">Vayan</wi><rf><citebib id="WEB"/> y <citebib id="KJV2013"/> dicen `vayan por sus caminos,'
+<rb xml:lang="es"><wi type="G" value="5217,1,">Vayan</wi><rf><citebib id="WEB"/> y <citebib id="KJV2013"/> dicen `vayan por sus caminos,´
 <citebib id="Peshitta"/> sólo dice
-`vayan.´ El verbo griego `ὑπάγω' segúnd <citebib id="Thayer-BLB"/> se traduce
+`vayan.´ El verbo griego `ὑπάγω´ segúnd <citebib id="Thayer-BLB"/> se traduce
 como ir o or por el camino (de uno).</rf></rb>
 <t xml:lang="es">.
 <wi type="G" value="2400,2,">Observen que</wi>
@@ -234,9 +234,10 @@ Kingdom of God has come near to you.´
 <wi type="G" value="2254,6,">nos</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="2853,5,">pega</wi>,
 lo
-<wi type="G" value="631,11,">limpiamos</wi><wi type="G" value="5213,12,"/>.
+<wi type="G" value="631,11,">limpiamos</wi>.
 
-<wi type="G" value="4133,13,">Sin embargo</wi>
+<wi type="G" value="5213,12,">Y</wi>
+<wi type="G" value="4133,13,">sin embargo</wi>
 <wi type="G" value="1097,15,">sepan</wi>
 <wi type="G" value="5124,14,">esto</wi>,
 <wi type="G" value="3754,16,">que</wi>
@@ -574,8 +575,8 @@ what shall I do to inherit eternal life?»
 <wi type="G" value="5100,4,">cierto</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3544,3,">interprete de la ley</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `abogado,´
-<citebib id="RV1909"/> dice `doctor de la ley'.
-La palabra griega `νομικός' según <citebib id="Thayer-BLB"/> se usa
+<citebib id="RV1909"/> dice `doctor de la ley.´
+La palabra griega `νομικός´ según <citebib id="Thayer-BLB"/> se usa
 para el enseñado en leyes, pero también para interprete de la ley mosaíca.
 </rf></rb>
 <t xml:lang="es">
@@ -701,8 +702,9 @@ departed, leaving him half dead.
 <wi type="G" value="4127,21,"><wi type="G" value="2007,22,">golpearon</wi></wi>,
 y
 <wi type="G" value="565,23,">se fueron</wi>
-<wi type="G" value="863,24,">dejándolo</wi>
-<wi type="G" value="2253,25,">medio muerto</wi><wi type="G" value="5177,26,"/>. </t>
+<wi type="G" value="5177,26,">habiéndolo</wi>
+<wi type="G" value="863,24,">dejado</wi>
+<wi type="G" value="2253,25,">medio muerto</wi>. </t>
 </fr>
 </sv>
 <sv id="Lucas-10-31"><fr>
@@ -934,9 +936,9 @@ about many things,
 <t xml:lang="es">«<wi type="G" value="3136,7,">Marta</wi>,
 <wi type="G" value="3136,8,">Marta</wi>,
 <rb xml:lang="es"><wi type="G" value="3309,9,">te esmeras</wi><rf><citebib id="WEB"/>
-dice `estas ansiosa,' <citebib id="KJV2003"/> dice `eres cuidadosa,'
-<citebib id="RVG1909"/> dice `cuidadosa estás,' según
-<citebib id="Thayer-BLB"/> el verbo griego `μεριμνάω' puede traducirse como
+dice `estas ansiosa,´ <citebib id="KJV2003"/> dice `eres cuidadosa,´
+<citebib id="RVG1909"/> dice `cuidadosa estás,´ según
+<citebib id="Thayer-BLB"/> el verbo griego `μεριμνάω´ puede traducirse como
 estar ansioso, estar preocupado con cuidados</rf></rb>
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="5182,11,">preocupas</wi>

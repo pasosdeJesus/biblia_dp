@@ -702,7 +702,8 @@ Hearing a multitude going by, he asked what this meant.
 <wi type="G" value="1279,4,">que pasaba</wi>,
 <wi type="G" value="4441,5,">él preguntó</wi>
 <wi type="G" value="5101,6,">que</wi>
-<wi type="G" value="1498,7,">significaba</wi><wi type="G" value="5124,8,"/>. </t>
+<wi type="G" value="1498,7,">significaba</wi>
+<wi type="G" value="5124,8,">esto</wi>. </t>
 </sv>
 <sv id="Lucas-18-37">
 They told
@@ -791,10 +792,10 @@ Jesus said to him,
 <wi type="G" value="4675,9,">Tu</wi>
 <wi type="G" value="3588,7,"><wi type="G" value="4102,8,">fe</wi></wi>
 <wi type="G" value="4571,11,">te</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4982,10,">ha salvado</wi><rf><citebib id="WEB"/> dice `te ha sandao,'
+<rb xml:lang="es"><wi type="G" value="4982,10,">ha salvado</wi><rf><citebib id="WEB"/> dice `te ha sandao,´
 <citebib id="Peshitta"/> dice `te ha dado vida,´
-<citebib id="KJV2003"/> dice `te ha salvado,'
-la palabra griega `σῴζω' puede traducirse como salvar, sanar o
+<citebib id="KJV2003"/> dice `te ha salvado,´
+la palabra griega `σῴζω´ puede traducirse como salvar, sanar o
 completar.</rf></rb>
 <t xml:lang="es">.» </t>
 </fr>

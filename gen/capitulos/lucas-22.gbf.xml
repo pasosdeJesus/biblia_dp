@@ -86,7 +86,7 @@ must be sacrificed.
 <rb xml:lang="es"><wi type="G" value="3588,11,"/><wi type="G" value="3957,12,">el cordero de Pascua</wi><rf>En
 <citebib id="WEB"/>, <citebib id="Peshitta"/> y <citebib id="KJV2013"/> dicen
 `en el que la Pascua debe ser sacrificada.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `πάσχα' se traduce como
+Según <citebib id="Thayer-BLB"/> la palabra griega `πάσχα´ se traduce como
 pascua, y se refiere al cordero pascual, el cual los Israelitas
 acostumbraban a sacrificar y comer al decimocuarto día del mes de
 Nisan (primer mes del año) en memoria del día en el que sus padres se
@@ -220,6 +220,7 @@ He said to them,
 <fr>«I have earnestly desired to eat this Passover
 with you before I suffer,
 <t xml:lang="es">«<wi type="G" value="1939,5,">Realmente</wi>
+<wi type="G" value="3165,15,">Yo</wi>
 <wi type="G" value="1937,6,">he deseado</wi>
 <wi type="G" value="5315,10,">comer</wi>
 <wi type="G" value="5124,7,">esta</wi>
@@ -227,7 +228,7 @@ with you before I suffer,
 <wi type="G" value="3326,11,">con</wi>
 <wi type="G" value="5216,12,">ustedes</wi>
 <wi type="G" value="4253,13,">antes</wi> de
-<wi type="G" value="3588,14,"/><wi type="G" value="3165,15,"/><wi type="G" value="3958,16,">sufrir</wi>, </t>
+<wi type="G" value="3588,14,"/><wi type="G" value="3958,16,">sufrir</wi>, </t>
 </fr>
 </sv>
 <sv id="Lucas-22-16"><fr>
@@ -410,10 +411,10 @@ nations lord it over them, and those who have authority over them are called
 <t xml:lang="es">«<wi type="G" value="3588,5,"><wi type="G" value="935,6,">Los reyes</wi></wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,7,"><wi type="G" value="1484,8,">de las naciones</wi></wi><rf><citebib id="Peshitta"/> dice `los reyes de los
 gentiles son sus señores,´
-<citebib id="KJV2003"/> dice `de los gentiles,'
-<citebib id="WEB"/> dice `de las naciones.' Según
+<citebib id="KJV2003"/> dice `de los gentiles,´
+<citebib id="WEB"/> dice `de las naciones.´ Según
 <citebib id="Thayer-BLB"/> la palabra griega
-`ἔθνος' significa gentiles, nación, multitud de individuos d ela misma naturaleza, tribu, en el AT naciones extranjeras que no adoraban al verdadero Dios,
+`ἔθνος´ significa gentiles, nación, multitud de individuos d ela misma naturaleza, tribu, en el AT naciones extranjeras que no adoraban al verdadero Dios,
 paganos.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2961,9,">reinan</wi>
@@ -566,8 +567,8 @@ wouldn´t fail. You, when once you have turned again, establish your
 <wi type="G" value="4771,13,"/><wi type="G" value="4218,14,">cuando</wi>
  </t>
 <rb xml:lang="es"><wi type="G" value="1994,15,">regreses</wi><rf><citebib id="WEB"/>
-dice `regreses,' <citebib id="KJV2003"/> dice `te conviertas,'
-según <citebib id="Thayer-BLB"/> la palabra griega `ἐπιστρέφω'
+dice `regreses,´ <citebib id="KJV2003"/> dice `te conviertas,´
+según <citebib id="Thayer-BLB"/> la palabra griega `ἐπιστρέφω´
 significa volverse, regresar, devolverse o vovlerse a la alabanza al Dios
 verdadero, regresar al amor y obediencia a Dios.</rf></rb>
 <t xml:lang="es">
@@ -726,8 +727,8 @@ He said to them,
 <wi type="G" value="2425,13,">suficiente</wi><rf><citebib id="WEB"/> dice `es suficiente,´
 <citebib id="Peshitta"/> dice `son suficientes,´
 <citebib id="DiosHablaHoy"/> dice `basta ya.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `ἐστί' se traduce como
-verbo ser/estar y la palabra `ἱκανός' se traduce como suficiente o mucho.</rf></rb>
+Según <citebib id="Thayer-BLB"/> la palabra griega `ἐστί´ se traduce como
+verbo ser/estar y la palabra `ἱκανός´ se traduce como suficiente o mucho.</rf></rb>
 <t xml:lang="es">.» </t>
 </fr>
 
@@ -957,7 +958,7 @@ But Jesus answered,
 <wi type="G" value="5127,8,">aquí</wi></wi></t>
 <rb xml:lang="es"><rf>
 <citebib id="WEB"/> dice `Al menos déjenme hacer esto´;
-<citebib id="RVG1902"/> dice `Dejen hasta aquí,'
+<citebib id="RVG1902"/> dice `Dejen hasta aquí,´
 <citebib id="DieBibel"/> dice
 `Basta de eso!´; <citebib id="DiosHablaHoy"/> dice `Déjenlos; ya basta´;
 <citebib id="Peshitta"/> dice `Eso es suficiente.´</rf></rb>
@@ -1242,8 +1243,8 @@ They spoke many other things against him, insulting him.
 <wi type="G" value="4183,3,">muchas</wi>
 <wi type="G" value="2087,2,">otras cosas</wi>
 <rb xml:lang="es"><wi type="G" value="987,4,">blasfemas</wi><rf><citebib id="Peshitta"/> dice `blasfemaban,´
-<citebib id="WEB"/> dice `insultandolo.'
-Según <citebib id="Thayer-BLB"/> la palabra griega `βλασφημέω' se
+<citebib id="WEB"/> dice `insultandolo.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `βλασφημέω´ se
 traduce como blasfemar o hablar mal o de forma vil o impia.</rf></rb>
 <wi type="G" value="1519,6,">contra</wi>
 <wi type="G" value="846,7,">Él</wi>. </t>
@@ -1308,10 +1309,11 @@ me <wi type="G" value="630,10,">dejarán ir</wi>. </t>
 <sv id="Lucas-22-69"><fr>
 From now on, the
 Son of Man will be seated at the right hand of the power of God.»
-<t xml:lang="es"><wi type="G" value="575,1,">Desde ahora</wi>,
+<t xml:lang="es"><wi type="G" value="575,1,">Desde</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="3568,3,">ahora</wi>,
 <wi type="G" value="3588,5,"><wi type="G" value="5207,6,">el Hijo</wi></wi>
 <wi type="G" value="3588,7,"><wi type="G" value="444,8,">del Hombre</wi></wi>
-<wi type="G" value="3588,2,"/><wi type="G" value="3568,3,"/><wi type="G" value="2071,4,">se</wi>
+<wi type="G" value="2071,4,">se</wi>
 <wi type="G" value="2521,9,">sentará</wi>
 <wi type="G" value="1537,10,">a</wi>
 <wi type="G" value="1188,11,">la mano derecha</wi>

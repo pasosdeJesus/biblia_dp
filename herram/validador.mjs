@@ -2,15 +2,22 @@
 // -*- coding: utf-8 -*-
 
 /**
- * Script for verse-by-verse concordance and format debugging.
- * - Analyzes all NT books with corrected naming conventions.
- * - Identifies and reports known, correct exceptions (e.g., Textus Receptus differences).
- * - Skips concordance analysis for untranslated verses to provide a cleaner report.
- * - Reads exceptions from an external `herram/excepciones.json` file.
- * - Validates XML format, including spacing, punctuation, and tag structure.
- *
- * herram/validador.mjs  --validation-mode=all
- */
+ * Script para la concordancia versículo a versículo y la depuración del
+ * formato.
+ * - Analiza todos los libros del Nuevo Testamento con las convenciones de
+ * nomenclatura corregidas. 
+ * - Identifica e informa las excepciones conocidas y correctas (por ejemplo,
+ * diferencias con el Textus Receptus). 
+ * - Omite el análisis de concordancia para los versículos no traducidos para
+ * generar un informe más limpio. 
+ * - Lee las excepciones de un archivo externo `herram/excepciones.json`. 
+ * - Valida el formato XML, incluyendo el espaciado, la puntuación y la
+ * estructura de las etiquetas.
+ * 
+ * Ejemplo de uso
+ *  herram/validador.mjs --modo-de-validacion=todo
+ * Los modos posibles son `todo`, `formato` y `concordancia`
+ * */
 
 import fs from 'fs';
 import path from 'path';
@@ -337,20 +344,20 @@ async function debugBookConcordance(bookLower) {
 
 async function main() {
   const args = process.argv.slice(2);
-  const validationModeArg = args.find(arg => arg.startsWith('--validation-mode='));
-  const validationMode = validationModeArg ? validationModeArg.split('=')[1] : 'concordance';
+  const validationModeArg = args.find(arg => arg.startsWith('--modo-de-validacion='));
+  const validationMode = validationModeArg ? validationModeArg.split('=')[1] : 'concordancia';
   
   const booksToValidate = args.filter(arg => !arg.startsWith('--'));
 
   const targetBooks = booksToValidate.length > 0 ? booksToValidate : Object.keys(BOOK_MAP);
 
-  if (validationMode === 'format' || validationMode === 'all') {
+  if (validationMode === 'formato' || validationMode === 'todo') {
     for (const book of targetBooks) {
         validateBookFormat(book);
     }
   }
 
-  if (validationMode === 'concordance' || validationMode === 'all') {
+  if (validationMode === 'concordancia' || validationMode === 'todo') {
       console.log("\n\nStarting refined New Testament concordance analysis...");
       let grandTotalMismatches = 0;
       let grandTotalUntranslated = 0;

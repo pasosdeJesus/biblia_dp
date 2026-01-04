@@ -599,57 +599,186 @@ fearful thing to fall into the hands of the living God.
 </sv>
 
 <sv id="Hebreos-10-32">
-But remember
-the former days, in which, after you
-<wi type="T" value="P"/> were enlightened, you
-<wi type="T" value="P"/> endured
-a great struggle with sufferings;
+But remember the former days, in which, after you
+were enlightened, you endured a great struggle with sufferings;
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="363,1,">recuerden</wi>
+<wi type="G" value="2250,5,">los días</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="4386,4,">anteriores</wi>,
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="3739,7,">los que</wi>,
+<wi type="G" value="5461,8,">tras ser iluminados</wi>,
+<wi type="G" value="5278,11,">soportaron</wi>
+<wi type="G" value="4183,9,">una gran</wi>
+<wi type="G" value="119,10,">pelea</wi>
+<wi type="G" value="3804,12,">con sufrimientos</wi>;</t>
 </sv>
 <sv id="Hebreos-10-33">
 partly, being exposed to both
 reproaches and oppressions; and partly, becoming partakers with those who
 were treated so.
+<t xml:lang="es"><wi type="G" value="5124,1,">en parte</wi>,
+<wi type="G" value="3303,2,">ciertamente</wi>,
+<wi type="G" value="2301,7,">expuestos</wi>
+<wi type="G" value="5037,4,">tanto</wi>
+<wi type="G" value="3680,3,">a reproches</wi>
+<wi type="G" value="2532,5,">como a</wi>
+<wi type="G" value="2347,6,">aflicciones</wi>;
+<wi type="G" value="1161,9,">y</wi>
+<wi type="G" value="5124,8,">en parte</wi>,
+<wi type="G" value="1096,14,">volviéndose</wi>
+<wi type="G" value="2844,10,">copartícipes</wi>
+con <wi type="G" value="3588,11,">los que</wi>
+<wi type="G" value="3779,12,">así</wi>
+<wi type="G" value="390,13,">vivían</wi>.
+</t>
 </sv>
 <sv id="Hebreos-10-34">
-For you
-<wi type="T" value="P"/> both had compassion on me in my chains,
+For you both had compassion on me in my chains,
 and joyfully accepted the plundering of your possessions, knowing that
-you
-<wi type="T" value="P"/> have for yourselves a better possession and an enduring one in the
+you have for yourselves a better possession and an enduring one in the
 heavens.
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="4834,6,">ustedes tuvieron compasión</wi>
+<wi type="G" value="3450,5,">de mi</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="1199,4,">en cadenas</wi></wi>,
+<wi type="G" value="2532,7,">y</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4327,15,">aceptaron</wi><rf>
+<citebib id="WEB"/> dice `aceptaron,´
+<citebib id="KJV2003"/> dice `tomaron,´
+<citebib id="RVG2012"/> dice `padecieron.´ Según
+<citebib id="Thayer-BLB"/> la palabra griega `προσεδεξασθε´
+se traduce como admitir, esperar, aceptar, permitir, tomar.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3326,13,">con</wi>
+<wi type="G" value="5479,14,">gozo</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="3588,8,"><wi type="G" value="724,9,">el saqueo</wi></wi><rf>
+<citebib id="WEB"/> dice `saqueo,´
+<citebib id="KJV2003"/> dice `deterioro,´
+<citebib id="RVG2012"/> dice `robo.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `αρπαγην´ se traduce
+como saquear, robo.</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="5216,12,">de sus</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="5224,11,">posesiones</wi>,
+<wi type="G" value="1097,16,">sabiendo</wi>
+<wi type="G" value="1722,18,">en</wi>
+<wi type="G" value="1438,19,">si mismos</wi>
+<wi type="G" value="2192,17,">que tienen</wi>
+<wi type="G" value="5223,21,">una posesión</wi>
+<wi type="G" value="2909,20,">mejor</wi>
+<wi type="G" value="2532,24,">y</wi>
+<wi type="G" value="3306,25,">duradera</wi>
+<wi type="G" value="1722,22,">en</wi>
+<wi type="G" value="3772,23,">los cielos</wi>.
+</t>
 </sv>
 <sv id="Hebreos-10-35">
 Therefore don´t throw away your boldness, which has a great
 reward.
+<t xml:lang="es"><wi type="G" value="3767,3,">Por tanto</wi>
+<wi type="G" value="3361,1,">no</wi>
+<wi type="G" value="577,2,">se despojen</wi>
+<wi type="G" value="5216,6,">de su</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,4,"><wi type="G"
+value="3954,5,">confianza</wi></wi><rf>
+<citebib id="WEB"/> dice `valentía,´
+<citebib id="KJV2003"/> dice `confianza.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `παρρησιαν´
+se puede traducir de ambas formas.</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="3748,7,">que</wi>
+<wi type="G" value="2192,8,">tiene</wi>
+<wi type="G" value="3173,10,">gran</wi>
+<wi type="G" value="3405,9,">recompensa</wi>.</t>
 </sv>
 <sv id="Hebreos-10-36">
-For you
-<wi type="T" value="P"/> need endurance so that, having done the will of
-God, you
-<wi type="T" value="P"/> may receive the promise.
-
+For you need endurance so that, having done the will of
+God, you may receive the promise.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2192,3,">ustedes tienen</wi>
+<wi type="G" value="5532,4,">necesidad</wi>
+<wi type="G" value="5281,1,">de ser pacientes</wi>
+<wi type="G" value="2443,5,">para que</wi>,
+<wi type="G" value="4160,10,">habiendo hecho</wi>
+<wi type="G" value="3588,6,">la</wi>
+<wi type="G" value="2307,7,">voluntad</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">de Dios</wi></wi>,
+<wi type="G" value="2865,11,">puedan recibir</wi>
+<wi type="G" value="3588,12,">la</wi>
+<wi type="G" value="1860,13,">promesa</wi>.
+</t>
 </sv></cm>
 
 <cm type="PO">
 <sv id="Hebreos-10-37">
 «In a very little while,
+<t xml:lang="es">
+«<wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2089,1,">aún</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3745,4,"><wi type="G" value="3745,5,">muy, muy</wi></wi>
+<wi type="G" value="3397,3,">poco</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `muy corto lapso,´
+<citebib id="RVG2012"/> dice `un poquito.´
+Según <citebib id="Thayer-BLB"/> en griego bíblico la expresión
+`μικρόν ὅσον ὅσον´ se traduce como un muy corto lapso.
+</rf></rb>
+<t xml:lang="es">,
+</t>
 <cl/>
 He who comes will come, and will not wait.
-
+<t xml:lang="es">Y
+<wi type="G" value="3588,6,">el que</wi>
+<wi type="G" value="2064,7,">ha de venir</wi>
+<wi type="G" value="2240,8,">vendrá</wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="3756,10,">no</wi>
+<wi type="G" value="5549,11,">tardará</wi>.
+</t>
 </sv></cm>
 
 <cm type="PO">
 <sv id="Hebreos-10-38">
 But the righteous will live by faith.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="1342,3,">el justo</wi>
+<wi type="G" value="2198,6,">vivirá</wi>
+<wi type="G" value="1537,4,">por</wi>
+<wi type="G" value="4102,5,">la fe</wi>.</t>
 <cl/>
 If he shrinks back, my soul has no pleasure in him.»
-
+<t xml:lang="es">
+<wi type="G" value="2532,7,">Más</wi>
+<wi type="G" value="1437,8,">si</wi>
+<wi type="G" value="5288,9,">retrocede</wi>,
+<wi type="G" value="3450,14,">mi</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="5590,13,">alma</wi></wi>
+<wi type="G" value="3756,10,">no</wi>
+<wi type="G" value="2106,11,">se complacerá</wi>
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="846,16,">él</wi>.»
+</t>
 </sv></cm>
 
 <cm>
 <sv id="Hebreos-10-39">
 But we are not of those who shrink back to destruction, but of those
 who have faith to the saving of the soul.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="2249,1,">nosotros</wi>
+<wi type="G" value="3756,3,">no</wi>
+<wi type="G" value="2070,4,">somos</wi>
+<wi type="G" value="5289,5,">de los que retroceden</wi>
+<wi type="G" value="1519,6,">a</wi>
+<wi type="G" value="684,7,">la destrucción</wi>,
+<wi type="G" value="235,8,">sino</wi>
+<wi type="G" value="4102,9,">de los creyentes</wi>
+<wi type="G" value="1519,10,">en</wi>
+<wi type="G" value="4047,11,">la salvación</wi>
+<wi type="G" value="5590,12,">del alma</wi>.
+</t>
 <cl/>
 </sv></cm></sc>
 

@@ -254,10 +254,11 @@ loaf in the boat with them.
 <wi type="G" value="2983,3,">traer</wi>
 <wi type="G" value="740,4,">pan</wi>;
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="1487,6,"/><wi type="G" value="3361,7,"/><wi type="G" value="1722,14,">en</wi>
+<wi type="G" value="1722,14,">en</wi>
 <wi type="G" value="3588,15,"><wi type="G" value="4143,16,">el bote</wi></wi>
 <wi type="G" value="3756,10,">no</wi>
-<wi type="G" value="2192,11,">tenían</wi> más que
+<wi type="G" value="2192,11,">tenían</wi> 
+<wi type="G" value="1487,6,"/><wi type="G" value="3361,7,">más que</wi>
 <wi type="G" value="1520,8,">un</wi>
 <wi type="G" value="740,9,">pan</wi>
 <wi type="G" value="3326,12,"><wi type="G" value="1438,13,">consigo</wi></wi>. </t>
@@ -718,9 +719,9 @@ life?
 <wi type="G" value="2210,11,">pierde</wi>
 <wi type="G" value="846,14,">su</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,12,"><wi type="G" value="5590,13,">alma</wi></wi><rf>
-<citebib id="WEB"/> dice `vida,' <citebib id="KJV2003"/>  y <citebib id="RV1960"/> dicen
-`alma,' de acuerdo a <citebib id="BLB"/> la palabra griega
-`ψυχή' puede traducirse como aliento de vida, vida o alma.</rf></rb>
+<citebib id="WEB"/> dice `vida,´ <citebib id="KJV2003"/>  y <citebib id="RV1960"/> dicen
+`alma,´ de acuerdo a <citebib id="BLB"/> la palabra griega
+`ψυχή´ puede traducirse como aliento de vida, vida o alma.</rf></rb>
 <t xml:lang="es">? </t>
 </fr>
 </sv>

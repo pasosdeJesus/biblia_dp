@@ -159,8 +159,7 @@ He asked him,
 </fr>
 <cl/>
 He said to him, «My name is legion, for we are many.»
-<t xml:lang="es"><wi type="G" value="2532,7,"/>
-<wi type="G" value="611,8,">él contestó</wi>
+<t xml:lang="es"><wi type="G" value="2532,7,"/><wi type="G" value="611,8,">él contestó</wi>
 <wi type="G" value="3004,9,">diciendo</wi>,
 «<wi type="G" value="3427,12,">Mi</wi>
 <wi type="G" value="3686,11,">nombre</wi>
@@ -222,8 +221,7 @@ him, saying, «Send us into the pigs, that we may enter into them.»
 At once Jesus gave them permission. The unclean spirits came out and
 entered into the pigs. The herd of about two thousand rushed down the steep
 bank into the sea, and they were drowned in the sea.
-<t xml:lang="es"><wi type="G" value="2532,1,"/>
-<wi type="G" value="2112,4,">Al momento</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2112,4,">Al momento</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="2424,6,">Jesús</wi></wi>
 <wi type="G" value="846,3,">les</wi>
 <wi type="G" value="2010,2,">dio permiso</wi>.
@@ -557,8 +555,7 @@ en <wi type="G" value="3588,11,"><wi type="G" value="4983,12,">el cuerpo</wi></w
 <sv id="Marcos-5-30">
 Immediately Jesus, perceiving in himself that the power had gone out
 from him, turned around in the crowd, and asked,
-<t xml:lang="es"><wi type="G" value="2532,1,"/>
-<wi type="G" value="2112,2,">De inmediato</wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2112,2,">De inmediato</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="2424,4,">Jesús</wi></wi>,
 <wi type="G" value="1921,5,">percibió</wi>
 <wi type="G" value="1722,6,">en</wi>
@@ -681,7 +678,7 @@ de la sinagoga</wi></wi>
 <sv id="Marcos-5-36">
 But Jesus, when he heard the message spoken, immediately said to the
 ruler of the synagogue,
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,"/>Pero
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="2424,3,">Jesús</wi>,
 <wi type="G" value="191,5,">al oír</wi>
 <wi type="G" value="3588,6,"><wi type="G" value="3056,7,">el mensaje</wi></wi>,
@@ -825,7 +822,7 @@ should be given to her to eat.
 <wi type="G" value="2532,9,">y</wi> </t>
 <rb xml:lang="es"><wi type="G" value="2036,10,">dijo</wi><rf><citebib id="WEB"/> y <citebib id="DiosHablaHoy"/>
 dicen `mandó,´ <citebib id="Peshitta"/> y <citebib id="DieBibel"/>
-dice `dijo,´ la palabra griega `εἶπον' según <citebib id="Thayer-BLB"/>
+dice `dijo,´ la palabra griega `εἶπον´ según <citebib id="Thayer-BLB"/>
 se traduce como decir o hablar.</rf></rb>
 <t xml:lang="es"> que <wi type="G" value="846,12,">le</wi> <wi type="G" value="1325,11,">dieran</wi>
 <wi type="G" value="5315,13,">de comer</wi>. </t>
