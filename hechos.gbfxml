@@ -98,8 +98,7 @@ a cielo.</rf></rb>
 To these he also showed himself alive after he suffered,
 by many proofs, appearing to them over a period of forty days, and speaking
 about God´s Kingdom.
-<t xml:lang="es">
-<wi type="G" value="3739,1,">A quienes</wi>
+<t xml:lang="es"><wi type="G" value="3739,1,">A quienes</wi>
 <wi type="G" value="2532,2,">también</wi>
 <wi type="G" value="1438,4,">Él se</wi>
 <wi type="G" value="3936,3,">mostró</wi>
@@ -384,8 +383,8 @@ Alphaeus, Simon the Zealot, and Judas the son of James.
 <rb xml:lang="es"><wi type="G" value="2532,16,"/>
 <wi type="G" value="2385,15,">Santiago</wi><rf><citebib id="SE"/> dice
 `Jacobo´ en lugar de `Santiago.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="2532,18,"/>
-<wi type="G" value="406,19,">Andrés</wi>,
+<t xml:lang="es">,
+<wi type="G" value="2532,18,"/><wi type="G" value="406,19,">Andrés</wi>,
 <wi type="G" value="5376,20,">Felipe</wi>, <wi type="G" value="2532,21,"/>
 <wi type="G" value="2381,22,">Tomás</wi>,
 <wi type="G" value="918,23,">Bartolomeo</wi>,
@@ -877,11 +876,12 @@ own language.
 <wi type="G" value="3588,7,"/><wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="4797,10,">quedó perpleja</wi>,
 <wi type="G" value="3754,11,">pues</wi>
-<wi type="G" value="1538,14,">cada uno </wi>
-<wi type="G" value="3588,15,"/><wi type="G" value="1520,13,"/><wi type="G" value="846,19,">los</wi>
+<wi type="G" value="1538,14,">cada</wi>
+<wi type="G" value="1520,13,">uno</wi>
+<wi type="G" value="846,19,">los</wi>
 <wi type="G" value="191,12,">escuchó</wi>
 <wi type="G" value="2980,18,">hablar</wi>
-<wi type="G" value="2398,16,">en su propia</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="2398,16,">en su propia</wi>
 <wi type="G" value="1258,17,">lengua</wi>. </t>
 </sv>
 <sv id="Hechos-2-7">
@@ -933,8 +933,8 @@ Mesopotamia, Judea, Cappadocia, Pontus, Asia,
 <wi type="G" value="3318,10,">Mesopotamia</wi></t>
 <rb xml:lang="es"><rf><citebib id="Gideons"/> dice
 `como nosotros.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="5037,12,"/>
-<wi type="G" value="2449,11,">Judea</wi>,
+<t xml:lang="es">, 
+<wi type="G" value="5037,12,"/><wi type="G" value="2449,11,">Judea</wi>,
 <wi type="G" value="2532,13,"/>
 <wi type="G" value="2587,14,">Capadocia</wi>,
 <wi type="G" value="4195,15,">Ponto</wi>,
@@ -3220,16 +3220,13 @@ aoristo, pasivo, indicativo.</rf></rb>
 <t xml:lang="es">, </t>
 <cl/>
 Against the Lord, and against his
-<t xml:lang="es"><wi type="G" value="1909,10,"/>
-<wi type="G" value="3588,11,"/>
-<wi type="G" value="846,12,"/>
-<wi type="G" value="2596,13,">contra</wi>
-<wi type="G" value="3588,14,"/>
-<wi type="G" value="2962,15,">del Señor</wi>,
+<t xml:lang="es">
+<wi type="G" value="3588,11,"/><wi type="G" value="1909,10,">en</wi>
+<wi type="G" value="846,12,"/><wi type="G" value="2596,13,">contra</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="2962,15,">del Señor</wi>,
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="2596,17,">contra</wi>
-<wi type="G" value="3588,18,"/>
-<wi type="G" value="846,20,">su</wi> </t>
+<wi type="G" value="3588,18,"/><wi type="G" value="846,20,">su</wi> </t>
 <rb>Christ
 <t xml:lang="es"><wi type="G" value="5547,19,">Cristo</wi></t><rf>Christ (Greek)
 and Messiah (Hebrew) both mean Anointed One. (Compare Psalm 2).
@@ -3726,8 +3723,7 @@ a
 <sv id="Hechos-5-10">
 She fell down immediately at his feet, and died. The young men came in
 and found her dead, and they carried her out and buried her by her husband.
-<t xml:lang="es"><wi type="G" value="1161,2,"/>
-<wi type="G" value="4098,1,">Ella cayó</wi>
+<t xml:lang="es"><wi type="G" value="1161,2,"/><wi type="G" value="4098,1,">Ella cayó</wi>
 <wi type="G" value="3916,3,">de inmediato</wi>
 <wi type="G" value="3844,4,">a</wi>
 <wi type="G" value="3588,5,"/>
@@ -4021,10 +4017,9 @@ them in the prison. They returned and reported,
 «We found the prison
 shut and locked, and the guards standing before the doors, but when we opened
 them, we found no one inside!»
-<t xml:lang="es">
-<wi type="G" value="3004,1,">diciendo</wi>
-<wi type="G" value="3754,2,"/>
-<wi type="G" value="3588,3,"/> «<wi type="G" value="3303,4,">Verdaderamente</wi>,
+<t xml:lang="es"><wi type="G" value="3004,1,">diciendo</wi>
+«<wi type="G" value="3588,3,"/><wi type="G" value="3754,2,">Pues</wi>
+<wi type="G" value="3303,4,">verdaderamente</wi>,
 <wi type="G" value="2147,6,">encontramos</wi>
 <wi type="G" value="1201,5,">la prisión</wi>
 <wi type="G" value="2808,7,">cerrada</wi>
@@ -4032,13 +4027,11 @@ them, we found no one inside!»
 <wi type="G" value="3956,9,">toda</wi>
 <wi type="G" value="803,10,">seguridad</wi>,
 <wi type="G" value="2532,11,">y</wi>
-<wi type="G" value="3588,12,"/>
-<wi type="G" value="5441,13,">los guardias</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="5441,13,">los guardias</wi>
 <wi type="G" value="2476,15,">estaban</wi>
 <wi type="G" value="1854,14,">afuera</wi>
 <wi type="G" value="4253,16,">frente</wi> a
-<wi type="G" value="3588,17,"/>
-<wi type="G" value="2374,18,">las puertas</wi>,
+<wi type="G" value="3588,17,"/><wi type="G" value="2374,18,">las puertas</wi>,
 <wi type="G" value="1161,20,">pero</wi>
 <wi type="G" value="455,19,">cuando abrimos</wi>, ¡
 <wi type="G" value="3762,22,">no</wi>
@@ -5924,8 +5917,8 @@ dice `la tienda,´ <citebib id="KJV2003"/> dice `el tabernáculo.´</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3588,3,"><wi type="G" value="3142,4,">del testimonio</wi></wi>
 <wi type="G" value="1722,6,">en</wi>
-<wi type="G" value="1722,10,"/><wi type="G" value="3588,12,"/><wi type="G" value="2048,11,">el desierto</wi>,
-<wi type="G" value="2531,13,">tal como</wi>
+<wi type="G" value="1722,10,"/><wi type="G" value="2048,11,">el desierto</wi>,
+<wi type="G" value="3588,12,"/><wi type="G" value="2531,13,">tal como</wi>
 se le 
 <wi type="G" value="3588,15,"/><wi type="G" value="2980,16,">dijo</wi>
 y <wi type="G" value="1299,14,">encomendó</wi>
@@ -6808,8 +6801,9 @@ asocia `a cargo´ con la palabra griega `ἐπί´ que según
 <sv id="Hechos-8-28">
 He was returning and
 sitting in his chariot, and was reading the prophet Isaiah.
-<t xml:lang="es"><wi type="G" value="2258,1,"/><wi type="G" value="5290,3,">Regresaba</wi>
-<wi type="G" value="5037,2,"/><wi type="G" value="2532,4,"/><wi type="G" value="2521,5,">sentado</wi>
+<t xml:lang="es"><wi type="G" value="5037,2,">Y</wi>
+<wi type="G" value="2258,1,"/><wi type="G" value="5290,3,">regresaba</wi>
+<wi type="G" value="2532,4,"/><wi type="G" value="2521,5,">sentado</wi>
 <wi type="G" value="1909,6,">en</wi>
 <wi type="G" value="846,9,">su</wi>
 <wi type="G" value="3588,7,"><wi type="G" value="716,8,">carroza</wi></wi>,
@@ -7128,8 +7122,8 @@ disciples of the Lord, went to the high priest,
 and asked for letters
 from him to the synagogues of Damascus, that if he found any who were of the
 Way, whether men or women, he might bring them bound to Jerusalem.
-<t xml:lang="es">y <wi type="G" value="3844,2,"/>
-<wi type="G" value="846,3,">le</wi>
+<t xml:lang="es">y
+<wi type="G" value="3844,2,"/><wi type="G" value="846,3,">le</wi>
 <wi type="G" value="154,1,">pidió</wi>
 <wi type="G" value="1992,4,">cartas</wi>
 <wi type="G" value="1519,5,">para</wi>
@@ -8368,8 +8362,7 @@ como recipiente, implemento.</rf></rb>
 in which were
 all kinds of four-footed animals of the earth, wild animals, reptiles, and
 birds of the sky.
-<t xml:lang="es">
-<wi type="G" value="1722,1,">En</wi>
+<t xml:lang="es"><wi type="G" value="1722,1,">En</wi>
 <wi type="G" value="3739,2,">la que</wi>
 <wi type="G" value="5225,3,">había</wi>
 <wi type="G" value="3956,4,">toda clase</wi>
@@ -8380,8 +8373,8 @@ birds of the sky.
 <rb xml:lang="es"><wi type="G" value="3588,10,"><wi type="G" value="2342,11,">animales
 salvajes</wi></wi><rf><citebib id="Gideons"/> no
 dice `animales salvajes.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="2532,12,"/>
-<wi type="G" value="3588,13,"><wi type="G" value="2062,14,">reptiles</wi></wi>
+<t xml:lang="es">,
+<wi type="G" value="2532,12,"/><wi type="G" value="3588,13,"><wi type="G" value="2062,14,">reptiles</wi></wi>
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="3588,16,"><wi type="G" value="4071,17,">pájaros</wi></wi>
 <wi type="G" value="3588,18,"><wi type="G" value="3772,19,">del cielo</wi></wi>. </t>
@@ -8573,7 +8566,7 @@ you seek. Why have you come?»
 <wi type="G" value="575,9,">por</wi>
 <wi type="G" value="3588,10,"><wi type="G" value="2883,11,">Cornelio</wi></wi><rf><citebib id="WEB"/>
 no dice `que fueron enviados a él por Cornelio,´ pero esto si aparece en
-<citebib id="TR-KJV2003"/>.</rf></rb>,
+<citebib id="TR-KJV2003"/>.</rf></rb>
 <t xml:lang="es">
 y
 <wi type="G" value="2036,14,">dijo</wi>, «<wi type="G" value="2400,15,">Observen</wi>,
@@ -12151,8 +12144,7 @@ ni en <citebib id="TR-KJV2003"/>.</rf></rb>
 When they had appointed elders for
 them in every assembly, and had prayed with fasting, they commended them to
 the Lord, on whom they had believed.
-<t xml:lang="es">
-<wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="846,3,"/>
 <wi type="G" value="5500,1,">designaron</wi>
 <wi type="G" value="4245,4,">ancianos</wi>
@@ -12506,8 +12498,9 @@ But we believe that we are saved through the grace of the Lord Jesus
 <wi type="G" value="3588,3,"><wi type="G" value="5485,4,">la gracia</wi></wi>
 <wi type="G" value="2962,5,">del Señor</wi>
 <wi type="G" value="2424,6,">Jesús</wi> </t>
-<rb><t xml:lang="es"><wi type="G" value="5547,7,">Cristo</wi></t><rf>TR adds «Christ»<t xml:lang="es"><citebib id="WEB"/>
-no dice «Cristo», pero
+<rb><t xml:lang="es"><wi type="G" value="5547,7,">Cristo</wi></t><rf>
+TR adds «Christ»<t xml:lang="es">
+<citebib id="WEB"/> no dice «Cristo», pero
 <citebib id="TR"/> y <citebib id="KJV2003"/> si lo dicen.</t></rf></rb>
 , just as they are.»
 <t xml:lang="es">,
@@ -12609,11 +12602,11 @@ nuevamente</wi>
 <wi type="G" value="4098,10,">se ha caído</wi>. </t>
 <cl/>
 I will again build its ruins.
-<t xml:lang="es"><wi type="G" value="2532,11,"/>
-<wi type="G" value="3588,12,"/>
-<wi type="G" value="456,15,">Construiré de nuevo</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,11,">Y</wi>
+<wi type="G" value="456,15,">construiré de nuevo</wi>
 <wi type="G" value="846,14,">sus</wi>
-<wi type="G" value="2679,13,">ruinas</wi>. </t>
+<wi type="G" value="3588,12,"/><wi type="G" value="2679,13,">ruinas</wi>. </t>
 
 <cl/>
 I will set it up,
@@ -12716,9 +12709,9 @@ traducirse como intercurso sexual ilicito incluyendo adulterio, fornicación,
 homosexualidad, lesbianismo, intercurso con animales, con pariente, con
 hombres o mujeres divorciados. En otros contextos (e.g Mt 5:32 ver nota al
 pie) se ha traducido como fornicación.  </rf></rb>
-<t xml:lang="es">, <wi type="G" value="2532,14,"/>
-<wi type="G" value="3588,15,"/>
-<wi type="G" value="4156,16,">de lo que es ahogado</wi>
+<t xml:lang="es">,
+<wi type="G" value="2532,14,"/><wi type="G" value="3588,15,">de lo que</wi>
+<wi type="G" value="4156,16,">es ahogado</wi>
 <wi type="G" value="2532,17,">y</wi> de
 <wi type="G" value="3588,18,"><wi type="G" value="129,19,">la sangre</wi></wi>. </t>
 </sv>
@@ -19516,8 +19509,8 @@ con
 He asked them to
 provide animals, that they might set Paul on one, and bring him safely to
 Felix the governor.
-<t xml:lang="es">Les <wi type="G" value="5037,2,"/>
-<wi type="G" value="3936,3,">proveyó</wi>
+<t xml:lang="es">Les 
+<wi type="G" value="5037,2,"/><wi type="G" value="3936,3,">proveyó</wi>
 <wi type="G" value="2934,1,">de animales</wi>,
 <wi type="G" value="2443,4,">para</wi>
 <wi type="G" value="1913,5,">que pudieran sentar</wi> a
@@ -21329,7 +21322,7 @@ me.
 <sv id="Hechos-26-14">
 When we had all fallen to the earth, I heard a voice saying to me
 in the Hebrew language,
-<t xml:lang="es">Cuando <wi type="G" value="1161,2,"/>
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> cuando
 <wi type="G" value="3956,1,">todos</wi>
 <wi type="G" value="2667,3,"><wi type="G" value="2257,4,">habíamos caído</wi></wi>
 <wi type="G" value="1519,5,">a</wi>
@@ -21977,11 +21970,9 @@ When much time had passed and the voyage was now dangerous, because the
 Fast had now already gone by, Paul admonished them,
 <t xml:lang="es">Cuando <wi type="G" value="1230,4,">había pasado</wi>
 <wi type="G" value="2425,1,">bastante</wi>
-<wi type="G" value="1161,2,"/>
-<wi type="G" value="5550,3,">tiempo</wi>,
+<wi type="G" value="1161,2,"/><wi type="G" value="5550,3,">tiempo</wi>,
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="2235,7,"/>
-<wi type="G" value="3588,9,"><wi type="G" value="4144,10,">el viaje</wi></wi>
+<wi type="G" value="2235,7,"/><wi type="G" value="3588,9,"><wi type="G" value="4144,10,">el viaje</wi></wi>
 <wi type="G" value="5607,6,">se hizo</wi>
 <wi type="G" value="2000,8,">peligroso</wi>,
 <wi type="G" value="1223,11,">como</wi>
@@ -22082,7 +22073,7 @@ al nooreste y suroeste.´</rf></rb>
 <sv id="Hechos-27-13">
 When the south wind blew softly, supposing that they had obtained their
 purpose, they weighed anchor and sailed along Crete, close to shore.
-<t xml:lang="es">Cuando <wi type="G" value="1161,2,"/>
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> cuando
 <wi type="G" value="3558,3,">el viento del sur</wi>
 <wi type="G" value="5285,1,">sopló suavemente</wi>,
 <wi type="G" value="1380,4,">suponiendo que</wi>
@@ -22165,8 +22156,9 @@ After they had hoisted it up, they
 used cables to help reinforce the ship. Fearing that they would run aground
 on the Syrtis sand bars, they lowered the sea anchor, and so were driven
 along.
-<t xml:lang="es">Después <wi type="G" value="3739,1,"/>
-de <wi type="G" value="142,2,">elevarlo</wi>,
+<t xml:lang="es">Después
+<wi type="G" value="3739,1,">de</wi>
+<wi type="G" value="142,2,">elevarlo</wi>,
 <wi type="G" value="5530,4,">usaron</wi> </t>
 <rb xml:lang="es"><wi type="G" value="996,3,">refuerzos</wi><rf><citebib id="WEB"/> dice `cables,´
 <citebib id="KJV2003"/> dice `ayudas,´ <citebib id="RV1960"/> dice
@@ -22210,8 +22202,8 @@ began to throw things overboard.
 tempestad,´ según <citebib id="Thayer-BLB"/>
 la palabra griega `χειμαζομένων´ se traduce
 como `afligir con una tempestad.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="3588,5,"/>
-<wi type="G" value="1836,6,">al día siguiente</wi> </t>
+<t xml:lang="es">, 
+<wi type="G" value="3588,5,"/><wi type="G" value="1836,6,">al día siguiente</wi> </t>
 <rb xml:lang="es"><wi type="G" value="1546,7,"><wi type="G" value="4160,8,">aligeraron el barco</wi></wi><rf><citebib id="WEB"/>
 dice `comenzaron a lanzar cosas,´ según <citebib id="Thayer-BLB"/> `ἐκβολή´ se
 traduce como lanzamiento de bienes y carga para aligerar un barco en una
@@ -22251,13 +22243,13 @@ be saved was now taken away.
 <wi type="G" value="5494,10,">tempestad</wi> nos
 <wi type="G" value="1945,14,">presionaba</wi><rf><citebib id="SE"/>
 dice `y vieniendo una tempestad no pequeña.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="3063,15,"/>
+<t xml:lang="es">,
+<wi type="G" value="3063,15,">Finalmente</wi>
 se <wi type="G" value="2248,21,">nos</wi>
 <wi type="G" value="4014,16,">fue</wi>
 <wi type="G" value="3956,17,">toda</wi>
 <wi type="G" value="1680,18,">esperanza</wi> de ser
-<wi type="G" value="3588,19,"/>
-<wi type="G" value="4982,20,">salvados</wi>. </t>
+<wi type="G" value="3588,19,"/><wi type="G" value="4982,20,">salvados</wi>. </t>
 
 </sv></cm><cm>
 <sv id="Hechos-27-21">
@@ -22819,8 +22811,7 @@ present rain, and because of the cold.
 But when Paul had gathered a
 bundle of sticks and laid them on the fire, a viper came out because of the
 heat, and fastened on his hand.
-<t xml:lang="es">
-<wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="3972,4,">Pablo</wi></wi>
 <wi type="G" value="4962,1,">reunió</wi>
 <wi type="G" value="4128,6,">un montón</wi>
@@ -23129,8 +23120,8 @@ al <wi type="G" value="3588,11,"><wi type="G" value="4759,12,">capitán
 de la guardia</wi></wi><rf><citebib id="Gideons"/> no
 dice `el centurión envió los prisioneres donde el capitán de la
 guardia.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="3588,13,"/>
-<wi type="G" value="1161,14,">pero</wi>
+<t xml:lang="es">,
+<wi type="G" value="3588,13,"/><wi type="G" value="1161,14,">pero</wi>
 <wi type="G" value="3972,15,">a Pablo</wi>
 <wi type="G" value="2010,16,">se le permitió</wi>
 <wi type="G" value="3306,17,">quedarse</wi> </t>
@@ -23452,7 +23443,7 @@ And would turn again,
 <wi type="G" value="1994,31,">se convirtieran</wi>, </t>
 <cl/>
 And I would heal them.´
-<t xml:lang="es"><wi type="G" value="2532,32,"/>
+<t xml:lang="es"><wi type="G" value="2532,32,">y</wi>
 <wi type="G" value="2390,33,">yo</wi>
 <wi type="G" value="846,34,">los</wi>
 <wi type="GC" value="33">sanaría</wi>.´ </t>
