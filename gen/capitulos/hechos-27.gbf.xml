@@ -194,11 +194,9 @@ When much time had passed and the voyage was now dangerous, because the
 Fast had now already gone by, Paul admonished them,
 <t xml:lang="es">Cuando <wi type="G" value="1230,4,">había pasado</wi>
 <wi type="G" value="2425,1,">bastante</wi>
-<wi type="G" value="1161,2,"/>
-<wi type="G" value="5550,3,">tiempo</wi>,
+<wi type="G" value="1161,2,"/><wi type="G" value="5550,3,">tiempo</wi>,
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="2235,7,"/>
-<wi type="G" value="3588,9,"><wi type="G" value="4144,10,">el viaje</wi></wi>
+<wi type="G" value="2235,7,"/><wi type="G" value="3588,9,"><wi type="G" value="4144,10,">el viaje</wi></wi>
 <wi type="G" value="5607,6,">se hizo</wi>
 <wi type="G" value="2000,8,">peligroso</wi>,
 <wi type="G" value="1223,11,">como</wi>
@@ -299,7 +297,7 @@ al nooreste y suroeste.´</rf></rb>
 <sv id="Hechos-27-13">
 When the south wind blew softly, supposing that they had obtained their
 purpose, they weighed anchor and sailed along Crete, close to shore.
-<t xml:lang="es">Cuando <wi type="G" value="1161,2,"/>
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> cuando
 <wi type="G" value="3558,3,">el viento del sur</wi>
 <wi type="G" value="5285,1,">sopló suavemente</wi>,
 <wi type="G" value="1380,4,">suponiendo que</wi>
@@ -382,8 +380,9 @@ After they had hoisted it up, they
 used cables to help reinforce the ship. Fearing that they would run aground
 on the Syrtis sand bars, they lowered the sea anchor, and so were driven
 along.
-<t xml:lang="es">Después <wi type="G" value="3739,1,"/>
-de <wi type="G" value="142,2,">elevarlo</wi>,
+<t xml:lang="es">Después
+<wi type="G" value="3739,1,">de</wi>
+<wi type="G" value="142,2,">elevarlo</wi>,
 <wi type="G" value="5530,4,">usaron</wi> </t>
 <rb xml:lang="es"><wi type="G" value="996,3,">refuerzos</wi><rf><citebib id="WEB"/> dice `cables,´
 <citebib id="KJV2003"/> dice `ayudas,´ <citebib id="RV1960"/> dice
@@ -427,8 +426,8 @@ began to throw things overboard.
 tempestad,´ según <citebib id="Thayer-BLB"/>
 la palabra griega `χειμαζομένων´ se traduce
 como `afligir con una tempestad.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="3588,5,"/>
-<wi type="G" value="1836,6,">al día siguiente</wi> </t>
+<t xml:lang="es">, 
+<wi type="G" value="3588,5,"/><wi type="G" value="1836,6,">al día siguiente</wi> </t>
 <rb xml:lang="es"><wi type="G" value="1546,7,"><wi type="G" value="4160,8,">aligeraron el barco</wi></wi><rf><citebib id="WEB"/>
 dice `comenzaron a lanzar cosas,´ según <citebib id="Thayer-BLB"/> `ἐκβολή´ se
 traduce como lanzamiento de bienes y carga para aligerar un barco en una
@@ -468,13 +467,13 @@ be saved was now taken away.
 <wi type="G" value="5494,10,">tempestad</wi> nos
 <wi type="G" value="1945,14,">presionaba</wi><rf><citebib id="SE"/>
 dice `y vieniendo una tempestad no pequeña.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="3063,15,"/>
+<t xml:lang="es">,
+<wi type="G" value="3063,15,">Finalmente</wi>
 se <wi type="G" value="2248,21,">nos</wi>
 <wi type="G" value="4014,16,">fue</wi>
 <wi type="G" value="3956,17,">toda</wi>
 <wi type="G" value="1680,18,">esperanza</wi> de ser
-<wi type="G" value="3588,19,"/>
-<wi type="G" value="4982,20,">salvados</wi>. </t>
+<wi type="G" value="3588,19,"/><wi type="G" value="4982,20,">salvados</wi>. </t>
 
 </sv></cm><cm>
 <sv id="Hechos-27-21">

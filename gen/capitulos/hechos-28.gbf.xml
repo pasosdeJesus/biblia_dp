@@ -54,8 +54,7 @@ present rain, and because of the cold.
 But when Paul had gathered a
 bundle of sticks and laid them on the fire, a viper came out because of the
 heat, and fastened on his hand.
-<t xml:lang="es">
-<wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="3972,4,">Pablo</wi></wi>
 <wi type="G" value="4962,1,">reunió</wi>
 <wi type="G" value="4128,6,">un montón</wi>
@@ -364,8 +363,8 @@ al <wi type="G" value="3588,11,"><wi type="G" value="4759,12,">capitán
 de la guardia</wi></wi><rf><citebib id="Gideons"/> no
 dice `el centurión envió los prisioneres donde el capitán de la
 guardia.´</rf></rb>
-<t xml:lang="es">, <wi type="G" value="3588,13,"/>
-<wi type="G" value="1161,14,">pero</wi>
+<t xml:lang="es">,
+<wi type="G" value="3588,13,"/><wi type="G" value="1161,14,">pero</wi>
 <wi type="G" value="3972,15,">a Pablo</wi>
 <wi type="G" value="2010,16,">se le permitió</wi>
 <wi type="G" value="3306,17,">quedarse</wi> </t>
@@ -687,7 +686,7 @@ And would turn again,
 <wi type="G" value="1994,31,">se convirtieran</wi>, </t>
 <cl/>
 And I would heal them.´
-<t xml:lang="es"><wi type="G" value="2532,32,"/>
+<t xml:lang="es"><wi type="G" value="2532,32,">y</wi>
 <wi type="G" value="2390,33,">yo</wi>
 <wi type="G" value="846,34,">los</wi>
 <wi type="GC" value="33">sanaría</wi>.´ </t>

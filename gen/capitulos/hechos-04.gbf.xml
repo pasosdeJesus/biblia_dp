@@ -635,15 +635,12 @@ aoristo, pasivo, indicativo.</rf></rb>
 <cl/>
 Against the Lord, and against his
 <t xml:lang="es">
-<wi type="G" value="1909,10,"/><wi type="G" value="3588,11,"/>
-<wi type="G" value="846,12,"/>
-<wi type="G" value="2596,13,">contra</wi>
-<wi type="G" value="3588,14,"/>
-<wi type="G" value="2962,15,">del Señor</wi>,
+<wi type="G" value="3588,11,"/><wi type="G" value="1909,10,">en</wi>
+<wi type="G" value="846,12,"/><wi type="G" value="2596,13,">contra</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="2962,15,">del Señor</wi>,
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="2596,17,">contra</wi>
-<wi type="G" value="3588,18,"/>
-<wi type="G" value="846,20,">su</wi> </t>
+<wi type="G" value="3588,18,"/><wi type="G" value="846,20,">su</wi> </t>
 <rb>Christ
 <t xml:lang="es"><wi type="G" value="5547,19,">Cristo</wi></t><rf>Christ (Greek)
 and Messiah (Hebrew) both mean Anointed One. (Compare Psalm 2).

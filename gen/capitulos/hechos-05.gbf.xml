@@ -212,8 +212,7 @@ a
 <sv id="Hechos-5-10">
 She fell down immediately at his feet, and died. The young men came in
 and found her dead, and they carried her out and buried her by her husband.
-<t xml:lang="es">
-<wi type="G" value="1161,2,"/><wi type="G" value="4098,1,">Ella cayó</wi>
+<t xml:lang="es"><wi type="G" value="1161,2,"/><wi type="G" value="4098,1,">Ella cayó</wi>
 <wi type="G" value="3916,3,">de inmediato</wi>
 <wi type="G" value="3844,4,">a</wi>
 <wi type="G" value="3588,5,"/>
@@ -507,10 +506,9 @@ them in the prison. They returned and reported,
 «We found the prison
 shut and locked, and the guards standing before the doors, but when we opened
 them, we found no one inside!»
-<t xml:lang="es">
-<wi type="G" value="3004,1,">diciendo</wi>
-<wi type="G" value="3754,2,"/>
-<wi type="G" value="3588,3,"/> «<wi type="G" value="3303,4,">Verdaderamente</wi>,
+<t xml:lang="es"><wi type="G" value="3004,1,">diciendo</wi>
+«<wi type="G" value="3588,3,"/><wi type="G" value="3754,2,">Pues</wi>
+<wi type="G" value="3303,4,">verdaderamente</wi>,
 <wi type="G" value="2147,6,">encontramos</wi>
 <wi type="G" value="1201,5,">la prisión</wi>
 <wi type="G" value="2808,7,">cerrada</wi>
@@ -518,13 +516,11 @@ them, we found no one inside!»
 <wi type="G" value="3956,9,">toda</wi>
 <wi type="G" value="803,10,">seguridad</wi>,
 <wi type="G" value="2532,11,">y</wi>
-<wi type="G" value="3588,12,"/>
-<wi type="G" value="5441,13,">los guardias</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="5441,13,">los guardias</wi>
 <wi type="G" value="2476,15,">estaban</wi>
 <wi type="G" value="1854,14,">afuera</wi>
 <wi type="G" value="4253,16,">frente</wi> a
-<wi type="G" value="3588,17,"/>
-<wi type="G" value="2374,18,">las puertas</wi>,
+<wi type="G" value="3588,17,"/><wi type="G" value="2374,18,">las puertas</wi>,
 <wi type="G" value="1161,20,">pero</wi>
 <wi type="G" value="455,19,">cuando abrimos</wi>, ¡
 <wi type="G" value="3762,22,">no</wi>

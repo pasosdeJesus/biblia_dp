@@ -263,8 +263,9 @@ But we believe that we are saved through the grace of the Lord Jesus
 <wi type="G" value="3588,3,"><wi type="G" value="5485,4,">la gracia</wi></wi>
 <wi type="G" value="2962,5,">del Señor</wi>
 <wi type="G" value="2424,6,">Jesús</wi> </t>
-<rb><t xml:lang="es"><wi type="G" value="5547,7,">Cristo</wi></t><rf>TR adds «Christ»<t xml:lang="es"><citebib id="WEB"/>
-no dice «Cristo», pero
+<rb><t xml:lang="es"><wi type="G" value="5547,7,">Cristo</wi></t><rf>
+TR adds «Christ»<t xml:lang="es">
+<citebib id="WEB"/> no dice «Cristo», pero
 <citebib id="TR"/> y <citebib id="KJV2003"/> si lo dicen.</t></rf></rb>
 , just as they are.»
 <t xml:lang="es">,
@@ -366,11 +367,11 @@ nuevamente</wi>
 <wi type="G" value="4098,10,">se ha caído</wi>. </t>
 <cl/>
 I will again build its ruins.
-<t xml:lang="es"><wi type="G" value="2532,11,"/>
-<wi type="G" value="3588,12,"/>
-<wi type="G" value="456,15,">Construiré de nuevo</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,11,">Y</wi>
+<wi type="G" value="456,15,">construiré de nuevo</wi>
 <wi type="G" value="846,14,">sus</wi>
-<wi type="G" value="2679,13,">ruinas</wi>. </t>
+<wi type="G" value="3588,12,"/><wi type="G" value="2679,13,">ruinas</wi>. </t>
 
 <cl/>
 I will set it up,
@@ -473,9 +474,9 @@ traducirse como intercurso sexual ilicito incluyendo adulterio, fornicación,
 homosexualidad, lesbianismo, intercurso con animales, con pariente, con
 hombres o mujeres divorciados. En otros contextos (e.g Mt 5:32 ver nota al
 pie) se ha traducido como fornicación.  </rf></rb>
-<t xml:lang="es">, <wi type="G" value="2532,14,"/>
-<wi type="G" value="3588,15,"/>
-<wi type="G" value="4156,16,">de lo que es ahogado</wi>
+<t xml:lang="es">,
+<wi type="G" value="2532,14,"/><wi type="G" value="3588,15,">de lo que</wi>
+<wi type="G" value="4156,16,">es ahogado</wi>
 <wi type="G" value="2532,17,">y</wi> de
 <wi type="G" value="3588,18,"><wi type="G" value="129,19,">la sangre</wi></wi>. </t>
 </sv>
