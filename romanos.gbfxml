@@ -281,7 +281,8 @@ in you, each of us by the other´s faith, both yours and mine.
 <wi type="G" value="5213,6,">ustedes</wi>
 <wi type="G" value="1223,7,">por</wi>
 <wi type="G" value="4102,11,">la fe</wi>
-<wi type="G" value="3588,8,"/><wi type="G" value="1722,9,"/><wi type="G" value="240,10,">común</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="240,10,">común</wi>
 <wi type="G" value="2532,14,"/>,
 <wi type="G" value="5216,12,">de ustedes</wi>
 <wi type="G" value="5037,13,">y</wi>
@@ -307,9 +308,9 @@ you also, even as among the rest of the Gentiles.
 <wi type="G" value="4314,11,">donde</wi>
 <wi type="G" value="5209,12,">ustedes</wi>,
 <wi type="G" value="2532,13,">pero</wi>
-<wi type="G" value="2967,14,">me fuí</wi>
-<wi type="G" value="891,15,">impedido</wi>,
-<wi type="G" value="3588,16,"/><wi type="G" value="1204,17,"/><wi type="G" value="2443,18,">para</wi>
+<wi type="G" value="891,15,"/><wi type="G" value="2967,14,">me fue impedido</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="1204,17,">venir</wi>,
+<wi type="G" value="2443,18,">para</wi>
 <wi type="G" value="2192,21,">poder tener</wi>
 <wi type="G" value="5100,20,">algún</wi>
 <wi type="G" value="2590,19,">fruto</wi>
@@ -837,8 +838,8 @@ escape the judgment of God?
 <wi type="G" value="444,5,">hombre</wi>
 <wi type="G" value="3588,6,">que</wi>
 <wi type="G" value="2919,7,">juzgas</wi>
-<wi type="G" value="4238,11,">a quienes practican</wi>
-<wi type="G" value="3588,8,"/><wi type="G" value="3588,9,"/><wi type="G" value="5108,10,">tales cosas</wi>,
+<wi type="G" value="3588,8,"/><wi type="G" value="4238,11,">a quienes practican</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="5108,10,">tales cosas</wi>,
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="4160,13,">que haces</wi>
 <wi type="G" value="846,14,">lo mismo</wi>,
@@ -2807,7 +2808,8 @@ one man, Jesus Christ, abound to the many.
 <wi type="G" value="3756,2,">no</wi> es
 <wi type="G" value="5613,3,">como</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="3900,5,">las transgresiones</wi></wi>.
-<wi type="G" value="3779,6,"/><wi type="G" value="2532,7,"/><wi type="G" value="1063,11,">Pues</wi>
+<wi type="G" value="3779,6,">Así</wi>
+<wi type="G" value="2532,7,"/><wi type="G" value="1063,11,">pues</wi>,
 <wi type="G" value="1487,10,">si</wi> por
 <wi type="G" value="3588,12,"><wi type="G" value="3900,15,">las transgresiones</wi></wi>
 <wi type="G" value="3588,13,"><wi type="G" value="1520,14,">de uno</wi></wi>,
@@ -2815,12 +2817,12 @@ one man, Jesus Christ, abound to the many.
 <wi type="G" value="599,18,">murieron</wi>,
 <wi type="G" value="4183,19,">mucho</wi>
 <wi type="G" value="3123,20,">más</wi>
+<wi type="G" value="1722,28,">por</wi>
 <wi type="G" value="3588,21,"><wi type="G" value="5485,22,">la gracia</wi></wi>
 <wi type="G" value="3588,23,"><wi type="G" value="2316,24,">de Dios</wi></wi>,
 <wi type="G" value="2532,25,">y</wi>
 <wi type="G" value="3588,26,"><wi type="G" value="1431,27,">el regalo</wi></wi>
-<wi type="G" value="1722,28,">por</wi>
-<wi type="G" value="5485,29,">la gracia</wi>
+<wi type="G" value="5485,29,">de gracia</wi>
 <wi type="G" value="3588,30,"/><wi type="G" value="3588,31,"><wi type="G" value="1520,32,">de un</wi></wi>
 <wi type="G" value="444,33,">hombre</wi>,
 <wi type="G" value="2424,34,">Jesús</wi>
@@ -4028,8 +4030,9 @@ Cisto o el Ungido, Señor nuestro,´ <citebib id="WEB"/> dice `Agradezco a
 Dios por intermedio de Jesús Cristo, nuestro Señor.´</rf></rb>
 <t xml:lang="es">!
 <wi type="G" value="686,10,">Porque</wi>
-<wi type="G" value="3767,11,">entonces</wi>
-<wi type="G" value="3588,14,"/><wi type="G" value="3303,15,"/><wi type="G" value="3563,16,">con la mente</wi>,
+<wi type="G" value="3767,11,">entonces</wi>,
+<wi type="G" value="3588,14,"/><wi type="G" value="3303,15,">de hecho</wi>,
+<wi type="G" value="3563,16,">con la mente</wi>,
 <wi type="G" value="1473,13,">yo</wi>
 <wi type="G" value="846,12,">mismo</wi>
 <wi type="G" value="1398,17,">sirvo</wi> a
@@ -5127,7 +5130,7 @@ younger.»
 <t xml:lang="es"><wi type="G" value="846,2,">a ella</wi>
 <wi type="G" value="4483,1,">le fue dicho</wi>
 <wi type="G" value="3754,3,">que</wi>,
-«<wi type="G" value="3588,4,"/><wi type="G" value="3588,,"/><wi type="G" value="3187,5,">El mayor</wi>
+«<wi type="G" value="3588,4,"/><wi type="G" value="3187,5,">El mayor</wi>
 <wi type="G" value="1398,6,">servirá</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="1640,8,">al menor</wi>.» </t>
 </sv>
@@ -5477,9 +5480,10 @@ As Isaiah has said before,
 <wi type="G" value="2962,7,">el Señor</wi> de </t>
 <rb>Armies
 <t xml:lang="es"><wi type="G" value="4519,8,">Sabaoth</wi></t>
-<rf>Greek: Sabaoth
-<t xml:lang="es">Del griego Sabaoth: ejercitos de Israel. <citebib id="WEB"/>
-dice `de los ejercitos,´ con nota al pie que dice `Griego: Sabaoth,´
+<rf>Greek: Sabaoth<t xml:lang="es">
+Del griego Sabaoth: ejercitos de Israel. 
+<citebib id="WEB"/> dice `de los ejercitos,´ con nota al pie que 
+dice `Griego: Sabaoth,´
 <citebib id="Gideons"/> dice `Zebaoth,´
 <citebib id="KJV2003"/> dice `Sabaoth.´
 </t></rf>
@@ -5854,7 +5858,8 @@ se traduce como rico, tener abundancia de posesiones externas.
 For, «Whoever will call on the name of the Lord will be saved.»
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>,
 «<wi type="G" value="3956,1,">Cualquiera</wi>
-<wi type="G" value="3739,3,"/><wi type="G" value="302,4,"/><wi type="G" value="1941,5,">que llame</wi>
+<wi type="G" value="3739,3,">que</wi>
+<wi type="G" value="302,4,"/><wi type="G" value="1941,5,">llame</wi>
 <wi type="G" value="3588,6,"><wi type="G" value="3686,7,">el nombre</wi></wi>
 <wi type="G" value="2962,8,">del Señor</wi>
 <wi type="G" value="4982,9,">será salvado</wi>.» </t>
@@ -6539,8 +6544,9 @@ Según <citebib id="Thayer-BLB"/> la palabra griega `φείδομαι´ se trad
 como guardar, abstenerse.
 </rf></rb>
 <t xml:lang="es">
-<wi type="G" value="2798,8,">las ramas</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="2596,6,"/><wi type="G" value="5449,7,">naturales</wi>,
+<wi type="G" value="3588,5,">las</wi>
+<wi type="G" value="2798,8,">ramas</wi>
+<wi type="G" value="2596,6,"/><wi type="G" value="5449,7,">naturales</wi>,
 <wi type="G" value="3381,11,"><wi type="G" value="3761,12,">tampoco</wi></wi>
 <wi type="G" value="4675,13,">te</wi>
 <wi type="G" value="5339,14,">preservará</wi>.  </t>
@@ -7340,9 +7346,10 @@ God.
 <wi type="G" value="1487,10,"/><wi type="G" value="3361,11,">excepto</wi>
 <wi type="G" value="575,12,">de</wi>
 <wi type="G" value="2316,13,">Dios</wi>,
-y
-<wi type="G" value="1849,17,">las autoridades</wi>
-<wi type="G" value="3588,14,"/><wi type="G" value="1161,15,"/><wi type="G" value="5607,16,">que hay</wi>
+<wi type="G" value="1161,15,">y</wi>
+<wi type="G" value="3588,14,">las</wi>
+<wi type="G" value="1849,17,">autoridades</wi>
+<wi type="G" value="5607,16,">que hay</wi>
 <wi type="G" value="1526,22,">son</wi>
 <wi type="G" value="5021,21,">ordenadas</wi>
 <wi type="G" value="5259,18,">por</wi>
@@ -8279,16 +8286,16 @@ Christ Jesus,
 <wi type="G" value="3588,4,"><wi type="G" value="5281,5,">de la paciencia</wi></wi>
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="3588,7,"><wi type="G" value="3874,8,">de la consolación</wi></wi><rf><citebib id="WEB"/>
-dice `el Dios de la paciencia y del apoyo,´ <citebib id="Gideons"/>
-dice `Que Dios les de paciencia y confianza,´
+dice `el Dios de la paciencia y del apoyo,´ 
+<citebib id="Gideons"/> dice `Que Dios les de paciencia y confianza,´
 <citebib id="KJV2003"/> dice `el Dios de la paciencia y la consolación.´
 Según <citebib id="KJV2003"/> los sustantivos `υπομονης´
 y `παρακλησεως´ están en declinación genitiva por lo que consideramos
 es mejor traducción de la paciencia y de la consolación. </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="5213,10,">les</wi>
-<wi type="G" value="1325,9,">conceda</wi>
-<wi type="G" value="3588,11,"/><wi type="G" value="846,12,"/><wi type="G" value="5426,13,">ser de una misma mente</wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="1325,9,">conceda</wi>
+<wi type="G" value="846,12,"/><wi type="G" value="5426,13,">ser de una misma mente</wi>
 <wi type="G" value="1722,14,">unos</wi>
 <wi type="G" value="240,15,">con otros</wi>
 <wi type="G" value="2596,16,">de acuerdo</wi>

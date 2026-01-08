@@ -244,7 +244,7 @@ younger.»
 <t xml:lang="es"><wi type="G" value="846,2,">a ella</wi>
 <wi type="G" value="4483,1,">le fue dicho</wi>
 <wi type="G" value="3754,3,">que</wi>,
-«<wi type="G" value="3588,4,"/><wi type="G" value="3588,,"/><wi type="G" value="3187,5,">El mayor</wi>
+«<wi type="G" value="3588,4,"/><wi type="G" value="3187,5,">El mayor</wi>
 <wi type="G" value="1398,6,">servirá</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="1640,8,">al menor</wi>.» </t>
 </sv>
@@ -594,9 +594,10 @@ As Isaiah has said before,
 <wi type="G" value="2962,7,">el Señor</wi> de </t>
 <rb>Armies
 <t xml:lang="es"><wi type="G" value="4519,8,">Sabaoth</wi></t>
-<rf>Greek: Sabaoth
-<t xml:lang="es">Del griego Sabaoth: ejercitos de Israel. <citebib id="WEB"/>
-dice `de los ejercitos,´ con nota al pie que dice `Griego: Sabaoth,´
+<rf>Greek: Sabaoth<t xml:lang="es">
+Del griego Sabaoth: ejercitos de Israel. 
+<citebib id="WEB"/> dice `de los ejercitos,´ con nota al pie que 
+dice `Griego: Sabaoth,´
 <citebib id="Gideons"/> dice `Zebaoth,´
 <citebib id="KJV2003"/> dice `Sabaoth.´
 </t></rf>

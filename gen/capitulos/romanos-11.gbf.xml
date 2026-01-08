@@ -454,8 +454,9 @@ Según <citebib id="Thayer-BLB"/> la palabra griega `φείδομαι´ se trad
 como guardar, abstenerse.
 </rf></rb>
 <t xml:lang="es">
-<wi type="G" value="2798,8,">las ramas</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="2596,6,"/><wi type="G" value="5449,7,">naturales</wi>,
+<wi type="G" value="3588,5,">las</wi>
+<wi type="G" value="2798,8,">ramas</wi>
+<wi type="G" value="2596,6,"/><wi type="G" value="5449,7,">naturales</wi>,
 <wi type="G" value="3381,11,"><wi type="G" value="3761,12,">tampoco</wi></wi>
 <wi type="G" value="4675,13,">te</wi>
 <wi type="G" value="5339,14,">preservará</wi>.  </t>
