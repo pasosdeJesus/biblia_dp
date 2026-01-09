@@ -1823,7 +1823,9 @@ a <wi type="G" value="3588,15,"/><wi type="G" value="3361,16,">no</wi>
 <wi type="G" value="1125,19,">está escrito</wi>,
 <wi type="G" value="2443,21,">para que</wi>
 <wi type="G" value="3361,22,"><wi type="G" value="1520,23,">ninguno</wi></wi>
-<wi type="G" value="5228,24,"/><wi type="G" value="3588,25,"/><wi type="G" value="1520,26,"/><wi type="G" value="5448,27,">se infle</wi>
+<wi type="G" value="5228,24,"/>
+<wi type="G" value="3588,25,"/>
+<wi type="G" value="1520,26,"/><wi type="G" value="5448,27,">se infle</wi>
 <wi type="G" value="2596,28,">contra</wi>
 <wi type="G" value="3588,29,"/><wi type="G" value="2087,30,">otro</wi>.
 </t>
@@ -2440,7 +2442,7 @@ away the wicked man from among yourselves.»
 <wi type="G" value="1808,8,">saquen</wi> a
 <wi type="G" value="3588,9,"><wi type="G" value="4190,10,">los malos</wi></wi>
 <wi type="G" value="1537,11,">de</wi>
-<wi type="G" value="5216,12,">entre ustedes</wi><wi type="G" value="846,13,"/>.»
+<wi type="G" value="846,13,"/><wi type="G" value="5216,12,">entre ustedes</wi>.»
 </t>
 <cl/>
 </sv></cm></sc>
@@ -3062,7 +3064,8 @@ doesn´t tempt you because of your lack of self-control.
 <wi type="G" value="240,3,">el uno del otro</wi>,
 <wi type="G" value="1487,4,"><wi type="G" value="3361,5,">a menos</wi></wi>
 que sea
-<wi type="G" value="5100,6,"/><wi type="G" value="302,7,"/><wi type="G" value="1537,8,">de</wi>
+<wi type="G" value="5100,6,">por algo</wi>
+<wi type="G" value="302,7,"/><wi type="G" value="1537,8,">de</wi>
 <wi type="G" value="4859,9,">común acuerdo</wi>
 <wi type="G" value="4314,10,">por</wi>
 <wi type="G" value="2540,11,">un tiempo</wi>,
@@ -3072,7 +3075,8 @@ que sea
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="3588,17,"><wi type="G" value="4335,18,">la oración</wi></wi>,
 <wi type="G" value="2532,19,">y</wi>
-<wi type="G" value="3588,22,"/><wi type="G" value="846,23,"/><wi type="G" value="4905,24,">vuelvan a unirse</wi>
+<wi type="G" value="3588,22,"/>
+<wi type="G" value="846,23,"/><wi type="G" value="4905,24,">vuelvan a unirse</wi>
 <wi type="G" value="1909,21,"/><wi type="G" value="3825,20,">de nuevo</wi>,
 <wi type="G" value="2443,25,">para que</wi>
 <wi type="G" value="3588,29,"><wi type="G" value="4567,30,">Satanás</wi></wi>
@@ -4241,7 +4245,8 @@ eat no meat forevermore, that I don´t cause my brother to stumble.
 <wi type="G" value="5315,10,">comeré</wi>
 <wi type="G" value="2907,11,">carne</wi>
 
-<wi type="G" value="1519,12,"/><wi type="G" value="3588,13,"/><wi type="G" value="165,14,">nunca más</wi>,
+<wi type="G" value="1519,12,"/>
+<wi type="G" value="3588,13,"/><wi type="G" value="165,14,">nunca más</wi>,
 <wi type="G" value="2443,15,">para</wi>
 <wi type="G" value="3361,16,">no</wi>
 <wi type="G" value="4624,20,">hacer tropezar a</wi>
@@ -8919,9 +8924,9 @@ As we have borne the image of those made of dust,
 <wi type="G" value="5517,7,">terrenal</wi>, </t>
 <rb>let´s
 <t xml:lang="es"><wi type="G" value="5409,8,">llevaremos</wi></t><rf>NU, TR
-read «we will» instead of «let´s»<t xml:lang="es"><citebib id="WEB"/>
-dice `llevemos,´ con nota al pie de página que dice `NU y TR dicen
-«llevaremos» en lugar de «llevemos»,´
+read «we will» instead of «let´s»<t xml:lang="es">
+<citebib id="WEB"/> dice `llevemos,´ con nota al pie de página que 
+dice `NU y TR dicen «llevaremos» en lugar de «llevemos»,´
 <citebib id="RVG2012"/> dice `traigamos,´
 <citebib id="KJV2003"/> dice `llevaremos´ e indica que el verbo
 `φορεσομεν´ está conjugado en futuro para primera persona plural.
@@ -9175,7 +9180,8 @@ made when I come.
 <wi type="G" value="1438,7,">si mismo</wi>,
 <wi type="G" value="5087,8,"><wi type="G" value="2343,9,">ahorre</wi></wi>
 <wi type="G" value="3739,10,">tal como</wi>
-<wi type="G" value="5100,11,"/><wi type="G" value="302,12,"/><wi type="G" value="2137,13,">haya sido  prosperado</wi>,
+<wi type="G" value="5100,11,"/>
+<wi type="G" value="302,12,"/><wi type="G" value="2137,13,">haya sido  prosperado</wi>,
 <wi type="G" value="2443,14,">para que</wi>
 <wi type="G" value="3361,15,">no</wi>
 <wi type="G" value="1096,20,">se hagan</wi>
