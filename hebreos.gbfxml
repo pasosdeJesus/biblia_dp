@@ -4872,7 +4872,7 @@ of the same promise.
 <wi type="G" value="3588,4,"><wi type="G" value="1093,5,">la tierra</wi></wi>
 <wi type="G" value="3588,6,"><wi type="G" value="1860,7,">de la promesa</wi></wi>,
 <wi type="G" value="5613,8,">como</wi> en
-<wi type="G" value="24,9,">tierra ajena</wi>,
+<wi type="G" value="245,9,">tierra ajena</wi>,
 <wi type="G" value="2730,12,">morando</wi>
 <wi type="G" value="1722,10,">en</wi>
 <wi type="G" value="4633,11,">tiendas</wi>,
@@ -4888,6 +4888,17 @@ of the same promise.
 <sv id="Hebreos-11-10">
 For he looked for the city which has the
 foundations, whose builder and maker is God.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1551,1,">él esperaba</wi>
+<wi type="G" value="4172,7,">la ciudad</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="2192,6,">que tiene</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="2310,5,">fundamentos</wi></wi>,
+<wi type="G" value="3739,8,">cuyo</wi>
+<wi type="G" value="5079,9,">constructor</wi>
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="1217,11,">creador</wi> es
+<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-11">
 By faith, even Sarah
