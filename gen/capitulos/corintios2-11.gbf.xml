@@ -327,7 +327,7 @@ foolish, that I also may boast a little.
 <wi type="G" value="3825,1,">nuevamente</wi>, que
 <wi type="G" value="3361,3,"><wi type="G" value="5100,4,">nadie</wi></wi>
 <wi type="G" value="1380,6,">piense</wi> que
-<wi type="G" value="3165,5,">yo</wi> soy </t>
+<wi type="G" value="3165,5,">yo</wi> estoy</t>
 <rb xml:lang="es"><wi type="G" value="878,7,">loco</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `tonto,´
 <citebib id="RVG2012"/> dice `loco.´
@@ -336,15 +336,16 @@ Según <citebib id="Thayer-BLB"/> la palabra griega
 </rf></rb>
 <t xml:lang="es">.
 <wi type="G" value="1511,8,"/><wi type="G" value="1487,9,">Pero si</wi>
-<wi type="G" value="1161,10,"><wi type="G" value="3361,11,">es así</wi></wi>,
+<wi type="G" value="1161,10,"><wi type="G" value="3361,11,">así es</wi></wi>,
 <wi type="G" value="2579,12,"/>que <wi type="G" value="3165,16,">me</wi>
 <wi type="G" value="1209,15,">reciba</wi>
 <wi type="G" value="5613,13,">como</wi>
 <wi type="G" value="878,14,">loco</wi>,
-<wi type="G" value="2443,17,">para</wi> <wi type="G" value="2744,21,">poder gloriarme</wi>
-<wi type="G" value="3397,18,">un poco</wi><wi type="G" value="5100,19,"/><wi
-type="G" value="2504,20,"/>
-.
+<wi type="G" value="2443,17,">para</wi> 
+<wi type="G" value="2504,20,">también</wi>
+<wi type="G" value="2744,21,">poder gloriarme</wi>
+<wi type="G" value="3397,18,">un poco</wi>
+<wi type="G" value="5100,19,">en algo</wi>.
 </t>
 </sv>
 <sv id="2_Corintios-11-17">
@@ -583,7 +584,8 @@ como excepto, con la excepción, además. </rf></rb>
 <wi type="G" value="3588,4,">lo que</wi>
 <wi type="G" value="3450,6,">me</wi>
 <wi type="G" value="1999,5,">agobia</wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="2596,8,"/><wi type="G" value="2250,9,">diariamente</wi>,
+<wi type="G" value="3588,7,"/><wi type="G" value="2596,8,">a</wi>
+<wi type="G" value="2250,9,">diario</wi>,
 <wi type="G" value="3588,10,"><wi type="G" value="3308,11,">el cuidado</wi></wi>
 <wi type="G" value="3956,12,">por todas</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="1577,14,">las iglesias</wi></wi>.</t>

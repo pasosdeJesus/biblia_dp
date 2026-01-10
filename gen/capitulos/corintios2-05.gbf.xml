@@ -15,7 +15,7 @@ heavens.
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `el tabernáculo,´
 <citebib id="RVG2012"/> dice `habitación.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `σκήνους´
-se traduce como un tabernáculo, una tienda, metafora del cuerpo humano.
+se traduce como un tabernáculo, una tienda, metáfora del cuerpo humano.
 </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2647,11,">se disuelve</wi>
@@ -38,16 +38,17 @@ our habitation which is from heaven;
 <wi type="G" value="5129,4,">este</wi>
 <wi type="G" value="4727,5,">gemimos</wi>,
 <wi type="G" value="1971,13,">deseando</wi> </t>
-<rb xml:lang="es"><wi type="G" value="1902,12,">estar vestidos</wi> con<rf>
+<rb xml:lang="es"><wi type="G" value="1902,12,">estar revestidos</wi> 
+<wi type="G" value="1537,10,">con</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `vestidos,´
 <citebib id="RVG2012"/> dice `sobrevestidos.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `ἐπενδύσασθαι´
-se traduce como estar vestido.
+se traduce como estar vestido o ser puesto.
 </rf></rb>
 <t xml:lang="es">
-<wi type="G" value="2257,8,">nuestra</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="2257,8,">nuestra</wi>
 <wi type="G" value="3588,6,"><wi type="G" value="3613,7,">casa</wi></wi>
-<wi type="G" value="3588,9,"/><wi type="G" value="1537,10,"/><wi type="G" value="3772,11,">celestial</wi>;</t>
+<wi type="G" value="3772,11,">celestial</wi>;</t>
 </sv>
 <sv id="2_Corintios-5-3">
 if so be that being clothed we will

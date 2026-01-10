@@ -78,7 +78,8 @@ image of God, should not dawn on them.
 <wi type="G" value="5186,8,">ha cegado</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="3540,10,">las mentes</wi></wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="571,12,">incrédulas</wi>,
-<wi type="G" value="1519,13,"/><wi type="G" value="3588,14,"/><wi type="G" value="3361,15,">para que no</wi>
+<wi type="G" value="1519,13,">para que</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="3361,15,">no</wi>
 <wi type="G" value="846,17,">los</wi>
 <wi type="G" value="826,16,">iluminara</wi>
 <wi type="G" value="3588,18,"><wi type="G" value="5462,19,">la luz</wi></wi>
@@ -260,9 +261,11 @@ flesh.
 </sv>
 <sv id="2_Corintios-4-12">
 So then death works in us, but life in you.
-<t xml:lang="es"><wi type="G" value="5620,1,">De manera que</wi>
-<wi type="G" value="2288,4,">la muerte</wi>
-<wi type="G" value="3588,2,"/><wi type="G" value="3303,3,"/><wi type="G" value="1754,7,">obre</wi>
+<t xml:lang="es"><wi type="G" value="5620,1,">Para que</wi>,
+<wi type="G" value="3303,3,">de hecho</wi>,
+<wi type="G" value="3588,2,">la</wi>
+<wi type="G" value="2288,4,">muerte</wi>
+<wi type="G" value="1754,7,">obre</wi>
 <wi type="G" value="1722,5,">en</wi>
 <wi type="G" value="2254,6,">nosotros</wi>,
 <wi type="G" value="3588,8,"/><wi type="G" value="1161,9,">y</wi>
@@ -353,10 +356,11 @@ outward man is decaying, yet our inward man is renewed day by day.
 <wi type="G" value="235,4,">pues</wi>
 <wi type="G" value="1487,5,">aunque</wi>
 <wi type="G" value="2257,9,">nuestro</wi>
-<wi type="G" value="444,10,">hombre</wi>
-<wi type="G" value="2532,6,"/><wi type="G" value="3588,7,"/><wi type="G" value="1854,8,">exterior</wi>
+<wi type="G" value="2532,6,"/><wi type="G" value="444,10,">hombre</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="1854,8,">exterior</wi>
 <wi type="G" value="1311,11,">esté decayendo</wi>,
-<wi type="G" value="235,12,"/><wi type="G" value="3588,13,"/><wi type="G" value="2081,14,">el interior</wi>
+<wi type="G" value="235,12,"/><wi type="G" value="3588,13,">el</wi>
+<wi type="G" value="2081,14,">interior</wi>
 <wi type="G" value="341,15,">es renovado</wi>
 <wi type="G" value="2250,16,">día</wi>
 <wi type="G" value="2532,17,">a</wi>
