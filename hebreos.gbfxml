@@ -4954,13 +4954,41 @@ by the sea shore, were fathered by one man, and him as good as dead.
 </sv>
 <sv id="Hebreos-11-13">
 These all died in faith, not having received the promises, but having
-seen
-<rb>
-<t xml:lang="es"/><rf>TR adds «and being convinced of»<t xml:lang="es"/></rf>
-</rb>
- them and embraced them from
+seen them
+<t xml:lang="es"><wi type="G" value="3956,5,">Todos</wi>
+<wi type="G" value="3778,4,">estos</wi>
+<wi type="G" value="599,3,">murieron</wi>
+<wi type="G" value="2596,1,">en</wi>
+<wi type="G" value="4102,2,">fe</wi>,
+<wi type="G" value="3361,6,">sin</wi>
+<wi type="G" value="2983,7,">haber recibido</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="1860,9,">las promesas</wi></wi>,
+<wi type="G" value="235,10,">pero</wi>
+<wi type="G" value="1492,13,"><wi type="G" value="846,12,">habiéndolas visto</wi></wi>
+<wi type="G" value="4207,11,">de lejos</wi>,
+</t>
+<rb><t xml:lang="es"><wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="3982,15,">estando convencidos</wi></t><rf>
+adds «and being convinced of»
+<t xml:lang="es"><citebib id="WEB"/> omite `y estando convencidos´ que si
+está presente en TR, <citebib id="KJV2003"/></t>
+</rf></rb>
+and embraced them from
 afar, and having confessed that they were strangers and pilgrims on the
 earth.
+<t xml:lang="es">
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="782,17,">acogiéndolas</wi>
+<wi type="G" value="2532,18,">y</wi>
+<wi type="G" value="3670,19,">habiendo confesado</wi>
+<wi type="G" value="3754,20,">que</wi>
+<wi type="G" value="1526,24,">eran</wi>
+<wi type="G" value="3581,21,">extranjeros</wi>
+<wi type="G" value="2532,22,">y</wi>
+<wi type="G" value="3927,23,">peregrinos</wi>
+<wi type="G" value="1909,25,">en</wi>
+<wi type="G" value="3588,26,"><wi type="G" value="1093,27,">la tierra</wi></wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-14">
 For those who say such things make it clear that they are
