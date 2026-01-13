@@ -4993,11 +4993,33 @@ earth.
 <sv id="Hebreos-11-14">
 For those who say such things make it clear that they are
 seeking after a country of their own.
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3588,1,">los que</wi>
+<wi type="G" value="3004,4,">dicen</wi>
+<wi type="G" value="5108,3,">tales cosas</wi>,
+<wi type="G" value="1718,5,">declaran</wi>
+<wi type="G" value="3754,6,">que</wi>
+<wi type="G" value="1934,8,">buscan</wi>
+<wi type="G" value="3968,7,">un país</wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-15">
 If indeed they had been thinking
 of that country from which they went out, they would have had enough time to
 return.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3303,3,">de hecho</wi>,
+<wi type="G" value="1487,2,">si</wi>
+<wi type="G" value="3421,5,">hubieran estado pensando</wi>
+<wi type="G" value="1565,4,">en aquel</wi>
+<wi type="G" value="575,6,">de</wi>
+<wi type="G" value="3739,7,">donde</wi>
+<wi type="G" value="1831,8,">salieron</wi>,
+<wi type="G" value="302,10,"><wi type="G" value="2192,9,">habrían tenido</wi></wi>
+<wi type="G" value="2540,11,">tiempo</wi>
+<wi type="G" value="344,12,">para regresar</wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-16">
 But now they desire a better country, that is, a heavenly one.
