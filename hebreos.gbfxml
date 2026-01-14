@@ -5025,13 +5025,44 @@ return.
 But now they desire a better country, that is, a heavenly one.
 Therefore God is not ashamed of them, to be called their God, for he has
 prepared a city for them.
-
+<t xml:lang="es"><wi type="G" value="1161,2,">Más</wi>
+<wi type="G" value="3570,1,">ahora</wi>
+<wi type="G" value="3713,4,">ellos desean</wi>
+<wi type="G" value="2909,3,">uno mejor</wi>,
+<wi type="G" value="5124,5,">que</wi>
+<wi type="G" value="2076,6,">es</wi>,
+<wi type="G" value="2032,7,">uno celestial</wi>.
+<wi type="G" value="1352,8,">Por eso</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>
+<wi type="G" value="3756,9,">no</wi>
+<wi type="G" value="1870,10,">se avergüenza</wi>
+<wi type="G" value="846,11,">de ellos</wi>,
+<wi type="G" value="1941,15,">de ser llamado</wi>
+<wi type="G" value="846,16,">su</wi>
+<wi type="G" value="2316,14,">Dios</wi>,
+<wi type="G" value="1063,18,">pues</wi>
+<wi type="G" value="2090,17,">Él ha preparado</wi>
+<wi type="G" value="4172,20,">una ciudad</wi>
+<wi type="G" value="846,19,">para ellos</wi>.
+</t>
 </sv></cm>
 
 <cm>
 <sv id="Hebreos-11-17">
 By faith, Abraham, being tested, offered up Isaac. Yes, he who had
 gladly received the promises was offering up his one and only son;
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="11,3,">Abraham</wi>,
+<wi type="G" value="3985,6,">siendo probado</wi>,
+<wi type="G" value="4374,2,">ofreció a</wi>
+<wi type="G" value="2464,5,">Isaac</wi>.
+<wi type="G" value="2532,7,">Y</wi>,
+<wi type="G" value="3588,4,">aquel</wi> que
+<wi type="G" value="324,14,">recibió</wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="3588,12,"><wi type="G" value="1860,13,">la promesa</wi></wi>
+<wi type="G" value="4374,10,">estaba ofreciendo a</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="3439,9,">su único hijo</wi>;
+</t>
 </sv>
 <sv id="Hebreos-11-18">
 even
