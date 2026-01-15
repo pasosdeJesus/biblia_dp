@@ -5065,13 +5065,35 @@ gladly received the promises was offering up his one and only son;
 </t>
 </sv>
 <sv id="Hebreos-11-18">
-even
-he to whom it was said, «In Isaac will your seed be called;»
+even he to whom it was said, «In Isaac will your seed be called;»
+<t xml:lang="es"><wi type="G" value="4314,1,">A</wi>
+<wi type="G" value="3739,2,">quien</wi>
+<wi type="G" value="2980,3,">se le había dicho</wi>
+<wi type="G" value="3754,4,">que</wi>
+<wi type="G" value="1722,5,">en</wi>,
+«<wi type="G" value="2464,6,">En Isaac</wi>
+<wi type="G" value="2564,7,">será llamada</wi>
+<wi type="G" value="4671,8,">tu</wi>
+<wi type="G" value="4690,9,">descendencia</wi>;»</t>
 </sv>
 <sv id="Hebreos-11-19">
 accounting
 that God is able to raise up even from the dead. Figuratively speaking, he
 also did receive him back from the dead.
+<t xml:lang="es"><wi type="G" value="3049,1,">teniendo en cuenta</wi>
+<wi type="G" value="3754,2,">que</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>
+<wi type="G" value="1415,7,">puede</wi>
+<wi type="G" value="1453,6,">levantarla</wi>
+<wi type="G" value="2532,3,">incluso</wi>
+<wi type="G" value="1537,4,">de</wi>
+<wi type="G" value="3498,5,">los muertos</wi>.
+<wi type="G" value="3606,10,">De donde</wi>
+<wi type="G" value="2532,12,">también</wi>
+<wi type="G" value="846,11,">la</wi>
+<wi type="G" value="2865,15,">recibió</wi>
+<wi type="G" value="1722,13,"><wi type="G" value="3850,14,">figurativamente</wi></wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-20">
 By faith, Isaac blessed Jacob

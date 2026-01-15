@@ -2661,12 +2661,14 @@ water springing up to eternal life.»
 <wi type="G" value="1325,10,">de</wi>,
 <wi type="G" value="3756,12,"><wi type="G" value="3361,13,">nunca más</wi></wi>
 <wi type="G" value="1372,14,">tendrá sed</wi>;
-<wi type="G" value="1519,15,"/><wi type="G" value="3588,16,"/><wi type="G" value="165,17,"/><wi type="G" value="235,18,">sino que</wi>
+<wi type="G" value="1519,15,"/>
+<wi type="G" value="3588,16,"/><wi type="G" value="235,18,">sino que</wi>
 <wi type="G" value="3588,19,"><wi type="G" value="5204,20,">el agua</wi></wi>
 <wi type="G" value="3739,21,">que</wi>
 <wi type="G" value="846,23,">le</wi>
 <wi type="G" value="1325,22,">daré</wi>
 <wi type="G" value="1096,24,">será</wi>
+<wi type="G" value="165,17,">siempre</wi>
 <wi type="G" value="1722,25,">en</wi>
 <wi type="G" value="846,26,">él</wi>
 <wi type="G" value="4077,27,">una fuente</wi>
@@ -9522,8 +9524,7 @@ sheep, and flees. The wolf snatches the sheep, and scatters them.
 <sv id="Juan-10-13"><fr>
 The hired hand flees because he is a hired hand, and doesn´t care for
 the sheep.
-<t xml:lang="es"><wi type="G" value="3588,1,"/>
-<wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="3411,3,">el empleado contratado</wi>
 <wi type="G" value="5343,4,">huye</wi>
 <wi type="G" value="3754,5,">porque</wi>
