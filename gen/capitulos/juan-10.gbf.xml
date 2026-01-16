@@ -254,8 +254,7 @@ sheep, and flees. The wolf snatches the sheep, and scatters them.
 <sv id="Juan-10-13"><fr>
 The hired hand flees because he is a hired hand, and doesn´t care for
 the sheep.
-<t xml:lang="es"><wi type="G" value="3588,1,"/>
-<wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="3411,3,">el empleado contratado</wi>
 <wi type="G" value="5343,4,">huye</wi>
 <wi type="G" value="3754,5,">porque</wi>
@@ -551,7 +550,8 @@ them out of my hand.
 <wi type="G" value="1325,4,">doy</wi>
 <wi type="G" value="2222,2,">vida</wi>
 <wi type="G" value="166,3,">eterna</wi>. <wi type="G" value="2532,6,">Y</wi>
-<wi type="G" value="1519,10,"/><wi type="G" value="3588,11,"/><wi type="G" value="3756,7,"><wi type="G" value="3361,8,"><wi type="G" value="165,12,">nunca</wi></wi></wi>
+<wi type="G" value="1519,10,"/>
+<wi type="G" value="3588,11,"/><wi type="G" value="3756,7,"><wi type="G" value="3361,8,"><wi type="G" value="165,12,">nunca</wi></wi></wi>
 <wi type="G" value="622,9,">perecerán</wi>,
 <wi type="G" value="2532,13,"/><wi type="G" value="3756,14,">ni</wi>
 <wi type="G" value="5100,16,">nadie</wi>

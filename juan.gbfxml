@@ -3861,10 +3861,11 @@ For this
 cause therefore the Jews sought all the more to kill him, because he not only
 broke the Sabbath, but also called God his own Father, making himself equal
 with God.
-<t xml:lang="es"><wi type="G" value="1223,1,">Por esto</wi>
+<t xml:lang="es"><wi type="G" value="1223,1,">Por</wi>
+<wi type="G" value="5124,2,">esto</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="2453,8,">los judíos</wi>
 <wi type="G" value="2212,5,">buscaban</wi>
-<wi type="G" value="5124,2,"/><wi type="G" value="3767,3,"/><wi type="G" value="3123,4,">aún más</wi>
+<wi type="G" value="3767,3,"/><wi type="G" value="3123,4,">aún más</wi>
 <wi type="G" value="615,9,"><wi type="G" value="846,6,">matarlo</wi></wi>,
 <wi type="G" value="3754,10,">porque</wi>
 <wi type="G" value="3756,11,">no</wi>
@@ -5896,8 +5897,9 @@ At this, many of his disciples went back, and walked no more with him.
 <wi type="G" value="4183,3,">muchos</wi> de
 <wi type="G" value="846,7,">sus</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="3101,6,">discípulos</wi></wi>
+<wi type="G" value="3694,10,">después</wi>
 <wi type="G" value="565,4,"><wi type="G" value="1519,8,">regresaron</wi></wi>,
-<wi type="G" value="3588,9,"/><wi type="G" value="3694,10,"/><wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="3765,12,">no</wi>
 <wi type="G" value="4043,15,">caminaron</wi>
 más <wi type="G" value="3326,13,">con</wi>
@@ -9093,9 +9095,9 @@ If this man were not from God, he could do nothing.»
 <wi type="G" value="2258,3,">fuera</wi>
 <wi type="G" value="3844,5,">de</wi>
 <wi type="G" value="2316,6,">Dios</wi>,
-<wi type="G" value="3756,7,">nada</wi>
+<wi type="G" value="3756,7,"><wi type="G" value="3762,10,">nada</wi></wi>
 <wi type="G" value="1410,8,">podría</wi>
-<wi type="G" value="4160,9,">hacer</wi><wi type="G" value="3762,10,"/>.» </t>
+<wi type="G" value="4160,9,">hacer</wi>.» </t>
 </sv></cm>
 
 <cm>
@@ -9820,7 +9822,8 @@ them out of my hand.
 <wi type="G" value="1325,4,">doy</wi>
 <wi type="G" value="2222,2,">vida</wi>
 <wi type="G" value="166,3,">eterna</wi>. <wi type="G" value="2532,6,">Y</wi>
-<wi type="G" value="1519,10,"/><wi type="G" value="3588,11,"/><wi type="G" value="3756,7,"><wi type="G" value="3361,8,"><wi type="G" value="165,12,">nunca</wi></wi></wi>
+<wi type="G" value="1519,10,"/>
+<wi type="G" value="3588,11,"/><wi type="G" value="3756,7,"><wi type="G" value="3361,8,"><wi type="G" value="165,12,">nunca</wi></wi></wi>
 <wi type="G" value="622,9,">perecerán</wi>,
 <wi type="G" value="2532,13,"/><wi type="G" value="3756,14,">ni</wi>
 <wi type="G" value="5100,16,">nadie</wi>
@@ -10188,14 +10191,15 @@ sister, and Lazarus.
 <sv id="Juan-11-6">
 When therefore he heard that he was sick, he stayed
 two days in the place where he was.
-<rb xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
+<rb xml:lang="es"><wi type="G" value="3767,2,">Así que</wi>
 <wi type="G" value="5613,1,">cuando</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/>
 dicen `entonces,´ <citebib id="DiosHablaHoy"/> dice
 `aunque.´</rf></rb>
 <t xml:lang="es"> <wi type="G" value="191,3,">supo</wi>
 <wi type="G" value="3754,4,">que</wi>
 <wi type="G" value="770,5,">estaba enfermo</wi>,
-<wi type="G" value="5119,6,"/><wi type="G" value="3303,7,"/><wi type="G" value="3306,8,">se quedó</wi>
+<wi type="G" value="5119,6,"/><wi type="G" value="3303,7,">de hecho</wi>
+<wi type="G" value="3306,8,">se quedó</wi>
 <wi type="G" value="1417,13,">dos</wi>
 <wi type="G" value="2250,14,">días</wi>
 más
@@ -10429,8 +10433,9 @@ brother.
 <wi type="G" value="1537,3,">de</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="2453,5,">los Judíos</wi>
 <wi type="G" value="2064,6,">vinieron</wi>
-<wi type="G" value="4314,7,"/><wi type="G" value="3588,8,"/><wi type="G" value="4012,9,">donde</wi>
-<wi type="G" value="3136,10,">Marta</wi>
+<wi type="G" value="4314,7,">donde</wi>
+<wi type="G" value="3588,8,"/>
+<wi type="G" value="4012,9,"/><wi type="G" value="3136,10,">Marta</wi>
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="3137,12,">María</wi>,
 <wi type="G" value="2443,13,">para</wi>
@@ -10550,8 +10555,8 @@ believes in me will never die. Do you believe this?»
 <wi type="G" value="1691,8,">mí</wi>
 <wi type="G" value="3756,9,">no</wi>
 <wi type="G" value="599,11,">morirá</wi>
-<wi type="G" value="3361,10,">jamás</wi>.
-<wi type="G" value="1519,12,"/><wi type="G" value="3588,13,"/><wi type="G" value="165,14,"/>¿<wi type="G" value="4100,15,">Crees</wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="3361,10,"><wi type="G" value="165,14,">jamás</wi></wi>.
+<wi type="G" value="1519,12,"/>¿<wi type="G" value="4100,15,">Crees</wi>
 <wi type="G" value="5124,16,">esto</wi>?» </t>
 </fr>
 
@@ -12415,9 +12420,10 @@ will understand later.»
 <wi type="G" value="3739,6,">lo que</wi>
 <wi type="G" value="1473,7,">Yo</wi>
 <wi type="G" value="4160,8,">hago</wi>,
-<wi type="G" value="1161,14,">pero</wi> lo
+<wi type="G" value="1161,14,">pero</wi>
 <wi type="G" value="1097,13,">entenderás</wi>
-<wi type="G" value="3326,15,">después</wi><wi type="G" value="5023,16,"/>.» </t>
+<wi type="G" value="3326,15,">después</wi>
+<wi type="G" value="5023,16,">estas cosas</wi>.» </t>
 </fr>
 </sv></cm>
 
@@ -12427,7 +12433,8 @@ Peter said to him, «You will never wash my feet!»
 <t xml:lang="es"><wi type="G" value="4074,3,">Pedro</wi>
 <wi type="G" value="846,2,">le</wi>
 <wi type="G" value="3004,1,">dijo</wi>,
-«¡<wi type="G" value="3756,4,"/><wi type="G" value="3361,5,"/><wi type="G" value="1519,10,"/><wi type="G" value="3588,11,"><wi type="G" value="165,12,">Nunca</wi></wi>
+«¡<wi type="G" value="3756,4,"><wi type="G" value="3361,5,">No</wi></wi>,
+<wi type="G" value="1519,10,"/><wi type="G" value="3588,11,"><wi type="G" value="165,12,">jamas</wi></wi>
 <wi type="G" value="3538,6,">lavarás</wi>
 <wi type="G" value="3450,9,">mis</wi>
 <wi type="G" value="3588,7,"><wi type="G" value="4228,8,">pies</wi></wi>!» </t>
@@ -14219,7 +14226,8 @@ I chose you out of the world, therefore the world hates you.
 <wi type="G" value="3588,3,"><wi type="G" value="2889,4,">mundo</wi></wi>,
 <wi type="G" value="3588,6,"><wi type="G" value="2889,7,">el mundo</wi></wi>
 <wi type="G" value="5368,11,">amaría</wi> a
-<wi type="G" value="302,8,"/><wi type="G" value="3588,9,"/><wi type="G" value="2398,10,">los suyos</wi>.
+<wi type="G" value="302,8,"/>
+<wi type="G" value="3588,9,"/><wi type="G" value="2398,10,">los suyos</wi>.
 <wi type="G" value="1161,13,">Pero</wi>
 <wi type="G" value="3754,12,">como</wi>
 <wi type="G" value="3756,17,">no</wi>
@@ -15917,7 +15925,8 @@ they went backward, and fell to the ground.
 <wi type="G" value="2036,3,">dijo</wi>
 «<wi type="G" value="3754,5,"/><wi type="G" value="1473,6,">YO</wi>
 <wi type="G" value="1510,7,">SOY</wi>»,
-<wi type="G" value="1519,9,"/><wi type="G" value="3588,10,"/><wi type="G" value="565,8,"><wi type="G" value="3694,11,">retrocedieron</wi></wi>
+<wi type="G" value="1519,9,"/>
+<wi type="G" value="3588,10,"/><wi type="G" value="565,8,"><wi type="G" value="3694,11,">retrocedieron</wi></wi>
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="4098,13,">cayeron</wi>
 <wi type="G" value="5476,14,">a tierra</wi>. </t>

@@ -145,9 +145,10 @@ will understand later.»
 <wi type="G" value="3739,6,">lo que</wi>
 <wi type="G" value="1473,7,">Yo</wi>
 <wi type="G" value="4160,8,">hago</wi>,
-<wi type="G" value="1161,14,">pero</wi> lo
+<wi type="G" value="1161,14,">pero</wi>
 <wi type="G" value="1097,13,">entenderás</wi>
-<wi type="G" value="3326,15,">después</wi><wi type="G" value="5023,16,"/>.» </t>
+<wi type="G" value="3326,15,">después</wi>
+<wi type="G" value="5023,16,">estas cosas</wi>.» </t>
 </fr>
 </sv></cm>
 
@@ -157,7 +158,8 @@ Peter said to him, «You will never wash my feet!»
 <t xml:lang="es"><wi type="G" value="4074,3,">Pedro</wi>
 <wi type="G" value="846,2,">le</wi>
 <wi type="G" value="3004,1,">dijo</wi>,
-«¡<wi type="G" value="3756,4,"/><wi type="G" value="3361,5,"/><wi type="G" value="1519,10,"/><wi type="G" value="3588,11,"><wi type="G" value="165,12,">Nunca</wi></wi>
+«¡<wi type="G" value="3756,4,"><wi type="G" value="3361,5,">No</wi></wi>,
+<wi type="G" value="1519,10,"/><wi type="G" value="3588,11,"><wi type="G" value="165,12,">jamas</wi></wi>
 <wi type="G" value="3538,6,">lavarás</wi>
 <wi type="G" value="3450,9,">mis</wi>
 <wi type="G" value="3588,7,"><wi type="G" value="4228,8,">pies</wi></wi>!» </t>

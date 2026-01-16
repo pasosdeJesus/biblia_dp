@@ -243,52 +243,196 @@ foundations, whose builder and maker is God.
 By faith, even Sarah
 herself received power to conceive, and she bore a child when she was past
 age, since she counted him faithful who had promised.
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="2532,2,">aún</wi>
+<wi type="G" value="4564,4,">Sara</wi>
+<wi type="G" value="846,3,">misma</wi>
+<wi type="G" value="2983,9,">recibió</wi>
+<wi type="G" value="1411,5,">poder</wi>
+<wi type="G" value="1519,6,">para</wi>
+<wi type="G" value="2602,7,">concebir</wi>
+<wi type="G" value="4690,8,">descendencia</wi>,
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="5088,14,">dió a luz</wi>
+a <wi type="G" value="2244,13,">una edad</wi>
+<wi type="G" value="3844,11,">fuera de</wi>
+<wi type="G" value="2540,12,">tiempo</wi>,
+<wi type="G" value="1893,15,">porque</wi>
+<wi type="G" value="2233,17,">contó</wi>
+<wi type="G" value="4103,16,">como fiel</wi>
+<wi type="G" value="3588,18,">al que</wi>
+<wi type="G" value="1861,19,">había prometido</wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-12">
 Therefore as many
 as the stars of the sky in multitude, and as innumerable as the sand which is
 by the sea shore, were fathered by one man, and him as good as dead.
+<t xml:lang="es"><wi type="G" value="1352,1,">Por esto</wi>
+<wi type="G" value="2532,2,">también</wi>
+<wi type="G" value="575,3,">de</wi>
+<wi type="G" value="1520,4,">uno</wi>,
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="5023,7,">de este</wi>
+<wi type="G" value="3499,8,">ya muerto</wi>,
+<wi type="G" value="1080,5,">fueron engendrados</wi>
+<wi type="G" value="2531,9,">tantos como</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="798,11,">las estrellas</wi></wi>
+<wi type="G" value="3588,12,"><wi type="G" value="3772,13,">del cielo</wi></wi>
+<wi type="G" value="3588,14,"><wi type="G" value="4128,15,">en multitud</wi></wi>,
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="5616,17,">como</wi>
+<wi type="G" value="285,18,">la arena</wi>
+<wi type="G" value="3588,25,"><wi type="G" value="382,26,">innumerable</wi></wi>
+<wi type="G" value="3588,19,">que está</wi>
+<wi type="G" value="3844,20,">a</wi>
+<wi type="G" value="3588,21,"><wi type="G" value="5491,22,">la orilla</wi></wi>
+<wi type="G" value="3588,23,"><wi type="G" value="2281,24,">del océano</wi></wi>.
+</t>
 
 </sv>
 <sv id="Hebreos-11-13">
 These all died in faith, not having received the promises, but having
-seen
-<rb>
-<t xml:lang="es"/><rf>TR adds «and being convinced of»<t xml:lang="es"/></rf>
-</rb>
- them and embraced them from
+seen them
+<t xml:lang="es"><wi type="G" value="3956,5,">Todos</wi>
+<wi type="G" value="3778,4,">estos</wi>
+<wi type="G" value="599,3,">murieron</wi>
+<wi type="G" value="2596,1,">en</wi>
+<wi type="G" value="4102,2,">fe</wi>,
+<wi type="G" value="3361,6,">sin</wi>
+<wi type="G" value="2983,7,">haber recibido</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="1860,9,">las promesas</wi></wi>,
+<wi type="G" value="235,10,">pero</wi>
+<wi type="G" value="1492,13,"><wi type="G" value="846,12,">habiéndolas visto</wi></wi>
+<wi type="G" value="4207,11,">de lejos</wi>,
+</t>
+<rb><t xml:lang="es"><wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="3982,15,">estando convencidos</wi></t><rf>
+adds «and being convinced of»
+<t xml:lang="es"><citebib id="WEB"/> omite `y estando convencidos´ que si
+está presente en TR, <citebib id="KJV2003"/></t>
+</rf></rb>
+and embraced them from
 afar, and having confessed that they were strangers and pilgrims on the
 earth.
+<t xml:lang="es">
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="782,17,">acogiéndolas</wi>
+<wi type="G" value="2532,18,">y</wi>
+<wi type="G" value="3670,19,">habiendo confesado</wi>
+<wi type="G" value="3754,20,">que</wi>
+<wi type="G" value="1526,24,">eran</wi>
+<wi type="G" value="3581,21,">extranjeros</wi>
+<wi type="G" value="2532,22,">y</wi>
+<wi type="G" value="3927,23,">peregrinos</wi>
+<wi type="G" value="1909,25,">en</wi>
+<wi type="G" value="3588,26,"><wi type="G" value="1093,27,">la tierra</wi></wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-14">
 For those who say such things make it clear that they are
 seeking after a country of their own.
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3588,1,">los que</wi>
+<wi type="G" value="3004,4,">dicen</wi>
+<wi type="G" value="5108,3,">tales cosas</wi>,
+<wi type="G" value="1718,5,">declaran</wi>
+<wi type="G" value="3754,6,">que</wi>
+<wi type="G" value="1934,8,">buscan</wi>
+<wi type="G" value="3968,7,">un país</wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-15">
 If indeed they had been thinking
 of that country from which they went out, they would have had enough time to
 return.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3303,3,">de hecho</wi>,
+<wi type="G" value="1487,2,">si</wi>
+<wi type="G" value="3421,5,">hubieran estado pensando</wi>
+<wi type="G" value="1565,4,">en aquel</wi>
+<wi type="G" value="575,6,">de</wi>
+<wi type="G" value="3739,7,">donde</wi>
+<wi type="G" value="1831,8,">salieron</wi>,
+<wi type="G" value="302,10,"><wi type="G" value="2192,9,">habrían tenido</wi></wi>
+<wi type="G" value="2540,11,">tiempo</wi>
+<wi type="G" value="344,12,">para regresar</wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-16">
 But now they desire a better country, that is, a heavenly one.
 Therefore God is not ashamed of them, to be called their God, for he has
 prepared a city for them.
-
+<t xml:lang="es"><wi type="G" value="1161,2,">Más</wi>
+<wi type="G" value="3570,1,">ahora</wi>
+<wi type="G" value="3713,4,">ellos desean</wi>
+<wi type="G" value="2909,3,">uno mejor</wi>,
+<wi type="G" value="5124,5,">que</wi>
+<wi type="G" value="2076,6,">es</wi>,
+<wi type="G" value="2032,7,">uno celestial</wi>.
+<wi type="G" value="1352,8,">Por eso</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>
+<wi type="G" value="3756,9,">no</wi>
+<wi type="G" value="1870,10,">se avergüenza</wi>
+<wi type="G" value="846,11,">de ellos</wi>,
+<wi type="G" value="1941,15,">de ser llamado</wi>
+<wi type="G" value="846,16,">su</wi>
+<wi type="G" value="2316,14,">Dios</wi>,
+<wi type="G" value="1063,18,">pues</wi>
+<wi type="G" value="2090,17,">Él ha preparado</wi>
+<wi type="G" value="4172,20,">una ciudad</wi>
+<wi type="G" value="846,19,">para ellos</wi>.
+</t>
 </sv></cm>
 
 <cm>
 <sv id="Hebreos-11-17">
 By faith, Abraham, being tested, offered up Isaac. Yes, he who had
 gladly received the promises was offering up his one and only son;
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="11,3,">Abraham</wi>,
+<wi type="G" value="3985,6,">siendo probado</wi>,
+<wi type="G" value="4374,2,">ofreció a</wi>
+<wi type="G" value="2464,5,">Isaac</wi>.
+<wi type="G" value="2532,7,">Y</wi>,
+<wi type="G" value="3588,4,">aquel</wi> que
+<wi type="G" value="324,14,">recibió</wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="3588,12,"><wi type="G" value="1860,13,">la promesa</wi></wi>
+<wi type="G" value="4374,10,">estaba ofreciendo a</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="3439,9,">su único hijo</wi>;
+</t>
 </sv>
 <sv id="Hebreos-11-18">
-even
-he to whom it was said, «In Isaac will your seed be called;»
+even he to whom it was said, «In Isaac will your seed be called;»
+<t xml:lang="es"><wi type="G" value="4314,1,">A</wi>
+<wi type="G" value="3739,2,">quien</wi>
+<wi type="G" value="2980,3,">se le había dicho</wi>
+<wi type="G" value="3754,4,">que</wi>
+<wi type="G" value="1722,5,">en</wi>,
+«<wi type="G" value="2464,6,">En Isaac</wi>
+<wi type="G" value="2564,7,">será llamada</wi>
+<wi type="G" value="4671,8,">tu</wi>
+<wi type="G" value="4690,9,">descendencia</wi>;»</t>
 </sv>
 <sv id="Hebreos-11-19">
 accounting
 that God is able to raise up even from the dead. Figuratively speaking, he
 also did receive him back from the dead.
+<t xml:lang="es"><wi type="G" value="3049,1,">teniendo en cuenta</wi>
+<wi type="G" value="3754,2,">que</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>
+<wi type="G" value="1415,7,">puede</wi>
+<wi type="G" value="1453,6,">levantarla</wi>
+<wi type="G" value="2532,3,">incluso</wi>
+<wi type="G" value="1537,4,">de</wi>
+<wi type="G" value="3498,5,">los muertos</wi>.
+<wi type="G" value="3606,10,">De donde</wi>
+<wi type="G" value="2532,12,">también</wi>
+<wi type="G" value="846,11,">la</wi>
+<wi type="G" value="2865,15,">recibió</wi>
+<wi type="G" value="1722,13,"><wi type="G" value="3850,14,">figurativamente</wi></wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-20">
 By faith, Isaac blessed Jacob
