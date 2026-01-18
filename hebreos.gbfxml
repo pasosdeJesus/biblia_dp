@@ -1653,8 +1653,9 @@ called by God, just like Aaron was.
 <wi type="G" value="3588,9,"/><wi type="G" value="2564,10,">un llamamiento</wi>
 <wi type="G" value="5259,11,">de</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>,
-<wi type="G" value="2509,14,">así como</wi> con
-<wi type="G" value="2532,15,"/><wi type="G" value="3588,16,"/><wi type="G" value="2,17,">Aarón</wi>.
+<wi type="G" value="2509,14,">así como</wi> 
+<wi type="G" value="2532,15,">con</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="2,17,">Aarón</wi>.
 </t>
 </sv>
 
@@ -2609,8 +2610,8 @@ an endless life:
 </sv>
 <sv id="Hebreos-7-17">
 for it is testified,
-<t xml:lang="es"><wi type="G" value="1063,2,">pues</wi>
-<wi type="G" value="3140,1,">se testificó</wi><wi type="G" value="3754,3,"/>,</t>
+<t xml:lang="es"><wi type="G" value="1063,2,"><wi type="G" value="3754,3,">pues</wi></wi>
+<wi type="G" value="3140,1,">se testificó</wi>,</t>
 
 <cl/><fp>
 «You are a priest forever,
@@ -2774,8 +2775,8 @@ make intercession for them.
 <wi type="G" value="4334,9,">se acercan a</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>,
 <wi type="G" value="2198,15,">vive</wi>
-<wi type="G" value="3842,14,">siempre</wi>
-<wi type="G" value="1519,16,"/><wi type="G" value="3588,17,"/><wi type="G" value="1793,18,">intercediendo</wi>
+<wi type="G" value="1519,16,"/><wi type="G" value="3842,14,">siempre</wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="1793,18,">intercediendo</wi>
 <wi type="G" value="5228,19,">por</wi>
 <wi type="G" value="846,20,">ellos</wi>.
 </t>

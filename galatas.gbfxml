@@ -1516,8 +1516,9 @@ de
 But I say that so long as the heir is a child, he is no different
 from a bondservant, though he is lord of all;
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> les
-<wi type="G" value="3004,1,">digo</wi> que
-<wi type="G" value="1909,3,"/><wi type="G" value="3745,4,"/><wi type="G" value="5550,5,">mientras</wi>
+<wi type="G" value="3004,1,">digo</wi> 
+<wi type="G" value="3745,4,">que</wi>
+<wi type="G" value="1909,3,"><wi type="G" value="5550,5,">mientras</wi></wi>
 <wi type="G" value="3588,6,"><wi type="G" value="2818,7,">el heredero</wi></wi>
 <wi type="G" value="2076,9,">sea</wi>
 <wi type="G" value="3516,8,">un niño</wi>,
@@ -2565,7 +2566,7 @@ to be something when he is nothing, he deceives himself.
 <wi type="G" value="5607,8,">cuando</wi>
 <wi type="G" value="3367,7,">no</wi>
 <wi type="GC" value="8"> es</wi>
-<wi type="GG" value="7">nada</wi>,
+<wi type="GC" value="7">nada</wi>,
 <wi type="G" value="5422,10,">se engaña</wi>
 <wi type="G" value="1438,9,">a si mismo</wi>.</t>
 </sv>

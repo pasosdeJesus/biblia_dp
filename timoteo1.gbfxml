@@ -1777,8 +1777,8 @@ or three witnesses.
 <wi type="G" value="2724,3,">una acusación</wi>
 <wi type="G" value="2596,1,">contra</wi>
 <wi type="G" value="4245,2,">un anciano</wi>,
-<wi type="G" value="1622,6,">excepto</wi>
-<wi type="G" value="1487,7,"/><wi type="G" value="3361,8,"/><wi type="G" value="1909,9,">por</wi>
+<wi type="G" value="1622,6,"><wi type="G" value="1487,7,">excepto</wi></wi>
+<wi type="G" value="3361,8,"/><wi type="G" value="1909,9,">por</wi>
 <wi type="G" value="1417,10,">dos</wi>
 <wi type="G" value="2228,11,">o</wi>
 <wi type="G" value="5140,12,">tres</wi>

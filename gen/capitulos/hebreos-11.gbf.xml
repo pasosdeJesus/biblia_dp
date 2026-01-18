@@ -253,7 +253,7 @@ age, since she counted him faithful who had promised.
 <wi type="G" value="2602,7,">concebir</wi>
 <wi type="G" value="4690,8,">descendencia</wi>,
 <wi type="G" value="2532,10,">y</wi>
-<wi type="G" value="5088,14,">dió a luz</wi>
+<wi type="G" value="5088,14,">dio a luz</wi>
 a <wi type="G" value="2244,13,">una edad</wi>
 <wi type="G" value="3844,11,">fuera de</wi>
 <wi type="G" value="2540,12,">tiempo</wi>,
@@ -437,16 +437,55 @@ also did receive him back from the dead.
 <sv id="Hebreos-11-20">
 By faith, Isaac blessed Jacob
 and Esau, even concerning things to come.
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="2464,5,">Isaac</wi>
+<wi type="G" value="2127,4,">bendijo a</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="2384,7,">a Jacob</wi>
+<wi type="G" value="2532,8,">y</wi> a
+<wi type="G" value="3588,9,"/><wi type="G" value="2269,10,">Esaú</wi>,
+<wi type="G" value="4012,2,">respecto a</wi>
+<wi type="G" value="3195,3,">lo que vendría</wi>.</t>
 </sv>
 <sv id="Hebreos-11-21">
 By faith, Jacob, when he was
 dying, blessed each of the sons of Joseph, and worshiped, leaning on the top
 of his staff.
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="2384,2,">Jacob</wi>,
+<wi type="G" value="599,3,">cuando moría</wi>,
+<wi type="G" value="2127,8,">bendijo a</wi>
+<wi type="G" value="1538,4,">cada uno de</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="5207,6,">los hijos</wi></wi>
+<wi type="G" value="2501,7,">de José</wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="4352,10,">adoró</wi>, </t>
+<rb xml:lang="es">reclinado<rf>
+<citebib id="WEB"/> incluye reclinado aunque no aparece en <citebib id="TR"/></rf></rb>
+<t xml:lang="es">
+<wi type="G" value="1909,11,">en</wi>
+<wi type="G" value="3588,12,"><wi type="G" value="206,13,">el borde</wi></wi>
+<wi type="G" value="846,16,">de su</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="4464,15,">bastón</wi></wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-22">
 By faith, Joseph, when his end was near, made mention of
 the departure of the children of Israel; and gave instructions concerning his
 bones.
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="2501,2,">José</wi>,
+<wi type="G" value="5053,3,">al morir</wi>,
+<wi type="G" value="3421,10,">habló</wi>
+<wi type="G" value="4012,4,">sobre</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="1841,6,">la partida</wi></wi>
+<wi type="G" value="3588,7,"><wi type="G" value="5207,8,">de los hijos</wi></wi>
+<wi type="G" value="2474,9,">de Israel</wi>;
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="1781,16,">dio instrucciones</wi>
+<wi type="G" value="4012,12,">respecto a</wi>
+<wi type="G" value="846,15,">sus</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="3747,14,">huesos</wi></wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-23">
 By faith, Moses, when he was born, was hidden for three months
