@@ -4914,7 +4914,7 @@ age, since she counted him faithful who had promised.
 <wi type="G" value="2602,7,">concebir</wi>
 <wi type="G" value="4690,8,">descendencia</wi>,
 <wi type="G" value="2532,10,">y</wi>
-<wi type="G" value="5088,14,">dió a luz</wi>
+<wi type="G" value="5088,14,">dio a luz</wi>
 a <wi type="G" value="2244,13,">una edad</wi>
 <wi type="G" value="3844,11,">fuera de</wi>
 <wi type="G" value="2540,12,">tiempo</wi>,
@@ -5133,6 +5133,20 @@ of his staff.
 By faith, Joseph, when his end was near, made mention of
 the departure of the children of Israel; and gave instructions concerning his
 bones.
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>, 
+<wi type="G" value="2501,2,">José</wi>, 
+<wi type="G" value="5053,3,">al morir</wi>,
+<wi type="G" value="3421,10,">habló</wi> 
+<wi type="G" value="4012,4,">sobre</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="1841,6,">la partida</wi></wi> 
+<wi type="G" value="3588,7,"><wi type="G" value="5207,8,">de los hijos</wi></wi> 
+<wi type="G" value="2474,9,">de Israel</wi>; 
+<wi type="G" value="2532,11,">y</wi> 
+<wi type="G" value="1781,16,">dio instrucciones</wi> 
+<wi type="G" value="4012,12,">respecto a</wi>
+<wi type="G" value="846,15,">sus</wi> 
+<wi type="G" value="3588,13,"><wi type="G" value="3747,14,">huesos</wi></wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-23">
 By faith, Moses, when he was born, was hidden for three months
