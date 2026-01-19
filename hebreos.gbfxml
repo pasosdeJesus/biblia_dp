@@ -1653,7 +1653,7 @@ called by God, just like Aaron was.
 <wi type="G" value="3588,9,"/><wi type="G" value="2564,10,">un llamamiento</wi>
 <wi type="G" value="5259,11,">de</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>,
-<wi type="G" value="2509,14,">así como</wi> 
+<wi type="G" value="2509,14,">así como</wi>
 <wi type="G" value="2532,15,">con</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="2,17,">Aarón</wi>.
 </t>
@@ -5153,10 +5153,36 @@ bones.
 By faith, Moses, when he was born, was hidden for three months
 by his parents, because they saw that he was a beautiful child, and they were
 not afraid of the king´s commandment.
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="3475,2,">Moisés</wi>,
+<wi type="G" value="1080,3,">al nacer</wi>,
+<wi type="G" value="2928,4,">fue escondido</wi>
+<wi type="G" value="5150,5,">tres meses</wi>
+<wi type="G" value="5259,6,">por</wi>
+<wi type="G" value="846,9,">sus</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="3962,8,">padres</wi></wi>,
+<wi type="G" value="1360,10,">porque</wi>
+<wi type="G" value="1492,11,">vieron</wi> que era
+<wi type="G" value="3588,13,"><wi type="G" value="3813,14,">un niño</wi></wi>
+<wi type="G" value="791,12,">hermoso</wi>,
+<wi type="G" value="2532,15,">y</wi>
+<wi type="G" value="3756,16,">no</wi>
+<wi type="G" value="5399,17,">tuvieron miedo</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="1297,19,">del mandato</wi></wi>
+<wi type="G" value="3588,20,"><wi type="G" value="935,21,">del rey</wi></wi>.</t>
 </sv>
 <sv id="Hebreos-11-24">
 By faith, Moses, when he had
 grown up, refused to be called the son of Pharaoh´s daughter,
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="3475,2,">Moisés</wi>,
+<wi type="G" value="1096,4,">cuando fue</wi>
+<wi type="G" value="3173,3,">adulto</wi>,
+<wi type="G" value="720,5,">se negó</wi>
+<wi type="G" value="3004,6,">a ser llamado</wi>
+<wi type="G" value="5207,7,">hijo</wi>
+<wi type="G" value="2364,8,">de la hija</wi>
+<wi type="G" value="5328,9,">del Farón</wi>,</t>
 </sv>
 <sv id="Hebreos-11-25">
 choosing
