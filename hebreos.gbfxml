@@ -5277,11 +5277,40 @@ Egyptians tried to do so, they were swallowed up.
 <sv id="Hebreos-11-30">
 By faith, the walls
 of Jericho fell down, after they had been encircled for seven days.
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="3588,2,"><wi type="G" value="5038,3,">los muros</wi></wi>
+<wi type="G" value="2410,4,">de Jericó</wi>
+<wi type="G" value="4098,5,">cayeron</wi>,
+<wi type="G" value="2944,6,">tras rodearlos</wi>
+<wi type="G" value="1909,7,">por</wi>
+<wi type="G" value="2033,8,">siete</wi>
+<wi type="G" value="2250,9,">días</wi>.
+</t>
 </sv>
+
 <sv id="Hebreos-11-31">
 By
 faith, Rahab the prostitute, didn´t perish with those who were disobedient,
 having received the spies in peace.
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>, 
+<wi type="G" value="4460,2,">Rahab</wi> 
+<wi type="G" value="3588,3,">la</wi> 
+<wi type="G" value="4204,4,">prostituta</wi>, 
+<wi type="G" value="3756,5,">no</wi> 
+<wi type="G" value="4881,6,">pereció con</wi> 
+<wi type="G" value="3588,7,">los</wi> </t>
+<rb xml:lang="es"><wi type="G" value="544,8,">desobedientes</wi><rf>
+<citebib id="WEB"/> dice desobedientes,
+<citebib id="RVG2012"/> y <citebib id="KJV2003"/> dicen `incrédulos.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `απειθησασιν´
+se puede traducir de ambas formas.</rf></rb>
+<t xml:lang="es">, 
+<wi type="G" value="1209,9,">habiendo recibido a</wi> 
+<wi type="G" value="3588,10,">los</wi> 
+<wi type="G" value="2685,11,">espías</wi> 
+<wi type="G" value="3326,12,">en</wi> 
+<wi type="G" value="1515,13,">paz</wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-32">
 What more shall I say? For the time
