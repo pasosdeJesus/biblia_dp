@@ -5292,23 +5292,23 @@ of Jericho fell down, after they had been encircled for seven days.
 By
 faith, Rahab the prostitute, didn´t perish with those who were disobedient,
 having received the spies in peace.
-<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>, 
-<wi type="G" value="4460,2,">Rahab</wi> 
-<wi type="G" value="3588,3,">la</wi> 
-<wi type="G" value="4204,4,">prostituta</wi>, 
-<wi type="G" value="3756,5,">no</wi> 
-<wi type="G" value="4881,6,">pereció con</wi> 
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="4460,2,">Rahab</wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="4204,4,">prostituta</wi>,
+<wi type="G" value="3756,5,">no</wi>
+<wi type="G" value="4881,6,">pereció con</wi>
 <wi type="G" value="3588,7,">los</wi> </t>
 <rb xml:lang="es"><wi type="G" value="544,8,">desobedientes</wi><rf>
 <citebib id="WEB"/> dice desobedientes,
 <citebib id="RVG2012"/> y <citebib id="KJV2003"/> dicen `incrédulos.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `απειθησασιν´
 se puede traducir de ambas formas.</rf></rb>
-<t xml:lang="es">, 
-<wi type="G" value="1209,9,">habiendo recibido a</wi> 
-<wi type="G" value="3588,10,">los</wi> 
-<wi type="G" value="2685,11,">espías</wi> 
-<wi type="G" value="3326,12,">en</wi> 
+<t xml:lang="es">,
+<wi type="G" value="1209,9,">habiendo recibido a</wi>
+<wi type="G" value="3588,10,">los</wi>
+<wi type="G" value="2685,11,">espías</wi>
+<wi type="G" value="3326,12,">en</wi>
 <wi type="G" value="1515,13,">paz</wi>.
 </t>
 </sv>
@@ -5316,10 +5316,45 @@ se puede traducir de ambas formas.</rf></rb>
 What more shall I say? For the time
 would fail me if I told of Gideon, Barak, Samson, Jephthah, David, Samuel,
 and the prophets;
+<t xml:lang="es">¿<wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="5101,2,">qué</wi>
+<wi type="G" value="2089,3,">más</wi>
+<wi type="G" value="3004,4,">debo decir</wi>?
+<wi type="G" value="1063,6,">Pues</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="5550,10,">el tiempo</wi></wi>
+<wi type="G" value="3165,7,">me</wi>
+<wi type="G" value="1962,5,">faltará</wi>
+<wi type="G" value="1334,8,">para hablar</wi>
+<wi type="G" value="4012,11,">de</wi>
+<wi type="G" value="1066,12,">Gedeón</wi>,
+<wi type="G" value="5037,14,">y</wi> de <wi type="G" value="913,13,">Barac</wi>,
+<wi type="G" value="5037,14,">y</wi> de <wi type="G" value="4546,16,">Sansón</wi>,
+<wi type="G" value="2532,17,">y</wi> de
+<wi type="G" value="2422,18,">Jefté</wi>,
+<wi type="G" value="5037,">y</wi> de
+<wi type="G" value="1138,19,">David</wi>,
+<wi type="G" value="2532,21,">y</wi> de
+<wi type="G" value="4545,22,">Samuel</wi>
+<wi type="G" value="2532,23,">y</wi> de
+<wi type="G" value="3588,24,">los</wi>
+<wi type="G" value="4396,25,">profetas</wi>;
+</t>
 </sv>
 <sv id="Hebreos-11-33">
 who, through faith subdued kingdoms, worked out
 righteousness, obtained promises, stopped the mouths of lions,
+<t xml:lang="es"><wi type="G" value="3739,1,">quienes</wi>,
+<wi type="G" value="1223,2,">por</wi>
+<wi type="G" value="4102,3,">la fe</wi>
+<wi type="G" value="2610,4,">subyugaron</wi>
+<wi type="G" value="932,5,">reinos</wi>,
+<wi type="G" value="2038,6,">obraron</wi>
+<wi type="G" value="1343,7,">justicia</wi>,
+<wi type="G" value="2013,8,">obtuvieron</wi>
+<wi type="G" value="1860,9,">promesas</wi>,
+<wi type="G" value="5420,10,">detuvieron</wi>
+<wi type="G" value="4750,11,">las bocas</wi>
+<wi type="G" value="3023,12,">de leones</wi>,</t>
 </sv>
 <sv id="Hebreos-11-34">
 quenched
