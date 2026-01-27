@@ -5323,15 +5323,15 @@ and the prophets;
 <wi type="G" value="1063,6,">Pues</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="5550,10,">el tiempo</wi></wi>
 <wi type="G" value="3165,7,">me</wi>
-<wi type="G" value="1962,5,">faltará</wi>
+<wi type="G" value="1952,5,">faltará</wi>
 <wi type="G" value="1334,8,">para hablar</wi>
 <wi type="G" value="4012,11,">de</wi>
 <wi type="G" value="1066,12,">Gedeón</wi>,
 <wi type="G" value="5037,14,">y</wi> de <wi type="G" value="913,13,">Barac</wi>,
-<wi type="G" value="5037,14,">y</wi> de <wi type="G" value="4546,16,">Sansón</wi>,
+<wi type="G" value="2532,15,">y</wi> de <wi type="G" value="4546,16,">Sansón</wi>,
 <wi type="G" value="2532,17,">y</wi> de
 <wi type="G" value="2422,18,">Jefté</wi>,
-<wi type="G" value="5037,">y</wi> de
+<wi type="G" value="5037,20,">y</wi> de
 <wi type="G" value="1138,19,">David</wi>,
 <wi type="G" value="2532,21,">y</wi> de
 <wi type="G" value="4545,22,">Samuel</wi>
@@ -5360,16 +5360,78 @@ righteousness, obtained promises, stopped the mouths of lions,
 quenched
 the power of fire, escaped the edge of the sword, from weakness were made
 strong, grew mighty in war, and turned to flight armies of aliens.
+<t xml:lang="es"><wi type="G" value="4570,1,">apagaron</wi> 
+<wi type="G" value="1411,2,">el poder</wi> 
+<wi type="G" value="4442,3,">del fuego</wi>,
+<wi type="G" value="5343,4,">escaparon</wi> 
+<wi type="G" value="4750,5,">del filo</wi> 
+<wi type="G" value="3162,6,">de la espada</wi>,
+<wi type="G" value="575,8,">de</wi> 
+<wi type="G" value="769,9,">la debilidad</wi> 
+<wi type="G" value="1743,7,">fueron hechos fuertes</wi>,
+<wi type="G" value="1096,10,">se hicieron</wi> 
+<wi type="G" value="2478,11,">valientes</wi> 
+<wi type="G" value="1722,12,">en</wi> 
+<wi type="G" value="4171,13,">la batalla</wi>,
+y </t>
+<rb xml:lang="es"><wi type="G" value="2827,15,">doblegaron</wi><rf>
+<citebib id="WEB"/> dice `hicieron huir,´
+<citebib id="RVG2012"/> dice `trastornaron.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`κλίνω´ se traduce como yacer, inclinar, ladear, inclinarse, estar agotado,
+acostarse, poner en fuga, desgastar.</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3925,14,">ejércitos</wi> 
+<wi type="G" value="245,16,">extranjeros</wi>.
+</t>
 
 </sv>
 <sv id="Hebreos-11-35">
 Women received their dead by resurrection. Others were tortured, not
 accepting their deliverance, that they might obtain a better resurrection.
-
+<t xml:lang="es"><wi type="G" value="1135,2,">Las mujeres</wi> 
+<wi type="G" value="2983,1,">recibieron</wi> 
+<wi type="G" value="846,7,">sus</wi> 
+<wi type="G" value="3588,5,"/><wi type="G" value="3498,6,">muertos</wi> 
+<wi type="G" value="1537,3,">por</wi> 
+<wi type="G" value="386,4,">resurrección</wi>.
+<wi type="G" value="1161,9,">Y</wi> <wi type="G" value="243,8,">otros</wi> 
+</t>
+<rb xml:lang="es"><wi type="G" value="5178,10,">fueron torturados</wi><rf>
+<citebib id="WEB"/> dice `torturados,´
+<citebib id="RVG2012"/> dice `estirados.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `τυμπανίζω'
+se traduce como torturar, tocar el tambor, torturar con el tímpano, un
+instrumento de tortura con forma de rueda, sobre el cual se estiraba a los 
+criminales como si fueran pieles, para luego golpearlos brutalmente con 
+palos o látigos, hasta la muerte.</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="3756,11,">no</wi> 
+<wi type="G" value="4327,12,">aceptando</wi> 
+<wi type="G" value="3588,13,">el</wi> 
+<wi type="G" value="629,14,">rescate</wi>,
+<wi type="G" value="2443,15,">para</wi> 
+<wi type="G" value="5177,18,">obtener</wi> 
+<wi type="G" value="386,17,">una resurrección</wi> 
+<wi type="G" value="2909,16,">mejor</wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-36">
 Others were tried by mocking and scourging, yes, moreover by bonds and
 imprisonment.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> 
+<wi type="G" value="2087,1,">otros</wi> 
+<wi type="G" value="2983,7,">tuvieron</wi> 
+<wi type="G" value="3984,6,">prueba</wi> 
+<wi type="G" value="1701,3,">de burlas</wi> 
+<wi type="G" value="2532,4,">y</wi> 
+<wi type="G" value="3148,5,">azotes</wi>, 
+<wi type="G" value="1161,9,">y</wi> 
+<wi type="G" value="2089,8,">además</wi>,
+<wi type="G" value="1199,10,">cadenas</wi> 
+<wi type="G" value="2532,11,">y</wi> 
+<wi type="G" value="5438,12,">cárceles</wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-37">
 They were stoned. They were sawn apart. They were
