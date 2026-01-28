@@ -491,66 +491,285 @@ bones.
 By faith, Moses, when he was born, was hidden for three months
 by his parents, because they saw that he was a beautiful child, and they were
 not afraid of the king´s commandment.
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="3475,2,">Moisés</wi>,
+<wi type="G" value="1080,3,">al nacer</wi>,
+<wi type="G" value="2928,4,">fue escondido</wi>
+<wi type="G" value="5150,5,">tres meses</wi>
+<wi type="G" value="5259,6,">por</wi>
+<wi type="G" value="846,9,">sus</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="3962,8,">padres</wi></wi>,
+<wi type="G" value="1360,10,">porque</wi>
+<wi type="G" value="1492,11,">vieron</wi> que era
+<wi type="G" value="3588,13,"><wi type="G" value="3813,14,">un niño</wi></wi>
+<wi type="G" value="791,12,">hermoso</wi>,
+<wi type="G" value="2532,15,">y</wi>
+<wi type="G" value="3756,16,">no</wi>
+<wi type="G" value="5399,17,">tuvieron miedo</wi>
+<wi type="G" value="3588,18,"><wi type="G" value="1297,19,">del mandato</wi></wi>
+<wi type="G" value="3588,20,"><wi type="G" value="935,21,">del rey</wi></wi>.</t>
 </sv>
 <sv id="Hebreos-11-24">
 By faith, Moses, when he had
 grown up, refused to be called the son of Pharaoh´s daughter,
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="3475,2,">Moisés</wi>,
+<wi type="G" value="1096,4,">cuando fue</wi>
+<wi type="G" value="3173,3,">adulto</wi>,
+<wi type="G" value="720,5,">se negó</wi>
+<wi type="G" value="3004,6,">a ser llamado</wi>
+<wi type="G" value="5207,7,">hijo</wi>
+<wi type="G" value="2364,8,">de la hija</wi>
+<wi type="G" value="5328,9,">del Farón</wi>,</t>
 </sv>
 <sv id="Hebreos-11-25">
 choosing
 rather to share ill treatment with God´s people, than to enjoy the pleasures
 of sin for a time;
+<t xml:lang="es"><wi type="G" value="138,2,">eligiendo</wi>,
+<wi type="G" value="3123,1,">en cambio</wi>,
+<wi type="G" value="4778,3,">sufrir aflicción</wi> con
+<wi type="G" value="3588,4,"><wi type="G" value="2992,5,">el pueblo</wi></wi>
+<wi type="G" value="3588,6,"><wi type="G" value="2316,7,">de Dios</wi></wi>,
+<wi type="G" value="2228,8,">que</wi>
+<wi type="G" value="2192,10,">disfrutar</wi>
+<wi type="G" value="619,12,">los placeres</wi>
+<wi type="G" value="266,11,">del pecado</wi>
+<wi type="G" value="4340,9,">por un tiempo</wi>;</t>
 </sv>
 <sv id="Hebreos-11-26">
 accounting the reproach of Christ greater riches
 than the treasures of Egypt; for he looked to the reward.
+<t xml:lang="es"><wi type="G" value="2233,3,">estimando</wi>
+<wi type="G" value="3173,1,">como mayor</wi>
+<wi type="G" value="4149,2,">riqueza</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="3680,9,">la reprensión</wi></wi>
+<wi type="G" value="3588,10,"><wi type="G" value="5547,11,">de Cristo</wi></wi>
+que
+<wi type="G" value="2344,7,">los tesoros</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="1722,5,">de</wi>
+<wi type="G" value="125,6,">Egipto</wi>;
+<wi type="G" value="1063,13,">pues</wi>
+<wi type="G" value="578,12,">él miraba</wi>
+<wi type="G" value="1519,14,"><wi type="G" value="3588,15,">el</wi></wi>
+<wi type="G" value="3405,16,">galardón</wi>. </t>
 </sv>
 <sv id="Hebreos-11-27">
 By faith, he
 left Egypt, not fearing the wrath of the king; for he endured, as seeing him
 who is invisible.
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="2641,2,">salió</wi>
+<wi type="G" value="125,3,">de Egipto</wi>,
+<wi type="G" value="3361,4,">no</wi>
+<wi type="G" value="5399,5,">temiendo</wi>
+<wi type="G" value="3588,6,">la</wi>
+<wi type="G" value="2372,7,">ira</wi>
+<wi type="G" value="3588,8,">del</wi>
+<wi type="G" value="935,9,">faraón</wi>;
+<wi type="G" value="1063,11,">pues</wi>
+<wi type="G" value="2594,15,">soportó</wi>,
+<wi type="G" value="5613,13,">como</wi>
+<wi type="G" value="3708,14,">viendo</wi>
+<wi type="G" value="3588,10,">al</wi>
+<wi type="G" value="517,12,">invisible</wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-28">
 By faith, he kept the Passover, and the sprinkling of
 the blood, that the destroyer of the firstborn should not touch them.
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="4160,2,">guardó</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="3957,4,">la Pascua</wi></wi>,
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="4378,7,">el rociado</wi></wi>
+<wi type="G" value="3588,8,"><wi type="G" value="129,9,">de la sangre</wi></wi>,
+<wi type="G" value="2443,10,">para que</wi>
+<wi type="G" value="3588,12,">el</wi>
+<wi type="G" value="3645,13,">que destruía</wi>
+<wi type="G" value="3588,14,"><wi type="G" value="4416,15,">a los primogénitos</wi></wi>
+<wi type="G" value="3361,11,">no</wi>
+<wi type="G" value="846,17,">los</wi>
+<wi type="G" value="2345,16,">tocara</wi>.</t>
 
 </sv>
 <sv id="Hebreos-11-29">
 By faith, they passed through the Red sea as on dry land. When the
 Egyptians tried to do so, they were swallowed up.
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="1224,2,">pasaron por</wi>
+<wi type="G" value="3588,3,">el</wi>
+<wi type="G" value="2281,5,">Mar</wi>
+<wi type="G" value="2063,4,">Rojo</wi>
+<wi type="G" value="5613,6,">como</wi>
+<wi type="G" value="1223,7,">por</wi>
+<wi type="G" value="3584,8,">seco</wi>.
+<wi type="G" value="3739,9,">Lo cual</wi>
+<wi type="G" value="3588,12,">los</wi>
+<wi type="G" value="124,13,">egipcios</wi>
+<wi type="G" value="3984,10,">al intentar</wi>
+<wi type="G" value="2983,11,">hacer</wi>,
+<wi type="G" value="2666,14,">fueron devorados</wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-30">
 By faith, the walls
 of Jericho fell down, after they had been encircled for seven days.
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="3588,2,"><wi type="G" value="5038,3,">los muros</wi></wi>
+<wi type="G" value="2410,4,">de Jericó</wi>
+<wi type="G" value="4098,5,">cayeron</wi>,
+<wi type="G" value="2944,6,">tras rodearlos</wi>
+<wi type="G" value="1909,7,">por</wi>
+<wi type="G" value="2033,8,">siete</wi>
+<wi type="G" value="2250,9,">días</wi>.
+</t>
 </sv>
+
 <sv id="Hebreos-11-31">
 By
 faith, Rahab the prostitute, didn´t perish with those who were disobedient,
 having received the spies in peace.
+<t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
+<wi type="G" value="4460,2,">Rahab</wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="4204,4,">prostituta</wi>,
+<wi type="G" value="3756,5,">no</wi>
+<wi type="G" value="4881,6,">pereció con</wi>
+<wi type="G" value="3588,7,">los</wi> </t>
+<rb xml:lang="es"><wi type="G" value="544,8,">desobedientes</wi><rf>
+<citebib id="WEB"/> dice desobedientes,
+<citebib id="RVG2012"/> y <citebib id="KJV2003"/> dicen `incrédulos.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `απειθησασιν´
+se puede traducir de ambas formas.</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="1209,9,">habiendo recibido a</wi>
+<wi type="G" value="3588,10,">los</wi>
+<wi type="G" value="2685,11,">espías</wi>
+<wi type="G" value="3326,12,">en</wi>
+<wi type="G" value="1515,13,">paz</wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-32">
 What more shall I say? For the time
 would fail me if I told of Gideon, Barak, Samson, Jephthah, David, Samuel,
 and the prophets;
+<t xml:lang="es">¿<wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="5101,2,">qué</wi>
+<wi type="G" value="2089,3,">más</wi>
+<wi type="G" value="3004,4,">debo decir</wi>?
+<wi type="G" value="1063,6,">Pues</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="5550,10,">el tiempo</wi></wi>
+<wi type="G" value="3165,7,">me</wi>
+<wi type="G" value="1952,5,">faltará</wi>
+<wi type="G" value="1334,8,">para hablar</wi>
+<wi type="G" value="4012,11,">de</wi>
+<wi type="G" value="1066,12,">Gedeón</wi>,
+<wi type="G" value="5037,14,">y</wi> de <wi type="G" value="913,13,">Barac</wi>,
+<wi type="G" value="2532,15,">y</wi> de <wi type="G" value="4546,16,">Sansón</wi>,
+<wi type="G" value="2532,17,">y</wi> de
+<wi type="G" value="2422,18,">Jefté</wi>,
+<wi type="G" value="5037,20,">y</wi> de
+<wi type="G" value="1138,19,">David</wi>,
+<wi type="G" value="2532,21,">y</wi> de
+<wi type="G" value="4545,22,">Samuel</wi>
+<wi type="G" value="2532,23,">y</wi> de
+<wi type="G" value="3588,24,">los</wi>
+<wi type="G" value="4396,25,">profetas</wi>;
+</t>
 </sv>
 <sv id="Hebreos-11-33">
 who, through faith subdued kingdoms, worked out
 righteousness, obtained promises, stopped the mouths of lions,
+<t xml:lang="es"><wi type="G" value="3739,1,">quienes</wi>,
+<wi type="G" value="1223,2,">por</wi>
+<wi type="G" value="4102,3,">la fe</wi>
+<wi type="G" value="2610,4,">subyugaron</wi>
+<wi type="G" value="932,5,">reinos</wi>,
+<wi type="G" value="2038,6,">obraron</wi>
+<wi type="G" value="1343,7,">justicia</wi>,
+<wi type="G" value="2013,8,">obtuvieron</wi>
+<wi type="G" value="1860,9,">promesas</wi>,
+<wi type="G" value="5420,10,">detuvieron</wi>
+<wi type="G" value="4750,11,">las bocas</wi>
+<wi type="G" value="3023,12,">de leones</wi>,</t>
 </sv>
 <sv id="Hebreos-11-34">
 quenched
 the power of fire, escaped the edge of the sword, from weakness were made
 strong, grew mighty in war, and turned to flight armies of aliens.
+<t xml:lang="es"><wi type="G" value="4570,1,">apagaron</wi> 
+<wi type="G" value="1411,2,">el poder</wi> 
+<wi type="G" value="4442,3,">del fuego</wi>,
+<wi type="G" value="5343,4,">escaparon</wi> 
+<wi type="G" value="4750,5,">del filo</wi> 
+<wi type="G" value="3162,6,">de la espada</wi>,
+<wi type="G" value="575,8,">de</wi> 
+<wi type="G" value="769,9,">la debilidad</wi> 
+<wi type="G" value="1743,7,">fueron hechos fuertes</wi>,
+<wi type="G" value="1096,10,">se hicieron</wi> 
+<wi type="G" value="2478,11,">valientes</wi> 
+<wi type="G" value="1722,12,">en</wi> 
+<wi type="G" value="4171,13,">la batalla</wi>,
+y </t>
+<rb xml:lang="es"><wi type="G" value="2827,15,">doblegaron</wi><rf>
+<citebib id="WEB"/> dice `hicieron huir,´
+<citebib id="RVG2012"/> dice `trastornaron.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`κλίνω´ se traduce como yacer, inclinar, ladear, inclinarse, estar agotado,
+acostarse, poner en fuga, desgastar.</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3925,14,">ejércitos</wi> 
+<wi type="G" value="245,16,">extranjeros</wi>.
+</t>
 
 </sv>
 <sv id="Hebreos-11-35">
 Women received their dead by resurrection. Others were tortured, not
 accepting their deliverance, that they might obtain a better resurrection.
-
+<t xml:lang="es"><wi type="G" value="1135,2,">Las mujeres</wi> 
+<wi type="G" value="2983,1,">recibieron</wi> 
+<wi type="G" value="846,7,">sus</wi> 
+<wi type="G" value="3588,5,"/><wi type="G" value="3498,6,">muertos</wi> 
+<wi type="G" value="1537,3,">por</wi> 
+<wi type="G" value="386,4,">resurrección</wi>.
+<wi type="G" value="1161,9,">Y</wi> <wi type="G" value="243,8,">otros</wi> 
+</t>
+<rb xml:lang="es"><wi type="G" value="5178,10,">fueron torturados</wi><rf>
+<citebib id="WEB"/> dice `torturados,´
+<citebib id="RVG2012"/> dice `estirados.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `τυμπανίζω'
+se traduce como torturar, tocar el tambor, torturar con el tímpano, un
+instrumento de tortura con forma de rueda, sobre el cual se estiraba a los 
+criminales como si fueran pieles, para luego golpearlos brutalmente con 
+palos o látigos, hasta la muerte.</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="3756,11,">no</wi> 
+<wi type="G" value="4327,12,">aceptando</wi> 
+<wi type="G" value="3588,13,">el</wi> 
+<wi type="G" value="629,14,">rescate</wi>,
+<wi type="G" value="2443,15,">para</wi> 
+<wi type="G" value="5177,18,">obtener</wi> 
+<wi type="G" value="386,17,">una resurrección</wi> 
+<wi type="G" value="2909,16,">mejor</wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-36">
 Others were tried by mocking and scourging, yes, moreover by bonds and
 imprisonment.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> 
+<wi type="G" value="2087,1,">otros</wi> 
+<wi type="G" value="2983,7,">tuvieron</wi> 
+<wi type="G" value="3984,6,">prueba</wi> 
+<wi type="G" value="1701,3,">de burlas</wi> 
+<wi type="G" value="2532,4,">y</wi> 
+<wi type="G" value="3148,5,">azotes</wi>, 
+<wi type="G" value="1161,9,">y</wi> 
+<wi type="G" value="2089,8,">además</wi>,
+<wi type="G" value="1199,10,">cadenas</wi> 
+<wi type="G" value="2532,11,">y</wi> 
+<wi type="G" value="5438,12,">cárceles</wi>.
+</t>
 </sv>
 <sv id="Hebreos-11-37">
 They were stoned. They were sawn apart. They were
