@@ -5538,9 +5538,8 @@ rodeados de</wi></wi>
 <wi type="G" value="3144,9,">de testigos</wi>,
 <wi type="G" value="659,11,">pongamos a un lado</wi>
 <wi type="G" value="3956,12,">todo</wi>
-<wi type="G" value="3591,10,">peso</wi>
-<wi type="G" value="2532,13,">y</wi>
-<wi type="G" value="266,16,">pecado</wi>
+<wi type="G" value="2532,13,"/><wi type="G" value="3591,10,">el peso</wi>
+<wi type="G" value="266,16,">del pecado</wi>
 <wi type="G" value="3588,14,">que</wi>
 <wi type="G" value="2139,15,">nos enreda</wi>,
 y <wi type="G" value="5143,19,">corramos</wi>
@@ -5585,6 +5584,23 @@ For consider him who has endured
 such contradiction of sinners against himself, that you
 <wi type="T" value="P"/> don´t grow
 weary, fainting in your souls.
+<t xml:lang="es"><wi type="G" value="357,1,">Consideren</wi>
+<wi type="G" value="1063,2,">entonces</wi>
+<wi type="G" value="3588,3,">al que</wi>
+<wi type="G" value="5278,5,">soportó</wi>
+<wi type="G" value="5108,4,">tal</wi>
+<wi type="G" value="485,11,">contradicción</wi>
+<wi type="G" value="5259,6,">de</wi>
+<wi type="G" value="3588,7,"><wi type="G" value="268,8,">pecadores</wi></wi>
+<wi type="G" value="1519,9,">contra</wi>
+<wi type="G" value="846,10,">si mismo</wi>,
+<wi type="G" value="2443,12,">para que</wi>
+<wi type="G" value="3361,13,">no</wi>
+<wi type="G" value="2577,14,">se cansen</wi>, ni
+<wi type="G" value="1590,18,">desmayen</wi> en
+<wi type="G" value="5216,17,">sus</wi>
+<wi type="G" value="3588,15,"><wi type="G" value="5590,16,">almas</wi></wi>.
+</t>
 </sv>
 <sv id="Hebreos-12-4">
 You
