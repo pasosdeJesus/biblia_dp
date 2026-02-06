@@ -5653,20 +5653,20 @@ Nor faint when you are reproved by him;
 <cm type="PO">
 <sv id="Hebreos-12-6">
 For whom the Lord loves, he chastens,
-<t xml:lang="es"><wi type="G" value="1063,2,">Porque</wi> 
-<wi type="G" value="2962,4,">el Señor</wi> 
-<wi type="G" value="3811,5,">corrige</wi> 
-<wi type="G" value="3739,1,">al que</wi> 
+<t xml:lang="es"><wi type="G" value="1063,2,">Porque</wi>
+<wi type="G" value="2962,4,">el Señor</wi>
+<wi type="G" value="3811,5,">corrige</wi>
+<wi type="G" value="3739,1,">al que</wi>
 <wi type="G" value="25,3,">ama</wi>,</t>
 <cl/>
 And scourges every son whom he receives.»
 <t xml:lang="es">
-<wi type="G" value="1161,7,">Y</wi> 
-<wi type="G" value="3146,6,">castiga a</wi> 
-<wi type="G" value="3956,8,">todo</wi> 
-<wi type="G" value="5207,9,">hijo</wi> 
-<wi type="G" value="3739,10,">que</wi> 
-lo 
+<wi type="G" value="1161,7,">Y</wi>
+<wi type="G" value="3146,6,">castiga a</wi>
+<wi type="G" value="3956,8,">todo</wi>
+<wi type="G" value="5207,9,">hijo</wi>
+<wi type="G" value="3739,10,">que</wi>
+lo
 <wi type="G" value="3858,11,">recibe</wi>.»
 </t>
 </sv></cm>
@@ -5676,7 +5676,25 @@ lo
 It is for discipline that you
 <wi type="T" value="P"/> endure. God deals with you as with
 children, for what son is there whom his father doesn´t discipline?
+<t xml:lang="es"><wi type="G" value="1487,1,">Si</wi>
+<wi type="G" value="5278,3,">soportan</wi>
+<wi type="G" value="3809,2,">la disciplina</wi>,
+<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>
+<wi type="G" value="4374,7,">ha tratado</wi>
+<wi type="G" value="5213,6,">con ustedes</wi>
+<wi type="G" value="5613,4,">como</wi>
+<wi type="G" value="5207,5,">con hijos</wi>.
+<wi type="G" value="1063,11,">Pues</wi>
+¿<wi type="G" value="5101,10,">qué</wi>
+<wi type="G" value="5207,13,">hijo</wi>
+<wi type="G" value="2076,12,">es</wi>
+<wi type="G" value="3739,14,">aquel a quien</wi>
+<wi type="G" value="3962,17,">el padre</wi>
+<wi type="G" value="3756,15,">no</wi>
+<wi type="G" value="3811,16,">disciplina</wi>?
+</t>
 </sv>
+
 <sv id="Hebreos-12-8">
 But
 if you
