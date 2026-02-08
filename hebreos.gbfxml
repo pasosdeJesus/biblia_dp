@@ -5698,9 +5698,25 @@ children, for what son is there whom his father doesn´t discipline?
 <sv id="Hebreos-12-8">
 But
 if you
-<wi type="T" value="P"/> are without discipline, of which all have been made partakers,
-then are you
+<wi type="T" value="P"/> are without discipline, of which all have been made
+partakers, then are you
 <wi type="T" value="P"/> illegitimate, and not children.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="2075,4,">están</wi>
+<wi type="G" value="5565,3,">sin</wi>
+<wi type="G" value="3809,5,">disciplina</wi>,
+<wi type="G" value="3739,6,">de la que</wi>
+<wi type="G" value="3956,9,">todos</wi>
+<wi type="G" value="1096,8,">son</wi>
+<wi type="G" value="3353,7,">participes</wi>,
+<wi type="G" value="686,10,">entonces</wi>
+<wi type="G" value="2075,12,">ustedes son</wi>
+<wi type="G" value="3541,11,">ilegítimos</wi>,
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="3756,14,">no</wi>
+<wi type="G" value="5207,15,">hijos</wi>.
+</t>
 </sv>
 <sv id="Hebreos-12-9">
 Furthermore, we had

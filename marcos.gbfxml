@@ -1990,10 +1990,16 @@ Alphaeus; Thaddaeus; Simon the Zealot;
 <wi type="G" value="2532,16,"/> <wi type="G" value="2280,17,">Tadeo</wi>;
 <wi type="G" value="2532,18,"/> <wi type="G" value="4613,19,">Simón</wi> </t>
 <rb xml:lang="es">
-<wi type="G" value="3588,20,"><wi type="G" value="2581,21,">el Zelote</wi></wi><rf><citebib id="WEB"/>
-dice `el zelote,´ <citebib id="KJV2003"/> dice `el canaanita,´ según
-<citebib id="Thayer-BLB"/> la palabra griega `Καναναῖος´ en este contexto
-puede traducirse de ambas formas. </rf></rb>
+<wi type="G" value="3588,20,">el</wi>
+<wi type="G" value="2581,21,">zelote</wi><rf><citebib id="WEB"/>
+dice `el zelote,´ <citebib id="KJV2003"/> dice `el cananeo,´ 
+<citebib id="RVG2012"/> dice `el cananista,´ término de esa traducción
+que translitera el griego sin denotar origen geográfico.  
+Según <citebib id="Thayer-BLB"/> la palabra griega `Καναναῖος´ en este contexto
+puede traducirse de ambas formas, pero según Bill Mounce - Greek Dictionary
+la traducción literal sin contexto es problemática, pues aquí no quiere
+darse a entender que Simón era de la región de Canaán sino que era
+del grupo político/religioso de los Zelotes. </rf></rb>
 <t xml:lang="es">;</t>
 </sv>
 <sv id="Marcos-3-19">
