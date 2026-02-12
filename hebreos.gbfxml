@@ -5735,7 +5735,7 @@ not much rather be in subjection to the Father of spirits, and live?
 <wi type="G" value="5293,15,">debemos</wi>
 <wi type="G" value="4183,13,">mucho</wi>
 <wi type="G" value="3123,14,">más</wi>
-<wi type="G" value="5293,15,">estar en sujeción</wi>
+<wi type="GC" value="15">estar en sujeción</wi>
 <wi type="G" value="3588,16,"><wi type="G" value="3962,17,">al Padre</wi></wi>
 <wi type="G" value="3588,18,">de los</wi>
 <wi type="G" value="4151,19,">espíritus</wi>,
@@ -5768,14 +5768,45 @@ seamos
 </sv>
 
 <sv id="Hebreos-12-11">
-All
-chastening seems for the present to be not joyous but grievous; yet afterward
-it yields the peaceful fruit of righteousness to those who have been
-exercised thereby.
+All chastening seems for the present to be not joyous but grievous;
+yet afterward it yields the peaceful fruit of righteousness to those
+who have been exercised thereby.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3303,5,">de hecho</wi>
+<wi type="G" value="3956,1,">todo</wi>
+<wi type="G" value="3809,3,">castigo</wi>
+<wi type="G" value="4314,4,">en</wi>
+<wi type="G" value="3588,6,">el</wi>
+<wi type="G" value="3918,7,">presente</wi>
+<wi type="G" value="1380,9,">parece</wi>
+<wi type="G" value="3756,8,">no</wi>
+<wi type="G" value="1511,11,">ser</wi>
+<wi type="G" value="5479,10,">agradable</wi>
+<wi type="G" value="235,12,">sino</wi>
+<wi type="G" value="3077,13,">doloroso</wi>;
+<wi type="G" value="1161,15,">pero</wi>
+<wi type="G" value="5305,14,">después</wi>
+<wi type="G" value="591,22,">recompensa con</wi>
+<wi type="G" value="1516,17,">el apacible</wi>
+<wi type="G" value="2590,16,">fruto</wi>
+<wi type="G" value="1343,23,">de la justicia</wi>
+<wi type="G" value="3588,18,">a los que</wi>
+<wi type="G" value="1128,21,">se han ejercitado</wi>
+<wi type="G" value="1223,19,">con</wi>
+<wi type="G" value="846,20,">este</wi>.
+</t>
 </sv>
 <sv id="Hebreos-12-12">
 Therefore, lift up the hands that hang down and the
 feeble knees,
+<t xml:lang="es"><wi type="G" value="1352,1,">Por tanto</wi>, 
+<wi type="G" value="461,9,">levanten</wi> 
+<wi type="G" value="3588,2,">las</wi>
+<wi type="G" value="5495,4,">manos</wi> 
+<wi type="G" value="3935,3,">caídas</wi> 
+<wi type="G" value="2532,5,">y</wi> 
+<wi type="G" value="1119,8,">las rodillas</wi> 
+<wi type="G" value="3588,6,"/><wi type="G" value="3886,7,">paralizadas</wi>.</t>
 </sv>
 <sv id="Hebreos-12-13">
 and make straight paths for your feet, so that which is
