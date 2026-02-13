@@ -5811,6 +5811,30 @@ feeble knees,
 <sv id="Hebreos-12-13">
 and make straight paths for your feet, so that which is
 lame may not be dislocated, but rather be healed.
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi> 
+<wi type="G" value="4160,4,">hagan</wi> 
+<wi type="G" value="5163,2,">sendas</wi> 
+<wi type="G" value="3717,3,">rectas</wi> 
+para <wi type="G" value="5216,7,">sus</wi> 
+<wi type="G" value="3588,5,"><wi type="G" value="4228,6,">pies</wi></wi>,
+<wi type="G" value="2443,8,">para que</wi> 
+<wi type="G" value="3588,10,">el</wi>
+<wi type="G" value="5560,11,">cojo</wi> 
+<wi type="G" value="3361,9,">no</wi> 
+</t>
+<rb xml:lang="es"><wi type="G" value="1624,12,">se disloque</wi><rf>
+<citebib id="WEB"/> dice `se disloque,´
+<citebib id="RVG2012"/> y <citebib id="KJV2003"/> dicen
+ `salga fuera del camino.´
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`εκτραπη´ se traduce como doblar (en términos médicos usado 
+para miembros dislocados), sacar a un lado, alejarse.
+</rf></rb>
+<t xml:lang="es">, 
+<wi type="G" value="1161,14,">sino</wi> 
+<wi type="G" value="3123,15,">más bien</wi> 
+<wi type="G" value="2390,13,">que sane</wi>.
+</t>
 </sv>
 <sv id="Hebreos-12-14">
 Follow after peace
