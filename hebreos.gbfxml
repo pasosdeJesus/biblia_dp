@@ -5902,12 +5902,55 @@ For you
 know that even when he afterward desired to inherit the blessing, he was
 rejected, for he found no place for a change of mind though he sought it
 diligently with tears.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2467,1,">ustedes saben</wi>
+<wi type="G" value="3754,3,">que</wi>
+<wi type="G" value="2532,4,">aún</wi>
+<wi type="G" value="3347,5,">después</wi>
+<wi type="G" value="2309,6,">quiso</wi>
+<wi type="G" value="2816,7,">heredar</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="2129,9,">la bendición</wi></wi>,
+<wi type="G" value="593,10,">fue rechazado</wi>,
+<wi type="G" value="1063,12,">pues</wi>
+<wi type="G" value="3756,14,">no</wi>
+<wi type="G" value="2147,15,">halló</wi>
+<wi type="G" value="5117,13,">lugar</wi>
+para <wi type="G" value="3341,11,">el arrepentimiento</wi>
+<wi type="G" value="2539,16,">aunque</wi>
+<wi type="G" value="846,20,">lo</wi>
+<wi type="G" value="1567,19,">buscó</wi>
+<wi type="G" value="3326,17,">con</wi>
+<wi type="G" value="1144,18,">lagrimas</wi>.
+</t>
 </sv>
 <sv id="Hebreos-12-18">
 For you
 <wi type="T" value="P"/> have not come to a mountain that
 might be touched, and that burned with fire, and to blackness, darkness,
 tempest,
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="4334,3,">ustedes</wi>
+<wi type="G" value="3756,1,">no</wi>
+<wi type="GC" value="3">han venido</wi> a
+<wi type="G" value="3735,5,">una montaña</wi> que
+<wi type="G" value="5584,4,">pueda ser tocada</wi>,
+<wi type="G" value="2532,6,">ni</wi>
+al <wi type="G" value="4442,8,">fuego</wi>,
+<wi type="G" value="2545,7,">que quema</wi>
+<wi type="G" value="2532,9,">ni</wi> a
+</t>
+<rb xml:lang="es"><wi type="G" value="1105,10,">negrura</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `negrura,´
+<citebib id="RVG2012"/> dice `turbión.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `γνόφῳ´ se 
+traduce oscuridad, negrura, penumbra como de tormenta.
+</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="2532,11,">ni</wi> a
+<wi type="G" value="4655,12,">oscuridad</wi>,
+<wi type="G" value="2532,13,">ni</wi> a
+<wi type="G" value="2366,14,">tempestad</wi>,
+</t>
 </sv>
 <sv id="Hebreos-12-19">
 the sound of a trumpet, and the voice of words; which those
