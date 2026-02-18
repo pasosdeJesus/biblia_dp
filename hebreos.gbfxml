@@ -5942,7 +5942,7 @@ al <wi type="G" value="4442,8,">fuego</wi>,
 <rb xml:lang="es"><wi type="G" value="1105,10,">negrura</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `negrura,´
 <citebib id="RVG2012"/> dice `turbión.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `γνόφῳ´ se 
+Según <citebib id="Thayer-BLB"/> la palabra griega `γνόφῳ´ se
 traduce oscuridad, negrura, penumbra como de tormenta.
 </rf></rb>
 <t xml:lang="es">,
@@ -5955,6 +5955,20 @@ traduce oscuridad, negrura, penumbra como de tormenta.
 <sv id="Hebreos-12-19">
 the sound of a trumpet, and the voice of words; which those
 who heard it begged that not one more word should be spoken to them,
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="2279,3,">el sonido</wi>
+<wi type="G" value="4536,2,">de la trompeta</wi>,
+<wi type="G" value="2532,4,">y</wi>
+a <wi type="G" value="5456,5,">la voz</wi>
+<wi type="G" value="4487,6,">de palabras</wi>;
+<wi type="G" value="3739,7,">que quienes</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="191,9,">escucharon</wi>
+<wi type="G" value="3868,10,">rogaron</wi> para que
+<wi type="G" value="3361,11,">no</wi>
+<wi type="G" value="846,13,">les</wi>
+<wi type="G" value="4369,12,">fuera dicha</wi>
+más <wi type="G" value="3056,14,">palabra</wi>,
+</t>
 
 </sv>
 <sv id="Hebreos-12-20">
@@ -5972,9 +5986,7 @@ Moses said, «I am terrified and trembling.»
 
 </sv></cm>
 
-<cm>
-<sv id="Hebreos-12-22">
-But you
+<cm> <sv id="Hebreos-12-22"> But you
 <wi type="T" value="P"/> have come to Mount Zion, and to the city of the living
 God, the heavenly Jerusalem, and to innumerable multitudes of angels,
 </sv>
