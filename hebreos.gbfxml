@@ -5974,11 +5974,28 @@ más <wi type="G" value="3056,14,">palabra</wi>,
 <sv id="Hebreos-12-20">
 for they could not stand that which was commanded, «If even an animal
 touches the mountain, it shall be stoned
-<rb>
-<t xml:lang="es"/><rf>TR adds «or shot with an arrow»
-[see Exodus 19:12-13]<t xml:lang="es"/></rf>
-</rb>
+<t xml:lang="es"><wi type="G" value="1063,3,">pues</wi>
+<wi type="G" value="3756,1,">no</wi>
+<wi type="G" value="5342,,">podían</wi>
+<wi type="G" value="5342,2,">soportar</wi>
+<wi type="G" value="3588,4,">lo que</wi>
+<wi type="G" value="1291,5,">había sido ordenado</wi>,
+«<wi type="G" value="2579,6,">Si incluso</wi>
+<wi type="G" value="2342,7,">un animal</wi>
+<wi type="G" value="2345,8,">toca</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="3735,10,">la montaña</wi></wi>,
+<wi type="G" value="3036,11,">será apedreado</wi>
+</t>
+<rb><t xml:lang="es"><wi type="G" value="2228,12,">o</wi>
+<wi type="G" value="2700,14,">traspasado</wi>
+<wi type="G" value="1002,13,">con dardo</wi></t>
+<rf>TR adds «or shot with an arrow»
+[see Exodus 19:12-13]<t xml:lang="es"><citebib id="WEB"/> omite
+`o traspasado con un dardo, pero tiene nota al pie de página
+aclarando que <citebib id="TR"/> si lo incluye y remitiendo
+a Exodo 19:12-13.</t></rf></rb>
 ;»
+<t xml:lang="es">;»</t>
 </sv>
 <sv id="Hebreos-12-21">
 and so fearful was the appearance, that
