@@ -6000,7 +6000,20 @@ a Exodo 19:12-13.</t></rf></rb>
 <sv id="Hebreos-12-21">
 and so fearful was the appearance, that
 Moses said, «I am terrified and trembling.»
-
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="3779,2,">tan</wi>
+<wi type="G" value="5398,3,">temible</wi>
+<wi type="G" value="2258,4,">fue</wi>
+<wi type="G" value="3588,5,">lo que</wi>
+<wi type="G" value="5324,6,">se vio</wi>,
+que
+<wi type="G" value="3475,7,">Moisés</wi>
+<wi type="G" value="2036,8,">dijo</wi>,
+«<wi type="G" value="1510,10,">Estoy</wi>
+<wi type="G" value="1630,9,">aterrorizado</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="1790,12,">temblando</wi>.»
+</t>
 </sv></cm>
 
 <cm> <sv id="Hebreos-12-22"> But you
