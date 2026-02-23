@@ -6051,14 +6051,25 @@ God the Judge of all, to the spirits of just men made perfect,
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="4151,13,">a los espíritus</wi>
 <wi type="G" value="1342,14,">de hombres justos</wi>
-y <wi type="G" value="5048,15,">perfeccionados</wi>.
+y <wi type="G" value="5048,15,">perfeccionados</wi>,
 </t>
 </sv>
 <sv id="Hebreos-12-24">
-to
-Jesus, the mediator of a new covenant, and to the blood of sprinkling that
+to Jesus, the mediator of a new covenant, and to the blood of sprinkling that
 speaks better than that of Abel.
-
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="2424,5,">a Jesús</wi>,
+<wi type="G" value="3316,4,">el mediador</wi>
+<wi type="G" value="3501,3,">del nuevo</wi>
+<wi type="G" value="1242,2,">pacto</wi>,
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="129,7,">a la sangre</wi>
+<wi type="G" value="4473,8,">del rociamiento</wi>
+<wi type="G" value="2980,10,">que habla</wi>
+<wi type="G" value="2909,9,">mejor</wi>
+<wi type="G" value="3844,11,">que</wi>
+<wi type="G" value="3588,12,">la de</wi>
+<wi type="G" value="6,13,">Abel</wi>.</t>
 </sv></cm>
 
 <cm>
