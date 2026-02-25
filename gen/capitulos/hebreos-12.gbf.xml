@@ -418,7 +418,7 @@ al <wi type="G" value="4442,8,">fuego</wi>,
 <rb xml:lang="es"><wi type="G" value="1105,10,">negrura</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `negrura,´
 <citebib id="RVG2012"/> dice `turbión.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `γνόφῳ´ se 
+Según <citebib id="Thayer-BLB"/> la palabra griega `γνόφῳ´ se
 traduce oscuridad, negrura, penumbra como de tormenta.
 </rf></rb>
 <t xml:lang="es">,
@@ -432,17 +432,17 @@ traduce oscuridad, negrura, penumbra como de tormenta.
 the sound of a trumpet, and the voice of words; which those
 who heard it begged that not one more word should be spoken to them,
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
-<wi type="G" value="2279,3,">el sonido</wi> 
-<wi type="G" value="4536,2,">de una trompeta</wi>,
-<wi type="G" value="2532,4,">y</wi> 
-<wi type="G" value="5456,5,">la voz</wi> 
+<wi type="G" value="2279,3,">el sonido</wi>
+<wi type="G" value="4536,2,">de la trompeta</wi>,
+<wi type="G" value="2532,4,">y</wi>
+a <wi type="G" value="5456,5,">la voz</wi>
 <wi type="G" value="4487,6,">de palabras</wi>;
-<wi type="G" value="3739,6,">que</wi> quienes 
-<wi type="G" value="191,9,">escucharon</wi> 
-<wi type="G" value="3868,10,">rogaron</wi> para que 
-<wi type="G" value="3361,11,">no</wi> 
-<wi type="G" value="846,13,">les</wi> 
-<wi type="G" value="4369,12,">fuera dicha</wi> 
+<wi type="G" value="3739,7,">que quienes</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="191,9,">escucharon</wi>
+<wi type="G" value="3868,10,">rogaron</wi> para que
+<wi type="G" value="3361,11,">no</wi>
+<wi type="G" value="846,13,">les</wi>
+<wi type="G" value="4369,12,">fuera dicha</wi>
 más <wi type="G" value="3056,14,">palabra</wi>,
 </t>
 
@@ -450,32 +450,102 @@ más <wi type="G" value="3056,14,">palabra</wi>,
 <sv id="Hebreos-12-20">
 for they could not stand that which was commanded, «If even an animal
 touches the mountain, it shall be stoned
-<rb>
-<t xml:lang="es"/><rf>TR adds «or shot with an arrow»
-[see Exodus 19:12-13]<t xml:lang="es"/></rf>
-</rb>
+<t xml:lang="es"><wi type="G" value="1063,3,">pues</wi>
+<wi type="G" value="3756,1,">no</wi>
+<wi type="G" value="5342,,">podían</wi>
+<wi type="G" value="5342,2,">soportar</wi>
+<wi type="G" value="3588,4,">lo que</wi>
+<wi type="G" value="1291,5,">había sido ordenado</wi>,
+«<wi type="G" value="2579,6,">Si incluso</wi>
+<wi type="G" value="2342,7,">un animal</wi>
+<wi type="G" value="2345,8,">toca</wi>
+<wi type="G" value="3588,9,"><wi type="G" value="3735,10,">la montaña</wi></wi>,
+<wi type="G" value="3036,11,">será apedreado</wi>
+</t>
+<rb><t xml:lang="es"><wi type="G" value="2228,12,">o</wi>
+<wi type="G" value="2700,14,">traspasado</wi>
+<wi type="G" value="1002,13,">con dardo</wi></t>
+<rf>TR adds «or shot with an arrow»
+[see Exodus 19:12-13]<t xml:lang="es"><citebib id="WEB"/> omite
+`o traspasado con un dardo, pero tiene nota al pie de página
+aclarando que <citebib id="TR"/> si lo incluye y remitiendo
+a Exodo 19:12-13.</t></rf></rb>
 ;»
+<t xml:lang="es">;»</t>
 </sv>
 <sv id="Hebreos-12-21">
 and so fearful was the appearance, that
 Moses said, «I am terrified and trembling.»
-
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="3779,2,">tan</wi>
+<wi type="G" value="5398,3,">temible</wi>
+<wi type="G" value="2258,4,">fue</wi>
+<wi type="G" value="3588,5,">lo que</wi>
+<wi type="G" value="5324,6,">se vio</wi>,
+que
+<wi type="G" value="3475,7,">Moisés</wi>
+<wi type="G" value="2036,8,">dijo</wi>,
+«<wi type="G" value="1510,10,">Estoy</wi>
+<wi type="G" value="1630,9,">aterrorizado</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="1790,12,">temblando</wi>.»
+</t>
 </sv></cm>
 
 <cm> <sv id="Hebreos-12-22"> But you
 <wi type="T" value="P"/> have come to Mount Zion, and to the city of the living
 God, the heavenly Jerusalem, and to innumerable multitudes of angels,
+<t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>
+<wi type="G" value="4334,2,">ustedes han venido</wi>
+<wi type="G" value="3735,4,">al monte</wi>
+<wi type="G" value="4622,3,">de Zion</wi>,
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="4172,6,">a la ciudad</wi>
+<wi type="G" value="2316,7,">del Dios</wi>
+<wi type="G" value="2198,8,">vivo</wi>,
+<wi type="G" value="2419,9,">la Jerusalén</wi>
+<wi type="G" value="2032,10,">celestial</wi>,
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="3461,12,">a una multitud</wi>
+<wi type="G" value="32,13,">de ángeles</wi>,</t>
 </sv>
 <sv id="Hebreos-12-23">
 to the
 general assembly and assembly of the firstborn who are enrolled in heaven, to
 God the Judge of all, to the spirits of just men made perfect,
+<t xml:lang="es"><wi type="G" value="3831,1,">a la asamblea general</wi>
+<wi type="G" value="2532,2,">e</wi>
+<wi type="G" value="1577,3,">iglesia</wi>
+<wi type="G" value="4416,4,">de los primogénitos</wi>
+<wi type="G" value="583,7,">escritos</wi>
+<wi type="G" value="1722,5,">en</wi>
+<wi type="G" value="3772,6,">el cielo</wi>,
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="2316,10,">al Dios</wi>,
+<wi type="G" value="2923,9,">juez</wi>
+<wi type="G" value="3956,11,">de todos</wi>,
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="4151,13,">a los espíritus</wi>
+<wi type="G" value="1342,14,">de hombres justos</wi>
+y <wi type="G" value="5048,15,">perfeccionados</wi>,
+</t>
 </sv>
 <sv id="Hebreos-12-24">
-to
-Jesus, the mediator of a new covenant, and to the blood of sprinkling that
+to Jesus, the mediator of a new covenant, and to the blood of sprinkling that
 speaks better than that of Abel.
-
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="2424,5,">a Jesús</wi>,
+<wi type="G" value="3316,4,">el mediador</wi>
+<wi type="G" value="3501,3,">del nuevo</wi>
+<wi type="G" value="1242,2,">pacto</wi>,
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="129,7,">a la sangre</wi>
+<wi type="G" value="4473,8,">del rociamiento</wi>
+<wi type="G" value="2980,10,">que habla</wi>
+<wi type="G" value="2909,9,">mejor</wi>
+<wi type="G" value="3844,11,">que</wi>
+<wi type="G" value="3588,12,">la de</wi>
+<wi type="G" value="6,13,">Abel</wi>.</t>
 </sv></cm>
 
 <cm>
@@ -484,11 +554,38 @@ See that you
 <wi type="T" value="P"/> don´t refuse him who speaks. For if they didn´t
 escape when they refused him who warned on the Earth, how much more will we
 not escape who turn away from him who warns from heaven,
+<t xml:lang="es"><wi type="G" value="991,1,">Cuídense</wi>
+<wi type="G" value="3361,2,">de no</wi>
+<wi type="G" value="3868,3,">rechazar</wi>
+<wi type="G" value="3588,4,">al que</wi>
+<wi type="G" value="2980,5,">habla</wi>.
+<wi type="G" value="1063,7,">Pues</wi>
+<wi type="G" value="1487,6,">si</wi>
+<wi type="G" value="3756,9,">no</wi>
+<wi type="G" value="5343,10,">escaparon</wi>
+<wi type="G" value="1565,8,">aquellos</wi> que
+<wi type="G" value="3868,15,">rechazaron</wi>
+<wi type="G" value="3588,11,">al que</wi>
+<wi type="G" value="5537,16,">advirtió</wi>
+<wi type="G" value="1909,12,">sobre</wi>
+<wi type="G" value="3588,13,"><wi type="G" value="1093,14,">la tierra</wi></wi>,
+<wi type="G" value="4183,17,">mucho</wi>
+<wi type="G" value="3123,18,">menos</wi> si
+<wi type="G" value="2249,19,">nos</wi>
+<wi type="G" value="654,24,">alejamos</wi>
+<wi type="G" value="3588,20,"/><wi type="G" value="3588,21,">del que</wi> advierte
+<wi type="G" value="575,22,">sobre</wi>
+<wi type="G" value="3772,23,">el cielo</wi>,
+</t>
 </sv>
 <sv id="Hebreos-12-26">
 whose voice
 shook the earth, then, but now he has promised, saying, «Yet once more I will
 shake not only the earth, but also the heavens.»
+<t xml:lang="es">cuya voz estremeció la tierra, entonces,
+pero ahora ha prometido, diciendo, «Aún una vez más 
+estremeceré no solo la tierra, sino también los cielos.»
+</t>
 </sv>
 <sv id="Hebreos-12-27">
 This phrase, «Yet once
