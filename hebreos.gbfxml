@@ -6201,10 +6201,35 @@ Let brotherly love continue.
 Don´t forget to show hospitality
 to strangers, for in doing so, some have entertained angels without knowing
 it.
+<t xml:lang="es"><wi type="G" value="3361,3,">No</wi>
+<wi type="G" value="1950,4,">olviden</wi>
+<wi type="G" value="3588,1,"><wi type="G" value="5381,2,">la hospitalidad con los extranjeros</wi></wi>,
+<wi type="G" value="1063,7,">pues</wi>
+<wi type="G" value="1223,5,">con</wi>
+<wi type="G" value="3778,6,">esto</wi>,
+<wi type="G" value="5100,9,">algunos</wi>
+<wi type="G" value="3579,10,">han hospedado</wi>
+<wi type="G" value="32,11,">ángeles</wi>
+<wi type="G" value="2990,8,">sin saberlo</wi>.
+</t>
 </sv>
 <sv id="Hebreos-13-3">
 Remember those who are in bonds, as bound with them; and those who
 are ill-treated, since you are also in the body.
+<t xml:lang="es"><wi type="G" value="3403,1,">Recuerden</wi>
+<wi type="G" value="3588,2,">a los</wi>
+<wi type="G" value="1198,3,">prisioneros</wi>,
+<wi type="G" value="5613,4,">como</wi>
+<wi type="G" value="4887,5,">encadenados con ellos</wi>; y
+a <wi type="G" value="3588,6,">los</wi>
+<wi type="G" value="2558,7,">maltratados</wi>,
+<wi type="G" value="5613,8,">como si</wi>
+<wi type="G" value="846,10,">ustedes</wi>
+<wi type="G" value="2532,9,">también</wi>
+<wi type="G" value="5607,11,">estuvieran</wi>
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="4983,13,">el cuerpo</wi>.
+</t>
 </sv>
 <sv id="Hebreos-13-4">
 Let marriage be held in
