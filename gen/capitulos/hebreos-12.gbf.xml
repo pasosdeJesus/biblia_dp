@@ -582,25 +582,85 @@ not escape who turn away from him who warns from heaven,
 whose voice
 shook the earth, then, but now he has promised, saying, «Yet once more I will
 shake not only the earth, but also the heavens.»
-<t xml:lang="es">cuya voz estremeció la tierra, entonces,
-pero ahora ha prometido, diciendo, «Aún una vez más 
-estremeceré no solo la tierra, sino también los cielos.»
+<t xml:lang="es"><wi type="G" value="3739,1,">cuya</wi>
+<wi type="G" value="3588,2,"><wi type="G" value="5456,3,">voz</wi></wi>
+<wi type="G" value="4531,6,">estremeció</wi>
+<wi type="G" value="3588,4,">la</wi>
+<wi type="G" value="1093,5,">tierra</wi>
+<wi type="G" value="5119,7,">entonces</wi>,
+<wi type="G" value="1161,9,">pero</wi>
+<wi type="G" value="3568,8,">ahora</wi>
+<wi type="G" value="1861,10,">ha prometido</wi>
+<wi type="G" value="3004,11,">diciendo</wi>,
+«<wi type="G" value="2089,12,">Aún</wi>
+<wi type="G" value="530,13,">una vez</wi>
+<wi type="GC" value="12">más</wi>
+<wi type="G" value="1473,14,">Yo</wi>
+<wi type="G" value="4579,15,">estremeceré</wi>
+<wi type="G" value="3756,16,">no</wi>
+<wi type="G" value="3440,17,">solo</wi>
+<wi type="G" value="3588,18,">la</wi>
+<wi type="G" value="1093,19,">tierra</wi>,
+<wi type="G" value="235,20,">sino</wi>
+<wi type="G" value="2532,21,">también</wi>
+<wi type="G" value="3588,22,">el</wi>
+<wi type="G" value="3772,23,">cielo</wi>.»
 </t>
 </sv>
 <sv id="Hebreos-12-27">
 This phrase, «Yet once
 more,» signifies the removing of those things that are shaken, as of things
 that have been made, that those things which are not shaken may remain.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3588,1,">este</wi>,
+«<wi type="G" value="2089,3,">Aún</wi>
+<wi type="G" value="530,4,">una vez</wi>
+<wi type="GC" value="3">más</wi>,»
+<wi type="G" value="1213,5,">significa</wi>
+<wi type="G" value="3588,8,">el</wi>
+<wi type="G" value="3331,9,">traslado</wi>
+<wi type="G" value="3588,6,">de las cosas que</wi>
+<wi type="G" value="4531,7,">se estremecen</wi>
+<wi type="G" value="5613,10,">como de</wi>
+<wi type="G" value="4160,11,">cosas hechas</wi>,
+<wi type="G" value="2443,12,">para que</wi>
+<wi type="G" value="3306,13,">permanezcan</wi>
+<wi type="G" value="3588,14,">aquellas que</wi>
+<wi type="G" value="3361,15,">no</wi>
+<wi type="G" value="4531,16,">se estremecen</wi>.
+</t>
 
 </sv>
+
 <sv id="Hebreos-12-28">
 Therefore, receiving a Kingdom that can´t be shaken, let us have grace,
 through which we serve God acceptably, with reverence and awe,
+<t xml:lang="es"><wi type="G" value="1352,1,">Entonces</wi>,
+<wi type="G" value="3880,4,">recibiendo</wi>
+<wi type="G" value="932,2,">un Reino</wi>
+<wi type="G" value="761,3,">que no puede moverse</wi>,
+<wi type="G" value="2192,5,">tengamos</wi>
+<wi type="G" value="5485,6,">gracia</wi>,
+<wi type="G" value="1223,7,">mediante</wi>
+<wi type="G" value="3739,8,">la cual</wi>
+<wi type="G" value="3000,9,">servimos a</wi>
+<wi type="G" value="3588,11,"><wi type="G" value="2316,12,">Dios</wi></wi>
+<wi type="G" value="2102,10,">aceptablemente</wi>,
+<wi type="G" value="3326,13,">con</wi>
+<wi type="G" value="127,14,">reverencia</wi>
+<wi type="G" value="2532,15,">y</wi>
+<wi type="G" value="2124,16,">temor</wi>,
+</t>
 </sv>
+
 <sv id="Hebreos-12-29">
 for our
 God is a consuming fire.
-
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="1063,2,">pues</wi>
+<wi type="G" value="2257,5,">nuestro</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2316,4,">Dios</wi></wi> es
+<wi type="G" value="4442,6,">fuego</wi>
+<wi type="G" value="2654,7,">consumidor</wi>.</t>
 <cl/>
 </sv></cm></sc>
 

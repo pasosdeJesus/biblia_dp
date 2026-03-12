@@ -6378,7 +6378,7 @@ right to eat.
 <wi type="G" value="5315,5,">a comer</wi>
 <wi type="G" value="3588,9,">quienes</wi>
 <wi type="G" value="3000,12,">sirven</wi>
-en <wi type="G" value="3588,10,">el</wi>
+<wi type="G" value="3588,10,">al</wi>
 <wi type="G" value="4633,11,">tabernáculo</wi>.
 </t>
 </sv>
@@ -6386,7 +6386,7 @@ en <wi type="G" value="3588,10,">el</wi>
 For the bodies of those animals, whose blood is brought
 into the holy place by the high priest as an offering for sin, are burned
 outside of the camp.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es"><wi type="G" value="1063,2,">Porque</wi>
 <wi type="G" value="3588,16,"><wi type="G" value="4983,17,">los cuerpos</wi></wi>
 <wi type="G" value="5130,15,">de aquellos</wi>
 <wi type="G" value="2226,4,">animales</wi>,
