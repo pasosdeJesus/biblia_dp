@@ -1123,8 +1123,15 @@ Don´t harden your hearts, as in the rebellion.»
 <wi type="G" value="5216,14,">sus</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="2588,13,">corazones</wi></wi>,
 <wi type="G" value="5613,15,">como</wi>
-<wi type="G" value="1722,16,">en</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="3894,18,">la rebelión</wi></wi>.»
+<wi type="G" value="1722,16,">en</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,17,"><wi type="G" value="3894,18,">la provocación</wi></wi><rf>
+<citebib id="WEB"/> dice `rebelión,´ aunque la palabra griega `παραπικρασμω´ es la misma usada
+en el versículo 3:8 donde se traduce como `provocación.´
+<citebib id="RVG2012"/> dice `provocación´ en 3:15 y tentación en 3:8.
+Según <citebib id="Thayer-BLB"/> esa palabra griega puede traducirse como
+irritación, provocación.
+</rf></rb>
+<t xml:lang="es">.»
 </t>
 </fp>
 
@@ -6539,10 +6546,34 @@ not with groaning, for that would be unprofitable for you.
 <sv id="Hebreos-13-18">
 Pray for us, for we are persuaded that we have a good conscience,
 desiring to live honorably in all things.
+<t xml:lang="es"><wi type="G" value="4336,1,">Oren</wi>
+<wi type="G" value="4012,2,">por</wi>
+<wi type="G" value="2257,3,">nosotros</wi>,
+<wi type="G" value="1063,5,">pues</wi>
+<wi type="G" value="3754,6,"/><wi type="G" value="3982,4,">confiamos</wi>
+<wi type="G" value="2192,9,">en tener</wi>
+<wi type="G" value="2570,7,">una buena</wi>
+<wi type="G" value="4893,8,">conciencia</wi>,
+<wi type="G" value="2309,13,">deseando</wi>
+<wi type="G" value="390,14,">vivir</wi>
+<wi type="G" value="2573,12,">honestamente</wi>
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="3956,11,">todas las cosas</wi>.
+</t>
 </sv>
 <sv id="Hebreos-13-19">
 I strongly urge you to do
 this, that I may be restored to you sooner.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> los
+<wi type="G" value="3870,3,">animo</wi>
+<wi type="G" value="4056,1,">especialmente</wi>
+<wi type="G" value="4160,5,">a  hacer</wi>
+<wi type="G" value="5124,4,">esto</wi>,
+<wi type="G" value="2443,6,">para que</wi>
+<wi type="G" value="600,8,">yo</wi> <wi type="G" value="5213,9,">les</wi>
+<wi type="GC" value="8">sea restituido</wi>
+<wi type="G" value="5032,7,">más pronto</wi>.
+</t>
 
 </sv></cm>
 
