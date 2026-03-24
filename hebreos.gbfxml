@@ -933,7 +933,7 @@ hope firm to the end.
 <wi type="G" value="949,23,">firmes en</wi>
 <wi type="G" value="3588,14,"><wi type="G" value="3954,15,">la confianza</wi></wi>
 <wi type="G" value="2532,16,">y</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="2745,18,">el gozo</wi></wi>
+<wi type="G" value="3588,17,"><wi type="G" value="2745,18,">la gloria</wi></wi>
 <wi type="G" value="3588,19,"><wi type="G" value="1680,20,">de la esperanza</wi></wi>
 <wi type="G" value="3360,21,">hasta</wi>
 <wi type="G" value="5056,22,">el final</wi>.
@@ -1613,7 +1613,7 @@ for sins.
 <wi type="G" value="2378,19,">sacrificios</wi>
 <wi type="G" value="5228,20,">por</wi>
 <wi type="G" value="266,21,">pecados</wi>.
-es </t>
+</t>
 </sv>
 <sv id="Hebreos-5-2">
 The high priest can deal gently with those who are ignorant
@@ -1674,7 +1674,7 @@ himself to be made a high priest, but it was he who said to him,
 <wi type="G" value="2532,2,">también</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="5547,4,">Cristo</wi></wi>
 <wi type="G" value="3756,5,">no</wi>
-<wi type="G" value="1392,7,">se glorifico a</wi>
+<wi type="G" value="1392,7,">se glorificó a</wi>
 <wi type="G" value="1438,6,">si mismo</wi>
 <wi type="G" value="1096,8,">para hacerse</wi>
 <wi type="G" value="749,9,">sumo sacerdote</wi>,
@@ -2094,7 +2094,7 @@ la <wi type="G" value="3588,11,"><wi type="G" value="2873,12,">obra</wi></wi>
 <wi type="G" value="1519,17,">por</wi>
 <wi type="G" value="846,20,">Su</wi>
 <wi type="G" value="3588,18,"><wi type="G" value="3686,19,">nombre</wi></wi>,
-<wi type="G" value="1247,21,">habiendo servidor a</wi>
+<wi type="G" value="1247,21,">habiendo servido a</wi>
 <wi type="G" value="3588,22,"><wi type="G" value="40,23,">los santos</wi></wi>,
 <wi type="G" value="2532,24,">y</wi>
 <wi type="G" value="1247,25,">sirviendo</wi>.
@@ -3960,7 +3960,7 @@ that the blood of bulls and goats should take away sins.
 <sv id="Hebreos-10-5">
 Therefore when
 he comes into the world, he says,
-<t xml:lang="es"><wi type="G" value="1352,1,">Entonce</wi>
+<t xml:lang="es"><wi type="G" value="1352,1,">Entonces</wi>
 <wi type="G" value="1525,2,">cuando viene</wi>
 <wi type="G" value="1519,3,">al</wi>
 <wi type="G" value="3588,4,"><wi type="G" value="2889,5,">mundo</wi></wi>,
@@ -5446,7 +5446,7 @@ They were stoned. They were sawn apart. They were
 tempted. They were slain with the sword. They went around in sheep skins and
 in goat skins; being destitute, afflicted, ill-treated
 <t xml:lang="es"><wi type="G" value="3034,1,">Fueron apedreados</wi>.
-<wi type="G" value="4249,2,">Fuero aserrados</wi>.
+<wi type="G" value="4249,2,">Fueron aserrados</wi>.
 <wi type="G" value="3985,3,">Fueron tentados</wi>.
 <wi type="G" value="599,7,">Fueron cortados</wi>
 y <wi type="G" value="5408,5,">asesinados</wi>
@@ -5642,7 +5642,7 @@ reasons with you as with children,
 <cl/><fp>
 «My son, don´t take lightly the chastening of the Lord,
 <t xml:lang="es">«<wi type="G" value="5207,10,">Hijo</wi>
-<wi type="G" value="3450,11,">mio</wi>,
+<wi type="G" value="3450,11,">mío</wi>,
 <wi type="G" value="3361,12,">no</wi>
 <wi type="G" value="3643,13,">desprecies</wi>
 <wi type="G" value="3809,14,">el castigo</wi>
@@ -6257,7 +6257,7 @@ matrimonio</wi></wi> sea
 <wi type="G" value="2919,14,">juzgará a</wi>
 <wi type="G" value="4205,10,">los inmorales sexuales</wi>
 <wi type="G" value="2532,12,">y</wi> a
-<wi type="G" value="3432,13,">los adulteros</wi>.</t>
+<wi type="G" value="3432,13,">los adúlteros</wi>.</t>
 
 </sv></cm>
 
@@ -6640,26 +6640,70 @@ the glory forever and ever. Amen.
 <sv id="Hebreos-13-22">
 But I exhort you, brothers, endure the word of exhortation, for I have
 written to you in few words.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> 
+<wi type="G" value="5209,3,">los</wi> 
+<wi type="G" value="3870,1,">exhorto</wi>, 
+<wi type="G" value="80,4,">hermanos</wi>, 
+<wi type="G" value="430,5,">a permanecer en</wi> 
+<wi type="G" value="3588,6,">la</wi> 
+<wi type="G" value="3056,7,">palabra</wi> 
+<wi type="G" value="3588,8,"/><wi type="G" value="3874,9,">de exhortación</wi>,
+<wi type="G" value="2532,10,"/><wi type="G" value="1063,11,">pues</wi> 
+<wi type="G" value="5213,15,">les</wi> 
+<wi type="G" value="1989,14,">he escrito</wi> 
+<wi type="G" value="1223,12,">en</wi> 
+<wi type="G" value="1024,13,">pocas palabras</wi>.
+</t>
 </sv>
 <sv id="Hebreos-13-23">
-Know
-<wi type="T" value="P"/> that our brother Timothy has
+Know that our brother Timothy has
 been freed, with whom, if he comes shortly, I will see you.
+<t xml:lang="es"><wi type="G" value="1097,1,">Sepan</wi> que 
+<wi type="G" value="3588,2,">el</wi> 
+<wi type="G" value="80,3,">hermano</wi> 
+<wi type="G" value="5095,4,">Timoteo</wi> 
+<wi type="G" value="630,5,">ha sido liberado</wi>,
+<wi type="G" value="3326,6,">con</wi> 
+<wi type="G" value="3739,7,">quien</wi>, 
+<wi type="G" value="1437,8,">si</wi> 
+<wi type="G" value="2064,10,">viene</wi> 
+<wi type="G" value="5032,9,">pronto</wi>, 
+<wi type="G" value="5209,12,">los</wi> 
+<wi type="G" value="3700,11,">veré</wi>.
+</t>
 </sv>
 <sv id="Hebreos-13-24">
 Greet all
 of your leaders and all the saints. The Italians greet you.
+<t xml:lang="es"><wi type="G" value="782,1,">Saluden a</wi> 
+<wi type="G" value="3956,2,">todos</wi> 
+<wi type="G" value="5216,5,">sus</wi> 
+<wi type="G" value="3588,3,"/><wi type="G" value="2233,4,">líderes</wi> 
+<wi type="G" value="2532,6,">y</wi> 
+<wi type="G" value="3956,7,">a todos</wi> 
+<wi type="G" value="3588,8,">los</wi>
+<wi type="G" value="40,9,">santos</wi>.
+<wi type="G" value="3588,12,">Los</wi> 
+<wi type="G" value="575,13,">de</wi> 
+<wi type="G" value="3588,14,"/><wi type="G" value="2482,15,">Italia</wi>
+<wi type="G" value="5209,11,">los</wi> 
+<wi type="G" value="782,10,">saludan</wi>.
+</t>
 </sv>
 <sv id="Hebreos-13-25">
 Grace be
 with you all. Amen.
-
+<t xml:lang="es"><wi type="G" value="3588,1,">La</wi>
+<wi type="G" value="5485,2,">gracia</wi> sea 
+<wi type="G" value="3326,3,">con</wi> 
+<wi type="G" value="3956,4,">todos</wi> 
+<wi type="G" value="5216,5,">ustedes</wi>. 
+<wi type="G" value="281,6,">Amén</wi></t>
+<rb xml:lang="es">.<rf>
+<citebib id="KJV2003"/> agrega el siguiente colofón:
+`Escrito a los Hebreso desde Italia por Timoteo.´</rf></rb>
 <cl/>
-
-
 <cl/>
-
-
 </sv></cm></sc>
 </sb>
 

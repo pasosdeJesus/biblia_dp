@@ -1467,7 +1467,7 @@ an ear, let him hear.
 anyone is with the sword, he must be killed.
 <t xml:lang="es"><wi type="G" value="5100,2,">Aquel</wi>
 <wi type="G" value="1487,1,">que</wi>
-<wi type="G" value="4863,3,">lleva a</wi>
+<wi type="G" value="4863,4,">lleva a</wi>
 <wi type="G" value="161,3,">cautividad</wi>
 <wi type="G" value="5217,7,">irá a</wi>
 <wi type="G" value="1519,5,">a</wi>
@@ -1477,7 +1477,8 @@ anyone is with the sword, he must be killed.
 <wi type="G" value="615,12,">mata</wi>
 <wi type="G" value="1722,10,">con</wi>
 <wi type="G" value="3162,11,">la espada</wi>,
-<wi type="G" value="615,17,">morirá</wi>
+<wi type="G" value="1163,13,">debe</wi>
+<wi type="G" value="846,14,"/><wi type="G" value="615,17,">morir</wi>
 <wi type="G" value="1722,15,">con</wi>
 <wi type="G" value="3162,16,">la espada</wi>.<rf>TR reads «If anyone leads
 into captivity, into captivity he goes. If anyone will kill with the sword,
@@ -1496,7 +1497,7 @@ endurance and the faith of the saints.
 <wi type="G" value="3588,20,"><wi type="G" value="5281,21,">la paciencia</wi></wi>
 <wi type="G" value="2532,22,">y</wi>
 <wi type="G" value="3588,23,"><wi type="G" value="4102,24,">la fe</wi></wi>
-<wi type="G" value="40,26,">de los santos</wi>.</t>
+<wi type="G" value="3588,25,"/><wi type="G" value="40,26,">de los santos</wi>.</t>
 </sv></cm>
 
 <cm>

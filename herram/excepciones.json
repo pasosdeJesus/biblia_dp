@@ -189,6 +189,9 @@
         "missingKjv2003": ["G4633-7", "G1345-8", "G2999-9", "G3588-10", "G5037-11", "G39-12", "G2886-13"],
         "reason": "Divergencia textual. SpaTDP incluye G4633 (σκηνη) basado en el Textus Receptus, lo que causa un desfase en la numeración de posición del resto del versículo en comparación con la KJV2003."
       }
+    },
+   "13": {
+      "20": { "missingKjv2003": ["G3588-1"], "reason": "SpaTDP correctly includes the article [τοῦ] based on Textus Receptus." }
     }
   }
 }

@@ -112,7 +112,7 @@ hope firm to the end.
 <wi type="G" value="949,23,">firmes en</wi>
 <wi type="G" value="3588,14,"><wi type="G" value="3954,15,">la confianza</wi></wi>
 <wi type="G" value="2532,16,">y</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="2745,18,">el gozo</wi></wi>
+<wi type="G" value="3588,17,"><wi type="G" value="2745,18,">la gloria</wi></wi>
 <wi type="G" value="3588,19,"><wi type="G" value="1680,20,">de la esperanza</wi></wi>
 <wi type="G" value="3360,21,">hasta</wi>
 <wi type="G" value="5056,22,">el final</wi>.
@@ -302,8 +302,15 @@ Don´t harden your hearts, as in the rebellion.»
 <wi type="G" value="5216,14,">sus</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="2588,13,">corazones</wi></wi>,
 <wi type="G" value="5613,15,">como</wi>
-<wi type="G" value="1722,16,">en</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="3894,18,">la rebelión</wi></wi>.»
+<wi type="G" value="1722,16,">en</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,17,"><wi type="G" value="3894,18,">la provocación</wi></wi><rf>
+<citebib id="WEB"/> dice `rebelión,´ aunque la palabra griega `παραπικρασμω´ es la misma usada
+en el versículo 3:8 donde se traduce como `provocación.´
+<citebib id="RVG2012"/> dice `provocación´ en 3:15 y tentación en 3:8.
+Según <citebib id="Thayer-BLB"/> esa palabra griega puede traducirse como
+irritación, provocación.
+</rf></rb>
+<t xml:lang="es">.»
 </t>
 </fp>
 
