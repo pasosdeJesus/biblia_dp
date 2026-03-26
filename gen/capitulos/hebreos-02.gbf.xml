@@ -32,7 +32,7 @@ recompense;
 <wi type="G" value="3847,12,">transgresión</wi>
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="3876,14,">desobediencia</wi>
-<wi type="G" value="2983,15,">se recibió</wi>
+<wi type="G" value="2983,15,">recibió</wi>
 <wi type="G" value="3405,17,">una retribución</wi>
 <wi type="G" value="1738,16,">justa</wi>;</t>
 </sv>
@@ -51,7 +51,7 @@ those who heard;
 <wi type="G" value="2980,10,">proclamada</wi>
 <wi type="G" value="1223,11,">por</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="2962,13,">el Señor</wi></wi>, y
-<wi type="G" value="950,19,">ha sido confirmada</wi>
+<wi type="G" value="950,19,">confirmada</wi>
 <wi type="G" value="1519,17,">para</wi>
 <wi type="G" value="2248,18,">nosotros</wi>
 <wi type="G" value="5259,14,">por</wi>
@@ -137,7 +137,8 @@ You crowned him with glory and honor.
 <wi type="G" value="4737,10,">coronaste</wi>
 <wi type="G" value="1391,7,">con gloria</wi>
 <wi type="G" value="2532,8,">y</wi>
-<wi type="G" value="5092,9,">honor</wi></t>
+<wi type="G" value="5092,9,">honor</wi>
+</t>
 <rb><t xml:lang="es"><wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="846,14,">lo</wi>
 <wi type="G" value="2525,13,">pusiste</wi>
