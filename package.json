@@ -1,0 +1,17 @@
+{
+  "name": "biblia_dp",
+  "version": "1.0.0",
+  "description": "Traducción del Nuevo Testamento al español (SpaTDP) basada en el Textus Receptus",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.30.3",
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.11"
+  }
+}

@@ -229,29 +229,14 @@
 <!ATTLIST wi 
 	type CDATA #REQUIRED
 	value CDATA #IMPLIED>
-<!-- Word information . Type could be
-	G Strong Greek number (e.g <wi type="G" value="1161,1,CONJ">y</wi>)
-	  where 1161 is the number, 1 the position in the verse in greek,
-	  CONJ the morphology. One strong could correspond to several
-          words, like in Mat 4:24: 
- 	  <wi type="G" value="1139,23,">poseidos por demonios</wi>
-	GC Continuation of a strong greek number.  The value is the position
-	  of the greek word that it complements -must be referenced before in
-	  the same verse (e.g in Mat 2:18)
-	  <wi type="G" value="1526,22,">ellos</wi> ya 
-	  <wi type="G" value="3756,20">no</wi> 
-	  <wi type="GC" value="22">estan</wi>
-	Nested wi when one or several words are the union of two or more
-	Strong's numbers . e.g Mat 4:19:
-<w src="4" lemma="x-Strongs:G1205" morph="x-Robinson:V-XXM-2P">Follow</w>
-<w src="6" lemma="x-Strongs:G3450" morph="x-Robinson:P-1GS">me,</w>
-	  <wi type="G" value="1205,4,"><wi type="G" value="3450,7,">Siganme</wi>
-        G* like G but not sure of translation 
-	H Strong Hebrew number
-	I Interlinear translation
-	T Original language word information (e.g 
-		<wi type="T" value="P">you</wi>)
-	Tf Form of address -->	
+<!-- Word information. Type: G (Greek Strong), GC (continuation), H
+  (Hebrew),
+  I (interlinear), T (original language info), Tf (form of address).
+  Value format: Strong,Position[,Morphology[,Lemma[,Inflected]]]
+  Examples:
+  <wi type="G" value="1063,2,CONJ">pues</wi>
+  <wi type="G" value="4100,7,V-AAI-1S,πιστεύω,ἐπίστευσα">creí</wi>
+  Nested wi allowed for union of multiple Strong numbers. -->
 
 
 <!ELEMENT sd (#PCDATA)>

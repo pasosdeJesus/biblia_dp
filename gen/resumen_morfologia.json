@@ -1585,7 +1585,7 @@
         "es_full_name": "Artículo - Nominativo Plural Femenino"
     },
     "T-NPM": {
-        "count": 1106,
+        "count": 1107,
         "en_full_name": "Article - Nominative Plural Masculine",
         "es_full_name": "Artículo - Nominativo Plural Masculino"
     },
@@ -1613,11 +1613,6 @@
         "count": 1,
         "en_full_name": "Article - (Unrecognized suffix: DSM?)",
         "es_full_name": "Artículo - (Sufijo no reconocido: DSM?)"
-    },
-    "T-PAP-NPM": {
-        "count": 1,
-        "en_full_name": "Unknown 1",
-        "es_full_name": "Desconocido 1"
     },
     "T-PNP-APM": {
         "count": 1,

@@ -7,3 +7,4 @@ confaux.sed
 confv.ent
 confv.sh
 html/
+node_modules
