@@ -64,6 +64,7 @@ multi: gbfxml2vhtml.xsl $(PROYECTO).gbfxml
 	mkdir -p $(HTML_DIR)/
 	cp -f $(PROYECTO).css $(PROYECTO).js $(HTML_DIR)/
 	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --stringparam css $(PROYECTO).css --catalogs --nonet gbfxml2vhtml.xsl $(PROYECTO).gbfxml 
+	for n in `grep -l ". »" html/*`; do sed -i -e "s/. »/.»/g" $n; done
 
 
 all: $(HTML_TARGET).bak $(PRINT_DIR)/$(PROYECTO).ps $(PRINT_DIR)/$(PROYECTO).pdf
