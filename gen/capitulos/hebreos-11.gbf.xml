@@ -310,7 +310,7 @@ seen them
 <wi type="G" value="3982,15,">estando convencidos</wi></t><rf>
 adds «and being convinced of»
 <t xml:lang="es"><citebib id="WEB"/> omite `y estando convencidos´ que si
-está presente en TR, <citebib id="KJV2003"/></t>
+está presente en TR y <citebib id="KJV2003"/></t>
 </rf></rb>
 and embraced them from
 afar, and having confessed that they were strangers and pilgrims on the
@@ -409,8 +409,8 @@ even he to whom it was said, «In Isaac will your seed be called;»
 <wi type="G" value="3739,2,">quien</wi>
 <wi type="G" value="2980,3,">se le había dicho</wi>
 <wi type="G" value="3754,4,">que</wi>
-<wi type="G" value="1722,5,">en</wi>,
-«<wi type="G" value="2464,6,">En Isaac</wi>
+«<wi type="G" value="1722,5,">En</wi>
+<wi type="G" value="2464,6,">Isaac</wi>
 <wi type="G" value="2564,7,">será llamada</wi>
 <wi type="G" value="4671,8,">tu</wi>
 <wi type="G" value="4690,9,">descendencia</wi>;»</t>
