@@ -22,6 +22,7 @@
   <!ENTITY tito SYSTEM "tito.gbfxml">
   <!ENTITY filemon SYSTEM "filemon.gbfxml">
   <!ENTITY hebreos SYSTEM "hebreos.gbfxml">
+  <!ENTITY santiago SYSTEM "santiago.gbfxml">
 
   <!ENTITY biblio SYSTEM "biblio.gbfxml">
   ]>
@@ -52,7 +53,8 @@
 &timoteo2;
 &tito;
 &filemon;
- --> 
 &hebreos;
+ --> 
+&santiago;
 &biblio;
 </gbfxml>
