@@ -14,7 +14,7 @@ del hijo de Isaac del Antiguo Testamento. Sin embargo en español
 el personaje del nuevo testamento suele traducirse como Santiago,
 según https://es.wikipedia.org/wiki/Jacobo esto se debe a la evolución
 del latín eclesiástico Sanctus Iacobus (Santo Jacobo) que con el tiempo
-tomó formas más fluida como Sant Iaco, Sant Yago o Santo Yagüe, hasta 
+tomó formas más fluida como Sant Iaco, Sant Yago o Santo Yagüe, hasta
 fusionarse en una sola palabra: Santiago.
 </rf></rb>
 <t xml:lang="es">,
@@ -34,18 +34,41 @@ a <wi type="G" value="3588,8,">las</wi>
 </sv>
 		<sv id="James-1-2">
 Count it all joy, my
+<t xml:lang="es"><wi type="G" value="2233,3,">Cuenten</wi> como
+<wi type="G" value="3956,1,">todo</wi>
+<wi type="G" value="5479,2,">gozo</wi>,
+<wi type="G" value="3450,5,">mis</wi>
+</t>
 
 <rb>brothers
-<t xml:lang="es"/><rf>The word for «brothers» here and where context allows may
-also be correctly translated «brothers and sisters» or «siblings.»<t xml:lang="es"/></rf>
-</rb>
-, when
-you
-<wi type="T" value="P"/> fall into various temptations,
+<t xml:lang="es"><wi type="G" value="80,4,">hermanos</wi></t><rf>The word for «brothers» here and where context allows may
+also be correctly translated «brothers and sisters» or «siblings.»
+<t xml:lang="es">La palabra para «hermanos» aquí y donde el contexto
+lo permita puede traducirse también correctamente como
+«heramnos y hermanas».</t>
+</rf></rb>
+, when you fall into various temptations,
+<t xml:lang="es"><wi type="G" value="3752,6,">cuando</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4045,8,">lleguen</wi><rf>
+<citebib id="WEB"/>, <citebib id="KJV2003"/> y
+<citebib id="RVG2012"/> dicen `caigan.´
+Según <citebib id="Thayer-BLB"/>la palabra `περιπεσητε´ es caer como caer
+en manos de ladrones.</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="4164,9,">diversas</wi>
+<wi type="G" value="3986,7,">tentaciones</wi>,</t>
 </sv>
 		<sv id="James-1-3">
 knowing that the testing of your
 faith produces endurance.
+<t xml:lang="es"><wi type="G" value="1097,1,">sabiendo</wi>
+<wi type="G" value="3754,2,">que</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="1383,4,">la prueba</wi></wi>
+<wi type="G" value="5216,5,">de su</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="4102,7,">fe</wi></wi>
+<wi type="G" value="2716,8,">produce</wi>
+<wi type="G" value="5281,9,">paciencia</wi>.
+</t>
 </sv>
 		<sv id="James-1-4">
 Let endurance have its perfect work, that
