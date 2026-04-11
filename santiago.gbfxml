@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
-<sb id="James" type="" xml:lang="">
+<sb id="Santiago" type="" xml:lang="">
 <tt>The Letter from James<t xml:lang="es">La carta de Santiago</t></tt>
-<sc id="James-1">
+<sc id="Santiago-1">
 <cm>
-<sv id="James-1-1">
+<sv id="Santiago-1-1">
 James, a servant of God and of the Lord Jesus Christ, to the twelve
 tribes which are in the Dispersion: Greetings.
 <rb xml:lang="es"><wi type="G" value="2385,1,">Santiago</wi><rf>
@@ -32,7 +32,7 @@ a <wi type="G" value="3588,8,">las</wi>
 <wi type="G" value="3588,13,"><wi type="G" value="1290,14,">dispersión</wi></wi>:
 <wi type="G" value="5463,15,">Saludos</wi>.</t>
 </sv>
-		<sv id="James-1-2">
+		<sv id="Santiago-1-2">
 Count it all joy, my
 <t xml:lang="es"><wi type="G" value="2233,3,">Cuenten</wi> como
 <wi type="G" value="3956,1,">todo</wi>
@@ -58,7 +58,8 @@ en manos de ladrones.</rf></rb>
 <wi type="G" value="4164,9,">diversas</wi>
 <wi type="G" value="3986,7,">tentaciones</wi>,</t>
 </sv>
-		<sv id="James-1-3">
+
+<sv id="Santiago-1-3">
 knowing that the testing of your
 faith produces endurance.
 <t xml:lang="es"><wi type="G" value="1097,1,">sabiendo</wi>
@@ -70,87 +71,122 @@ faith produces endurance.
 <wi type="G" value="5281,9,">paciencia</wi>.
 </t>
 </sv>
-		<sv id="James-1-4">
+
+<sv id="Santiago-1-4">
 Let endurance have its perfect work, that
-you
-<wi type="T" value="P"/> may be perfect and complete, lacking in nothing.
+you may be perfect and complete, lacking in nothing.
+<t xml:lang="es"><wi type="G" value="1161,2,,">Y</wi> que
+<wi type="G" value="3588,1,">la</wi>
+<wi type="G" value="5281,3,">paciencia</wi>
+<wi type="G" value="2192,6,">tenga</wi> su
+<wi type="G" value="2041,4,">obra</wi>
+<wi type="G" value="5046,5,">perfecta</wi>,
+<wi type="G" value="2443,7,">para que</wi>
+<wi type="G" value="5600,8,">puedan</wi>
+<wi type="G" value="5046,9,">ser perfeccionados</wi>
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="3648,11,">completos</wi>, que
+<wi type="G" value="1722,12,">en</wi> <wi type="G" value="3367,13,">nada</wi>
+<wi type="G" value="3007,14,">haga falta</wi>.
+</t>
 </sv>
-		<sv id="James-1-5">
+
+<sv id="Santiago-1-5">
 But if any of
 you lacks wisdom, let him ask of God, who gives to all liberally and without
 reproach; and it will be given to him.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="5100,3,">a alguno</wi>
+<wi type="G" value="5216,4,">de ustedes</wi>
+<wi type="G" value="3007,5,">le falta</wi>
+<wi type="G" value="4678,6,">sabiduría</wi>,
+<wi type="G" value="154,7,">que le pida</wi>
+<wi type="G" value="3844,8,">de</wi>
+<wi type="G" value="2316,11,">Dios</wi>,
+<wi type="G" value="3588,9,">quien</wi>
+<wi type="G" value="1325,10,">la da</wi>
+<wi type="G" value="3956,12,">a todos</wi>
+<wi type="G" value="574,13,">generosamente</wi>
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="3361,15,">sin</wi>
+<wi type="G" value="3679,16,">reproche</wi>;
+<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="846,19,">le</wi>
+<wi type="G" value="1325,18,">será dada</wi>.
+</t>
 </sv>
-		<sv id="James-1-6">
+		<sv id="Santiago-1-6">
 But let him ask in faith, without
 any doubting, for he who doubts is like a wave of the sea, driven by the wind
 and tossed.
 </sv>
-		<sv id="James-1-7">
+		<sv id="Santiago-1-7">
 For let that man not think that he will receive anything
 from the Lord.
 </sv>
-		<sv id="James-1-8">
+		<sv id="Santiago-1-8">
 He is a double-minded man, unstable in all his ways.
 
 </sv></cm><cm>
 
-<sv id="James-1-9">
+<sv id="Santiago-1-9">
 But let the brother in humble circumstances glory in his high position;
 
 </sv>
-		<sv id="James-1-10">
+		<sv id="Santiago-1-10">
 and the rich, in that he is made humble, because like the flower in the
 grass, he will pass away.
 </sv>
-		<sv id="James-1-11">
+		<sv id="Santiago-1-11">
 For the sun arises with the scorching wind,
 and withers the grass, and the flower in it falls, and the beauty of its
 appearance perishes. So also will the rich man fade away in his pursuits.
 
 </sv></cm><cm>
 
-<sv id="James-1-12">
+<sv id="Santiago-1-12">
 Blessed is the man who endures temptation, for when he has been
 approved, he will receive the crown of life, which the Lord promised to those
 who love him.
 </sv>
-		<sv id="James-1-13">
+		<sv id="Santiago-1-13">
 Let no man say when he is tempted, «I am tempted by God,»
 for God can´t be tempted by evil, and he himself tempts no one.
 </sv>
-		<sv id="James-1-14">
+		<sv id="Santiago-1-14">
 But
 each one is tempted, when he is drawn away by his own lust, and enticed.
 
 </sv>
-		<sv id="James-1-15">
+		<sv id="Santiago-1-15">
 Then the lust, when it has conceived, bears sin; and the sin, when it
 is full grown, brings forth death.
 </sv>
-		<sv id="James-1-16">
+		<sv id="Santiago-1-16">
 Don´t be deceived, my beloved
 brothers.
 </sv>
-		<sv id="James-1-17">
+		<sv id="Santiago-1-17">
 Every good gift and every perfect gift is from above, coming
 down from the Father of lights, with whom can be no variation, nor turning
 shadow.
 </sv>
-		<sv id="James-1-18">
+		<sv id="Santiago-1-18">
 Of his own will he brought us forth by the word of truth, that
 we should be a kind of first fruits of his creatures.
 
 </sv></cm><cm>
 
-<sv id="James-1-19">
+<sv id="Santiago-1-19">
 So, then, my beloved brothers, let every man be swift to hear, slow to
 speak, and slow to anger;
 </sv>
-		<sv id="James-1-20">
+		<sv id="Santiago-1-20">
 for the anger of man doesn´t produce the
 righteousness of God.
 </sv>
-		<sv id="James-1-21">
+		<sv id="Santiago-1-21">
 Therefore, putting away all filthiness and
 overflowing of wickedness, receive with humility the implanted word, which is
 able to
@@ -159,33 +195,33 @@ able to
 </rb>
 .
 </sv>
-		<sv id="James-1-22">
+		<sv id="Santiago-1-22">
 But be
 <wi type="T" value="P"/>
 doers of the word, and not only hearers, deluding your own selves.
 </sv>
-		<sv id="James-1-23">
+		<sv id="Santiago-1-23">
 For
 if anyone is a hearer of the word and not a doer, he is like a man beholding
 his natural face in a mirror;
 </sv>
-		<sv id="James-1-24">
+		<sv id="Santiago-1-24">
 for he sees himself, and goes away, and
 immediately forgets what kind of man he was.
 </sv>
-		<sv id="James-1-25">
+		<sv id="Santiago-1-25">
 But he who looks into the
 perfect law, the law of freedom, and continues, not being a hearer who
 forgets but a doer of the work, this man will be blessed in what he does.
 
 </sv></cm><cm>
 
-<sv id="James-1-26">
+<sv id="Santiago-1-26">
 If anyone among you thinks himself to be religious while he doesn´t
 bridle his tongue, but deceives his heart, this man´s religion is worthless.
 
 </sv>
-		<sv id="James-1-27">
+		<sv id="Santiago-1-27">
 Pure religion and undefiled before our God and Father is this: to visit
 the fatherless and widows in their affliction, and to keep oneself unstained
 by the world.
@@ -194,13 +230,13 @@ by the world.
 
 
 </sv></cm></sc>
-<sc id="James-2">
+<sc id="Santiago-2">
 <cm>
-<sv id="James-2-1">
+<sv id="Santiago-2-1">
 My brothers, don´t hold the faith of our Lord Jesus Christ of glory
 with partiality.
 </sv>
-		<sv id="James-2-2">
+		<sv id="Santiago-2-2">
 For if a man with a gold ring, in fine clothing, comes
 into your
 <rb>synagogue
@@ -208,7 +244,7 @@ into your
 </rb>
 , and a poor man in filthy clothing also comes in;
 </sv>
-		<sv id="James-2-3">
+		<sv id="Santiago-2-3">
 and
 you
 <wi type="T" value="P"/> pay special attention to him who wears the fine clothing, and say,
@@ -216,118 +252,118 @@ you
 <wi type="T" value="P"/> tell the poor man, «Stand there,» or
 «Sit by my footstool;»
 </sv>
-		<sv id="James-2-4">
+		<sv id="Santiago-2-4">
 haven´t you
 <wi type="T" value="P"/> shown partiality among
 yourselves, and become judges with evil thoughts?
 </sv>
-		<sv id="James-2-5">
+		<sv id="Santiago-2-5">
 Listen, my beloved
 brothers. Didn´t God choose those who are poor in this world to be rich in
 faith, and heirs of the Kingdom which he promised to those who love him?
 
 </sv>
-		<sv id="James-2-6">
+		<sv id="Santiago-2-6">
 But you
 <wi type="T" value="P"/> have dishonored the poor man. Don´t the rich oppress you,
 and personally drag you before the courts?
 </sv>
-		<sv id="James-2-7">
+		<sv id="Santiago-2-7">
 Don´t they blaspheme the
 honorable name by which you
 <wi type="T" value="P"/> are called?
 </sv>
-		<sv id="James-2-8">
+		<sv id="Santiago-2-8">
 However, if you
 <wi type="T" value="P"/>
 fulfill the royal law, according to the Scripture, «You shall love your
 neighbor as yourself,» you
 <wi type="T" value="P"/> do well.
 </sv>
-		<sv id="James-2-9">
+		<sv id="Santiago-2-9">
 But if you
 <wi type="T" value="P"/> show
 partiality, you
 <wi type="T" value="P"/> commit sin, being convicted by the law as transgressors.
 
 </sv>
-		<sv id="James-2-10">
+		<sv id="Santiago-2-10">
 For whoever shall keep the whole law, and yet stumble in one point, he
 has become guilty of all.
 </sv>
-		<sv id="James-2-11">
+		<sv id="Santiago-2-11">
 For he who said, «Do not commit adultery,»
 said also, «Do not commit murder.» Now if you do not commit adultery, but
 murder, you have become a transgressor of the law.
 </sv>
-		<sv id="James-2-12">
+		<sv id="Santiago-2-12">
 So speak
 <wi type="T" value="P"/>, and
 so do, as men who are to be judged by a law of freedom.
 </sv>
-		<sv id="James-2-13">
+		<sv id="Santiago-2-13">
 For judgment is
 without mercy to him who has shown no mercy. Mercy triumphs over judgment.
 
 </sv></cm><cm>
 
-<sv id="James-2-14">
+<sv id="Santiago-2-14">
 What good is it, my brothers, if a man says he has faith, but has no
 works? Can faith save him?
 </sv>
-		<sv id="James-2-15">
+		<sv id="Santiago-2-15">
 And if a brother or sister is naked and in
 lack of daily food,
 </sv>
-		<sv id="James-2-16">
+		<sv id="Santiago-2-16">
 and one of you tells them, «Go in peace, be
 <wi type="T" value="P"/>
 warmed and filled;» and yet you
 <wi type="T" value="P"/> didn´t give them the things the body
 needs, what good is it?
 </sv>
-		<sv id="James-2-17">
+		<sv id="Santiago-2-17">
 Even so faith, if it has no works, is dead in
 itself.
 </sv>
-		<sv id="James-2-18">
+		<sv id="Santiago-2-18">
 Yes, a man will say, «You have faith, and I have works.» Show
 me your faith from your works, and I by my works will show you my faith.
 
 </sv></cm><cm>
 
-<sv id="James-2-19">
+<sv id="Santiago-2-19">
 You believe that God is one. You do well. The demons also believe, and
 shudder.
 </sv>
-		<sv id="James-2-20">
+		<sv id="Santiago-2-20">
 But do you want to know, vain man, that faith apart from works
 is dead?
 </sv>
-		<sv id="James-2-21">
+		<sv id="Santiago-2-21">
 Wasn´t Abraham our father justified by works, in that he
 offered up Isaac his son on the altar?
 </sv>
-		<sv id="James-2-22">
+		<sv id="Santiago-2-22">
 You see that faith worked with
 his works, and by works faith was perfected;
 </sv>
-		<sv id="James-2-23">
+		<sv id="Santiago-2-23">
 and the Scripture was
 fulfilled which says, «Abraham believed God, and it was accounted to him as
 righteousness;» and he was called the friend of God.
 </sv>
-		<sv id="James-2-24">
+		<sv id="Santiago-2-24">
 You
 <wi type="T" value="P"/> see then
 that by works, a man is justified, and not only by faith.
 </sv>
-		<sv id="James-2-25">
+		<sv id="Santiago-2-25">
 In like
 manner wasn´t Rahab the prostitute also justified by works, in that she
 received the messengers, and sent them out another way?
 </sv>
-		<sv id="James-2-26">
+		<sv id="Santiago-2-26">
 For as the body
 apart from the spirit is dead, even so faith apart from works is dead.
 
@@ -335,32 +371,32 @@ apart from the spirit is dead, even so faith apart from works is dead.
 
 
 </sv></cm></sc>
-<sc id="James-3">
+<sc id="Santiago-3">
 <cm>
-<sv id="James-3-1">
+<sv id="Santiago-3-1">
 Let not many of you be teachers, my brothers, knowing that we will
 receive heavier judgment.
 </sv>
-		<sv id="James-3-2">
+		<sv id="Santiago-3-2">
 For in many things we all stumble. If anyone
 doesn´t stumble in word, the same is a perfect man, able to bridle the whole
 body also.
 </sv>
-		<sv id="James-3-3">
+		<sv id="Santiago-3-3">
 Indeed, we put bits into the horses´ mouths so that they may
 obey us, and we guide their whole body.
 </sv>
-		<sv id="James-3-4">
+		<sv id="Santiago-3-4">
 Behold, the ships also, though
 they are so big and are driven by fierce winds, are yet guided by a very
 small rudder, wherever the pilot desires.
 </sv>
-		<sv id="James-3-5">
+		<sv id="Santiago-3-5">
 So the tongue is also a little
 member, and boasts great things. See how a small fire can spread to a large
 forest!
 </sv>
-		<sv id="James-3-6">
+		<sv id="Santiago-3-6">
 And the tongue is a fire. The world of iniquity among our
 members is the tongue, which defiles the whole body, and sets on fire the
 course of nature, and is set on fire by
@@ -371,59 +407,59 @@ it<t xml:lang="es"/></rf>
 </rb>
 
 </sv>
-		<sv id="James-3-7">
+		<sv id="Santiago-3-7">
 For every kind of animal, bird, creeping thing, and thing in the
 sea, is tamed, and has been tamed by mankind.
 </sv>
-		<sv id="James-3-8">
+		<sv id="Santiago-3-8">
 But nobody can tame the
 tongue. It is a restless evil, full of deadly poison.
 </sv>
-		<sv id="James-3-9">
+		<sv id="Santiago-3-9">
 With it we bless
 our God and Father, and with it we curse men, who are made in the image of
 God.
 </sv>
-		<sv id="James-3-10">
+		<sv id="Santiago-3-10">
 Out of the same mouth comes forth blessing and cursing. My
 brothers, these things ought not to be so.
 </sv>
-		<sv id="James-3-11">
+		<sv id="Santiago-3-11">
 Does a spring send out from
 the same opening fresh and bitter water?
 </sv>
-		<sv id="James-3-12">
+		<sv id="Santiago-3-12">
 Can a fig tree, my brothers,
 yield olives, or a vine figs? Thus no spring yields both salt water and fresh
 water.
 
 </sv></cm><cm>
 
-<sv id="James-3-13">
+<sv id="Santiago-3-13">
 Who is wise and understanding among you? Let him show by his good
 conduct that his deeds are done in gentleness of wisdom.
 </sv>
-		<sv id="James-3-14">
+		<sv id="Santiago-3-14">
 But if
 you
 <wi type="T" value="P"/> have bitter jealousy and selfish ambition in your heart, don´t boast
 and don´t lie against the truth.
 </sv>
-		<sv id="James-3-15">
+		<sv id="Santiago-3-15">
 This wisdom is not that which comes
 down from above, but is earthly, sensual, and demonic.
 </sv>
-		<sv id="James-3-16">
+		<sv id="Santiago-3-16">
 For where
 jealousy and selfish ambition are, there is confusion and every evil deed.
 
 </sv>
-		<sv id="James-3-17">
+		<sv id="Santiago-3-17">
 But the wisdom that is from above is first pure, then peaceful, gentle,
 reasonable, full of mercy and good fruits, without partiality, and without
 hypocrisy.
 </sv>
-		<sv id="James-3-18">
+		<sv id="Santiago-3-18">
 Now the fruit of righteousness is sown in peace by those who
 make peace.
 
@@ -431,13 +467,13 @@ make peace.
 
 
 </sv></cm></sc>
-<sc id="James-4">
+<sc id="Santiago-4">
 <cm>
-<sv id="James-4-1">
+<sv id="Santiago-4-1">
 Where do wars and fightings among you come from? Don´t they come
 from your pleasures that war in your members?
 </sv>
-		<sv id="James-4-2">
+		<sv id="Santiago-4-2">
 You
 <wi type="T" value="P"/> lust, and don´t
 have. You
@@ -447,7 +483,7 @@ You
 <wi type="T" value="P"/> don´t have, because you
 <wi type="T" value="P"/> don´t ask.
 </sv>
-		<sv id="James-4-3">
+		<sv id="Santiago-4-3">
 You
 <wi type="T" value="P"/> ask, and don´t
 receive, because you
@@ -455,7 +491,7 @@ receive, because you
 <wi type="T" value="P"/> may spend
 it for your pleasures.
 </sv>
-		<sv id="James-4-4">
+		<sv id="Santiago-4-4">
 You
 <wi type="T" value="P"/> adulterers and adulteresses, don´t
 you
@@ -463,54 +499,54 @@ you
 therefore wants to be a friend of the world makes himself an enemy of God.
 
 </sv>
-		<sv id="James-4-5">
+		<sv id="Santiago-4-5">
 Or do you
 <wi type="T" value="P"/> think that the Scripture says in vain, «The Spirit who
 lives in us yearns jealously»?
 </sv>
-		<sv id="James-4-6">
+		<sv id="Santiago-4-6">
 But he gives more grace. Therefore it
 says, «God resists the proud, but gives grace to the humble.»
 </sv>
-		<sv id="James-4-7">
+		<sv id="Santiago-4-7">
 Be subject
 therefore to God. But resist the devil, and he will flee from you.
 </sv>
-		<sv id="James-4-8">
+		<sv id="Santiago-4-8">
 Draw
 near to God, and he will draw near to you. Cleanse your hands, you
 <wi type="T" value="P"/>
 sinners; and purify your hearts, you
 <wi type="T" value="P"/> double-minded.
 </sv>
-		<sv id="James-4-9">
+		<sv id="Santiago-4-9">
 Lament, mourn,
 and weep. Let your laughter be turned to mourning, and your joy to gloom.
 
 </sv>
-		<sv id="James-4-10">
+		<sv id="Santiago-4-10">
 Humble yourselves in the sight of the Lord, and he will exalt you.
 
 </sv></cm><cm>
 
-<sv id="James-4-11">
+<sv id="Santiago-4-11">
 Don´t speak against one another, brothers. He who speaks against a
 brother and judges his brother, speaks against the law and judges the law.
 But if you judge the law, you are not a doer of the law, but a judge.
 
 </sv>
-		<sv id="James-4-12">
+		<sv id="Santiago-4-12">
 Only one is the lawgiver, who is able to save and to destroy. But who
 are you to judge another?
 
 </sv></cm><cm>
 
-<sv id="James-4-13">
+<sv id="Santiago-4-13">
 Come now, you
 <wi type="T" value="P"/> who say, «Today or tomorrow let´s go into this city,
 and spend a year there, trade, and make a profit.»
 </sv>
-		<sv id="James-4-14">
+		<sv id="Santiago-4-14">
 Whereas you
 <wi type="T" value="P"/>
 don´t know what your life will be like tomorrow. For what is your life? For
@@ -518,17 +554,17 @@ you
 <wi type="T" value="P"/> are a vapor, that appears for a little time, and then vanishes away.
 
 </sv>
-		<sv id="James-4-15">
+		<sv id="Santiago-4-15">
 For you
 <wi type="T" value="P"/> ought to say, «If the Lord wills, we will both live, and
 do this or that.»
 </sv>
-		<sv id="James-4-16">
+		<sv id="Santiago-4-16">
 But now you
 <wi type="T" value="P"/> glory in your boasting. All such
 boasting is evil.
 </sv>
-		<sv id="James-4-17">
+		<sv id="Santiago-4-17">
 To him therefore who knows to do good, and doesn´t do
 it, to him it is sin.
 
@@ -536,37 +572,37 @@ it, to him it is sin.
 
 
 </sv></cm></sc>
-<sc id="James-5">
+<sc id="Santiago-5">
 <cm>
-<sv id="James-5-1">
+<sv id="Santiago-5-1">
 Come now, you
 <wi type="T" value="P"/> rich, weep and howl for your miseries that are
 coming on you.
 </sv>
-		<sv id="James-5-2">
+		<sv id="Santiago-5-2">
 Your riches are corrupted and your garments are
 moth-eaten.
 </sv>
-		<sv id="James-5-3">
+		<sv id="Santiago-5-3">
 Your gold and your silver are corroded, and their corrosion
 will be for a testimony against you, and will eat your flesh like fire.
 You
 <wi type="T" value="P"/> have laid up your treasure in the last days.
 </sv>
-		<sv id="James-5-4">
+		<sv id="Santiago-5-4">
 Behold, the wages
 of the laborers who mowed your fields, which you have kept back by fraud, cry
 out, and the cries of those who reaped have entered into the ears of the Lord
 of Armies.
 </sv>
-		<sv id="James-5-5">
+		<sv id="Santiago-5-5">
 You
 <wi type="T" value="P"/> have lived delicately on the earth, and taken your
 pleasure. You
 <wi type="T" value="P"/> have nourished your hearts as in a day of slaughter.
 
 </sv>
-		<sv id="James-5-6">
+		<sv id="Santiago-5-6">
 You
 <wi type="T" value="P"/> have condemned, you
 <wi type="T" value="P"/> have murdered the righteous one. He
@@ -574,35 +610,35 @@ doesn´t resist you.
 
 </sv></cm><cm>
 
-<sv id="James-5-7">
+<sv id="Santiago-5-7">
 Be patient therefore, brothers, until the coming of the Lord. Behold,
 the farmer waits for the precious fruit of the earth, being patient over it,
 until it receives the early and late rain.
 </sv>
-		<sv id="James-5-8">
+		<sv id="Santiago-5-8">
 You
 <wi type="T" value="P"/> also be patient.
 Establish your hearts, for the coming of the Lord is at hand.
 
 </sv></cm><cm>
 
-<sv id="James-5-9">
+<sv id="Santiago-5-9">
 Don´t grumble, brothers, against one another, so that you
 <wi type="T" value="P"/> won´t be
 judged. Behold, the judge stands at the door.
 </sv>
-		<sv id="James-5-10">
+		<sv id="Santiago-5-10">
 Take, brothers, for an
 example of suffering and of patience, the prophets who spoke in the name of
 the Lord.
 </sv>
-		<sv id="James-5-11">
+		<sv id="Santiago-5-11">
 Behold, we call them blessed who endured. You
 <wi type="T" value="P"/> have heard
 of the patience of Job, and have seen the Lord in the outcome, and how the
 Lord is full of compassion and mercy.
 </sv>
-		<sv id="James-5-12">
+		<sv id="Santiago-5-12">
 But above all things, my
 brothers, don´t swear, neither by heaven, nor by the earth, nor by any other
 oath; but let your «yes» be «yes,» and your «no,» «no;» so that you
@@ -616,42 +652,42 @@ hypocrisy»<t xml:lang="es"/></rf>
 
 </sv></cm><cm>
 
-<sv id="James-5-13">
+<sv id="Santiago-5-13">
 Is any among you suffering? Let him pray. Is any cheerful? Let him sing
 praises.
 </sv>
-		<sv id="James-5-14">
+		<sv id="Santiago-5-14">
 Is any among you sick? Let him call for the elders of the
 assembly, and let them pray over him, anointing him with oil in the name of
 the Lord,
 </sv>
-		<sv id="James-5-15">
+		<sv id="Santiago-5-15">
 and the prayer of faith will heal him who is sick, and the
 Lord will raise him up. If he has committed sins, he will be forgiven.
 
 </sv>
-		<sv id="James-5-16">
+		<sv id="Santiago-5-16">
 Confess your offenses to one another, and pray one for another, that
 you
 <wi type="T" value="P"/> may be healed. The insistent prayer of a righteous person is
 powerfully effective.
 </sv>
-		<sv id="James-5-17">
+		<sv id="Santiago-5-17">
 Elijah was a man with a nature like ours, and he
 prayed earnestly that it might not rain, and it didn´t rain on the earth for
 three years and six months.
 </sv>
-		<sv id="James-5-18">
+		<sv id="Santiago-5-18">
 He prayed again, and the sky gave rain, and
 the earth brought forth its fruit.
 
 </sv></cm><cm>
 
-<sv id="James-5-19">
+<sv id="Santiago-5-19">
 Brothers, if any among you wanders from the truth, and someone turns
 him back,
 </sv>
-		<sv id="James-5-20">
+		<sv id="Santiago-5-20">
 let him know that he who turns a sinner from the error of his
 way will save a soul from death, and will cover a multitude of sins.
 
