@@ -116,7 +116,8 @@ reproach; and it will be given to him.
 <wi type="G" value="1325,18,">será dada</wi>.
 </t>
 </sv>
-		<sv id="Santiago-1-6">
+
+<sv id="Santiago-1-6">
 But let him ask in faith, without
 any doubting, for he who doubts is like a wave of the sea, driven by the wind
 and tossed.
@@ -136,6 +137,7 @@ and tossed.
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="4494,15,">lanzada</wi>.</t>
 </sv>
+
 <sv id="Santiago-1-7">
 For let that man not think that he will receive anything
 from the Lord.
@@ -150,13 +152,31 @@ from the Lord.
 <wi type="G" value="3844,10,"><wi type="G" value="3588,11,">del</wi></wi>
 <wi type="G" value="2962,12,">Señor</wi>.</t>
 </sv>
-		<sv id="Santiago-1-8">
+
+<sv id="Santiago-1-8">
 He is a double-minded man, unstable in all his ways.
+<t xml:lang="es"><wi type="G" value="435,1,">Una persona</wi>
+<wi type="G" value="1374,2,">de doble mente</wi> es
+<wi type="G" value="182,3,">inestable</wi>
+<wi type="G" value="1722,4,">en</wi>
+<wi type="G" value="3956,5,">todos</wi>
+<wi type="G" value="846,8,">sus</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="3598,7,">caminos</wi></wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Santiago-1-9">
 But let the brother in humble circumstances glory in his high position;
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> que
+<wi type="G" value="3588,3,">el</wi>
+<wi type="G" value="80,4,">hermano</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="5011,6,">humilde</wi>
+<wi type="G" value="2744,1,">se goce</wi>
+<wi type="G" value="1722,7,">en</wi> que
+<wi type="G" value="846,10,">él</wi> es
+<wi type="G" value="3588,8,"/><wi type="G" value="5311,9,">exaltado</wi>;
+</t>
 
 </sv>
 		<sv id="Santiago-1-10">
