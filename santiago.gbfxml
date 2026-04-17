@@ -198,33 +198,33 @@ grass, he will pass away.
 For the sun arises with the scorching wind,
 and withers the grass, and the flower in it falls, and the beauty of its
 appearance perishes. So also will the rich man fade away in his pursuits.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> 
-<wi type="G" value="3588,3,"><wi type="G" value="2246,4,">el sol</wi></wi> 
-<wi type="G" value="393,1,">se levanta</wi> 
-<wi type="G" value="4862,5,">con</wi> 
-<wi type="G" value="3588,6,"/><wi type="G" value="2742,7,">calor</wi> 
-<wi type="G" value="2532,8,">y</wi> 
-<wi type="G" value="3583,9,">seca</wi> 
-<wi type="G" value="3588,10,">el</wi> 
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2246,4,">el sol</wi></wi>
+<wi type="G" value="393,1,">se levanta</wi>
+<wi type="G" value="4862,5,">con</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="2742,7,">calor</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="3583,9,">seca</wi>
+<wi type="G" value="3588,10,">el</wi>
 <wi type="G" value="5528,11,">pasto</wi>,
-<wi type="G" value="2532,12,">y</wi> 
-<wi type="G" value="3588,13,">la</wi> 
-<wi type="G" value="438,14,">flor</wi> 
-<wi type="G" value="846,15,">de este</wi> 
-<wi type="G" value="1601,16,">cae</wi>, 
-<wi type="G" value="2532,17,">y</wi> 
-<wi type="G" value="3588,18,">la</wi> 
-<wi type="G" value="2143,19,">belleza</wi> 
-<wi type="G" value="846,22,">de su</wi> 
-<wi type="G" value="3588,20,"/><wi type="G" value="4383,21,">apariencia</wi> 
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="438,14,">flor</wi>
+<wi type="G" value="846,15,">de este</wi>
+<wi type="G" value="1601,16,">cae</wi>,
+<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="3588,18,">la</wi>
+<wi type="G" value="2143,19,">belleza</wi>
+<wi type="G" value="846,22,">de su</wi>
+<wi type="G" value="3588,20,"/><wi type="G" value="4383,21,">apariencia</wi>
 <wi type="G" value="622,23,">perece</wi>.
-<wi type="G" value="3779,24,">Así</wi> 
-<wi type="G" value="2532,25,">también</wi> 
-<wi type="G" value="3133,32,">desaparecerá</wi> 
+<wi type="G" value="3779,24,">Así</wi>
+<wi type="G" value="2532,25,">también</wi>
+<wi type="G" value="3133,32,">desaparecerá</wi>
 <wi type="G" value="3588,26,">el</wi>
-<wi type="G" value="4145,27,">hombre rico</wi> 
-<wi type="G" value="1722,28,">en</wi> 
-<wi type="G" value="846,31,">sus</wi> 
+<wi type="G" value="4145,27,">hombre rico</wi>
+<wi type="G" value="1722,28,">en</wi>
+<wi type="G" value="846,31,">sus</wi>
 <wi type="G" value="3588,29,"/><wi type="G" value="4197,30,">propósitos</wi>.
 </t>
 
@@ -234,6 +234,27 @@ appearance perishes. So also will the rich man fade away in his pursuits.
 Blessed is the man who endures temptation, for when he has been
 approved, he will receive the crown of life, which the Lord promised to those
 who love him.
+<t xml:lang="es"><wi type="G" value="3107,1,">Bendito</wi>
+<wi type="G" value="435,2,">el hombre</wi>
+<wi type="G" value="3739,3,">que</wi>
+<wi type="G" value="5278,4,">soporta</wi>
+<wi type="G" value="3986,5,">la tentación</wi>,
+<wi type="G" value="3754,6,">pues</wi> cuando
+<wi type="G" value="1096,8,">sea</wi>
+<wi type="G" value="1384,7,">aprobado</wi>,
+<wi type="G" value="2983,9,">recibirá</wi>
+<wi type="G" value="3588,10,">la</wi>
+<wi type="G" value="4735,11,">corona</wi>
+<wi type="G" value="3588,12,">de la</wi>
+<wi type="G" value="2222,13,">vida</wi>,
+<wi type="G" value="3739,14,">que</wi>
+<wi type="G" value="3588,16,">el</wi>
+<wi type="G" value="2962,17,">Señor</wi>
+<wi type="G" value="1861,15,">ha prometido</wi>
+<wi type="G" value="3588,18,">a quienes</wi>
+<wi type="G" value="846,20,">lo</wi>
+<wi type="G" value="25,19,">aman</wi>.
+</t>
 </sv>
 		<sv id="Santiago-1-13">
 Let no man say when he is tempted, «I am tempted by God,»
