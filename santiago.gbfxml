@@ -281,26 +281,43 @@ for God can´t be tempted by evil, and he himself tempts no one.
 <sv id="Santiago-1-14">
 But
 each one is tempted, when he is drawn away by his own lust, and enticed.
-<t xml:lang="es"><wi type="G" value="1161,2,">Más</wi> 
-<wi type="G" value="1538,1,">cada quien</wi> 
-<wi type="G" value="3985,3,">es tentado</wi>, 
-<wi type="G" value="1828,8,">cuando es alejado</wi> 
+<t xml:lang="es"><wi type="G" value="1161,2,">Más</wi>
+<wi type="G" value="1538,1,">cada quien</wi>
+<wi type="G" value="3985,3,">es tentado</wi>,
+<wi type="G" value="1828,8,">cuando es alejado</wi>
 <wi type="G" value="5259,4,">por</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="2398,6,">su propia</wi> 
-<wi type="G" value="1939,7,">concupiscencia</wi> 
-<wi type="G" value="2532,9,">y</wi> 
+<wi type="G" value="3588,5,"/><wi type="G" value="2398,6,">su propia</wi>
+<wi type="G" value="1939,7,">concupiscencia</wi>
+<wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="1185,10,">seducido</wi>.
 </t>
-
 </sv>
-		<sv id="Santiago-1-15">
+
+<sv id="Santiago-1-15">
 Then the lust, when it has conceived, bears sin; and the sin, when it
 is full grown, brings forth death.
+<t xml:lang="es"><wi type="G" value="1534,1,">Entonces</wi>
+<wi type="G" value="3588,2,">la</wi>
+<wi type="G" value="1939,3,">concupiscencia</wi> cuando
+<wi type="G" value="4815,4,">ha concebido</wi>,
+<wi type="G" value="5088,5,">produce</wi>
+<wi type="G" value="266,6,">al pecado</wi>;
+<wi type="G" value="3588,7,"/><wi type="G" value="1161,8,">y</wi>
+<wi type="G" value="266,9,">el pecado</wi>, cuando
+<wi type="G" value="658,10,">ha</wi> crecido,
+<wi type="G" value="616,11,">produce</wi>
+<wi type="G" value="2288,12,">la</wi> muerte.</t>
 </sv>
-		<sv id="Santiago-1-16">
-Don´t be deceived, my beloved
-brothers.
+
+<sv id="Santiago-1-16">
+Don´t be deceived, my beloved brothers.
+<t xml:lang="es"><wi type="G" value="3361,1,">No</wi>
+<wi type="G" value="4105,2,">se equivoquen</wi>,
+<wi type="G" value="3450,4,">mis</wi>
+<wi type="G" value="27,5,">queridos</wi>
+<wi type="G" value="80,3,">hermanos</wi>.</t>
 </sv>
+
 		<sv id="Santiago-1-17">
 Every good gift and every perfect gift is from above, coming
 down from the Father of lights, with whom can be no variation, nor turning
