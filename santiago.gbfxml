@@ -389,21 +389,56 @@ speak, and slow to anger;
 <sv id="Santiago-1-20">
 for the anger of man doesn´t produce the
 righteousness of God.
+<t xml:lang="es"><wi type="G" value="1063,2,">pues</wi>
+<wi type="G" value="3709,1,">la ira</wi>
+<wi type="G" value="435,3,">del hombre</wi>
+<wi type="G" value="3756,6,">no</wi>
+<wi type="G" value="2716,7,">produce</wi>
+<wi type="G" value="1343,4,">la justicia</wi>
+<wi type="G" value="2316,5,">de Dios</wi>.
+</t>
 </sv>
+
 <sv id="Santiago-1-21">
 Therefore, putting away all filthiness and
 overflowing of wickedness, receive with humility the implanted word, which is
 able to
+<t xml:lang="es"><wi type="G" value="1352,1,">Entonces</wi>,
+<wi type="G" value="659,2,">dejen</wi>
+<wi type="G" value="3956,3,">toda</wi>
+<wi type="G" value="4507,4,">impureza</wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="4050,6,">abundancia</wi>
+<wi type="G" value="2549,7,">de maldad</wi>,
+<wi type="G" value="1209,10,">reciban</wi>
+<wi type="G" value="1722,8,">con</wi>
+<wi type="G" value="4240,9,">humildad</wi>
+<wi type="G" value="3056,13,">la palabra</wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="1721,12,">implantada</wi>,
+<wi type="G" value="3588,14,">que</wi>
+<wi type="G" value="1410,15,">puede</wi></t>
 <rb>save your souls
-<t xml:lang="es"/><rf>or, preserve your life.<t xml:lang="es"/></rf>
-</rb>
-.
+<t xml:lang="es"><wi type="G" value="4982,16,">salvar</wi>
+<wi type="G" value="5216,19,">sus</wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="5590,18,">almas</wi></t><rf>or, preserve your life.
+<t xml:lang="es">o preservar su vida.</t></rf>
+</rb>.<t xml:lang="es">.</t>
 </sv>
+
 <sv id="Santiago-1-22">
-But be
-<wi type="T" value="P"/>
-doers of the word, and not only hearers, deluding your own selves.
+But be doers of the word, and not only hearers, deluding your own selves.
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="1096,1,">sean</wi>
+<wi type="G" value="4163,3,">hacedores</wi>
+<wi type="G" value="3056,4,">de la palabra</wi>,
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="3361,6,">no</wi>
+<wi type="G" value="3440,7,">sólo</wi>
+<wi type="G" value="202,8,">oidores</wi>,
+<wi type="G" value="3884,9,">engañándose a</wi>
+<wi type="G" value="1438,10,">si mismos</wi>.</t>
 </sv>
+
 <sv id="Santiago-1-23">
 For
 if anyone is a hearer of the word and not a doer, he is like a man beholding
