@@ -541,17 +541,56 @@ es <wi type="G" value="3152,17,">vana</wi>.
 Pure religion and undefiled before our God and Father is this: to visit
 the fatherless and widows in their affliction, and to keep oneself unstained
 by the world.
+<t xml:lang="es"><wi type="G" value="2356,1,">La religión</wi> 
+<wi type="G" value="2513,2,">pura</wi> 
+<wi type="G" value="2532,3,">e</wi> 
+<wi type="G" value="283,4,">incorrupta</wi> 
+<wi type="G" value="3844,5,">delante</wi> 
+<wi type="G" value="3588,6,">de</wi> 
+<wi type="G" value="2316,7,">Dios</wi> 
+<wi type="G" value="2532,8,">y</wi> 
+<wi type="G" value="3962,9,">Padre</wi> 
+<wi type="G" value="2076,11,">es</wi>
+<wi type="G" value="3778,10,">esta</wi>: 
+<wi type="G" value="1980,12,">visitar a</wi> 
+<wi type="G" value="3737,13,">los huérfanos</wi>
+<wi type="G" value="2532,14,">y</wi> a 
+<wi type="G" value="5503,15,">las viudas</wi> 
+<wi type="G" value="1722,16,">en</wi> 
+<wi type="G" value="846,19,">sus</wi> 
+<wi type="G" value="3588,17,"/><wi type="G" value="2347,18,">aflicciones</wi>,
+y 
+<wi type="G" value="5083,22,"><wi type="G" value="1438,21,">mantenerse</wi></wi> 
+<wi type="G" value="784,20,">sin mancha</wi> 
+<wi type="G" value="575,23,">del</wi> 
+<wi type="G" value="3588,24,"/><wi type="G" value="2889,25,">mundo</wi>.
+</t>
 
 <cl/>
-
-
 </sv></cm></sc>
+
+
 <sc id="Santiago-2">
 <cm>
 <sv id="Santiago-2-1">
 My brothers, don´t hold the faith of our Lord Jesus Christ of glory
 with partiality.
+<t xml:lang="es"><wi type="G" value="3450,2,">Mis</wi> 
+<wi type="G" value="80,1,">hermanos</wi>, 
+<wi type="G" value="3361,3,">no</wi> 
+<wi type="G" value="2192,6,">tengan</wi> 
+<wi type="G" value="3588,7,">la</wi> 
+<wi type="G" value="4102,8,">fe</wi> 
+<wi type="G" value="2257,11,">de nuestro</wi> 
+<wi type="G" value="3588,9,"/><wi type="G" value="2962,10,">Señor</wi>
+<wi type="G" value="2424,12,">Jesús</wi> 
+<wi type="G" value="5547,13,">Cristo</wi> 
+<wi type="G" value="3588,14,">de</wi> 
+<wi type="G" value="1391,15,">gloria</wi> 
+<wi type="G" value="1722,4,">con</wi> 
+<wi type="G" value="4382,5,">parcialidad</wi>.</t>
 </sv>
+
 <sv id="Santiago-2-2">
 For if a man with a gold ring, in fine clothing, comes
 into your
