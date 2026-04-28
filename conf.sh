@@ -262,7 +262,7 @@ elif (test "$HTML_PROC" = "dbrep_html_xsltproc") then {
 	changeVar HTML_PROC 1;
 } fi;
 
-check "REPASA_DOCBOOK_XSL_HTML" "" "test -f \$REPASA_DOCBOOK_XSL_HTML" 'docbookrep_html.xsl'
+check "REPASA_DOCBOOK_XSL_HTML" "" "test -f \$REPASA_DOCBOOK_XSL_HTML" 'formatos/docbookrep_html.xsl' 'docbookrep_html.xsl'
 check "PAPEL" "" "test x\$PAPEL != x" 'letter' 'legal' 'a4'
 check "PS_PROC" "" "test x\$PS_PROC != x" 'dbrep_ps_jade'
 check "PDF_PROC" "" "test x\$PDF_PROC != x" 'dbrep_pdf_ps'
@@ -312,7 +312,7 @@ changeVar W3M_OPT 1;
 check "ZIP" "optional" "test -x \$ZIP" `which zip 2> /dev/null`
 
 check "PAPEL" "" "test x\$PAPEL != x" 'letter' 'a4' 'legal'
-check "REPASA_DOCBOOK_XSL_HTML" "" "test x\$REPASA_DOCBOOK_XSL_HTML != x" 'docbookrep_html.xsl'
+check "REPASA_DOCBOOK_XSL_HTML" "" "test x\$REPASA_DOCBOOK_XSL_HTML != x" 'formatos/docbookrep_html.xsl' 'docbookrep_html.xsl'
 check "PS_PROC" "" "test x\$PS_PROC != x" 'dbrep_ps_jade' 
 check "PDF_PROC" "" "test x\$PDF_PROC != x" 'dbrep_pdf_ps'
 

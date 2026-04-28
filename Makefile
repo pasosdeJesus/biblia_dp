@@ -5,8 +5,7 @@
 
 include Make.inc
 
-SOURCE_GBFXML=mateo.gbfxml marcos.gbfxml lucas.gbfxml juan.gbfxml hechos.gbfxml romanos.gbfxml corintios1.gbfxml corintios2.gbfxml galatas.gbfxml efesios.gbfxml filipenses.gbfxml colosenses.gbfxml tesalonicenses1.gbfxml tesalonicenses2.gbfxml timoteo1.gbfxml timoteo2.gbfxml tito.gbfxml filemon.gbfxml hebreos.gbfxml santiago.gbfxml
-
+SOURCE_GBFXML=libros/mateo.gbfxml libros/marcos.gbfxml libros/lucas.gbfxml libros/juan.gbfxml libros/hechos.gbfxml libros/romanos.gbfxml libros/corintios1.gbfxml libros/corintios2.gbfxml libros/galatas.gbfxml libros/efesios.gbfxml libros/filipenses.gbfxml libros/colosenses.gbfxml libros/tesalonicenses1.gbfxml libros/tesalonicenses2.gbfxml libros/timoteo1.gbfxml libros/timoteo2.gbfxml libros/tito.gbfxml libros/filemon.gbfxml libros/hebreos.gbfxml libros/santiago.gbfxml
 
 EXT_DOCBOOK=xdbk
 
@@ -24,13 +23,13 @@ HTML_DIR=html
 
 HTML_TARGET=$(HTML_DIR)/$(PROYECTO).html
 
-XSLT_HTML=estilohtml.xsl
+XSLT_HTML=formatos/estilohtml.xsl
 
 PRINT_DIR=imp
 
-DSSSL_PRINT=estilo.dsl\#print
+DSSSL_PRINT=formatos/estilo.dsl\#print
 
-DSSSL_HTML=estilo.dsl\#html
+DSSSL_HTML=formatos/estilo.dsl\#html
 
 OTHER_HTML=
 
@@ -54,25 +53,25 @@ GENACT=dist all $(PROYECTO)-$(PRY_VERSION)_html.tar.gz $(PRINT_DIR)/$(PROYECTO)-
 FILESACT=$(PROYECTO)-$(PRY_VERSION).tar.gz $(PROYECTO)-$(PRY_VERSION)_html.tar.gz $(HTML_TARGET) gutenberg/$(PROYECTO).txt $(PRINT_DIR)/$(PROYECTO)-$(PRY_VERSION).ps.gz $(PRINT_DIR)/$(PROYECTO)-$(PRY_VERSION).pdf 
 # Archivos que se debe actualizar en sitio de Internet
 
-$(HTML_TARGET).bak: gbfxml2html.xsl $(PROYECTO).gbfxml 
+$(HTML_TARGET).bak: formatos/gbfxml2html.xsl libros/$(PROYECTO).gbfxml 
 	mkdir -p $(HTML_DIR)/
-	cp $(PROYECTO).css $(HTML_DIR)/
-	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --catalogs --nonet gbfxml2html.xsl $(PROYECTO).gbfxml > $(HTML_TARGET).bak
+	cp formatos/$(PROYECTO).css $(HTML_DIR)/
+	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --catalogs --nonet formatos/gbfxml2html.xsl libros/$(PROYECTO).gbfxml > $(HTML_TARGET).bak
 	sed -e "s/biblia_dp/$(PROYECTO)/g" $(HTML_TARGET).bak > $(HTML_TARGET)
 
-multi: gbfxml2vhtml.xsl $(PROYECTO).gbfxml
+multi: formatos/gbfxml2vhtml.xsl libros/$(PROYECTO).gbfxml
 	mkdir -p $(HTML_DIR)/
-	cp -f $(PROYECTO).css $(PROYECTO).js $(HTML_DIR)/
-	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --stringparam css $(PROYECTO).css --catalogs --nonet gbfxml2vhtml.xsl $(PROYECTO).gbfxml 
+	cp -f formatos/$(PROYECTO).css formatos/$(PROYECTO).js $(HTML_DIR)/
+	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --stringparam css $(PROYECTO).css --catalogs --nonet formatos/gbfxml2vhtml.xsl libros/$(PROYECTO).gbfxml 
 	for n in `grep -l ". »" html/*`; do sed -i -e "s/. »/.»/g" $$n; done
 
 
 all: $(HTML_TARGET).bak $(PRINT_DIR)/$(PROYECTO).ps $(PRINT_DIR)/$(PROYECTO).pdf
 
 valida-gbfxml: 
-	$(XMLLINT) --catalogs $(PROYECTO).gbfxml
+	$(XMLLINT) --catalogs libros/$(PROYECTO).gbfxml
 
-$(PROYECTO).$(EXT_DOCBOOK): $(PROYECTO).gbfxml $(SOURCE_GBFXML) derechos.gbfxml biblio.gbfxml
+$(PROYECTO).$(EXT_DOCBOOK): libros/$(PROYECTO).gbfxml $(SOURCE_GBFXML) libros/derechos.gbfxml libros/biblio.gbfxml
 
 # Reglas para generar HTML y texto con formato Gutenberg
  
@@ -86,7 +85,7 @@ gutenberg/$(GUTNUM): gutenberg/$(PROYECTO).html gutenberg/$(PROYECTO)-2.txt gute
 	cd gutenberg/$(GUTNUM); zip $(GUTNUM).zip $(GUTNUM)-8.txt
 	cp gutenberg/$(PROYECTO).html gutenberg/$(GUTNUM)/$(GUTNUM)-h/$(GUTNUM)-h.html
 	cd gutenberg/$(GUTNUM); zip -r $(GUTNUM)-h.zip $(GUTNUM)-h
-	$(XMLLINT) --noent --format $(PROYECTO).gbfxml > gutenberg/$(GUTNUM)/$(GUTNUM)-x/$(GUTNUM)-x.xml
+	$(XMLLINT) --noent --format libros/$(PROYECTO).gbfxml > gutenberg/$(GUTNUM)/$(GUTNUM)-x/$(GUTNUM)-x.xml
 	cp gutenberg/$(PROYECTO)-$(PRY_VERSION).zip gutenberg/$(GUTNUM)/$(GUTNUM)-x/$(GUTNUM)-x.zip
 
  
@@ -192,28 +191,28 @@ limpia:
 
 .SUFFIXES: .$(EXT_DOCBOOK) .gbfxml .gbf .txt
 
-.gbfxml.$(EXT_DOCBOOK): gbfxml2db.xsl
-	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --catalogs --nonet gbfxml2db.xsl $< > $@
+.gbfxml.$(EXT_DOCBOOK): formatos/gbfxml2db.xsl
+	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --catalogs --nonet formatos/gbfxml2db.xsl $< > $@
 
-#.gbfxml.txt: gbfxml2txt.xsl
-#	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --catalogs --nonet gbfxml2txt.xsl $< > $@  # Por ahora está mejor w3m
+#.gbfxml.txt: formatos/gbfxml2txt.xsl
+#	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --catalogs --nonet formatos/gbfxml2txt.xsl $< > $@  # Por ahora está mejor w3m
 
 .gbf.gbfxml:
-	($(AWK) -f gbf2gbfxml.awk $< > $@ ; \
+	($(AWK) -f herram/gbf2gbfxml.awk $< > $@ ; \
 	if (test "$$?" != "0") then { \
 		tail $@; \
 		exit 1; \
 	} fi;)
 
-$(PROYECTO).$(EXT_DOCBOOK): $(PROYECTO).gbfxml
+$(PROYECTO).$(EXT_DOCBOOK): libros/$(PROYECTO).gbfxml
 
-Derechos.txt: derechos.gbfxml
+LICENSE.md: libros/derechos.gbfxml
 	$(MAKE) $(HTML_TARGET)
-	$(W3M) -cols 70 -dump $(HTML_TARGET) | $(AWK) -f herram/arrderechos.awk > Derechos.txt
+	$(W3M) -cols 70 -dump $(HTML_TARGET) | $(AWK) -f herram/arrderechos.awk > LICENSE.md
 
-Desarrollo.txt: herram/vim/ftplugin/gbfxml.vim
-	cp Desarrollo.txt Desarrollo.txt.bak
-	INICIO="Las completaciones disponibles" CMD="$(AWK) -f herram/exdocvimgbfxml.awk herram/vim/ftplugin/gbfxml.vim" $(AWK) -f herram/rempbloquearch.awk Desarrollo.txt.bak > Desarrollo.txt
+CONTRIBUTING.md: herram/vim/ftplugin/gbfxml.vim
+	cp CONTRIBUTING.md CONTRIBUTING.md.bak
+	INICIO="Las completaciones disponibles" CMD="$(AWK) -f herram/exdocvimgbfxml.awk herram/vim/ftplugin/gbfxml.vim" $(AWK) -f herram/rempbloquearch.awk CONTRIBUTING.md.bak > CONTRIBUTING.md
 
 KJV.imp: 
 	-if (test ! -f /usr/local/share/sword/mods.d/kjv.conf  -o ! -f /usr/share/sword/mods.d/kjv.conf) then { echo "Parece que le falta instalar modulo KJV"; } fi;
@@ -246,29 +245,29 @@ $(VS_SWORDBOOK)-o-KJV.tmp: $(VS_SWORDBOOK)-n-KJV.tmp
 	-awk -f herram/ordenastrong.awk $(VS_SWORDBOOK)-n-KJV.tmp > $(VS_SWORDBOOK)-o-KJV.tmp
 
 valida-strong: $(VS_SWORDBOOK)-o-KJV.tmp
-	xsltproc gbfxml2strong.xsl libro_dp.gbfxml > strong-dp.tmp
+	xsltproc formatos/gbfxml2strong.xsl libros/libro_dp.gbfxml > strong-dp.tmp
 	-awk -f herram/ordenastrong.awk strong-dp.tmp > strong-o-dp.tmp 
 	diff -b $(VS_SWORDBOOK)-o-KJV.tmp strong-o-dp.tmp
 
 
-html/em.html: gbfxml2html.xsl biblia_dp.gbfxml  mateo.gbfxml
-	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --catalogs --nonet gbfxml2html.xsl biblia_dp.gbfxml > html/em.html
+html/em.html: formatos/gbfxml2html.xsl libros/biblia_dp.gbfxml  libros/mateo.gbfxml
+	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --catalogs --nonet formatos/gbfxml2html.xsl libros/biblia_dp.gbfxml > html/em.html
 
 valida-formateo: 
 	echo "Espacios horizontales que posiblemente deben omitirse (para que no quede espacio entre número de versículo y la primera palabra del mismo)"
-	-xmllint --noent biblia_dp.gbfxml | grep "<t xml:lang=.es.>[^/]*\/>[ ]*$$" 
+	-xmllint --noent libros/biblia_dp.gbfxml | grep "<t xml:lang=.es.>[^/]*\/>[ ]*$$" 
 	echo "Espacios horizontales que posiblemente deben añadirse (para que al ver números strong quede espacio entre uno y otro que no tienen palabra en español asociada)"
-	-xmllint --noent biblia_dp.gbfxml | grep -n "<wi[^/]*\/><wi[^/]*\/>"
-	-xmllint --noent biblia_dp.gbfxml | grep -n "\/wi><wi"
+	-xmllint --noent libros/biblia_dp.gbfxml | grep -n "<wi[^/]*\/><wi[^/]*\/>"
+	-xmllint --noent libros/biblia_dp.gbfxml | grep -n "\/wi><wi"
 	echo "Marcado errado"
-	-xmllint --noent biblia_dp.gbfxml | grep -n "type=\"G\" value=\"[0-9]*\""
+	-xmllint --noent libros/biblia_dp.gbfxml | grep -n "type=\"G\" value=\"[0-9]*\""
 	echo "Apostrofes por cambiar por ´"
-	-xmllint --noent biblia_dp.gbfxml | grep -n "\`[^\´']*\'"
+	-xmllint --noent libros/biblia_dp.gbfxml | grep -n "\`[^\´']*\'"
 	echo "Signos de puntuación fuera de \` \´"
-	-xmllint --noent biblia_dp.gbfxml | grep -n "\´\."
-	-xmllint --noent biblia_dp.gbfxml | grep -n "\´\,"
+	-xmllint --noent libros/biblia_dp.gbfxml | grep -n "\´\."
+	-xmllint --noent libros/biblia_dp.gbfxml | grep -n "\´\,"
 	echo "Marcación Strong errada"
-	grep "wi type=\"G[^C]" biblia_dp.gbfxml | grep -v "wi type=\"G\""
+	grep "wi type=\"G[^C]" libros/biblia_dp.gbfxml | grep -v "wi type=\"G\""
 	echo "Errores comunes"
-	grep "i<w" biblia_dp.gbfxml
+	grep "i<w" libros/biblia_dp.gbfxml
 
