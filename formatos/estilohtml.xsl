@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xsl:stylesheet [
 
-<!ENTITY % confv SYSTEM "confv.ent">
+<!ENTITY % confv SYSTEM "../confv.ent">
 %confv;
 ]>
 <!-- Detalles de estilo. Dominio público -->
@@ -15,7 +15,7 @@
 
 <!-- No table of contents -->
 <xsl:param name="generate.toc">book nop"</xsl:param>
-	<xsl:include href="&REPASA-DOCBOOK-XSL-HTML;"/>
+	<xsl:include href="docbookrep_html.xsl"/>
 
 <!-- Chapters are not numerated -->
 <xsl:variable name="chapter.autolabel">0</xsl:variable>

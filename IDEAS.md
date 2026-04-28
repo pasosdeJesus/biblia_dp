@@ -18,3 +18,7 @@ https://github.com/vtamara/greektext-textus-receptus.  Hemos detectado
 incosistencia en
 Hechos 17:25 donde KVJ2003 y https://github.com/vtamara/greektext-textus-receptus dicen `καὶ τὰ πάντα´ mientras que BLB-TR dice  `κατὰ πάντα´
 
+Agregar el texto griego y la morfología al marcado Strong.
+
+Traducir el AT con apoyo de IA alineada y revisar meticulosamente.
+
