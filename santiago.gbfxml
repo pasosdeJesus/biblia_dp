@@ -651,9 +651,18 @@ tell the poor man, «Stand there,» or «Sit by my footstool;»
 </sv>
 
 <sv id="Santiago-2-4">
-haven´t you
-<wi type="T" value="P"/> shown partiality among
+haven´t you shown partiality among
 yourselves, and become judges with evil thoughts?
+<t xml:lang="es">¿<wi type="G" value="2532,6,">acaso</wi>
+<wi type="G" value="3756,2,">no</wi>
+<wi type="G" value="1252,3,">han discriminado</wi>
+<wi type="G" value="1722,4,">entre</wi>
+<wi type="G" value="1438,5,">ustedes</wi>,
+<wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="1096,7,">se han hecho</wi>
+<wi type="G" value="2923,8,">jueces</wi>
+<wi type="G" value="4190,10,">de malos</wi>
+<wi type="G" value="1261,9,">pensamientos</wi>?</t>
 </sv>
 <sv id="Santiago-2-5">
 Listen, my beloved
