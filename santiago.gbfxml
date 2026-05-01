@@ -718,7 +718,22 @@ and personally drag you before the courts?
 <sv id="Santiago-2-7">
 Don´t they blaspheme the
 honorable name by which you
-<wi type="T" value="P"/> are called?
+are called?
+<t xml:lang="es">¿<wi type="G" value="3756,1,">No</wi>
+<wi type="G" value="987,3,">blasfeman</wi>
+<wi type="G" value="846,2,">ellos</wi>
+<wi type="G" value="3588,4,">al</wi>
+<wi type="G" value="2570,5,">honorable</wi>
+<wi type="G" value="3686,6,">nombre</wi> </t>
+<rb xml:lang="es"><wi type="G" value="1909,9,">por</wi>
+<wi type="G" value="3588,7,">el cual</wi>
+<wi type="G" value="5209,10,">ustedes</wi>
+<wi type="G" value="1941,8,">fueron llamados</wi><rf>
+<citebib id="WEB"/> dice `por el cual ustedes son llamados,´
+<citebib id="RVG2012"/> dice `que fue invocado sobre ustedes.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `επικληθεν'
+puede traducirse como llamar o poner un nombre o como invocar.</rf></rb>
+<t xml:lang="es">?</t>
 </sv>
 <sv id="Santiago-2-8">
 However, if you
