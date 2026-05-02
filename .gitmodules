@@ -1,0 +1,3 @@
+[submodule "herram_confsh"]
+	path = herram_confsh
+	url = git@gitlab.com:pasosdeJesus/herram_confsh.git

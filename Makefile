@@ -149,10 +149,10 @@ ispell-gut: gutenberg/$(PROYECTO).txt ispell/$(PROYECTO).ispell
 	$(ISPELL) -d spanish -p ispell/$(PROYECTO).ispell gutenberg/$(PROYECTO).txt
 
 # Para usar DocBook
-include herram/comdocbook.mak
+include herram_confsh/comdocbook.mak
 
 # To crear distribución de fuentes y actualizar en Internet
-include herram/comdist.mak
+include herram_confsh/comdist.mak
 
 instala:
 	$(MKDIR) -p $(DESTDIR)$(INSDOC)
