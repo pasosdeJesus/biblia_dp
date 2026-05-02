@@ -443,81 +443,318 @@ But be doers of the word, and not only hearers, deluding your own selves.
 For
 if anyone is a hearer of the word and not a doer, he is like a man beholding
 his natural face in a mirror;
+<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
+<wi type="G" value="1487,2,">si</wi>
+<wi type="G" value="5100,3,">alguno</wi> es
+<wi type="G" value="202,4,">oidor</wi>
+<wi type="G" value="3056,5,">de la palabra</wi>
+<wi type="G" value="2532,7,">pero</wi>
+<wi type="G" value="3756,8,">no</wi>
+<wi type="G" value="4163,9,">hacedor</wi>,
+<wi type="G" value="3778,10,">él</wi>
+<wi type="G" value="2076,6,">es</wi>
+<wi type="G" value="1503,11,">como</wi>
+<wi type="G" value="435,12,">un hombre</wi> que
+<wi type="G" value="2657,13,">mira</wi>
+<wi type="G" value="846,18,">su</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="4383,15,">rostro</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="1078,17,">natural</wi>
+<wi type="G" value="1722,19,">en</wi>
+<wi type="G" value="2072,20,">un espejo</wi>;</t>
 </sv>
+
 <sv id="Santiago-1-24">
 for he sees himself, and goes away, and
 immediately forgets what kind of man he was.
+<t xml:lang="es"><wi type="G" value="1063,2,">entonces</wi>
+<wi type="G" value="2657,1,">se ve</wi>
+<wi type="G" value="1438,3,">a si mismo</wi>,
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="565,5,">se va</wi>,
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="2112,7,">de inmediato</wi>
+<wi type="G" value="1950,8,">olvida</wi>
+<wi type="G" value="3697,9,">como</wi>
+<wi type="G" value="2258,10,">es</wi>.</t>
 </sv>
+
 <sv id="Santiago-1-25">
 But he who looks into the
 perfect law, the law of freedom, and continues, not being a hearer who
 forgets but a doer of the work, this man will be blessed in what he does.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="3588,1,">al que</wi>
+<wi type="G" value="3879,3,">mira</wi>
+<wi type="G" value="1519,4,">en</wi>
+<wi type="G" value="3551,5,">la ley</wi>
+<wi type="G" value="5046,6,">perfecta</wi>,
+<wi type="G" value="3588,7,">la</wi>
+<wi type="G" value="3588,8,">de la</wi>
+<wi type="G" value="1657,9,">libertad</wi>,
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="3887,11,">continua</wi>,
+<wi type="G" value="3756,13,">no</wi>
+<wi type="G" value="1096,16,">siendo</wi>
+<wi type="G" value="3778,12,">este</wi>
+<wi type="G" value="202,14,">un oidor</wi>
+<wi type="G" value="1953,15,">que olvida</wi>,
+<wi type="G" value="235,17,">sino</wi>
+<wi type="G" value="4163,18,">un hacedor</wi>
+<wi type="G" value="2041,19,">de la obra</wi>,
+<wi type="G" value="3778,20,">este hombre</wi>
+<wi type="G" value="2071,26,">será</wi>
+<wi type="G" value="3107,21,">bendecido</wi>
+<wi type="G" value="1722,22,">en</wi>
+<wi type="G" value="846,25,">su</wi>
+<wi type="G" value="3588,23,"/><wi type="G" value="4162,24,">actuar</wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Santiago-1-26">
 If anyone among you thinks himself to be religious while he doesn´t
 bridle his tongue, but deceives his heart, this man´s religion is worthless.
+<t xml:lang="es"><wi type="G" value="1487,1,">Si</wi>
+<wi type="G" value="5100,2,">alguno</wi>
+<wi type="G" value="1722,6,">de</wi>
+<wi type="G" value="5213,7,">ustedes</wi>
+<wi type="G" value="1380,3,">piensa</wi>
+<wi type="G" value="1511,5,">ser</wi>
+<wi type="G" value="2357,4,">religioso</wi>
+pero
+<wi type="G" value="3361,8,">no</wi>
+<wi type="G" value="5468,9,">frena</wi>
+<wi type="G" value="846,11,">su</wi>
+<wi type="G" value="1100,10,">lengua</wi>,
+<wi type="G" value="235,12,">sino que</wi>
+<wi type="G" value="538,13,">engaña a</wi>
+<wi type="G" value="846,15,">su</wi>
+<wi type="G" value="2588,14,">corazón</wi>,
+<wi type="G" value="3588,18,">la</wi>
+<wi type="G" value="2356,19,">religión</wi>
+<wi type="G" value="5127,16,">de este hombre</wi>
+es <wi type="G" value="3152,17,">vana</wi>.
+</t>
 
 </sv>
 <sv id="Santiago-1-27">
 Pure religion and undefiled before our God and Father is this: to visit
 the fatherless and widows in their affliction, and to keep oneself unstained
 by the world.
+<t xml:lang="es"><wi type="G" value="2356,1,">La religión</wi>
+<wi type="G" value="2513,2,">pura</wi>
+<wi type="G" value="2532,3,">e</wi>
+<wi type="G" value="283,4,">incorrupta</wi>
+<wi type="G" value="3844,5,">delante</wi>
+<wi type="G" value="3588,6,">de</wi>
+<wi type="G" value="2316,7,">Dios</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="3962,9,">Padre</wi>
+<wi type="G" value="2076,11,">es</wi>
+<wi type="G" value="3778,10,">esta</wi>:
+<wi type="G" value="1980,12,">visitar a</wi>
+<wi type="G" value="3737,13,">los huérfanos</wi>
+<wi type="G" value="2532,14,">y</wi> a
+<wi type="G" value="5503,15,">las viudas</wi>
+<wi type="G" value="1722,16,">en</wi>
+<wi type="G" value="846,19,">sus</wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="2347,18,">aflicciones</wi>,
+y
+<wi type="G" value="5083,22,"><wi type="G" value="1438,21,">mantenerse</wi></wi>
+<wi type="G" value="784,20,">sin mancha</wi>
+<wi type="G" value="575,23,">del</wi>
+<wi type="G" value="3588,24,"/><wi type="G" value="2889,25,">mundo</wi>.
+</t>
 
 <cl/>
-
-
 </sv></cm></sc>
+
+
 <sc id="Santiago-2">
 <cm>
 <sv id="Santiago-2-1">
 My brothers, don´t hold the faith of our Lord Jesus Christ of glory
 with partiality.
+<t xml:lang="es"><wi type="G" value="3450,2,">Mis</wi>
+<wi type="G" value="80,1,">hermanos</wi>,
+<wi type="G" value="3361,3,">no</wi>
+<wi type="G" value="2192,6,">tengan</wi>
+<wi type="G" value="3588,7,">la</wi>
+<wi type="G" value="4102,8,">fe</wi>
+<wi type="G" value="2257,11,">de nuestro</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="2962,10,">Señor</wi>
+<wi type="G" value="2424,12,">Jesús</wi>
+<wi type="G" value="5547,13,">Cristo</wi>
+<wi type="G" value="3588,14,">de</wi>
+<wi type="G" value="1391,15,">gloria</wi>
+<wi type="G" value="1722,4,">con</wi>
+<wi type="G" value="4382,5,">parcialidad</wi>.</t>
 </sv>
+
 <sv id="Santiago-2-2">
 For if a man with a gold ring, in fine clothing, comes
 into your
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="1437,1,">si</wi>
+<wi type="G" value="435,8,">un hombre</wi>
+<wi type="G" value="5554,9,">con un anillo de oro</wi>,
+<wi type="G" value="1722,10,">en</wi>
+<wi type="G" value="2986,12,">finas</wi>
+<wi type="G" value="2066,11,">ropas</wi>,
+<wi type="G" value="1525,3,">viene</wi>
+<wi type="G" value="1519,4,">a</wi>
+<wi type="G" value="5216,7,">su</wi></t>
 <rb>synagogue
-<t xml:lang="es"/><rf>or, meeting<t xml:lang="es"/></rf>
+<t xml:lang="es"><wi type="G" value="3588,5,"><wi type="G"
+value="4864,6,">sinagoga</wi></wi></t><rf>or, meeting<t xml:lang="es">O reunión</t></rf>
 </rb>
 , and a poor man in filthy clothing also comes in;
+<t xml:lang="es">, <wi type="G" value="1161,14,">y</wi>
+<wi type="G" value="4434,16,">un hombre pobre</wi>
+<wi type="G" value="1722,17,">en</wi>
+<wi type="G" value="2066,19,">ropa</wi>
+<wi type="G" value="4508,18,">inmunda</wi>
+<wi type="G" value="2532,15,">también</wi>
+<wi type="G" value="1525,13,">viene</wi>;</t>
 </sv>
+
 <sv id="Santiago-2-3">
-and
-you
-<wi type="T" value="P"/> pay special attention to him who wears the fine clothing, and say,
+and you pay special attention to him who wears the fine clothing, and say,
 «Sit here in a good place;» and you
-<wi type="T" value="P"/> tell the poor man, «Stand there,» or
-«Sit by my footstool;»
+tell the poor man, «Stand there,» or «Sit by my footstool;»
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="1914,2,">le prestan atención especial</wi>
+<wi type="G" value="1909,3,">a</wi>
+<wi type="G" value="3588,4,">aquel que</wi>
+<wi type="G" value="5409,5,">usa</wi>
+<wi type="G" value="3588,6,">la</wi>
+<wi type="G" value="2066,7,">ropa</wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="2986,9,">fina</wi>,
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="846,12,">le</wi>
+<wi type="G" value="2036,11,">dicen</wi>
+«<wi type="G" value="2521,14,"><wi type="G" value="4771,13,">Siéntate</wi></wi>
+<wi type="G" value="5602,15,">aquí</wi>
+<wi type="G" value="2573,16,">en un buen lugar</wi>;»
+<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="3588,18,"/><wi type="G" value="4434,19,">al pobre</wi>
+<wi type="G" value="2036,20,">le dicen</wi>
+«<wi type="G" value="2476,22,"><wi type="G" value="4771,21,">Párate</wi></wi>
+<wi type="G" value="1563,23,">allá</wi>,»
+<wi type="G" value="2228,24,">o</wi>
+«<wi type="G" value="2521,25,">Siéntate</wi>
+<wi type="G" value="5602,26,">aquí</wi>
+<wi type="G" value="5259,27,">debajo</wi>
+<wi type="G" value="3450,30,">de mi</wi>
+<wi type="G" value="3588,28,"/><wi type="G" value="5286,29,">banquillo para los pies</wi>;»
+</t>
 </sv>
+
 <sv id="Santiago-2-4">
-haven´t you
-<wi type="T" value="P"/> shown partiality among
+haven´t you shown partiality among
 yourselves, and become judges with evil thoughts?
+<t xml:lang="es">¿<wi type="G" value="2532,6,">acaso</wi>
+<wi type="G" value="3756,2,">no</wi>
+<wi type="G" value="1252,3,">han mostrado parcialidad</wi>
+<wi type="G" value="1722,4,">entre</wi>
+<wi type="G" value="1438,5,">ustedes</wi>,
+<wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="1096,7,">se han hecho</wi>
+<wi type="G" value="2923,8,">jueces</wi>
+<wi type="G" value="4190,10,">de malos</wi>
+<wi type="G" value="1261,9,">pensamientos</wi>?</t>
 </sv>
+
 <sv id="Santiago-2-5">
 Listen, my beloved
 brothers. Didn´t God choose those who are poor in this world to be rich in
 faith, and heirs of the Kingdom which he promised to those who love him?
-
+<t xml:lang="es"><wi type="G" value="191,1,">Escuchen</wi>,
+<wi type="G" value="3450,3,">mis</wi>
+<wi type="G" value="27,4,">amados</wi>
+<wi type="G" value="80,2,">hermanos</wi>.
+¿<wi type="G" value="3756,5,">No</wi>
+<wi type="G" value="1586,8,">escogió</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="2316,7,">Dios</wi>
+<wi type="G" value="3588,9,">a los que</wi> son
+<wi type="G" value="4434,10,">pobres</wi> en
+<wi type="G" value="5127,13,">este</wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="2889,12,">mundo</wi> para ser
+<wi type="G" value="4145,14,">ricos</wi>
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="4102,16,">fe</wi>,
+<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="2818,18,">herederos</wi>
+<wi type="G" value="3588,19,">del</wi>
+<wi type="G" value="932,20,">Reino</wi>
+<wi type="G" value="3739,21,">que</wi>
+<wi type="G" value="1861,22,">prometió</wi>
+<wi type="G" value="3588,23,">a los que</wi>
+<wi type="G" value="846,25,">lo</wi>
+<wi type="G" value="25,24,">aman</wi>?</t>
 </sv>
+
 <sv id="Santiago-2-6">
 But you
-<wi type="T" value="P"/> have dishonored the poor man. Don´t the rich oppress you,
+have dishonored the poor man. Don´t the rich oppress you,
 and personally drag you before the courts?
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="5210,1,">ustedes</wi>
+<wi type="G" value="818,3,">han deshonrado</wi>
+<wi type="G" value="3588,4,">al</wi>
+<wi type="G" value="4434,5,">pobre</wi>.
+¿<wi type="G" value="3756,6,">No</wi>
+<wi type="G" value="5216,10,">los</wi>
+<wi type="G" value="2616,9,">oprime</wi>
+<wi type="G" value="3588,7,">los</wi>
+<wi type="G" value="4145,8,">ricos</wi>
+<wi type="G" value="2532,11,">y</wi>
+<wi type="G" value="846,12,">ellos mismos</wi>
+<wi type="G" value="5209,14,">los</wi>
+<wi type="G" value="1670,13,">arrastran</wi>
+<wi type="G" value="1519,15,">ante</wi>
+<wi type="G" value="2922,16,">las cortes</wi>?</t>
 </sv>
 <sv id="Santiago-2-7">
 Don´t they blaspheme the
 honorable name by which you
-<wi type="T" value="P"/> are called?
+are called?
+<t xml:lang="es">¿<wi type="G" value="3756,1,">No</wi>
+<wi type="G" value="987,3,">blasfeman</wi>
+<wi type="G" value="846,2,">ellos</wi>
+<wi type="G" value="3588,4,">al</wi>
+<wi type="G" value="2570,5,">honorable</wi>
+<wi type="G" value="3686,6,">nombre</wi> </t>
+<rb xml:lang="es"><wi type="G" value="1909,9,">por</wi>
+<wi type="G" value="3588,7,">el cual</wi>
+<wi type="G" value="5209,10,">ustedes</wi>
+<wi type="G" value="1941,8,">fueron llamados</wi><rf>
+<citebib id="WEB"/> dice `por el cual ustedes son llamados,´
+<citebib id="RVG2012"/> dice `que fue invocado sobre ustedes.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `επικληθεν'
+puede traducirse como llamar o poner un nombre o como invocar.</rf></rb>
+<t xml:lang="es">?</t>
 </sv>
 <sv id="Santiago-2-8">
-However, if you
-<wi type="T" value="P"/>
-fulfill the royal law, according to the Scripture, «You shall love your
-neighbor as yourself,» you
-<wi type="T" value="P"/> do well.
+However, if you fulfill the royal law, according to the Scripture,
+«You shall love your neighbor as yourself,» you
+do well.
+<t xml:lang="es"><wi type="G" value="3305,2,">Sin embargo</wi>,
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="5055,4,">ustedes cumplen</wi>
+<wi type="G" value="3551,3,">la ley</wi>
+<wi type="G" value="937,5,">real</wi>,
+<wi type="G" value="2596,6,">acorde a</wi>
+<wi type="G" value="3588,7,">la</wi>
+<wi type="G" value="1124,8,">Escritura</wi>
+«<wi type="G" value="25,9,">Amarás a</wi>
+<wi type="G" value="4675,12,">tu</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="4139,11,">prójimo</wi>
+<wi type="G" value="5613,13,">como a</wi>
+<wi type="G" value="4572,14,">ti mismo</wi>,»
+<wi type="G" value="4160,16,">hacen</wi>
+<wi type="G" value="2573,15,">bien</wi>.
+</t>
 </sv>
 <sv id="Santiago-2-9">
 But if you
