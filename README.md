@@ -30,13 +30,15 @@ make
 ```
 
 Los archivos generados se ubicarán en:
-*   **Página HTML**: `html/biblia_dp.html`
+*   **Página HTML (única)**: `html/biblia_dp.html`
+*   **Páginas HTML (múltiples)**: `html/index.html` y una página por capítulo (generadas con `make multi`).
 *   **PostScript**: `imp/biblia_dp.ps`
 *   **PDF**: `imp/biblia_dp.pdf`
 
 También puede generar cada uno por separado:
 ```bash
 make html/biblia_dp.html
+make multi
 make imp/biblia_dp.ps
 make imp/biblia_dp.pdf
 ```
