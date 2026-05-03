@@ -757,10 +757,19 @@ do well.
 </t>
 </sv>
 <sv id="Santiago-2-9">
-But if you
-<wi type="T" value="P"/> show
-partiality, you
-<wi type="T" value="P"/> commit sin, being convicted by the law as transgressors.
+But if you show partiality, you
+commit sin, being convicted by the law as transgressors.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="1487,1,">si</wi>
+<wi type="G" value="4380,3,">muestran parcialidad</wi>,
+<wi type="G" value="2038,5,">cometen</wi>
+<wi type="G" value="266,4,">un pecado</wi>,
+<wi type="G" value="1651,6,">siendo reprobados</wi>
+<wi type="G" value="5259,7,">por</wi>
+<wi type="G" value="3588,8,"><wi type="G" value="3551,9,">la ley</wi></wi>
+<wi type="G" value="5613,10,">como</wi>
+<wi type="G" value="3848,11,">transgresores</wi>.
+</t>
 
 </sv>
 <sv id="Santiago-2-10">
