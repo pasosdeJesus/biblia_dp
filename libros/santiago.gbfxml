@@ -770,12 +770,25 @@ commit sin, being convicted by the law as transgressors.
 <wi type="G" value="5613,10,">como</wi>
 <wi type="G" value="3848,11,">transgresores</wi>.
 </t>
-
 </sv>
+
 <sv id="Santiago-2-10">
 For whoever shall keep the whole law, and yet stumble in one point, he
 has become guilty of all.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3748,1,">cualquiera</wi> que
+<wi type="G" value="5083,6,">guarde</wi>
+<wi type="G" value="3588,4,"><wi type="G" value="3551,5,">la ley</wi></wi>
+<wi type="G" value="3650,3,">completa</wi>,
+<wi type="G" value="1161,8,">pero</wi>
+<wi type="G" value="4417,7,">caiga</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="1520,10,">un</wi> punto,
+<wi type="G" value="1096,11,">se hace</wi>
+<wi type="G" value="1777,13,">culpable</wi>
+<wi type="G" value="3956,12,">de toda</wi>. </t>
 </sv>
+
 <sv id="Santiago-2-11">
 For he who said, «Do not commit adultery,»
 said also, «Do not commit murder.» Now if you do not commit adultery, but
