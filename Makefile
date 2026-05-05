@@ -242,7 +242,8 @@ $(VS_SWORDBOOK)-n-KJV.tmp: $(VS_SWORDBOOK)-KJV.tmp
 # Formato tanto de sword-1.5.8 como 1.5.10
 
 $(VS_SWORDBOOK)-o-KJV.tmp: $(VS_SWORDBOOK)-n-KJV.tmp
-	-awk -f herram/ordenastrong.awk $(VS_SWORDBOOK)-n-KJV.tmp > $(VS_SWORDBOOK)-o-KJV.tmp
+	-awk -f herram/ordenastrong.awk $(VS_SWORDBOOK)-n-KJV.tmp | \
+		sed -e "s/^\([0-9]*\):0 /\1:1 /g" > $(VS_SWORDBOOK)-o-KJV.tmp
 
 valida-strong: $(VS_SWORDBOOK)-o-KJV.tmp
 	xsltproc formatos/gbfxml2strong.xsl libros/libro_dp.gbfxml > strong-dp.tmp
