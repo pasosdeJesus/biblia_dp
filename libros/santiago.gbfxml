@@ -813,17 +813,51 @@ murder, you have become a transgressor of the law.
 <wi type="G" value="3551,18,">de la ley</wi>.
 </t>
 </sv>
+
 <sv id="Santiago-2-12">
-So speak
-<wi type="T" value="P"/>, and
+So speak, and
 so do, as men who are to be judged by a law of freedom.
+<t xml:lang="es"><wi type="G" value="2980,2,">Hablen</wi>
+<wi type="G" value="3779,1,">así</wi>,
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="4160,5,">hagan</wi>
+<wi type="G" value="3779,4,">así</wi>,
+<wi type="G" value="5613,6,">como</wi>
+<wi type="G" value="3195,10,">quien habrá de</wi>
+<wi type="G" value="2919,11,">ser juzgado</wi>
+<wi type="G" value="1223,7,">por</wi>
+<wi type="G" value="3551,8,">la ley</wi>
+<wi type="G" value="1657,9,">de la libertad</wi>.
+</t>
 </sv>
+
 <sv id="Santiago-2-13">
 For judgment is
 without mercy to him who has shown no mercy. Mercy triumphs over judgment.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3588,1,">el</wi>
+<wi type="G" value="2920,3,">juicio</wi> es
+<wi type="G" value="448,4,">sin misericordia</wi>
+para <wi type="G" value="3588,5,">el que</wi>
+<wi type="G" value="3361,6,">no</wi>
+<wi type="G" value="4160,7,">ha mostrado</wi>
+<wi type="G" value="1656,8,">misericordia</wi>.
+<wi type="G" value="2532,9,">Y</wi>
+<wi type="G" value="1656,11,">la misericordia</wi> </t>
+<rb xml:lang="es"><wi type="G" value="2620,10,">se regocija contra</wi><rf>
+<citebib id="WEB"/> dice `triunfa sobre,´
+<citebib id="KJV2003"/> dice `so goza contra´
+<citebib id="RVG2012"/> dice `se gloria contra.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `κατακαυχαται´
+se traduce como jactarse a costa de, regocijarse sobre, 
+vanagloriarse en detrimento de (una persona o cosa).
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="2920,12,">el juicio</wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Santiago-2-14">
 What good is it, my brothers, if a man says he has faith, but has no
 works? Can faith save him?
