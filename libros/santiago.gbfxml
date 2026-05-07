@@ -849,7 +849,7 @@ para <wi type="G" value="3588,5,">el que</wi>
 <citebib id="KJV2003"/> dice `so goza contra´
 <citebib id="RVG2012"/> dice `se gloria contra.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `κατακαυχαται´
-se traduce como jactarse a costa de, regocijarse sobre, 
+se traduce como jactarse a costa de, regocijarse sobre,
 vanagloriarse en detrimento de (una persona o cosa).
 </rf></rb>
 <t xml:lang="es">
@@ -861,16 +861,45 @@ vanagloriarse en detrimento de (una persona o cosa).
 <sv id="Santiago-2-14">
 What good is it, my brothers, if a man says he has faith, but has no
 works? Can faith save him?
+<t xml:lang="es">¿<wi type="G" value="5101,1,">Que</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="3786,3,">bien</wi> es,
+<wi type="G" value="3450,5,">mis</wi>
+<wi type="G" value="80,4,">hermanos</wi>,
+<wi type="G" value="1437,6,">si</wi>
+<wi type="G" value="5100,9,">un hombre</wi>
+<wi type="G" value="3004,8,">dice</wi> que
+<wi type="G" value="2192,10,">tiene</wi>
+<wi type="G" value="4102,7,">fe</wi>,
+<wi type="G" value="1161,12,">pero</wi>
+<wi type="G" value="3361,13,">no</wi>
+<wi type="G" value="2192,14,">tiene</wi>
+<wi type="G" value="2041,11,">obras</wi>?
+¿<wi type="G" value="3361,15,">No</wi>
+<wi type="G" value="1410,16,">puede</wi>
+<wi type="G" value="3588,17,">la</wi>
+<wi type="G" value="4102,18,">fe</wi>
+<wi type="G" value="4982,19,"><wi type="G" value="846,20,">salvarlo</wi></wi>?</t>
 </sv>
 <sv id="Santiago-2-15">
 And if a brother or sister is naked and in
 lack of daily food,
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="1437,1,">si</wi>
+<wi type="G" value="80,3,">un hermano</wi>
+<wi type="G" value="2228,4,">o</wi>
+<wi type="G" value="79,5,">hermana</wi>
+<wi type="G" value="5225,7,">está</wi>
+<wi type="G" value="1131,6,">sin ropa</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="5600,10,"/><wi type="G" value="3007,9,">le falta</wi>
+<wi type="G" value="5160,13,">el alimento</wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="2184,12,">diario</wi>,
+</t>
 </sv>
 <sv id="Santiago-2-16">
 and one of you tells them, «Go in peace, be
-<wi type="T" value="P"/>
 warmed and filled;» and yet you
-<wi type="T" value="P"/> didn´t give them the things the body
+didn´t give them the things the body
 needs, what good is it?
 </sv>
 <sv id="Santiago-2-17">
