@@ -12,6 +12,7 @@
   "license": "ISC",
   "packageManager": "pnpm@10.30.3",
   "dependencies": {
+    "@pasosdejesus/m": "gitlab:pasosdeJesus/m",
     "@xmldom/xmldom": "^0.8.11"
   }
 }
