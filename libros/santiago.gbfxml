@@ -925,16 +925,53 @@ needs, what good is it?
 <wi type="G" value="3588,22,"/><wi type="G" value="3786,23,">sirve</wi>?
 </t>
 </sv>
+
 <sv id="Santiago-2-17">
-Even so faith, if it has no works, is dead in
-itself.
+Even so faith, if it has no works, is dead in itself.
+<t xml:lang="es"><wi type="G" value="2532,2,">Y</wi>
+<wi type="G" value="3779,1,">así</wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="4102,4,">fe</wi>,
+<wi type="G" value="1437,5,">si</wi>
+<wi type="G" value="3361,6,">no</wi>
+<wi type="G" value="2192,8,">tiene</wi>
+<wi type="G" value="2041,7,">obras</wi>,
+<wi type="G" value="2076,10,">es</wi>
+<wi type="G" value="3498,9,">muerta</wi>
+<wi type="G" value="2596,11,">en</wi>
+<wi type="G" value="1438,12,">si misma</wi>.</t>
 </sv>
+
 <sv id="Santiago-2-18">
 Yes, a man will say, «You have faith, and I have works.» Show
 me your faith from your works, and I by my works will show you my faith.
+<t xml:lang="es"><wi type="G" value="235,1,">Pero si</wi>,
+<wi type="G" value="5100,3,">alguno</wi>
+<wi type="G" value="2046,2,">dijera</wi>,
+«<wi type="G" value="4771,4,">Tu</wi>
+<wi type="G" value="2192,6,">tienes</wi>
+<wi type="G" value="4102,5,">fe</wi>,
+<wi type="G" value="2504,7,">yo</wi>
+<wi type="G" value="2192,9,">tengo</wi>
+<wi type="G" value="2041,8,">obras</wi>.»
+<wi type="G" value="1166,10,"><wi type="G" value="3427,11,">Muéstrame</wi></wi>
+<wi type="G" value="4675,14,">tu</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="4102,13,">fe</wi>
+<wi type="G" value="1537,15,">por</wi>
+<wi type="G" value="4675,18,">tus</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="2041,17,">obras</wi>,
+y <wi type="G" value="2504,19,">yo</wi>
+<wi type="G" value="1537,22,">por</wi>
+<wi type="G" value="3450,25,">mis</wi>
+<wi type="G" value="3588,23,"/><wi type="G" value="2041,24,">obras</wi>
+<wi type="G" value="4671,21,">te</wi>
+<wi type="G" value="1166,20,">mostraré</wi>
+<wi type="G" value="3450,28,">mi</wi>
+<wi type="G" value="3588,26,"/><wi type="G" value="4102,27,">fe</wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Santiago-2-19">
 You believe that God is one. You do well. The demons also believe, and
 shudder.
