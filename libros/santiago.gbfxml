@@ -975,7 +975,23 @@ y <wi type="G" value="2504,19,">yo</wi>
 <sv id="Santiago-2-19">
 You believe that God is one. You do well. The demons also believe, and
 shudder.
+<t xml:lang="es"><wi type="G" value="4771,1,">Tu</wi>
+<wi type="G" value="4100,2,">crees</wi>
+<wi type="G" value="3754,3,">que</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="2316,5,">Dios</wi>
+<wi type="G" value="2076,7,">es</wi>
+<wi type="G" value="1520,6,">uno</wi>.
+<wi type="G" value="4160,9,">Haces</wi>
+<wi type="G" value="2573,8,">bien</wi>.
+<wi type="G" value="3588,11,">Los</wi>
+<wi type="G" value="1140,12,">demonios</wi>
+<wi type="G" value="2532,10,">también</wi>
+<wi type="G" value="4100,13,">creen</wi>
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="5425,15,">tiemblan</wi>.
+</t>
 </sv>
+
 <sv id="Santiago-2-20">
 But do you want to know, vain man, that faith apart from works
 is dead?
