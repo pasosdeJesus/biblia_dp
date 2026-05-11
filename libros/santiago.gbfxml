@@ -995,11 +995,42 @@ shudder.
 <sv id="Santiago-2-20">
 But do you want to know, vain man, that faith apart from works
 is dead?
+<t xml:lang="es">¿<wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="2309,1,">quieres</wi>
+<wi type="G" value="1097,3,">saber</wi>,
+<wi type="G" value="5599,4,">Oh</wi>
+<wi type="G" value="444,5,">hombre</wi>
+<wi type="G" value="2756,6,">vano</wi>,
+<wi type="G" value="3754,7,">que</wi>
+<wi type="G" value="3588,8,">la</wi>
+<wi type="G" value="4102,9,">fe</wi>
+<wi type="G" value="5565,10,">sin</wi>
+<wi type="G" value="3588,11,">las</wi>
+<wi type="G" value="2041,12,">obras</wi>
+<wi type="G" value="2076,14,">es</wi>
+<wi type="G" value="3498,13,">muerta</wi>?
+</t>
 </sv>
+
 <sv id="Santiago-2-21">
 Wasn´t Abraham our father justified by works, in that he
 offered up Isaac his son on the altar?
+<t xml:lang="es">¿<wi type="G" value="3756,5,">No</wi> fue 
+<wi type="G" value="11,1,">Abraham</wi>, 
+<wi type="G" value="2257,4,">nuestro</wi> 
+<wi type="G" value="3588,2,"/><wi type="G" value="3962,3,">padre</wi> 
+<wi type="G" value="1344,8,">justificado</wi> 
+<wi type="G" value="1537,6,">por</wi> 
+<wi type="G" value="2041,7,">obras</wi>,
+<wi type="G" value="399,9,">cuando ofreció a</wi> 
+<wi type="G" value="2464,10,">Isaac</wi> 
+<wi type="G" value="846,13,">su</wi> 
+<wi type="G" value="3588,11,"/><wi type="G" value="5207,12,">hijo</wi> 
+<wi type="G" value="1909,14,">en</wi> 
+<wi type="G" value="3588,15,">el</wi> 
+<wi type="G" value="2379,16,">altar</wi>?</t>
 </sv>
+
 <sv id="Santiago-2-22">
 You see that faith worked with
 his works, and by works faith was perfected;
