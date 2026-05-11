@@ -228,7 +228,8 @@
 <!ELEMENT wi (#PCDATA|wi)*>
 <!ATTLIST wi 
 	type CDATA #REQUIRED
-	value CDATA #IMPLIED>
+	value CDATA #IMPLIED
+	sacred (yes) #IMPLIED>
 <!-- Word information. Type: G (Greek Strong), GC (continuation), H
   (Hebrew),
   I (interlinear), T (original language info), Tf (form of address).
@@ -236,6 +237,7 @@
   Examples:
   <wi type="G" value="1063,2,CONJ">pues</wi>
   <wi type="G" value="4100,7,V-AAI-1S,πιστεύω,ἐπίστευσα">creí</wi>
+  sacred: yes for sacred invocations.
   Nested wi allowed for union of multiple Strong numbers. -->
 
 

@@ -568,7 +568,7 @@ you are: the Holy One of God!»
 ¿<wi type="G" value="5101,3,">Qué</wi>
 tenemos <wi type="G" value="2254,4,">nosotros</wi>
 <wi type="G" value="2532,5,"><wi type="G" value="4671,6,">contigo</wi></wi>,
-<wi type="G" value="2424,7,">Jesús</wi>,
+<wi type="G" value="2424,7," sacred="yes">Jesús</wi>,
 <wi type="G" value="3479,8,">Nazareno</wi>? ¿
 <wi type="G" value="2064,9,">Has venido</wi> a
 <wi type="G" value="622,10,"><wi type="G" value="2248,11,">destruirnos</wi></wi>?
@@ -3127,7 +3127,7 @@ you care that we are dying?»
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="846,16,">le</wi>
 <wi type="G" value="3004,15,">dijeron</wi>,
-«<wi type="G" value="1320,17,">Maestro</wi>,
+«<wi type="G" value="1320,17," sacred="yes">Maestro</wi>,
 ¿<wi type="G" value="3756,18,">no</wi>
 <wi type="G" value="4671,20,">te</wi>
 <wi type="G" value="3199,19,">preocupa</wi>
@@ -3319,14 +3319,14 @@ con
 <wi type="G" value="1698,7,">yo</wi>
 <wi type="G" value="5101,6,">qué</wi>
 <wi type="G" value="4671,9,">contigo</wi>?
-<wi type="G" value="2424,10,">Jesús</wi>,
-<wi type="G" value="5207,11,">Hijo</wi>
+<wi type="G" value="2424,10," sacred="yes">Jesús</wi>,
+<wi type="G" value="5207,11," sacred="yes">Hijo</wi>
 <wi type="G" value="3588,14,"/>
 <wi type="G" value="5310,15,">del altísimo</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>.
+<wi type="G" value="3588,12,"><wi type="G" value="2316,13," sacred="yes">Dios</wi></wi>.
 <wi type="G" value="4571,17,">Te</wi>
 <wi type="G" value="3726,16,">pido</wi>
-<wi type="G" value="3588,18,"><wi type="G" value="2316,19,">por Dios</wi></wi>,
+<wi type="G" value="3588,18,"><wi type="G" value="2316,19," sacred="yes">por Dios</wi></wi>,
 <wi type="G" value="3361,20,">no</wi>
 <wi type="G" value="3165,21,">me</wi>
 <wi type="G" value="928,22,">atormentes</wi>.» </t>
@@ -5802,7 +5802,7 @@ the children´s crumbs.»
 <wi type="G" value="2532,4,"/>
 <wi type="G" value="3004,5,">diciendo</wi>,
 «<wi type="G" value="3483,7,">Si</wi>
-<wi type="G" value="2962,8,">Señor</wi>.
+<wi type="G" value="2962,8," sacred="yes">Señor</wi>.
 <wi type="G" value="2532,9,">Pero</wi>
 <wi type="G" value="1063,10,">hasta</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="2952,12,">los perritos</wi></wi>
@@ -7238,7 +7238,7 @@ Help my unbelief!»
 <wi type="G" value="2896,3,">lloró</wi> y
 <wi type="G" value="3004,10,">dijo</wi> <wi type="G" value="3326,8,">con</wi>
 <wi type="G" value="1144,9,">lagrimas</wi>,
-«¡<wi type="G" value="2962,12,">Señor</wi>
+«¡<wi type="G" value="2962,12," sacred="yes">Señor</wi>
 <wi type="G" value="4100,11,">yo creo</wi>.
 <wi type="G" value="997,13,">Ayúdame</wi>
 con <wi type="G" value="3450,14,">mi</wi>
@@ -8839,8 +8839,8 @@ began to cry out, and say, «Jesus, you son of David, have mercy on me!»
 <wi type="G" value="2896,9,">a gritar</wi>
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="3004,11,">decía</wi>,
-«¡<wi type="G" value="2424,15,">Jesús</wi>,
-<wi type="G" value="3588,12,"><wi type="G" value="5207,13,">hijo</wi></wi>
+«¡<wi type="G" value="2424,15," sacred="yes">Jesús</wi>,
+<wi type="G" value="3588,12,"><wi type="G" value="5207,13," sacred="yes">Hijo</wi></wi>
 <wi type="G" value="1138,14,">de David</wi>
 <wi type="G" value="1653,16,">ten piedad</wi>
 <wi type="G" value="3165,17,">de mi</wi>!» </t>
@@ -8858,7 +8858,7 @@ Many rebuked him, that he should be quiet, but he cried out much more,
 <wi type="G" value="2896,11,">él gritaba</wi>
 <wi type="G" value="4183,9,">mucho</wi>
 <wi type="G" value="3123,10,">más</wi>,
-«¡<wi type="G" value="5207,12,">Hijo</wi>
+«¡<wi type="G" value="5207,12," sacred="yes">Hijo</wi>
 <wi type="G" value="1138,13,">de David</wi>,
 <wi type="G" value="1653,14,">ten piedad</wi>
 <wi type="G" value="3165,15,">de mi</wi>!» </t>
@@ -8919,7 +8919,7 @@ The blind man said to him, «
 <t xml:lang="es"><wi type="G" value="1161,12,"/><wi type="G" value="5185,13,">El ciego</wi>
 <wi type="G" value="846,15,">le</wi>
 <wi type="G" value="2036,14,">dijo</wi>, «</t>
-<rb>Rhabboni<t xml:lang="es"><wi type="G" value="4462,16,">Raboni</wi></t><rf>Rhabboni is a transliteration of
+<rb>Rhabboni<t xml:lang="es"><wi type="G" value="4462,16," sacred="yes">Raboni</wi></t><rf>Rhabboni is a transliteration of
 the Hebrew word for «great teacher.»
 <t xml:lang="es">Raboni es una transliteración de una palabra hebrea que
 significa «gran maestro.»</t></rf></rb>
@@ -12146,8 +12146,8 @@ He said,
 <wi type="G" value="3004,2,">decía</wi>, </t>
 <fr>«Abba, Father, all things are possible to you. Please remove this cup
 from me. However, not what I desire, but what you desire.»
-<t xml:lang="es">«<wi type="G" value="5,3,">Abba</wi>,
-<wi type="G" value="3588,4,"><wi type="G" value="3962,5,">Padre</wi></wi>,
+<t xml:lang="es">«<wi type="G" value="5,3," sacred="yes">Abba</wi>,
+<wi type="G" value="3588,4,"><wi type="G" value="3962,5," sacred="yes">Padre</wi></wi>,
 <wi type="G" value="3956,6,">todo</wi>
 <wi type="G" value="1415,7,">es posible</wi>
 <wi type="G" value="4671,8,">para Ti</wi>.
@@ -13386,9 +13386,9 @@ which is, being interpreted,
 <t xml:lang="es"> <wi type="G" value="3739,16,">que</wi>
 <wi type="G" value="3177,18,">traducido</wi>
 <wi type="G" value="2076,17,">es</wi>
-«<wi type="G" value="3588,19,"><wi type="G" value="2316,20,">Dios</wi></wi>
+«<wi type="G" value="3588,19,"><wi type="G" value="2316,20," sacred="yes">Dios</wi></wi>
 <wi type="G" value="3450,21,">mío</wi>,
-<wi type="G" value="3588,22,"><wi type="G" value="2316,23,">Dios</wi></wi>
+<wi type="G" value="3588,22,"><wi type="G" value="2316,23," sacred="yes">Dios</wi></wi>
 <wi type="G" value="1519,25,"/><wi type="G" value="3450,24,">mío</wi>,
 ¿<wi type="G" value="5101,26,">Por qué</wi>
 <wi type="G" value="3165,27,">me</wi>

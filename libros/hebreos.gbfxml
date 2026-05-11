@@ -230,7 +230,7 @@ Therefore God, your God, has anointed you with the oil of gladness above your
 fellows.»
 <t xml:lang="es"><wi type="G" value="1223,6,">Por</wi>
 <wi type="G" value="5124,7,">esto</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="2316,11,">Dios</wi></wi>,
+<wi type="G" value="3588,10,"><wi type="G" value="2316,11," sacred="yes">Dios</wi></wi>,
 <wi type="G" value="4675,14,">tu</wi>
 <wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>,
 <wi type="G" value="4571,9,">te</wi>
@@ -254,7 +254,7 @@ And,
 <t xml:lang="es">
 «<wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="4771,2,">Tu</wi>,
-<wi type="G" value="2962,5,">Señor</wi>,
+<wi type="G" value="2962,5," sacred="yes">Señor</wi>,
 <wi type="G" value="2596,3,">al</wi>
 <wi type="G" value="746,4,">principio</wi>,
 <wi type="G" value="2311,8,">pusiste los fundamentos</wi>

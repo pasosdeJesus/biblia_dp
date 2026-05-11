@@ -3758,7 +3758,7 @@ you ask him.
 <t xml:lang="es"><wi type="G" value="3767,2,">Por tanto</wi>
 <wi type="G" value="4336,3,"><wi type="G" value="5210,4,">oren</wi></wi>
 <wi type="G" value="3779,1,">así</wi>:
-`<wi type="G" value="3962,5,">Padre</wi>
+`<wi type="G" value="3962,5," sacred="yes">Padre</wi>
 <wi type="G" value="2257,6,">nuestro</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,7,">que estás</wi><rf>
 <citebib id="WEB"/> no dice `que estás,´
@@ -4929,8 +4929,8 @@ heaven.
 <wi type="G" value="3004,4,">aquel que</wi>
 <wi type="G" value="3427,5,">me</wi>
 <wi type="GC" value="4">dice</wi>
-`<wi type="G" value="2962,6,">Señor</wi>,
-<wi type="G" value="2962,7,">Señor</wi>,´
+`<wi type="G" value="2962,6," sacred="yes">Señor</wi>,
+<wi type="G" value="2962,7," sacred="yes">Señor</wi>,´
 <wi type="G" value="1525,8,">entrará</wi>
 <wi type="G" value="1519,9,">al</wi> <wi type="G" value="932,11,">Reino</wi>
 <wi type="G" value="3588,10,"/>
@@ -4960,8 +4960,8 @@ works?´
 <wi type="G" value="1565,5,">ese</wi>
 <wi type="G" value="3588,6,"/>
 <wi type="G" value="2250,7,">día</wi>,
-`<wi type="G" value="2962,8,">Señor</wi>,
-<wi type="G" value="2962,9,">Señor</wi>,
+`<wi type="G" value="2962,8," sacred="yes">Señor</wi>,
+<wi type="G" value="2962,9," sacred="yes">Señor</wi>,
 ¿<wi type="G" value="3756,10,">no</wi>
 <wi type="G" value="3588,11,"/>
 <wi type="G" value="4395,14,">profetizamos</wi>
@@ -5199,7 +5199,7 @@ dice `se postró.´ La palabra griega según
 ejemplo a Cristo y también para `arrodillarse´ o `postrarse.´</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3004,7,">diciendo</wi>,
-«<wi type="G" value="2962,8,">Señor</wi>,
+«<wi type="G" value="2962,8," sacred="yes">Señor</wi>,
 <wi type="G" value="1437,9,">si</wi>
 <wi type="G" value="2309,10,">tu quieres</wi>,
 <wi type="G" value="1410,11,">puedes</wi>
@@ -5277,7 +5277,7 @@ and saying, «Lord, my servant lies in the house paralyzed, grievously
 tormented.»
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="3004,2,">diciendo</wi>
-«<wi type="G" value="2962,3,">Señor</wi>,
+«<wi type="G" value="2962,3," sacred="yes">Señor</wi>,
 <wi type="G" value="3450,6,">mi</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,4,"/>
 <wi type="G" value="3816,5,">siervo</wi><rf>
@@ -5312,7 +5312,7 @@ roof. Just say the word, and my servant will be healed.
 <wi type="G" value="3588,3,"/><wi type="G" value="1543,4,">el centurión</wi>
 <wi type="G" value="611,2,">contestó</wi>
 <wi type="G" value="5346,5,">diciendo</wi>,
-«<wi type="G" value="2962,6,">Señor</wi>,
+«<wi type="G" value="2962,6," sacred="yes">Señor</wi>,
 <wi type="G" value="3756,7,">no</wi>
 <wi type="G" value="1510,8,">soy</wi>
 <wi type="G" value="2425,9,">digno</wi> de
@@ -5641,7 +5641,7 @@ bury my father.»
 <wi type="GC" value="4">discípulos</wi>
 <wi type="G" value="846,7,">le</wi>
 <wi type="G" value="2036,6,">dijo</wi>,
-«<wi type="G" value="2962,8,">Señor</wi>,
+«<wi type="G" value="2962,8," sacred="yes">Señor</wi>,
 <wi type="G" value="2010,9,"><wi type="G" value="3427,10,">permíteme</wi></wi>
 <wi type="G" value="4412,11,">primero</wi>
 <wi type="G" value="565,12,">ir</wi>
@@ -5720,7 +5720,7 @@ y <wi type="G" value="846,7,">lo</wi>
 <wi type="G" value="1453,6,">despertaron</wi>
 <wi type="G" value="3004,8,">diciendo</wi>,
 «¡<wi type="G" value="4982,10,"><wi type="G" value="2248,11,">Sálvanos</wi></wi>
-<wi type="G" value="2962,9,">Señor</wi>!
+<wi type="G" value="2962,9," sacred="yes">Señor</wi>!
 ¡<wi type="G" value="622,12,">Perecemos</wi>!» </t>
 </sv></cm>
 <cm><sv id="Mateo-8-26">
@@ -6606,7 +6606,7 @@ followed him, calling out and saying, «Have mercy on us, son of David!»
 <wi type="G" value="3004,12,">diciendo</wi>,
 «¡<wi type="G" value="1653,13,">Ten piedad</wi>
 <wi type="G" value="2248,14,">de nosotros</wi>,
-<wi type="G" value="5207,15,">hijo</wi>
+<wi type="G" value="5207,15," sacred="yes">Hijo</wi>
 <wi type="G" value="1138,16,">de David</wi>!» </t>
 </sv>
 <sv id="Mateo-9-28">
@@ -8482,8 +8482,8 @@ and earth, that you hid these things from the wise and understanding, and
 revealed them to infants.
 <t xml:lang="es">«<wi type="G" value="4671,10,">Te</wi>
 <wi type="G" value="1843,9,">agradezco</wi>,
-<wi type="G" value="3962,11,">Padre</wi>,
-<wi type="G" value="2962,12,">Señor</wi>
+<wi type="G" value="3962,11," sacred="yes">Padre</wi>,
+<wi type="G" value="2962,12," sacred="yes">Señor</wi>
 <wi type="G" value="3588,13,"/>
 <wi type="G" value="3772,14,">del cielo</wi>
 <wi type="G" value="2532,15,">y</wi>
@@ -11791,7 +11791,7 @@ you on the waters.»
 <wi type="G" value="4074,5,">Pedro</wi>
 <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="611,1,">contestó</wi> <wi type="G" value="2036,6,"/>,
-«<wi type="G" value="2962,7,">Señor</wi>,
+«<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
 <wi type="G" value="1487,8,">si</wi>
 <wi type="G" value="1488,10,">eres</wi>
 <wi type="G" value="4771,9,">tu</wi>,
@@ -11840,7 +11840,7 @@ que
 <wi type="G" value="756,8,">comenzó</wi>
 <wi type="G" value="2670,9,">a hundirse</wi>, entonces
 <wi type="G" value="2896,10,">gritó</wi>, <wi type="G" value="3004,11,"/>
-«¡<wi type="G" value="2962,12,">Señor</wi>,
+«¡<wi type="G" value="2962,12," sacred="yes">Señor</wi>,
 <wi type="G" value="4982,13,"><wi type="G" value="3165,14,">sálvame</wi></wi>!» </t>
 </sv></cm><cm>
 <sv id="Mateo-14-31">
@@ -12415,8 +12415,8 @@ severely demonized!»
 <wi type="G" value="3004,12,"><wi type="G" value="846,11,">diciéndole</wi></wi>,
 «¡<wi type="G" value="1653,13,">Ten piedad</wi>
 <wi type="G" value="3165,14,">de mí</wi>,
-<wi type="G" value="2962,15,">Señor</wi>, tu
-<wi type="G" value="5207,16,">hijo</wi>
+<wi type="G" value="2962,15," sacred="yes">Señor</wi>, tu
+<wi type="G" value="5207,16," sacred="yes">Hijo</wi>
 <wi type="G" value="1138,17,">de David</wi>!
 <wi type="G" value="3588,18,"/>
 ¡<wi type="G" value="3450,20,">Mi</wi>
@@ -12481,7 +12481,7 @@ But she came and worshiped him, saying, «Lord, help me.»
 y <wi type="G" value="846,5,">lo</wi>
 <wi type="G" value="4352,4,">alabó</wi>
 <wi type="G" value="3004,6,">diciendo</wi>,
-«<wi type="G" value="2962,7,">Señor</wi>,
+«<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
 <wi type="G" value="997,8,"><wi type="G" value="3427,9,">ayúdame</wi></wi>.» </t>
 </sv></cm><cm>
 <sv id="Mateo-15-26">
@@ -12513,7 +12513,7 @@ from their masters´ table.»
 <wi type="G" value="2036,3,">ella dijo</wi>,
 «
 <wi type="G" value="3483,4,">Si</wi>,
-<wi type="G" value="2962,5,">Señor</wi>, <wi type="G" value="2532,6,"/>pero
+<wi type="G" value="2962,5," sacred="yes">Señor</wi>, <wi type="G" value="2532,6,"/>pero
 <wi type="G" value="1063,7,">aún</wi>
 <wi type="G" value="3588,8,"/>
 <wi type="G" value="2952,9,">los perros</wi>
@@ -13383,7 +13383,7 @@ dice `lo tomó,´ <citebib id="WEB"/> dice `lo tomó aparte.´</rf></rb>
 «¡<wi type="G" value="2436,10,">Lejos</wi>
 este eso
 <wi type="G" value="4671,11,">de ti</wi>
-<wi type="G" value="2962,12,">Señor</wi>!
+<wi type="G" value="2962,12," sacred="yes">Señor</wi>!
 <wi type="G" value="5124,17,">Esto</wi>
 <wi type="G" value="3756,13,">no</wi>
 <wi type="G" value="3361,14,"/>
@@ -13649,7 +13649,7 @@ for Elijah.»
 <wi type="G" value="611,1,"><wi type="G" value="2036,5,">le dijo</wi></wi>
 <wi type="G" value="3588,6,"/>
 <wi type="G" value="2424,7,">a Jesús</wi>,
-«<wi type="G" value="2962,8,">Señor</wi>,
+«<wi type="G" value="2962,8," sacred="yes">Señor</wi>,
 <wi type="G" value="2076,10,">es</wi>
 <wi type="G" value="2570,9,">bueno</wi>
 <wi type="G" value="2248,11,"><wi type="G" value="1511,13,,">que estemos</wi></wi>
@@ -13887,7 +13887,7 @@ him, saying,
 «Lord, have mercy on my son, for he is epileptic, and
 suffers grievously; for he often falls into the fire, and often into the
 water.
-<t xml:lang="es">«<wi type="G" value="2962,1,">Señor</wi>,
+<t xml:lang="es">«<wi type="G" value="2962,1," sacred="yes">Señor</wi>,
 <wi type="G" value="1653,2,">ten piedad</wi>
 <wi type="G" value="5207,5,">de</wi>
 <wi type="G" value="3450,3,">mi</wi>
@@ -14828,7 +14828,7 @@ against me, and I forgive him? Until seven times?»
 <wi type="G" value="4334,2,">llegó</wi>
 donde <wi type="G" value="846,3,">Él</wi> y
 <wi type="G" value="2036,6,">dijo</wi>,
-«<wi type="G" value="2962,7,">Señor</wi>,
+«<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
 ¿<wi type="G" value="4212,8,">que tan a menudo</wi>
 debo
 <wi type="G" value="863,16,">perdonar</wi> a
@@ -16673,8 +16673,8 @@ estaban <wi type="G" value="1417,3,">dos</wi>
 <wi type="G" value="3004,14,">diciendo</wi>,
 «¡<wi type="G" value="1653,15,">Ten piedad</wi>
 <wi type="G" value="2248,16,">de nosotros</wi>,
-<wi type="G" value="2962,17,">Señor</wi>,
-tu <wi type="G" value="5207,18,">Hijo</wi>
+<wi type="G" value="2962,17," sacred="yes">Señor</wi>,
+tu <wi type="G" value="5207,18," sacred="yes">Hijo</wi>
 <wi type="G" value="1138,19,">de David</wi>!» </t>
 </sv>
 <sv id="Mateo-20-31">
@@ -16693,8 +16693,8 @@ they cried out even more, «Lord, have mercy on us, you son of David!»
 <wi type="G" value="3004,12,">diciendo</wi>
 «¡<wi type="G" value="1653,13,">Ten piedad</wi>
 <wi type="G" value="2248,14,">de nosotros</wi>,
-<wi type="G" value="2962,15,">Señor</wi>, tu
-<wi type="G" value="5207,16,">Hijo</wi>
+<wi type="G" value="2962,15," sacred="yes">Señor</wi>, tu
+<wi type="G" value="5207,16," sacred="yes">Hijo</wi>
 <wi type="G" value="1138,17,">de David</wi>!» </t>
 </sv></cm>
 <cm>
@@ -16718,7 +16718,7 @@ Jesus stood still, and called them, and asked,
 They told him, «Lord, that our eyes may be opened.»
 <t xml:lang="es"><wi type="G" value="846,2,">Le</wi>
 <wi type="G" value="3004,1,">dijeron</wi>,
-«<wi type="G" value="2962,3,">Señor</wi>,
+«<wi type="G" value="2962,3," sacred="yes">Señor</wi>,
 <wi type="G" value="2443,4,">que</wi>
 <wi type="G" value="2257,6,">nuestros</wi>
 <wi type="G" value="3588,7,"/>
@@ -21695,7 +21695,7 @@ hungry, and feed you; or thirsty, and give you a drink?
 <wi type="G" value="3588,4,"/>
 <wi type="G" value="611,2,">contestarán</wi>
 <wi type="G" value="3004,6,">diciendo</wi>,
-`<wi type="G" value="2962,7,">Señor</wi>,
+`<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
 ¿<wi type="G" value="4219,8,">Cuándo</wi>
 <wi type="G" value="4571,9,">te</wi>
 <wi type="G" value="1492,10,">vimos</wi>
@@ -21858,7 +21858,7 @@ you?´
 <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="611,2,">contestarán</wi>
 <wi type="G" value="3004,6,">diciendo</wi>,
-`<wi type="G" value="2962,7,">Señor</wi>,
+`<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
 ¿<wi type="G" value="4219,8,">Cuándo</wi>
 <wi type="G" value="4571,9,">te</wi>
 <wi type="G" value="1492,10,">vimos</wi>
@@ -22358,7 +22358,7 @@ y
 «¿<wi type="G" value="1510,11,">Seré</wi>
 <wi type="G" value="3385,9,"/>
 <wi type="G" value="1473,10,">yo</wi>
-<wi type="G" value="2962,12,">Señor</wi>?» </t>
+<wi type="G" value="2962,12," sacred="yes">Señor</wi>?» </t>
 
 </sv></cm><cm>
 <sv id="Mateo-26-23">
@@ -22762,7 +22762,7 @@ He went forward a little, fell on his face, and prayed, saying,
 <wi type="G" value="3004,10,">diciendo</wi>, </t>
 <fr>«My Father, if it is possible, let this cup pass away from me;
 nevertheless, not what I desire, but what you desire.»
-<t xml:lang="es">«<wi type="G" value="3962,11,">Padre</wi>
+<t xml:lang="es">«<wi type="G" value="3962,11," sacred="yes">Padre</wi>
 <wi type="G" value="3450,12,">mio</wi>,
 <wi type="G" value="1487,13,">si</wi>
 <wi type="G" value="2076,15,">es</wi>
@@ -22843,7 +22843,7 @@ Again, a second time he went away, and prayed, saying,
 <fr>«My Father, if this cup can´t pass away from me unless I drink it,
 your desire be done.»
 <t xml:lang="es">«<wi type="G" value="3450,8,">Mi</wi>
-<wi type="G" value="3962,7,">Padre</wi>,
+<wi type="G" value="3962,7," sacred="yes">Padre</wi>,
 <wi type="G" value="1487,9,">si</wi>
 <wi type="G" value="5124,12,">esta</wi>
 <wi type="G" value="4221,14,">copa</wi>
@@ -24566,9 +24566,9 @@ lo que significa.</t></rf>
 <t xml:lang="es"> <wi type="G" value="5124,16,">Que</wi>
 <wi type="G" value="2076,17,">es</wi>, </t>
 <fr>«My God, my God, why have you forsaken me?»
-<t xml:lang="es">«<wi type="G" value="2316,18,">Dios</wi>
+<t xml:lang="es">«<wi type="G" value="2316,18," sacred="yes">Dios</wi>
 <wi type="G" value="3450,19,">mio</wi>,
-<wi type="G" value="2316,20,">Dios</wi>
+<wi type="G" value="2316,20," sacred="yes">Dios</wi>
 <wi type="G" value="3450,21,">mio</wi>, ¿</t>
 <rb xml:lang="es"><wi type="G" value="2443,22,"><wi type="G" value="2444,23,">por qué</wi></wi><rf>Respecto al marcado Strong ver nota al pie de 
 Mateo 9:4.</rf></rb>

@@ -5931,7 +5931,7 @@ dice `Pero no todos son obedientes a la Buena Nueva.´</rf></rb>
 <wi type="G" value="1063,8,">Pues</wi>
 <wi type="G" value="2268,7,">Isaías</wi>
 <wi type="G" value="3004,9,">dijo</wi>,
-«<wi type="G" value="2962,10,">Señor</wi>,
+«<wi type="G" value="2962,10," sacred="yes">Señor</wi>,
 ¿<wi type="G" value="5101,11,">quien</wi>
 <wi type="G" value="4100,12,">ha creído</wi>
 <wi type="G" value="2257,15,">nuestro</wi> </t>
@@ -6148,7 +6148,7 @@ con
 		<sv id="Romanos-11-3">
 «Lord, they have killed your prophets, they have broken down your
 altars; and I am left alone, and they seek my life.»
-<t xml:lang="es">«<wi type="G" value="2962,1,">Señor</wi>,
+<t xml:lang="es">«<wi type="G" value="2962,1," sacred="yes">Señor</wi>,
 <wi type="G" value="615,5,">han matado</wi> a
 <wi type="G" value="4675,4,">tus</wi>
 <wi type="G" value="3588,2,"><wi type="G" value="4396,3,">profetas</wi></wi>,

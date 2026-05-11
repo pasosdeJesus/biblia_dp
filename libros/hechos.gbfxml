@@ -178,7 +178,7 @@ now restoring the kingdom to Israel?»
 <wi type="G" value="846,6,">le</wi>
 <wi type="G" value="1905,5,">preguntaron</wi>
 <wi type="G" value="3004,7,"/>,
-«<wi type="G" value="2962,8,">Señor</wi>,
+«<wi type="G" value="2962,8," sacred="yes">Señor</wi>,
 ¿<wi type="G" value="1722,10,">En</wi>
 <wi type="G" value="3588,11,"/>
 <wi type="G" value="5129,13,">este</wi>
@@ -696,7 +696,7 @@ all men, show which one of these two you have chosen
 <t xml:lang="es"><wi type="G" value="4336,2,">Oraron</wi>,
 <wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="2036,3,">dijeron</wi>,
-«<wi type="G" value="2962,5,">Señor</wi>,
+«<wi type="G" value="2962,5," sacred="yes">Señor</wi>,
 <wi type="G" value="4771,4,">Tú</wi>
 <wi type="G" value="2589,6,">que conoces los corazones</wi>
 <wi type="G" value="3956,7,">de todos</wi> los hombre,
@@ -3127,7 +3127,7 @@ who made the heaven, the earth, the sea, and all that is in them;
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="2036,11,">dijeron</wi>,
 «</t>
-<rb xml:lang="es"><wi type="G" value="1203,12,">Soberano</wi>,<rf>
+<rb xml:lang="es"><wi type="G" value="1203,12," sacred="yes">Soberano</wi>,<rf>
 <citebib id="WEB"/> dice  `Señor,´
 <citebib id="RV1960"/> dice `Soberano.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `δεσποτα´ 
@@ -6219,8 +6219,8 @@ receive my Spirit!»
 mientras él <wi type="G" value="1941,5,">llamaba</wi>
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="3004,7,">diciendo</wi>,
-«¡<wi type="G" value="2962,8,">Señor</wi>
-<wi type="G" value="2424,9,">Jesús</wi>,
+«¡<wi type="G" value="2962,8," sacred="yes">Señor</wi>
+<wi type="G" value="2424,9," sacred="yes">Jesús</wi>,
 <wi type="G" value="1209,10,">recibe</wi>
 <wi type="G" value="3450,13,">mi</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="4151,12,">Espíritu</wi></wi>!» </t>
@@ -6236,7 +6236,7 @@ asleep.
 <wi type="G" value="5456,6,">con</wi>
 <wi type="G" value="3173,7,">fuerte</wi>
 <wi type="GC" value="6">voz</wi>,
-«¡<wi type="G" value="2962,8,">Señor</wi>, </t>
+«¡<wi type="G" value="2962,8," sacred="yes">Señor</wi>, </t>
 <rb xml:lang="es"><wi type="G" value="3361,9,">no</wi>
 <wi type="G" value="2476,10,">pongas</wi><rf><citebib id="WEB"/> dice
 `no mantengas,´ <citebib id="Gideons"/> dice `no cuentes,´
@@ -7189,7 +7189,7 @@ He said, «Who are you, Lord?»
 <wi type="G" value="2036,1,">él dijo</wi>,
 «¿<wi type="G" value="5101,3,">Quién</wi>
 <wi type="G" value="1488,4,">eres Tú</wi>,
-<wi type="G" value="2962,5,">Señor</wi>?» </t>
+<wi type="G" value="2962,5," sacred="yes">Señor</wi>?» </t>
 
 <cl/>
 The Lord said,
@@ -7225,7 +7225,7 @@ contra el aguijon,» no está en <citebib id="WEB"/> pero si aparece en
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="2284,4,">asombrado</wi>
 <wi type="G" value="2036,5,">dijo</wi>
-`<wi type="G" value="2962,6,">Señor</wi>,
+`<wi type="G" value="2962,6," sacred="yes">Señor</wi>,
 ¿<wi type="G" value="5101,7,">Qué</wi>
 <wi type="G" value="2309,9,">deseas</wi> que
 <wi type="G" value="3165,8,">yo</wi>
@@ -7336,7 +7336,7 @@ He said, «Behold, it´s me, Lord.»
 <t xml:lang="es"><wi type="G" value="1161,19,">Y</wi>
 <wi type="G" value="3588,18,"/><wi type="G" value="2036,20,">dijo</wi>
 «<wi type="G" value="2400,21,"><wi type="G" value="1473,22,">Heme aquí</wi></wi>
-<wi type="G" value="2962,23,">Señor</wi>.» </t>
+<wi type="G" value="2962,23," sacred="yes">Señor</wi>.» </t>
 </sv></cm>
 <cm>
 <sv id="Hechos-9-11">
@@ -7397,7 +7397,7 @@ much evil he did to your saints at Jerusalem.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="367,4,">Ananías</wi></wi>
 <wi type="G" value="611,1,">contestó</wi>,
-«<wi type="G" value="2962,5,">Señor</wi>,
+«<wi type="G" value="2962,5," sacred="yes">Señor</wi>,
 <wi type="G" value="191,6,">he escuchado</wi>
 <wi type="G" value="575,7,">por</wi>
 <wi type="G" value="4183,8,">muchos</wi>
@@ -7879,7 +7879,7 @@ and make your bed!» Immediately he arose.
 <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="2036,2,">dijo</wi>,
 «<wi type="G" value="132,6,">Eneas</wi>,
-<wi type="G" value="2424,9,">Jesús</wi>
+<wi type="G" value="2424,9," sacred="yes">Jesús</wi>
 <wi type="G" value="3588,10,"><wi type="G" value="5547,11,">el Cristo</wi></wi>
 <wi type="G" value="4571,8,">te</wi>
 <wi type="G" value="2390,7,">sana</wi>.
@@ -8191,7 +8191,7 @@ Lord?»
 <wi type="G" value="2036,8,">dijo</wi>,
 «¿<wi type="G" value="5101,9,">Qué</wi>
 <wi type="G" value="2076,10,">es</wi>,
-<wi type="G" value="2962,11,">Señor</wi>?» </t>
+<wi type="G" value="2962,11," sacred="yes">Señor</wi>?» </t>
 <cl/>
 He said to him, «Your prayers and your gifts to the needy have gone up for a
 memorial before God.
@@ -8402,7 +8402,7 @@ common or unclean.»
 <wi type="G" value="4074,3,">Pedro</wi>
 <wi type="G" value="2036,4,">dijo</wi>,
 «<wi type="G" value="3365,5,">No así</wi>,
-<wi type="G" value="2962,6,">Señor</wi>;
+<wi type="G" value="2962,6," sacred="yes">Señor</wi>;
 <wi type="G" value="3754,7,">pues</wi>
 <wi type="G" value="3763,8,">nunca</wi>
 <wi type="G" value="5315,9,">he comido</wi>
@@ -9355,7 +9355,7 @@ nothing unholy or unclean has ever entered into my mouth.´
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="2036,1,">yo dije</wi>,
 `<wi type="G" value="3365,3,">No así</wi>,
-<wi type="G" value="2962,4,">Señor</wi>,
+<wi type="G" value="2962,4," sacred="yes">Señor</wi>,
 <wi type="G" value="3754,5,">pues</wi>
 <wi type="G" value="3956,6,">nada</wi> </t>
 <rb xml:lang="es"><wi type="G" value="2839,7,">común</wi><rf><citebib id="WEB"/>
@@ -18424,7 +18424,7 @@ I answered, `Who are you, Lord?´ He said to me,
 <wi type="G" value="1473,1,"><wi type="G" value="611,3,">respondí</wi></wi>, `
 ¿<wi type="G" value="5101,4,">Quién</wi>
 <wi type="G" value="1488,5,">eres</wi>,
-<wi type="G" value="2962,6,">Señor</wi>?´
+<wi type="G" value="2962,6," sacred="yes">Señor</wi>?´
 <wi type="G" value="5037,8,">Y</wi>
 <wi type="G" value="4314,9,"/><wi type="G" value="3165,10,">me</wi>
 <wi type="G" value="2036,7,">dijo</wi>, </t>
@@ -18474,7 +18474,7 @@ I do, Lord?´ The Lord said to me,
 <wi type="G" value="1161,2,"/>
 `¿<wi type="G" value="5101,3,">Qué</wi>
 <wi type="G" value="4160,4,">debo hacer</wi>,
-<wi type="G" value="2962,5,">Señor</wi>?´
+<wi type="G" value="2962,5," sacred="yes">Señor</wi>?´
 <wi type="G" value="3588,6,"/>
 <wi type="G" value="1161,7,">Y</wi>
 <wi type="G" value="2962,8,">el Señor</wi>
@@ -18660,7 +18660,7 @@ testimony concerning me from you.´
 I said, `Lord, they themselves
 know that I imprisoned and beat in every synagogue those who believed in you.
 <t xml:lang="es">Le <wi type="G" value="2504,1,"><wi type="G" value="2036,2,">dije</wi></wi>,
-`<wi type="G" value="2962,3,">Señor</wi>,
+`<wi type="G" value="2962,3," sacred="yes">Señor</wi>,
 <wi type="G" value="846,4,">ellos mismos</wi>
 <wi type="G" value="1987,5,">saben</wi>
 <wi type="G" value="3754,6,">que</wi>
@@ -21355,7 +21355,7 @@ hard for you to kick against the goads.´
 <wi type="G" value="1473,1,"><wi type="G" value="2036,3,">dije</wi></wi>, `¿<wi type="G" value="5101,4,">Quién</wi>
 <wi type="G" value="1488,5,">eres</wi>,
 <wi type="G" value="3588,7,"/>
-<wi type="G" value="2962,6,">Señor</wi>?´ </t>
+<wi type="G" value="2962,6," sacred="yes">Señor</wi>?´ </t>
 
 <cl/>
 «He said,
@@ -23526,5 +23526,3 @@ hinderance.
 
 </sv></cm></sc>
 </sb>
-
-

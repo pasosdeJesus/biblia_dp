@@ -57,6 +57,23 @@ make instala
 *   **`ref/`**: Obras y recursos de referencia externos.
 *   **`ia/`**: Entrenamiento para agentes de IA que asisten en la verificación y traducción.
 
+## Herramientas y Comandos
+
+| Comando | Propósito |
+|---|---|
+| `make` | Generar todos los formatos (HTML, PS, PDF) |
+| `make multi` | HTML multipágina (una por capítulo) |
+| `make imp/biblia_dp.pdf` | Generar solo PDF |
+| `make imp/biblia_dp.ps` | Generar solo PostScript |
+| `make html/biblia_dp.html` | Generar solo HTML |
+| `make instala` | Instalar archivos generados |
+| `bin/m ai:framework` | Cargar marco bayesiano de análisis (para agentes IA) |
+| `bin/m ai:principles` | Cargar principios del proyecto (para agentes IA) |
+| `herram/validador.mjs` | Validar estructura GBFXML y números Strong |
+| `herram/enriquecedor.mjs` | Enriquecer marcado (Strong, morfología) |
+| `herram/corrector_formato.mjs` | Corregir problemas de formato |
+| `herram/analizar-anidacion.mjs` | Analizar patrones de anidamiento wi |
+
 ## Licencia y Créditos
 
 Vea detalles de los derechos de reproducción en **[LICENSE.md](LICENSE.md)** y los colaboradores en **[CREDITS.md](CREDITS.md)**.

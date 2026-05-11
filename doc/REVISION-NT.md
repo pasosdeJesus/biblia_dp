@@ -362,3 +362,4 @@ Ejemplo: G2150 aparece en 1 Tim 2:2, 3:16, 4:7,8, 6:3,5,6,11 - debe ser siempre
 
 - Usuario prefiere respuestas concisas
 - Verificar antes de afirmar cualquier capacidad
+
