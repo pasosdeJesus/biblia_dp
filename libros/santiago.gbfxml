@@ -1015,31 +1015,65 @@ is dead?
 <sv id="Santiago-2-21">
 Wasn´t Abraham our father justified by works, in that he
 offered up Isaac his son on the altar?
-<t xml:lang="es">¿<wi type="G" value="3756,5,">No</wi> fue 
-<wi type="G" value="11,1,">Abraham</wi>, 
-<wi type="G" value="2257,4,">nuestro</wi> 
-<wi type="G" value="3588,2,"/><wi type="G" value="3962,3,">padre</wi> 
-<wi type="G" value="1344,8,">justificado</wi> 
-<wi type="G" value="1537,6,">por</wi> 
+<t xml:lang="es">¿<wi type="G" value="3756,5,">No</wi> fue
+<wi type="G" value="11,1,">Abraham</wi>,
+<wi type="G" value="2257,4,">nuestro</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="3962,3,">padre</wi>
+<wi type="G" value="1344,8,">justificado</wi>
+<wi type="G" value="1537,6,">por</wi>
 <wi type="G" value="2041,7,">obras</wi>,
-<wi type="G" value="399,9,">cuando ofreció a</wi> 
-<wi type="G" value="2464,10,">Isaac</wi> 
-<wi type="G" value="846,13,">su</wi> 
-<wi type="G" value="3588,11,"/><wi type="G" value="5207,12,">hijo</wi> 
-<wi type="G" value="1909,14,">en</wi> 
-<wi type="G" value="3588,15,">el</wi> 
+<wi type="G" value="399,9,">cuando ofreció a</wi>
+<wi type="G" value="2464,10,">Isaac</wi>
+<wi type="G" value="846,13,">su</wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="5207,12,">hijo</wi>
+<wi type="G" value="1909,14,">en</wi>
+<wi type="G" value="3588,15,">el</wi>
 <wi type="G" value="2379,16,">altar</wi>?</t>
 </sv>
 
 <sv id="Santiago-2-22">
 You see that faith worked with
 his works, and by works faith was perfected;
+<t xml:lang="es"><wi type="G" value="991,1,">Ves</wi>
+<wi type="G" value="3754,2,">cómo</wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="4102,4,">fe</wi>
+<wi type="G" value="4903,5,">actuó con</wi>
+<wi type="G" value="846,8,">sus</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="2041,7,">obras</wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="1537,10,">por</wi>
+<wi type="G" value="3588,11,">las</wi>
+<wi type="G" value="2041,12,">obras</wi>
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="4102,14,">fe</wi> fue
+<wi type="G" value="5048,15,">perfeccionada</wi>; </t>
 </sv>
+
 <sv id="Santiago-2-23">
 and the Scripture was
 fulfilled which says, «Abraham believed God, and it was accounted to him as
 righteousness;» and he was called the friend of God.
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="4137,2,">se cumplió</wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="1124,4,">Escritura</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="3004,6,">que dice</wi>,
+«<wi type="G" value="1161,8,"/><wi type="G" value="11,9,">Abraham</wi>
+<wi type="G" value="4100,7,">le creyó a</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="2316,11,">Dios</wi>,
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="846,14,">le</wi>
+<wi type="G" value="3049,13,">fue contado</wi>
+<wi type="G" value="1519,15,">como</wi>
+<wi type="G" value="1343,16,">justicia</wi>;»
+<wi type="G" value="2532,17,">y</wi>
+<wi type="G" value="2564,20,">fue llamado</wi>
+<wi type="G" value="5384,18,">amigo</wi>
+<wi type="G" value="2316,19,">de Dios</wi>.
+</t>
 </sv>
+
 <sv id="Santiago-2-24">
 You
 <wi type="T" value="P"/> see then

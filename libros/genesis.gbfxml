@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sb id="Genesis" type="" xml:lang="en">
+<tt>Genesis<t xml:lang="es">Génesis</t></tt>
+<sc id="Genesis-1">
+<cm>
+<sv id="Genesis-1-1">
+In the beginning, God created the heavens and the earth.
+<t xml:lang="es"><wi type="H" value="H07225,1,">En el principio</wi>
+<wi type="H" value="H0430,2,">Dios</wi>
+<wi type="H" value="H0853,3,"/><wi type="H" value="H01254,4,">creó</wi>
+<wi type="H" value="H08064,5,">los cielos</wi>
+<wi type="H" value="H0853,6,">y</wi>
+<wi type="H" value="H0776,7,">la tierra</wi>.</t>
+</sv>
+<sv id="Genesis-1-2">
+The earth was formless and empty. Darkness was on the surface of the deep and God's Spirit was hovering over the surface of the waters.
+<t xml:lang="es"><wi type="H" value="H0776,1,">La tierra</wi>
+<wi type="H" value="H01961,2,">era</wi>
+<wi type="H" value="H08414,3,">sin forma</wi>
+<wi type="H" value="H0922,4,">y vacía</wi>.
+<rb xml:lang="es"><wi type="H" value="H02822,5,">La oscuridad</wi><rf><citebib id="WEB"/> dice `darkness,´ <citebib id="RV1960"/> dice `tinieblas,´ <citebib id="KJV2003"/> dice `darkness.´ Según <citebib id="Thayer-BLB"/> la definición Strong de la palabra hebrea חֹשֶׁךְ (kho-shek') es darkness que en español suele traducirse como oscuridad.</rf></rb>
+<wi type="H" value="H06440,6,">estaba sobre la superficie</wi>
+<wi type="H" value="H08415,7,">de la profundidad</wi>
+<wi type="H" value="H07307,8,">y el Espíritu</wi>
+<wi type="H" value="H0430,9,">de Dios</wi>
+<wi type="H" value="H07363,10,">se movía</wi>
+<wi type="H" value="H05921,11,">sobre</wi>
+<wi type="H" value="H06440,12,">la superficie</wi>
+<wi type="H" value="H04325,13,">de las aguas</wi>.</t>
+</sv>
+<sv id="Genesis-1-3">
+God said, "Let there be light," and there was light.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios</wi>
+<wi type="H" value="H0559,2,">dijo</wi>:
+<wi type="H" value="H01961,3,">«Sea</wi>
+<wi type="H" value="H0216,4,">la luz</wi>»,
+<wi type="H" value="H01961,5,">y fue</wi>
+<wi type="H" value="H0216,6,">la luz</wi>.</t>
+</sv>
+<sv id="Genesis-1-4">
+God saw the light, and saw that it was good. God divided the light from the darkness.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios</wi>
+<wi type="H" value="H07200,2,">vio</wi>
+<wi type="H" value="H0216,3,">la luz</wi>,
+<wi type="H" value="H03588,4,">y vio</wi>
+<wi type="H" value="H02896,5,">que era buena</wi>.
+<wi type="H" value="H0430,6,">Dios</wi>
+<wi type="H" value="H0996,7,"/><wi type="H" value="H0914,8,">separó</wi>
+<wi type="H" value="H0216,9,">la luz</wi>
+<wi type="H" value="H0996,10,">de</wi>
+<wi type="H" value="H02822,11,">la oscuridad</wi>.</t>
+</sv>
+<sv id="Genesis-1-5">
+God called the light "day", and the darkness he called "night". There was evening and there was morning, the first day.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios</wi>
+<wi type="H" value="H07121,2,">llamó</wi>
+<wi type="H" value="H0216,3,">a la luz</wi>
+<wi type="H" value="H03117,4,">«día»</wi>,
+<wi type="H" value="H02822,5,">y a la oscuridad</wi>
+<wi type="H" value="H07121,6,">llamó</wi>
+<wi type="H" value="H03915,7,">«noche»</wi>.
+<wi type="H" value="H06153,8,">Y fue la tarde</wi>
+<wi type="H" value="H01242,9,">y la mañana</wi>
+<wi type="H" value="H0259,10,">del primer</wi>
+<wi type="H" value="H03117,11,">día</wi>.</t>
+</sv>
+<sv id="Genesis-1-6">
+God said, "Let there be an expanse in the middle of the waters, and let it divide the waters from the waters."
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios</wi>
+<wi type="H" value="H0559,2,">dijo</wi>:
+<wi type="H" value="H07549,3,">«Haya un firmamento</wi>
+<wi type="H" value="H08432,4,">en medio</wi>
+<wi type="H" value="H04325,5,">de las aguas</wi>,
+<wi type="H" value="H0914,6,">y que separe</wi>
+<wi type="H" value="H04325,7,">las aguas</wi>
+<wi type="H" value="H04325,8,">de las aguas</wi>».</t>
+</sv>
+<sv id="Genesis-1-7">
+God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios hizo</wi>
+<wi type="H" value="H07549,2,">el firmamento</wi>,
+<wi type="H" value="H0914,3,">y separó</wi>
+<wi type="H" value="H04325,4,">las aguas</wi>
+<wi type="H" value="H0834,5,">que</wi>
+<wi type="H" value="H08478,6,">estaban debajo</wi>
+<wi type="H" value="H07549,7,">del firmamento</wi>
+<wi type="H" value="H04325,8,">de las aguas</wi>
+<wi type="H" value="H0834,9,">que</wi>
+<wi type="H" value="H05921,10,">estaban sobre</wi>
+<wi type="H" value="H07549,11,">el firmamento</wi>;
+<wi type="H" value="H03651,12,">y fue así</wi>.</t>
+</sv>
+<sv id="Genesis-1-8">
+God called the expanse "sky". There was evening and there was morning, a second day.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios</wi>
+<wi type="H" value="H07121,2,">llamó</wi>
+<wi type="H" value="H07549,3,">al firmamento</wi>
+<wi type="H" value="H08064,4,">«cielos»</wi>.
+<wi type="H" value="H06153,5,">Y fue la tarde</wi>
+<wi type="H" value="H01242,6,">y la mañana</wi>
+<wi type="H" value="H08145,7,">del segundo</wi>
+<wi type="H" value="H03117,8,">día</wi>.</t>
+</sv>
+<sv id="Genesis-1-9">
+God said, "Let the waters under the sky be gathered together to one place, and let the dry land appear;" and it was so.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios</wi>
+<wi type="H" value="H0559,2,">dijo</wi>:
+<wi type="H" value="H04325,3,">«Júntense las aguas</wi>
+<wi type="H" value="H08064,4,">debajo de los cielos</wi>
+<wi type="H" value="H06960,5,">en un solo lugar</wi>
+<wi type="H" value="H0413,6,">a</wi>
+<wi type="H" value="H0259,7,">un</wi>
+<wi type="H" value="H04725,8,">lugar</wi>,
+<wi type="H" value="H03004,9,">y que aparezca lo seco</wi>»;
+<wi type="H" value="H03651,10,">y fue así</wi>.</t>
+</sv>
+<sv id="Genesis-1-10">
+God called the dry land "earth", and the gathering together of the waters he called "seas". God saw that it was good.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios</wi>
+<wi type="H" value="H07121,2,">llamó</wi>
+<wi type="H" value="H03004,3,">a lo seco</wi>
+<wi type="H" value="H0776,4,">«tierra»</wi>,
+<wi type="H" value="H04723,5,">y a la reunión</wi>
+<wi type="H" value="H04325,6,">de las aguas</wi>
+<wi type="H" value="H07121,7,">llamó</wi>
+<wi type="H" value="H03220,8,">«mares»</wi>.
+<wi type="H" value="H0430,9,">Dios vio</wi>
+<wi type="H" value="H02896,10,">que era bueno</wi>.</t>
+</sv>
+<sv id="Genesis-1-11">
+God said, "Let the earth yield grass, herbs yielding seeds, and fruit trees bearing fruit after their kind, with their seeds in it, on the earth;" and it was so.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios</wi>
+<wi type="H" value="H0559,2,">dijo</wi>:
+<wi type="H" value="H0776,3,">«Produzca la tierra</wi>
+<wi type="H" value="H01877,4,">vegetación</wi>:
+<wi type="H" value="H06212,5,">hierbas</wi>
+<wi type="H" value="H02232,6,">que den</wi>
+<wi type="H" value="H02233,7,">semilla</wi>,
+<wi type="H" value="H06086,8,">y árboles frutales</wi>
+<wi type="H" value="H06213,9,">que den</wi>
+<wi type="H" value="H06529,10,">fruto</wi>
+<wi type="H" value="H04327,11,">según su especie</wi>,
+<wi type="H" value="H02233,12,">con su semilla</wi>
+<wi type="H" value="H0776,13,">dentro, sobre la tierra</wi>»;
+<wi type="H" value="H03651,14,">y fue así</wi>.</t>
+</sv>
+<sv id="Genesis-1-12">
+The earth yielded grass, herbs yielding seed after their kind, and trees bearing fruit, with their seeds in it, after their kind; and God saw that it was good.
+<t xml:lang="es"><wi type="H" value="H0776,1,">La tierra</wi>
+<wi type="H" value="H03318,2,">produjo</wi>
+<wi type="H" value="H01877,3,">vegetación</wi>:
+<wi type="H" value="H06212,4,">hierbas</wi>
+<wi type="H" value="H02232,5,">que dan</wi>
+<wi type="H" value="H02233,6,">semilla</wi>
+<wi type="H" value="H04327,7,">según su especie</wi>,
+<wi type="H" value="H06086,8,">y árboles</wi>
+<wi type="H" value="H06529,9,">que dan fruto</wi>
+<wi type="H" value="H02233,10,">con su semilla</wi>
+<wi type="H" value="H04327,11,">según su especie</wi>.
+<wi type="H" value="H0430,12,">Y vio Dios</wi>
+<wi type="H" value="H02896,13,">que era bueno</wi>.</t>
+</sv>
+<sv id="Genesis-1-13">
+There was evening and there was morning, a third day.
+<t xml:lang="es"><wi type="H" value="H06153,1,">Y fue la tarde</wi>
+<wi type="H" value="H01242,2,">y la mañana</wi>
+<wi type="H" value="H07992,3,">del tercer</wi>
+<wi type="H" value="H03117,4,">día</wi>.</t>
+</sv>
+<sv id="Genesis-1-14">
+God said, "Let there be lights in the expanse of the sky to divide the day from the night; and let them be for signs, for seasons, days, and years;
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios</wi>
+<wi type="H" value="H0559,2,">dijo</wi>:
+<wi type="H" value="H03974,3,">«Haya lumbreras</wi>
+<wi type="H" value="H07549,4,">en el firmamento</wi>
+<wi type="H" value="H08064,5,">de los cielos</wi>
+<wi type="H" value="H0914,6,">para separar</wi>
+<wi type="H" value="H03117,7,">el día</wi>
+<wi type="H" value="H03915,8,">de la noche</wi>;
+<wi type="H" value="H0226,9,">y sirvan de señales</wi>
+<wi type="H" value="H04150,10,">para las estaciones</wi>,
+<wi type="H" value="H03117,11,">para días</wi>
+<wi type="H" value="H08141,12,">y años</wi>.</t>
+</sv>
+<sv id="Genesis-1-15">
+and let them be for lights in the expanse of the sky to give light on the earth;" and it was so.
+<t xml:lang="es"><wi type="H" value="H03974,1,">y sean por lumbreras</wi>
+<wi type="H" value="H07549,2,">en el firmamento</wi>
+<wi type="H" value="H08064,3,">de los cielos</wi>
+<wi type="H" value="H0215,4,">para alumbrar</wi>
+<wi type="H" value="H0776,5,">sobre la tierra</wi>»;
+<wi type="H" value="H03651,6,">y fue así</wi>.</t>
+</sv>
+<sv id="Genesis-1-16">
+God made the two great lights: the greater light to rule the day, and the lesser light to rule the night. He also made the stars.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios hizo</wi>
+<wi type="H" value="H08147,2,">las dos</wi>
+<wi type="H" value="H01419,3,">grandes</wi>
+<wi type="H" value="H03974,4,">lumbreras</wi>:
+<wi type="H" value="H03974,5,">la lumbrera mayor</wi>
+<wi type="H" value="H04475,6,">para gobernar</wi>
+<wi type="H" value="H03117,7,">el día</wi>,
+<wi type="H" value="H03974,8,">y la lumbrera menor</wi>
+<wi type="H" value="H04475,9,">para gobernar</wi>
+<wi type="H" value="H03915,10,">la noche</wi>;
+<wi type="H" value="H03556,11,">hizo también las estrellas</wi>.</t>
+</sv>
+<sv id="Genesis-1-17">
+God set them in the expanse of the sky to give light to the earth,
+<t xml:lang="es"><wi type="H" value="H0430,1,">Y Dios</wi>
+<wi type="H" value="H05414,2,">los colocó</wi>
+<wi type="H" value="H07549,3,">en el firmamento</wi>
+<wi type="H" value="H08064,4,">de los cielos</wi>
+<wi type="H" value="H0215,5,">para alumbrar</wi>
+<wi type="H" value="H0776,6,">sobre la tierra</wi>.</t>
+</sv>
+<sv id="Genesis-1-18">
+and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good.
+<t xml:lang="es"><wi type="H" value="H04910,1,">y para gobernar</wi>
+<wi type="H" value="H03117,2,">sobre el día</wi>
+<wi type="H" value="H03915,3,">y sobre la noche</wi>,
+<wi type="H" value="H0914,4,">y para separar</wi>
+<wi type="H" value="H0216,5,">la luz</wi>
+<wi type="H" value="H02822,6,">de la oscuridad</wi>.
+<wi type="H" value="H0430,7,">Y vio Dios</wi>
+<wi type="H" value="H02896,8,">que era bueno</wi>.</t>
+</sv>
+<sv id="Genesis-1-19">
+There was evening and there was morning, a fourth day.
+<t xml:lang="es"><wi type="H" value="H06153,1,">Y fue la tarde</wi>
+<wi type="H" value="H01242,2,">y la mañana</wi>
+<wi type="H" value="H07243,3,">del cuarto</wi>
+<wi type="H" value="H03117,4,">día</wi>.</t>
+</sv>
+<sv id="Genesis-1-20">
+God said, "Let the waters abound with living creatures, and let birds fly above the earth in the open expanse of the sky."
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios</wi>
+<wi type="H" value="H0559,2,">dijo</wi>:
+<wi type="H" value="H04325,3,">«Produzcan las aguas</wi>
+<wi type="H" value="H08318,4,">seres vivientes</wi>
+<wi type="H" value="H05315,5,">que se muevan</wi>,
+<wi type="H" value="H05775,6,">y aves</wi>
+<wi type="H" value="H05774,7,">vuelen</wi>
+<wi type="H" value="H05921,8,">sobre</wi>
+<wi type="H" value="H0776,9,">la tierra</wi>
+<wi type="H" value="H06440,10,">frente al</wi>
+<wi type="H" value="H07549,11,">firmamento</wi>
+<wi type="H" value="H08064,12,">de los cielos</wi>».</t>
+</sv>
+<sv id="Genesis-1-21">
+God created the large sea creatures and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Y Dios</wi>
+<wi type="H" value="H01254,2,">creó</wi>
+<wi type="H" value="H01419,3,">los grandes</wi>
+<wi type="H" value="H08577,4,">monstruos marinos</wi>,
+<wi type="H" value="H02416,5,">y todo ser viviente</wi>
+<wi type="H" value="H05315,6,">que se mueve</wi>,
+<wi type="H" value="H08317,7,">que las aguas produjeron</wi>
+<wi type="H" value="H04327,8,">según su especie</wi>,
+<wi type="H" value="H03671,9,">y toda ave alada</wi>
+<wi type="H" value="H05775,10,">según su especie</wi>.
+<wi type="H" value="H0430,11,">Y vio Dios</wi>
+<wi type="H" value="H02896,12,">que era bueno</wi>.</t>
+</sv>
+<sv id="Genesis-1-22">
+God blessed them, saying, "Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth."
+<t xml:lang="es"><wi type="H" value="H0430,1,">Y Dios</wi>
+<wi type="H" value="H01288,2,">los bendijo</wi>
+<wi type="H" value="H0559,3,">diciendo</wi>:
+<wi type="H" value="H06509,4,">«Fructificad</wi>
+<wi type="H" value="H07235,5,">y multiplicaos</wi>,
+<wi type="H" value="H04390,6,">llenad</wi>
+<wi type="H" value="H04325,7,">las aguas</wi>
+<wi type="H" value="H03220,8,">de los mares</wi>,
+<wi type="H" value="H05775,9,">y multiplíquense las aves</wi>
+<wi type="H" value="H0776,10,">sobre la tierra</wi>».</t>
+</sv>
+<sv id="Genesis-1-23">
+There was evening and there was morning, a fifth day.
+<t xml:lang="es"><wi type="H" value="H06153,1,">Y fue la tarde</wi>
+<wi type="H" value="H01242,2,">y la mañana</wi>
+<wi type="H" value="H02549,3,">del quinto</wi>
+<wi type="H" value="H03117,4,">día</wi>.</t>
+</sv>
+<sv id="Genesis-1-24">
+God said, "Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind;" and it was so.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios</wi>
+<wi type="H" value="H0559,2,">dijo</wi>:
+<wi type="H" value="H0776,3,">«Produzca la tierra</wi>
+<wi type="H" value="H02416,4,">seres vivientes</wi>
+<wi type="H" value="H05315,5,">según su especie</wi>:
+<wi type="H" value="H0929,6,">ganado</wi>,
+<wi type="H" value="H07431,7,">reptiles</wi>
+<wi type="H" value="H02416,8,">y bestias</wi>
+<wi type="H" value="H0776,9,">de la tierra</wi>
+<wi type="H" value="H04327,10,">según su especie</wi>»;
+<wi type="H" value="H03651,11,">y fue así</wi>.</t>
+</sv>
+<sv id="Genesis-1-25">
+God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios hizo</wi>
+<wi type="H" value="H02416,2,">las bestias</wi>
+<wi type="H" value="H0776,3,">de la tierra</wi>
+<wi type="H" value="H04327,4,">según su especie</wi>,
+<wi type="H" value="H0929,5,">el ganado</wi>
+<wi type="H" value="H04327,6,">según su especie</wi>,
+<wi type="H" value="H07431,7,">y todo reptil</wi>
+<wi type="H" value="H0127,8,">sobre la tierra</wi>
+<wi type="H" value="H04327,9,">según su especie</wi>.
+<wi type="H" value="H0430,10,">Y vio Dios</wi>
+<wi type="H" value="H02896,11,">que era bueno</wi>.</t>
+</sv>
+<sv id="Genesis-1-26">
+God said, "Let us make man in our image, after our likeness. Let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth."
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios</wi>
+<wi type="H" value="H0559,2,">dijo</wi>:
+<wi type="H" value="H06213,3,">«Hagamos</wi>
+<wi type="H" value="H0120,4,">al hombre</wi>
+<wi type="H" value="H06754,5,">a nuestra imagen</wi>,
+<wi type="H" value="H01823,6,">conforme a nuestra semejanza</wi>;
+<wi type="H" value="H07287,7,">y ejerza dominio</wi>
+<wi type="H" value="H01710,8,">sobre los peces del mar</wi>,
+<wi type="H" value="H05775,9,">sobre las aves de los cielos</wi>,
+<wi type="H" value="H0929,10,">sobre el ganado</wi>,
+<wi type="H" value="H0776,11,">sobre toda la tierra</wi>,
+<wi type="H" value="H07431,12,">y sobre todo reptil</wi>
+<wi type="H" value="H07430,13,">que se arrastra</wi>
+<wi type="H" value="H0776,14,">sobre la tierra</wi>».</t>
+</sv>
+<sv id="Genesis-1-27">
+God created man in his own image. In God's image he created him; male and female he created them.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios creó</wi>
+<wi type="H" value="H0120,2,">al hombre</wi>
+<wi type="H" value="H06754,3,">a su imagen</wi>;
+<wi type="H" value="H06754,4,">a imagen de Dios</wi>
+<wi type="H" value="H01254,5,">lo creó</wi>;
+<wi type="H" value="H02145,6,">varón</wi>
+<wi type="H" value="H05347,7,">y hembra</wi>
+<wi type="H" value="H01254,8,">los creó</wi>.</t>
+</sv>
+<sv id="Genesis-1-28">
+God blessed them. God said to them, "Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth."
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios</wi>
+<wi type="H" value="H01288,2,">los bendijo</wi>;
+<wi type="H" value="H0430,3,">Dios les dijo</wi>:
+<wi type="H" value="H06509,4,">«Fructificad</wi>
+<wi type="H" value="H07235,5,">y multiplicaos</wi>,
+<wi type="H" value="H04390,6,">llenad</wi>
+<wi type="H" value="H0776,7,">la tierra</wi>
+<wi type="H" value="H03533,8,">y sojuzgadla</wi>;
+<wi type="H" value="H07287,9,">y ejerced dominio</wi>
+<wi type="H" value="H01710,10,">sobre los peces del mar</wi>,
+<wi type="H" value="H05775,11,">sobre las aves de los cielos</wi>,
+<wi type="H" value="H02416,12,">y sobre todo ser viviente</wi>
+<wi type="H" value="H07430,13,">que se mueve</wi>
+<wi type="H" value="H0776,14,">sobre la tierra</wi>».</t>
+</sv>
+<sv id="Genesis-1-29">
+God said, "Behold, I have given you every herb yielding seed, which is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios</wi>
+<wi type="H" value="H0559,2,">dijo</wi>:
+<wi type="H" value="H02009,3,">«He aquí</wi>,
+<wi type="H" value="H05414,4,">os he dado</wi>
+<wi type="H" value="H06212,5,">toda planta</wi>
+<wi type="H" value="H02232,6,">que da</wi>
+<wi type="H" value="H02233,7,">semilla</wi>,
+<wi type="H" value="H06440,8,">que está sobre</wi>
+<wi type="H" value="H0776,9,">toda la tierra</wi>,
+<wi type="H" value="H06086,10,">y todo árbol</wi>
+<wi type="H" value="H06529,11,">que da fruto</wi>
+<wi type="H" value="H02233,12,">con semilla</wi>;
+<wi type="H" value="H05414,13,">os serán</wi>
+<wi type="H" value="H0402,14,">para comer</wi>.</t>
+</sv>
+<sv id="Genesis-1-30">
+To every animal of the earth, and to every bird of the sky, and to everything that creeps on the earth, in which there is life, I have given every green herb for food;" and it was so.
+<t xml:lang="es"><wi type="H" value="H02416,1,">Y a toda bestia</wi>
+<wi type="H" value="H0776,2,">de la tierra</wi>,
+<wi type="H" value="H05775,3,">y a toda ave de los cielos</wi>,
+<wi type="H" value="H07431,4,">y a todo reptil</wi>
+<wi type="H" value="H0776,5,">sobre la tierra</wi>,
+<wi type="H" value="H05315,6,">en que hay vida</wi>,
+<wi type="H" value="H03418,7,">toda hierba verde</wi>
+<wi type="H" value="H0402,8,">les doy para comer</wi>»;
+<wi type="H" value="H03651,9,">y fue así</wi>.</t>
+</t>
+<sv id="Genesis-1-31">
+God saw everything that he had made, and saw that it was very good. There was evening and there was morning, a sixth day.
+<t xml:lang="es"><wi type="H" value="H0430,1,">Dios vio</wi>
+<wi type="H" value="H07200,2,">todo</wi>
+<wi type="H" value="H06213,3,">lo que había hecho</wi>,
+<wi type="H" value="H02009,4,">y he aquí</wi>
+<wi type="H" value="H02896,5,">era bueno</wi>
+<wi type="H" value="H03966,6,">en gran manera</wi>.
+<wi type="H" value="H06153,7,">Y fue la tarde</wi>
+<wi type="H" value="H01242,8,">y la mañana</wi>
+<wi type="H" value="H08345,9,">del sexto</wi>
+<wi type="H" value="H03117,10,">día</wi>.</t>
+</sv>
+</cm>
+</sc>
+</sb>
