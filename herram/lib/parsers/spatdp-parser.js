@@ -48,7 +48,7 @@ export function parseSpaTdp(filepath, strongType = 'G') {
 
       for (const wiTag of wiTags) {
         const normalizedTag = wiTag.replace(/\n?\n|\n/g, ' ').replace(/\s{2,}/g, ' ');
-        const valueMatch = normalizedTag.match(new RegExp(`value="${strongType}(\\d+),(\\d+),`));
+        const valueMatch = normalizedTag.match(/value="[A-Z]*(\d+),(\d+),/);
         if (valueMatch) {
           const rawNum = parseInt(valueMatch[1], 10);
           strongs.add(`${strongType}${rawNum}-${parseInt(valueMatch[2], 10)}`);
