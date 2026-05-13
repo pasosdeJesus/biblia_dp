@@ -14,45 +14,9 @@ Traducir el Antiguo Testamento desde sus fuentes originales (hebreo/arameo) y ba
 
 ## 2. Flujo de Trabajo
 
-El proceso sigue el mismo orden que para el NT:
+El proceso para traducir el AT al español sigue los mismos pasos que para el NT, pero usando como fuentes la WEB Classic (Yahweh Edition) para el texto base, el Westminster Leningrad Codex (WLC) para las posiciones y morfología hebrea, y el KJV2003 como referencia cruzada de Strong.
 
-1. **Texto base en inglés**: Se extrae la **WEB Classic (Yahweh Edition)** del archivo USFX (`ref/web_usfx/eng-web_usfx.xml`) y se convierte a GBFXML solo con inglés, sin números Strong —similar a como están los libros del NT no traducidos (ej. `libros/apocalipsis.gbfxml`).
-
-2. **Traducción al español**: Se agrega la traducción al español dentro de etiquetas `<t xml:lang="es">`. El proceso:
-   - **Traducción literal del inglés**: El agente traduce la **WEB** palabra por palabra al español, usando los términos más comunes para cada palabra en inglés, **respetando exactamente la puntuación original**. Esta traducción se registra en `evidenciaAT/{Libro}-{Cap}.md`.
-   - **Mejora según el hebreo**: Cuando el texto hebreo difiera significativamente de la WEB (ej. presencia de ו vav consecutivo que marca secuencia narrativa, o palabras que WEB traduce de forma libre), se ajusta la traducción para acercarla más al hebreo. El cambio y su razón se documentan en la evidencia.
-   - **Comparación**: Se compara con **KJV2003**, **RV1960** y otras versiones que conozca.
-   - **Nota al pie**: Cuando haya diferencias significativas, se agrega un `<rf>` con el formato (ej. Gen 1:2):
-     ```xml
-     <rb xml:lang="es">
-       <wi type="H" value="H02822,5,">La oscuridad</wi>
-       <rf><citebib id="WEB"/> dice `darkness,´
-       <citebib id="RV1960"/> dice `tinieblas,´
-       Según <citebib id="Thayer-BLB"/> la definición Strong
-       de la palabra hebrea חֹשֶׁךְ (kho-shek') es darkness
-       que en español suele traducirse como oscuridad.</rf>
-     </rb>
-     ```
-   - **Evidencia**: El detalle completo (definición Strong en inglés, tabla comparativa, Google Translate, justificación) va en `evidenciaAT/{Libro}-{Cap}.md`. Para el hebreo se consulta Strong en [BLB](https://www.blueletterbible.org).
-
-3. **Números Strong, morfología y posiciones**: Se obtienen del **Westminster Leningrad Codex (WLC)** a través de `ref/openscriptures_morphhb/wlc/` (OpenScriptures MorphHB). Cada palabra hebrea en el manuscrito tiene una posición secuencial dentro del verso que se usa como referencia. La morfología (formato THxxxx) se toma del KJV (`ref/sword_kjv/KJV-2023-01-06.osis.xml`).
-
-   **Asignación de posiciones:** El segundo valor del atributo `value` (ej. `H01254,2,TH8804`) indica la posición de la palabra en el **texto hebreo (WLC)**, no en la traducción española. Los elementos `<wi>` en el GBFXML se ordenan según el español para que la lectura sea natural, pero los números de posición reflejan el orden del manuscrito. Ejemplo (Gén 1:1):
-   ```xml
-   <wi type="H" value="H07225,1,">En el principio</wi>
-   <wi type="H" value="H0430,3,">Dios</wi>
-   <wi type="H" value="H01254,2,TH8804,">creó</wi>
-   <wi type="H" value="H08064,5,"><wi type="H" value="H0853,4,">los cielos</wi></wi>
-   ```
-   La posición 2 (H01254, _creó_) precede a la 3 (H0430, _Dios_) en hebreo, aunque en español aparezca invertido.
-
-   **Anidamiento:** Cuando dos palabras hebreas se traducen juntas en español, se anidan con sus respectivas posiciones:
-   ```xml
-   <wi type="H" value="H08064,5,"><wi type="H" value="H0853,4,">los cielos</wi></wi>
-   ```
-   La morfología solo se asigna al Strong principal (el verbo), no a partículas (H0853, H0996).
-
-4. **Comparación con RV1960**: Se verifica contra la Reina-Valera 1960 consultada en [BibleGateway](https://www.biblegateway.com).
+Cada versículo se traduce siguiendo el flujo detallado en la sección 6 (Ritmo de Trabajo).
 
 ---
 
@@ -109,40 +73,101 @@ Al iniciar la traducción del AT, se aplicará el rigor técnico documentado en 
 ## 6. Ritmo de Trabajo
 
 *   **Meta diaria:** 1 capítulo por día, en orden desde **Génesis** en adelante.
-*   **Flujo por versículo:**
-    1.  El agente agrega el versículo al archivo de evidencias en 
-        `evidenciaAT/{Libro}-{Cap}.md` siguiendo el formato de 
-        `evidenciaAT/Genesis-1.md`. Cada versículo incluye la información
-        de cada uno de los pasos siguientes
-    2.  **WEB Literal:** El agente IA propone una traducción literal al 
-        español del versículo a partir del texto inglés WEB, manteniendo 
-        la puntuación, sentido y las palabras más usadas actualmente en español.
-    3. **KJV2003:** El agente extrae el versículo de **KJV2003** 
-       `ref/sword_kjv/KJV-2023-01-06.osis.xml` junto con el marcado Strong 
-       y la morfología que allí aparece. Usa esta información para proponer
-       un marcado Strong inicial para la traducción. Si se nota la necesidad
-       de modificar la traducción se hace justificando.
-    4. **Hebreo WLC con Strong y morfología:** El agente extrae el 
-       versículo de WLC en Hebreo con marcado Strong, morfología y 
-       posición de cada palabra en Hebreo de `ref/openscriptures_morphhb/wlc/`.
-       Usa esta información para asignar posiciones a cada strong propuesto
-       y mejorar la morfologia. Si se la necesidad de mejorar la traducción
-       para que sea semánticamente más equivalente al hebreo se hace y se
-       justifica.
-    5. **RV1960:** El agente extrae el versículo de RV1960 consultando 
-       [BibleGateway](https://www.biblegateway.com).  El agente compara
-       la traducción con esta, si se ve la necesidad de mejorar la traducción
-       se hace y se justifica.
-    6. En libros/{libro}.gbfxml el agente modifica el versículo agregando 
-       el marcado GBFXML con la traducción con la respectiva concordancia 
-       Strong, posición y morfología por palabra.  Si hay palabras, frases o 
-       secciones con variaciones importantes se agrega una nota al pie 
-       resumiendo como fue la traducción en cada versión consultada, los
-       terminos hebreos involucrados, su significado Strong obtenido de
-       [BLB](https://www.blueletterbible.org) y la justificación de la elección.
-    7. El usuario revisa y aprueba/corrige el versículo traducido revisando
-        de manera simultanea la traducción resultante en libros/{libro}.gbfxml
-        y evidenciaAT/{libro}-{capitulo}.md.
+*   **Flujo por versículo:** Se procesa cada versículo siguiendo estos pasos. La
+    evidencia de cada paso se registra en `evidenciaAT/{Libro}-{Cap}.md`.
+    Ver `evidenciaAT/Genesis-1.md` como ejemplo completo.
+
+### Formato del archivo de evidencia
+
+Cada versículo se documenta con los siguientes pasos como encabezados:
+
+    ### Paso 2: WEB Literal
+
+    **WEB:** {texto inglés de WEB}
+
+    **Traducción literal WEB:** {traducción palabra por palabra al español}
+
+    ### Paso 3: KJV2003 — Strong inicial
+
+    **KJV2003:** {texto inglés de KJV2003}
+
+    **Strong KJV2003:**
+    ```
+    {H07225  H0430  ...}
+    ```
+
+    *Justificación: {explicación si hay ajuste respecto a WEB}*
+
+    ### Paso 4: Hebreo WLC — Posiciones y morfología
+
+    **Hebreo WLC con Strong:**
+    {palabra hebrea (H0XXXX, posN)  ... varias en cada línea}
+
+    *Justificación: {explicación si hay ajuste por orden VSO vs SVO,
+     vav consecutivo u otra diferencia}*
+
+    ### Paso 5: RV1960 — Comparación
+
+    **RV1960:** {texto de RV1960 desde BibleGateway}
+
+    *Justificación: {explicación si hay ajuste respecto a WEB/WLC}*
+
+    ### Paso 6: Traducción final (SpaTDP)
+
+    **SpaTDP:** {traducción final al español}
+
+    ### Paso 7: Validación
+
+    ```
+    $ node herram/validador.mjs {libro} {capitulo} {versiculo}
+    0 discrepancias. Versículo válido.
+    ```
+
+    **Verificación:** ✓ {resumen de verificación}
+
+### Reglas por paso
+
+**Paso 2 — WEB Literal:**
+- Traducir palabra por palabra desde el inglés de la WEB.
+- Mantener puntuación, sentido y vocabulario moderno.
+- No ajustar aún por hebreo — eso ocurre en pasos siguientes.
+
+**Paso 3 — KJV2003:**
+- Extraer el versículo de `ref/sword_kjv/KJV-2023-01-06.osis.xml`.
+- Listar los Strong sin posiciones (solo el número y morfología THxxxx si aplica).
+- Si KJV difiere de WEB en vocabulario, decidir si amerita ajuste y justificarlo.
+
+**Paso 4 — Hebreo WLC:**
+- Extraer el versículo de `ref/openscriptures_morphhb/wlc/{WLCcode}.xml`.
+- Mostrar cada palabra hebrea seguida de su Strong, posición y morfología
+  entre paréntesis, todo en la misma línea. Varias palabras por línea.
+  Formato: `בְּרֵאשִׁית (H07225, pos1)  בָּרָא (H01254, pos2, TH8804)`
+- Asignar posiciones según el orden secuencial de palabras en el WLC (1-based).
+- La morfología (THxxxx) se toma del KJV2003.
+- Si el orden hebreo (VSO) difiere del español (SVO), justificar la elección.
+- Si hay vav consecutivo u otra partícula que afecte la traducción,
+  documentarlo.
+
+**Paso 5 — RV1960:**
+- Consultar el versículo en [BibleGateway](https://www.biblegateway.com).
+- Si RV1960 sugiere un mejor término o construcción, ajustar y justificar.
+
+**Paso 6 — GBFXML (`libros/{libro}.gbfxml`):**
+- El marcado GBFXML sigue el orden de la traducción española, no el hebreo.
+- Las posiciones en `value="H0XXXX,pos,"` reflejan el orden del WLC.
+- Anidar `<wi>` cuando dos palabras hebreas se traducen juntas en español:
+  ```xml
+  <wi type="H" value="H08064,5,"><wi type="H" value="H0853,4,">los cielos</wi></wi>
+  ```
+- Agregar nota `<rf>` solo cuando haya variaciones significativas entre
+  versiones (vocabulario, no orden de palabras).
+
+**Paso 7 — Validación:**
+- Ejecutar `node herram/validador.mjs {libro} {capitulo} {versiculo}`.
+- Si hay discrepancia por error real en el GBFXML, corregirla.
+- Si la discrepancia es una variante textual válida (fidelidad al TR/WLC),
+  reportarla al usuario como posible excepción.
+- Solo avanzar al paso 8 cuando el validador reporte 0 discrepancias.
 
 ---
 
