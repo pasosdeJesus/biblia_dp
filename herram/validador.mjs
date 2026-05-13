@@ -6,31 +6,33 @@ import { fileURLToPath } from 'url';
 import path from 'path';
 import { parseSpaTdp } from './lib/parsers/spatdp-parser.js';
 import { parseKjv2003 } from './lib/parsers/kjv2003-parser.js';
+import { parseWlc } from './lib/parsers/wlc-parser.js';
 import { analyzeChapterConcordance, sortStrongs } from './lib/validators/concordance.js';
 import { loadExceptions } from './lib/exceptions.js';
-import { BOOK_MAP, KJV2003_PATH_TEMPLATE } from './lib/config.js'
+import { BOOK_MAP, KJV2003_PATH_TEMPLATE, WLC_PATH_TEMPLATE } from './lib/config.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-// --- Format Validation (mantenido igual) ---
-function validateBookFormat(bookLower) {
-  const bookFilepath = path.join(__dirname, '..', `${bookLower}.gbfxml`);
+// --- Format Validation ---
+function validateBookFormat(bookLower, bookInfo) {
+  const bookFilepath = path.join(__dirname, '..', `libros/${bookLower}.gbfxml`);
   if (!fs.existsSync(bookFilepath)) return;
 
   const content = fs.readFileSync(bookFilepath, 'utf-8');
   const lines = content.split('\n');
   let hasIssues = false;
 
-  console.log(`\n--- Validación de Formato: ${BOOK_MAP[bookLower]?.display || bookLower} ---`);
+  console.log(`\n--- Validación de Formato: ${bookInfo.display} ---`);
 
+  const strongType = bookInfo.strongType || 'G';
   const issues = {
     "Espacios horizontales que posiblemente deben omitirse": /<t xml:lang="es">[^/]*\/>[ ]*$/,
     "Espacios horizontales que posiblemente deben añadirse": /<wi[^/]*\/><wi[^/]*\/>/,
     "Marcado errado (wi pegado a wi)": /\/wi><wi/,
-    "Marcado errado (type=\"G\" value=\"[0-9]*\")": /type=\"G\" value=\"[0-9]*\"/,
+    "Marcado errado (type=\"G\" value=\"[0-9]*\")": new RegExp(`type="${strongType}" value="[0-9]*"`),
     "Apostrofes por cambiar por ´": /\`[^\´']*\'/,
     "Signos de puntuación fuera de \` \´": /\´[\.,]/,
-    "Marcación Strong errada": /wi type=\"G[^C]"/,
+    "Marcación Strong errada": new RegExp(`wi type="${strongType}[^C]"`),
     "Errores comunes (i<w)": /i<w/
   };
 
@@ -49,40 +51,73 @@ function validateBookFormat(bookLower) {
 }
 
 // --- Concordance Analysis ---
-async function analyzeBookConcordance(bookLower) {
+async function analyzeBookConcordance(bookLower, targetChapter, targetVerse) {
   const bookInfo = BOOK_MAP[bookLower];
   if (!bookInfo) {
     console.log(`Libro desconocido: ${bookLower}`);
     return { totalMismatches: 0, totalUntranslated: 0, totalExceptions: 0 };
   }
 
+  const strongType = bookInfo.strongType || 'G';
+  const isOT = strongType === 'H';
+
   console.log(`\n\n--- Analizando Concordancia: ${bookInfo.display} ---`);
   console.log("=".repeat(60));
 
-  const spatdpFilepath = path.join(__dirname, '..', `${bookLower}.gbfxml`);
+  const spatdpFilepath = path.join(__dirname, '..', `libros/${bookLower}.gbfxml`);
   if (!fs.existsSync(spatdpFilepath)) {
     console.log(`Archivo no encontrado: ${spatdpFilepath}`);
     return { totalMismatches: 0, totalUntranslated: 0, totalExceptions: 0 };
   }
 
-  const spatdpBookData = parseSpaTdp(spatdpFilepath);
+  const spatdpBookData = parseSpaTdp(spatdpFilepath, strongType);
   let totalMismatches = 0;
   let totalUntranslated = 0;
   let totalExceptions = 0;
 
-  const chapters = Array.from(spatdpBookData.keys()).sort((a, b) => a - b);
+  let chapters;
+  if (targetChapter) {
+    chapters = [targetChapter];
+  } else {
+    chapters = Array.from(spatdpBookData.keys()).sort((a, b) => a - b);
+  }
   
   for (const chapter of chapters) {
-    const chapterPadded = String(chapter).padStart(2, '0');
-    const kjvFilepath = KJV2003_PATH_TEMPLATE
-      .replace('{book_kjv2003}', bookInfo.kjv2003)
-      .replace('{chapter_padded}', chapterPadded);
-    
-    if (!fs.existsSync(kjvFilepath)) continue;
-    
-    const kjvData = parseKjv2003(kjvFilepath);
-    const chapterResults = analyzeChapterConcordance(spatdpBookData, kjvData, bookLower, chapter);
-    
+    let referenceData;
+
+    if (isOT) {
+      // AT: usar WLC como referencia
+      const wlcFilepath = path.join(__dirname, '..', WLC_PATH_TEMPLATE.replace('{wlc_code}', bookInfo.wlc));
+      if (!fs.existsSync(wlcFilepath)) {
+        console.log(`  Capítulo ${chapter}: archivo WLC no encontrado: ${wlcFilepath}`);
+        continue;
+      }
+      referenceData = parseWlc(wlcFilepath);
+      // parseWlc devuelve Map<capítulo, Map<versículo, Set>>, extraer el capítulo
+      referenceData = referenceData.get(chapter) || new Map();
+    } else {
+      // NT: usar KJV2003 como referencia
+      const chapterPadded = String(chapter).padStart(2, '0');
+      const kjvFilepath = path.join(__dirname, '..', KJV2003_PATH_TEMPLATE
+        .replace('{book_kjv2003}', bookInfo.kjv2003)
+        .replace('{chapter_padded}', chapterPadded));
+      
+      if (!fs.existsSync(kjvFilepath)) {
+        console.log(`  Capítulo ${chapter}: archivo KJV2003 no encontrado: ${kjvFilepath}`);
+        continue;
+      }
+      referenceData = parseKjv2003(kjvFilepath);
+    }
+
+    const chapterResults = analyzeChapterConcordance(spatdpBookData, referenceData, bookLower, chapter);
+
+    // Si hay versículo específico, filtrar resultados
+    if (targetVerse) {
+      chapterResults.mismatches = chapterResults.mismatches.filter(m => m.verse === targetVerse);
+      chapterResults.untranslated = chapterResults.untranslated.filter(v => v === targetVerse);
+      chapterResults.exceptions = chapterResults.exceptions.filter(e => e.verse === targetVerse);
+    }
+
     totalMismatches += chapterResults.mismatches.length;
     totalUntranslated += chapterResults.untranslated.length;
     totalExceptions += chapterResults.exceptions.length;
@@ -115,7 +150,8 @@ async function analyzeBookConcordance(bookLower) {
           parts.push(`Faltan en SpaTDP: [${sortStrongs(mismatch.missingInSpatdp).join(', ')}]`);
         }
         if (mismatch.missingInKjv2003.length > 0) {
-          parts.push(`Faltan en KJV2003: [${sortStrongs(mismatch.missingInKjv2003).join(', ')}]`);
+          const refLabel = isOT ? 'WLC' : 'KJV2003';
+          parts.push(`Faltan en ${refLabel}: [${sortStrongs(mismatch.missingInKjv2003).join(', ')}]`);
         }
         console.log(`    Resultado: ${parts.join('; ')}`);
       }
@@ -142,31 +178,58 @@ async function main() {
   const validationMode = validationModeArg ? validationModeArg.split('=')[1] : 'concordancia';
   
   const booksToValidate = args.filter(arg => !arg.startsWith('--'));
-  const targetBooks = booksToValidate.length > 0 ? booksToValidate : Object.keys(BOOK_MAP);
   
+  // Parsear libro, capítulo y versículo opcionales
+  let targetBook = null;
+  let targetChapter = null;
+  let targetVerse = null;
+
+  if (booksToValidate.length >= 1) {
+    targetBook = booksToValidate[0].toLowerCase();
+  }
+  if (booksToValidate.length >= 2) {
+    targetChapter = parseInt(booksToValidate[1], 10);
+  }
+  if (booksToValidate.length >= 3) {
+    targetVerse = parseInt(booksToValidate[2], 10);
+  }
+
   // Cargar excepciones al inicio
   loadExceptions();
-  
+
   if (validationMode === 'formato' || validationMode === 'todo') {
-    for (const book of targetBooks) {
-      validateBookFormat(book);
+    const booksToProcess = targetBook ? [targetBook] : Object.keys(BOOK_MAP);
+    for (const book of booksToProcess) {
+      const bookInfo = BOOK_MAP[book];
+      if (bookInfo) validateBookFormat(book, bookInfo);
     }
   }
   
   if (validationMode === 'concordancia' || validationMode === 'todo') {
-    console.log("\n\nIniciando análisis de concordancia del Nuevo Testamento...");
+    const scope = targetChapter ? (targetVerse ? `${targetBook} ${targetChapter}:${targetVerse}` : `${targetBook} cap. ${targetChapter}`) : (targetBook || 'todos los libros');
+    const testam = targetBook && BOOK_MAP[targetBook]?.strongType === 'H' ? 'Antiguo Testamento' : 'Nuevo Testamento';
+    console.log(`\n\nIniciando análisis de concordancia del ${testam}: ${scope}...`);
+    console.log("=".repeat(60));
+    
     let grandTotalMismatches = 0;
     let grandTotalUntranslated = 0;
     let grandTotalExceptions = 0;
     const booksWithIssues = new Set();
     
-    for (const book of targetBooks) {
-      const { totalMismatches, totalUntranslated, totalExceptions } = await analyzeBookConcordance(book);
+    const booksToProcess = targetBook ? [targetBook] : Object.keys(BOOK_MAP);
+    
+    for (const book of booksToProcess) {
+      const bookInfo = BOOK_MAP[book];
+      if (!bookInfo) {
+        console.log(`\nLibro desconocido: ${book}`);
+        continue;
+      }
+      const { totalMismatches, totalUntranslated, totalExceptions } = await analyzeBookConcordance(book, targetChapter, targetVerse);
       if (totalMismatches > 0 || totalUntranslated > 0 || totalExceptions > 0) {
         grandTotalMismatches += totalMismatches;
         grandTotalUntranslated += totalUntranslated;
         grandTotalExceptions += totalExceptions;
-        booksWithIssues.add(BOOK_MAP[book]?.display || book);
+        booksWithIssues.add(bookInfo.display);
       }
     }
     

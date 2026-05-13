@@ -4,9 +4,10 @@ import fs from 'fs';
 /**
  * Parsea un archivo GBF de SpaTDP
  * @param {string} filepath - Ruta al archivo .gbfxml
+ * @param {string} strongType - Tipo de Strong: 'G' (NT) o 'H' (AT, por defecto 'G')
  * @returns {Map} Map<capítulo, Map<versículo, Set<strong-position>>>
  */
-export function parseSpaTdp(filepath) {
+export function parseSpaTdp(filepath, strongType = 'G') {
   const bookData = new Map();
   
   try {
@@ -47,9 +48,10 @@ export function parseSpaTdp(filepath) {
 
       for (const wiTag of wiTags) {
         const normalizedTag = wiTag.replace(/\n?\n|\n/g, ' ').replace(/\s{2,}/g, ' ');
-        const valueMatch = normalizedTag.match(/value="(\d+),(\d+),/);
+        const valueMatch = normalizedTag.match(new RegExp(`value="${strongType}(\\d+),(\\d+),`));
         if (valueMatch) {
-          strongs.add(`G${valueMatch[1]}-${parseInt(valueMatch[2], 10)}`);
+          const rawNum = parseInt(valueMatch[1], 10);
+          strongs.add(`${strongType}${rawNum}-${parseInt(valueMatch[2], 10)}`);
         }
       }
       chapterContent.strongsData.set(verseNum, strongs);
