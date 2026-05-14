@@ -1114,20 +1114,54 @@ los <wi type="G" value="1544,17,">envió</wi> por
 <wi type="G" value="3598,16,">camino</wi>?
 </t>
 </sv>
+
 <sv id="Santiago-2-26">
 For as the body
 apart from the spirit is dead, even so faith apart from works is dead.
-
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="5618,1,">así como</wi>
+<wi type="G" value="3588,3,">el</wi>
+<wi type="G" value="4983,4,">cuerpo</wi>
+<wi type="G" value="5565,5,">separado</wi>
+<wi type="G" value="4151,6,">del espíritu</wi>
+<wi type="G" value="2076,8,">está</wi>
+<wi type="G" value="3498,7,">muerto</wi>,
+<wi type="G" value="3779,9,">así</wi>
+<wi type="G" value="2532,10,">también</wi>
+<wi type="G" value="3588,11,">la</wi>
+<wi type="G" value="4102,12,">fe</wi>
+<wi type="G" value="5565,13,">separada</wi>
+<wi type="G" value="3588,14,">de las</wi>
+<wi type="G" value="2041,15,">obras</wi>
+<wi type="G" value="2076,17,">está</wi>
+<wi type="G" value="3498,16,">muerta</wi>.
+</t>
 <cl/>
-
-
 </sv></cm></sc>
+
 <sc id="Santiago-3">
 <cm>
 <sv id="Santiago-3-1">
 Let not many of you be teachers, my brothers, knowing that we will
 receive heavier judgment.
+<t xml:lang="es">Que <wi type="G" value="3361,1,">no</wi>
+<wi type="G" value="4183,2,">muchos</wi> 
+<wi type="G" value="1096,4,">sean</wi>
+<wi type="G" value="1320,3,">maestros</wi>,
+<wi type="G" value="3450,6,">mis</wi>
+<wi type="G" value="80,5,">hermanos</wi>,
+<wi type="G" value="1492,7,">sabiendo</wi>
+<wi type="G" value="3754,8,">que</wi>
+<wi type="G" value="2983,11,">recibiremos</wi> </t>
+<rb xml:lang="es"><wi type="G" value="2917,10,">un juicio</wi><rf>
+<citebib id="WEB"/> dice `juicio,´
+<citebib id="RVG2012"/> dice `condenación.´
+Según <citebib id="Thayer-BLB"/> la palabra griega κριμα se define
+como una decisión, conenación, juicio.</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3173,9,">mayor</wi>.</t>
 </sv>
+
 <sv id="Santiago-3-2">
 For in many things we all stumble. If anyone
 doesn´t stumble in word, the same is a perfect man, able to bridle the whole
