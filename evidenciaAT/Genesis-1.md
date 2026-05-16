@@ -87,7 +87,7 @@ H05921  H06440  H04325
 
 **RV1960:** Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas.
 
-*Justificación: Se elige "oscuridad" para H02822 (חֹשֶׁךְ) por ser la traducción más común de "darkness" en español moderno, en lugar de "tinieblas" de RV1960.*
+*Justificación: Se elige "oscuridad" para H02822 (חֹשֶׁךְ) por ser la traducción más común de "darkness" en español moderno. Se elige "profundidad" para H08415 (תְּהוֹם, teh-home') en lugar de "abismo" de RV1960. Según la definición Strong ([BLB H8415](https://www.blueletterbible.org/lexicon/h8415/kjv/wlc/0-1/)), תְּהוֹם significa "an abyss (as a surging mass of water), especially the deep (the main sea or the subterranean water supply)". El KJV lo traduce "deep" (20×) y "depth" (15×). En Génesis 1:2, BDB lo clasifica como el "océano primordial" de la cosmogonía hebrea — el mar profundo antes de ser ordenado. En español moderno, "profundidad" es más usado que "abismo" para "deep/depth" y no arrastra la connotación de "abyss/pit" que "abismo" sí tiene.*
 
 ### Paso 6: Traducción final (SpaTDP)
 
