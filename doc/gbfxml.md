@@ -31,7 +31,7 @@ El elemento `<t>` permite incluir traducciones paralelas.
 
 Es el elemento más crítico para la concordancia.
 *   **Atributos:**
-    *   `type`: `G` (Griego), `H` (Hebreo), `GC` (Continuación).
+    *   `type`: `G` (Griego), `H` (Hebreo), `GC` (Continuación de Griego), `HC` (Continuación de Hebreo).
     *   `value`: Formato `Strong,Posicion[,Morfologia[,Lema[,FormaInflectada]]]`.
     *   `sacred`: Valor `yes`. Se utiliza exclusivamente para la **Invocación Sagrada**.
 
@@ -44,7 +44,12 @@ Es el elemento más crítico para la concordancia.
 
     *   **Palabras Vacías:** Para marcar artículos o partículas del original que no se traducen explícitamente pero deben estar en la concordancia:
         `<wi type="G" value="3588,4,"/>`
-    *   **Continuación (`GC`):** Se usa para ligar una palabra española a una posición previa del original (ej: disyunciones o verbos compuestos).
+    *   **Continuación (`GC` / `HC`):** Cuando una palabra del original se divide en varias palabras españolas, la primera lleva `type="G"` o `type="H"` con el Strong completo, y las siguientes llevan `type="GC"` o `type="HC"` con solo la posición. Ejemplo NT (Griego): `vamos`  → `type="GC" value="5"` para continuar G71 en posición 5. Ejemplo AT (Hebreo, Gén 1:4): `Y` (vav prefijo) + `separó` (verbo) vienen de una sola palabra hebrea (וַיַּבְדֵּל, H0914):
+    ```xml
+    <wi type="H" value="H0914,7,TH8686">Y</wi>
+    <wi type="H" value="H0430,8,">Dios</wi>
+    <wi type="HC" value="7">separó</wi>
+    ```
 
 ---
 

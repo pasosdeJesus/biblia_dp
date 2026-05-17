@@ -40,15 +40,16 @@ God said, "Let there be light," and there was light.
 </sv>
 <sv id="Genesis-1-4">
 God saw the light, and saw that it was good. God divided the light from the darkness.
-<t xml:lang="es"><wi type="H" value="H0430,8,">Dios</wi>
+<t xml:lang="es"><wi type="H" value="H0430,2,">Dios</wi>
 <wi type="H" value="H07200,1,TH8799,">vio</wi>
-<wi type="H" value="H0216,10,">la luz</wi>,
+<wi type="H" value="H0853,3,"/><wi type="H" value="H0216,4,">la luz</wi>,
 <wi type="H" value="H03588,5,">y vio</wi>
 <wi type="H" value="H02896,6,">que era buena</wi>.
-<wi type="H" value="H0430,2,">Dios</wi>
-<wi type="H" value="H0996,11,"/><wi type="H" value="H0914,7,TH8686">Y separó</wi>
-<wi type="H" value="H0216,4,">la luz</wi>
-<wi type="H" value="H0996,9,">de</wi>
+<wi type="H" value="H0914,7,TH8686">Y</wi>
+<wi type="H" value="H0430,8,">Dios</wi>
+<wi type="HC" value="7">separó</wi>
+<wi type="H" value="H0996,9,"/><wi type="H" value="H0216,10,">la luz</wi>
+<wi type="H" value="H0996,11,">de</wi>
 <wi type="H" value="H02822,12,">la oscuridad</wi>.</t>
 </sv>
 <sv id="Genesis-1-5">

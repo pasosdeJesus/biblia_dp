@@ -55,7 +55,18 @@ Al iniciar la traducción del AT, se aplicará el rigor técnico documentado en 
 
 *   **Tipificación de Strong:** Se utilizará `type="H"` para todos los números Strong correspondientes al hebreo y arameo.
 *   **Posiciones según el WLC:** El segundo valor del atributo `value` (ej. `H07225,1,`) corresponde a la posición secuencial de la palabra en el **Westminster Leningrad Codex** dentro del verso. Para determinar la posición se usa `ref/openscriptures_morphhb/wlc/{Libro}.xml`: cada `<w>` del WLC equivale a una posición, contando desde 1 por verso. Los `<wi>` en el GBFXML pueden aparecer en distinto orden al hebreo (siguen la sintaxis española), pero la numeración siempre refleja el manuscrito.
-*   **Anidamiento y Continuación:** Se aplicarán patrones de `wi` anidados y `GC` para reflejar con exactitud la estructura del texto masorético en la traducción española.
+*   **Anidamiento y Continuación:** Se aplicarán patrones de `wi` anidados y `type="HC"` para reflejar con exactitud la estructura del texto masorético en la traducción española.
+*   **Continuación (`type="HC"`):** Cuando una palabra hebrea se divide en varias palabras españolas, la primera lleva `type="H"` con el Strong y la posición, y las siguientes llevan `type="HC"` con solo la posición. Ejemplo (Gén 1:4 — וַיַּבְדֵּל, H0914):
+    ```xml
+    <wi type="H" value="H0914,7,TH8686">Y</wi>
+    <wi type="H" value="H0430,8,">Dios</wi>
+    <wi type="HC" value="7">separó</wi>
+    ```
+    La "Y" y "separó" comparten la posición 7 (misma palabra hebrea).
+*   **Partículas sin traducción:** Cuando una palabra hebrea no tiene equivalente directo en español (ej. H0853 אֶת, partícula de objeto directo), se agrega como `<wi>` vacío en la posición que ocupa en el WLC:
+    ```xml
+    <wi type="H" value="H0853,3,"/><wi type="H" value="H0216,4,">la luz</wi>
+    ```
 *   **Atributo sacred="yes":** Para marcar invocaciones a Dios.
 
 ---
@@ -91,10 +102,8 @@ Cada versículo se documenta con los siguientes pasos como encabezados:
 
     **KJV2003:** {texto inglés de KJV2003}
 
-    **Strong KJV2003:**
-    ```
-    {H07225  H0430  ...}
-    ```
+    **KJV2003 con Strong:**
+    {texto inglés con (H0XXXX) o (H0XXXX,THxxxx) después de cada palabra o frase}
 
     *Justificación: {explicación si hay ajuste respecto a WEB}*
 
@@ -134,7 +143,9 @@ Cada versículo se documenta con los siguientes pasos como encabezados:
 
 **Paso 3 — KJV2003:**
 - Extraer el versículo de `ref/sword_kjv/KJV-2023-01-06.osis.xml`.
-- Listar los Strong sin posiciones (solo el número y morfología THxxxx si aplica).
+- Presentar el texto inglés con cada palabra o frase seguida de su Strong
+  entre paréntesis: `And God (H0430) called (H07121,TH8804) the light (H0216)...`
+- La morfología THxxxx se incluye después del número Strong cuando aparece.
 - Si KJV difiere de WEB en vocabulario, decidir si amerita ajuste y justificarlo.
 
 **Paso 4 — Hebreo WLC:**

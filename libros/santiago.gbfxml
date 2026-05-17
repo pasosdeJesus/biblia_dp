@@ -1236,11 +1236,34 @@ small rudder, wherever the pilot desires.
 <wi type="G" value="2116,21,">piloto</wi>
 <wi type="G" value="1014,22,">determine</wi>.</t>
 </sv>
+
 <sv id="Santiago-3-5">
 So the tongue is also a little
 member, and boasts great things. See how a small fire can spread to a large
 forest!
+<t xml:lang="es"><wi type="G" value="3779,1,">Así</wi>
+<wi type="G" value="2532,2,">también</wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="1100,4,">lengua</wi>
+<wi type="G" value="2076,7,">es</wi>
+<wi type="G" value="3398,5,">un pequeño</wi>
+<wi type="G" value="3196,6,">miembro</wi>,
+<wi type="G" value="2532,8,">pero</wi>
+<wi type="G" value="3166,9,">presume de grandes cosas</wi>.
+¡<wi type="G" value="2400,10,">Miren como</wi>
+<wi type="G" value="3641,11,">un pequeño</wi>
+<wi type="G" value="4442,12,">fuego</wi>
+<wi type="G" value="381,15,">puede encender</wi>
+<wi type="G" value="2245,13,">un gran</wi> </t>
+<rb xml:lang="es"><wi type="G" value="5208,14,">bosque</wi><rf>
+<citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `bosque,´
+<citebib id="KJV2003"/> dice `asunto.´
+Según <citebib id="Thayer-BLB"/> la palabra griega υλην se traduce
+como bosque, madera, combustible.
+</rf></rb>
+<t xml:lang="es">!</t>
 </sv>
+
 <sv id="Santiago-3-6">
 And the tongue is a fire. The world of iniquity among our
 members is the tongue, which defiles the whole body, and sets on fire the
