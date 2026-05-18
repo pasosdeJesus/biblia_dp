@@ -1268,13 +1268,44 @@ como bosque, madera, combustible.
 And the tongue is a fire. The world of iniquity among our
 members is the tongue, which defiles the whole body, and sets on fire the
 course of nature, and is set on fire by
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3588,2,">la</wi>
+<wi type="G" value="1100,3,">lengua</wi> es
+<wi type="G" value="4442,4,">un fuego</wi>.
+<wi type="G" value="3588,5,">Un</wi>
+<wi type="G" value="2889,6,">mundo</wi>
+<wi type="G" value="3588,7,">de</wi>
+<wi type="G" value="93,8,">iniquidad</wi>;
+<wi type="G" value="3779,9,">así</wi>
+es <wi type="G" value="3588,10,">la</wi>
+<wi type="G" value="1100,11,">lengua</wi>
+<wi type="G" value="1722,13,">entre</wi>
+<wi type="G" value="2257,16,">nuestros</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="3196,15,">miembros</wi>;
+<wi type="G" value="2525,12,"/><wi type="G" value="3588,17,">que</wi>
+<wi type="G" value="4695,18,">puede ensuciar</wi>
+<wi type="G" value="3588,20,">el</wi>
+<wi type="G" value="4983,21,">cuerpo</wi>
+<wi type="G" value="3650,19,">entero</wi>,
+<wi type="G" value="2532,22,">e</wi>
+<wi type="G" value="5394,23,">incendiar</wi>
+<wi type="G" value="3588,24,">el</wi>
+<wi type="G" value="5164,25,">curso</wi>
+<wi type="G" value="3588,26,">de la</wi>
+<wi type="G" value="1078,27,">naturaleza</wi>,
+<wi type="G" value="2532,28,">y</wi>
+<wi type="G" value="5394,29,">es encendida</wi>
+<wi type="G" value="5259,30,">por</wi>
+</t>
 <rb>Gehenna.
-<t xml:lang="es"/><rf>Gehenna is a name
+<t xml:lang="es"><wi type="G" value="3588,31,">la</wi>
+<wi type="G" value="1067,32,">Gehena</wi></t><rf>Gehenna is a name
 that describes a burning Hell with rotting bodies and unclean things in
-it<t xml:lang="es"/></rf>
+it<t xml:lang="es">Gehena es un nombre que describe un infierno
+ardiente con cuerpos en descomposición y cosas impuras.</t></rf>
 </rb>
-
 </sv>
+
 <sv id="Santiago-3-7">
 For every kind of animal, bird, creeping thing, and thing in the
 sea, is tamed, and has been tamed by mankind.
