@@ -166,12 +166,18 @@ Cada versículo se documenta con los siguientes pasos como encabezados:
 **Paso 6 — GBFXML (`libros/{libro}.gbfxml`):**
 - El marcado GBFXML sigue el orden de la traducción española, no el hebreo.
 - Las posiciones en `value="H0XXXX,pos,"` reflejan el orden del WLC.
-- Anidar `<wi>` cuando dos palabras hebreas se traducen juntas en español:
-  ```xml
-  <wi type="H" value="H08064,5,"><wi type="H" value="H0853,4,">los cielos</wi></wi>
-  ```
+- Anidar `<wi>` cuando dos palabras hebreas se traducen juntas en español.
+- Agregar `<wi>` vacíos para partículas hebreas sin equivalente español
+  (ej. H0853 אֶת, H0996 בֵּין cuando no se traduce "entre").
+- **Continuación (`type="HC"`):** Cuando una palabra hebrea se divide en
+  español y otra palabra se **intercala** entre las partes.
+  - La primera parte lleva `type="H"` con Strong, posición y morfología.
+  - La continuación lleva `type="HC"` solo con la posición.
+  - Ejemplo (Gén 1:6): וַיֹּאמֶר → "Y" + "Dios" + "dijo" → HC porque
+    "Dios" intercala entre "Y" y "dijo".
+  - No se usa HC si las partes son consecutivas (ej. "Y fue").
 - Agregar nota `<rf>` solo cuando haya variaciones significativas entre
-  versiones (vocabulario, no orden de palabras).
+  versiones.
 
 **Paso 7 — Validación:**
 - Ejecutar `node herram/validador.mjs {libro} {capitulo} {versiculo}`.
