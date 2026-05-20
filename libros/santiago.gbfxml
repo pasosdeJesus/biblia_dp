@@ -1327,15 +1327,45 @@ por
 <wi type="G" value="3588,17,"/><wi type="G" value="442,18,">humana</wi>.
 </t>
 </sv>
+
 <sv id="Santiago-3-8">
 But nobody can tame the
 tongue. It is a restless evil, full of deadly poison.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi> <wi type="G"
+value="3762,4,"><wi type="G" value="444,6,">nadie</wi></wi>
+<wi type="G" value="1410,5,">puede</wi>
+<wi type="G" value="1150,7,">domar</wi>
+<wi type="G" value="1100,3,">la lengua</wi>. Es
+<wi type="G" value="2556,9,">un mal</wi>
+<wi type="G" value="183,8,">ingobernable</wi>,
+<wi type="G" value="3324,10,">lleno</wi>
+<wi type="G" value="2447,11,">de veneno</wi>
+<wi type="G" value="2287,12,">mortal</wi>.</t>
 </sv>
+
 <sv id="Santiago-3-9">
-With it we bless
-our God and Father, and with it we curse men, who are made in the image of
-God.
+With it we bless our God and Father, and with it we curse men,
+who are made in the image of God.
+<t xml:lang="es"><wi type="G" value="1722,1,">Con</wi>
+<wi type="G" value="846,2,">esta</wi>
+<wi type="G" value="2127,3,">bendecimos</wi>
+<wi type="G" value="3588,4,">al</wi>
+<wi type="G" value="2316,5,">Dios</wi> <wi
+type="G" value="2532,6,">y</wi>
+<wi type="G" value="3962,7,">Padre</wi>,
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="1722,9,">con</wi>
+<wi type="G" value="846,10,">esta</wi>
+<wi type="G" value="2672,11,">maldecimos</wi>
+<wi type="G" value="3588,12,">a los</wi>
+<wi type="G" value="444,13,">hombres</wi>,
+<wi type="G" value="3588,14,">que</wi>
+<wi type="G" value="1096,18,">fueron hechos</wi>
+<wi type="G" value="2596,15,">a</wi>
+<wi type="G" value="3669,16,">la imagen</wi>
+<wi type="G" value="2316,17,">de Dios</wi>.</t>
 </sv>
+
 <sv id="Santiago-3-10">
 Out of the same mouth comes forth blessing and cursing. My
 brothers, these things ought not to be so.
