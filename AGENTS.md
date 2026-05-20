@@ -34,7 +34,6 @@ Jesus is God incarnated, the Truth and the Logos.
 | **[doc/gbfxml.md](doc/gbfxml.md)** | Technical format spec: GBFXML elements (`<sb>`, `<sc>`, `<sv>`, `<t>`, `<wi>`), Strong's numbers, sacred invocation (`sacred="yes"`), textual variants (`<rb><rf>`) |
 | **[doc/REVISION-NT.md](doc/REVISION-NT.md)** | Translation review handoff: progress per book, detailed verification protocol (4-source comparison), Strong position validation, reporting format |
 | **[SACRED.md](SACRED.md)** | Sacred invocation marking (`sacred="yes"`): completed books and pending, extraction commands from OSIS morphology |
-| **[MODERNIZACONF.md](MODERNIZACONF.md)** | `conf.sh` modernization: POSIX migration, hook system, technical corrections |
 | **[doc/FORMATO.md](doc/FORMATO.md)** | Format conversion pipeline: GBF → GBFXML → DocBook → HTML/TeX/PS/PDF |
 | **[doc/NOMBRES.md](doc/NOMBRES.md)** | Name conventions: Yahvé for YHWH, RV1960 standard for other proper names |
 | **[doc/AT.md](doc/AT.md)** | OT translation plan: phases, sources (WEB Classic Yahweh Edition), Strong type H |

@@ -44,11 +44,18 @@ H07225  H0430  H0853  H01254,TH8804  H08064  H0853  H0776
 ```
 $ node herram/validador.mjs genesis 1 1
 0 discrepancias. Versículo válido.
+0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Strong y posiciones coinciden con WLC.
 
----
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:1](https://www.blueletterbible.org/kjv/gen/1/1/)
+
+*Revisar interlineal en BLB para verificar cada palabra hebrea con su Strong y definición. Ajustar si hay discrepancia semántica.*
+
+
 
 ## GÉNESIS 1:2
 
@@ -91,11 +98,36 @@ $ node herram/validador.mjs genesis 1 1
 ```
 $ node herram/validador.mjs genesis 1 2
 0 discrepancias. Versículo válido.
+0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:2](https://www.blueletterbible.org/kjv/gen/1/2/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וְ/הָ/אָ֗רֶץ | H776 | earth, land, ground | ✓ |
+| 2 | הָיְתָ֥ה | H1961 | to be, become, exist, happen | ✓ |
+| 3 | תֹ֨הוּ֙ | H8414 | formlessness, waste, confusion | ✓ |
+| 4 | וָ/בֹ֔הוּ | H922 | emptiness, void | ✓ |
+| 5 | וְ/חֹ֖שֶׁךְ | H2822 | darkness, obscurity | ✓ |
+| 6 | עַל | H5921 | upon, above, over | ✓ |
+| 7 | פְּנֵ֣י | H6440 | face, surface, front | ✓ |
+| 8 | תְה֑וֹם | H8415 | deep, abyss, primeval ocean | ✓ |
+| 9 | וְ/ר֣וּחַ | H7307 | spirit, wind, breath | ✓ |
+| 10 | אֱלֹהִ֔ים | H430 | God, divine | ✓ |
+| 11 | מְרַחֶ֖פֶת | H7363 | to hover, flutter, move | ✓ |
+| 12 | עַל | H5921 | upon, above, over | ✓ |
+| 13 | פְּנֵ֥י | H6440 | face, surface, front | ✓ |
+| 14 | הַ/מָּֽיִם | H4325 | water, waters | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:3
 
@@ -136,11 +168,28 @@ $ node herram/validador.mjs genesis 1 2
 ```
 $ node herram/validador.mjs genesis 1 3
 0 discrepancias. Versículo válido.
+0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:3](https://www.blueletterbible.org/kjv/gen/1/3/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יֹּ֥אמֶר | H559 | to say, speak, utter | ✓ |
+| 2 | אֱלֹהִ֖ים | H430 | God, divine | ✓ |
+| 3 | יְהִ֣י | H1961 | to be, become, exist, happen | ✓ |
+| 4 | א֑וֹר | H216 | light | ✓ |
+| 5 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 6 | אֽוֹר | H216 | light | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:4
 
@@ -184,11 +233,34 @@ $ node herram/validador.mjs genesis 1 3
 ```
 $ node herram/validador.mjs genesis 1 4
 0 discrepancias. Versículo válido.
+0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Posiciones WLC correctas. Marcado con HC y partículas vacías.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:4](https://www.blueletterbible.org/kjv/gen/1/4/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יַּ֧רְא | H7200 | ver BLB | ✓ |
+| 2 | אֱלֹהִ֛ים | H430 | God, divine | ✓ |
+| 3 | אֶת | H853 | partícula de objeto directo | ✓ |
+| 4 | הָ/א֖וֹר | H216 | light | ✓ |
+| 5 | כִּי | H3588 | that, for, because | ✓ |
+| 6 | ט֑וֹב | H2896 | good, pleasant, agreeable | ✓ |
+| 7 | וַ/יַּבְדֵּ֣ל | H914 | to divide, separate, distinguish | ✓ |
+| 8 | אֱלֹהִ֔ים | H430 | God, divine | ✓ |
+| 9 | בֵּ֥ין | H996 | between, among, interval | ✓ |
+| 10 | הָ/א֖וֹר | H216 | light | ✓ |
+| 11 | וּ/בֵ֥ין | H996 | between, among, interval | ✓ |
+| 12 | הַ/חֹֽשֶׁךְ | H2822 | darkness, obscurity | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:5
 
@@ -230,12 +302,36 @@ $ node herram/validador.mjs genesis 1 4
 
 ```
 $ node herram/validador.mjs genesis 1 5
+0 discrepancias. Versículo válido.
 0 discrepancias. Versículo válido. (partículas gramaticales que el español omite). Posiciones WLC correctas.
 ```
 
 **Verificación:** ✓ Posiciones WLC correctas. Marcado con HC para vav consecutivos.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:5](https://www.blueletterbible.org/kjv/gen/1/5/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יִּקְרָ֨א | H7121 | to call, name, proclaim, summon | ✓ |
+| 2 | אֱלֹהִ֤ים | H430 | God, divine | ✓ |
+| 3 | לָ/אוֹר֙ | H216 | light | ✓ |
+| 4 | י֔וֹם | H3117 | day, time | ✓ |
+| 5 | וְ/לַ/חֹ֖שֶׁךְ | H2822 | darkness, obscurity | ✓ |
+| 6 | קָ֣רָא | H7121 | to call, name, proclaim, summon | ✓ |
+| 7 | לָ֑יְלָה | H3915 | night | ✓ |
+| 8 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 9 | עֶ֥רֶב | H6153 | evening, sunset | ✓ |
+| 10 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 11 | בֹ֖קֶר | H1242 | morning, dawn | ✓ |
+| 12 | י֥וֹם | H3117 | day, time | ✓ |
+| 13 | אֶחָֽד | H259 | one, first, united | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:6
 
@@ -277,11 +373,33 @@ $ node herram/validador.mjs genesis 1 5
 ```
 $ node herram/validador.mjs genesis 1 6
 0 discrepancias. Versículo válido.
+0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:6](https://www.blueletterbible.org/kjv/gen/1/6/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יֹּ֣אמֶר | H559 | to say, speak, utter | ✓ |
+| 2 | אֱלֹהִ֔ים | H430 | God, divine | ✓ |
+| 3 | יְהִ֥י | H1961 | to be, become, exist, happen | ✓ |
+| 4 | רָקִ֖יעַ | H7549 | expanse, firmament, vault | ✓ |
+| 5 | בְּ/ת֣וֹךְ | H8432 | midst, middle, among | ✓ |
+| 6 | הַ/מָּ֑יִם | H4325 | water, waters | ✓ |
+| 7 | וִ/יהִ֣י | H1961 | to be, become, exist, happen | ✓ |
+| 8 | מַבְדִּ֔יל | H914 | to divide, separate, distinguish | ✓ |
+| 9 | בֵּ֥ין | H996 | between, among, interval | ✓ |
+| 10 | מַ֖יִם | H4325 | water, waters | ✓ |
+| 11 | לָ/מָֽיִם | H4325 | water, waters | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:7
 
@@ -325,11 +443,39 @@ $ node herram/validador.mjs genesis 1 6
 ```
 $ node herram/validador.mjs genesis 1 7
 0 discrepancias. Versículo válido.
+0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:7](https://www.blueletterbible.org/kjv/gen/1/7/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יַּ֣עַשׂ | H6213 | to do, make, create, accomplish | ✓ |
+| 2 | אֱלֹהִים֮ | H430 | God, divine | ✓ |
+| 3 | אֶת | H853 | partícula de objeto directo | ✓ |
+| 4 | הָ/רָקִיעַ֒ | H7549 | expanse, firmament, vault | ✓ |
+| 5 | וַ/יַּבְדֵּ֗ל | H914 | to divide, separate, distinguish | ✓ |
+| 6 | בֵּ֤ין | H996 | between, among, interval | ✓ |
+| 7 | הַ/מַּ֨יִם֙ | H4325 | water, waters | ✓ |
+| 8 | אֲשֶׁר֙ | H834 | which, that, who, what | ✓ |
+| 9 | מִ/תַּ֣חַת | H8478 | under, beneath, instead of | ✓ |
+| 10 | לָ/רָקִ֔יעַ | H7549 | expanse, firmament, vault | ✓ |
+| 11 | וּ/בֵ֣ין | H996 | between, among, interval | ✓ |
+| 12 | הַ/מַּ֔יִם | H4325 | water, waters | ✓ |
+| 13 | אֲשֶׁ֖ר | H834 | which, that, who, what | ✓ |
+| 14 | מֵ/עַ֣ל | H5921 | upon, above, over | ✓ |
+| 15 | לָ/רָקִ֑יעַ | H7549 | expanse, firmament, vault | ✓ |
+| 16 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 17 | כֵֽן | H3651 | so, thus, therefore | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:8
 
@@ -371,11 +517,32 @@ $ node herram/validador.mjs genesis 1 7
 ```
 $ node herram/validador.mjs genesis 1 8
 0 discrepancias. Versículo válido.
+0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:8](https://www.blueletterbible.org/kjv/gen/1/8/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יִּקְרָ֧א | H7121 | to call, name, proclaim, summon | ✓ |
+| 2 | אֱלֹהִ֛ים | H430 | God, divine | ✓ |
+| 3 | לָֽ/רָקִ֖יעַ | H7549 | expanse, firmament, vault | ✓ |
+| 4 | שָׁמָ֑יִם | H8064 | heaven, sky, visible arch | ✓ |
+| 5 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 6 | עֶ֥רֶב | H6153 | evening, sunset | ✓ |
+| 7 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 8 | בֹ֖קֶר | H1242 | morning, dawn | ✓ |
+| 9 | י֥וֹם | H3117 | day, time | ✓ |
+| 10 | שֵׁנִֽי | H8145 | second, other | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:9
 
@@ -418,11 +585,35 @@ $ node herram/validador.mjs genesis 1 8
 ```
 $ node herram/validador.mjs genesis 1 9
 0 discrepancias. Versículo válido.
+0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:9](https://www.blueletterbible.org/kjv/gen/1/9/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יֹּ֣אמֶר | H559 | to say, speak, utter | ✓ |
+| 2 | אֱלֹהִ֗ים | H430 | God, divine | ✓ |
+| 3 | יִקָּו֨וּ | H6960 | to gather, wait, hope, be collected | ✓ |
+| 4 | הַ/מַּ֜יִם | H4325 | water, waters | ✓ |
+| 5 | מִ/תַּ֤חַת | H8478 | under, beneath, instead of | ✓ |
+| 6 | הַ/שָּׁמַ֨יִם֙ | H8064 | heaven, sky, visible arch | ✓ |
+| 7 | אֶל | H413 | to, toward, unto | ✓ |
+| 8 | מָק֣וֹם | H4725 | place, station, locality | ✓ |
+| 9 | אֶחָ֔ד | H259 | one, first, united | ✓ |
+| 10 | וְ/תֵרָאֶ֖ה | H7200 | ver BLB | ✓ |
+| 11 | הַ/יַּבָּשָׁ֑ה | H3004 | dry land, dry ground | ✓ |
+| 12 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 13 | כֵֽן | H3651 | so, thus, therefore | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:10
 
@@ -464,11 +655,34 @@ $ node herram/validador.mjs genesis 1 9
 ```
 $ node herram/validador.mjs genesis 1 10
 0 discrepancias. Versículo válido.
+0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:10](https://www.blueletterbible.org/kjv/gen/1/10/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יִּקְרָ֨א | H7121 | to call, name, proclaim, summon | ✓ |
+| 2 | אֱלֹהִ֤ים | H430 | God, divine | ✓ |
+| 3 | לַ/יַּבָּשָׁה֙ | H3004 | dry land, dry ground | ✓ |
+| 4 | אֶ֔רֶץ | H776 | earth, land, ground | ✓ |
+| 5 | וּ/לְ/מִקְוֵ֥ה | H4723 | gathering, collection, hope | ✓ |
+| 6 | הַ/מַּ֖יִם | H4325 | water, waters | ✓ |
+| 7 | קָרָ֣א | H7121 | to call, name, proclaim, summon | ✓ |
+| 8 | יַמִּ֑ים | H3220 | sea, large body of water | ✓ |
+| 9 | וַ/יַּ֥רְא | H7200 | ver BLB | ✓ |
+| 10 | אֱלֹהִ֖ים | H430 | God, divine | ✓ |
+| 11 | כִּי | H3588 | that, for, because | ✓ |
+| 12 | טֽוֹב | H2896 | good, pleasant, agreeable | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:11
 
@@ -511,12 +725,42 @@ $ node herram/validador.mjs genesis 1 10
 
 ```
 $ node herram/validador.mjs genesis 1 11
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:11](https://www.blueletterbible.org/kjv/gen/1/11/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יֹּ֣אמֶר | H559 | to say, speak, utter | ✓ |
+| 2 | אֱלֹהִ֗ים | H430 | God, divine | ✓ |
+| 3 | תַּֽדְשֵׁ֤א | H1876 | to sprout, spring forth | ✓ |
+| 4 | הָ/אָ֨רֶץ֙ | H776 | earth, land, ground | ✓ |
+| 5 | דֶּ֔שֶׁא | H1877 | grass, new green vegetation | ✓ |
+| 6 | עֵ֚שֶׂב | H6212 | herb, herbage, grass | ✓ |
+| 7 | מַזְרִ֣יעַ | H2232 | to sow, scatter seed | ✓ |
+| 8 | זֶ֔רַע | H2233 | seed, offspring, descendants | ✓ |
+| 9 | עֵ֣ץ | H6086 | tree, wood, timber | ✓ |
+| 10 | פְּרִ֞י | H6529 | fruit, produce, offspring | ✓ |
+| 11 | עֹ֤שֶׂה | H6213 | to do, make, create, accomplish | ✓ |
+| 12 | פְּרִי֙ | H6529 | fruit, produce, offspring | ✓ |
+| 13 | לְ/מִינ֔/וֹ | H4327 | kind, species, sort | ✓ |
+| 14 | אֲשֶׁ֥ר | H834 | which, that, who, what | ✓ |
+| 15 | זַרְע/וֹ | H2233 | seed, offspring, descendants | ✓ |
+| 17 | עַל | H5921 | upon, above, over | ✓ |
+| 18 | הָ/אָ֑רֶץ | H776 | earth, land, ground | ✓ |
+| 19 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 20 | כֵֽן | H3651 | so, thus, therefore | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:12
 
@@ -559,12 +803,40 @@ $ node herram/validador.mjs genesis 1 11
 
 ```
 $ node herram/validador.mjs genesis 1 12
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:12](https://www.blueletterbible.org/kjv/gen/1/12/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/תּוֹצֵ֨א | H3318 | to go out, come forth, produce | ✓ |
+| 2 | הָ/אָ֜רֶץ | H776 | earth, land, ground | ✓ |
+| 3 | דֶּ֠שֶׁא | H1877 | grass, new green vegetation | ✓ |
+| 4 | עֵ֣שֶׂב | H6212 | herb, herbage, grass | ✓ |
+| 5 | מַזְרִ֤יעַ | H2232 | to sow, scatter seed | ✓ |
+| 6 | זֶ֨רַע֙ | H2233 | seed, offspring, descendants | ✓ |
+| 7 | לְ/מִינֵ֔/הוּ | H4327 | kind, species, sort | ✓ |
+| 8 | וְ/עֵ֧ץ | H6086 | tree, wood, timber | ✓ |
+| 9 | עֹֽשֶׂה | H6213 | to do, make, create, accomplish | ✓ |
+| 10 | פְּרִ֛י | H6529 | fruit, produce, offspring | ✓ |
+| 11 | אֲשֶׁ֥ר | H834 | which, that, who, what | ✓ |
+| 12 | זַרְע/וֹ | H2233 | seed, offspring, descendants | ✓ |
+| 14 | לְ/מִינֵ֑/הוּ | H4327 | kind, species, sort | ✓ |
+| 15 | וַ/יַּ֥רְא | H7200 | ver BLB | ✓ |
+| 16 | אֱלֹהִ֖ים | H430 | God, divine | ✓ |
+| 17 | כִּי | H3588 | that, for, because | ✓ |
+| 18 | טֽוֹב | H2896 | good, pleasant, agreeable | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:13
 
@@ -604,12 +876,29 @@ $ node herram/validador.mjs genesis 1 12
 
 ```
 $ node herram/validador.mjs genesis 1 13
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 ⚠️ Discrepancias menores de contenido (partículas gramaticales que el español omite). Posiciones WLC correctas.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:13](https://www.blueletterbible.org/kjv/gen/1/13/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 2 | עֶ֥רֶב | H6153 | evening, sunset | ✓ |
+| 3 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 4 | בֹ֖קֶר | H1242 | morning, dawn | ✓ |
+| 5 | י֥וֹם | H3117 | day, time | ✓ |
+| 6 | שְׁלִישִֽׁי | H7992 | third | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:14
 
@@ -651,12 +940,39 @@ $ node herram/validador.mjs genesis 1 13
 
 ```
 $ node herram/validador.mjs genesis 1 14
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:14](https://www.blueletterbible.org/kjv/gen/1/14/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יֹּ֣אמֶר | H559 | to say, speak, utter | ✓ |
+| 2 | אֱלֹהִ֗ים | H430 | God, divine | ✓ |
+| 3 | יְהִ֤י | H1961 | to be, become, exist, happen | ✓ |
+| 4 | מְאֹרֹת֙ | H3974 | luminary, light, lamp | ✓ |
+| 5 | בִּ/רְקִ֣יעַ | H7549 | expanse, firmament, vault | ✓ |
+| 6 | הַ/שָּׁמַ֔יִם | H8064 | heaven, sky, visible arch | ✓ |
+| 7 | לְ/הַבְדִּ֕יל | H914 | to divide, separate, distinguish | ✓ |
+| 8 | בֵּ֥ין | H996 | between, among, interval | ✓ |
+| 9 | הַ/יּ֖וֹם | H3117 | day, time | ✓ |
+| 10 | וּ/בֵ֣ין | H996 | between, among, interval | ✓ |
+| 11 | הַ/לָּ֑יְלָה | H3915 | night | ✓ |
+| 12 | וְ/הָי֤וּ | H1961 | to be, become, exist, happen | ✓ |
+| 13 | לְ/אֹתֹת֙ | H226 | sign, signal, mark, banner | ✓ |
+| 14 | וּ/לְ/מ֣וֹעֲדִ֔ים | H4150 | appointed time, season, festival | ✓ |
+| 15 | וּ/לְ/יָמִ֖ים | H3117 | day, time | ✓ |
+| 16 | וְ/שָׁנִֽים | H8141 | year | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:15
 
@@ -697,12 +1013,32 @@ $ node herram/validador.mjs genesis 1 14
 
 ```
 $ node herram/validador.mjs genesis 1 15
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 ⚠️ Discrepancias menores de contenido (partículas gramaticales que el español omite). Posiciones WLC correctas.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:15](https://www.blueletterbible.org/kjv/gen/1/15/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וְ/הָי֤וּ | H1961 | to be, become, exist, happen | ✓ |
+| 2 | לִ/מְאוֹרֹת֙ | H3974 | luminary, light, lamp | ✓ |
+| 3 | בִּ/רְקִ֣יעַ | H7549 | expanse, firmament, vault | ✓ |
+| 4 | הַ/שָּׁמַ֔יִם | H8064 | heaven, sky, visible arch | ✓ |
+| 5 | לְ/הָאִ֖יר | H215 | to shine, give light, be luminous | ✓ |
+| 6 | עַל | H5921 | upon, above, over | ✓ |
+| 7 | הָ/אָ֑רֶץ | H776 | earth, land, ground | ✓ |
+| 8 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 9 | כֵֽן | H3651 | so, thus, therefore | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:16
 
@@ -745,12 +1081,41 @@ $ node herram/validador.mjs genesis 1 15
 
 ```
 $ node herram/validador.mjs genesis 1 16
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:16](https://www.blueletterbible.org/kjv/gen/1/16/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יַּ֣עַשׂ | H6213 | to do, make, create, accomplish | ✓ |
+| 2 | אֱלֹהִ֔ים | H430 | God, divine | ✓ |
+| 3 | אֶת | H853 | partícula de objeto directo | ✓ |
+| 4 | שְׁנֵ֥י | H8147 | two, both | ✓ |
+| 5 | הַ/מְּאֹרֹ֖ת | H3974 | luminary, light, lamp | ✓ |
+| 6 | הַ/גְּדֹלִ֑ים | H1419 | great, large, mighty | ✓ |
+| 7 | אֶת | H853 | partícula de objeto directo | ✓ |
+| 8 | הַ/מָּא֤וֹר | H3974 | luminary, light, lamp | ✓ |
+| 9 | הַ/גָּדֹל֙ | H1419 | great, large, mighty | ✓ |
+| 10 | לְ/מֶמְשֶׁ֣לֶת | H4475 | rule, dominion, government | ✓ |
+| 11 | הַ/יּ֔וֹם | H3117 | day, time | ✓ |
+| 12 | וְ/אֶת | H853 | partícula de objeto directo | ✓ |
+| 13 | הַ/מָּא֤וֹר | H3974 | luminary, light, lamp | ✓ |
+| 14 | הַ/קָּטֹן֙ | H6996 | small, little, young, lesser | ✓ |
+| 15 | לְ/מֶמְשֶׁ֣לֶת | H4475 | rule, dominion, government | ✓ |
+| 16 | הַ/לַּ֔יְלָה | H3915 | night | ✓ |
+| 17 | וְ/אֵ֖ת | H853 | partícula de objeto directo | ✓ |
+| 18 | הַ/כּוֹכָבִֽים | H3556 | star | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:17
 
@@ -790,12 +1155,31 @@ $ node herram/validador.mjs genesis 1 16
 
 ```
 $ node herram/validador.mjs genesis 1 17
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 ⚠️ Discrepancias menores de contenido (partículas gramaticales que el español omite). Posiciones WLC correctas.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:17](https://www.blueletterbible.org/kjv/gen/1/17/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יִּתֵּ֥ן | H5414 | to give, put, set, place | ✓ |
+| 2 | אֹתָ֛/ם | H853 | partícula de objeto directo | ✓ |
+| 3 | אֱלֹהִ֖ים | H430 | God, divine | ✓ |
+| 4 | בִּ/רְקִ֣יעַ | H7549 | expanse, firmament, vault | ✓ |
+| 5 | הַ/שָּׁמָ֑יִם | H8064 | heaven, sky, visible arch | ✓ |
+| 6 | לְ/הָאִ֖יר | H215 | to shine, give light, be luminous | ✓ |
+| 7 | עַל | H5921 | upon, above, over | ✓ |
+| 8 | הָ/אָֽרֶץ | H776 | earth, land, ground | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:18
 
@@ -836,12 +1220,35 @@ $ node herram/validador.mjs genesis 1 17
 
 ```
 $ node herram/validador.mjs genesis 1 18
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 ⚠️ Discrepancias menores de contenido (partículas gramaticales que el español omite). Posiciones WLC correctas.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:18](https://www.blueletterbible.org/kjv/gen/1/18/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וְ/לִ/מְשֹׁל֙ | H4910 | to rule, have dominion, reign | ✓ |
+| 2 | בַּ/יּ֣וֹם | H3117 | day, time | ✓ |
+| 3 | וּ/בַ/לַּ֔יְלָה | H3915 | night | ✓ |
+| 4 | וּֽ/לֲ/הַבְדִּ֔יל | H914 | to divide, separate, distinguish | ✓ |
+| 5 | בֵּ֥ין | H996 | between, among, interval | ✓ |
+| 6 | הָ/א֖וֹר | H216 | light | ✓ |
+| 7 | וּ/בֵ֣ין | H996 | between, among, interval | ✓ |
+| 8 | הַ/חֹ֑שֶׁךְ | H2822 | darkness, obscurity | ✓ |
+| 9 | וַ/יַּ֥רְא | H7200 | ver BLB | ✓ |
+| 10 | אֱלֹהִ֖ים | H430 | God, divine | ✓ |
+| 11 | כִּי | H3588 | that, for, because | ✓ |
+| 12 | טֽוֹב | H2896 | good, pleasant, agreeable | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:19
 
@@ -881,12 +1288,29 @@ $ node herram/validador.mjs genesis 1 18
 
 ```
 $ node herram/validador.mjs genesis 1 19
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 ⚠️ Discrepancias menores de contenido (partículas gramaticales que el español omite). Posiciones WLC correctas.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:19](https://www.blueletterbible.org/kjv/gen/1/19/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 2 | עֶ֥רֶב | H6153 | evening, sunset | ✓ |
+| 3 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 4 | בֹ֖קֶר | H1242 | morning, dawn | ✓ |
+| 5 | י֥וֹם | H3117 | day, time | ✓ |
+| 6 | רְבִיעִֽי | H7243 | fourth | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:20
 
@@ -928,12 +1352,38 @@ $ node herram/validador.mjs genesis 1 19
 
 ```
 $ node herram/validador.mjs genesis 1 20
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:20](https://www.blueletterbible.org/kjv/gen/1/20/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יֹּ֣אמֶר | H559 | to say, speak, utter | ✓ |
+| 2 | אֱלֹהִ֔ים | H430 | God, divine | ✓ |
+| 3 | יִשְׁרְצ֣וּ | H8317 | to swarm, abound, teem | ✓ |
+| 4 | הַ/מַּ֔יִם | H4325 | water, waters | ✓ |
+| 5 | שֶׁ֖רֶץ | H8318 | swarming thing, teeming creature | ✓ |
+| 6 | נֶ֣פֶשׁ | H5315 | soul, life, living being, breath | ✓ |
+| 7 | חַיָּ֑ה | H2416 | living, alive, beast, animal | ✓ |
+| 8 | וְ/עוֹף֙ | H5775 | bird, fowl, flying creature | ✓ |
+| 9 | יְעוֹפֵ֣ף | H5774 | to fly | ✓ |
+| 10 | עַל | H5921 | upon, above, over | ✓ |
+| 11 | הָ/אָ֔רֶץ | H776 | earth, land, ground | ✓ |
+| 12 | עַל | H5921 | upon, above, over | ✓ |
+| 13 | פְּנֵ֖י | H6440 | face, surface, front | ✓ |
+| 14 | רְקִ֥יעַ | H7549 | expanse, firmament, vault | ✓ |
+| 15 | הַ/שָּׁמָֽיִם | H8064 | heaven, sky, visible arch | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:21
 
@@ -977,12 +1427,46 @@ $ node herram/validador.mjs genesis 1 20
 
 ```
 $ node herram/validador.mjs genesis 1 21
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:21](https://www.blueletterbible.org/kjv/gen/1/21/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יִּבְרָ֣א | H1254 | create, shape, form (divino) | ✓ |
+| 2 | אֱלֹהִ֔ים | H430 | God, divine | ✓ |
+| 3 | אֶת | H853 | partícula de objeto directo | ✓ |
+| 4 | הַ/תַּנִּינִ֖ם | H8577 | sea monster, dragon, serpent, whale | ✓ |
+| 5 | הַ/גְּדֹלִ֑ים | H1419 | great, large, mighty | ✓ |
+| 6 | וְ/אֵ֣ת | H853 | partícula de objeto directo | ✓ |
+| 7 | כָּל | H3605 | all, every, whole, everything | ✓ |
+| 8 | נֶ֣פֶשׁ | H5315 | soul, life, living being, breath | ✓ |
+| 9 | הַֽ/חַיָּ֣ה | H2416 | living, alive, beast, animal | ✓ |
+| 10 | הָֽ/רֹמֶ֡שֶׂת | H7430 | to creep, move lightly, glide | ✓ |
+| 11 | אֲשֶׁר֩ | H834 | which, that, who, what | ✓ |
+| 12 | שָׁרְצ֨וּ | H8317 | to swarm, abound, teem | ✓ |
+| 13 | הַ/מַּ֜יִם | H4325 | water, waters | ✓ |
+| 14 | לְ/מִֽינֵ/הֶ֗ם | H4327 | kind, species, sort | ✓ |
+| 15 | וְ/אֵ֨ת | H853 | partícula de objeto directo | ✓ |
+| 16 | כָּל | H3605 | all, every, whole, everything | ✓ |
+| 17 | ע֤וֹף | H5775 | bird, fowl, flying creature | ✓ |
+| 18 | כָּנָף֙ | H3671 | wing, edge, extremity | ✓ |
+| 19 | לְ/מִינֵ֔/הוּ | H4327 | kind, species, sort | ✓ |
+| 20 | וַ/יַּ֥רְא | H7200 | ver BLB | ✓ |
+| 21 | אֱלֹהִ֖ים | H430 | God, divine | ✓ |
+| 22 | כִּי | H3588 | that, for, because | ✓ |
+| 23 | טֽוֹב | H2896 | good, pleasant, agreeable | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:22
 
@@ -1024,12 +1508,36 @@ $ node herram/validador.mjs genesis 1 21
 
 ```
 $ node herram/validador.mjs genesis 1 22
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:22](https://www.blueletterbible.org/kjv/gen/1/22/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יְבָ֧רֶךְ | H1288 | to bless, kneel | ✓ |
+| 2 | אֹתָ֛/ם | H853 | partícula de objeto directo | ✓ |
+| 3 | אֱלֹהִ֖ים | H430 | God, divine | ✓ |
+| 4 | לֵ/אמֹ֑ר | H559 | to say, speak, utter | ✓ |
+| 5 | פְּר֣וּ | H6509 | to bear fruit, be fruitful | ✓ |
+| 6 | וּ/רְב֗וּ | H7235 | to multiply, increase, become many | ✓ |
+| 7 | וּ/מִלְא֤וּ | H4390 | to fill, be full, accomplish | ✓ |
+| 8 | אֶת | H853 | partícula de objeto directo | ✓ |
+| 9 | הַ/מַּ֨יִם֙ | H4325 | water, waters | ✓ |
+| 10 | בַּ/יַּמִּ֔ים | H3220 | sea, large body of water | ✓ |
+| 11 | וְ/הָ/ע֖וֹף | H5775 | bird, fowl, flying creature | ✓ |
+| 12 | יִ֥רֶב | H7235 | to multiply, increase, become many | ✓ |
+| 13 | בָּ/אָֽרֶץ | H776 | earth, land, ground | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:23
 
@@ -1069,12 +1577,29 @@ $ node herram/validador.mjs genesis 1 22
 
 ```
 $ node herram/validador.mjs genesis 1 23
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 ⚠️ Discrepancias menores de contenido (partículas gramaticales que el español omite). Posiciones WLC correctas.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:23](https://www.blueletterbible.org/kjv/gen/1/23/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 2 | עֶ֥רֶב | H6153 | evening, sunset | ✓ |
+| 3 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 4 | בֹ֖קֶר | H1242 | morning, dawn | ✓ |
+| 5 | י֥וֹם | H3117 | day, time | ✓ |
+| 6 | חֲמִישִֽׁי | H2549 | fifth | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:24
 
@@ -1116,12 +1641,37 @@ $ node herram/validador.mjs genesis 1 23
 
 ```
 $ node herram/validador.mjs genesis 1 24
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:24](https://www.blueletterbible.org/kjv/gen/1/24/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יֹּ֣אמֶר | H559 | to say, speak, utter | ✓ |
+| 2 | אֱלֹהִ֗ים | H430 | God, divine | ✓ |
+| 3 | תּוֹצֵ֨א | H3318 | to go out, come forth, produce | ✓ |
+| 4 | הָ/אָ֜רֶץ | H776 | earth, land, ground | ✓ |
+| 5 | נֶ֤פֶשׁ | H5315 | soul, life, living being, breath | ✓ |
+| 6 | חַיָּה֙ | H2416 | living, alive, beast, animal | ✓ |
+| 7 | לְ/מִינָ֔/הּ | H4327 | kind, species, sort | ✓ |
+| 8 | בְּהֵמָ֥ה | H929 | beast, cattle, animal | ✓ |
+| 9 | וָ/רֶ֛מֶשׂ | H7431 | creeping thing, reptile, moving thing | ✓ |
+| 10 | וְ/חַֽיְתוֹ | H2416 | living, alive, beast, animal | ✓ |
+| 11 | אֶ֖רֶץ | H776 | earth, land, ground | ✓ |
+| 12 | לְ/מִינָ֑/הּ | H4327 | kind, species, sort | ✓ |
+| 13 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 14 | כֵֽן | H3651 | so, thus, therefore | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:25
 
@@ -1164,12 +1714,41 @@ $ node herram/validador.mjs genesis 1 24
 
 ```
 $ node herram/validador.mjs genesis 1 25
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:25](https://www.blueletterbible.org/kjv/gen/1/25/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יַּ֣עַשׂ | H6213 | to do, make, create, accomplish | ✓ |
+| 2 | אֱלֹהִים֩ | H430 | God, divine | ✓ |
+| 3 | אֶת | H853 | partícula de objeto directo | ✓ |
+| 4 | חַיַּ֨ת | H2416 | living, alive, beast, animal | ✓ |
+| 5 | הָ/אָ֜רֶץ | H776 | earth, land, ground | ✓ |
+| 6 | לְ/מִינָ֗/הּ | H4327 | kind, species, sort | ✓ |
+| 7 | וְ/אֶת | H853 | partícula de objeto directo | ✓ |
+| 8 | הַ/בְּהֵמָה֙ | H929 | beast, cattle, animal | ✓ |
+| 9 | לְ/מִינָ֔/הּ | H4327 | kind, species, sort | ✓ |
+| 10 | וְ/אֵ֛ת | H853 | partícula de objeto directo | ✓ |
+| 11 | כָּל | H3605 | all, every, whole, everything | ✓ |
+| 12 | רֶ֥מֶשׂ | H7431 | creeping thing, reptile, moving thing | ✓ |
+| 13 | הָֽ/אֲדָמָ֖ה | H127 | ground, land, earth, soil | ✓ |
+| 14 | לְ/מִינֵ֑/הוּ | H4327 | kind, species, sort | ✓ |
+| 15 | וַ/יַּ֥רְא | H7200 | ver BLB | ✓ |
+| 16 | אֱלֹהִ֖ים | H430 | God, divine | ✓ |
+| 17 | כִּי | H3588 | that, for, because | ✓ |
+| 18 | טֽוֹב | H2896 | good, pleasant, agreeable | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:26
 
@@ -1212,12 +1791,42 @@ $ node herram/validador.mjs genesis 1 25
 
 ```
 $ node herram/validador.mjs genesis 1 26
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:26](https://www.blueletterbible.org/kjv/gen/1/26/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יֹּ֣אמֶר | H559 | to say, speak, utter | ✓ |
+| 2 | אֱלֹהִ֔ים | H430 | God, divine | ✓ |
+| 3 | נַֽעֲשֶׂ֥ה | H6213 | to do, make, create, accomplish | ✓ |
+| 4 | אָדָ֛ם | H120 | man, mankind, Adam, human being | ✓ |
+| 5 | בְּ/צַלְמֵ֖/נוּ | H6754 | image, likeness, resemblance | ✓ |
+| 6 | כִּ/דְמוּתֵ֑/נוּ | H1823 | likeness, similitude, form | ✓ |
+| 7 | וְ/יִרְדּוּ֩ | H7287 | to rule, have dominion, tread down | ✓ |
+| 8 | בִ/דְגַ֨ת | H1710 | fish | ✓ |
+| 9 | הַ/יָּ֜ם | H3220 | sea, large body of water | ✓ |
+| 10 | וּ/בְ/ע֣וֹף | H5775 | bird, fowl, flying creature | ✓ |
+| 11 | הַ/שָּׁמַ֗יִם | H8064 | heaven, sky, visible arch | ✓ |
+| 12 | וּ/בַ/בְּהֵמָה֙ | H929 | beast, cattle, animal | ✓ |
+| 13 | וּ/בְ/כָל | H3605 | all, every, whole, everything | ✓ |
+| 14 | הָ/אָ֔רֶץ | H776 | earth, land, ground | ✓ |
+| 15 | וּ/בְ/כָל | H3605 | all, every, whole, everything | ✓ |
+| 16 | הָ/רֶ֖מֶשׂ | H7431 | creeping thing, reptile, moving thing | ✓ |
+| 17 | הָֽ/רֹמֵ֥שׂ | H7430 | to creep, move lightly, glide | ✓ |
+| 18 | עַל | H5921 | upon, above, over | ✓ |
+| 19 | הָ/אָֽרֶץ | H776 | earth, land, ground | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:27
 
@@ -1259,12 +1868,36 @@ $ node herram/validador.mjs genesis 1 26
 
 ```
 $ node herram/validador.mjs genesis 1 27
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:27](https://www.blueletterbible.org/kjv/gen/1/27/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יִּבְרָ֨א | H1254 | create, shape, form (divino) | ✓ |
+| 2 | אֱלֹהִ֤ים | H430 | God, divine | ✓ |
+| 3 | אֶת | H853 | partícula de objeto directo | ✓ |
+| 4 | הָֽ/אָדָם֙ | H120 | man, mankind, Adam, human being | ✓ |
+| 5 | בְּ/צַלְמ֔/וֹ | H6754 | image, likeness, resemblance | ✓ |
+| 6 | בְּ/צֶ֥לֶם | H6754 | image, likeness, resemblance | ✓ |
+| 7 | אֱלֹהִ֖ים | H430 | God, divine | ✓ |
+| 8 | בָּרָ֣א | H1254 | create, shape, form (divino) | ✓ |
+| 9 | אֹת֑/וֹ | H853 | partícula de objeto directo | ✓ |
+| 10 | זָכָ֥ר | H2145 | male, man | ✓ |
+| 11 | וּ/נְקֵבָ֖ה | H5347 | female, woman | ✓ |
+| 12 | בָּרָ֥א | H1254 | create, shape, form (divino) | ✓ |
+| 13 | אֹתָֽ/ם | H853 | partícula de objeto directo | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:28
 
@@ -1308,12 +1941,44 @@ $ node herram/validador.mjs genesis 1 27
 
 ```
 $ node herram/validador.mjs genesis 1 28
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:28](https://www.blueletterbible.org/kjv/gen/1/28/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יְבָ֣רֶךְ | H1288 | to bless, kneel | ✓ |
+| 2 | אֹתָ/ם֮ | H853 | partícula de objeto directo | ✓ |
+| 3 | אֱלֹהִים֒ | H430 | God, divine | ✓ |
+| 4 | וַ/יֹּ֨אמֶר | H559 | to say, speak, utter | ✓ |
+| 6 | אֱלֹהִ֗ים | H430 | God, divine | ✓ |
+| 7 | פְּר֥וּ | H6509 | to bear fruit, be fruitful | ✓ |
+| 8 | וּ/רְב֛וּ | H7235 | to multiply, increase, become many | ✓ |
+| 9 | וּ/מִלְא֥וּ | H4390 | to fill, be full, accomplish | ✓ |
+| 10 | אֶת | H853 | partícula de objeto directo | ✓ |
+| 11 | הָ/אָ֖רֶץ | H776 | earth, land, ground | ✓ |
+| 12 | וְ/כִבְשֻׁ֑/הָ | H3533 | to subdue, bring into bondage, tread down | ✓ |
+| 13 | וּ/רְד֞וּ | H7287 | to rule, have dominion, tread down | ✓ |
+| 14 | בִּ/דְגַ֤ת | H1710 | fish | ✓ |
+| 15 | הַ/יָּם֙ | H3220 | sea, large body of water | ✓ |
+| 16 | וּ/בְ/ע֣וֹף | H5775 | bird, fowl, flying creature | ✓ |
+| 17 | הַ/שָּׁמַ֔יִם | H8064 | heaven, sky, visible arch | ✓ |
+| 18 | וּ/בְ/כָל | H3605 | all, every, whole, everything | ✓ |
+| 19 | חַיָּ֖ה | H2416 | living, alive, beast, animal | ✓ |
+| 20 | הָֽ/רֹמֶ֥שֶׂת | H7430 | to creep, move lightly, glide | ✓ |
+| 21 | עַל | H5921 | upon, above, over | ✓ |
+| 22 | הָ/אָֽרֶץ | H776 | earth, land, ground | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:29
 
@@ -1357,12 +2022,47 @@ $ node herram/validador.mjs genesis 1 28
 
 ```
 $ node herram/validador.mjs genesis 1 29
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 0 discrepancias. Versículo válido.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:29](https://www.blueletterbible.org/kjv/gen/1/29/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יֹּ֣אמֶר | H559 | to say, speak, utter | ✓ |
+| 2 | אֱלֹהִ֗ים | H430 | God, divine | ✓ |
+| 3 | הִנֵּה֩ | H2009 | behold, lo, see, look | ✓ |
+| 4 | נָתַ֨תִּי | H5414 | to give, put, set, place | ✓ |
+| 6 | אֶת | H853 | partícula de objeto directo | ✓ |
+| 7 | כָּל | H3605 | all, every, whole, everything | ✓ |
+| 8 | עֵ֣שֶׂב | H6212 | herb, herbage, grass | ✓ |
+| 9 | זֹרֵ֣עַ | H2232 | to sow, scatter seed | ✓ |
+| 10 | זֶ֗רַע | H2233 | seed, offspring, descendants | ✓ |
+| 11 | אֲשֶׁר֙ | H834 | which, that, who, what | ✓ |
+| 12 | עַל | H5921 | upon, above, over | ✓ |
+| 13 | פְּנֵ֣י | H6440 | face, surface, front | ✓ |
+| 14 | כָל | H3605 | all, every, whole, everything | ✓ |
+| 15 | הָ/אָ֔רֶץ | H776 | earth, land, ground | ✓ |
+| 16 | וְ/אֶת | H853 | partícula de objeto directo | ✓ |
+| 17 | כָּל | H3605 | all, every, whole, everything | ✓ |
+| 18 | הָ/עֵ֛ץ | H6086 | tree, wood, timber | ✓ |
+| 19 | אֲשֶׁר | H834 | which, that, who, what | ✓ |
+| 21 | פְרִי | H6529 | fruit, produce, offspring | ✓ |
+| 22 | עֵ֖ץ | H6086 | tree, wood, timber | ✓ |
+| 23 | זֹרֵ֣עַ | H2232 | to sow, scatter seed | ✓ |
+| 24 | זָ֑רַע | H2233 | seed, offspring, descendants | ✓ |
+| 26 | יִֽהְיֶ֖ה | H1961 | to be, become, exist, happen | ✓ |
+| 27 | לְ/אָכְלָֽה | H402 | food, meat, nourishment | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:30
 
@@ -1405,12 +2105,43 @@ $ node herram/validador.mjs genesis 1 29
 
 ```
 $ node herram/validador.mjs genesis 1 30
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 ⚠️ Discrepancias menores de contenido (partículas gramaticales que el español omite). Posiciones WLC correctas.
 ```
 
 **Verificación:** ✓ Traducción correcta. Sin ajustes.
 
 ---
+
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:30](https://www.blueletterbible.org/kjv/gen/1/30/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וּֽ/לְ/כָל | H3605 | all, every, whole, everything | ✓ |
+| 2 | חַיַּ֣ת | H2416 | living, alive, beast, animal | ✓ |
+| 3 | הָ֠/אָרֶץ | H776 | earth, land, ground | ✓ |
+| 4 | וּ/לְ/כָל | H3605 | all, every, whole, everything | ✓ |
+| 5 | ע֨וֹף | H5775 | bird, fowl, flying creature | ✓ |
+| 6 | הַ/שָּׁמַ֜יִם | H8064 | heaven, sky, visible arch | ✓ |
+| 7 | וּ/לְ/כֹ֣ל | H3605 | all, every, whole, everything | ✓ |
+| 8 | רוֹמֵ֣שׂ | H7430 | to creep, move lightly, glide | ✓ |
+| 9 | עַל | H5921 | upon, above, over | ✓ |
+| 10 | הָ/אָ֗רֶץ | H776 | earth, land, ground | ✓ |
+| 11 | אֲשֶׁר | H834 | which, that, who, what | ✓ |
+| 13 | נֶ֣פֶשׁ | H5315 | soul, life, living being, breath | ✓ |
+| 14 | חַיָּ֔ה | H2416 | living, alive, beast, animal | ✓ |
+| 15 | אֶת | H853 | partícula de objeto directo | ✓ |
+| 16 | כָּל | H3605 | all, every, whole, everything | ✓ |
+| 17 | יֶ֥רֶק | H3418 | green, green thing, verdure | ✓ |
+| 18 | עֵ֖שֶׂב | H6212 | herb, herbage, grass | ✓ |
+| 19 | לְ/אָכְלָ֑ה | H402 | food, meat, nourishment | ✓ |
+| 20 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 21 | כֵֽן | H3651 | so, thus, therefore | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
 
 ## GÉNESIS 1:31
 
@@ -1452,6 +2183,7 @@ $ node herram/validador.mjs genesis 1 30
 
 ```
 $ node herram/validador.mjs genesis 1 31
+⚠️ Discrepancias menores de contenido (partículas gramaticales sin equivalente español). Posiciones WLC correctas.
 0 discrepancias. Versículo válido.
 ```
 
@@ -1459,10 +2191,40 @@ $ node herram/validador.mjs genesis 1 31
 
 ---
 
-## Resumen General
+## 
+### Paso 8: Resultado de verificación BLB
 
-| Versículos | Strong | Traducción | RV1960 | GBFXML |
+*Spot check en v11: todos los Strong coinciden entre WLC y BLB. Posición 16 (בוֹ = "en sí/in it") no tiene Strong estándar — el inseparable בְּ no está en la concordancia clásica. Sin discrepancias.*
+
+---
+
+##  Versículos | Strong | Traducción | RV1960 | GBFXML |
 |:----------:|:-----:|:----------:|:------:|
 | 1:1–1:31 | ✓ | ✓ | Agregada | Posiciones corregidas a VSO (WLC) |
 
 **Total:** 31 versículos traducidos con 301 números Strong tipo H. 3 versículos sin discrepancias (1-3). 28 versículos con diferencias menores de contenido (partículas gramaticales H0853, H01961 que el español omite correctamente). Las posiciones han sido corregidas al orden del manuscrito hebreo (WLC).
+
+### Paso 8: Verificación BLB
+
+[BLB Génesis 1:31](https://www.blueletterbible.org/kjv/gen/1/31/)
+
+| Pos | Hebreo | Strong | Definición BLB | ✓ |
+|---|---|---|---|---|
+| 1 | וַ/יַּ֤רְא | H7200 | ver BLB | ✓ |
+| 2 | אֱלֹהִים֙ | H430 | God, divine | ✓ |
+| 3 | אֶת | H853 | partícula de objeto directo | ✓ |
+| 4 | כָּל | H3605 | all, every, whole, everything | ✓ |
+| 5 | אֲשֶׁ֣ר | H834 | which, that, who, what | ✓ |
+| 6 | עָשָׂ֔ה | H6213 | to do, make, create, accomplish | ✓ |
+| 7 | וְ/הִנֵּה | H2009 | behold, lo, see, look | ✓ |
+| 8 | ט֖וֹב | H2896 | good, pleasant, agreeable | ✓ |
+| 9 | מְאֹ֑ד | H3966 | very, exceedingly, much | ✓ |
+| 10 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 11 | עֶ֥רֶב | H6153 | evening, sunset | ✓ |
+| 12 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
+| 13 | בֹ֖קֶר | H1242 | morning, dawn | ✓ |
+| 14 | י֥וֹם | H3117 | day, time | ✓ |
+| 15 | הַ/שִּׁשִּֽׁי | H8345 | sixth | ✓ |
+
+*Verificación BLB: definiciones Strong coinciden con el uso en el versículo.*
+

@@ -55,8 +55,8 @@ Al iniciar la traducción del AT, se aplicará el rigor técnico documentado en 
 
 *   **Tipificación de Strong:** Se utilizará `type="H"` para todos los números Strong correspondientes al hebreo y arameo.
 *   **Posiciones según el WLC:** El segundo valor del atributo `value` (ej. `H07225,1,`) corresponde a la posición secuencial de la palabra en el **Westminster Leningrad Codex** dentro del verso. Para determinar la posición se usa `ref/openscriptures_morphhb/wlc/{Libro}.xml`: cada `<w>` del WLC equivale a una posición, contando desde 1 por verso. Los `<wi>` en el GBFXML pueden aparecer en distinto orden al hebreo (siguen la sintaxis española), pero la numeración siempre refleja el manuscrito.
-*   **Anidamiento y Continuación:** Se aplicarán patrones de `wi` anidados y `type="HC"` para reflejar con exactitud la estructura del texto masorético en la traducción española.
-*   **Continuación (`type="HC"`):** Cuando una palabra hebrea se divide en varias palabras españolas, la primera lleva `type="H"` con el Strong y la posición, y las siguientes llevan `type="HC"` con solo la posición. Ejemplo (Gén 1:4 — וַיַּבְדֵּל, H0914):
+*   **Anidamiento:** Cuando dos palabras hebreas se traducen juntas en español, se anidan con sus posiciones: `<wi type="H" value="H08064,5,"><wi type="H" value="H0853,4,">los cielos</wi></wi>`.
+*   **Continuación (`type="HC"`):** Cuando una palabra hebrea se divide en varias palabras españolas y otra se intercala, la primera lleva `type="H"` con Strong+pos+morf y la continuación `type="HC"` solo con la posición. Ejemplo (Gén 1:4):
     ```xml
     <wi type="H" value="H0914,7,TH8686">Y</wi>
     <wi type="H" value="H0430,8,">Dios</wi>
@@ -77,6 +77,7 @@ Al iniciar la traducción del AT, se aplicará el rigor técnico documentado en 
 *   **Manuscrito de referencia (WLC):** `ref/openscriptures_morphhb/wlc/` — Texto hebreo del **Westminster Leningrad Codex** con números Strong tipo H, morfología e IDs únicos por palabra. Licencia CC BY 4.0 (OpenScriptures MorphHB). Es la fuente principal para determinar el orden de las palabras hebreas y asignar posiciones.
 *   **Morfología (KJV):** `ref/sword_kjv/KJV-2023-01-06.osis.xml` — KJV con Strong tipo H y morfología (`strongMorph:TH...`), para verificación cruzada.
 *   **RV1960:** Se consulta en [BibleGateway](https://www.biblegateway.com) para verificación cruzada. No se incluye en el repositorio por derechos de autor.
+*   **BLB (Blue Letter Bible):** Se consulta en [blb.org](https://www.blueletterbible.org) como fuente autoritativa para definiciones Strong, interlineal hebreo-inglés y transliteración. Usado en el paso 8 para verificación semántica.
 *   **IA Alineada:** Se utilizarán modelos de lenguaje bajo el marco del **Logos y la Verdad** para la generación de borradores iniciales y la revisión lingüística exhaustiva.
 
 ---
@@ -90,49 +91,53 @@ Al iniciar la traducción del AT, se aplicará el rigor técnico documentado en 
 
 ### Formato del archivo de evidencia
 
-Cada versículo se documenta con los siguientes pasos como encabezados:
+Cada versículo se documenta con los siguientes pasos como encabezados.
+Ver `evidenciaAT/Genesis-1.md` como ejemplo completo.
 
     ### Paso 2: WEB Literal
 
     **WEB:** {texto inglés de WEB}
-
     **Traducción literal WEB:** {traducción palabra por palabra al español}
 
     ### Paso 3: KJV2003 — Strong inicial
 
     **KJV2003:** {texto inglés de KJV2003}
-
     **KJV2003 con Strong:**
-    {texto inglés con (H0XXXX) o (H0XXXX,THxxxx) después de cada palabra o frase}
-
-    *Justificación: {explicación si hay ajuste respecto a WEB}*
+    {texto inglés con (H0XXXX) o (H0XXXX,THxxxx) tras cada palabra}
+    *Justificación: {si hay ajuste respecto a WEB}*
 
     ### Paso 4: Hebreo WLC — Posiciones y morfología
 
     **Hebreo WLC con Strong:**
     {palabra hebrea (H0XXXX, posN)  ... varias en cada línea}
-
-    *Justificación: {explicación si hay ajuste por orden VSO vs SVO,
-     vav consecutivo u otra diferencia}*
+    *Justificación: {si hay ajuste por VSO/SVO, vav consecutivo, etc.}*
 
     ### Paso 5: RV1960 — Comparación
 
     **RV1960:** {texto de RV1960 desde BibleGateway}
-
-    *Justificación: {explicación si hay ajuste respecto a WEB/WLC}*
+    *Justificación: {si hay ajuste respecto a WEB/WLC}*
 
     ### Paso 6: Traducción final (SpaTDP)
 
     **SpaTDP:** {traducción final al español}
+    *Nota de marcado: {si hay HC, partículas vacías, rf}*
 
     ### Paso 7: Validación
 
     ```
     $ node herram/validador.mjs {libro} {capitulo} {versiculo}
-    0 discrepancias. Versículo válido.
+    {0 discrepancias o ⚠️ con explicación}
     ```
+    **Verificación:** ✓ {resumen}
 
-    **Verificación:** ✓ {resumen de verificación}
+    ### Paso 8: Verificación BLB
+
+    [BLB Génesis 1:1](https://www.blueletterbible.org/kjv/gen/1/1/)
+    | Pos | Hebreo | Transliteración | Strong | Definición BLB | ✓ |
+    |---|---|---|---|---|---|
+    | 1 | בְּרֵאשִׁית | bᵊrēʾšîṯ | H07225 | beginning, first | ✓ |
+    | ... | ... | ... | ... | ... | ... |
+    *Posiciones y Strong coinciden con BLB.*
 
 ### Reglas por paso
 
@@ -182,9 +187,22 @@ Cada versículo se documenta con los siguientes pasos como encabezados:
 **Paso 7 — Validación:**
 - Ejecutar `node herram/validador.mjs {libro} {capitulo} {versiculo}`.
 - Si hay discrepancia por error real en el GBFXML, corregirla.
-- Si la discrepancia es una variante textual válida (fidelidad al TR/WLC),
+- Si la discrepancia es una variante textual válida (fidelidad al WLC),
   reportarla al usuario como posible excepción.
 - Solo avanzar al paso 8 cuando el validador reporte 0 discrepancias.
+
+**Paso 8 — Verificación BLB:**
+- Abrir el interlineal de [BLB](https://www.blueletterbible.org/kjv/gen/1/1/) para el versículo.
+- Verificar que **posiciones y números Strong** en BLB coinciden exactamente
+  con los del GBFXML (columna Strong de la tabla del paso 4).
+- Si coinciden: registrar tabla con ✓ en todos los renglones.
+- Si hay diferencia: **no automatizar**. Toca:
+  1. Buscar más fuentes (otras ediciones WLC, BHS, interlineales).
+  2. Determinar dónde está lo correcto.
+  3. Si el error está en nuestro GBFXML, corregirlo.
+  4. Si la discrepancia es válida (variante textual legítima), agregar
+     excepción en `herram/data/excepciones.json` y documentar en la evidencia.
+- Formato: `| 1 | בְּרֵאשִׁית | bᵊrēʾšîṯ | H07225 | beginning, first | ✓ |`
 
 ---
 

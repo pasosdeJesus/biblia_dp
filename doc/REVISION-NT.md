@@ -84,13 +84,13 @@ fidelidad respecto al Textus Receptus.
 - **Juan** - diversas correcciones ortográficas y gramaticales (incluso tiempos
   verbales para concordar más con el Textus Receptus)
 - **Mateo** - Completado
-- **Hechos** - En proceso.
+- **Hechos** - Completado
 - **Lucas** - por hacer
 - **Hebreos** - por completar traducción manual antes
 - **Apocalipisis** - antes traducción manual
 - **1 Pedro** - antes traducción manual
 - **1 Juan** - antes traducción manual
-- **Santiago** - antes traducción manual
+- **Santiago** - Completado (hasta 2:18)
 - **2 Pedro** - antes traducción manual
 - **Judas** - antes traducción manual
 
