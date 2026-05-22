@@ -231,12 +231,14 @@
 	value CDATA #IMPLIED
 	sacred (yes) #IMPLIED>
 <!-- Word information. Type: G (Greek Strong), GC (continuation), H
-  (Hebrew),
+  (Hebrew), HC (Hebrew continuation), HN (Hebrew No Strong number),
   I (interlinear), T (original language info), Tf (form of address).
-  Value format: Strong,Position[,Morphology[,Lemma[,Inflected]]]
+  Value format: Strong,Position[,Morphology[,Lemma[,Inflected]]].
+  For HN, value format: ,Position, (leading comma, no Strong number).
   Examples:
   <wi type="G" value="1063,2,CONJ">pues</wi>
   <wi type="G" value="4100,7,V-AAI-1S,πιστεύω,ἐπίστευσα">creí</wi>
+  <wi type="HN" value=",16,">en él</wi>
   sacred: yes for sacred invocations.
   Nested wi allowed for union of multiple Strong numbers. -->
 

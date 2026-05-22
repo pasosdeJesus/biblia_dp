@@ -67,6 +67,10 @@ Al iniciar la traducción del AT, se aplicará el rigor técnico documentado en 
     ```xml
     <wi type="H" value="H0853,3,"/><wi type="H" value="H0216,4,">la luz</wi>
     ```
+*   **Palabras sin Strong (`type="HN"`):** Cuando una palabra hebrea tiene posición en WLC pero no número Strong estándar (ej. בוֹ, preposición בְּ "en" + sufijo), se usa `type="HN"` con `value=",pos,"`. Ejemplo (Gén 1:11):
+    ```xml
+    <wi type="HN" value=",16,">en él</wi>
+    ```
 *   **Atributo sacred="yes":** Para marcar invocaciones a Dios.
 
 ---

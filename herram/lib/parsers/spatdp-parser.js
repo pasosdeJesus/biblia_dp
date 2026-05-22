@@ -48,6 +48,8 @@ export function parseSpaTdp(filepath, strongType = 'G') {
 
       for (const wiTag of wiTags) {
         const normalizedTag = wiTag.replace(/\n?\n|\n/g, ' ').replace(/\s{2,}/g, ' ');
+        // Skip HN (Hebrew No Strong) and HC (Hebrew Continuation) types
+        if (/<wi[^>]*type="H[NCH]"/.test(normalizedTag)) continue;
         const valueMatch = normalizedTag.match(/value="[A-Z]*(\d+),(\d+),/);
         if (valueMatch) {
           const rawNum = parseInt(valueMatch[1], 10);

@@ -31,7 +31,7 @@ El elemento `<t>` permite incluir traducciones paralelas.
 
 Es el elemento más crítico para la concordancia.
 *   **Atributos:**
-    *   `type`: `G` (Griego), `H` (Hebreo), `GC` (Continuación de Griego), `HC` (Continuación de Hebreo).
+    *   `type`: `G` (Griego), `H` (Hebreo), `GC` (Continuación de Griego), `HC` (Continuación de Hebreo), `HN` (Hebreo sin número Strong).
     *   `value`: Formato `Strong,Posicion[,Morfologia[,Lema[,FormaInflectada]]]`.
     *   `sacred`: Valor `yes`. Se utiliza exclusivamente para la **Invocación Sagrada**.
 

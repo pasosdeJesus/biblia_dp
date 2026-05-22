@@ -20,7 +20,7 @@ The earth was formless and empty. Darkness was on the surface of the deep and Go
 <wi type="H" value="H08414,3,">sin forma</wi>
 <wi type="H" value="H0922,4,">y vacía</wi>.
 <rb xml:lang="es"><wi type="H" value="H02822,5,">La oscuridad</wi><rf><citebib id="WEB"/> dice `darkness,´ <citebib id="RV1960"/> dice `tinieblas,´ <citebib id="KJV2003"/> dice `darkness.´ Según <citebib id="Thayer-BLB"/> la definición Strong de la palabra hebrea חֹשֶׁךְ (kho-shek') es darkness que en español suele traducirse como oscuridad.</rf></rb>
-<wi type="H" value="H05921,6,"><wi type="H" value="H06440,7,"/>estaba sobre la superficie</wi>
+estaba <wi type="H" value="H05921,6,">sobre</wi> <wi type="H" value="H06440,7,">la superficie</wi>
 <wi type="H" value="H08415,8,">de la profundidad</wi>
 <wi type="H" value="H07307,9,">y el Espíritu</wi>
 <wi type="H" value="H0430,10,">de Dios</wi>
@@ -157,15 +157,22 @@ God said, "Let the earth yield grass, herbs yielding seeds, and fruit trees bear
 <t xml:lang="es"><wi type="H" value="H0559,1,TH8799">Y</wi>
 <wi type="H" value="H0430,2,">Dios</wi>
 <wi type="HC" value="1">dijo</wi>:
-<wi type="H" value="H01876,3,TH8686"/><wi type="H" value="H0776,4,">«Produzca la tierra</wi>
-<wi type="H" value="H1877,5,"/><wi type="H" value="H06212,6,">vegetación</wi>:
-<wi type="H" value="H02232,7,TH8686">hierbas que den</wi>
+<wi type="H" value="H01876,3,TH8686">«Produzca</wi>
+<wi type="H" value="H0776,4,">la tierra</wi>
+<wi type="H" value="H01877,5,">vegetación</wi>:
+<wi type="H" value="H06212,6,">hierbas</wi>
+<wi type="H" value="H02232,7,TH8686">que den</wi>
 <wi type="H" value="H02233,8,">semilla</wi>,
-<wi type="H" value="H06086,9,">y árboles frutales</wi>
-<wi type="H" value="H6529,10,"/><wi type="H" value="H06213,11,TH8804">que den</wi>
+<wi type="H" value="H06086,9,">árboles</wi>
+<wi type="H" value="H06529,10,">frutales</wi>
+<wi type="H" value="H06213,11,TH8804">que den</wi>
 <wi type="H" value="H06529,12,">fruto</wi>
 <wi type="H" value="H04327,13,">según su especie</wi>,
-<wi type="H" value="H834,14,"/><wi type="H" value="H2233,15,"/><wi type="H" value="H5921,17,"/><wi type="H" value="H0776,18,">con su semilla dentro, sobre la tierra</wi>»;
+<wi type="H" value="H0834,14,">cuya</wi>
+<wi type="H" value="H02233,15,">semilla</wi>
+<wi type="HN" value=",16,">en él</wi>
+<wi type="H" value="H05921,17,">sobre</wi>
+<wi type="H" value="H0776,18,">la tierra</wi>»;
 <wi type="H" value="H01961,19,TH8799">y fue</wi>
 <wi type="H" value="H03651,20,">así</wi>.</t>
 
@@ -183,6 +190,7 @@ The earth yielded grass, herbs yielding seed after their kind, and trees bearing
 <wi type="H" value="H06086,8,">y árboles</wi>
 <wi type="H" value="H06213,9,TH8804"/><wi type="H" value="H06529,10,">que dan fruto</wi>
 <wi type="H" value="H834,11,"/><wi type="H" value="H02233,12,">con su semilla</wi>
+<wi type="HN" value=",13,">en él</wi>
 <wi type="H" value="H04327,14,">según su especie</wi>.
 <wi type="H" value="H07200,15,TH8799">Y vio</wi>
 <wi type="H" value="H0430,16,">Dios</wi>
@@ -400,7 +408,9 @@ God blessed them. God said to them, "Be fruitful, multiply, fill the earth, and 
 <t xml:lang="es"><wi type="H" value="H01288,1,TH8762">Y</wi>
 <wi type="H" value="H853,2,"/><wi type="H" value="H0430,3,">Dios</wi>
 <wi type="HC" value="1">los bendijo</wi>;
-<wi type="H" value="H0559,4,TH8799">Dios les dijo</wi>:
+<wi type="H" value="H0559,4,TH8799">Dios</wi>
+<wi type="HN" value=",5,">les</wi>
+<wi type="HC" value="4">dijo</wi>:
 <wi type="H" value="H430,6,"/><wi type="H" value="H06509,7,TH8798">«Fructificad</wi>
 <wi type="H" value="H07235,8,TH8798">y multiplicaos</wi>,
 <wi type="H" value="H04390,9,TH8798">llenad</wi>
@@ -421,14 +431,16 @@ God said, "Behold, I have given you every herb yielding seed, which is on the su
 <wi type="HC" value="1">dijo</wi>:
 <wi type="H" value="H02009,3,">«He aquí</wi>,
 <wi type="H" value="H05414,4,TH8804">os he dado</wi>
+<wi type="HN" value=",5,">a vosotros</wi>
 <wi type="H" value="H853,6,"/><wi type="H" value="H3605,7,"/><wi type="H" value="H06212,8,">toda planta</wi>
 <wi type="H" value="H02232,9,TH8686">que da</wi>
 <wi type="H" value="H02233,10,">semilla</wi>,
 <wi type="H" value="H834,11,"/><wi type="H" value="H5921,12,"/><wi type="H" value="H06440,13,">que está sobre</wi>
 <wi type="H" value="H3605,14,"/><wi type="H" value="H0776,15,">toda la tierra</wi>,
 <wi type="H" value="H853,16,"/><wi type="H" value="H3605,17,"/><wi type="H" value="H06086,18,">y todo árbol</wi>
-<wi type="H" value="H834,19,"/><wi type="H" value="H06529,21,">que da fruto</wi>
+<wi type="H" value="H0834,19,"/><wi type="HN" value=",20,"/><wi type="H" value="H06529,21,">que da fruto</wi>
 <wi type="H" value="H6086,22,"/><wi type="H" value="H2232,23,"/><wi type="H" value="H02233,24,">con semilla</wi>;
+<wi type="HN" value=",25,">a vosotros</wi>
 <wi type="H" value="H01961,26,TH8799">os serán</wi>
 <wi type="H" value="H0402,27,">para comer</wi>.</t>
 
@@ -440,7 +452,9 @@ To every animal of the earth, and to every bird of the sky, and to everything th
 <wi type="H" value="H3605,4,"/><wi type="H" value="H05775,5,">y a toda ave de los cielos</wi>,
 <wi type="H" value="H03605,4,">y a todo reptil</wi>
 <wi type="H" value="H0776,3,">sobre la tierra</wi>,
-<wi type="H" value="H834,11,"/><wi type="H" value="H05315,13,">en que hay vida</wi>,
+<wi type="H" value="H0834,11,">en que</wi>
+<wi type="HN" value=",12,"/>
+<wi type="H" value="H05315,13,">hay vida</wi>,
 <wi type="H" value="H2416,14,"/><wi type="H" value="H853,15,"/><wi type="H" value="H3605,16,"/><wi type="H" value="H03418,17,">toda hierba verde</wi>
 <wi type="H" value="H6212,18,"/><wi type="H" value="H0402,19,">les doy para comer</wi>»;
 <wi type="H" value="H1961,20,"/><wi type="H" value="H03651,21,">y fue así</wi>.</t>

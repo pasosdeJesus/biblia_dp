@@ -719,7 +719,7 @@ $ node herram/validador.mjs genesis 1 10
 
 ### Paso 6: Traducción final (SpaTDP)
 
-**SpaTDP:** Y Dios dijo: «Produzca la tierra vegetación: hierbas que den semilla, y árboles frutales que den fruto según su especie, con su semilla dentro, sobre la tierra»; y fue así.
+**SpaTDP:** Y Dios dijo: «Produzca la tierra vegetación: hierbas que den semilla, árboles frutales que den fruto según su especie, cuya semilla en él sobre la tierra»; y fue así.
 
 ### Paso 7: Validación
 
@@ -755,6 +755,7 @@ $ node herram/validador.mjs genesis 1 11
 | 13 | לְ/מִינ֔/וֹ | H4327 | kind, species, sort | ✓ |
 | 14 | אֲשֶׁ֥ר | H834 | which, that, who, what | ✓ |
 | 15 | זַרְע/וֹ | H2233 | seed, offspring, descendants | ✓ |
+| 16 | בוֹ | — | en él (prep. sin Strong) | ✓ |
 | 17 | עַל | H5921 | upon, above, over | ✓ |
 | 18 | הָ/אָ֑רֶץ | H776 | earth, land, ground | ✓ |
 | 19 | וַֽ/יְהִי | H1961 | to be, become, exist, happen | ✓ |
@@ -830,6 +831,7 @@ $ node herram/validador.mjs genesis 1 12
 | 10 | פְּרִ֛י | H6529 | fruit, produce, offspring | ✓ |
 | 11 | אֲשֶׁ֥ר | H834 | which, that, who, what | ✓ |
 | 12 | זַרְע/וֹ | H2233 | seed, offspring, descendants | ✓ |
+| 13 | בוֹ | — | en él (prep. sin Strong) | ✓ |
 | 14 | לְ/מִינֵ֑/הוּ | H4327 | kind, species, sort | ✓ |
 | 15 | וַ/יַּ֥רְא | H7200 | ver BLB | ✓ |
 | 16 | אֱלֹהִ֖ים | H430 | God, divine | ✓ |
@@ -1960,6 +1962,7 @@ $ node herram/validador.mjs genesis 1 28
 | 2 | אֹתָ/ם֮ | H853 | partícula de objeto directo | ✓ |
 | 3 | אֱלֹהִים֒ | H430 | God, divine | ✓ |
 | 4 | וַ/יֹּ֨אמֶר | H559 | to say, speak, utter | ✓ |
+| 5 | לָהֶם | — | a ellos (prep. sin Strong estándar) | ✓ |
 | 6 | אֱלֹהִ֗ים | H430 | God, divine | ✓ |
 | 7 | פְּר֥וּ | H6509 | to bear fruit, be fruitful | ✓ |
 | 8 | וּ/רְב֛וּ | H7235 | to multiply, increase, become many | ✓ |
@@ -2041,6 +2044,7 @@ $ node herram/validador.mjs genesis 1 29
 | 2 | אֱלֹהִ֗ים | H430 | God, divine | ✓ |
 | 3 | הִנֵּה֩ | H2009 | behold, lo, see, look | ✓ |
 | 4 | נָתַ֨תִּי | H5414 | to give, put, set, place | ✓ |
+| 5 | לָכֶם | — | a vosotros (prep. sin Strong estándar) | ✓ |
 | 6 | אֶת | H853 | partícula de objeto directo | ✓ |
 | 7 | כָּל | H3605 | all, every, whole, everything | ✓ |
 | 8 | עֵ֣שֶׂב | H6212 | herb, herbage, grass | ✓ |
@@ -2055,10 +2059,12 @@ $ node herram/validador.mjs genesis 1 29
 | 17 | כָּל | H3605 | all, every, whole, everything | ✓ |
 | 18 | הָ/עֵ֛ץ | H6086 | tree, wood, timber | ✓ |
 | 19 | אֲשֶׁר | H834 | which, that, who, what | ✓ |
+| 20 | בוֹ | — | en él (prep. sin Strong estándar) | ✓ |
 | 21 | פְרִי | H6529 | fruit, produce, offspring | ✓ |
 | 22 | עֵ֖ץ | H6086 | tree, wood, timber | ✓ |
 | 23 | זֹרֵ֣עַ | H2232 | to sow, scatter seed | ✓ |
 | 24 | זָ֑רַע | H2233 | seed, offspring, descendants | ✓ |
+| 25 | לָכֶם | — | a vosotros (prep. sin Strong estándar) | ✓ |
 | 26 | יִֽהְיֶ֖ה | H1961 | to be, become, exist, happen | ✓ |
 | 27 | לְ/אָכְלָֽה | H402 | food, meat, nourishment | ✓ |
 
@@ -2131,6 +2137,7 @@ $ node herram/validador.mjs genesis 1 30
 | 9 | עַל | H5921 | upon, above, over | ✓ |
 | 10 | הָ/אָ֗רֶץ | H776 | earth, land, ground | ✓ |
 | 11 | אֲשֶׁר | H834 | which, that, who, what | ✓ |
+| 12 | בוֹ | — | en él (prep. sin Strong estándar) | ✓ |
 | 13 | נֶ֣פֶשׁ | H5315 | soul, life, living being, breath | ✓ |
 | 14 | חַיָּ֔ה | H2416 | living, alive, beast, animal | ✓ |
 | 15 | אֶת | H853 | partícula de objeto directo | ✓ |
