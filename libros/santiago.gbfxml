@@ -1430,6 +1430,22 @@ agua <wi type="G" value="1099,16,">fresca</wi>.
 <sv id="Santiago-3-13">
 Who is wise and understanding among you? Let him show by his good
 conduct that his deeds are done in gentleness of wisdom.
+<t xml:lang="es">¿<wi type="G" value="5101,1,">Quién</wi> es
+<wi type="G" value="4680,2,">sabio</wi>
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="1990,4,">entendido</wi>
+<wi type="G" value="1722,5,">entre</wi>
+<wi type="G" value="5213,6,">ustedes</wi>?
+<wi type="G" value="1166,7,">Que muestre</wi>
+<wi type="G" value="1537,8,">por</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="2570,10,">buena</wi>
+<wi type="G" value="391,11,">conducta</wi>
+<wi type="G" value="846,14,">sus</wi>
+<wi type="G" value="3588,12,"/><wi type="G" value="2041,13,">obras</wi>
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="4240,16,">mansedumbre</wi>
+<wi type="G" value="4678,17,">de sabiduría</wi>.
+</t>
 </sv>
 <sv id="Santiago-3-14">
 But if
