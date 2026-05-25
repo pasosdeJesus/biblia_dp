@@ -1478,15 +1478,39 @@ traducido en otros pasajes como rivalidad.
 <wi type="G" value="225,18,">verdad</wi>.
 </t>
 </sv>
+
 <sv id="Santiago-3-15">
 This wisdom is not that which comes
 down from above, but is earthly, sensual, and demonic.
+<t xml:lang="es"><wi type="G" value="3778,3,">Esta</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="4678,5,">sabiduría</wi>
+<wi type="G" value="3756,1,">no</wi>
+<wi type="G" value="2076,2,">es</wi> la que
+<wi type="G" value="2718,7,">viene</wi>
+<wi type="G" value="509,6,">de arriba</wi>,
+<wi type="G" value="235,8,">sino</wi> que es
+<wi type="G" value="1919,9,">terrenal</wi>,
+<wi type="G" value="5591,10,">sensual</wi>,
+<wi type="G" value="1141,11,">demoniaca</wi>.
+</t>
 </sv>
+
 <sv id="Santiago-3-16">
 For where
 jealousy and selfish ambition are, there is confusion and every evil deed.
-
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="3699,1,">donde</wi>
+<wi type="G" value="2205,3,">hay envidia</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="2052,5,">rivalidad</wi>,
+<wi type="G" value="1563,6,">allí</wi> hay
+<wi type="G" value="181,7,">confusión</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="3956,9,">toda</wi>
+<wi type="G" value="4229,11,">obra</wi>
+<wi type="G" value="5337,10,">perversa</wi>.</t>
 </sv>
+
 <sv id="Santiago-3-17">
 But the wisdom that is from above is first pure, then peaceful, gentle,
 reasonable, full of mercy and good fruits, without partiality, and without
