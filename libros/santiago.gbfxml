@@ -1557,6 +1557,21 @@ make peace.
 <sv id="Santiago-4-1">
 Where do wars and fightings among you come from? Don´t they come
 from your pleasures that war in your members?
+<t xml:lang="es">¿<wi type="G" value="4159,1,">De donde</wi> vienen
+<wi type="G" value="4171,2,">las guerras</wi>
+<wi type="G" value="2532,3,">y</wi>
+<wi type="G" value="3163,4,">peleas</wi>
+<wi type="G" value="1722,5,">entre</wi>
+<wi type="G" value="5213,6,">ustedes</wi>?
+¿<wi type="G" value="3756,7,">No</wi> es <wi type="G" value="1782,8,">acaso</wi>
+<wi type="G" value="1537,9,">de</wi>
+<wi type="G" value="5216,12,">sus</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="2237,11,">placeres</wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="4754,14,">que hacen guerra</wi>
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="5216,18,">sus</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="3196,17,">miembros</wi>?
+</t>
 </sv>
 <sv id="Santiago-4-2">
 You
@@ -1567,6 +1582,29 @@ have. You
 You
 <wi type="T" value="P"/> don´t have, because you
 <wi type="T" value="P"/> don´t ask.
+<t xml:lang="es"><wi type="G" value="1937,1,">Ustedes desean</wi>,
+<wi type="G" value="2532,2,">y</wi>
+<wi type="G" value="3756,3,">no</wi>
+<wi type="G" value="2192,4,">tienen</wi>.
+<wi type="G" value="5407,5,">Matan</wi>
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="2206,7,">envidian</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="3756,9,">no</wi>
+
+<wi type="G" value="1410,10,">pueden</wi>
+<wi type="G" value="2013,11,">obtener</wi>.
+<wi type="G" value="3164,12,">Pelean</wi>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="4170,14,">hacen guerra</wi>.
+<wi type="G" value="1161,17,">Pero</wi>
+<wi type="G" value="3756,15,">no</wi>
+<wi type="G" value="2192,16,">tienen</wi>
+<wi type="G" value="1223,18,">porque</wi>
+<wi type="G" value="5209,22,">ustedes</wi>
+<wi type="G" value="3588,19,"/><wi type="G" value="3361,20,">no</wi>
+<wi type="G" value="154,21,">piden</wi>.
+</t>
 </sv>
 <sv id="Santiago-4-3">
 You
