@@ -1613,7 +1613,20 @@ receive, because you
 <wi type="T" value="P"/> ask with wrong motives, so that you
 <wi type="T" value="P"/> may spend
 it for your pleasures.
+<t xml:lang="es"><wi type="G" value="154,1,">Ustedes piden</wi>
+<wi type="G" value="2532,2,">y</wi>
+<wi type="G" value="3756,3,">no</wi>
+<wi type="G" value="2983,4,">reciben</wi>,
+<wi type="G" value="1360,5,">porque</wi>
+<wi type="G" value="154,7,">piden</wi>
+<wi type="G" value="2560,6,">mal</wi>,
+<wi type="G" value="2443,8,">para</wi>
+<wi type="G" value="1159,13,">gastar</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="5216,12,">sus</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="2237,11,">placeres</wi></wi>.</t>
 </sv>
+
 <sv id="Santiago-4-4">
 You
 <wi type="T" value="P"/> adulterers and adulteresses, don´t
