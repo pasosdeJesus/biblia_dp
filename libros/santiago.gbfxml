@@ -1664,10 +1664,39 @@ con
 <sv id="Santiago-4-5">
 Or do you think that the Scripture says in vain, «The Spirit who
 lives in us yearns jealously»?
+<t xml:lang="es">¿<wi type="G" value="2228,1,">O</wi>
+<wi type="G" value="1380,2,">piensan</wi>
+<wi type="G" value="3754,3,">que</wi>
+<wi type="G" value="3588,5,"><wi type="G" value="1124,6,">la Escritura</wi></wi>
+<wi type="G" value="3004,7,">dice</wi>
+<wi type="G" value="2761,4,">en vano</wi>,
+«<wi type="G" value="3588,11,"><wi type="G" value="4151,12,">El espíritu</wi></wi>
+<wi type="G" value="3739,13,">que</wi>
+<wi type="G" value="2730,14,">habita</wi>
+<wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="2254,16,">nosotros</wi>
+<wi type="G" value="1971,10,">desea</wi>
+<wi type="G" value="4314,8,">con</wi>
+<wi type="G" value="5355,9,">envidia</wi>»?
+</t>
 </sv>
 <sv id="Santiago-4-6">
 But he gives more grace. Therefore it
 says, «God resists the proud, but gives grace to the humble.»
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="1325,3,">da</wi>
+<wi type="G" value="3173,1,">más</wi>
+<wi type="G" value="5485,4,">gracia</wi>.
+<wi type="G" value="1352,5,">Por tanto</wi>
+<wi type="G" value="3004,6,">dice</wi>
+«<wi type="G" value="3588,7,"><wi type="G" value="2316,8,">Dios</wi></wi>
+<wi type="G" value="498,10,">resiste</wi>
+<wi type="G" value="5244,9,">a los orgullosos</wi>,
+<wi type="G" value="1161,12,">pero</wi>
+<wi type="G" value="1325,13,">le da</wi>
+<wi type="G" value="5485,14,">gracia</wi>
+<wi type="G" value="5011,11,">a los humildes</wi>.»
+</t>
 </sv>
 <sv id="Santiago-4-7">
 Be subject
