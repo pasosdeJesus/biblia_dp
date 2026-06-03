@@ -13,6 +13,7 @@ In the beginning, God created the heavens and the earth.
 <wi type="H" value="H0853,6,">y</wi>
 <wi type="H" value="H0776,7,">la tierra</wi>.</t>
 </sv>
+
 <sv id="Genesis-1-2">
 The earth was formless and empty. Darkness was on the surface of the deep and God's Spirit was hovering over the surface of the waters.
 <t xml:lang="es"><wi type="H" value="H0776,1,">La tierra</wi>
@@ -29,6 +30,7 @@ estaba <wi type="H" value="H05921,6,">sobre</wi> <wi type="H" value="H06440,7,">
 <wi type="H" value="H06440,13,">la superficie</wi>
 <wi type="H" value="H04325,14,">de las aguas</wi>.</t>
 </sv>
+
 <sv id="Genesis-1-3">
 God said, "Let there be light," and there was light.
 <t xml:lang="es"><wi type="H" value="H0559,1,TH8799">Y</wi>
@@ -39,6 +41,7 @@ God said, "Let there be light," and there was light.
 <wi type="H" value="H01961,5,TH8799">y hubo</wi>
 <wi type="H" value="H0216,6,">luz</wi>.</t>
 </sv>
+
 <sv id="Genesis-1-4">
 God saw the light, and saw that it was good. God divided the light from the darkness.
 <t xml:lang="es"><wi type="H" value="H0430,2,">Dios</wi>
@@ -53,6 +56,7 @@ God saw the light, and saw that it was good. God divided the light from the dark
 <wi type="H" value="H0996,11,">de</wi>
 <wi type="H" value="H02822,12,">la oscuridad</wi>.</t>
 </sv>
+
 <sv id="Genesis-1-5">
 God called the light "day", and the darkness he called "night". There was evening and there was morning, the first day.
 <t xml:lang="es"><wi type="H" value="H07121,1,TH8799">Y</wi>
@@ -70,6 +74,7 @@ God called the light "day", and the darkness he called "night". There was evenin
 <wi type="H" value="H03117,12,">del primer</wi>
 <wi type="H" value="H0259,13,">día</wi>.</t>
 </sv>
+
 <sv id="Genesis-1-6">
 God said, "Let there be an expanse in the middle of the waters, and let it divide the waters from the waters."
 <t xml:lang="es"><wi type="H" value="H0559,1,TH8799">Y</wi>
@@ -85,6 +90,7 @@ God said, "Let there be an expanse in the middle of the waters, and let it divid
 <wi type="H" value="H0996,9,">de entre</wi>
 <wi type="H" value="H04325,11,">las aguas</wi>».</t>
 </sv>
+
 <sv id="Genesis-1-7">
 God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so.
 <t xml:lang="es"><wi type="H" value="H06213,1,TH8799">Y</wi>
@@ -96,13 +102,15 @@ God made the expanse, and divided the waters which were under the expanse from t
 <wi type="H" value="H0834,8,">que</wi>
 <wi type="H" value="H08478,9,">estaban debajo</wi>
 <wi type="H" value="H07549,10,">del firmamento</wi>
-<wi type="H" value="H0996,11,"/><wi type="H" value="H04325,12,">de las aguas</wi>
+<wi type="H" value="H0996,11,">de entre</wi>
+<wi type="H" value="H04325,12,">las aguas</wi>
 <wi type="H" value="H0834,13,">que</wi>
 <wi type="H" value="H05921,14,">estaban sobre</wi>
 <wi type="H" value="H07549,15,">el firmamento</wi>;
 <wi type="H" value="H01961,16,TH8799">y fue</wi>
 <wi type="H" value="H03651,17,">así</wi>.</t>
 </sv>
+
 <sv id="Genesis-1-8">
 God called the expanse "sky". There was evening and there was morning, a second day.
 <t xml:lang="es"><wi type="H" value="H07121,1,TH8799">Y</wi>
@@ -116,8 +124,8 @@ God called the expanse "sky". There was evening and there was morning, a second 
 <wi type="H" value="H01242,8,">la mañana</wi>
 <wi type="H" value="H08145,10,">del segundo</wi>
 <wi type="H" value="H03117,9,">día</wi>.</t>
-
 </sv>
+
 <sv id="Genesis-1-9">
 God said, "Let the waters under the sky be gathered together to one place, and let the dry land appear;" and it was so.
 <t xml:lang="es"><wi type="H" value="H0559,1,TH8799">Y</wi>
@@ -134,8 +142,8 @@ God said, "Let the waters under the sky be gathered together to one place, and l
 <wi type="H" value="H03004,11,">lo seco</wi>»;
 <wi type="H" value="H01961,12,TH8799">y fue</wi>
 <wi type="H" value="H03651,13,">así</wi>.</t>
-
 </sv>
+
 <sv id="Genesis-1-10">
 God called the dry land "earth", and the gathering together of the waters he called "seas". God saw that it was good.
 <t xml:lang="es"><wi type="H" value="H07121,1,TH8799">Y</wi>
