@@ -1753,21 +1753,29 @@ and weep. Let your laughter be turned to mourning, and your joy to gloom.
 </sv>
 <sv id="Santiago-4-10">
 Humble yourselves in the sight of the Lord, and he will exalt you.
+<t xml:lang="es"><wi type="G" value="5013,1,">Humíllense</wi>
+<wi type="G" value="1799,2,">delante</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2962,4,">del Señor</wi></wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="5312,6,">Él</wi>
+<wi type="G" value="5209,7,">los</wi>
+<wi type="GC" value="6">exaltará</wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Santiago-4-11">
 Don´t speak against one another, brothers. He who speaks against a
 brother and judges his brother, speaks against the law and judges the law.
 But if you judge the law, you are not a doer of the law, but a judge.
-
 </sv>
+
 <sv id="Santiago-4-12">
 Only one is the lawgiver, who is able to save and to destroy. But who
 are you to judge another?
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Santiago-4-13">
 Come now, you
 <wi type="T" value="P"/> who say, «Today or tomorrow let´s go into this city,
