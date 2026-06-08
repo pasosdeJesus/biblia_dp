@@ -1800,6 +1800,20 @@ But if you judge the law, you are not a doer of the law, but a judge.
 <sv id="Santiago-4-12">
 Only one is the lawgiver, who is able to save and to destroy. But who
 are you to judge another?
+<t xml:lang="es"><wi type="G" value="2076,2,">Hay</wi>
+<wi type="G" value="1520,1,">un</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="3550,4,">dador de la ley</wi>,
+<wi type="G" value="3588,5,">quien</wi>
+<wi type="G" value="1410,6,">puede</wi>
+<wi type="G" value="4982,7,">salvar</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="622,9,">destruir</wi>.
+¿<wi type="G" value="5101,11,">Quien</wi>
+<wi type="G" value="1488,12,">eres</wi>
+<wi type="G" value="4771,10,">tu</wi>
+<wi type="G" value="3739,13,">para</wi>
+<wi type="G" value="2919,14,">juzgar a</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="2087,16,">otros</wi>?</t>
 </sv></cm>
 
 <cm>
@@ -1807,7 +1821,28 @@ are you to judge another?
 Come now, you
 <wi type="T" value="P"/> who say, «Today or tomorrow let´s go into this city,
 and spend a year there, trade, and make a profit.»
+<t xml:lang="es"><wi type="G" value="71,1,">Vengan</wi>
+<wi type="G" value="3568,2,">ahora</wi>,
+<wi type="G" value="3588,3,">los que</wi>
+<wi type="G" value="3004,4,">dicen</wi>,
+«<wi type="G" value="4594,5,">Hoy</wi>
+<wi type="G" value="2532,6,">o</wi>
+<wi type="G" value="839,7,">mañana</wi>
+<wi type="G" value="4198,8,">vayamos</wi>
+<wi type="G" value="1519,9,">a</wi>
+<wi type="G" value="3592,10,">tal</wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="4172,12,">ciudad</wi>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="4160,14,">quedémonos</wi>
+<wi type="G" value="1563,15,">allí</wi>
+<wi type="G" value="1520,17,">un</wi>
+<wi type="G" value="1763,16,">año</wi>,
+<wi type="G" value="2532,18,"/><wi type="G" value="1710,19,">comerciemos</wi>
+<wi type="G" value="2532,20,">y</wi>
+<wi type="G" value="2770,21,">tengamos ganancia</wi>.»
+</t>
 </sv>
+
 <sv id="Santiago-4-14">
 Whereas you
 <wi type="T" value="P"/>
