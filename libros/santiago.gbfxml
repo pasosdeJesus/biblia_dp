@@ -1944,16 +1944,28 @@ que
 <wi type="G" value="5216,10,">les</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="1904,12,">vendrán</wi>.</t>
 </sv>
+
 <sv id="Santiago-5-2">
 Your riches are corrupted and your garments are
 moth-eaten.
+<t xml:lang="es"><wi type="G" value="5216,3,">Sus</wi>
+<wi type="G" value="3588,1,"/><wi type="G" value="4149,2,">riquezas</wi>
+<wi type="G" value="4595,4,">se han corrompido</wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="5216,8,">sus</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="2440,7,">vestidos</wi>
+<wi type="G" value="1096,10,">han sido</wi>
+<wi type="G" value="4598,9,">comidos por polillas</wi>.
+</t>
 </sv>
+
 <sv id="Santiago-5-3">
 Your gold and your silver are corroded, and their corrosion
 will be for a testimony against you, and will eat your flesh like fire.
 You
 <wi type="T" value="P"/> have laid up your treasure in the last days.
 </sv>
+
 <sv id="Santiago-5-4">
 Behold, the wages
 of the laborers who mowed your fields, which you have kept back by fraud, cry
