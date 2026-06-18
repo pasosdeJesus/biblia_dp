@@ -2038,20 +2038,56 @@ pleasure. You
 <wi type="G" value="2250,13,">un día</wi>
 <wi type="G" value="4967,14,">de matanza</wi>.
 </t>
-
 </sv>
+
 <sv id="Santiago-5-6">
 You
 <wi type="T" value="P"/> have condemned, you
 <wi type="T" value="P"/> have murdered the righteous one. He
 doesn´t resist you.
+<t xml:lang="es"><wi type="G" value="2613,1,">Ustedes han condenado</wi>,
+<wi type="G" value="5407,2,">ustedes han asesinado al</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="1342,4,">justo</wi>.
+<wi type="G" value="498,6,">Él</wi>
+<wi type="G" value="3756,5,">no</wi>
+<wi type="G" value="5213,7,">los</wi>
+<wi type="G" value="498,6,">soporta</wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Santiago-5-7">
 Be patient therefore, brothers, until the coming of the Lord. Behold,
 the farmer waits for the precious fruit of the earth, being patient over it,
 until it receives the early and late rain.
+<t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
+<wi type="G" value="3114,1,">sean pacientes</wi>,
+<wi type="G" value="80,3,">hermanos</wi>,
+<wi type="G" value="2193,4,">hasta</wi>
+<wi type="G" value="3588,5,">el</wi>
+<wi type="G" value="3952,6,">advenimiento</wi>
+<wi type="G" value="3588,7,">del</wi>
+<wi type="G" value="2962,8,">Señor</wi>.
+<wi type="G" value="2400,9,">Observen</wi>
+<wi type="G" value="3588,10,">al</wi>
+<wi type="G" value="1092,11,">campesino</wi> que
+<wi type="G" value="1551,12,">espera</wi>
+<wi type="G" value="3588,13,">el</wi>
+<wi type="G" value="5093,14,">precioso</wi>
+<wi type="G" value="2590,15,">fruto</wi>
+<wi type="G" value="3588,16,">de la</wi>
+<wi type="G" value="1093,17,">tierra</wi>,
+<wi type="G" value="3114,18,">siendo paciente</wi>
+<wi type="G" value="1909,19,">con</wi>
+<wi type="G" value="846,20,">este</wi>,
+<wi type="G" value="2193,21,">hasta</wi>
+<wi type="G" value="302,22,">que</wi>
+<wi type="G" value="2983,23,">recibe</wi>
+<wi type="G" value="5205,24,">la lluvia</wi>
+<wi type="G" value="4406,25,">temprana</wi>
+<wi type="G" value="2532,26,">y</wi>
+<wi type="G" value="3797,27,">tardía</wi>.
+</t>
 </sv>
 <sv id="Santiago-5-8">
 You
