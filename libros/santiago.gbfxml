@@ -2051,7 +2051,7 @@ doesn´t resist you.
 <wi type="G" value="498,6,">Él</wi>
 <wi type="G" value="3756,5,">no</wi>
 <wi type="G" value="5213,7,">los</wi>
-<wi type="G" value="498,6,">resiste</wi>.
+<wi type="GC" value="6">resiste</wi>.
 </t>
 </sv></cm>
 
@@ -2089,13 +2089,27 @@ until it receives the early and late rain.
 <wi type="G" value="3797,27,">tardía</wi>.
 </t>
 </sv>
+
 <sv id="Santiago-5-8">
 You
 <wi type="T" value="P"/> also be patient.
 Establish your hearts, for the coming of the Lord is at hand.
+<t xml:lang="es"><wi type="G" value="2532,2,">Y</wi>
+<wi type="G" value="5210,3,">ustedes</wi>
+<wi type="G" value="3114,1,">sean pacientes</wi>.
+<wi type="G" value="4741,4,">Establezcan</wi>
+<wi type="G" value="5216,7,">sus</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="2588,6,">corazones</wi>
+<wi type="G" value="3754,8,">porque</wi>
+<wi type="G" value="3588,9,">el</wi>
+<wi type="G" value="3952,10,">regreso</wi>
+<wi type="G" value="3588,11,">del</wi>
+<wi type="G" value="2962,12,">Señor</wi>
+<wi type="G" value="1448,13,">está cerca</wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Santiago-5-9">
 Don´t grumble, brothers, against one another, so that you
 <wi type="T" value="P"/> won´t be
