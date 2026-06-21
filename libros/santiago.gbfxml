@@ -2112,14 +2112,54 @@ Establish your hearts, for the coming of the Lord is at hand.
 <cm>
 <sv id="Santiago-5-9">
 Don´t grumble, brothers, against one another, so that you
-<wi type="T" value="P"/> won´t be
-judged. Behold, the judge stands at the door.
+won´t be judged. Behold, the judge stands at the door.
+<rb xml:lang="es"><wi type="G" value="3361,1,">No</wi>
+<wi type="G" value="4727,2,">murmuren</wi><rf>
+<citebib id="WEB"/> dice `Don't grumble´ que puede traducirse como `No se quejen,´
+<citebib id="KJV2003"/> dice `Grudge not´ que puede traducirse como `No guarden
+rencor.´
+La palabra griega `στεναζετε´ puede traducirse como murmurar, suspirar, gemir,
+quejarse.</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="80,5,">hermanos</wi>,
+<wi type="G" value="2596,3,">unos de</wi>
+<wi type="G" value="240,4,">otros</wi>,
+<wi type="G" value="2443,6,">para</wi>
+<wi type="G" value="3361,7,">no</wi>
+<wi type="G" value="2632,8,">ser condenados</wi>.
+<wi type="G" value="2400,9,">Observen</wi>,
+<wi type="G" value="3588,10,">el</wi>
+<wi type="G" value="2923,11,">juez</wi>
+<wi type="G" value="2476,15,">está</wi>
+<wi type="G" value="4253,12,">en</wi>
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="2374,14,">puerta</wi>.
+</t>
 </sv>
+
 <sv id="Santiago-5-10">
 Take, brothers, for an
 example of suffering and of patience, the prophets who spoke in the name of
 the Lord.
+<t xml:lang="es"><wi type="G" value="80,5,">Hermanos</wi>
+<wi type="G" value="3450,6,">mios</wi>,
+<wi type="G" value="2983,2,">tomen</wi>
+<wi type="G" value="5262,1,">como ejemplo</wi>
+<wi type="G" value="3588,3,">de</wi>
+<wi type="G" value="2552,4,">sufrimiento</wi>
+<wi type="G" value="2532,7,">y</wi>
+<wi type="G" value="3588,8,">de</wi>
+<wi type="G" value="3115,9,">paciencia</wi>, a
+<wi type="G" value="3588,10,">los</wi>
+<wi type="G" value="4396,11,">profetas</wi>
+<wi type="G" value="3739,12,">que</wi>
+<wi type="G" value="2980,13,">hablaron</wi>
+<wi type="G" value="3588,14,">en el</wi>
+<wi type="G" value="3686,15,">nombre</wi>
+<wi type="G" value="2962,16,">del Señor</wi>.
+</t>
 </sv>
+
 <sv id="Santiago-5-11">
 Behold, we call them blessed who endured. You
 <wi type="T" value="P"/> have heard
