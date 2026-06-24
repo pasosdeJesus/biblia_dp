@@ -2235,7 +2235,17 @@ nota al pie que dice que <citebib id="TR"/> dice `en juicio.´
 <sv id="Santiago-5-13">
 Is any among you suffering? Let him pray. Is any cheerful? Let him sing
 praises.
+<t xml:lang="es">¿<wi type="G" value="2553,1,">Está</wi> <wi type="G" value="5100,2,">alguno</wi>
+<wi type="G" value="1722,3,">entre</wi>
+<wi type="G" value="5213,4,">ustedes</wi>
+<wi type="GC" value="1">sufriendo</wi>?
+<wi type="G" value="4336,5,">Que ore</wi>.
+¿<wi type="G" value="5100,7,">Alguno</wi>
+<wi type="G" value="2114,6,">está alegre</wi>?
+<wi type="G" value="5567,8,">Que cante alabanzas</wi>.
+</t>
 </sv>
+
 <sv id="Santiago-5-14">
 Is any among you sick? Let him call for the elders of the
 assembly, and let them pray over him, anointing him with oil in the name of
