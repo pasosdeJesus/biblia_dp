@@ -2348,12 +2348,28 @@ three years and six months.
 <wi type="G" value="3376,21,">meses</wi>.
 </t>
 </sv>
+
 <sv id="Santiago-5-18">
 He prayed again, and the sky gave rain, and
 the earth brought forth its fruit.
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="4336,3,">oró</wi>
+<wi type="G" value="3825,2,">nuevamente</wi>,
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="3588,5,">el</wi>
+<wi type="G" value="3772,6,">cielo</wi>
+<wi type="G" value="1325,8,">dio</wi>
+<wi type="G" value="5205,7,">lluvia</wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="3588,10,">la</wi>
+<wi type="G" value="1093,11,">tierra</wi>
+<wi type="G" value="985,12,">dio</wi>
+<wi type="G" value="846,15,">su</wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="2590,14,">fruto</wi>.
+</t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Santiago-5-19">
 Brothers, if any among you wanders from the truth, and someone turns
 him back,
