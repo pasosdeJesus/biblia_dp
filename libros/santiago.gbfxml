@@ -2373,11 +2373,42 @@ the earth brought forth its fruit.
 <sv id="Santiago-5-19">
 Brothers, if any among you wanders from the truth, and someone turns
 him back,
+<t xml:lang="es"><wi type="G" value="80,1,">Hermanos</wi>,
+<wi type="G" value="1437,2,">si</wi>
+<wi type="G" value="5100,3,">alguno</wi>
+<wi type="G" value="1722,4,">de</wi>
+<wi type="G" value="5213,5,">ustedes</wi>
+<wi type="G" value="4105,6,">se aleja</wi>
+<wi type="G" value="575,7,">de</wi>
+<wi type="G" value="3588,8,">la</wi>
+<wi type="G" value="225,9,">verdad</wi>,
+<wi type="G" value="2532,10,">y</wi>
+<wi type="G" value="5100,12,">alguno</wi>
+<wi type="G" value="846,13,">lo</wi>
+<wi type="G" value="1994,11,">convierte</wi>,</t>
 </sv>
+
 <sv id="Santiago-5-20">
 let him know that he who turns a sinner from the error of his
 way will save a soul from death, and will cover a multitude of sins.
-
+<t xml:lang="es"><wi type="G" value="1097,1,">sepa</wi>
+<wi type="G" value="3754,2,">que</wi>
+<wi type="G" value="3588,3,">el que</wi>
+<wi type="G" value="1994,4,">convirtió al</wi>
+<wi type="G" value="268,5,">pecador</wi>
+<wi type="G" value="1537,6,">del</wi>
+<wi type="G" value="4106,7,">error</wi>
+<wi type="G" value="846,9,">de su</wi>
+<wi type="G" value="3598,8,">camino</wi>,
+<wi type="G" value="4982,10,">salvará</wi>
+<wi type="G" value="5590,11,">un alma</wi>
+<wi type="G" value="1537,12,">de</wi>
+<wi type="G" value="2288,13,">la muerte</wi>,
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="2572,15,">cubrirá</wi>
+<wi type="G" value="4128,16,">multitud</wi>
+<wi type="G" value="266,17,">de pecados</wi>.
+</t>
 <cl/>
 
 
