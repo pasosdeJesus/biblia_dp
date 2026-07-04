@@ -164,6 +164,74 @@ fidelidad respecto al Textus Receptus.
 - Diferencias estilísticas que no afectan el significado
 - Notas al pie que ya explican las variantes
 
+### 2.1 Verificación Morfológica Sistemática
+
+**Fuente primordial:** Los archivos KJV OSIS
+(`ref/sword_kjv/capitulos2003/*.osis.xml`) incluyen el atributo `morph` de
+Robinson junto a cada palabra griega. Ejemplo:
+
+```xml
+<w lemma="strong:G1586" morph="robinson:V-AMI-3S" src="8">chosen</w>
+```
+
+**Códigos Robinson esenciales para verbos:**
+
+| Código | Significado |
+|--------|-------------|
+| `V-` | Verbo |
+| `A` (2ª letra) | Aoristo |
+| `P` (2ª letra) | Presente |
+| `I` (2ª letra) | Imperfecto |
+| `F` (2ª letra) | Futuro |
+| `2R` (2ª letra) | Perfecto (2ª reduplicación) |
+| `I` (3ª letra) | Indicativo |
+| `M` (3ª letra) | Imperativo |
+| `S` (3ª letra) | Subjuntivo |
+| `P` (3ª letra) | Participio |
+| `N` (3ª letra) | Infinitivo |
+| `P` (4ª letra) | Voz Pasiva |
+| `M` (4ª letra) | Voz Media |
+| `A` (4ª letra) | Voz Activa |
+| `3S` (final) | 3ª persona singular |
+| `3P` (final) | 3ª persona plural |
+| `2S` (final) | 2ª persona singular |
+| `2P` (final) | 2ª persona plural |
+
+**Algoritmo de verificación por versículo:**
+
+1. **Extraer** de KJV OSIS cada `<w>` que tenga `morph` empezando por `V-`
+2. **Identificar** tiempo y modo con el código Robinson
+3. **Aplicar regla solo a indicativos** (3ª letra = `I`):
+   - Aoristo indicativo (`V-A.I-`): verificar que SpaTDP use «he X»,
+     «ha X» (si pasivo: «ha sido X»). Reportar si usa pretérito simple
+     (-ó/-ieron)
+   - Perfecto indicativo (`V-.R.-` o `V-2R.-`): verificar que SpaTDP use
+     «he sido X», «ha sido X» o equivalente de estado resultante.
+     Reportar si usa presente simple o pretérito
+   - Presente indicativo (`V-P.I-`): verificar que SpaTDP use «está/es X»
+     o presente simple
+   - Imperfecto indicativo (`V-I.I-`): verificar que SpaTDP use «-aba/-ía»
+     (acción continua en pasado). Reportar si usa pretérito simple (-ó)
+4. **No aplicar a**: subjuntivos (`S`), imperativos (`M`), infinitivos (`N`),
+   participios (`P`)
+5. **Citar el código Robinson** en el reporte (ej: `V-AMI-3S`) para
+   trazabilidad
+
+**Ejemplo de reporte morfológico:**
+
+```
+Versículo 5: G1586 ἐξελέξατο (V-AMI-3S: aoristo indicativo medio)
+- Tu traducción: «escogió»
+- Debería ser: «ha escogido» [aoristo indicativo → hecho consumado]
+- RVG2012: «ha elegido» ✓
+```
+
+**Además verificar en cada verbo:**
+
+- Concordancia de número: ¿el verbo español concuerda en singular/plural
+  con el sujeto? (Robinson: `3S` = 3ª singular, `3P` = 3ª plural)
+- Voz: si es pasivo (`P` en 4ª posición), ¿se refleja en la traducción?
+
 ### 3. No omitir versículos
 
 - Si un capítulo tiene 25 versículos, presentar los 25
@@ -176,14 +244,8 @@ fidelidad respecto al Textus Receptus.
 
 #### 4.1. Estructura del Reporte por Versículo
 
-Para CADA versículo sin problema debes presentar:
+Para CADA versículo debes presentar:
 1. **Número de versículo** (ej: ROMANOS 12:1)
-
-2. ✓ Ortografía correcta, Traducción correcta, números Strong coinciden
-
-Para CADA versículo con problemas debes presentar:
-
-1. **Número del versículo** (ej: ROMANOS 12:1)
 
 2. **WEB:** Texto completo del versículo en inglés
 
