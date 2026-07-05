@@ -1016,8 +1016,8 @@ began to cry out, and say, «Jesus, you son of David, have mercy on me!»
 <wi type="G" value="2896,9,">a gritar</wi>
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="3004,11,">decía</wi>,
-«¡<wi type="G" value="2424,15,">Jesús</wi>,
-<wi type="G" value="3588,12,"><wi type="G" value="5207,13,">hijo</wi></wi>
+«¡<wi type="G" value="2424,15," sacred="yes">Jesús</wi>,
+<wi type="G" value="3588,12,"><wi type="G" value="5207,13," sacred="yes">Hijo</wi></wi>
 <wi type="G" value="1138,14,">de David</wi>
 <wi type="G" value="1653,16,">ten piedad</wi>
 <wi type="G" value="3165,17,">de mi</wi>!» </t>
@@ -1035,7 +1035,7 @@ Many rebuked him, that he should be quiet, but he cried out much more,
 <wi type="G" value="2896,11,">él gritaba</wi>
 <wi type="G" value="4183,9,">mucho</wi>
 <wi type="G" value="3123,10,">más</wi>,
-«¡<wi type="G" value="5207,12,">Hijo</wi>
+«¡<wi type="G" value="5207,12," sacred="yes">Hijo</wi>
 <wi type="G" value="1138,13,">de David</wi>,
 <wi type="G" value="1653,14,">ten piedad</wi>
 <wi type="G" value="3165,15,">de mi</wi>!» </t>
@@ -1096,7 +1096,7 @@ The blind man said to him, «
 <t xml:lang="es"><wi type="G" value="1161,12,"/><wi type="G" value="5185,13,">El ciego</wi>
 <wi type="G" value="846,15,">le</wi>
 <wi type="G" value="2036,14,">dijo</wi>, «</t>
-<rb>Rhabboni<t xml:lang="es"><wi type="G" value="4462,16,">Raboni</wi></t><rf>Rhabboni is a transliteration of
+<rb>Rhabboni<t xml:lang="es"><wi type="G" value="4462,16," sacred="yes">Raboni</wi></t><rf>Rhabboni is a transliteration of
 the Hebrew word for «great teacher.»
 <t xml:lang="es">Raboni es una transliteración de una palabra hebrea que
 significa «gran maestro.»</t></rf></rb>

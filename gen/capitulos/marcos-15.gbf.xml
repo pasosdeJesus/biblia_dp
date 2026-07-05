@@ -553,9 +553,9 @@ which is, being interpreted,
 <t xml:lang="es"> <wi type="G" value="3739,16,">que</wi>
 <wi type="G" value="3177,18,">traducido</wi>
 <wi type="G" value="2076,17,">es</wi>
-«<wi type="G" value="3588,19,"><wi type="G" value="2316,20,">Dios</wi></wi>
+«<wi type="G" value="3588,19,"><wi type="G" value="2316,20," sacred="yes">Dios</wi></wi>
 <wi type="G" value="3450,21,">mío</wi>,
-<wi type="G" value="3588,22,"><wi type="G" value="2316,23,">Dios</wi></wi>
+<wi type="G" value="3588,22,"><wi type="G" value="2316,23," sacred="yes">Dios</wi></wi>
 <wi type="G" value="1519,25,"/><wi type="G" value="3450,24,">mío</wi>,
 ¿<wi type="G" value="5101,26,">Por qué</wi>
 <wi type="G" value="3165,27,">me</wi>

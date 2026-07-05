@@ -805,7 +805,7 @@ you care that we are dying?»
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="846,16,">le</wi>
 <wi type="G" value="3004,15,">dijeron</wi>,
-«<wi type="G" value="1320,17,">Maestro</wi>,
+«<wi type="G" value="1320,17," sacred="yes">Maestro</wi>,
 ¿<wi type="G" value="3756,18,">no</wi>
 <wi type="G" value="4671,20,">te</wi>
 <wi type="G" value="3199,19,">preocupa</wi>

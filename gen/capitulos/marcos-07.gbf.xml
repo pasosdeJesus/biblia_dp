@@ -585,7 +585,7 @@ the children´s crumbs.»
 <wi type="G" value="2532,4,"/>
 <wi type="G" value="3004,5,">diciendo</wi>,
 «<wi type="G" value="3483,7,">Si</wi>
-<wi type="G" value="2962,8,">Señor</wi>.
+<wi type="G" value="2962,8," sacred="yes">Señor</wi>.
 <wi type="G" value="2532,9,">Pero</wi>
 <wi type="G" value="1063,10,">hasta</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="2952,12,">los perritos</wi></wi>

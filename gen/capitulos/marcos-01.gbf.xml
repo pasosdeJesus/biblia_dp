@@ -508,7 +508,7 @@ you are: the Holy One of God!»
 ¿<wi type="G" value="5101,3,">Qué</wi>
 tenemos <wi type="G" value="2254,4,">nosotros</wi>
 <wi type="G" value="2532,5,"><wi type="G" value="4671,6,">contigo</wi></wi>,
-<wi type="G" value="2424,7,">Jesús</wi>,
+<wi type="G" value="2424,7," sacred="yes">Jesús</wi>,
 <wi type="G" value="3479,8,">Nazareno</wi>? ¿
 <wi type="G" value="2064,9,">Has venido</wi> a
 <wi type="G" value="622,10,"><wi type="G" value="2248,11,">destruirnos</wi></wi>?

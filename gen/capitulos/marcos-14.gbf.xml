@@ -721,8 +721,8 @@ He said,
 <wi type="G" value="3004,2,">decía</wi>, </t>
 <fr>«Abba, Father, all things are possible to you. Please remove this cup
 from me. However, not what I desire, but what you desire.»
-<t xml:lang="es">«<wi type="G" value="5,3,">Abba</wi>,
-<wi type="G" value="3588,4,"><wi type="G" value="3962,5,">Padre</wi></wi>,
+<t xml:lang="es">«<wi type="G" value="5,3," sacred="yes">Abba</wi>,
+<wi type="G" value="3588,4,"><wi type="G" value="3962,5," sacred="yes">Padre</wi></wi>,
 <wi type="G" value="3956,6,">todo</wi>
 <wi type="G" value="1415,7,">es posible</wi>
 <wi type="G" value="4671,8,">para Ti</wi>.

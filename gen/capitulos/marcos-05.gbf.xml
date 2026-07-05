@@ -118,14 +118,14 @@ con
 <wi type="G" value="1698,7,">yo</wi>
 <wi type="G" value="5101,6,">qué</wi>
 <wi type="G" value="4671,9,">contigo</wi>?
-<wi type="G" value="2424,10,">Jesús</wi>,
-<wi type="G" value="5207,11,">Hijo</wi>
+<wi type="G" value="2424,10," sacred="yes">Jesús</wi>,
+<wi type="G" value="5207,11," sacred="yes">Hijo</wi>
 <wi type="G" value="3588,14,"/>
 <wi type="G" value="5310,15,">del altísimo</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">Dios</wi></wi>.
+<wi type="G" value="3588,12,"><wi type="G" value="2316,13," sacred="yes">Dios</wi></wi>.
 <wi type="G" value="4571,17,">Te</wi>
 <wi type="G" value="3726,16,">pido</wi>
-<wi type="G" value="3588,18,"><wi type="G" value="2316,19,">por Dios</wi></wi>,
+<wi type="G" value="3588,18,"><wi type="G" value="2316,19," sacred="yes">por Dios</wi></wi>,
 <wi type="G" value="3361,20,">no</wi>
 <wi type="G" value="3165,21,">me</wi>
 <wi type="G" value="928,22,">atormentes</wi>.» </t>
