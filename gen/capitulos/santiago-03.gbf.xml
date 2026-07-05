@@ -112,7 +112,7 @@ forest!
 ¡<wi type="G" value="2400,10,">Miren como</wi>
 <wi type="G" value="3641,11,">un pequeño</wi>
 <wi type="G" value="4442,12,">fuego</wi>
-<wi type="G" value="381,15,">puede encender</wi>
+<wi type="G" value="381,15,">enciende</wi>
 <wi type="G" value="2245,13,">un gran</wi> </t>
 <rb xml:lang="es"><wi type="G" value="5208,14,">bosque</wi><rf>
 <citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `bosque,´
@@ -142,12 +142,12 @@ es <wi type="G" value="3588,10,">la</wi>
 <wi type="G" value="2257,16,">nuestros</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="3196,15,">miembros</wi>;
 <wi type="G" value="2525,12,"/><wi type="G" value="3588,17,">que</wi>
-<wi type="G" value="4695,18,">puede ensuciar</wi>
+<wi type="G" value="4695,18,">ensucia</wi>
 <wi type="G" value="3588,20,">el</wi>
 <wi type="G" value="4983,21,">cuerpo</wi>
 <wi type="G" value="3650,19,">entero</wi>,
 <wi type="G" value="2532,22,">e</wi>
-<wi type="G" value="5394,23,">incendiar</wi>
+<wi type="G" value="5394,23,">incendia</wi>
 <wi type="G" value="3588,24,">el</wi>
 <wi type="G" value="5164,25,">curso</wi>
 <wi type="G" value="3588,26,">de la</wi>
@@ -240,7 +240,7 @@ brothers, these things ought not to be so.
 <wi type="G" value="80,11,">hermanos</wi>,
 <wi type="G" value="5023,13,">esto</wi>
 <wi type="G" value="3756,9,">no</wi>
-<wi type="G" value="5534,10,">debería</wi>
+<wi type="G" value="5534,10,">debe</wi>
 <wi type="G" value="1096,15,">ser</wi>
 <wi type="G" value="3779,14,">así</wi>.
 </t>
@@ -325,9 +325,14 @@ La palabra griega `εριθειαν´ según Strong de <citebib id="Thayer-BLB"/
 se traduce como intriga, facción, contienda, disputa. La hemos
 traducido en otros pasajes como rivalidad.
 </rf></rb>
-<t xml:lang="es"><wi type="G" value="1722,8,">en</wi>
-<wi type="G" value="5216,11,">sus</wi>
-<wi type="G" value="3588,9,"/><wi type="G" value="2588,10,">corazones</wi>,
+<t xml:lang="es"><wi type="G" value="1722,8,">en</wi> </t>
+<rb xml:lang="es"><wi type="G" value="5216,11,">su</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="2588,10,">corazón</wi><rf>
+<citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `su corazón,`
+<citebib id="KJV2003"/> dice `sus corazones.`
+En griego sus está en plural, mientras que corazón está en singular.
+</rf></rb>
+<t xml:lang="es">,
 <wi type="G" value="3361,12,">no</wi>
 <wi type="G" value="2620,13,">presuman</wi>
 <wi type="G" value="2532,14,">ni</wi>
