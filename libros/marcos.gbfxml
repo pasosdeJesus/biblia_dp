@@ -137,9 +137,9 @@ los caminos.´</rf></rb>
 <sv id="Marcos-1-4">
 John came
 <t xml:lang="es"><wi type="G" value="2491,2,">Juan</wi>
-<wi type="G" value="1096,1,">estuvo</wi> </t>
+<wi type="G" value="1096,1,">llegó a</wi> </t>
 <rb>baptizing
-<t xml:lang="es"><wi type="G" value="907,3,">bautizando</wi></t>
+<t xml:lang="es"><wi type="G" value="907,3,">bautizar</wi></t>
 <rf>To baptize means to immerse in (or soak and wash with)
 water (or fire). This baptism is not just to cleanse the body, but as an
 outward sign of an inward spiritual cleansing and commitment.
@@ -153,7 +153,7 @@ wilderness and preaching the baptism of repentance for forgiveness of sins.
 <wi type="G" value="3588,5,"/>
 <wi type="G" value="2048,6,">el desierto</wi>,
 <wi type="G" value="2532,7,">y</wi>
-<wi type="G" value="2784,8,">anunciando</wi>
+<wi type="G" value="2784,8,">anunciaba</wi>
 <wi type="G" value="908,9,">el bautizo</wi>
 <wi type="G" value="3341,10,">de arrepentimiento</wi>
 <wi type="G" value="1519,11,">para</wi>
@@ -175,7 +175,7 @@ los de <wi type="G" value="5561,8,">la tierra</wi>
 <wi type="G" value="846,4,">él</wi>.
 <wi type="G" value="2532,12,">Y</wi>
 <wi type="G" value="3956,14,">todos</wi>
-<wi type="G" value="907,13,">fueron bautizados</wi>
+<wi type="G" value="907,13,">eran bautizados</wi>
 <wi type="G" value="5259,19,">por</wi>
 <wi type="G" value="846,20,">él</wi>
 <wi type="G" value="1722,15,">en</wi>
@@ -202,12 +202,18 @@ He ate locusts and wild honey.
 <wi type="G" value="846,13,">de su</wi>
 <wi type="G" value="3588,11,"><wi type="G" value="3751,12,">cintura</wi></wi>.
 <wi type="G" value="2532,14,">Y</wi>
-<wi type="G" value="2068,15,">comía</wi>
-<wi type="G" value="200,16,">grillos</wi>
+<wi type="G" value="2068,15,">comía</wi> </t>
+<rb xml:lang="es"><wi type="G" value="200,16,">langostas del desierto</wi><rf>
+Debe tratarse de "Schistocerca gregaria" también llamada 
+langosta migratoria o langosta, es un insecto similar al saltamontes.
+https://aemetblog.es/2020/05/18/influencia-de-las-variables-meteorologicas-en-el-desarrollo-y-migracion-de-la-langosta-del-desierto/
+</rf></rb>
+<t xml:lang="es">
 <wi type="G" value="2532,17,">y</wi>
 <wi type="G" value="3192,18,">miel</wi>
 <wi type="G" value="66,19,">silvestre</wi>. </t>
 </sv>
+
 <sv id="Marcos-1-7">
 He preached, saying, «After me comes he
 who is mightier than I, the thong of whose sandals I am not worthy to stoop
@@ -309,7 +315,7 @@ am well pleased.»
 <wi type="G" value="1096,3,">salió</wi>
 <wi type="G" value="1537,4,">del</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="3772,6,">cielo</wi></wi>,
-«<wi type="G" value="4771,7,">Tu</wi>
+«<wi type="G" value="4771,7,">Tú</wi>
 <wi type="G" value="1488,8,">eres</wi>
 <wi type="G" value="3450,11,">mi</wi>
 <wi type="G" value="3588,9,"><wi type="G" value="5207,10,">Hijo</wi></wi>
@@ -325,7 +331,7 @@ Immediately the Spirit drove him out into the wilderness.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2117,2,">Después</wi>
 <wi type="G" value="3588,3,"><wi type="G" value="4151,4,">el Espíritu</wi></wi>
 <wi type="G" value="846,5,">lo</wi>
-<wi type="G" value="1544,6,">dirigió</wi>
+<wi type="G" value="1544,6,">impulsó</wi>
 <wi type="G" value="1519,7,">al</wi>
 <wi type="G" value="3588,8,"/>
 <wi type="G" value="2048,9,">desierto</wi>. </t>
