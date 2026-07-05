@@ -1092,7 +1092,7 @@ Four people came, carrying a paralytic to him.
 <wi type="G" value="2064,2,">vinieron</wi>
 <wi type="G" value="4314,3,">a</wi>
 <wi type="G" value="846,4,">Él</wi>,
-<wi type="G" value="5342,6,"><wi type="G" value="142,7">trayendo</wi></wi>
+<wi type="G" value="5342,6,">trayendo</wi>
 <wi type="G" value="3885,5,">un paralítico</wi>
 <wi type="G" value="142,7,">que era cargado</wi>
 <wi type="G" value="5259,8,">por</wi>
@@ -1130,8 +1130,8 @@ lying on.
 
 <sv id="Marcos-2-5">
 Jesus, seeing their faith, said to the paralytic,
-<t xml:lang="es"><wi type="G" value="3588,3,"><wi type="G" value="2424,4,">Jesús</wi></wi>,
-<wi type="G" value="1161,2,"/>
+<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<wi type="G" value="3588,3,"><wi type="G" value="2424,4,">Jesús</wi></wi>,
 <wi type="G" value="1492,1,">viendo</wi>
 <wi type="G" value="846,7,">su</wi>
 <wi type="G" value="3588,5,"><wi type="G" value="4102,6,">fe</wi></wi>,
@@ -1144,7 +1144,7 @@ Jesus, seeing their faith, said to the paralytic,
 <wi type="G" value="4675,16,">tus</wi>
 <wi type="G" value="3588,14,"><wi type="G" value="266,15,">pecados</wi></wi>
 <wi type="G" value="4671,13,">te</wi>
-<wi type="G" value="863,12,">son perdonados</wi>.» </t>
+<wi type="G" value="863,12,">han sido perdonados</wi>.» </t>
 </fr>
 </sv></cm>
 
@@ -1296,7 +1296,7 @@ e
 <wi type="G" value="3004,18,">diciendo</wi>,
 «¡<wi type="G" value="3763,20,">Nunca</wi>
 <wi type="G" value="1492,22,">vimos</wi>
-<wi type="G" value="3779,21,">algo asi</wi>!Â»
+<wi type="G" value="3779,21,">algo así</wi>!»
 <wi type="G" value="3754,19,"/> </t>
 </sv></cm>
 <cm>
@@ -1326,8 +1326,8 @@ at the tax office, and he said to him,
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3855,2,">Al pasar</wi>,
 <wi type="G" value="1492,3,">vio</wi>
 <wi type="G" value="3018,4,">a Levi</wi>,
-<wi type="G" value="3588,5,">el</wi> hijo
-<wi type="G" value="3588,6,"><wi type="G" value="256,7,">de Alfeo</wi></wi>,
+<wi type="G" value="3588,5,">el</wi>
+<wi type="G" value="3588,6,"><wi type="G" value="256,7,">hijo de Alfeo</wi></wi>,
 <wi type="G" value="2521,8,">sentado</wi>
 <wi type="G" value="1909,9,">en</wi>  </t>
 <rb xml:lang="es"><wi type="G" value="3588,10,"><wi type="G" value="5058,11,">la oficina de impuestos</wi></wi><rf>Los
@@ -1414,15 +1414,15 @@ los <wi type="G" value="191,2,">escuchó</wi>,
 <fr>«Those who are healthy have
 no need for a physician, but those who are sick. I came not to call the
 righteous, but sinners to repentance.»
-<t xml:lang="es">«<wi type="G" value="2480,11,">Los saludables</wi>
+<t xml:lang="es">«<wi type="G" value="2480,11,">Los sanos</wi>
 <wi type="G" value="3756,7,">no</wi>
 <wi type="G" value="2192,9,">tienen</wi>
 <wi type="G" value="5532,8,">necesidad</wi>
-<wi type="G" value="3588,10,"/>
-<wi type="G" value="2395,12,">de un médico</wi>,
+<wi type="G" value="3588,10,">de un</wi>
+<wi type="G" value="2395,12,">médico</wi>,
 <wi type="G" value="235,13,">sino</wi>
-<wi type="G" value="3588,14,"/>
-<wi type="G" value="2192,16,">aquellos que están</wi>
+<wi type="G" value="3588,14,">los que </wi>
+<wi type="G" value="2192,16,">están</wi>
 <wi type="G" value="2560,15,">enfermos</wi>.
 <wi type="G" value="3756,17,">No</wi>
 <wi type="G" value="2064,18,">vine</wi>
@@ -1686,7 +1686,8 @@ who were with him?»
 <sv id="Marcos-2-27">
 He said to them,
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3004,2,">Él</wi>
-<wi type="G" value="846,3,">les</wi> <wi type="GC" value="2">dijo</wi>, </t>
+<wi type="G" value="846,3,">les</wi
+<wi type="GC" value="2">dijo</wi>, </t>
 <fr>«The Sabbath was made for
 man, not man for the Sabbath.
 <t xml:lang="es">«<wi type="G" value="3588,4,"><wi type="G" value="4521,5,">El día sabático</wi></wi>
