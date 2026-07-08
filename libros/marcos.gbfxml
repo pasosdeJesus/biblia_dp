@@ -1079,12 +1079,14 @@ to them.
 <wi type="G" value="5562,7,">podía recibirlos</wi>,
 <wi type="G" value="3366,8,">ni siquiera</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="4314,10,">cerca</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="2374,12,">a la puerta</wi></wi>;
+<wi type="G" value="3588,11,">a la</wi>
+<wi type="G" value="2374,12,">puerta</wi>;
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="2980,14,">Él</wi>
 <wi type="G" value="846,15,">les</wi>
 <wi type="GC" value="14">decía</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="3056,17,">la palabra</wi></wi>. </t>
+<wi type="G" value="3588,16,">la</wi>
+<wi type="G" value="3056,17,">palabra</wi>. </t>
 </sv>
 <sv id="Marcos-2-3">
 Four people came, carrying a paralytic to him.
@@ -1110,9 +1112,11 @@ lying on.
 <wi type="G" value="4331,4,">acercarse más</wi>
 <wi type="G" value="846,5,">a Él</wi>
 <wi type="G" value="1223,6,">por</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="3793,8,">la multitud</wi></wi>, </t>
+<wi type="G" value="3588,7,">la</wi>
+<wi type="G" value="3793,8,">multitud</wi>, </t>
 <rb xml:lang="es"><wi type="G" value="648,9,">quitaron</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4721,11,">el techo</wi></wi><rf><citebib id="Peshitta"/> agrega `subieron al techo,´ pero no lo tiene
+<wi type="G" value="3588,10,">el</wi>
+<wi type="G" value="4721,11,">techo</wi><rf><citebib id="Peshitta"/> agrega `subieron al techo,´ pero no lo tiene
 <citebib id="WEB"/>, ni <citebib id="DiosHablaHoy"/>, ni
 <citebib id="DieBibel"/>, ni <citebib id="TR-BLB"/>.  </rf></rb>
 <t xml:lang="es">
@@ -1121,7 +1125,8 @@ lying on.
 <wi type="G" value="2532,14,">Y</wi>
 <wi type="G" value="1846,15,">haciendo una abertura</wi>,
 <wi type="G" value="5465,16,">bajaron</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="2895,18,">la camilla</wi></wi>
+<wi type="G" value="3588,17,">la</wi>
+<wi type="G" value="2895,18,">camilla</wi>
 <wi type="G" value="1909,19,"><wi type="G" value="3739,20,">en la que</wi></wi>
 <wi type="G" value="2621,23,">yacía</wi>
 <wi type="G" value="3588,21,"/>
@@ -1131,10 +1136,10 @@ lying on.
 <sv id="Marcos-2-5">
 Jesus, seeing their faith, said to the paralytic,
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="2424,4,">Jesús</wi></wi>,
+<wi type="G" value="3588,3,"/><wi type="G" value="2424,4,">Jesús</wi>,
 <wi type="G" value="1492,1,">viendo</wi>
 <wi type="G" value="846,7,">su</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="4102,6,">fe</wi></wi>,
+<wi type="G" value="3588,5,"/><wi type="G" value="4102,6,">fe</wi>,
 <wi type="G" value="3004,8,">dijo</wi>
 <wi type="G" value="3588,9,"/>
 <wi type="G" value="3885,10,">al paralítico</wi>,
@@ -1142,7 +1147,7 @@ Jesus, seeing their faith, said to the paralytic,
 <fr>«Son, your sins are forgiven you.»
 <t xml:lang="es">«<wi type="G" value="5043,11,">Hijo</wi>,
 <wi type="G" value="4675,16,">tus</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="266,15,">pecados</wi></wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="266,15,">pecados</wi>
 <wi type="G" value="4671,13,">te</wi>
 <wi type="G" value="863,12,">han sido perdonados</wi>.» </t>
 </fr>
@@ -1155,8 +1160,8 @@ hearts,
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="2258,1,">había</wi>
 <wi type="G" value="5100,3,">algunos</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,4,"><wi type="G" value="1122,5,">escribas</wi></wi><rf><citebib id="Peshitta"/>
-agrega  `y fariseos.´</rf></rb>
+<rb xml:lang="es"><wi type="G" value="3588,4,"/><wi type="G" value="1122,5,">escribas</wi><rf>
+<citebib id="Peshitta"/> agrega  `y fariseos.´</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2532,8,"/>
 <wi type="G" value="2521,7,">sentados</wi>
@@ -1164,7 +1169,7 @@ agrega  `y fariseos.´</rf></rb>
 <wi type="G" value="1260,9,">pensando</wi>
 <wi type="G" value="1722,10,">en</wi>
 <wi type="G" value="846,13,">sus</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="2588,12,">corazones</wi></wi>, </t>
+<wi type="G" value="3588,11,"/><wi type="G" value="2588,12,">corazones</wi>, </t>
 </sv>
 <sv id="Marcos-2-7">
 «Why does this man speak blasphemies like that? Who can forgive
@@ -1180,7 +1185,7 @@ sins but God alone?»
 <wi type="G" value="266,9,">pecados</wi>
 <wi type="G" value="1487,10,"><wi type="G" value="3361,11,">sino</wi></wi>
 <wi type="G" value="1520,12,">solo</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="2316,14,">Dios</wi></wi>?» </t>
+<wi type="G" value="3588,13,"/><wi type="G" value="2316,14,">Dios</wi>?» </t>
 </sv></cm>
 
 <cm>
@@ -1189,10 +1194,10 @@ Immediately Jesus, perceiving in his spirit that they so reasoned within
 themselves, said to them,
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="2112,2,">tan pronto</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="2424,5,">Jesús</wi></wi>,
+<wi type="G" value="3588,4,"/><wi type="G" value="2424,5,">Jesús</wi>,
 <wi type="G" value="1921,3,">percibió</wi> en
 <wi type="G" value="846,8,">su</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="4151,7,">espíritu</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="4151,7,">espíritu</wi>
 <wi type="G" value="3754,9,">que</wi>
 <wi type="G" value="3779,10,">de esa forma</wi>
 <wi type="G" value="1260,11,">razonaban</wi>
@@ -1206,7 +1211,7 @@ themselves, said to them,
 <wi type="G" value="5023,17,">estas cosas</wi>
 <wi type="G" value="1722,19,">en</wi>
 <wi type="G" value="5216,22,">sus</wi>
-<wi type="G" value="3588,20,"><wi type="G" value="2588,21,">corazones</wi></wi>? </t>
+<wi type="G" value="3588,20,"/><wi type="G" value="2588,21,">corazones</wi>? </t>
 </fr>
 </sv>
 <sv id="Marcos-2-9"><fr>
@@ -1218,7 +1223,7 @@ forgiven;´ or to say, `Arise, and take up your bed, and walk?´
 <wi type="G" value="2036,4,">decir</wi>
 <wi type="G" value="3588,5,"/>
 <wi type="G" value="3885,6,">al paralítico</wi>,
-`Tus <wi type="G" value="3588,9,"><wi type="G" value="266,10,">pecados</wi></wi>
+`Tus <wi type="G" value="3588,9,"/><wi type="G" value="266,10,">pecados</wi>
 <wi type="G" value="4671,8,">te</wi>
 <wi type="G" value="863,7,">son perdonados</wi>;´
 <wi type="G" value="2228,11,">o</wi>
@@ -1227,7 +1232,7 @@ forgiven;´ or to say, `Arise, and take up your bed, and walk?´
 <wi type="G" value="2532,14,"/>
 <wi type="G" value="142,15,">toma</wi>
 <wi type="G" value="4675,16,">tu</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="2895,18,">cama</wi></wi>,
+<wi type="G" value="3588,17,"/><wi type="G" value="2895,18,">cama</wi>,
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="4043,20,">camina</wi>?´</t>
 </fr>
@@ -1238,14 +1243,17 @@ authority on earth to forgive sins»
 <t xml:lang="es"><wi type="G" value="2443,1,"/><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="1492,3,">sepan</wi>
 <wi type="G" value="3754,4,">que</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="5207,8,">el Hijo</wi></wi>
-<wi type="G" value="3588,9,"><wi type="G" value="444,10,">del Hombre</wi></wi> </t>
+<wi type="G" value="3588,7,">el</wi>
+<wi type="G" value="5207,8,">Hijo</wi>
+<wi type="G" value="3588,9,">del</wi>
+<wi type="G" value="444,10,">Hombre</wi> </t>
 <rb xml:lang="es">
 <wi type="G" value="2192,6,">tiene</wi>
 <wi type="G" value="1849,5,">la autoridad</wi><rf><citebib id="Peshitta"/> dice
 `es legal.´</rf></rb>
 <t xml:lang="es"> <wi type="G" value="1909,12,">en</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="1093,14,">la tierra</wi></wi>
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="1093,14,">tierra</wi>
 <wi type="G" value="863,11,">para perdonar</wi>
 <wi type="G" value="266,15,">pecados</wi>» </t>
 </fr>
@@ -1263,12 +1271,12 @@ he said to the paralytic
 <wi type="G" value="2532,4,"/>
 <wi type="G" value="142,5,">toma</wi>
 <wi type="G" value="4675,8,">tu</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="2895,7,">camilla</wi></wi>,
+<wi type="G" value="3588,6,"/><wi type="G" value="2895,7,">camilla</wi>,
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="5217,10,">ve</wi>
 <wi type="G" value="1519,11,">a</wi>
 <wi type="G" value="4675,14,">tu</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="3624,13,">casa</wi></wi>.» </t>
+<wi type="G" value="3588,12,"/><wi type="G" value="3624,13,">casa</wi>.» </t>
 </fr>
 </sv></cm>
 
@@ -1281,7 +1289,8 @@ saw anything like this!»
 e
 <wi type="G" value="2112,3,">inmediatamente</wi>
 <wi type="G" value="142,5,">tomó</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="2895,7,">la camilla</wi></wi>,
+<wi type="G" value="3588,6,">la</wi>
+<wi type="G" value="2895,7,">camilla</wi>,
 
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="1831,8,">salió</wi>
@@ -1292,7 +1301,8 @@ e
 <wi type="G" value="1839,12,">estaban asombrados</wi>,
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="1392,15,">daban gloria</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="2316,17,">a Dios</wi></wi>,
+<wi type="G" value="3588,16,">a</wi>
+<wi type="G" value="2316,17,">Dios</wi>,
 <wi type="G" value="3004,18,">diciendo</wi>,
 «¡<wi type="G" value="3763,20,">Nunca</wi>
 <wi type="G" value="1492,22,">vimos</wi>
@@ -1307,10 +1317,11 @@ taught them.
 <wi type="G" value="1831,2,">Él salió</wi>
 <wi type="G" value="3825,3,">de nuevo</wi>
 <wi type="G" value="3844,4,">al</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2281,6,">mar</wi></wi>.
+<wi type="G" value="3588,5,"/><wi type="G" value="2281,6,">mar</wi>.
 <wi type="G" value="2532,7,">Y</wi>
 <wi type="G" value="3956,8,">toda</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="3793,10,">la multitud</wi></wi>
+<wi type="G" value="3588,9,">la</wi>
+<wi type="G" value="3793,10,">multitud</wi>
 <wi type="G" value="2064,11,">vino</wi>
 <wi type="G" value="4314,12,">hacia</wi>
 <wi type="G" value="846,13,">Él</wi>,
@@ -1326,11 +1337,12 @@ at the tax office, and he said to him,
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3855,2,">Al pasar</wi>,
 <wi type="G" value="1492,3,">vio</wi>
 <wi type="G" value="3018,4,">a Levi</wi>,
-<wi type="G" value="3588,5,">el</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="256,7,">hijo de Alfeo</wi></wi>,
+<wi type="G" value="3588,5,"/><wi type="G" value="3588,6,">el</wi>
+<wi type="G" value="256,7,">hijo de Alfeo</wi>,
 <wi type="G" value="2521,8,">sentado</wi>
 <wi type="G" value="1909,9,">en</wi>  </t>
-<rb xml:lang="es"><wi type="G" value="3588,10,"><wi type="G" value="5058,11,">la oficina de impuestos</wi></wi><rf>Los
+<rb xml:lang="es"><wi type="G" value="3588,10,">la</wi>
+<wi type="G" value="5058,11,">oficina de impuestos</wi><rf>Los
 judíos en la época de Jesús pagaban impuestos al imperio
 romano.</rf></rb>
 <t xml:lang="es">, <wi type="G" value="2532,12,">y</wi>
@@ -1355,7 +1367,8 @@ were many, and they followed him.
 <wi type="G" value="1722,3,">mientras</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="2621,5,"><wi type="G" value="846,6,">estaba sentado</wi></wi>
 <wi type="G" value="1722,7,">en</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="3614,9,">la casa</wi></wi>
+<wi type="G" value="3588,8,">la</wi>
+<wi type="G" value="3614,9,">casa</wi>
 <wi type="G" value="846,10,">de él</wi>,
 <wi type="G" value="2532,11,"/>
 que <wi type="G" value="4183,12,">muchos</wi>
@@ -1363,10 +1376,10 @@ que <wi type="G" value="4183,12,">muchos</wi>
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="268,15,">pecadores</wi>
 <wi type="G" value="4873,16,">se sentaron con</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="2424,18,">Jesús</wi></wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="2424,18,">Jesús</wi>
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="846,22,">sus</wi>
-<wi type="G" value="3588,20,"><wi type="G" value="3101,21,">discípulos</wi></wi>,
+<wi type="G" value="3588,20,"/><wi type="G" value="3101,21,">discípulos</wi>,
 <wi type="G" value="1063,24,">pues</wi>
 <wi type="G" value="2258,23,">había</wi>
 <wi type="G" value="4183,25,">muchos</wi>
@@ -1379,26 +1392,28 @@ The scribes and the Pharisees, when
 they saw that he was eating with the sinners and tax collectors, said to his
 disciples, «Why is it that he eats and drinks with tax collectors and
 sinners?»
-<t xml:lang="es"><wi type="G" value="2532,1,"/>Cuando <wi type="G" value="3588,2,"><wi type="G" value="1122,3,">los escribas</wi></wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/>Cuando <wi type="G" value="3588,2,">los</wi>
+<wi type="G" value="1122,3,">escribas</wi>
 <wi type="G" value="2532,4,">y</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="5330,6,">los fariseos</wi></wi>
+<wi type="G" value="3588,5,">los</wi>
+<wi type="G" value="5330,6,">fariseos</wi>
 <wi type="G" value="846,8,">lo</wi> <wi type="G" value="1492,7,">vieron</wi>
 <wi type="G" value="2068,9,">comiendo</wi>
 <wi type="G" value="3326,10,">con</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="5057,12,">recolectores de impuestos</wi></wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="5057,12,">recolectores de impuestos</wi>
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="268,14,">pecadores</wi>,
 <wi type="G" value="3004,15,">dijeron</wi>
 a
 <wi type="G" value="846,18,">sus</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="3101,17,">discípulos</wi></wi> ,
+<wi type="G" value="3588,16,"/><wi type="G" value="3101,17,">discípulos</wi> ,
 «¿<wi type="G" value="5101,19,">Por qué es</wi>
 <wi type="G" value="3754,20,">esto</wi>,
 que <wi type="G" value="2068,26,">Él come</wi>
 <wi type="G" value="2532,27,">y</wi>
 <wi type="G" value="4095,28,">bebe</wi>
 <wi type="G" value="3326,21,">con</wi>
-<wi type="G" value="3588,22,"><wi type="G" value="5057,23,">recolectores de impuestos</wi></wi>
+<wi type="G" value="3588,22,"/><wi type="G" value="5057,23,">recolectores de impuestos</wi>
 <wi type="G" value="2532,24,">y</wi>
 <wi type="G" value="268,25,">pecadores</wi>?» </t>
 </sv></cm>
@@ -1407,7 +1422,7 @@ que <wi type="G" value="2068,26,">Él come</wi>
 <sv id="Marcos-2-17">
 When Jesus heard it, he said to them,
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="191.2,">Cuando</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="2424,4,">Jesús</wi></wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="2424,4,">Jesús</wi>
 los <wi type="G" value="191,2,">escuchó</wi>,
 <wi type="G" value="846,6,">les</wi>
 <wi type="G" value="3004,5,">dijo</wi>, </t>
@@ -1421,8 +1436,8 @@ righteous, but sinners to repentance.»
 <wi type="G" value="3588,10,">de un</wi>
 <wi type="G" value="2395,12,">médico</wi>,
 <wi type="G" value="235,13,">sino</wi>
-<wi type="G" value="3588,14,">los que </wi>
-<wi type="G" value="2192,16,">están</wi>
+<wi type="G" value="3588,14,">los</wi>
+<wi type="G" value="2192,16,">que están</wi>
 <wi type="G" value="2560,15,">enfermos</wi>.
 <wi type="G" value="3756,17,">No</wi>
 <wi type="G" value="2064,18,">vine</wi>
@@ -1440,11 +1455,13 @@ righteous, but sinners to repentance.»
 John´s disciples and the Pharisees were fasting, and they came and
 asked him, «Why do John´s disciples and the disciples of the Pharisees fast,
 but your disciples don´t fast?»
-<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3588,3,"><wi type="G" value="3101,4,">Los discípulos</wi></wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3588,3,">Los</wi>
+<wi type="G" value="3101,4,">discípulos</wi>
 <wi type="G" value="2491,5,">de Juan</wi>
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="3588,7,"/>
-<wi type="G" value="3588,8,"><wi type="G" value="5330,9,">los fariseos</wi></wi>
+<wi type="G" value="3588,8,">los</wi>
+<wi type="G" value="5330,9,">fariseos</wi>
 <wi type="G" value="2258,2,">estaban</wi>
 <wi type="G" value="3522,10,">ayunando</wi>.
 <wi type="G" value="2532,11,"/>Algunas personas
@@ -1453,11 +1470,13 @@ but your disciples don´t fast?»
 <wi type="G" value="846,15,">le</wi>
 <wi type="G" value="3004,14,">dijeron</wi>,
 «¿<wi type="G" value="1223,16,"><wi type="G" value="5101,17,">Por qué</wi></wi>
-<wi type="G" value="3588,18,"><wi type="G" value="3101,19,">los discípulos</wi></wi>
+<wi type="G" value="3588,18,">los</wi>
+<wi type="G" value="3101,19,">discípulos</wi>
 <wi type="G" value="2491,20,">de Juan</wi>
 <wi type="G" value="2532,21,">y</wi>
 <wi type="G" value="3588,22,"/>
-<wi type="G" value="3588,23,"><wi type="G" value="5330,24,">los fariseos</wi></wi>
+<wi type="G" value="3588,23,">los</wi>
+<wi type="G" value="5330,24,">fariseos</wi>
 <wi type="G" value="3522,25,">ayunan</wi>
 <wi type="G" value="3588,26,"/>
 <wi type="G" value="1161,27,">pero</wi>
@@ -1470,14 +1489,16 @@ but your disciples don´t fast?»
 <cm>
 <sv id="Marcos-2-19">
 Jesus said to them,
-<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3588,4,"><wi type="G" value="2424,5,">Jesús</wi></wi>
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="2424,5,">Jesús</wi>
 <wi type="G" value="846,3,">les</wi>
 <wi type="G" value="2036,2,">dijo</wi>, </t> <fr>«Can the groomsmen fast while the bridegroom is
 with them? As long as they have the bridegroom with them, they can´t fast.
 <t xml:lang="es">«¿<wi type="G" value="3361,6,"><wi type="G" value="1410,7,">Pueden</wi></wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,8,"><wi type="G" value="5207,9,">los
-que</wi></wi> están
-<wi type="G" value="3588,10,"><wi type="G" value="3567,11,">de boda</wi></wi><rf><citebib id="WEB"/>
+<rb xml:lang="es"><wi type="G" value="3588,8,">los</wi>
+<wi type="G" value="5207,9,">que</wi> están
+<wi type="G" value="3588,10,">de</wi>
+<wi type="G" value="3567,11,">boda</wi><rf><citebib id="WEB"/>
 dice `groomsmen´ que según <citebib id="gcid"/>
 puede traducirse como `hombres que atienden a la boda del novio,´
 <citebib id="KJV2003"/>
@@ -1490,13 +1511,15 @@ camara nupcial o cuarto donde se realizaban celebración de bodas.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3522,19,">ayunar</wi>
 <wi type="G" value="1722,12,"><wi type="G" value="3739,13,">mientras</wi></wi>
-<wi type="G" value="3588,14,"><wi type="G" value="3566,15,">el novio</wi></wi>
+<wi type="G" value="3588,14,">el</wi>
+<wi type="G" value="3566,15,">novio</wi>
 <wi type="G" value="2076,18,">está</wi>
 <wi type="G" value="3326,16,">con</wi>
 <wi type="G" value="846,17,">ellos</wi>?
 <wi type="G" value="5550,21,"><wi type="G" value="3745,20,">Mientras</wi></wi>
 <wi type="G" value="2192,24,">tengan</wi>
-<wi type="G" value="3588,25,"><wi type="G" value="3566,26,">al novio</wi></wi>
+<wi type="G" value="3588,25,">al</wi>
+<wi type="G" value="3566,26,">novio</wi>
 <wi type="G" value="3326,22,">con</wi>
 <wi type="G" value="1438,23,">ellos</wi>,
 <wi type="G" value="3756,27,">no</wi>
@@ -1512,7 +1535,8 @@ them, and then will they fast in that day.
 <wi type="G" value="2064,1,">vendrán</wi>
 <wi type="G" value="2250,3,">días</wi>
 <wi type="G" value="3752,4,">en los que</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="3566,9,">el novio</wi></wi>,
+<wi type="G" value="3588,8,">el</wi>
+<wi type="G" value="3566,9,">novio</wi>,
 <wi type="G" value="575,6,"/>
 <wi type="G" value="846,7,">les</wi>
 <wi type="G" value="522,5,">será quitado</wi>,
@@ -1521,7 +1545,7 @@ them, and then will they fast in that day.
 <wi type="G" value="3522,12,">ayunarán</wi>
 <wi type="G" value="1722,13,">en</wi>
 <wi type="G" value="1565,14,">esos</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="2250,16,">días</wi></wi>. </t>
+<wi type="G" value="3588,15,"/><wi type="G" value="2250,16,">días</wi>. </t>
 </fr>
 </sv>
 <sv id="Marcos-2-21"><fr>
@@ -1568,16 +1592,20 @@ wineskins.»
 <wi type="G" value="779,7,">odres</wi>
 <wi type="G" value="3820,8,">viejos</wi>,
 <wi type="G" value="1487,9,"><wi type="G" value="1161,10,"><wi type="G" value="3361,11,">porque</wi></wi></wi>
-<wi type="G" value="3588,13,"><wi type="G" value="3631,14,">el</wi> vino</wi>
+<wi type="G" value="3588,13,">el</wi>
+<wi type="G" value="3631,14,">vino</wi>
 <wi type="G" value="3588,15,"/>
 <wi type="G" value="3501,16,">nuevo</wi>
 <wi type="G" value="4486,12,">romperá</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="779,18,">los odres</wi></wi>,
+<wi type="G" value="3588,17,">los</wi>
+<wi type="G" value="779,18,">odres</wi>,
 <wi type="G" value="2532,19,">y</wi>
-<wi type="G" value="3588,20,"><wi type="G" value="3631,21,">el vino</wi></wi>
+<wi type="G" value="3588,20,">el</wi>
+<wi type="G" value="3631,21,">vino</wi>
 <wi type="G" value="1632,22,">se derramará</wi>,
 <wi type="G" value="2532,23,">y</wi>
-<wi type="G" value="3588,24,"><wi type="G" value="779,25,">los odres</wi></wi>
+<wi type="G" value="3588,24,">los</wi>
+<wi type="G" value="779,25,">odres</wi>
 <wi type="G" value="622,26,">quedarán destruidos</wi>;
 <wi type="G" value="235,27,">en cambio</wi>
 <wi type="G" value="992,33,">se pone</wi>
@@ -1596,7 +1624,8 @@ fields, and his disciples began, as they went, to pluck the ears of grain.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="1096,2,">Sucedió</wi>
 <wi type="G" value="3899,3,">que</wi>
 <wi type="G" value="1722,5,">en</wi>
-un <wi type="G" value="3588,6,"><wi type="G" value="4521,7,">día de reposo</wi></wi>
+<wi type="G" value="3588,6,">un</wi>
+<wi type="G" value="4521,7,">día de reposo</wi>
 <wi type="G" value="846,4,">Él</wi>
 <wi type="GC" value="3">pasaba</wi>
 <wi type="G" value="1223,8,">por</wi>
@@ -1604,16 +1633,18 @@ un <wi type="G" value="3588,6,"><wi type="G" value="4521,7,">día de reposo</wi>
 <wi type="G" value="4702,10,">los sembrados de granos</wi>,
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="846,15,">sus</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="3101,14,">discípulos</wi></wi>,
+<wi type="G" value="3588,13,"/><wi type="G" value="3101,14,">discípulos</wi>,
 <wi type="G" value="3598,16,">en el recorrido</wi>,
 <wi type="G" value="756,12,">comenzaron</wi>
 <wi type="G" value="4160,17,"><wi type="G" value="5089,18,">a arrancar</wi></wi>
-<wi type="G" value="3588,19,"><wi type="G" value="4719,20,">las espigas</wi></wi>. </t>
+<wi type="G" value="3588,19,">las</wi>
+<wi type="G" value="4719,20,">espigas</wi>. </t>
 </sv>
 <sv id="Marcos-2-24">
 The Pharisees said to him, «Behold, why do they do that which is not
 lawful on the Sabbath day?»
-<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3588,2,"><wi type="G" value="5330,3,">Los fariseos</wi></wi>
+<t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3588,2,">Los</wi>
+<wi type="G" value="5330,3,">fariseos</wi>
 <wi type="G" value="846,5,">le</wi>
 <wi type="G" value="3004,4,">dijeron</wi>, «<wi type="G" value="1492,6,">Observa</wi>,
 ¿<wi type="G" value="5101,7,">Por qué</wi>
@@ -1622,7 +1653,8 @@ lawful on the Sabbath day?»
 <wi type="G" value="3756,13,">no</wi>
 <wi type="G" value="1832,14,">es legal</wi>
 <wi type="G" value="1722,9,">en</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4521,11,">el día sabático</wi></wi>?» </t>
+<wi type="G" value="3588,10,">el</wi>
+<wi type="G" value="4521,11,">día sabático</wi>?» </t>
 </sv></cm>
 <cm>
 <sv id="Marcos-2-25">
@@ -1658,11 +1690,13 @@ who were with him?»
 <t xml:lang="es">¿<wi type="G" value="4459,1,">Cómo</wi>
 <wi type="G" value="1525,2,">él entró</wi>
 <wi type="G" value="1519,3,">a</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="3624,5,">la casa</wi></wi>
-<wi type="G" value="3588,6,"><wi type="G" value="2316,7,">de Dios</wi></wi>
+<wi type="G" value="3588,4,">la</wi>
+<wi type="G" value="3624,5,">casa</wi>
+<wi type="G" value="3588,6,">de</wi>
+<wi type="G" value="2316,7,">Dios</wi>
 <wi type="G" value="1909,8,">cuando</wi>
 <wi type="G" value="8,9,">Abiatar</wi> era
-<wi type="G" value="3588,10,"><wi type="G" value="749,11,">sumo sacerdote</wi></wi>,
+<wi type="G" value="3588,10,"/><wi type="G" value="749,11,">sumo sacerdote</wi>,
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="3588,13,"/>
 <wi type="G" value="5315,17,">comió</wi>
@@ -1673,12 +1707,13 @@ who were with him?»
 <wi type="G" value="1832,20,">es permitido</wi>
 <wi type="G" value="5315,21,">comer</wi>
 <wi type="G" value="1487,22,"><wi type="G" value="3361,23,">excepto</wi></wi>
-<wi type="G" value="3588,24,"><wi type="G" value="2409,25,">a los sacerdotes</wi></wi>,
+<wi type="G" value="3588,24,">a los</wi>
+<wi type="G" value="2409,25,">sacerdotes</wi>,
 <wi type="G" value="2532,26,">y</wi>
 <wi type="G" value="2532,28,">también</wi>
 <wi type="G" value="1325,27,">le dio</wi>
-<wi type="G" value="3588,29,">a los que</wi>
-<wi type="G" value="5607,32,">estaban</wi>
+<wi type="G" value="3588,29,">a los</wi>
+<wi type="G" value="5607,32,">que estaban</wi>
 <wi type="G" value="4862,30,">con</wi>
 <wi type="G" value="846,31,">él</wi>?» </t>
 </fr>
@@ -1686,29 +1721,36 @@ who were with him?»
 <sv id="Marcos-2-27">
 He said to them,
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="3004,2,">Él</wi>
-<wi type="G" value="846,3,">les</wi
+<wi type="G" value="846,3,">les</wi>
 <wi type="GC" value="2">dijo</wi>, </t>
 <fr>«The Sabbath was made for
 man, not man for the Sabbath.
-<t xml:lang="es">«<wi type="G" value="3588,4,"><wi type="G" value="4521,5,">El día sabático</wi></wi>
+<t xml:lang="es">«<wi type="G" value="3588,4,">El</wi>
+<wi type="G" value="4521,5,">día sabático</wi>
 <wi type="G" value="1096,9,">fue hecho</wi>
 <wi type="G" value="1223,6,">para</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="444,8,">los hombres</wi></wi>,
+<wi type="G" value="3588,7,">los</wi>
+<wi type="G" value="444,8,">hombres</wi>,
 <wi type="G" value="3756,10,">no</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="444,12,">los hombres</wi></wi>
+<wi type="G" value="3588,11,">los</wi>
+<wi type="G" value="444,12,">hombres</wi>
 <wi type="G" value="1223,13,">para</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="4521,15,">el día sabático</wi></wi>. </t>
+<wi type="G" value="3588,14,">el</wi>
+<wi type="G" value="4521,15,">día sabático</wi>. </t>
 </fr>
 </sv>
 <sv id="Marcos-2-28"><fr>
 Therefore the Son of Man is lord even of the Sabbath.»
 <t xml:lang="es"><wi type="G" value="5620,1,">Así que</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="5207,5,">el Hijo</wi></wi>
-<wi type="G" value="3588,6,"><wi type="G" value="444,7,">del Hombre</wi></wi>
+<wi type="G" value="3588,4,">el</wi>
+<wi type="G" value="5207,5,">Hijo</wi>
+<wi type="G" value="3588,6,">del</wi>
+<wi type="G" value="444,7,">Hombre</wi>
 <wi type="G" value="2076,3,">es</wi>
 <wi type="G" value="2962,2,">Señor</wi>
 <wi type="G" value="2532,8,">incluso</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="4521,10,">del día sabático</wi></wi>. </t>
+<wi type="G" value="3588,9,">del</wi>
+<wi type="G" value="4521,10,">día sabático</wi>. </t>
 </fr>
 </sv></cm></sc>
 

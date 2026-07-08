@@ -74,3 +74,12 @@ Make a summary of this project and the relation you see between it and the frame
 > "Con seguridad les digo, donde quiera que esta Buena Nueva se predique por
 > todo el mundo, y lo que ella ha hecho será dicho en conmemoración de ella."
 > (Marcos 14:9)
+
+## 7. Restricciones de Git
+
+**No uses operaciones de escritura en git** sin autorización explícita del usuario:
+- ❌ `git stash` / `git stash pop`
+- ❌ `git commit`
+- ❌ `git push`
+- ❌ `git checkout -- <archivo>` (descartar cambios)
+- ✅ `git status`, `git diff`, `git log` (solo lectura)

@@ -402,6 +402,53 @@ Ejemplo: G2150 aparece en 1 Tim 2:2, 3:16, 4:7,8, 6:3,5,6,11 - debe ser siempre
 </sb>
 ```
 
+### Convención para G3588 (artículo griego ὁ/ἡ/τό)
+
+A partir de 2026, G3588 **no se anida** dentro de otro `<wi>`. En su lugar,
+se separa como elemento independiente según su traducción al español:
+
+**Regla general:** El artículo se extrae del texto de la palabra que modifica.
+
+**Cuando el artículo tiene traducción explícita:**
+```xml
+<!-- ANTES (anidado): -->
+<wi type="G" value="3588,5,"><wi type="G" value="4864,6,">la sinagoga</wi></wi>
+
+<!-- AHORA (separado): -->
+<wi type="G" value="3588,5,">la</wi>
+<wi type="G" value="4864,6,">sinagoga</wi>
+```
+
+**Cuando el artículo no se traduce al español** (ej. ante nombres propios,
+sustantivos sin artículo en español):
+```xml
+<!-- ANTES (anidado): -->
+<wi type="G" value="3588,3,"><wi type="G" value="2424,4,">Jesús</wi></wi>
+
+<!-- AHORA (vacío, sin espacio con la siguiente palabra): -->
+<wi type="G" value="3588,3,"/><wi type="G" value="2424,4,">Jesús</wi>
+```
+
+**Contracciones y preposiciones:** Cuando el artículo griego en caso oblicuo
+(dativo, genitivo) funciona como preposición en español, G3588 recibe esa
+preposición:
+- τῷ → «al», «a la», «a los»  |  τοῦ → «del», «de la», «de los», «de»
+- Ej: `<wi type="G" value="3588,16,">a</wi> <wi type="G" value="2316,17,">Dios</wi>`
+- Ej: `<wi type="G" value="3588,6,">de</wi> <wi type="G" value="2316,7,">Dios</wi>`
+
+**Artículos que se extraen** (en orden de prioridad, coincidencia más larga):
+`de los`, `de las`, `de la`, `a los que`, `a los`, `a las`, `a la`,
+`en los`, `en las`, `en el`, `en la`, `por los`, `por las`, `por el`, `por la`,
+`los que`, `las que`, `del`, `al`, `de`, `a`,
+`Los`, `Las`, `los`, `las`, `El`, `La`, `el`, `la`,
+`Un`, `Una`, `un`, `una`, `unos`, `unas`.
+
+**Script de conversión:** `herram/art3588.mjs` automatiza esta transformación
+por capítulo:
+```bash
+node herram/art3588.mjs <libro> <capítulo>
+```
+
 
 
 ## Contexto Técnico
