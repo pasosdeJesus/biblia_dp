@@ -2450,7 +2450,8 @@ the multitude were on the land by the sea.
 <wi type="G" value="756,3,">comenzó</wi>
 <wi type="G" value="1321,4,">a enseñar</wi>
 <wi type="G" value="3844,5,">en</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="2281,7,">el mar</wi></wi>.
+<wi type="G" value="3588,6,">el</wi>
+<wi type="G" value="2281,7,">mar</wi>.
 <wi type="G" value="2532,8,">Y</wi> <wi type="G" value="3793,12,">una</wi>
 <wi type="G" value="4183,13,">gran</wi>
 <wi type="GC" value="12">multitud</wi>
@@ -2461,18 +2462,22 @@ the multitude were on the land by the sea.
 <wi type="G" value="846,15,">Él</wi>
 <wi type="G" value="1684,16,">subió</wi>
 <wi type="G" value="1519,17,">a</wi>
-<wi type="G" value="3588,18,"><wi type="G" value="4143,19,">un bote</wi></wi>
+<wi type="G" value="3588,18,">un</wi>
+<wi type="G" value="4143,19,">bote</wi>
 <wi type="G" value="1722,21,">en</wi>
-<wi type="G" value="3588,22,"><wi type="G" value="2281,23,">el mar</wi></wi>
+<wi type="G" value="3588,22,">el</wi>
+<wi type="G" value="2281,23,">mar</wi>
 y
 <wi type="G" value="2521,20,">se sentó</wi>.
 <wi type="G" value="2532,24,"/><wi type="G" value="3956,25,">Toda</wi>
-<wi type="G" value="3588,26,"><wi type="G" value="3793,27,">la multitud</wi></wi>
+<wi type="G" value="3588,26,">la</wi>
+<wi type="G" value="3793,27,">multitud</wi>
 <wi type="G" value="2258,34,">estaba</wi>
 <wi type="G" value="1909,31,">en</wi>
-<wi type="G" value="3588,32,"><wi type="G" value="1093,33,">tierra</wi></wi>
+<wi type="G" value="3588,32,"/><wi type="G" value="1093,33,">tierra</wi>
 <wi type="G" value="4314,28,">junto</wi>
-<wi type="G" value="3588,29,"><wi type="G" value="2281,30,">al mar</wi></wi>. </t>
+<wi type="G" value="3588,29,">al</wi>
+<wi type="G" value="2281,30,">mar</wi>. </t>
 </sv>
 <sv id="Marcos-4-2">
 He taught them many things in
@@ -2487,7 +2492,7 @@ en <wi type="G" value="4183,6,">muchas cosas</wi>
 <wi type="G" value="3004,8,">decía</wi>
 <wi type="G" value="1722,10,">en</wi>
 <wi type="G" value="846,13,">sus</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="1322,12,">enseñanzas</wi></wi>, </t>
+<wi type="G" value="3588,11,"/><wi type="G" value="1322,12,">enseñanzas</wi>, </t>
 </sv>
 <sv id="Marcos-4-3">
 <fr>«Listen! Behold, the farmer
@@ -2512,10 +2517,13 @@ road, and the birds
 <wi type="G" value="3739,6,"><wi type="G" value="3303,7,">que algunas</wi></wi>
 <wi type="G" value="4098,8,">cayeron</wi>
 <wi type="G" value="3844,9,">sobre</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="3598,11,">el camino</wi></wi>,
+<wi type="G" value="3588,10,">el</wi>
+<wi type="G" value="3598,11,">camino</wi>,
 <wi type="G" value="2532,12,">y</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="4071,15,">los pájaros</wi></wi> </t>
-<rb><t xml:lang="es"><wi type="G" value="3588,16,"><wi type="G" value="3772,17,">del aire</wi></wi></t>
+<wi type="G" value="3588,14,">los</wi>
+<wi type="G" value="4071,15,">pájaros</wi> </t>
+<rb><t xml:lang="es"><wi type="G" value="3588,16,">del</wi>
+<wi type="G" value="3772,17,">aire</wi></t>
 <rf>TR adds «of the air.»
 <t xml:lang="es"><citebib id="WEB"/> no dice `del aire,´ pero si lo
 incluyen <citebib id="TR"/>, <citebib id="KJV2003"/>. </t></rf></rb>
@@ -2574,9 +2582,11 @@ it yielded no fruit.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="243,2,">Otras</wi>
 <wi type="G" value="4098,3,">cayeron</wi>
 <wi type="G" value="1519,4,">entre</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="173,6,">las espinas</wi></wi>,
+<wi type="G" value="3588,5,">las</wi>
+<wi type="G" value="173,6,">espinas</wi>,
 <wi type="G" value="2532,7,">y</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="173,10,">las espinas</wi></wi>
+<wi type="G" value="3588,9,">las</wi>
+<wi type="G" value="173,10,">espinas</wi>
 <wi type="G" value="305,8,">crecieron</wi>,
 <wi type="G" value="2532,11,"/>
 <wi type="G" value="846,13,">las</wi>
@@ -2594,7 +2604,7 @@ times, and some one hundred times as much.»
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="243,2,">Otras</wi>
 <wi type="G" value="4098,3,">cayeron</wi>
 <wi type="G" value="1519,4,">en</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="1093,6,">tierra</wi></wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="1093,6,">tierra</wi>
 <wi type="G" value="3588,7,"/>
 <wi type="G" value="2570,8,">buena</wi>,
 <wi type="G" value="2532,9,">y</wi>
@@ -2645,7 +2655,8 @@ about the parables.
 <wi type="G" value="846,6,">le</wi>
 <wi type="G" value="2065,5,">preguntaron</wi> sobre
 <wi type="G" value="3588,11,"/>
-<wi type="G" value="3588,13,"><wi type="G" value="3850,14,">la parábola</wi></wi>. </t>
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="3850,14,">parábola</wi>. </t>
 </sv>
 <sv id="Marcos-4-11">
 He said to them,
@@ -2658,9 +2669,12 @@ parables,
 <t xml:lang="es">«<wi type="G" value="5213,4,">A ustedes</wi>
 <wi type="G" value="1325,5,">les es dado</wi>
 <wi type="G" value="1097,6,">conocer</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="3466,8,">el misterio</wi></wi>
-<wi type="G" value="3588,9,"><wi type="G" value="932,10,">del Reino</wi></wi>
-<wi type="G" value="3588,11,"><wi type="G" value="2316,12,">de Dios</wi></wi>,
+<wi type="G" value="3588,7,">el</wi>
+<wi type="G" value="3466,8,">misterio</wi>
+<wi type="G" value="3588,9,">del</wi>
+<wi type="G" value="932,10,">Reino</wi>
+<wi type="G" value="3588,11,">de</wi>
+<wi type="G" value="2316,12,">Dios</wi>,
 <wi type="G" value="1161,14,">pero</wi>
 <wi type="G" value="3588,15,"/>
 <wi type="G" value="1565,13,">para los que</wi>
@@ -2693,7 +2707,7 @@ sins should be forgiven them.´»
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="846,17,">les</wi>
 <wi type="G" value="863,16,">sean perdonados</wi>
-los <wi type="G" value="3588,18,"><wi type="G" value="265,19,">pecados</wi></wi>
+los <wi type="G" value="3588,18,"/><wi type="G" value="265,19,">pecados</wi>
 <rf>Ver nota al pie
 de Mateo 13:15.</rf></rb>
 <t xml:lang="es">.´» </t>
@@ -2710,18 +2724,20 @@ you understand all of the parables?
 <wi type="G" value="1492,5,">entienden</wi>
 <wi type="G" value="3778,8,">esta</wi>
 <wi type="G" value="2532,9,"/>
-<wi type="G" value="3588,6,"><wi type="G" value="3850,7,">parábola</wi></wi>?
+<wi type="G" value="3588,6,"/><wi type="G" value="3850,7,">parábola</wi>?
 ¿<wi type="G" value="4459,10,">Cómo</wi>
 <wi type="G" value="1097,14,">entenderán</wi> entonces
 <wi type="G" value="3956,11,">todas</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="3850,13,">las parábolas</wi></wi>? </t>
+<wi type="G" value="3588,12,">las</wi>
+<wi type="G" value="3850,13,">parábolas</wi>? </t>
 </fr>
 </sv>
 <sv id="Marcos-4-14"><fr>
 The farmer sows the word.
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="4687,2,">El campesino</wi>
 <wi type="G" value="4687,5,">siembra</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="3056,4,">la palabra</wi></wi>. </t>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="3056,4,">palabra</wi>. </t>
 </fr>
 </sv>
 <sv id="Marcos-4-15"><fr>
@@ -2733,23 +2749,26 @@ sown in them.
 <wi type="G" value="1526,3,">están</wi>
 <wi type="G" value="3588,4,"/>
 <wi type="G" value="3844,5,">sobre</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="3598,7,">el camino</wi></wi>:
+<wi type="G" value="3588,6,">el</wi>
+<wi type="G" value="3598,7,">camino</wi>:
 <wi type="G" value="3699,8,">donde</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="3056,11,">la palabra</wi></wi>
+<wi type="G" value="3588,10,">la</wi>
+<wi type="G" value="3056,11,">palabra</wi>
 <wi type="G" value="4687,9,">es sembrada</wi>;
 <wi type="G" value="2532,12,">pero</wi>
 <wi type="G" value="3752,13,">tan pronto</wi>
 <wi type="G" value="191,14,">la han oído</wi>,
 <wi type="G" value="2064,16,">viene</wi> <wi type="G" value="2112,15,"/>
-<wi type="G" value="3588,17,"><wi type="G" value="4567,18,">Satanás</wi></wi>,
+<wi type="G" value="3588,17,"/><wi type="G" value="4567,18,">Satanás</wi>,
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="142,20,">se lleva</wi>
-<wi type="G" value="3588,21,"><wi type="G" value="3056,22,">la palabra</wi></wi>
+<wi type="G" value="3588,21,">la</wi>
+<wi type="G" value="3056,22,">palabra</wi>
 <wi type="G" value="3588,23,"/>
 <wi type="G" value="4687,24,">sembrada</wi> </t>
 <rb xml:lang="es"><wi type="G" value="1722,25,">en</wi>
 <wi type="G" value="846,28,">sus</wi>
-<wi type="G" value="3588,26,"><wi type="G" value="2588,27,">corazones</wi></wi><rf><citebib id="WEB"/> dice `en ellos,´
+<wi type="G" value="3588,26,"/><wi type="G" value="2588,27,">corazones</wi><rf><citebib id="WEB"/> dice `en ellos,´
 <citebib id="TR-BLB"/>, <citebib id="KJV2003"/> y
 <citebib id="Peshitta"/> dicen `en sus corazones.´</rf></rb>
 <t xml:lang="es">. </t>
@@ -2768,7 +2787,8 @@ places, who, when they have heard the word, immediately receive it with joy.
 <wi type="G" value="3739,10,">aquellos</wi>,
 <wi type="G" value="3752,11,">que cuando</wi>
 <wi type="G" value="191,12,">escuchan</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="3056,14,">la palabra</wi></wi>
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="3056,14,">palabra</wi>
 <wi type="G" value="846,19,">la</wi>
 <wi type="G" value="2983,18,">reciben</wi>
 <wi type="G" value="2112,15,">de inmediato</wi>
@@ -2795,7 +2815,7 @@ cuando
 <wi type="G" value="1375,14,">la persecución</wi>
 <wi type="G" value="1096,11,">llegan</wi>
 <wi type="G" value="1223,15,">por</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="3056,17,">causa de la palabra</wi></wi>,
+<wi type="G" value="3588,16,"/><wi type="G" value="3056,17,">causa de la palabra</wi>,
 <wi type="G" value="2112,18,">de inmediato</wi>
 <wi type="G" value="4624,19,">tropiezan</wi>. </t>
 </fr>
@@ -2808,10 +2828,11 @@ have heard the word,
 <wi type="G" value="3588,4,"/>
 <wi type="G" value="4687,8,">las sembradas</wi>
 <wi type="G" value="1519,5,">entre</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="173,7,">espinas</wi></wi>:
+<wi type="G" value="3588,6,"/><wi type="G" value="173,7,">espinas</wi>:
 <wi type="G" value="3588,9,"/>
 <wi type="G" value="191,12,">escuchan</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="3056,11,">la palabra</wi></wi>, </t>
+<wi type="G" value="3588,10,">la</wi>
+<wi type="G" value="3056,11,">palabra</wi>, </t>
 </fr>
 </sv>
 <sv id="Marcos-4-19"><fr>
@@ -2819,15 +2840,18 @@ and the cares of this age, and the deceitfulness
 of riches, and the lusts of other things entering in choke the word, and it
 becomes unfruitful.
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="3308,3,">las preocupaciones</wi></wi> </t>
+<wi type="G" value="3588,2,">las</wi>
+<wi type="G" value="3308,3,">preocupaciones</wi> </t>
 <rb xml:lang="es"><wi type="G" value="5127,6,">de este</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="165,5,">mundo</wi></wi><rf><citebib id="WEB"/> dice `esta época,´
+<wi type="G" value="3588,4,"/><wi type="G" value="165,5,">mundo</wi><rf><citebib id="WEB"/> dice `esta época,´
 <citebib id="Peshitta"/>, <citebib id="DieBibel"/> y
 <citebib id="DiosHablaHoy"/> dicen `de este  mundo.´</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="2532,7,"/>
-<wi type="G" value="3588,8,"><wi type="G" value="539,9,">el engaño</wi></wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4149,11,">de la riqueza</wi></wi>,
+<wi type="G" value="3588,8,">el</wi>
+<wi type="G" value="539,9,">engaño</wi>
+<wi type="G" value="3588,10,">de la</wi>
+<wi type="G" value="4149,11,">riqueza</wi>,
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="3588,13,"/>
 <wi type="G" value="1939,17,">los deseos</wi>
@@ -2836,7 +2860,8 @@ becomes unfruitful.
 <wi type="G" value="3062,16,">otras cosas</wi>
 <wi type="G" value="1531,18,">entran</wi>
 <wi type="G" value="4846,19,">a sofocar</wi>
-<wi type="G" value="3588,20,"><wi type="G" value="3056,21,">la palabra</wi></wi>,
+<wi type="G" value="3588,20,">la</wi>
+<wi type="G" value="3056,21,">palabra</wi>,
 <wi type="G" value="2532,22,">y</wi>
 <wi type="G" value="1096,24,">se vuelve</wi>
 <wi type="G" value="175,23,">infértil</wi>. </t>
@@ -2852,12 +2877,13 @@ sixty times, and some one hundred times.»
 <wi type="G" value="3588,4,"/>
 <wi type="G" value="4687,10,">las sembradas</wi>
 <wi type="G" value="1909,5,">en</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="1093,7,">tierra</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="1093,7,">tierra</wi>
 <wi type="G" value="3588,8,"/>
 <wi type="G" value="2570,9,">buena</wi>:
 <wi type="G" value="3748,11,">aquellos</wi> que
 <wi type="G" value="191,12,">escuchan</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="3056,14,">la palabra</wi></wi>,
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="3056,14,">palabra</wi>,
 <wi type="G" value="2532,15,"/>
 la <wi type="G" value="3858,16,">reciben</wi>,
 <wi type="G" value="2532,17,">y</wi>
@@ -2882,12 +2908,13 @@ He said to them,
 <fr>«Is the lamp brought to be put under a
 <t xml:lang="es">«¿<wi type="G" value="3385,4,">Se</wi>
 <wi type="G" value="2064,7,">trae</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="3088,6,">la lampara</wi></wi>
+<wi type="G" value="3588,5,">la</wi>
+<wi type="G" value="3088,6,">lampara</wi>
 <wi type="G" value="2443,8,">para</wi>
 <wi type="G" value="5087,12,">ponerla</wi>
 <wi type="G" value="5259,9,">debajo</wi> de un </t>
 <rb>basket
-<t xml:lang="es"><wi type="G" value="3588,10,"><wi type="G" value="3426,11,">cajón</wi></wi></t>
+<t xml:lang="es"><wi type="G" value="3588,10,"/><wi type="G" value="3426,11,">cajón</wi></t>
 <rf>Literally, a modion, a dry measuring basket containing about a
 peck (about 9 litres)
 <t xml:lang="es">literalmente un modion, un canasto para realizar medidas
@@ -2897,12 +2924,14 @@ en seco, su capacidad es de aproximadamente 9 litros. </t>
 or under a bed? Isn´t it put on a stand?
 <t xml:lang="es"> <wi type="G" value="2228,13,">o</wi>
 <wi type="G" value="5259,14,">debajo</wi> de
-<wi type="G" value="3588,15,"><wi type="G" value="2825,16,"> una cama</wi></wi>?
+<wi type="G" value="3588,15,">una</wi>
+<wi type="G" value="2825,16,">cama</wi>?
 ¿<wi type="G" value="3756,17,">No</wi> es
 <wi type="G" value="2443,18,">para</wi>
 <wi type="G" value="2007,22,">ponerla</wi>
 <wi type="G" value="1909,19,">sobre</wi>
-<wi type="G" value="3588,20,"><wi type="G" value="3087,21,">una base</wi></wi>?
+<wi type="G" value="3588,20,">una</wi>
+<wi type="G" value="3087,21,">base</wi>?
 </t>
 </fr>
 </sv>
@@ -3003,16 +3032,20 @@ He said,
 <wi type="G" value="3779,3,"/> </t>
 <fr>«The Kingdom of God is as if a man should cast seed on the
 earth,
-<t xml:lang="es">«<wi type="G" value="3588,5,"><wi type="G" value="932,6,">El Reino</wi></wi>
-<wi type="G" value="3588,7,"><wi type="G" value="2316,8,">de Dios</wi></wi>
+<t xml:lang="es">«<wi type="G" value="3588,5,">El</wi>
+<wi type="G" value="932,6,">Reino</wi>
+<wi type="G" value="3588,7,">de</wi>
+<wi type="G" value="2316,8,">Dios</wi>
 <wi type="G" value="2076,4,">es</wi>
 <wi type="G" value="5613,9,">como</wi>
 <wi type="G" value="1437,10,">si</wi>
 <wi type="G" value="444,11,">un hombre</wi>
 <wi type="G" value="906,12,">regara</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="4703,14,">una semilla</wi></wi>
+<wi type="G" value="3588,13,">una</wi>
+<wi type="G" value="4703,14,">semilla</wi>
 <wi type="G" value="1909,15,">sobre</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="1093,17,">la tierra</wi></wi>, </t>
+<wi type="G" value="3588,16,">la</wi>
+<wi type="G" value="1093,17,">tierra</wi>, </t>
 </fr>
 </sv>
 <sv id="Marcos-4-27"><fr>
@@ -3025,7 +3058,8 @@ spring up and grow, he doesn´t know how.
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="2250,7,">día</wi>,
 <wi type="G" value="2532,8,">y</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="4703,10,">la semilla</wi></wi> </t>
+<wi type="G" value="3588,9,">la</wi>
+<wi type="G" value="4703,10,">semilla</wi> </t>
 <rb xml:lang="es"><wi type="G" value="985,11,">brotará</wi>
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="3373,13,">crecerá</wi><rf><citebib id="WEB"/> dice
@@ -3042,7 +3076,8 @@ crecerá.´</rf></rb>
 For the earth bears fruit:
 first the blade, then the ear, then the full grain in the ear.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="1093,4,">la tierra</wi></wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="1093,4,">tierra</wi>
 <wi type="G" value="2592,5,">da frutos</wi>
 <wi type="G" value="844,1,">por si misma</wi>:
 <wi type="G" value="4412,6,">primero</wi>
@@ -3053,7 +3088,8 @@ first the blade, then the ear, then the full grain in the ear.
 <wi type="G" value="4621,12,">el grano</wi>
 <wi type="G" value="4134,11,">completo</wi>
 <wi type="G" value="1722,13,">en</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="4719,15,">la espiga</wi></wi>. </t>
+<wi type="G" value="3588,14,">la</wi>
+<wi type="G" value="4719,15,">espiga</wi>. </t>
 </fr>
 </sv>
 <sv id="Marcos-4-29"><fr>
@@ -3067,9 +3103,11 @@ has come.»
 <wi type="G" value="3860,3,">está maduro</wi>,
 <wi type="G" value="2112,6,">inmediatamente</wi>
 <wi type="G" value="649,7,">él saca</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="1407,9,">la hoz</wi></wi>,
+<wi type="G" value="3588,8,">la</wi>
+<wi type="G" value="1407,9,">hoz</wi>,
 <wi type="G" value="3754,10,">porque</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2326,13,">la cosecha</wi></wi>
+<wi type="G" value="3588,12,">la</wi>
+<wi type="G" value="2326,13,">cosecha</wi>
 <wi type="G" value="3936,11,">ha llegado</wi>.» </t>
 </fr>
 </sv></cm>
@@ -3084,8 +3122,10 @@ parable will we illustrate it?
 <t xml:lang="es">«<wi type="G" value="2228,9,">O</wi>
 ¿<wi type="G" value="5101,3,">Con qué</wi>
 <wi type="G" value="3666,4,">compararemos</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="932,6,">el Reino</wi></wi>
-<wi type="G" value="3588,7,"><wi type="G" value="2316,8,">de Dios</wi></wi>?
+<wi type="G" value="3588,5,">el</wi>
+<wi type="G" value="932,6,">Reino</wi>
+<wi type="G" value="3588,7,">de</wi>
+<wi type="G" value="2316,8,">Dios</wi>?
 ¿<wi type="G" value="1722,10,">Con</wi>
 <wi type="G" value="4169,11,">que</wi>
 <wi type="G" value="3850,12,">parábola</wi>
@@ -3104,16 +3144,19 @@ that are on the earth,
 <wi type="G" value="3752,5,">cuando</wi>
 <wi type="G" value="4687,6,">es sembrada</wi>
 <wi type="G" value="1909,7,">en</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="1093,9,">la tierra</wi></wi>, </t>
+<wi type="G" value="3588,8,">la</wi>
+<wi type="G" value="1093,9,">tierra</wi>, </t>
 <rb xml:lang="es"><wi type="G" value="2076,14,">es</wi>
 <wi type="G" value="3398,10,">menos que</wi>
 <wi type="G" value="3956,11,">todas</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="4690,13,">las semillas</wi></wi><rf><citebib id="Peshitta"/>
+<wi type="G" value="3588,12,">las</wi>
+<wi type="G" value="4690,13,">semillas</wi><rf><citebib id="Peshitta"/>
 dice `es más pequeña.´</rf></rb>
 <t xml:lang="es"> 
 <wi type="G" value="3588,15,">que</wi> están
 <wi type="G" value="1909,16,">en</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="1093,18,">la tierra</wi></wi>,
+<wi type="G" value="3588,17,">la</wi>
+<wi type="G" value="1093,18,">tierra</wi>,
 </t>
 </fr>
 </sv>
@@ -3129,19 +3172,22 @@ the sky can lodge under its shadow.»
 <wi type="G" value="1096,6,">llega a ser</wi>
 <wi type="G" value="3187,10,">más grande</wi>
 <wi type="G" value="3956,7,">que todas</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="3001,9,">las hierbas</wi></wi>,
+<wi type="G" value="3588,8,">las</wi>
+<wi type="G" value="3001,9,">hierbas</wi>,
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="4160,12,">extiende</wi>
 <wi type="G" value="3173,14,">grandes</wi>
 <wi type="G" value="2798,13,">ramas</wi>
 <wi type="G" value="5620,15,">para que</wi>
-<wi type="G" value="3588,21,"><wi type="G" value="4071,22,">los pájaros</wi></wi>
-<wi type="G" value="3588,23,"><wi type="G" value="3772,24,">del cielo</wi></wi>
+<wi type="G" value="3588,21,">los</wi>
+<wi type="G" value="4071,22,">pájaros</wi>
+<wi type="G" value="3588,23,">del</wi>
+<wi type="G" value="3772,24,">cielo</wi>
 <wi type="G" value="1410,16,">puedan</wi>
 <wi type="G" value="2681,25,">alojarse</wi>
 <wi type="G" value="5259,17,">bajo</wi>
 <wi type="G" value="846,20,">su</wi>
-<wi type="G" value="3588,18,"><wi type="G" value="4639,19,">sombra</wi></wi>.» </t>
+<wi type="G" value="3588,18,"/><wi type="G" value="4639,19,">sombra</wi>.» </t>
 </fr>
 </sv></cm>
 
@@ -3156,7 +3202,8 @@ hear it.
 <t xml:lang="es">
 <wi type="G" value="846,6,">les</wi>
 <wi type="G" value="2980,5,">habló</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="3056,8,">la palabra</wi></wi>,
+<wi type="G" value="3588,7,">la</wi>
+<wi type="G" value="3056,8,">palabra</wi>,
 <wi type="G" value="2531,9,">de acuerdo a lo que</wi>
 <wi type="G" value="1410,10,">ellos podían</wi>
 <wi type="G" value="191,11,">escuchar</wi>. </t>
@@ -3176,14 +3223,14 @@ his own disciples he explained all things.
 les <wi type="G" value="1956,13,">explicaba</wi>
 <wi type="G" value="3956,14,">todo</wi> a
 <wi type="G" value="846,12,">sus</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="3101,11,">discípulos</wi></wi>. </t>
+<wi type="G" value="3588,10,"/><wi type="G" value="3101,11,">discípulos</wi>. </t>
 </sv></cm>
 
 <cm>
 <sv id="Marcos-4-35">
 On that day, when evening had come, he said to them,
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="1722,4,">En</wi> el <wi type="G" value="1565,5,">mismo</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="2250,7,">día</wi></wi>,
+<wi type="G" value="3588,6,"/><wi type="G" value="2250,7,">día</wi>,
 <wi type="G" value="1096,9,"><wi type="G" value="3798,8,">cuando atardeció</wi></wi>,
 <wi type="G" value="846,3,">les</wi>
 <wi type="G" value="3004,2,">dijo</wi>, </t>
@@ -3198,13 +3245,15 @@ On that day, when evening had come, he said to them,
 Leaving the multitude, they took him with them,
 even as he was, in the boat. Other small boats were also with him.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="863,2,">Dejando</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="3793,4,">la multitud</wi></wi>,
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="3793,4,">multitud</wi>,
 <wi type="G" value="846,6,">lo</wi>
 <wi type="G" value="3880,5,">llevaron</wi>
 <wi type="G" value="5613,7,">tal como</wi>
 <wi type="G" value="2258,8,">estaba</wi>
 <wi type="G" value="1722,9,">en</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4143,11,">el bote</wi></wi>.
+<wi type="G" value="3588,10,">el</wi>
+<wi type="G" value="4143,11,">bote</wi>.
 <wi type="G" value="2532,12,">Y</wi>
 <wi type="G" value="2258,16,">había</wi>
 <wi type="G" value="1161,14,">también</wi>
@@ -3225,7 +3274,8 @@ much that the boat was already filled.
 <wi type="G" value="2949,8,">las olas</wi>
 <wi type="G" value="1911,9,">golpeaban</wi>
 <wi type="G" value="1519,10,"/>
-<wi type="G" value="3588,11,"><wi type="G" value="4143,12,">el bote</wi></wi>,
+<wi type="G" value="3588,11,">el</wi>
+<wi type="G" value="4143,12,">bote</wi>,
 <wi type="G" value="5620,13,">de forma</wi> que
 <wi type="G" value="846,14,">se</wi>
 <wi type="G" value="2235,15,"/>
@@ -3238,10 +3288,12 @@ you care that we are dying?»
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="846,3,">Él</wi>
 <wi type="G" value="2258,2,">se encontraba</wi>
 <wi type="G" value="1909,4,">en</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="4403,6,">la popa</wi></wi>
+<wi type="G" value="3588,5,">la</wi>
+<wi type="G" value="4403,6,">popa</wi>
 <wi type="G" value="2518,10,">dormido</wi>
 <wi type="G" value="1909,7,">sobre</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="4344,9,">una almohada</wi></wi>,
+<wi type="G" value="3588,8,">una</wi>
+<wi type="G" value="4344,9,">almohada</wi>,
 <wi type="G" value="2532,11,"/><wi type="G" value="846,13,">lo</wi>
 <wi type="G" value="1326,12,">despertaron</wi>
 <wi type="G" value="2532,14,">y</wi>
@@ -3260,16 +3312,19 @@ you care that we are dying?»
 He awoke, and rebuked the wind, and said to the sea,
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="1326,2,">Él despertó</wi>,
 <wi type="G" value="2008,3,">reprendió</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="417,5,">al viento</wi></wi>,
+<wi type="G" value="3588,4,">al</wi>
+<wi type="G" value="417,5,">viento</wi>,
 <wi type="G" value="2532,6,">y</wi> le
 <wi type="G" value="2036,7,">dijo</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="2281,9,">al mar</wi></wi> </t>
+<wi type="G" value="3588,8,">al</wi>
+<wi type="G" value="2281,9,">mar</wi> </t>
 <fr>«Peace! Be still!»
 <t xml:lang="es">«¡<wi type="G" value="4623,10,">Paz</wi>!
 ¡<wi type="G" value="5392,11,">Quédate quieto</wi>!» </t>
 </fr> The wind ceased, and there was a great calm.
 <t xml:lang="es"> <wi type="G" value="2532,12,">Y</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="417,15,">el viento</wi></wi>
+<wi type="G" value="3588,14,">el</wi>
+<wi type="G" value="417,15,">viento</wi>
 <wi type="G" value="2869,13,">cesó</wi>,
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="1096,17,">hubo</wi>
@@ -3312,9 +3367,11 @@ that even the wind and the sea obey him?»
 <wi type="G" value="3778,11,">Este</wi>
 <wi type="G" value="3754,13,">que</wi>
 <wi type="G" value="2532,14,">hasta</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="417,16,">el viento</wi></wi>
+<wi type="G" value="3588,15,">el</wi>
+<wi type="G" value="417,16,">viento</wi>
 <wi type="G" value="2532,17,">y</wi>
-<wi type="G" value="3588,18,"><wi type="G" value="2281,19,">el mar</wi></wi>
+<wi type="G" value="3588,18,">el</wi>
+<wi type="G" value="2281,19,">mar</wi>
 <wi type="G" value="846,21,">le</wi>
 <wi type="G" value="5219,20,">obedecen</wi>?» </t>
 </sv></cm></sc>

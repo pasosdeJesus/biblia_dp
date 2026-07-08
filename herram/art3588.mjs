@@ -63,9 +63,10 @@ const ARTICULOS = [
  * Retorna [artículo, resto] o [null, textoOriginal] si no hay coincidencia.
  */
 function extraerArticulo(texto) {
+  const t = texto.trimStart();
   for (const art of ARTICULOS) {
-    if (texto.startsWith(art)) {
-      return [art.trimEnd(), texto.slice(art.length).trimStart()];
+    if (t.startsWith(art)) {
+      return [art.trimEnd(), t.slice(art.length).trimStart()];
     }
   }
   return [null, texto];
