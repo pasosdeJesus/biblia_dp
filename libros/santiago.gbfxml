@@ -49,11 +49,12 @@ lo permita puede traducirse también correctamente como
 «hermanos y hermanas».</t>
 </rf></rb>
 , when you fall into various temptations,
-<t xml:lang="es"><wi type="G" value="3752,6,">cuando</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4045,8,">lleguen</wi><rf>
-<citebib id="WEB"/>, <citebib id="KJV2003"/> y
+<t xml:lang="es">,
+<wi type="G" value="3752,6,">cuando</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4045,8,">lleguen</wi>
+<rf><citebib id="WEB"/>, <citebib id="KJV2003"/> y
 <citebib id="RVG2012"/> dicen `caigan.´
-Según <citebib id="Thayer-BLB"/>la palabra `περιπεσητε´ es caer como caer
+Según <citebib id="Thayer-BLB"/> la palabra `περιπεσητε´ es caer como caer
 en manos de ladrones.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="4164,9,">diversas</wi>
@@ -102,7 +103,7 @@ reproach; and it will be given to him.
 <wi type="G" value="5216,4,">de ustedes</wi>
 <wi type="G" value="3007,5,">le falta</wi>
 <wi type="G" value="4678,6,">sabiduría</wi>,
-<wi type="G" value="154,7,">que le pida</wi>
+<wi type="G" value="154,7,">que la pida</wi>
 <wi type="G" value="3844,8,">de</wi>
 <wi type="G" value="2316,11,">Dios</wi>,
 <wi type="G" value="3588,9,">quien</wi>
@@ -123,7 +124,7 @@ But let him ask in faith, without
 any doubting, for he who doubts is like a wave of the sea, driven by the wind
 and tossed.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G" value="154,1,">que pregunte</wi>
+<wi type="G" value="154,1,">que pida</wi>
 <wi type="G" value="1722,3,">en</wi>
 <wi type="G" value="4102,4,">fe</wi>,
 <wi type="G" value="3367,5,">sin</wi>
@@ -416,7 +417,8 @@ able to
 <wi type="G" value="3056,13,">la palabra</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="1721,12,">implantada</wi>,
 <wi type="G" value="3588,14,">que</wi>
-<wi type="G" value="1410,15,">puede</wi></t>
+<wi type="G" value="1410,15,">puede</wi>
+</t>
 <rb>save your souls
 <t xml:lang="es"><wi type="G" value="4982,16,">salvar</wi>
 <wi type="G" value="5216,19,">sus</wi>

@@ -63,10 +63,38 @@ const ARTICULOS = [
  * Retorna [artículo, resto] o [null, textoOriginal] si no hay coincidencia.
  */
 function extraerArticulo(texto) {
-  const t = texto.trimStart();
+  // Normalizar whitespace para comparación (colapsar espacios y saltos de línea)
+  const collapsed = texto.trimStart().replace(/\s+/g, ' ');
   for (const art of ARTICULOS) {
-    if (t.startsWith(art)) {
-      return [art.trimEnd(), t.slice(art.length).trimStart()];
+    if (collapsed.startsWith(art)) {
+      const artWords = art.trimEnd();
+      // Encontrar el fin del artículo en el texto original (manejando whitespace)
+      let pos = 0;
+      while (pos < texto.length && /\s/.test(texto[pos])) pos++;
+      const words = artWords.split(' ');
+      for (const w of words) {
+        while (pos < texto.length && /\s/.test(texto[pos])) pos++;
+        if (texto.slice(pos, pos + w.length) === w) {
+          pos += w.length;
+        }
+      }
+      while (pos < texto.length && /\s/.test(texto[pos])) pos++;
+      return [artWords, texto.slice(pos).trimStart()];
+    }
+    // También verificar coincidencia exacta sin espacio final
+    const artWord = art.trimEnd();
+    if (collapsed === artWord) {
+      let pos = 0;
+      while (pos < texto.length && /\s/.test(texto[pos])) pos++;
+      const words = artWord.split(' ');
+      for (const w of words) {
+        while (pos < texto.length && /\s/.test(texto[pos])) pos++;
+        if (texto.slice(pos, pos + w.length) === w) {
+          pos += w.length;
+        }
+      }
+      while (pos < texto.length && /\s/.test(texto[pos])) pos++;
+      return [artWord, texto.slice(pos).trimStart()];
     }
   }
   return [null, texto];
