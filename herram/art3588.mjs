@@ -45,8 +45,8 @@ import { readFileSync, writeFileSync } from 'node:fs';
 
 // ─── Artículos y contracciones a extraer (orden: más largos primero) ───
 const ARTICULOS = [
-  'de los ', 'de las ', 'de la ',
-  'a los que ', 'a los ', 'a las ', 'a la ',
+  'de los ', 'de las ', 'de la ', 'de una ', 'de un ', 'de unos ', 'de unas ',
+  'a los que ', 'a los ', 'a las ', 'a la ', 'a una ', 'a un ',
   'en los ', 'en las ', 'en el ', 'en la ',
   'por los ', 'por las ', 'por el ', 'por la ',
   'los que ', 'las que ',
@@ -146,6 +146,20 @@ function convertirBloque(texto) {
       return `<wi type="G" value="3588,${pos1},"${sac1clean}/>` +
              `<wi type="G" value="3588,${pos2},"${sac2clean}>${art1}</wi>\n` +
              `<wi type="${tipoInner}" value="${valorInner}"${sacInnerClean}>${huerfano} ${textoInner}</wi>`;
+    });
+
+  // ── Paso 3: G3588 con "de"/"a" seguido de wi que empieza con artículo indefinido ──
+  // <wi type="G" value="3588,POS,">de</wi>\n<wi ...>una X</wi>
+  // → <wi type="G" value="3588,POS,">de una</wi>\n<wi ...>X</wi>
+  const regexDeUna =
+    /<wi type="G" value="3588,(\d+),[^"]*"(\s+sacred="yes")?>(de|a)<\/wi>\s*\n\s*<wi type="([GH])" value="([^"]+)"(\s+sacred="yes")?>(un|una|unos|unas)\s+([^<]+)<\/wi>/g;
+
+  resultado = resultado.replace(regexDeUna,
+    (match, pos3588, sacOuter, prep, tipoInner, valorInner, sacInner, art, resto) => {
+      const so = sacOuter || '';
+      const si = sacInner || '';
+      return `<wi type="G" value="3588,${pos3588},"${so}>${prep} ${art}</wi>\n` +
+             `<wi type="${tipoInner}" value="${valorInner}"${si}>${resto}</wi>`;
     });
 
   return resultado;
