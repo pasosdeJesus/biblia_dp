@@ -108,25 +108,26 @@ function convertirBloque(texto) {
   // <wi type="G" value="3588,POS,[...]"><wi type="T" value="STRONG,[...]">texto</wi></wi>
   // value puede ser "3588,N," o "3588,N,,"
   const regexNested =
-    /<wi type="G" value="3588,(\d+),[^"]*"(\s+sacred="yes")?>\s*<wi type="([GH])" value="([^"]+)"(\s+sacred="yes")?>([^<]*)<\/wi>\s*<\/wi>/g;
+    /<wi type="G" value="3588,(\d+),[^"]*"(\s+sacred="yes")?>\s*<wi type="([GH])" value="([^"]+)"(\s+sacred="yes")?>([^<]*)<\/wi>((?:\s*<wi[^>]*\/>\s*)*)\s*<\/wi>/g;
 
   let resultado = texto.replace(regexNested,
-    (match, pos3588, sacredOuter, tipoInner, valorInner, sacredInner, textoInner) => {
+    (match, pos3588, sacredOuter, tipoInner, valorInner, sacredInner, textoInner, extraWis) => {
       const [articulo, resto] = extraerArticulo(textoInner);
       const sacOuter = sacredOuter || '';
       const sacInner = sacredInner || '';
+      const extras = extraWis || '';
 
       if (articulo !== null) {
         // El texto interior comienza con artículo → separar
         if (resto === '') {
-          return `<wi type="G" value="3588,${pos3588},"${sacOuter}>${articulo}</wi>\n` +
+          return `<wi type="G" value="3588,${pos3588},"${sacOuter}>${articulo}</wi>${extras}\n` +
                  `<wi type="${tipoInner}" value="${valorInner}"${sacInner}/>`;
         }
-        return `<wi type="G" value="3588,${pos3588},"${sacOuter}>${articulo}</wi>\n` +
+        return `<wi type="G" value="3588,${pos3588},"${sacOuter}>${articulo}</wi>${extras}\n` +
                `<wi type="${tipoInner}" value="${valorInner}"${sacInner}>${resto}</wi>`;
       } else {
         // Sin artículo → G3588 vacío, sin espacio
-        return `<wi type="G" value="3588,${pos3588},"${sacOuter}/><wi type="${tipoInner}" value="${valorInner}"${sacInner}>${textoInner}</wi>`;
+        return `<wi type="G" value="3588,${pos3588},"${sacOuter}/><wi type="${tipoInner}" value="${valorInner}"${sacInner}>${textoInner}</wi>${extras}`;
       }
     });
 
@@ -258,7 +259,19 @@ function main() {
   console.log(`   G3588 anidados antes: ${nestedAntes}`);
   console.log(`   G3588 anidados después: ${nestedDespues}`);
   if (nestedDespues > 0) {
-    console.log(`   ⚠️  Quedan ${nestedDespues} casos anidados por revisar manualmente`);
+    console.log(`   ⚠️  Quedan ${nestedDespues} casos anidados por revisar manualmente:`);
+    // Mostrar ubicación de cada caso restante
+    const reRestantes = /<wi type="G" value="3588,\d+,[^"]*">\s*<wi type=/g;
+    let m;
+    while ((m = reRestantes.exec(convertido)) !== null) {
+      // Buscar el versículo que contiene este caso
+      const antes = convertido.slice(0, m.index);
+      const svMatch = antes.match(/<sv id="([^"]+)"/g);
+      const svId = svMatch ? svMatch[svMatch.length - 1].match(/id="([^"]+)"/)[1] : 'desconocido';
+      // Extraer snippet
+      const snippet = convertido.slice(m.index, m.index + 120).replace(/\n/g, '↵');
+      console.log(`     ${svId}: ...${snippet}...`);
+    }
   }
 
   // Verificar balance de tags <wi> (excluyendo auto-cerrados)
