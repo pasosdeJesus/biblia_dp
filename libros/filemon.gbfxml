@@ -13,7 +13,8 @@ Philemon, our beloved fellow worker,
 <wi type="G" value="5547,3,">de Cristo</wi>
 <wi type="G" value="2424,4,">Jesús</wi>,
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="80,8,">el hermano</wi></wi>
+<wi type="G" value="3588,7,">el</wi>
+<wi type="G" value="80,8,">hermano</wi>
 <wi type="G" value="5095,6,">Timoteo</wi>,
 <wi type="G" value="5371,9,">a Filemón</wi>,
 <wi type="G" value="2257,14,">nuestro</wi>
@@ -32,7 +33,7 @@ Archippus, our fellow soldier, and to the assembly in your house:
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="751,6,">a Arquipo</wi>,
 <wi type="G" value="2257,9,">nuestro</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="4961,8,">compañero de batalla</wi></wi>,
+<wi type="G" value="3588,7,"/><wi type="G" value="4961,8,">compañero de batalla</wi>,
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="1577,15,">a la iglesia</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="2596,12,">en</wi>
@@ -63,14 +64,14 @@ to you and peace from God our Father and the Lord Jesus Christ.
 I thank my God always, making mention of you in my prayers,
 <t xml:lang="es"><wi type="G" value="2168,1,">Le agradezco a</wi>
 <wi type="G" value="3450,4,">mi</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="2316,3,">Dios</wi></wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="2316,3,">Dios</wi>
 <wi type="G" value="3842,5,">siempre</wi>
 <wi type="G" value="4160,8,">haciendo</wi>
 <wi type="G" value="3417,6,">mención</wi>
 <wi type="G" value="4675,7,">de ti</wi>
 <wi type="G" value="1909,9,">en</wi>
 <wi type="G" value="3450,12,">mis</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4335,11,">oraciones</wi></wi>,</t>
+<wi type="G" value="3588,10,"/><wi type="G" value="4335,11,">oraciones</wi>,</t>
 </sv>
 <sv id="Filemon-1-5">
 hearing
@@ -78,13 +79,15 @@ of your love, and of the faith which you have toward the Lord Jesus, and
 toward all the saints;
 <t xml:lang="es"><wi type="G" value="191,1,">al escuchar</wi>
 <wi type="G" value="4675,2,">de tu</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="26,4,">amor</wi></wi>,
+<wi type="G" value="3588,3,"/><wi type="G" value="26,4,">amor</wi>,
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="4102,7,">de la fe</wi></wi>
+<wi type="G" value="3588,6,">de la</wi>
+<wi type="G" value="4102,7,">fe</wi>
 <wi type="G" value="3739,8,">que</wi>
 <wi type="G" value="2192,9,">tienes</wi>
 <wi type="G" value="4314,10,">por</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="2962,12,">el Señor</wi></wi>
+<wi type="G" value="3588,11,">el</wi>
+<wi type="G" value="2962,12,">Señor</wi>
 <wi type="G" value="2424,13,">Jesús</wi>,
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="1519,15,">por</wi>
@@ -96,9 +99,10 @@ that the fellowship of your faith may become
 effective, in the knowledge of every good thing which is in us in Christ
 Jesus.
 <t xml:lang="es"><wi type="G" value="3704,1,">para que</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="2842,3,">el compartir</wi></wi>
+<wi type="G" value="3588,2,">el</wi>
+<wi type="G" value="2842,3,">compartir</wi>
 <wi type="G" value="4675,6,">de tu</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="4102,5,">fe</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="4102,5,">fe</wi>
 <wi type="G" value="1096,8,">sea</wi>
 <wi type="G" value="1756,7,">efectivo</wi>,
 <wi type="G" value="1722,9,">por</wi>
@@ -124,10 +128,12 @@ of the saints have been refreshed through you, brother.
 <wi type="G" value="3874,6,">consuelo</wi>
 <wi type="G" value="1909,7,">en</wi>
 <wi type="G" value="4675,10,">tu</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="26,9,">amor</wi></wi>,
+<wi type="G" value="3588,8,"/><wi type="G" value="26,9,">amor</wi>,
 <wi type="G" value="3754,11,">porque</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="4698,13,">los corazones</wi></wi>
-<wi type="G" value="3588,14,"><wi type="G" value="40,15,">de los santos</wi></wi>
+<wi type="G" value="3588,12,">los</wi>
+<wi type="G" value="4698,13,">corazones</wi>
+<wi type="G" value="3588,14,">de los</wi>
+<wi type="G" value="40,15,">santos</wi>
 <wi type="G" value="373,16,">han sido refrescados</wi>
 <wi type="G" value="1223,17,">por</wi>
 <wi type="G" value="4675,18,">ti</wi>,
@@ -152,7 +158,7 @@ which is appropriate,
 yet for love´s sake I rather beg, being such a one
 as Paul, the aged, but also a prisoner of Jesus Christ.
 <t xml:lang="es"><wi type="G" value="1223,1,">por</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="26,3,">amor</wi></wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="26,3,">amor</wi>
 <wi type="G" value="3123,4,">más bien</wi>
 <wi type="G" value="3870,5,">ruego</wi>,
 <wi type="G" value="5607,7,">siendo</wi>
@@ -180,7 +186,7 @@ my child, whom I have become the father of in my chains,
 <wi type="G" value="1080,8,">he concebido</wi>
 <wi type="G" value="1722,9,">en</wi>
 <wi type="G" value="3450,12,">mis</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="1199,11,">cadenas</wi></wi>,
+<wi type="G" value="3588,10,"/><wi type="G" value="1199,11,">cadenas</wi>,
 </t>
 <rb>Onesimus,
 <t xml:lang="es"><wi type="G" value="3682,13,">Onésimo</wi></t><rf>Onesimus means «useful.»
@@ -230,8 +236,10 @@ with me, that on your behalf he might serve me in my chains for the Good News.
 <wi type="G" value="3427,11,">me</wi>
 <wi type="G" value="1247,10,">sirviera</wi>
 <wi type="G" value="1722,12,">en</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="1199,14,">las cadenas</wi></wi>
-<wi type="G" value="3588,15,"><wi type="G" value="2098,16,">del Evangelio</wi></wi>.</t>
+<wi type="G" value="3588,13,">las</wi>
+<wi type="G" value="1199,14,">cadenas</wi>
+<wi type="G" value="3588,15,">del</wi>
+<wi type="G" value="2098,16,">Evangelio</wi>.</t>
 </sv>
 
 <sv id="Filemon-1-14">
@@ -367,7 +375,7 @@ que <wi type="G" value="1473,3,">me</wi>
 <wi type="G" value="373,8,">Refresca</wi>
 <wi type="G" value="3450,9,">mis</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="3588,10,"><wi type="G" value="4698,11,">entrañas</wi></wi><rf>
+<rb xml:lang="es"><wi type="G" value="3588,10,"/><wi type="G" value="4698,11,">entrañas</wi><rf>
 <citebib id="WEB"/> dice `corazón,´
 <citebib id="KJV2003"/> y <citebib id="RVG2012"/>
 dicen `entrañas.´  Según <citebib id="Thayer-BLB"/>
@@ -385,7 +393,7 @@ Having confidence in your obedience, I write to you, knowing that you
 will do even beyond what I say.
 <t xml:lang="es"><wi type="G" value="3982,1,">Confiando en</wi>
 <wi type="G" value="4675,4,">tu</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="5218,3,">obediencia</wi></wi>,
+<wi type="G" value="3588,2,"/><wi type="G" value="5218,3,">obediencia</wi>,
 <wi type="G" value="4671,6,">te</wi>
 <wi type="G" value="1125,5,">he escrito</wi>,
 <wi type="G" value="1492,7,">sabiendo</wi>
@@ -412,7 +420,7 @@ I will be restored to you.
 <wi type="G" value="3754,9,">que</wi>
 <wi type="G" value="1223,10,">por</wi>
 <wi type="G" value="5216,13,">sus</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="4335,12,">oraciones</wi></wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="4335,12,">oraciones</wi>
 <wi type="G" value="5483,14,">seré concedido</wi>
 <wi type="G" value="5213,15,">a ustedes</wi>.</t>
 </sv></cm>
@@ -441,14 +449,15 @@ as do Mark, Aristarchus, Demas, and Luke, my fellow workers.
 <sv id="Filemon-1-25">
 The grace of our
 Lord Jesus Christ be with your spirit. Amen.
-<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="5485,2,">La gracia</wi></wi>
+<t xml:lang="es"><wi type="G" value="3588,1,">La</wi>
+<wi type="G" value="5485,2,">gracia</wi>
 <wi type="G" value="2257,5,">de nuestro</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="2962,4,">Señor</wi></wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="2962,4,">Señor</wi>
 <wi type="G" value="2424,6,">Jesús</wi>
 <wi type="G" value="5547,7,">Cristo</wi> sea
 <wi type="G" value="3326,8,">con</wi>
 <wi type="G" value="5216,11,">su</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="4151,10,">espíritu</wi></wi>.
+<wi type="G" value="3588,9,"/><wi type="G" value="4151,10,">espíritu</wi>.
 <wi type="G" value="281,12,">Amén</wi>.</t>
 <rb xml:lang="es"><rf><citebib id="KJV2003"/> tiene el siguiente colofón
 con marcado Strong: Escrito desde Roma a Filemón, por Onésimo, un siervo.</rf></rb>

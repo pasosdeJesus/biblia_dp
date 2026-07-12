@@ -48,11 +48,12 @@ Grace to you and peace from God our Father and the Lord Jesus Christ.
 Blessed be the God and Father of our Lord Jesus Christ, who has blessed
 us with every spiritual blessing in the heavenly places in Christ;
 <t xml:lang="es"><wi type="G" value="2128,1,">Bendito</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="2316,3,">el Dios</wi></wi>
+<wi type="G" value="3588,2,">el</wi>
+<wi type="G" value="2316,3,">Dios</wi>
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="3962,5,">Padre</wi>
 <wi type="G" value="2257,8,">de nuestro</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="2962,7,">Señor</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="2962,7,">Señor</wi>
 <wi type="G" value="2424,9,">Jesús</wi>
 <wi type="G" value="5547,10,">Cristo</wi>,
 <wi type="G" value="3588,11,">quien</wi>
@@ -104,8 +105,8 @@ pleasure of his desire,
 <wi type="G" value="846,9,">Él</wi>,
 <wi type="G" value="2596,10,">de acuerdo a</wi>
 <wi type="G" value="846,15,">su</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="2107,12,">buena</wi></wi>
-<wi type="G" value="3588,13,"><wi type="G" value="2307,14,">voluntad</wi></wi>.</t>
+<wi type="G" value="3588,11,"/><wi type="G" value="2107,12,">buena</wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="2307,14,">voluntad</wi>.</t>
 </sv>
 <sv id="Efesios-1-6">
 to the praise of the glory of his grace, by
@@ -114,7 +115,7 @@ which he freely bestowed favor on us in the Beloved,
 <wi type="G" value="1868,2,">alabanza</wi>
 <wi type="G" value="1391,3,">de la gloria</wi>
 <wi type="G" value="846,6,">de su</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="5485,5,">gracia</wi></wi>,
+<wi type="G" value="3588,4,"/><wi type="G" value="5485,5,">gracia</wi>,
 <wi type="G" value="1722,7,">por</wi>
 <wi type="G" value="3739,8,">la cual</wi>
 <wi type="G" value="2248,10,">nos</wi>
@@ -129,16 +130,19 @@ the riches of his grace,
 <t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
 <wi type="G" value="3739,2,">quien</wi>
 <wi type="G" value="2192,3,">tenemos</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="629,5,">redención</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="629,5,">redención</wi>
 <wi type="G" value="1223,6,">por</wi>
 <wi type="G" value="846,9,">su</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="129,8,">sangre</wi></wi>,
-<wi type="G" value="3588,10,"><wi type="G" value="859,11,">el perdón</wi></wi>
-<wi type="G" value="3588,12,"><wi type="G" value="3900,13,">de pecados</wi></wi>,
+<wi type="G" value="3588,7,"/><wi type="G" value="129,8,">sangre</wi>,
+<wi type="G" value="3588,10,">el</wi>
+<wi type="G" value="859,11,">perdón</wi>
+<wi type="G" value="3588,12,">de</wi>
+<wi type="G" value="3900,13,">pecados</wi>,
 <wi type="G" value="2596,14,">de acuerdo a</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="4149,16,">la riqueza</wi></wi>
+<wi type="G" value="3588,15,">la</wi>
+<wi type="G" value="4149,16,">riqueza</wi>
 <wi type="G" value="846,19,">de su</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="5485,18,">gracia</wi></wi>,</t>
+<wi type="G" value="3588,17,"/><wi type="G" value="5485,18,">gracia</wi>,</t>
 </sv>
 <sv id="Efesios-1-8">
 which he made to abound toward us in all wisdom
@@ -164,12 +168,13 @@ se traduce como entendimiento, sabiduría, prudencia.</rf></rb>
 making known to us the mystery of his will, according to
 his good pleasure which he purposed in him
 <t xml:lang="es"><wi type="G" value="1107,1,"><wi type="G" value="2254,2,">dándonos a conocer</wi></wi>
-<wi type="G" value="3588,3,"><wi type="G" value="3466,4,">el misterio</wi></wi>
+<wi type="G" value="3588,3,">el</wi>
+<wi type="G" value="3466,4,">misterio</wi>
 <wi type="G" value="846,7,">de su</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2307,6,">voluntad</wi></wi>,
+<wi type="G" value="3588,5,"/><wi type="G" value="2307,6,">voluntad</wi>,
 <wi type="G" value="2596,8,">acorde a</wi>
 <wi type="G" value="846,11,">su</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="2107,10,">buen deseo</wi></wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="2107,10,">buen deseo</wi>
 <wi type="G" value="3739,12,">que</wi>
 <wi type="G" value="4388,13,">se había propuesto</wi>
 <wi type="G" value="1722,14,">en</wi>
@@ -181,20 +186,24 @@ fullness of the times, to sum up all things in Christ, the things in the
 heavens, and the things on the earth, in him;
 <t xml:lang="es"><wi type="G" value="1519,1,">para</wi>
 <wi type="G" value="3622,2,">una administración</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="4138,4,">de la plenitud</wi></wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2540,6,">de los tiempos</wi></wi>,
+<wi type="G" value="3588,3,">de la</wi>
+<wi type="G" value="4138,4,">plenitud</wi>
+<wi type="G" value="3588,5,">de los</wi>
+<wi type="G" value="2540,6,">tiempos</wi>,
 <wi type="G" value="346,7,">que reúna</wi>
 <wi type="G" value="3588,8,"/><wi type="G" value="3956,9,">todas las cosas</wi>
 <wi type="G" value="1722,10,">en</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="5547,12,">Cristo</wi></wi>,
+<wi type="G" value="3588,11,"/><wi type="G" value="5547,12,">Cristo</wi>,
 <wi type="G" value="5037,14,">tanto</wi>
 <wi type="G" value="3588,13,">las que</wi> están
 <wi type="G" value="1722,15,">en</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="3772,17,">los cielos</wi></wi>,
+<wi type="G" value="3588,16,">los</wi>
+<wi type="G" value="3772,17,">cielos</wi>,
 <wi type="G" value="2532,18,">como</wi>
 <wi type="G" value="3588,19,">las que</wi> están
 <wi type="G" value="1909,20,">en</wi>
-<wi type="G" value="3588,21,"><wi type="G" value="1093,22,">la tierra</wi></wi>;</t>
+<wi type="G" value="3588,21,">la</wi>
+<wi type="G" value="1093,22,">tierra</wi>;</t>
 </sv>
 <sv id="Efesios-1-11">
 in whom also we were
@@ -213,9 +222,10 @@ him who works all things after the counsel of his will;
 <wi type="G" value="1754,13,">obra</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="3956,12,">todas las cosas</wi>
 <wi type="G" value="2596,14,">según</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="1012,16,">el consejo</wi></wi>
+<wi type="G" value="3588,15,">el</wi>
+<wi type="G" value="1012,16,">consejo</wi>
 <wi type="G" value="846,19,">de Su</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="2307,18,">voluntad</wi></wi>;</t>
+<wi type="G" value="3588,17,"/><wi type="G" value="2307,18,">voluntad</wi>;</t>
 </sv>
 <sv id="Efesios-1-12">
 to the end that
@@ -225,11 +235,11 @@ we should be to the praise of his glory, we who had before hoped in Christ:
 <wi type="G" value="1519,5,">para</wi>
 <wi type="G" value="1868,6,">la alabanza</wi>
 <wi type="G" value="846,9,">de Su</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="1391,8,">gloria</wi></wi>,
+<wi type="G" value="3588,7,"/><wi type="G" value="1391,8,">gloria</wi>,
 <wi type="G" value="3588,10,">quienes</wi>
 <wi type="G" value="4276,11,">hemos esperado antes</wi>
 <wi type="G" value="1722,12,">en</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="5547,14,">Cristo</wi></wi>:</t>
+<wi type="G" value="3588,13,"/><wi type="G" value="5547,14,">Cristo</wi>:</t>
 </sv>
 <sv id="Efesios-1-13">
 in whom you
@@ -241,20 +251,24 @@ were sealed with the Holy Spirit of promise,
 <wi type="G" value="5210,4,">ustedes</wi>
 <wi type="G" value="2532,3,">también</wi>,
 <wi type="G" value="191,5,">habiendo oído</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="3056,7,">la palabra</wi></wi>
-<wi type="G" value="3588,8,"><wi type="G" value="225,9,">de verdad</wi></wi>,
-<wi type="G" value="3588,10,"><wi type="G" value="2098,11,">las Buenas Nuevas</wi></wi>
+<wi type="G" value="3588,6,">la</wi>
+<wi type="G" value="3056,7,">palabra</wi>
+<wi type="G" value="3588,8,">de</wi>
+<wi type="G" value="225,9,">verdad</wi>,
+<wi type="G" value="3588,10,">las</wi>
+<wi type="G" value="2098,11,">Buenas Nuevas</wi>
 <wi type="G" value="5216,14,">de su</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="4991,13,">salvación</wi></wi>,
+<wi type="G" value="3588,12,"/><wi type="G" value="4991,13,">salvación</wi>,
 <wi type="G" value="1722,15,">en</wi>
 <wi type="G" value="3739,16,">quien</wi>, habiendo
 <wi type="G" value="2532,17,">también</wi>
 <wi type="G" value="4100,18,">creído</wi>,
 <wi type="G" value="4972,19,">ustedes fueron sellados</wi>
 <wi type="G" value="3588,24,">con el</wi>
-<wi type="G" value="3588,20,"><wi type="G" value="4151,21,">Espíritu</wi></wi>
+<wi type="G" value="3588,20,"/><wi type="G" value="4151,21,">Espíritu</wi>
 <wi type="G" value="40,25,">Santo</wi>
-<wi type="G" value="3588,22,"><wi type="G" value="1860,23,">de la promesa</wi></wi>, </t>
+<wi type="G" value="3588,22,">de la</wi>
+<wi type="G" value="1860,23,">promesa</wi>, </t>
 </sv>
 <sv id="Efesios-1-14">
 who is a pledge of our inheritance, to the
@@ -263,17 +277,17 @@ redemption of God´s own possession, to the praise of his glory.
 <wi type="G" value="2076,2,">es</wi>
 <wi type="G" value="728,3,">la garantía</wi>
 <wi type="G" value="2257,6,">de nuestra</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="2817,5,">herencia</wi></wi>,
+<wi type="G" value="3588,4,"/><wi type="G" value="2817,5,">herencia</wi>,
 <wi type="G" value="1519,7,">para</wi>
 <wi type="G" value="629,8,">la redención</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,9,"><wi type="G" value="4047,10,">de
-la posesión</wi></wi>,<rf><citebib id="RVG2012"/> dice `de la posesión
+<rb xml:lang="es"><wi type="G" value="3588,9,">de la</wi>
+<wi type="G" value="4047,10,">posesión</wi>,<rf><citebib id="RVG2012"/> dice `de la posesión
 adquirida.´</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1519,11,">para</wi>
 <wi type="G" value="1868,12,">la alabanza</wi>
 <wi type="G" value="846,15,">de</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="1391,14,">su gloria</wi></wi>.</t>
+<wi type="G" value="3588,13,"/><wi type="G" value="1391,14,">su gloria</wi>.</t>
 </sv>
 <sv id="Efesios-1-15">
 For
@@ -284,15 +298,18 @@ you, and the love which you have toward all the saints,
 <wi type="G" value="191,4,">habiendo oído</wi>
 <wi type="G" value="2596,6,">de</wi>
 <wi type="G" value="5209,7,">su</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="4102,8,">fe</wi></wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="4102,8,">fe</wi>
 <wi type="G" value="1722,9,">en</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="2962,11,">el Señor</wi></wi>
+<wi type="G" value="3588,10,">el</wi>
+<wi type="G" value="2962,11,">Señor</wi>
 <wi type="G" value="2424,12,">Jesús</wi>,
 <wi type="G" value="2532,13,">y</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="26,15,">el amor</wi></wi>
+<wi type="G" value="3588,14,">el</wi>
+<wi type="G" value="26,15,">amor</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="1519,17,">por</wi>
 <wi type="G" value="3956,18,">todos</wi>
-<wi type="G" value="3588,19,"><wi type="G" value="40,20,">los santos</wi></wi>. </t>
+<wi type="G" value="3588,19,">los</wi>
+<wi type="G" value="40,20,">santos</wi>. </t>
 </sv>
 <sv id="Efesios-1-16">
 don´t cease to give thanks for you, making mention of you in my prayers,
@@ -306,7 +323,7 @@ don´t cease to give thanks for you, making mention of you in my prayers,
 <wi type="G" value="5216,7,">de ustedes</wi>
 <wi type="G" value="1909,9,">en</wi>
 <wi type="G" value="3450,12,">mis</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4335,11,">oraciones</wi></wi>,
+<wi type="G" value="3588,10,"/><wi type="G" value="4335,11,">oraciones</wi>,
 </t>
 </sv>
 <sv id="Efesios-1-17">
@@ -314,13 +331,16 @@ that
 the God of our Lord Jesus Christ, the Father of glory, may give to you a
 spirit of wisdom and revelation in the knowledge of him;
 <t xml:lang="es"><wi type="G" value="2443,1,">que</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="2316,3,">el Dios</wi></wi>
+<wi type="G" value="3588,2,">el</wi>
+<wi type="G" value="2316,3,">Dios</wi>
 <wi type="G" value="2257,6,">de nuestro</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="2962,5,">Señor</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="2962,5,">Señor</wi>
 <wi type="G" value="2424,7,">Jesús</wi>
 <wi type="G" value="5547,8,">Cristo</wi>,
-<wi type="G" value="3588,9,"><wi type="G" value="3962,10,">el Padre</wi></wi>
-<wi type="G" value="3588,11,"><wi type="G" value="1391,12,">de gloria</wi></wi>,
+<wi type="G" value="3588,9,">el</wi>
+<wi type="G" value="3962,10,">Padre</wi>
+<wi type="G" value="3588,11,">de</wi>
+<wi type="G" value="1391,12,">gloria</wi>,
 <wi type="G" value="1325,13,"><wi type="G" value="5213,14,">pueda darles</wi></wi>
 <wi type="G" value="4151,15,">el espíritu</wi>
 <wi type="G" value="4678,16,">de sabiduría</wi>
@@ -332,11 +352,11 @@ spirit of wisdom and revelation in the knowledge of him;
 <sv id="Efesios-1-18">
 having the eyes of your
 <t xml:lang="es"><wi type="G" value="5461,1,">alumbrando</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="3788,3,">los ojos</wi></wi>
+<wi type="G" value="3588,2,">los</wi>
+<wi type="G" value="3788,3,">ojos</wi>
 <wi type="G" value="5216,6,">de sus</wi></t>
 <rb>hearts
-<t xml:lang="es"><wi type="G" value="3588,4,"><wi type="G"
-value="1271,5,">mentes</wi></wi></t><rf>TR reads «understanding» instead of «hearts»
+<t xml:lang="es"><wi type="G" value="3588,4,"/><wi type="G" value="1271,5,">mentes</wi></t><rf>TR reads «understanding» instead of «hearts»
 <t xml:lang="es"><citebib id="WEB"/> y <citebib id="RVG2012"/> dicen
 `corazones´ TR  y <citebib id="KJV2003"/> dicen `entendimiento.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `διανοιας´
@@ -353,15 +373,18 @@ are the riches of the glory of his inheritance in the saints,
 <wi type="G" value="1492,9,">puedan conocer</wi>
 <wi type="G" value="5101,11,">cual</wi>
 <wi type="G" value="2076,12,">es</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="1680,14,">la esperanza</wi></wi>
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="1680,14,">esperanza</wi>
 <wi type="G" value="846,17,">de su</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="2821,16,">llamado</wi></wi>,
+<wi type="G" value="3588,15,"/><wi type="G" value="2821,16,">llamado</wi>,
 <wi type="G" value="2532,18,">y</wi>
 <wi type="G" value="5101,19,">cuales</wi>
-son <wi type="G" value="3588,20,"><wi type="G" value="4149,21,">las riquezas</wi></wi>
-<wi type="G" value="3588,22,"><wi type="G" value="1391,23,">de gloria</wi></wi>
+son <wi type="G" value="3588,20,">las</wi>
+<wi type="G" value="4149,21,">riquezas</wi>
+<wi type="G" value="3588,22,">de</wi>
+<wi type="G" value="1391,23,">gloria</wi>
 <wi type="G" value="846,26,">de su</wi>
-<wi type="G" value="3588,24,"><wi type="G" value="2817,25,">herencia</wi></wi>
+<wi type="G" value="3588,24,"/><wi type="G" value="2817,25,">herencia</wi>
 <wi type="G" value="1722,27,">en</wi>
 <wi type="G" value="3588,28,"/><wi type="G" value="40,29,">los santos</wi>, </t>
 </sv>
@@ -374,16 +397,17 @@ that working of the strength of his might
 <wi type="G" value="3588,3,"/><wi type="G" value="5235,4,">excesiva</wi> es
 <wi type="G" value="3174,5,">la grandeza</wi>
 <wi type="G" value="846,8,">de su</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="1411,7,">poder</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="1411,7,">poder</wi>
 <wi type="G" value="1519,9,">para</wi>
 <wi type="G" value="2248,10,">con nosotros</wi>
 <wi type="G" value="3588,11,">los que</wi>
 <wi type="G" value="4100,12,">creemos</wi>,
 <wi type="G" value="2596,13,">acorde</wi> a
-<wi type="G" value="3588,14,"><wi type="G" value="1753,15,">la obra</wi></wi>
+<wi type="G" value="3588,14,">la</wi>
+<wi type="G" value="1753,15,">obra</wi>
 <wi type="G" value="846,20,">de su</wi>
-<wi type="G" value="3588,18,"><wi type="G" value="2479,19,">fuerte</wi></wi>
-<wi type="G" value="3588,16,"><wi type="G" value="2904,17,">potencia</wi></wi>.</t>
+<wi type="G" value="3588,18,"/><wi type="G" value="2479,19,">fuerte</wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="2904,17,">potencia</wi>.</t>
 </sv>
 <sv id="Efesios-1-20">
 which he worked in Christ,
@@ -392,7 +416,7 @@ the heavenly places,
 <t xml:lang="es"><wi type="G" value="3739,1,">que</wi>
 <wi type="G" value="1754,2,">obró</wi>
 <wi type="G" value="1722,3,">en</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="5547,5,">Cristo</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="5547,5,">Cristo</wi>
 cuando <wi type="G" value="846,7,">lo</wi>
 <wi type="G" value="1453,6,">resucitó</wi>
 <wi type="G" value="1537,8,">de</wi>
@@ -427,7 +451,7 @@ sobre <wi type="G" value="3956,11,">todo</wi>
 <wi type="G" value="3440,15,">sólo</wi>
 <wi type="G" value="1722,16,">en</wi>
 <wi type="G" value="5129,19,">esta</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="165,18,">época</wi></wi>,
+<wi type="G" value="3588,17,"/><wi type="G" value="165,18,">época</wi>,
 <wi type="G" value="235,20,">sino</wi>
 <wi type="G" value="2532,21,">también</wi>
 <wi type="G" value="1722,22,">en</wi>
@@ -449,14 +473,15 @@ Según <citebib id="Thayer-BLB"/> la palabra griega
 <wi type="G" value="3956,2,">todas las cosas</wi>
 <wi type="G" value="5259,4,">bajo</wi>
 <wi type="G" value="846,7,">sus</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="4228,6,">pies</wi></wi>,
+<wi type="G" value="3588,5,"/><wi type="G" value="4228,6,">pies</wi>,
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="846,9,">lo</wi>
 <wi type="G" value="1325,10,">dio</wi>
 por <wi type="G" value="2776,11,">cabeza</wi>
 <wi type="G" value="5228,12,">sobre</wi>
 <wi type="G" value="3956,13,">toda</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="1577,15,">la iglesia</wi></wi>,</t>
+<wi type="G" value="3588,14,">la</wi>
+<wi type="G" value="1577,15,">iglesia</wi>,</t>
 </sv>
 <sv id="Efesios-1-23">
 which is his
@@ -464,8 +489,9 @@ body, the fullness of him who fills all in all.
 <t xml:lang="es"><wi type="G" value="3748,1,">la cual</wi>
 <wi type="G" value="2076,2,">es</wi>
 <wi type="G" value="846,5,">su</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="4983,4,">cuerpo</wi></wi>,
-<wi type="G" value="3588,6,"><wi type="G" value="4138,7,">la plenitud</wi></wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="4983,4,">cuerpo</wi>,
+<wi type="G" value="3588,6,">la</wi>
+<wi type="G" value="4138,7,">plenitud</wi>
 <wi type="G" value="3588,8,">del que lo</wi>
 <wi type="G" value="4137,12,">llena</wi>
 <wi type="G" value="3956,9,">todo</wi>
@@ -482,9 +508,9 @@ were dead in transgressions and sins,
 para <wi type="G" value="5209,2,">ustedes</wi>
 <wi type="G" value="5607,3,">que estaban</wi>
 <wi type="G" value="3498,4,">muertos</wi> en
-<wi type="G" value="3588,5,"><wi type="G" value="3900,6,">transgresiones</wi></wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="3900,6,">transgresiones</wi>
 <wi type="G" value="2532,7,">y</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="266,9,">pecados</wi></wi>,</t>
+<wi type="G" value="3588,8,"/><wi type="G" value="266,9,">pecados</wi>,</t>
 </sv>
 <sv id="Efesios-2-2">
 in which you
@@ -496,20 +522,27 @@ works in the children of disobedience;
 <wi type="G" value="4218,3,">antes</wi>
 <wi type="G" value="4043,4,">caminaron</wi>
 <wi type="G" value="2596,5,">de acuerdo</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="165,7,">al curso</wi></wi>
+<wi type="G" value="3588,6,">al</wi>
+<wi type="G" value="165,7,">curso</wi>
 <wi type="G" value="5127,10,">de este</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="2889,9,">mundo</wi></wi>,
+<wi type="G" value="3588,8,"/><wi type="G" value="2889,9,">mundo</wi>,
 <wi type="G" value="2596,11,">de acuerdo</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="758,13,">al príncipe</wi></wi>
-<wi type="G" value="3588,14,"><wi type="G" value="1849,15,">de la potestad</wi></wi>
-<wi type="G" value="3588,16,"><wi type="G" value="109,17,">del aire</wi></wi>,
-<wi type="G" value="3588,18,"><wi type="G" value="4151,19,">el espíritu</wi></wi>
+<wi type="G" value="3588,12,">al</wi>
+<wi type="G" value="758,13,">príncipe</wi>
+<wi type="G" value="3588,14,">de la</wi>
+<wi type="G" value="1849,15,">potestad</wi>
+<wi type="G" value="3588,16,">del</wi>
+<wi type="G" value="109,17,">aire</wi>,
+<wi type="G" value="3588,18,">el</wi>
+<wi type="G" value="4151,19,">espíritu</wi>
 <wi type="G" value="3588,20,">que</wi>
 <wi type="G" value="3568,21,">ahora</wi>
 <wi type="G" value="1754,22,">obra</wi>
 <wi type="G" value="1722,23,">en</wi>
-<wi type="G" value="3588,24,"><wi type="G" value="5207,25,">los hijos</wi></wi>
-<wi type="G" value="3588,26,"><wi type="G" value="543,27,">de desobediencia</wi></wi>;</t>
+<wi type="G" value="3588,24,">los</wi>
+<wi type="G" value="5207,25,">hijos</wi>
+<wi type="G" value="3588,26,">de</wi>
+<wi type="G" value="543,27,">desobediencia</wi>;</t>
 </sv>
 <sv id="Efesios-2-3">
 among whom we also all once lived
@@ -529,14 +562,18 @@ se traduce como dar vuelta, regresar, metaforicamente conducirse, comportarse,
 vivir. </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1722,8,">en</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="1939,10,">la lujuria</wi></wi>
+<wi type="G" value="3588,9,">la</wi>
+<wi type="G" value="1939,10,">lujuria</wi>
 <wi type="G" value="2257,13,">de nuestra</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="4561,12,">carne</wi></wi>,
+<wi type="G" value="3588,11,"/><wi type="G" value="4561,12,">carne</wi>,
 <wi type="G" value="4160,14,">complaciendo</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="2307,16,">los deseos</wi></wi>
-<wi type="G" value="3588,17,"><wi type="G" value="4561,18,">de la carne</wi></wi>
+<wi type="G" value="3588,15,">los</wi>
+<wi type="G" value="2307,16,">deseos</wi>
+<wi type="G" value="3588,17,">de la</wi>
+<wi type="G" value="4561,18,">carne</wi>
 <wi type="G" value="2532,19,">y</wi>
-<wi type="G" value="3588,20,"><wi type="G" value="1271,21,">de la mente</wi></wi>,
+<wi type="G" value="3588,20,">de la</wi>
+<wi type="G" value="1271,21,">mente</wi>,
 <wi type="G" value="2532,22,">y</wi>
 <wi type="G" value="5449,25,">por naturaleza</wi>
 <wi type="G" value="1510,23,">eramos</wi>
@@ -573,9 +610,9 @@ you have been saved),
 <wi type="G" value="2248,3,">nosotros</wi>
 <wi type="G" value="5607,2,">estábamos</wi>
 <wi type="G" value="3498,4,">muertos</wi>
-en <wi type="G" value="3588,5,"><wi type="G" value="3900,6,">pecados</wi></wi>,
+en <wi type="G" value="3588,5,"/><wi type="G" value="3900,6,">pecados</wi>,
 nos <wi type="G" value="4806,7,">hizo vivir juntamente con</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="5547,9,">Cristo</wi></wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="5547,9,">Cristo</wi>
 (<wi type="G" value="5485,10,">por gracia</wi>
 <wi type="G" value="2075,11,">ustedes han sido</wi>
 <wi type="G" value="4982,12,">salvados</wi>),
@@ -608,12 +645,13 @@ Christ Jesus;
 <t xml:lang="es"><wi type="G" value="2443,1,">Para</wi>
 <wi type="G" value="1731,2,">mostrarnos</wi>
 <wi type="G" value="1722,3,">en</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="165,5,">las épocas</wi></wi>
+<wi type="G" value="3588,4,">las</wi>
+<wi type="G" value="165,5,">épocas</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="1904,7,">por venir</wi>
 <wi type="G" value="3588,8,"/><wi type="G" value="5235,9,">las magnificas</wi>
 <wi type="G" value="4149,10,">riquezas</wi>
 <wi type="G" value="846,13,">de Su</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="5485,12,">gracia</wi></wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="5485,12,">gracia</wi>
 <wi type="G" value="1722,14,">en</wi>
 <wi type="G" value="5544,15,">bondad</wi>
 <wi type="G" value="1909,16,">hacia</wi>
@@ -631,13 +669,15 @@ that not of yourselves; it is the gift of God,
 <wi type="G" value="2075,4,">han sido</wi>
 <wi type="G" value="4982,5,">salvados</wi>
 <wi type="G" value="1223,6,">mediante</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="4102,8,">la fe</wi></wi>,
+<wi type="G" value="3588,7,">la</wi>
+<wi type="G" value="4102,8,">fe</wi>,
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="5124,10,">esto</wi>
 <wi type="G" value="3756,11,">no</wi> es
 <wi type="G" value="1537,12,">por</wi>
 <wi type="G" value="5216,13,">ustedes mismos</wi>; es
-<wi type="G" value="3588,15,"><wi type="G" value="1435,16,">un regalo</wi></wi>
+<wi type="G" value="3588,15,">un</wi>
+<wi type="G" value="1435,16,">regalo</wi>
 <wi type="G" value="2316,14,">de Dios</wi>,</t>
 </sv>
 <sv id="Efesios-2-9">
@@ -665,7 +705,7 @@ good works, which God prepared before that we would walk in them.
 las <wi type="G" value="18,11,">buenas</wi>
 <wi type="G" value="2041,10,">obras</wi>,
 <wi type="G" value="3739,12,">las cuales</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="2316,15,">Dios</wi></wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="2316,15,">Dios</wi>
 <wi type="G" value="4282,13,">preparó</wi>
 <wi type="G" value="2443,16,">para que</wi>
 <wi type="G" value="4043,19,">anduviéramos</wi>
@@ -683,7 +723,7 @@ flesh, made by hands);
 <wi type="G" value="3754,3,">que</wi>
 <wi type="G" value="5210,4,">ustedes</wi>
 <wi type="G" value="4218,5,">antes</wi>,
-<wi type="G" value="3588,6,"><wi type="G" value="1484,7,">gentiles</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="1484,7,">gentiles</wi>
 <wi type="G" value="1722,8,">en</wi>
 <wi type="G" value="4561,9,">la carne</wi>,
 <wi type="G" value="3588,10,">que</wi> son
@@ -705,23 +745,27 @@ covenants of the promise, having no hope and without God in the world.
 <t xml:lang="es"><wi type="G" value="3754,1,">que</wi>
 <wi type="G" value="1722,3,">en</wi>
 <wi type="G" value="1565,6,">ese</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="2540,5,">tiempo</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="2540,5,">tiempo</wi>
 <wi type="G" value="2258,2,">ustedes estaban</wi>
 <wi type="G" value="5565,7,">sin</wi>
 <wi type="G" value="5547,8,">Cristo</wi>,
 <wi type="G" value="526,9,">alejados</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4174,11,">de la ciudadanía</wi></wi>
+<wi type="G" value="3588,10,">de la</wi>
+<wi type="G" value="4174,11,">ciudadanía</wi>
 <wi type="G" value="3588,12,"/><wi type="G" value="2474,13,">de Israel</wi>,
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="3581,15,">extranjeros</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="1242,17,">al pacto</wi></wi>
-<wi type="G" value="3588,18,"><wi type="G" value="1860,19,">de la promesa</wi></wi>,
+<wi type="G" value="3588,16,">al</wi>
+<wi type="G" value="1242,17,">pacto</wi>
+<wi type="G" value="3588,18,">de la</wi>
+<wi type="G" value="1860,19,">promesa</wi>,
 <wi type="G" value="2192,22,"><wi type="G" value="3361,21,">carentes de</wi></wi>
 <wi type="G" value="1680,20,">esperanza</wi>
 <wi type="G" value="2532,23,">y</wi>
 <wi type="G" value="112,24,">de Dios</wi>
 <wi type="G" value="1722,25,">en</wi>
-<wi type="G" value="3588,26,"><wi type="G" value="2889,27,">el mundo</wi></wi>.
+<wi type="G" value="3588,26,">el</wi>
+<wi type="G" value="2889,27,">mundo</wi>.
 </t>
 </sv>
 <sv id="Efesios-2-13">
@@ -741,8 +785,10 @@ the blood of Christ.
 <wi type="G" value="1096,12,">son</wi>
 <wi type="G" value="1451,11,">acercados</wi>
 <wi type="G" value="1722,13,">por</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="129,15,">la sangre</wi></wi>
-<wi type="G" value="3588,16,"><wi type="G" value="5547,17,">de Cristo</wi></wi>.</t>
+<wi type="G" value="3588,14,">la</wi>
+<wi type="G" value="129,15,">sangre</wi>
+<wi type="G" value="3588,16,">de</wi>
+<wi type="G" value="5547,17,">Cristo</wi>.</t>
 
 </sv>
 <sv id="Efesios-2-14">
@@ -752,15 +798,17 @@ down the middle wall of partition,
 <wi type="G" value="846,1,">Él</wi>
 <wi type="G" value="2076,3,">es</wi>
 <wi type="G" value="2257,6,">nuestra</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="1515,5,">paz</wi></wi>,
+<wi type="G" value="3588,4,"/><wi type="G" value="1515,5,">paz</wi>,
 <wi type="G" value="3588,7,">quien</wi>
 <wi type="G" value="4160,8,">hizo</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="297,10,">de ambos</wi>
 <wi type="G" value="1520,11,">uno</wi>
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="3089,17,">derrumbó</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="3320,14,">la pared</wi></wi>
-<wi type="G" value="3588,15,"><wi type="G" value="5418,16,">de separación</wi></wi>,
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="3320,14,">pared</wi>
+<wi type="G" value="3588,15,">de</wi>
+<wi type="G" value="5418,16,">separación</wi>,
 </t>
 </sv>
 <sv id="Efesios-2-15">
@@ -770,10 +818,13 @@ create in himself one new man of the two, making peace;
 <t xml:lang="es"><wi type="G" value="2673,13,">habiendo abolido</wi>
 <wi type="G" value="1722,3,">en</wi>
 <wi type="G" value="846,6,">Su</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="4561,5,">carne</wi></wi>
-<wi type="G" value="3588,1,"><wi type="G" value="2189,2,">la hostilidad</wi></wi>.
-<wi type="G" value="3588,7,"><wi type="G" value="3551,8,">La ley</wi></wi>
-<wi type="G" value="3588,9,"><wi type="G" value="1785,10,">de mandamientos</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="4561,5,">carne</wi>
+<wi type="G" value="3588,1,">la</wi>
+<wi type="G" value="2189,2,">hostilidad</wi>.
+<wi type="G" value="3588,7,">La</wi>
+<wi type="G" value="3551,8,">ley</wi>
+<wi type="G" value="3588,9,">de</wi>
+<wi type="G" value="1785,10,">mandamientos</wi>
 <wi type="G" value="1722,11,">en</wi>
 <wi type="G" value="1378,12,">ordenanzas</wi>,
 <wi type="G" value="1519,20,">para</wi>
@@ -799,12 +850,13 @@ hostility thereby.
 <wi type="G" value="1722,5,">en</wi>
 <wi type="G" value="1520,6,">un</wi>
 <wi type="G" value="4983,7,">cuerpo</wi>
-para <wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>
+para <wi type="G" value="3588,8,"/><wi type="G" value="2316,9,">Dios</wi>
 <wi type="G" value="1223,10,">por</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="4716,12,">la cruz</wi></wi>,
+<wi type="G" value="3588,11,">la</wi>
+<wi type="G" value="4716,12,">cruz</wi>,
 <wi type="G" value="615,13,">destruyendo</wi>
-<wi type="G" value="1722,16,"/><wi type="G" value="3588,14,"><wi type="G" value="2189,15,">la
-hostilidad</wi></wi>.</t>
+<wi type="G" value="1722,16,"/><wi type="G" value="3588,14,">la</wi>
+<wi type="G" value="2189,15,">hostilidad</wi>.</t>
 </sv>
 <sv id="Efesios-2-17">
 He came and preached peace to you who were far off
@@ -828,12 +880,12 @@ one Spirit to the Father.
 <wi type="G" value="846,3,">Él</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="297,8,">ambos</wi>
 <wi type="G" value="2192,4,">tenemos</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="4318,6,">entrada</wi></wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="4318,6,">entrada</wi>
 <wi type="G" value="1722,9,">en</wi>
 <wi type="G" value="1520,10,">un</wi>
 <wi type="G" value="4151,11,">Espíritu</wi>
 <wi type="G" value="4314,12,">al</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="3962,14,">Padre</wi></wi>.</t>
+<wi type="G" value="3588,13,"/><wi type="G" value="3962,14,">Padre</wi>.</t>
 </sv>
 <sv id="Efesios-2-19">
 So then you
@@ -853,15 +905,18 @@ household of God,
 <wi type="G" value="3588,10,"/><wi type="G" value="40,11,">los santos</wi>,
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="3609,13,">de la casa</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="2316,15,">de Dios</wi></wi>,</t>
+<wi type="G" value="3588,14,">de</wi>
+<wi type="G" value="2316,15,">Dios</wi>,</t>
 </sv>
 <sv id="Efesios-2-20">
 being built on the foundation of the apostles and
 prophets, Christ Jesus himself being the chief cornerstone;
 <t xml:lang="es"><wi type="G" value="2026,1,">construido</wi>
 <wi type="G" value="1909,2,">sobre</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="2310,4,">el fundamento</wi></wi>
-<wi type="G" value="3588,5,"><wi type="G" value="652,6,">de los apóstoles</wi></wi>
+<wi type="G" value="3588,3,">el</wi>
+<wi type="G" value="2310,4,">fundamento</wi>
+<wi type="G" value="3588,5,">de los</wi>
+<wi type="G" value="652,6,">apóstoles</wi>
 <wi type="G" value="2532,7,">y</wi>
 
 <wi type="G" value="4396,8,">de los profetas</wi>,
@@ -877,7 +932,8 @@ whole building, fitted together, grows into a holy temple in the Lord;
 <t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
 <wi type="G" value="3739,2,">quien</wi>
 <wi type="G" value="3956,3,">todo</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="3619,5,">el edificio</wi></wi>,
+<wi type="G" value="3588,4,">el</wi>
+<wi type="G" value="3619,5,">edificio</wi>,
 <wi type="G" value="4883,6,">es armado</wi>,
 <wi type="G" value="837,7,">creciendo</wi>
 <wi type="G" value="1519,8,">para</wi> ser
@@ -896,7 +952,7 @@ Spirit.
 <wi type="G" value="4925,5,">son edificados juntamente</wi>
 <wi type="G" value="1519,6,">como</wi>
 <wi type="G" value="2732,7,">habitación</wi>
-para <wi type="G" value="3588,8,"><wi type="G" value="2316,9,">Dios</wi></wi>
+para <wi type="G" value="3588,8,"/><wi type="G" value="2316,9,">Dios</wi>
 <wi type="G" value="1722,10,">en</wi>
 <wi type="G" value="4151,11,">el Espíritu</wi>.</t>
 <cl/>
@@ -910,12 +966,13 @@ of you Gentiles,
 <wi type="G" value="5127,1,">esto</wi>
 <wi type="G" value="1473,3,">yo</wi>,
 <wi type="G" value="3972,4,">Pablo</wi>,
-<wi type="G" value="3588,5,"><wi type="G" value="1198,6,">prisionero</wi></wi>
-<wi type="G" value="3588,7,"><wi type="G" value="5547,8,">de Cristo</wi></wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="1198,6,">prisionero</wi>
+<wi type="G" value="3588,7,">de</wi>
+<wi type="G" value="5547,8,">Cristo</wi>
 <wi type="G" value="2424,9,">Jesús</wi>
 <wi type="G" value="5228,10,">por</wi>
 <wi type="G" value="5216,11,">ustedes</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="1484,13,">Gentiles</wi></wi>,</t>
+<wi type="G" value="3588,12,"/><wi type="G" value="1484,13,">Gentiles</wi>,</t>
 </sv>
 <sv id="Efesios-3-2">
 if it is so that you
@@ -923,9 +980,12 @@ have heard of the administration of that grace of God which was
 given me toward you;
 <t xml:lang="es"><wi type="G" value="1489,1,">si</wi>
 es que <wi type="G" value="191,2,">han oído</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="3622,4,">de la administración</wi></wi>
-<wi type="G" value="3588,5,"><wi type="G" value="5485,6,">de la gracia</wi></wi>
-<wi type="G" value="3588,7,"><wi type="G" value="2316,8,">de Dios</wi></wi>
+<wi type="G" value="3588,3,">de la</wi>
+<wi type="G" value="3622,4,">administración</wi>
+<wi type="G" value="3588,5,">de la</wi>
+<wi type="G" value="5485,6,">gracia</wi>
+<wi type="G" value="3588,7,">de</wi>
+<wi type="G" value="2316,8,">Dios</wi>
 <wi type="G" value="3588,9,">que</wi>
 <wi type="G" value="3427,11,">me</wi>
 <wi type="G" value="1325,10,">fue dada</wi>
@@ -940,7 +1000,8 @@ as I wrote before in few words,
 <wi type="G" value="602,3,">revelación</wi>
 <wi type="G" value="3427,5,">me</wi>
 <wi type="G" value="1107,4,">fue dado a conocer</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="3466,7,">el misterio</wi></wi>,
+<wi type="G" value="3588,6,">el</wi>
+<wi type="G" value="3466,7,">misterio</wi>,
 <wi type="G" value="2531,8,">como</wi>
 <wi type="G" value="4270,9,">escribí antes</wi>
 <wi type="G" value="1722,10,">en</wi>
@@ -956,10 +1017,12 @@ understanding in the mystery of Christ;
 <wi type="G" value="1410,3,">puedan</wi>
 <wi type="G" value="3539,5,">percibir</wi>
 <wi type="G" value="3450,8,">mi</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="4907,7,">entendimiento</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="4907,7,">entendimiento</wi>
 <wi type="G" value="1722,9,">en</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="3466,11,">el misterio</wi></wi>
-<wi type="G" value="3588,12,"><wi type="G" value="5547,13,">de Cristo</wi></wi>;</t>
+<wi type="G" value="3588,10,">el</wi>
+<wi type="G" value="3466,11,">misterio</wi>
+<wi type="G" value="3588,12,">de</wi>
+<wi type="G" value="5547,13,">Cristo</wi>;</t>
 </sv>
 <sv id="Efesios-3-5">
 which in other generations was
@@ -971,8 +1034,10 @@ holy apostles and prophets in the Spirit;
 <wi type="G" value="1074,4,">generaciones</wi>
 <wi type="G" value="3756,5,">no</wi>
 <wi type="G" value="1107,6,">fue dado a conocer a</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="5207,8,">los hijos</wi></wi>
-<wi type="G" value="3588,9,"><wi type="G" value="444,10,">de los hombres</wi></wi>,
+<wi type="G" value="3588,7,">los</wi>
+<wi type="G" value="5207,8,">hijos</wi>
+<wi type="G" value="3588,9,">de los</wi>
+<wi type="G" value="444,10,">hombres</wi>,
 <wi type="G" value="5613,11,">como</wi>
 <wi type="G" value="3568,12,">ahora</wi>
 <wi type="G" value="601,13,">ha sido revelado a</wi>
@@ -997,11 +1062,12 @@ Christ Jesus through the Good News,
 <wi type="G" value="2532,7,">y</wi>
 <wi type="G" value="4830,8,">copartícipes</wi>
 <wi type="G" value="846,11,">de su</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="1860,10,">promesa</wi></wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="1860,10,">promesa</wi>
 <wi type="G" value="1722,12,">en</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="5547,14,">Cristo</wi></wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="5547,14,">Cristo</wi>
 <wi type="G" value="1223,15,">por</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="2098,17,">el evangelio</wi></wi>,</t>
+<wi type="G" value="3588,16,">el</wi>
+<wi type="G" value="2098,17,">evangelio</wi>,</t>
 </sv>
 <sv id="Efesios-3-7">
 of which I was made a servant, according
@@ -1011,15 +1077,19 @@ of his power.
 <wi type="G" value="1096,2,">fui hecho</wi>
 <wi type="G" value="1249,3,">servidor</wi>,
 <wi type="G" value="2596,4,">de acuerdo</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="1431,6,">al don</wi></wi>
-<wi type="G" value="3588,7,"><wi type="G" value="5485,8,">de la gracia</wi></wi>
-<wi type="G" value="3588,9,"><wi type="G" value="2316,10,">de Dios</wi></wi>
+<wi type="G" value="3588,5,">al</wi>
+<wi type="G" value="1431,6,">don</wi>
+<wi type="G" value="3588,7,">de la</wi>
+<wi type="G" value="5485,8,">gracia</wi>
+<wi type="G" value="3588,9,">de</wi>
+<wi type="G" value="2316,10,">Dios</wi>
 que <wi type="G" value="3427,13,">me</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="1325,12,">fue dado</wi>
 <wi type="G" value="2596,14,">por</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="1753,16,">la obra</wi></wi>
+<wi type="G" value="3588,15,">la</wi>
+<wi type="G" value="1753,16,">obra</wi>
 <wi type="G" value="846,19,">de su</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="1411,18,">poder</wi></wi>.</t>
+<wi type="G" value="3588,17,"/><wi type="G" value="1411,18,">poder</wi>.</t>
 </sv>
 <sv id="Efesios-3-8">
 To me, the very least of all saints, was this grace given,
@@ -1031,13 +1101,15 @@ to preach to the Gentiles the unsearchable riches of Christ,
 <wi type="G" value="3588,5,"/><wi type="G" value="40,6,">los santos</wi>,
 me <wi type="G" value="1325,7,">fue dada</wi>
 <wi type="G" value="3778,10,">esta</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="5485,9,">gracia</wi></wi>,
+<wi type="G" value="3588,8,"/><wi type="G" value="5485,9,">gracia</wi>,
 <wi type="G" value="2097,14,">predicar</wi>
 <wi type="G" value="1722,11,">entre</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="1484,13,">los gentiles</wi></wi>
+<wi type="G" value="3588,12,">los</wi>
+<wi type="G" value="1484,13,">gentiles</wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="421,16,">las insondables</wi>
 <wi type="G" value="4149,17,">riquezas</wi>
-<wi type="G" value="3588,18,"><wi type="G" value="5547,19,">de Cristo</wi></wi>,
+<wi type="G" value="3588,18,">de</wi>
+<wi type="G" value="5547,19,">Cristo</wi>,
 </t>
 </sv>
 <sv id="Efesios-3-9">
@@ -1050,7 +1122,7 @@ all men see what is the
 <wi type="G" value="5101,4,">cual</wi> es la
 </t>
 <rb>administration
-<t xml:lang="es"><wi type="G" value="3588,5,"><wi type="G" value="2842,6,">participación</wi></wi></t><rf>TR reads
+<t xml:lang="es"><wi type="G" value="3588,5,"/><wi type="G" value="2842,6,">participación</wi></t><rf>TR reads
 of «administration»
 <t xml:lang="es"><citebib id="WEB"/> dice  `administración´ con nota al
 pie: TR dice  «compañia» en lugar de «administración».
@@ -1065,10 +1137,11 @@ se tiene en algo, contribución.
  of the mystery which for ages has been hidden in God,
 who created all things through Jesus Christ;
 <t xml:lang="es">
-<wi type="G" value="3588,7,"><wi type="G" value="3466,8,">del misterio</wi></wi>
+<wi type="G" value="3588,7,">del</wi>
+<wi type="G" value="3466,8,">misterio</wi>
 <wi type="G" value="3588,9,">que</wi> </t>
 <rb xml:lang="es"><wi type="G" value="575,11,">por</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="165,13,">eras</wi></wi><rf>
+<wi type="G" value="3588,12,"/><wi type="G" value="165,13,">eras</wi><rf>
 <citebib id="WEB"/> dice `por eras,´
 <citebib id="KJV2003"/> dice `desde el comienzo del mundo,´
 <citebib id="RVG2012"/> dice `por siglos.´
@@ -1078,7 +1151,7 @@ siempre, mundo, nunca, por siempre, eras, eterno.
 <t xml:lang="es">
 <wi type="G" value="613,10,">ha estado escondido</wi>
 <wi type="G" value="1722,14,">en</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="2316,16,">Dios</wi></wi>,
+<wi type="G" value="3588,15,"/><wi type="G" value="2316,16,">Dios</wi>,
 <wi type="G" value="3588,17,">quien</wi>
 <wi type="G" value="2936,20,">creó</wi>
 <wi type="G" value="3588,18,"/><wi type="G" value="3956,19,">todas las cosas</wi>
@@ -1094,17 +1167,20 @@ principalities and the powers in the heavenly places,
 <t xml:lang="es">
 <wi type="G" value="2443,1,">con la intención de que</wi>
 <wi type="G" value="3568,3,">ahora</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="746,5,">los principados</wi></wi>
+<wi type="G" value="3588,4,">los</wi>
+<wi type="G" value="746,5,">principados</wi>
 <wi type="G" value="2532,6,">y</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="1849,8,">potestades</wi></wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="1849,8,">potestades</wi>
 <wi type="G" value="1722,9,">en</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="2032,11,">los lugares celestes</wi>,
 <wi type="G" value="1107,2,">conocieran</wi>
 <wi type="G" value="1223,12,">mediante</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="1577,14,">la iglesia</wi></wi>,
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="1577,14,">iglesia</wi>,
 <wi type="G" value="3588,15,"/><wi type="G" value="4182,16,">la multiforme</wi>
 <wi type="G" value="4678,17,">sabiduría</wi>
-<wi type="G" value="3588,18,"><wi type="G" value="2316,19,">de Dios</wi></wi>,
+<wi type="G" value="3588,18,">de</wi>
+<wi type="G" value="2316,19,">Dios</wi>,
 </t>
 </sv>
 <sv id="Efesios-3-11">
@@ -1112,14 +1188,14 @@ according to the
 eternal purpose which he purposed in Christ Jesus our Lord;
 <t xml:lang="es"><wi type="G" value="2596,1,">de acuerdo</wi>
 <wi type="G" value="4286,2,">al propósito</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="165,4,">eterno</wi></wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="165,4,">eterno</wi>
 <wi type="G" value="3739,5,">que</wi>
 <wi type="G" value="4160,6,">se había hecho</wi>
 <wi type="G" value="1722,7,">en</wi>
 <wi type="G" value="5547,8,">Cristo</wi>
 <wi type="G" value="2424,9,">Jesús</wi>
 <wi type="G" value="2257,12,">nuestro</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="2962,11,">Señor</wi></wi>;</t>
+<wi type="G" value="3588,10,"/><wi type="G" value="2962,11,">Señor</wi>;</t>
 </sv>
 <sv id="Efesios-3-12">
 in whom we
@@ -1127,13 +1203,14 @@ have boldness and access in confidence through our faith in him.
 <t xml:lang="es"><wi type="G" value="1722,1,">en</wi>
 <wi type="G" value="3739,2,">quien</wi>
 <wi type="G" value="2192,3,">tenemos</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="3954,5,">valor</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="3954,5,">valor</wi>
 <wi type="G" value="2532,6,">y</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="4318,8,">acceso</wi></wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="4318,8,">acceso</wi>
 <wi type="G" value="1722,9,">con</wi>
 <wi type="G" value="4006,10,">confianza</wi>
 <wi type="G" value="1223,11,">mediante</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="4102,13,">la fe</wi></wi>
+<wi type="G" value="3588,12,">la</wi>
+<wi type="G" value="4102,13,">fe</wi>
 en
 <wi type="G" value="846,14,">Él</wi>.</t>
 
@@ -1149,7 +1226,7 @@ que
 <wi type="G" value="1573,4,">se desanimen</wi>
 <wi type="G" value="1722,5,">a causa de</wi>
 <wi type="G" value="3450,8,">mis</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="2347,7,">tribulaciones</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="2347,7,">tribulaciones</wi>
 <wi type="G" value="5228,9,">por</wi>
 <wi type="G" value="5216,10,">ustedes</wi>,
 <wi type="G" value="3748,11,">las cuales</wi>
@@ -1165,11 +1242,11 @@ For this cause, I bow my knees to the Father of our Lord Jesus Christ,
 <wi type="G" value="5127,1,">esto</wi>,
 <wi type="G" value="2578,3,">doblo</wi>
 <wi type="G" value="3450,6,">mis</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="1119,5,">rodillas</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="1119,5,">rodillas</wi>
 <wi type="G" value="4314,7,">al</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="3962,9,">Padre</wi></wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="3962,9,">Padre</wi>
 <wi type="G" value="2257,12,">de nuestro</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="2962,11,">Señor</wi></wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="2962,11,">Señor</wi>
 <wi type="G" value="2424,13,">Jesús</wi>
 <wi type="G" value="5547,14,">Cristo</wi>,
 </t>
@@ -1198,16 +1275,18 @@ may be strengthened with power through his Spirit in the inward man;
 <wi type="G" value="5213,3,">les</wi>
 <wi type="G" value="1325,2,">conceda</wi>,
 <wi type="G" value="2596,4,">de acuerdo a</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="4149,6,">las riquezas</wi></wi>
+<wi type="G" value="3588,5,">las</wi>
+<wi type="G" value="4149,6,">riquezas</wi>
 <wi type="G" value="846,9,">de Su</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="1391,8,">gloria</wi></wi>,
+<wi type="G" value="3588,7,"/><wi type="G" value="1391,8,">gloria</wi>,
 <wi type="G" value="2901,11,">ser fortalecidos</wi> por
 <wi type="G" value="1411,10,">el poder</wi>
 <wi type="G" value="1223,12,">de</wi>
 <wi type="G" value="846,15,">Su</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="4151,14,">Espíritu</wi></wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="4151,14,">Espíritu</wi>
 <wi type="G" value="1519,16,">en</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="444,19,">el hombre</wi></wi>
+<wi type="G" value="3588,17,">el</wi>
+<wi type="G" value="444,19,">hombre</wi>
 <wi type="G" value="2080,18,">interior</wi>;</t>
 </sv>
 <sv id="Efesios-3-17">
@@ -1219,9 +1298,10 @@ being rooted and grounded in love,
 <wi type="G" value="2730,1,">more</wi>
 <wi type="G" value="1722,7,">en</wi>
 <wi type="G" value="5216,10,">sus</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="2588,9,">corazones</wi></wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="2588,9,">corazones</wi>
 <wi type="G" value="1223,4,">por</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="4102,6,">la fe</wi></wi>;
+<wi type="G" value="3588,5,">la</wi>
+<wi type="G" value="4102,6,">fe</wi>;
 <wi type="G" value="4492,13,">plantados</wi>
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="2311,15,">cimentados</wi>
@@ -1239,7 +1319,8 @@ with all the saints what is the breadth and length and height and depth,
 <wi type="G" value="3956,5,">todos</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="40,7,">los santos</wi>
 <wi type="G" value="5101,8,">cual</wi> es
-<wi type="G" value="3588,9,"><wi type="G" value="4114,10,">la amplitud</wi></wi>
+<wi type="G" value="3588,9,">la</wi>
+<wi type="G" value="4114,10,">amplitud</wi>
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="3372,12,">la longitud</wi>
 <wi type="G" value="2532,13,">y</wi>
@@ -1253,7 +1334,8 @@ may be filled with all the fullness of God.
 <t xml:lang="es"><wi type="G" value="5037,2,">y</wi>
 <wi type="G" value="1097,1,">entender</wi>
 <wi type="G" value="26,7,">el amor</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="5547,9,">de Cristo</wi></wi>
+<wi type="G" value="3588,8,">de</wi>
+<wi type="G" value="5547,9,">Cristo</wi>
 <wi type="G" value="3588,5,">que</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="5235,4,">sobrepasa</wi>
 <wi type="G" value="1108,6,">el conocimiento</wi>
@@ -1261,8 +1343,10 @@ may be filled with all the fullness of God.
 <wi type="G" value="4137,11,">sean llenos</wi>
 <wi type="G" value="1519,12,">con</wi>
 <wi type="G" value="3956,13,">toda</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="4138,15,">la llenura</wi></wi>
-<wi type="G" value="3588,16,"><wi type="G" value="2316,17,">de Dios</wi></wi>.</t>
+<wi type="G" value="3588,14,">la</wi>
+<wi type="G" value="4138,15,">llenura</wi>
+<wi type="G" value="3588,16,">de</wi>
+<wi type="G" value="2316,17,">Dios</wi>.</t>
 </sv>
 <sv id="Efesios-3-20">
 Now to him who is able to do
@@ -1280,7 +1364,8 @@ con <wi type="G" value="4057,8,">abundancia</wi>
 <wi type="G" value="2228,11,">o</wi>
 <wi type="G" value="3539,12,">pensamos</wi>,
 <wi type="G" value="2596,13,">de acuerdo</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="1411,15,">al poder</wi></wi>
+<wi type="G" value="3588,14,">al</wi>
+<wi type="G" value="1411,15,">poder</wi>
 <wi type="G" value="3588,16,">que</wi>
 <wi type="G" value="1754,17,">obra</wi>
 <wi type="G" value="1722,18,">en</wi>
@@ -1290,17 +1375,20 @@ con <wi type="G" value="4057,8,">abundancia</wi>
 to him be the glory in the assembly and in Christ
 Jesus to all generations forever and ever. Amen.
 <t xml:lang="es"><wi type="G" value="846,1,">a Él</wi> sea
-<wi type="G" value="3588,2,"><wi type="G" value="1391,3,">la gloria</wi></wi>
+<wi type="G" value="3588,2,">la</wi>
+<wi type="G" value="1391,3,">gloria</wi>
 <wi type="G" value="1722,4,">en</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="1577,6,">la iglesia</wi></wi>
+<wi type="G" value="3588,5,">la</wi>
+<wi type="G" value="1577,6,">iglesia</wi>
 <wi type="G" value="1722,7,">en</wi>
 <wi type="G" value="5547,8,">Cristo</wi>
 <wi type="G" value="2424,9,">Jesús</wi>
 <wi type="G" value="1519,10,">por</wi>
 <wi type="G" value="3956,11,">todas</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="1074,13,">las generaciones</wi></wi>
-<wi type="G" value="3588,14,"><wi type="G" value="165,15,">para siempre</wi></wi> y
-<wi type="G" value="3588,16,"><wi type="G" value="165,17,">siempre</wi></wi>.
+<wi type="G" value="3588,12,">las</wi>
+<wi type="G" value="1074,13,">generaciones</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="165,15,">para siempre</wi> y
+<wi type="G" value="3588,16,"/><wi type="G" value="165,17,">siempre</wi>.
 <wi type="G" value="281,18,">Amén</wi>.</t>
 <cl/>
 </sv></cm></sc>
@@ -1313,14 +1401,15 @@ the calling with which you
  were called,
 <t xml:lang="es"><wi type="G" value="3767,2,">Por esto</wi>
 <wi type="G" value="1473,4,">yo</wi>,
-<wi type="G" value="3588,5,"><wi type="G" value="1198,6,">prisionero</wi></wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="1198,6,">prisionero</wi>
 <wi type="G" value="1722,7,">en</wi>
 <wi type="G" value="2962,8,">el Señor</wi>,
 <wi type="G" value="5209,3,">les</wi>
 <wi type="G" value="3870,1,">ruego</wi>
 <wi type="G" value="4043,10,">caminar</wi>
 como es <wi type="G" value="516,9,">digno</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="2821,12,">del llamado</wi></wi>
+<wi type="G" value="3588,11,">del</wi>
+<wi type="G" value="2821,12,">llamado</wi>
 <wi type="G" value="3739,13,">con el que</wi>
 <wi type="G" value="2564,14,">fueron llamados</wi>,</t>
 </sv>
@@ -1343,11 +1432,15 @@ humility, with patience, bearing with one another in love;
 being eager to keep the unity of the Spirit in the bond of peace.
 <t xml:lang="es"><wi type="G" value="4704,1,">anhelantes por</wi>
 <wi type="G" value="5083,2,">mantener</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="1775,4,">la unidad</wi></wi>
-<wi type="G" value="3588,5,"><wi type="G" value="4151,6,">del Espíritu</wi></wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="1775,4,">unidad</wi>
+<wi type="G" value="3588,5,">del</wi>
+<wi type="G" value="4151,6,">Espíritu</wi>
 <wi type="G" value="1722,7,">en</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="4886,9,">el vínculo</wi></wi>
-<wi type="G" value="3588,10,"><wi type="G" value="1515,11,">de la paz</wi></wi>.</t>
+<wi type="G" value="3588,8,">el</wi>
+<wi type="G" value="4886,9,">vínculo</wi>
+<wi type="G" value="3588,10,">de la</wi>
+<wi type="G" value="1515,11,">paz</wi>.</t>
 </sv>
 <sv id="Efesios-4-4">
 There is one body,
@@ -1366,7 +1459,7 @@ calling;
 <wi type="G" value="1520,10,">una</wi>
 <wi type="G" value="1680,11,">esperanza</wi>
 <wi type="G" value="5216,14,">de su</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2821,13,">vocación</wi></wi>;</t>
+<wi type="G" value="3588,12,"/><wi type="G" value="2821,13,">vocación</wi>;</t>
 </sv>
 <sv id="Efesios-4-5">
 one Lord, one faith, one baptism,
@@ -1410,11 +1503,14 @@ us was the grace given according to the measure of the gift of Christ.
 <wi type="G" value="1520,1,">uno</wi>
 <wi type="G" value="2257,4,">de nosotros</wi> nos
 <wi type="G" value="1325,5,">fue dada</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="5485,7,">gracia</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="5485,7,">gracia</wi>
 <wi type="G" value="2596,8,">de acuerdo a</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="3358,10,">la medida</wi></wi>
-<wi type="G" value="3588,11,"><wi type="G" value="1431,12,">del don</wi></wi>
-<wi type="G" value="3588,13,"><wi type="G" value="5547,14,">de Cristo</wi></wi>.</t>
+<wi type="G" value="3588,9,">la</wi>
+<wi type="G" value="3358,10,">medida</wi>
+<wi type="G" value="3588,11,">del</wi>
+<wi type="G" value="1431,12,">don</wi>
+<wi type="G" value="3588,13,">de</wi>
+<wi type="G" value="5547,14,">Cristo</wi>.</t>
 </sv>
 <sv id="Efesios-4-8">
 Therefore he says, «When he ascended on high, he led captivity captive,
@@ -1430,7 +1526,8 @@ and gave gifts to men.»
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="1325,9,">dio</wi>
 <wi type="G" value="1390,10,">dones</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="444,12,">a los hombres</wi></wi>.»
+<wi type="G" value="3588,11,">a los</wi>
+<wi type="G" value="444,12,">hombres</wi>.»
 </t>
 </sv>
 <sv id="Efesios-4-9">
@@ -1448,7 +1545,8 @@ also first descended into the lower parts of the earth?
 <wi type="G" value="1519,12,">a</wi>
 <wi type="G" value="3313,15,">las partes</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="2737,14,">bajas</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="1093,17,">de la tierra</wi></wi>?
+<wi type="G" value="3588,16,">de la</wi>
+<wi type="G" value="1093,17,">tierra</wi>?
 </t>
 </sv>
 <sv id="Efesios-4-10">
@@ -1464,7 +1562,8 @@ might fill all things.
 <wi type="G" value="305,7,">ascendió</wi>
 <wi type="G" value="5231,8,">más allá</wi>
 <wi type="G" value="3956,9,">de todos</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="3772,11,">los cielos</wi></wi>,
+<wi type="G" value="3588,10,">los</wi>
+<wi type="G" value="3772,11,">cielos</wi>,
 <wi type="G" value="2443,12,">para</wi>
 <wi type="G" value="4137,13,">llenarlo</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="3956,15,">todo</wi>.</t>
@@ -1501,15 +1600,18 @@ correctly translated «pastors.»
 for the perfecting of
 the saints, to the work of serving, to the building up of the body of Christ;
 <t xml:lang="es"><wi type="G" value="4314,1,">para</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="2677,3,">el perfeccionamiento</wi></wi>
+<wi type="G" value="3588,2,">el</wi>
+<wi type="G" value="2677,3,">perfeccionamiento</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="40,5,">de los santos</wi>, y
 <wi type="G" value="1519,6,">para</wi>
 <wi type="G" value="2041,7,">las obras</wi>
 <wi type="G" value="1248,8,">de servicio</wi>,
 <wi type="G" value="1519,9,">para</wi>
 <wi type="G" value="3619,10,">la edificación</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="4983,12,">del cuerpo</wi></wi>
-<wi type="G" value="3588,13,"><wi type="G" value="5547,14,">de Cristo</wi></wi>;</t>
+<wi type="G" value="3588,11,">del</wi>
+<wi type="G" value="4983,12,">cuerpo</wi>
+<wi type="G" value="3588,13,">de</wi>
+<wi type="G" value="5547,14,">Cristo</wi>;</t>
 </sv>
 <sv id="Efesios-4-13">
 until we all attain to the unity of the faith, and of the knowledge of
@@ -1518,20 +1620,27 @@ fullness of Christ;
 <t xml:lang="es"><wi type="G" value="3360,1,">hasta que</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="3956,4,">todos</wi>
 <wi type="G" value="2658,2,">alcancemos</wi>
-<wi type="G" value="1519,5,"/><wi type="G" value="3588,6,"><wi type="G" value="1775,7,">la unidad</wi></wi>
-<wi type="G" value="3588,8,"><wi type="G" value="4102,9,">de la fe</wi></wi>,
+<wi type="G" value="1519,5,"/><wi type="G" value="3588,6,">la</wi>
+<wi type="G" value="1775,7,">unidad</wi>
+<wi type="G" value="3588,8,">de la</wi>
+<wi type="G" value="4102,9,">fe</wi>,
 <wi type="G" value="2532,10,">y</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="1922,12,">del conocimiento</wi></wi>
-<wi type="G" value="3588,13,"><wi type="G" value="5207,14,">del Hijo</wi></wi>
-<wi type="G" value="3588,15,"><wi type="G" value="2316,16,">de Dios</wi></wi>,
+<wi type="G" value="3588,11,">del</wi>
+<wi type="G" value="1922,12,">conocimiento</wi>
+<wi type="G" value="3588,13,">del</wi>
+<wi type="G" value="5207,14,">Hijo</wi>
+<wi type="G" value="3588,15,">de</wi>
+<wi type="G" value="2316,16,">Dios</wi>,
 <wi type="G" value="1519,17,">a</wi>
 <wi type="G" value="435,18,">un hombre</wi>
 <wi type="G" value="5046,19,">perfecto</wi>,
 <wi type="G" value="1519,20,">a</wi>
 <wi type="G" value="3358,21,">la medida</wi>
 <wi type="G" value="2244,22,">de la estatura</wi>
-<wi type="G" value="3588,23,"><wi type="G" value="4138,24,">de la plenitud</wi></wi>
-<wi type="G" value="3588,25,"><wi type="G" value="5547,26,">de Cristo</wi></wi>;</t>
+<wi type="G" value="3588,23,">de la</wi>
+<wi type="G" value="4138,24,">plenitud</wi>
+<wi type="G" value="3588,25,">de</wi>
+<wi type="G" value="5547,26,">Cristo</wi>;</t>
 </sv>
 <sv id="Efesios-4-14">
 that we may no longer be children, tossed back and
@@ -1546,15 +1655,19 @@ in craftiness, after the wiles of error;
 <wi type="G" value="4064,7,">llevados</wi>
 <wi type="G" value="3956,8,">por todo</wi>
 <wi type="G" value="417,9,">viento</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="1319,11,">de doctrina</wi></wi>,
+<wi type="G" value="3588,10,">de</wi>
+<wi type="G" value="1319,11,">doctrina</wi>,
 <wi type="G" value="1722,12,">por</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="2940,14,">las astucias</wi></wi>
-<wi type="G" value="3588,15,"><wi type="G" value="444,16,">de hombres</wi></wi>,
+<wi type="G" value="3588,13,">las</wi>
+<wi type="G" value="2940,14,">astucias</wi>
+<wi type="G" value="3588,15,">de</wi>
+<wi type="G" value="444,16,">hombres</wi>,
 <wi type="G" value="1722,17,">en</wi>
 <wi type="G" value="3834,18,">artimañas</wi>
 <wi type="G" value="4314,19,">para</wi>
 <wi type="G" value="3588,20,"/><wi type="G" value="3180,21,">engaños</wi>
-<wi type="G" value="3588,22,"><wi type="G" value="4106,23,">del error</wi></wi>;</t>
+<wi type="G" value="3588,22,">del</wi>
+<wi type="G" value="4106,23,">error</wi>;</t>
 </sv>
 <sv id="Efesios-4-15">
 but speaking truth in love, we
@@ -1575,8 +1688,9 @@ se traduce como decir la verdad, profesar la verdad, estar en la verdad.
 <wi type="G" value="846,7,">Él</wi>,
 <wi type="G" value="3739,10,">que</wi>
 <wi type="G" value="2076,11,">es</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2776,13,">la cabeza</wi></wi>,
-<wi type="G" value="3588,14,"><wi type="G" value="5547,15,">Cristo</wi></wi>;</t>
+<wi type="G" value="3588,12,">la</wi>
+<wi type="G" value="2776,13,">cabeza</wi>,
+<wi type="G" value="3588,14,"/><wi type="G" value="5547,15,">Cristo</wi>;</t>
 </sv>
 <sv id="Efesios-4-16">
 from whom
@@ -1586,7 +1700,8 @@ the body increase to the building up of itself in love.
 <t xml:lang="es"><wi type="G" value="1537,1,">en</wi>
 <wi type="G" value="3739,2,">quien</wi>
 <wi type="G" value="3956,3,">todo</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="4983,5,">el cuerpo</wi></wi>,
+<wi type="G" value="3588,4,">el</wi>
+<wi type="G" value="4983,5,">cuerpo</wi>,
 <wi type="G" value="4883,6,">encaja</wi>
 <wi type="G" value="2532,7,">y</wi>
 <wi type="G" value="4822,8,">se compacta</wi>
@@ -1603,8 +1718,9 @@ the body increase to the building up of itself in love.
 <wi type="G" value="3313,20,">miembro</wi>
 <wi type="G" value="1520,18,">individual</wi>,
 <wi type="G" value="4160,25,">haciendo</wi> que
-<wi type="G" value="3588,23,"><wi type="G" value="4983,24,">el cuerpo</wi></wi>
-<wi type="G" value="3588,21,"><wi type="G" value="838,22,">crezca</wi></wi>
+<wi type="G" value="3588,23,">el</wi>
+<wi type="G" value="4983,24,">cuerpo</wi>
+<wi type="G" value="3588,21,"/><wi type="G" value="838,22,">crezca</wi>
 <wi type="G" value="1519,26,">para</wi>
 <wi type="G" value="3619,27,">la edificación</wi>
 <wi type="G" value="1438,28,">de si mismo</wi>
@@ -1636,33 +1752,37 @@ se traduce como dar testimonio y como exhortar solemnemente.
 <wi type="G" value="3371,8,">no</wi>
 <wi type="G" value="4043,10,">anden</wi>
 <wi type="G" value="2531,11,">como</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="3062,14,">los otros</wi></wi>
+<wi type="G" value="3588,13,">los</wi>
+<wi type="G" value="3062,14,">otros</wi>
 <wi type="G" value="1484,15,">gentiles</wi>
 <wi type="G" value="4043,16,">andan</wi>,
 <wi type="G" value="1722,17,">en</wi>
 <wi type="G" value="3153,18,">la futilidad</wi>
 <wi type="G" value="846,21,">de sus</wi>
-<wi type="G" value="3588,19,"><wi type="G" value="3563,20,">mentes</wi></wi>, </t>
+<wi type="G" value="3588,19,"/><wi type="G" value="3563,20,">mentes</wi>, </t>
 </sv>
 <sv id="Efesios-4-18">
 being darkened in their understanding, alienated from the life of God,
 because of the ignorance that is in them, because of the hardening of their
 hearts;
 <t xml:lang="es"><wi type="G" value="4654,1,">oscurecidos</wi> en
-<wi type="G" value="3588,2,"><wi type="G" value="1271,3,">entendimiento</wi></wi>,
+<wi type="G" value="3588,2,"/><wi type="G" value="1271,3,">entendimiento</wi>,
 <wi type="G" value="5607,4,">estando</wi>
 <wi type="G" value="526,5,">alienados</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="2222,7,">de la vida</wi></wi>
-<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">de Dios</wi></wi>
+<wi type="G" value="3588,6,">de la</wi>
+<wi type="G" value="2222,7,">vida</wi>
+<wi type="G" value="3588,8,">de</wi>
+<wi type="G" value="2316,9,">Dios</wi>
 <wi type="G" value="1223,10,">por</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="52,12,">la ignorancia</wi></wi>
+<wi type="G" value="3588,11,">la</wi>
+<wi type="G" value="52,12,">ignorancia</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="5607,14,">que está</wi>
 <wi type="G" value="1722,15,">en</wi>
 <wi type="G" value="846,16,">ellos</wi>,
 <wi type="G" value="1223,17,">por</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="3588,18,"><wi type="G"
-value="4457,19,">el endurecimiento</wi></wi><rf><citebib id="WEB"/> dice
+<rb xml:lang="es"><wi type="G" value="3588,18,">el</wi>
+<wi type="G" value="4457,19,">endurecimiento</wi><rf><citebib id="WEB"/> dice
 `endurecimiento,´ <citebib id="KJV2003"/> dice `la ceguera.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `πωρωσιν´ se traduce
 como enceguecido o endurecido.  En otros pasajes donde se usa (i.e. Marcos 3:5
@@ -1670,7 +1790,7 @@ como enceguecido o endurecido.  En otros pasajes donde se usa (i.e. Marcos 3:5
 </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="846,22,">de sus</wi>
-<wi type="G" value="3588,20,"><wi type="G" value="2588,21,">corazones</wi></wi>; </t>
+<wi type="G" value="3588,20,"/><wi type="G" value="2588,21,">corazones</wi>; </t>
 </sv>
 <sv id="Efesios-4-19">
 who having become callous gave themselves up to lust, to work
@@ -1687,7 +1807,7 @@ se traduce como que cesa de sentir, volverse calloso.
 <t xml:lang="es">
 se <wi type="G" value="3860,4,">dieron</wi>
 <wi type="G" value="1438,3,">a si mismos</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="766,6,">en lujuria</wi></wi>,
+<wi type="G" value="3588,5,"/><wi type="G" value="766,6,">en lujuria</wi>,
 <wi type="G" value="1519,7,">para</wi>
 <wi type="G" value="2039,8,">obrar</wi>
 <wi type="G" value="3956,10,">toda</wi>
@@ -1702,7 +1822,8 @@ But you did not learn Christ that way;
 <wi type="G" value="3756,3,">no</wi>
 <wi type="G" value="3129,5,">aprendieron</wi>
 <wi type="G" value="3779,4,">así</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="5547,7,">de Cristo</wi></wi>;
+<wi type="G" value="3588,6,">de</wi>
+<wi type="G" value="5547,7,">Cristo</wi>;
 </t>
 </sv>
 <sv id="Efesios-4-21">
@@ -1719,7 +1840,7 @@ truth is in Jesus:
 <wi type="G" value="225,10,">la verdad</wi>
 <wi type="G" value="2076,9,">está</wi>
 <wi type="G" value="1722,11,">en</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2424,13,">Jesús</wi></wi>:</t>
+<wi type="G" value="3588,12,"/><wi type="G" value="2424,13,">Jesús</wi>:</t>
 </sv>
 <sv id="Efesios-4-22">
 that you put away, as concerning your former
@@ -1735,17 +1856,20 @@ way of life, the old man, that grows corrupt after the lusts of deceit;
 <wi type="G" value="3588,10,">el cual</wi>
 <wi type="G" value="5351,11,">se corrompió</wi>
 <wi type="G" value="2596,12,">tras</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="539,16,">los engaños</wi></wi>
-<wi type="G" value="3588,13,"><wi type="G" value="1939,14,">de las concupiscencias</wi></wi>;</t>
+<wi type="G" value="3588,15,">los</wi>
+<wi type="G" value="539,16,">engaños</wi>
+<wi type="G" value="3588,13,">de las</wi>
+<wi type="G" value="1939,14,">concupiscencias</wi>;</t>
 </sv>
 <sv id="Efesios-4-23">
 and that you
 be renewed in the spirit of your mind,
 <t xml:lang="es"><wi type="G" value="1161,2,">y</wi>
 <wi type="G" value="365,1,">que se renueven</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="4151,4,">en el espíritu</wi></wi>
+<wi type="G" value="3588,3,">en el</wi>
+<wi type="G" value="4151,4,">espíritu</wi>
 <wi type="G" value="5216,7,">de su</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="3563,6,">mente</wi></wi>,</t>
+<wi type="G" value="3588,5,"/><wi type="G" value="3563,6,">mente</wi>,</t>
 </sv>
 <sv id="Efesios-4-24">
 and put
@@ -1763,7 +1887,8 @@ and holiness of truth.
 <wi type="G" value="1343,11,">justicia</wi>
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="3742,13,">santidad</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="225,15,">de la verdad.</wi></wi>
+<wi type="G" value="3588,14,">de la</wi>
+<wi type="G" value="225,15,">verdad.</wi>
 </t>
 </sv></cm>
 
@@ -1774,7 +1899,8 @@ truth each one with his
 neighbor. For we are members one of another.
 <t xml:lang="es"><wi type="G" value="1352,1,">Entonces</wi>,
 <wi type="G" value="659,2,">alejándose</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="5579,4,">de las mentiras</wi></wi>,
+<wi type="G" value="3588,3,">de las</wi>
+<wi type="G" value="5579,4,">mentiras</wi>,
 <wi type="G" value="1538,7,">todos</wi>
 <wi type="G" value="2980,5,">hablen</wi>
 <wi type="G" value="225,6,">la verdad</wi>
@@ -1796,12 +1922,13 @@ sin.» Don´t let the sun go down on your wrath,
 <wi type="G" value="3361,3,">no</wi>
 <wi type="G" value="264,4,">pequen</wi>.»
 Que
-<wi type="G" value="3588,5,"><wi type="G" value="2246,6,">el sol</wi></wi>
+<wi type="G" value="3588,5,">el</wi>
+<wi type="G" value="2246,6,">sol</wi>
 <wi type="G" value="3361,7,">no</wi>
 <wi type="G" value="1931,8,">se ponga</wi>
 <wi type="G" value="1909,9,">sobre</wi>
 <wi type="G" value="5216,12,">su</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="3950,11,">enojo</wi></wi>,
+<wi type="G" value="3588,10,"/><wi type="G" value="3950,11,">enojo</wi>,
 </t>
 
 </sv>
@@ -1825,7 +1952,7 @@ más;
 <wi type="G" value="1161,6,"><wi type="G" value="3123,5,">sino</wi></wi>
 <wi type="G" value="2872,7,">trabaje</wi>,
 <wi type="G" value="2038,8,">obrando</wi> con sus
-<wi type="G" value="3588,11,"><wi type="G" value="5495,12,">manos</wi></wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="5495,12,">manos</wi>
 <wi type="G" value="3588,9,">lo que</wi> es
 <wi type="G" value="18,10,">bueno</wi>,
 <wi type="G" value="2443,13,">para que</wi>
@@ -1846,14 +1973,14 @@ give grace to those who hear.
 <wi type="G" value="1607,9,">proceda</wi>
 <wi type="G" value="1537,4,">de</wi>
 <wi type="G" value="5216,7,">su</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="4750,6,">boca</wi></wi>,
+<wi type="G" value="3588,5,"/><wi type="G" value="4750,6,">boca</wi>,
 <wi type="G" value="235,10,">sino</wi>
 <wi type="G" value="1487,11,">la que</wi>
 <wi type="G" value="5100,12,">sea</wi>
 <wi type="G" value="18,13,">buena</wi>
 <wi type="G" value="4314,14,">para</wi>
 la <wi type="G" value="5532,17,">necesaria</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="3619,15,">edificación</wi></wi>,
+<wi type="G" value="3588,16,"/><wi type="G" value="3619,15,">edificación</wi>,
 <wi type="G" value="2443,18,">que</wi>
 <wi type="G" value="1325,19,">den</wi>
 <wi type="G" value="5485,20,">gracia</wi> a
@@ -1867,9 +1994,11 @@ were sealed for the day of redemption.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="3361,2,">no</wi>
 <wi type="G" value="3076,3,">entristezcan</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="4151,5,">al Espíritu</wi></wi>
+<wi type="G" value="3588,4,">al</wi>
+<wi type="G" value="4151,5,">Espíritu</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="40,7,">Santo</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="2316,9,">de Dios</wi></wi>,
+<wi type="G" value="3588,8,">de</wi>
+<wi type="G" value="2316,9,">Dios</wi>,
 <wi type="G" value="1722,10,">en</wi>
 <wi type="G" value="3739,11,">quien</wi>
 <wi type="G" value="4972,12,">ustedes fueron sellados</wi>
@@ -1914,7 +2043,7 @@ other, just as God also in Christ forgave you.
 <wi type="G" value="1438,8,">unos a otros</wi>,
 <wi type="G" value="2532,10,">así</wi>
 <wi type="G" value="2531,9,">como</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="2316,12,">Dios</wi></wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="2316,12,">Dios</wi>
 <wi type="G" value="1722,13,">por</wi>
 <wi type="G" value="5547,14,">Cristo</wi>
 <wi type="G" value="5213,16,">los</wi>
@@ -1934,7 +2063,8 @@ Be therefore imitators of God, as beloved children.
 La palabra griega `μιμηται´ se ha traducido como imitadores,
 y eso significa según <citebib id="Thayer-BLB"/>.</rf></rb>
 <t xml:lang="es">
-<wi type="G" value="3588,4,"><wi type="G" value="2316,5,">de Dios</wi></wi>,
+<wi type="G" value="3588,4,">de</wi>
+<wi type="G" value="2316,5,">Dios</wi>,
 <wi type="G" value="5613,6,">como</wi>
 <wi type="G" value="5043,7,">hijos</wi>
 <wi type="G" value="27,8,">amados</wi>.</t>
@@ -1947,7 +2077,7 @@ offering and a sacrifice to God for a sweet-smelling fragrance.
 <wi type="G" value="1722,3,">en</wi>
 <wi type="G" value="26,4,">amor</wi>,
 <wi type="G" value="2531,5,">así como</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="5547,8,">Cristo</wi></wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="5547,8,">Cristo</wi>
 <wi type="G" value="2532,6,">también</wi>
 <wi type="G" value="2248,10,">nos</wi>
 <wi type="G" value="25,9,">ha amado</wi>,
@@ -1959,7 +2089,7 @@ offering and a sacrifice to God for a sweet-smelling fragrance.
 <wi type="G" value="4376,16,">una ofrenda</wi>
 <wi type="G" value="2532,17,">y</wi>
 <wi type="G" value="2378,18,">un sacrificio</wi> para
-<wi type="G" value="3588,19,"><wi type="G" value="2316,20,">Dios</wi></wi>
+<wi type="G" value="3588,19,"/><wi type="G" value="2316,20,">Dios</wi>
 <wi type="G" value="1519,21,">como</wi>
 <wi type="G" value="3744,22,">fragancia</wi>
 <wi type="G" value="2175,23,">de olor dulce</wi>.</t>
@@ -2029,8 +2159,10 @@ Christ and God.
 <wi type="G" value="2817,17,">herencia</wi>
 <wi type="G" value="3756,15,">alguna</wi>
 <wi type="G" value="1722,18,">en</wi>
-<wi type="G" value="3588,19,"><wi type="G" value="932,20,">el Reino</wi></wi>
-<wi type="G" value="3588,21,"><wi type="G" value="5547,22,">de Cristo</wi></wi>
+<wi type="G" value="3588,19,">el</wi>
+<wi type="G" value="932,20,">Reino</wi>
+<wi type="G" value="3588,21,">de</wi>
+<wi type="G" value="5547,22,">Cristo</wi>
 <wi type="G" value="2532,23,">y</wi>
 <wi type="G" value="2316,24,">de Dios</wi>.</t>
 </sv></cm><cm>
@@ -2048,11 +2180,15 @@ the wrath of God comes on the children of disobedience.
 <wi type="G" value="1063,8,">Pues a causa</wi>
 <wi type="G" value="5023,7,">de estas cosas</wi>,
 <wi type="G" value="2064,9,">viene</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="3709,11,">la ira</wi></wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">de Dios</wi></wi>
+<wi type="G" value="3588,10,">la</wi>
+<wi type="G" value="3709,11,">ira</wi>
+<wi type="G" value="3588,12,">de</wi>
+<wi type="G" value="2316,13,">Dios</wi>
 <wi type="G" value="1909,14,">sobre</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="5207,16,">los hijos</wi></wi>
-<wi type="G" value="3588,17,"><wi type="G" value="543,18,">de desobediencia</wi></wi>.</t>
+<wi type="G" value="3588,15,">los</wi>
+<wi type="G" value="5207,16,">hijos</wi>
+<wi type="G" value="3588,17,">de</wi>
+<wi type="G" value="543,18,">desobediencia</wi>.</t>
 </sv>
 <sv id="Efesios-5-7">
 Therefore don´t be partakers with them.
@@ -2085,7 +2221,8 @@ for the fruit of the
 Spirit is in all goodness and righteousness and truth,
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">pues</wi>
 <wi type="G" value="2590,3,">el fruto</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="4151,5,">del Espíritu</wi></wi>
+<wi type="G" value="3588,4,">del</wi>
+<wi type="G" value="4151,5,">Espíritu</wi>
 es
 <wi type="G" value="1722,6,">en</wi>
 <wi type="G" value="3956,7,">toda</wi>
@@ -2109,7 +2246,8 @@ es cierta o no. Reconocer como genuino tras examinar.
 <wi type="G" value="5101,2,">lo que</wi>
 <wi type="G" value="2076,3,">es</wi>
 <wi type="G" value="2101,4,">agradable</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2962,6,">al Señor</wi></wi>.</t>
+<wi type="G" value="3588,5,">al</wi>
+<wi type="G" value="2962,6,">Señor</wi>.</t>
 </sv>
 <sv id="Efesios-5-11">
 Have no fellowship with the unfruitful works
@@ -2125,9 +2263,11 @@ se traduce como tener compañia, comunicar, ser coparticipe.
 </rf></rb>
 <t xml:lang="es">
 con
-<wi type="G" value="3588,4,"><wi type="G" value="2041,5,">las obras</wi></wi>
+<wi type="G" value="3588,4,">las</wi>
+<wi type="G" value="2041,5,">obras</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="175,7,">sin fruto</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="4655,9,">de la oscuridad</wi></wi>,
+<wi type="G" value="3588,8,">de la</wi>
+<wi type="G" value="4655,9,">oscuridad</wi>,
 <wi type="G" value="1161,11,">sino</wi>
 <wi type="G" value="3123,10,">en cambio</wi>
 <wi type="G" value="2532,12,"/><wi type="G" value="1651,13,">repruebenlas</wi>.</t>
@@ -2162,7 +2302,8 @@ is light.
 <wi type="G" value="1651,4,">son reprobadas</wi>
 <wi type="G" value="5319,8,">son reveladas</wi>
 <wi type="G" value="5259,5,">por</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="5457,7,">la luz</wi></wi>,
+<wi type="G" value="3588,6,">la</wi>
+<wi type="G" value="5457,7,">luz</wi>,
 <wi type="G" value="1063,10,">porque</wi>
 <wi type="G" value="5457,13,">la luz</wi>
 <wi type="G" value="2076,14,">es</wi>
@@ -2184,7 +2325,7 @@ from the dead, and Christ will shine on you.»
 <wi type="G" value="1537,8,">de</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="3498,10,">la muerte</wi>,
 <wi type="G" value="2532,11,">y</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="5547,15,">Cristo</wi></wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="5547,15,">Cristo</wi>
 <wi type="G" value="2017,12,">brillará</wi> en
 <wi type="G" value="4671,13,">ustedes</wi>.»
 </t>
@@ -2211,9 +2352,11 @@ walk, not as unwise, but as wise;
 redeeming the time, because the days are evil.
 <t xml:lang="es">
 <wi type="G" value="1805,1,">aprovechando</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="2540,3,">el tiempo</wi></wi>,
+<wi type="G" value="3588,2,">el</wi>
+<wi type="G" value="2540,3,">tiempo</wi>,
 <wi type="G" value="3754,4,">porque</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2250,6,">los días</wi></wi>
+<wi type="G" value="3588,5,">los</wi>
+<wi type="G" value="2250,6,">días</wi>
 <wi type="G" value="1526,8,">son</wi>
 <wi type="G" value="4190,7,">malos</wi>.</t>
 </sv>
@@ -2229,8 +2372,10 @@ foolish, but understand what the will of the Lord is.
 <wi type="G" value="235,6,">sino</wi>
 <wi type="G" value="4920,7,">entendidos</wi>
 <wi type="G" value="5101,8,">de cual</wi> es
-<wi type="G" value="3588,9,"><wi type="G" value="2307,10,">la voluntad</wi></wi>
-<wi type="G" value="3588,11,"><wi type="G" value="2962,12,">del Señor</wi></wi>.</t>
+<wi type="G" value="3588,9,">la</wi>
+<wi type="G" value="2307,10,">voluntad</wi>
+<wi type="G" value="3588,11,">del</wi>
+<wi type="G" value="2962,12,">Señor</wi>.</t>
 </sv>
 
 <sv id="Efesios-5-18">
@@ -2267,8 +2412,9 @@ songs; singing, and singing praises in your heart to the Lord;
 <wi type="G" value="5567,11,">alabando</wi>
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="5216,15,">sus</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="2588,14,">corazones</wi></wi>
-<wi type="G" value="3588,16,"><wi type="G" value="2962,17,">al Señor</wi></wi>;</t>
+<wi type="G" value="3588,13,"/><wi type="G" value="2588,14,">corazones</wi>
+<wi type="G" value="3588,16,">al</wi>
+<wi type="G" value="2962,17,">Señor</wi>;</t>
 </sv>
 
 <sv id="Efesios-5-20">
@@ -2279,13 +2425,14 @@ God, even the Father;
 <wi type="G" value="3842,2,">siempre</wi>
 <wi type="G" value="5228,3,">por</wi>
 <wi type="G" value="3956,4,">todo</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2316,13,">al Dios</wi></wi>
+<wi type="G" value="3588,12,">al</wi>
+<wi type="G" value="2316,13,">Dios</wi>
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="3962,15,">Padre</wi>
 <wi type="G" value="1722,5,">en</wi>
 <wi type="G" value="3686,6,">el nombre</wi>
 <wi type="G" value="2257,9,">de nuestro</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="2962,8,">Señor</wi></wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="2962,8,">Señor</wi>
 <wi type="G" value="2424,10,">Jesús</wi>
 <wi type="G" value="5547,11,">Cristo</wi>;</t>
 </sv>
@@ -2303,33 +2450,37 @@ of Christ.
 <cm>
 <sv id="Efesios-5-22">
 Wives, be subject to your own husbands, as to the Lord.
-<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G"
-value="1135,2,">Esposas</wi></wi>,
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1135,2,">Esposas</wi>,
 <wi type="G" value="5293,6,">estén sujetas a</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="2398,4,">sus</wi>
 <wi type="G" value="435,5,">maridos</wi>,
 <wi type="G" value="5613,7,">como</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="2962,9,">al Señor</wi></wi>.</t>
+<wi type="G" value="3588,8,">al</wi>
+<wi type="G" value="2962,9,">Señor</wi>.</t>
 </sv>
 <sv id="Efesios-5-23">
 For the
 husband is the head of the wife, and Christ also is the head of the assembly,
 being himself the savior of the body.
 <t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="435,3,">el esposo</wi></wi>
+<wi type="G" value="3588,2,">el</wi>
+<wi type="G" value="435,3,">esposo</wi>
 <wi type="G" value="2076,4,">es</wi>
 <wi type="G" value="2776,5,">cabeza</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="1135,7,">de la esposa</wi></wi>,
+<wi type="G" value="3588,6,">de la</wi>
+<wi type="G" value="1135,7,">esposa</wi>,
 <wi type="G" value="5613,8,">así como</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="5547,11,">Cristo</wi></wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="5547,11,">Cristo</wi>
 <wi type="G" value="2532,9,">también</wi>
 es <wi type="G" value="2776,12,">cabeza</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="1577,14,">de la iglesia</wi></wi>,
+<wi type="G" value="3588,13,">de la</wi>
+<wi type="G" value="1577,14,">iglesia</wi>,
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="846,16,">Él mismo</wi>
 <wi type="G" value="2076,17,">es</wi>
 <wi type="G" value="4990,18,">el salvador</wi>
-<wi type="G" value="3588,19,"><wi type="G" value="4983,20,">del cuerpo</wi></wi>.</t>
+<wi type="G" value="3588,19,">del</wi>
+<wi type="G" value="4983,20,">cuerpo</wi>.</t>
 </sv>
 
 <sv id="Efesios-5-24">
@@ -2338,12 +2489,15 @@ Christ, so let the wives also be to their own husbands in everything.
 <t xml:lang="es">
 <wi type="G" value="235,1,">Entonces</wi>
 <wi type="G" value="5618,2,">como</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="1577,4,">la iglesia</wi></wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="1577,4,">iglesia</wi>
 <wi type="G" value="5293,5,">está sujeta</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="5547,7,">a Cristo</wi></wi>,
+<wi type="G" value="3588,6,">a</wi>
+<wi type="G" value="5547,7,">Cristo</wi>,
 <wi type="G" value="3779,8,">así</wi>
 <wi type="G" value="2532,9,">también</wi> que
-<wi type="G" value="3588,10,"><wi type="G" value="1135,11,">las esposas</wi></wi>
+<wi type="G" value="3588,10,">las</wi>
+<wi type="G" value="1135,11,">esposas</wi>
 <wi type="G" value="3588,12,"/><wi type="G" value="2398,13,">a sus</wi>
 <wi type="G" value="435,14,">esposos</wi>
 <wi type="G" value="1722,15,">en</wi>
@@ -2355,15 +2509,16 @@ Christ, so let the wives also be to their own husbands in everything.
 <sv id="Efesios-5-25">
 Husbands, love your wives, even as Christ also loved the assembly, and
 gave himself up for it;
-<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="435,2,">Esposos</wi></wi>,
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="435,2,">Esposos</wi>,
 <wi type="G" value="25,3,">amen a</wi>
 <wi type="G" value="1438,6,">sus</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="1135,5,">esposas</wi></wi>,
+<wi type="G" value="3588,4,"/><wi type="G" value="1135,5,">esposas</wi>,
 <wi type="G" value="2531,7,">tal como</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="5547,10,">Cristo</wi></wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="5547,10,">Cristo</wi>
 <wi type="G" value="2532,8,">también</wi>
 <wi type="G" value="25,11,">amó a</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="1577,13,">la iglesia</wi></wi>,
+<wi type="G" value="3588,12,">la</wi>
+<wi type="G" value="1577,13,">iglesia</wi>,
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="1438,15,">se</wi>
 <wi type="G" value="3860,16,">dio</wi>
@@ -2378,8 +2533,10 @@ by the washing of water with the word,
 <wi type="G" value="846,2,">Él</wi> la
 <wi type="G" value="37,3,">santificara</wi>,
 y la <wi type="G" value="2511,4,">limpiara</wi> con
-<wi type="G" value="3588,5,"><wi type="G" value="3067,6,">el lavamiento</wi></wi>
-<wi type="G" value="3588,7,"><wi type="G" value="5204,8,">de agua</wi></wi>
+<wi type="G" value="3588,5,">el</wi>
+<wi type="G" value="3067,6,">lavamiento</wi>
+<wi type="G" value="3588,7,">de</wi>
+<wi type="G" value="5204,8,">agua</wi>
 <wi type="G" value="1722,9,">por</wi>
 <wi type="G" value="4487,10,">la palabra</wi>.
 </t>
@@ -2392,7 +2549,7 @@ but that it should be holy and without blemish.
 <wi type="G" value="2443,1,">para</wi>
 <wi type="G" value="3936,2,"><wi type="G" value="846,3,">presentarla</wi></wi>
 <wi type="G" value="1438,4,">para si como</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="1577,7,">iglesia</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="1577,7,">iglesia</wi>
 <wi type="G" value="1741,5,">gloriosa</wi>,
 <wi type="G" value="3361,8,">que no</wi>
 <wi type="G" value="2192,9,">tuviera</wi>
@@ -2413,7 +2570,8 @@ Even so ought husbands
 also to love their own wives as their own bodies. He who loves his own wife
 loves himself.
 <t xml:lang="es"><wi type="G" value="3779,1,">Así</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="435,4,">los varones</wi></wi>
+<wi type="G" value="3588,3,">los</wi>
+<wi type="G" value="435,4,">varones</wi>
 <wi type="G" value="3784,2,">deben</wi>
 <wi type="G" value="25,5,">amar a</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="1438,7,">sus</wi>
@@ -2446,8 +2604,10 @@ cherishes it, even as the Lord also does the assembly;
 <wi type="G" value="2282,11,">cuida</wi>,
 <wi type="G" value="2531,13,">así</wi>
 <wi type="G" value="2532,14,">también</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="2962,16,">el Señor</wi></wi>
-a <wi type="G" value="3588,17,"><wi type="G" value="1577,18,">la iglesia</wi></wi>;</t>
+<wi type="G" value="3588,15,">el</wi>
+<wi type="G" value="2962,16,">Señor</wi>
+a <wi type="G" value="3588,17,">la</wi>
+<wi type="G" value="1577,18,">iglesia</wi>;</t>
 </sv>
 <sv id="Efesios-5-30">
 because we are
@@ -2456,14 +2616,14 @@ members of his body, of his flesh and bones.
 <wi type="G" value="2070,3,">somos</wi>
 <wi type="G" value="3196,2,">miembros</wi>
 <wi type="G" value="846,6,">de su</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="4983,5,">cuerpo</wi></wi>,
+<wi type="G" value="3588,4,"/><wi type="G" value="4983,5,">cuerpo</wi>,
 <wi type="G" value="1537,7,">de</wi>
 <wi type="G" value="846,10,">su</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="4561,9,">carne</wi></wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="4561,9,">carne</wi>
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="1537,12,">de</wi>
 <wi type="G" value="846,15,">sus</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="3747,14,">huesos</wi></wi>.</t>
+<wi type="G" value="3588,13,"/><wi type="G" value="3747,14,">huesos</wi>.</t>
 </sv>
 <sv id="Efesios-5-31">
 «For this cause a man will
@@ -2475,14 +2635,14 @@ become one flesh.»
 <wi type="G" value="444,4,">el hombre</wi>
 <wi type="G" value="2641,3,">dejará a</wi>
 <wi type="G" value="846,7,">su</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="3962,6,">padre</wi></wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="3962,6,">padre</wi>
 <wi type="G" value="2532,8,">y</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="3384,10,">madre</wi></wi>,
+<wi type="G" value="3588,9,"/><wi type="G" value="3384,10,">madre</wi>,
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="4347,12,">se unirá</wi>
 <wi type="G" value="4314,13,">a</wi>
 <wi type="G" value="846,16,">su</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="1135,15,">esposa</wi></wi>.
+<wi type="G" value="3588,14,"/><wi type="G" value="1135,15,">esposa</wi>.
 <wi type="G" value="2532,17,">Y</wi>
 <wi type="G" value="3588,19,"/><wi type="G" value="1417,20,">los dos</wi>
 <wi type="G" value="2071,18,">serán</wi>
@@ -2495,7 +2655,7 @@ This mystery is great, but I speak concerning Christ
 and of the assembly.
 <t xml:lang="es">
 <wi type="G" value="5124,3,">Este</wi>
-<wi type="G" value="3588,1,"><wi type="G" value="3466,2,">misterio</wi></wi>
+<wi type="G" value="3588,1,"/><wi type="G" value="3466,2,">misterio</wi>
 <wi type="G" value="2076,5,">es</wi>
 <wi type="G" value="3173,4,">grande</wi>,
 <wi type="G" value="1161,7,">pero</wi>
@@ -2505,7 +2665,8 @@ and of the assembly.
 <wi type="G" value="5547,10,">Cristo</wi>
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="1519,12,">a</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="1577,14,">la iglesia</wi></wi>.
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="1577,14,">iglesia</wi>.
 </t>
 </sv>
 <sv id="Efesios-5-33">
@@ -2520,15 +2681,16 @@ husband.
 <wi type="G" value="1538,7,">en particular</wi>
 <wi type="G" value="25,12,">ame a</wi>
 <wi type="G" value="1438,9,">su</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="1135,10,">esposa</wi></wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="1135,10,">esposa</wi>
 <wi type="G" value="3779,11,">así</wi>
 <wi type="G" value="5613,13,">como a</wi>
 <wi type="G" value="1438,14,">si mismo</wi>;
 <wi type="G" value="1161,16,">y</wi>
 <wi type="G" value="2443,18,">que</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="1135,17,">la esposa</wi></wi>
+<wi type="G" value="3588,15,">la</wi>
+<wi type="G" value="1135,17,">esposa</wi>
 <wi type="G" value="5399,19,">respete al</wi>
-<wi type="G" value="3588,20,"><wi type="G" value="435,21,">esposo</wi></wi>.
+<wi type="G" value="3588,20,"/><wi type="G" value="435,21,">esposo</wi>.
 </t>
 <cl/>
 </sv></cm></sc>
@@ -2538,10 +2700,10 @@ husband.
 <cm>
 <sv id="Efesios-6-1">
 Children, obey your parents in the Lord, for this is right.
-<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="5043,2,">Hijos</wi></wi>,
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="5043,2,">Hijos</wi>,
 <wi type="G" value="5219,3,">obedezcan a</wi>
 <wi type="G" value="5216,6,">sus</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="1118,5,">padres</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="1118,5,">padres</wi>
 <wi type="G" value="1722,7,">en</wi>
 <wi type="G" value="2962,8,">el Señor</wi>,
 <wi type="G" value="1063,10,">porque</wi>
@@ -2555,9 +2717,9 @@ promise:
 <t xml:lang="es">
 «<wi type="G" value="5091,1,">Honra a</wi>
 <wi type="G" value="4675,4,">tu</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="3962,3,">padre</wi></wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="3962,3,">padre</wi>
 <wi type="G" value="2532,5,">y</wi> a tu
-<wi type="G" value="3588,6,"><wi type="G" value="3384,7,">madre</wi></wi>,»
+<wi type="G" value="3588,6,"/><wi type="G" value="3384,7,">madre</wi>,»
 <wi type="G" value="3748,8,">que</wi>
 <wi type="G" value="2076,9,">es</wi>
 <wi type="G" value="4413,11,">el primer</wi>
@@ -2577,7 +2739,8 @@ earth.»
 <wi type="G" value="2071,6,">tengas</wi>
 <wi type="G" value="3118,7,">larga vida</wi>
 <wi type="G" value="1909,8,">en</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="1093,10,">la tierra</wi></wi>.»
+<wi type="G" value="3588,9,">la</wi>
+<wi type="G" value="1093,10,">tierra</wi>.»
 </t>
 </sv></cm>
 
@@ -2591,7 +2754,7 @@ in the discipline and instruction of the Lord.
 <wi type="G" value="3361,4,">no</wi>
 <wi type="G" value="3949,5,">provoquen a ira a</wi>
 <wi type="G" value="5216,8,">sus</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="5043,7,">hijos</wi></wi>,
+<wi type="G" value="3588,6,"/><wi type="G" value="5043,7,">hijos</wi>,
 <wi type="G" value="235,9,">sino</wi> </t>
 <rb xml:lang="es"><wi type="G" value="1625,10,"><wi type="G" value="846,11,">críenlos</wi></wi><rf>
 <citebib id="WEB"/> dice nútranlos,
@@ -2616,8 +2779,7 @@ traduce como admonición o exhortación.
 <sv id="Efesios-6-5">
 Servants, be obedient to those who according to the flesh are your
 masters, with fear and trembling, in singleness of your heart, as to Christ;
-<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G"
-value="1401,2,">Siervos</wi></wi>,
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1401,2,">Siervos</wi>,
 <wi type="G" value="5219,3,">sean obedientes a</wi>
 <wi type="G" value="3588,4,">los que</wi>
 <wi type="G" value="2596,6,">de acuerdo a</wi>
@@ -2630,9 +2792,10 @@ son <wi type="G" value="2962,5,">amos</wi>,
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="572,13,">sencillez</wi>
 <wi type="G" value="5216,16,">de su</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="2588,15,">corazón</wi></wi>,
+<wi type="G" value="3588,14,"/><wi type="G" value="2588,15,">corazón</wi>,
 <wi type="G" value="5613,17,">como</wi>
-<wi type="G" value="3588,18,"><wi type="G" value="5547,19,">a</wi></wi> Cristo;</t>
+<wi type="G" value="3588,18,">a</wi>
+<wi type="G" value="5547,19,"/> Cristo;</t>
 
 </sv>
 <sv id="Efesios-6-6">
@@ -2646,10 +2809,13 @@ but as servants of Christ, doing the will of God from the heart;
 <wi type="G" value="235,6,">sino</wi>
 <wi type="G" value="5613,7,">como</wi>
 <wi type="G" value="1401,8,">servidores</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="5547,10,">de Cristo</wi></wi>,
+<wi type="G" value="3588,9,">de</wi>
+<wi type="G" value="5547,10,">Cristo</wi>,
 <wi type="G" value="4160,11,">haciendo</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2307,13,">la voluntad</wi></wi>
-<wi type="G" value="3588,14,"><wi type="G" value="2316,15,">de Dios</wi></wi>
+<wi type="G" value="3588,12,">la</wi>
+<wi type="G" value="2307,13,">voluntad</wi>
+<wi type="G" value="3588,14,">de</wi>
+<wi type="G" value="2316,15,">Dios</wi>
 <wi type="G" value="1537,16,">de</wi>
 <wi type="G" value="5590,17,">corazón</wi>;
 </t>
@@ -2660,7 +2826,8 @@ with good will doing service, as to the Lord, and not to men;
 <wi type="G" value="2133,2,">buena voluntad</wi>
 <wi type="G" value="1398,3,">sirviendo</wi>,
 <wi type="G" value="5613,4,">como</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2962,6,">al Señor</wi></wi>,
+<wi type="G" value="3588,5,">al</wi>
+<wi type="G" value="2962,6,">Señor</wi>,
 <wi type="G" value="2532,7,">y</wi>
 <wi type="G" value="3756,8,">no</wi> como
 <wi type="G" value="444,9,">a hombres</wi>;</t>
@@ -2680,7 +2847,7 @@ Lord, whether he is bound or free.
 <wi type="G" value="2865,10,">recibirá</wi>
 <wi type="G" value="5124,9,">lo mismo</wi>
 <wi type="G" value="3844,11,">del</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2962,13,">Señor</wi></wi>,
+<wi type="G" value="3588,12,"/><wi type="G" value="2962,13,">Señor</wi>,
 <wi type="G" value="1535,14,">bien</wi> sea
 <wi type="G" value="1401,15,">esclavo</wi>
 <wi type="G" value="1535,16,">o</wi>
@@ -2696,16 +2863,18 @@ knowing that he who is both their Master and yours is in heaven, and there is
 no partiality with him.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="4160,6,">ustedes</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="2962,3,">amos</wi></wi>,
+<wi type="G" value="3588,2,"/><wi type="G" value="2962,3,">amos</wi>,
 <wi type="GC" value="6">hagan</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="846,5,">eso mismo</wi>
 <wi type="G" value="4314,7,">por</wi>
 <wi type="G" value="846,8,">ellos</wi>,
 <wi type="G" value="447,9,">dejando</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="547,11,">las amenazas</wi></wi>,
+<wi type="G" value="3588,10,">las</wi>
+<wi type="G" value="547,11,">amenazas</wi>,
 <wi type="G" value="1492,12,">sabiendo</wi>
 <wi type="G" value="3754,13,">que</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="2962,18,">el Amo</wi></wi>
+<wi type="G" value="3588,17,">el</wi>
+<wi type="G" value="2962,18,">Amo</wi>
 <wi type="G" value="5216,15,">de ustedes</wi>
 <wi type="G" value="2532,14,">y</wi> <wi type="G" value="846,16,">de ellos</wi>
 <wi type="G" value="2076,19,">está</wi>
@@ -2730,9 +2899,10 @@ Finally, be strong in the Lord, and in the strength of his might.
 <wi type="G" value="2962,7,">el Señor</wi>,
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="1722,9,">en</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="2904,11,">la fuerza</wi></wi>
+<wi type="G" value="3588,10,">la</wi>
+<wi type="G" value="2904,11,">fuerza</wi>
 <wi type="G" value="846,14,">de su</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2479,13,">poder</wi></wi>.
+<wi type="G" value="3588,12,"/><wi type="G" value="2479,13,">poder</wi>.
 </t>
 </sv>
 <sv id="Efesios-6-11">
@@ -2740,14 +2910,16 @@ Put on the whole armor of God, that you
 may be able to stand
 against the wiles of the devil.
 <t xml:lang="es"><wi type="G" value="1746,1,">Pónganse</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="3833,3,">toda la armadura</wi></wi>
-<wi type="G" value="3588,4,"><wi type="G" value="2316,5,">de Dios</wi></wi>,
+<wi type="G" value="3588,2,"/><wi type="G" value="3833,3,">toda la armadura</wi>
+<wi type="G" value="3588,4,">de</wi>
+<wi type="G" value="2316,5,">Dios</wi>,
 para <wi type="G" value="4314,6,"/><wi type="G" value="3588,7,">que</wi>
 <wi type="G" value="5209,9,">ustedes</wi>
 <wi type="G" value="1410,8,">puedan</wi>
 <wi type="G" value="2476,10,">mantenerse</wi>
 <wi type="G" value="4314,11,">ante</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="3180,13,">los engaños</wi></wi>
+<wi type="G" value="3588,12,">los</wi>
+<wi type="G" value="3180,13,">engaños</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="1228,15,">del diablo</wi>.
 </t>
 </sv>
@@ -2759,7 +2931,7 @@ of wickedness in the heavenly places.
 <t xml:lang="es">
 <wi type="G" value="3754,1,">Pues</wi>
 <wi type="G" value="2254,4,">nuestra</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="3823,6,">lucha</wi></wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="3823,6,">lucha</wi>
 <wi type="G" value="3756,2,">no</wi>
 <wi type="G" value="2076,3,">es</wi>
 <wi type="G" value="4314,7,">contra</wi>
@@ -2768,16 +2940,17 @@ of wickedness in the heavenly places.
 <wi type="G" value="129,8,">sangre</wi>,
 <wi type="G" value="235,11,">sino</wi>
 <wi type="G" value="4314,12,">contra</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="746,14,">principados</wi></wi>,
+<wi type="G" value="3588,13,"/><wi type="G" value="746,14,">principados</wi>,
 <wi type="G" value="4314,15,">contra</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="1849,17,">poderes</wi></wi>,
+<wi type="G" value="3588,16,"/><wi type="G" value="1849,17,">poderes</wi>,
 <wi type="G" value="4314,18,">contra</wi>
-<wi type="G" value="3588,19,"><wi type="G" value="2888,20,">gobernadores</wi></wi>
-<wi type="G" value="3588,21,"><wi type="G" value="4655,22,">de la oscuridad</wi></wi>
+<wi type="G" value="3588,19,"/><wi type="G" value="2888,20,">gobernadores</wi>
+<wi type="G" value="3588,21,">de la</wi>
+<wi type="G" value="4655,22,">oscuridad</wi>
 <wi type="G" value="5127,25,">de esta</wi>
-<wi type="G" value="3588,23,"><wi type="G" value="165,24,">época</wi></wi>,
+<wi type="G" value="3588,23,"/><wi type="G" value="165,24,">época</wi>,
 y <wi type="G" value="4314,26,">contra</wi>
-<wi type="G" value="3588,29,"><wi type="G" value="4189,30,">maldad</wi></wi>
+<wi type="G" value="3588,29,"/><wi type="G" value="4189,30,">maldad</wi>
 <wi type="G" value="3588,27,"/><wi type="G" value="4152,28,">espiritual</wi>
 <wi type="G" value="1722,31,">en</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,32,"/><wi type="G" value="2032,33,">lugares altos</wi><rf>
@@ -2798,13 +2971,15 @@ done all, to stand.
 <t xml:lang="es"><wi type="G" value="1223,1,">Por</wi>
 <wi type="G" value="5124,2,">esto</wi>
 <wi type="G" value="353,3,">pónganse</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="3833,5,">toda la armadura</wi></wi>
-<wi type="G" value="3588,6,"><wi type="G" value="2316,7,">de Dios</wi></wi>,
+<wi type="G" value="3588,4,"/><wi type="G" value="3833,5,">toda la armadura</wi>
+<wi type="G" value="3588,6,">de</wi>
+<wi type="G" value="2316,7,">Dios</wi>,
 <wi type="G" value="2443,8,">para que</wi>
 <wi type="G" value="1410,9,">puedan</wi>
 <wi type="G" value="436,10,">soportar</wi>
 <wi type="G" value="1722,11,">en</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="2250,13,">el día</wi></wi>
+<wi type="G" value="3588,12,">el</wi>
+<wi type="G" value="2250,13,">día</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="4190,15,">malo</wi>,
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="2716,18,">habiendo hecho</wi>
@@ -2819,14 +2994,16 @@ righteousness,
 <wi type="G" value="2476,1,">Mantengan</wi>
 <wi type="G" value="3767,2,">entonces</wi>,
 <wi type="G" value="5216,6,">sus</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="3751,5,">lomos</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="3751,5,">lomos</wi>
 <wi type="G" value="4024,3,">ceñidos</wi>
 <wi type="G" value="1722,7,">con</wi>
 <wi type="G" value="225,8,">la verdad</wi>
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="1746,10,">teniendo</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="2382,12,">la coraza</wi></wi>
-<wi type="G" value="3588,13,"><wi type="G" value="1343,14,">de justicia</wi></wi>,</t>
+<wi type="G" value="3588,11,">la</wi>
+<wi type="G" value="2382,12,">coraza</wi>
+<wi type="G" value="3588,13,">de</wi>
+<wi type="G" value="1343,14,">justicia</wi>,</t>
 </sv>
 <sv id="Efesios-6-15">
 and having fitted your feet with the preparation of the
@@ -2834,11 +3011,14 @@ Good News of peace;
 <t xml:lang="es">
 <wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="5265,2,">calzados</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="4228,4,">los pies</wi></wi>
+<wi type="G" value="3588,3,">los</wi>
+<wi type="G" value="4228,4,">pies</wi>
 <wi type="G" value="1722,5,">con</wi>
 <wi type="G" value="2091,6,">la preparación</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="2098,8,">del evangelio</wi></wi>
-<wi type="G" value="3588,9,"><wi type="G" value="1515,10,">de paz</wi></wi>;</t>
+<wi type="G" value="3588,7,">del</wi>
+<wi type="G" value="2098,8,">evangelio</wi>
+<wi type="G" value="3588,9,">de</wi>
+<wi type="G" value="1515,10,">paz</wi>;</t>
 </sv>
 <sv id="Efesios-6-16">
 above all, taking up the shield of faith, with which
@@ -2847,14 +3027,17 @@ will be able to quench all the fiery darts of the evil one.
 <t xml:lang="es"><wi type="G" value="1909,1,">sobre</wi>
 <wi type="G" value="3956,2,">todo</wi>,
 <wi type="G" value="353,3,">tomando</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="2375,5,">el escudo</wi></wi>
-<wi type="G" value="3588,6,"><wi type="G" value="4102,7,">de la fe</wi></wi>,
+<wi type="G" value="3588,4,">el</wi>
+<wi type="G" value="2375,5,">escudo</wi>
+<wi type="G" value="3588,6,">de la</wi>
+<wi type="G" value="4102,7,">fe</wi>,
 <wi type="G" value="1722,8,">con</wi>
 <wi type="G" value="3739,9,">el que</wi>
 <wi type="G" value="1410,10,">podrán</wi>
 <wi type="G" value="4570,18,">apagar</wi>
 <wi type="G" value="3956,11,">todos</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="956,13,">los dardos</wi></wi>
+<wi type="G" value="3588,12,">los</wi>
+<wi type="G" value="956,13,">dardos</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="4448,17,">ardientes</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="4190,15,">del maligno</wi>.</t>
 </sv>
@@ -2863,11 +3046,14 @@ And take the helmet of salvation, and the sword of the Spirit, which is
 the spoken word of God;
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="1209,6,">tomen</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="4030,3,">el casco</wi></wi>
+<wi type="G" value="3588,2,">el</wi>
+<wi type="G" value="4030,3,">casco</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="4992,5,">de la salvación</wi>,
 <wi type="G" value="2532,7,">y</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="3162,9,">la espada</wi></wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4151,11,">del Espíritu</wi></wi>,
+<wi type="G" value="3588,8,">la</wi>
+<wi type="G" value="3162,9,">espada</wi>
+<wi type="G" value="3588,10,">del</wi>
+<wi type="G" value="4151,11,">Espíritu</wi>,
 <wi type="G" value="3739,12,">que</wi>
 <wi type="G" value="2076,13,">es</wi>
 <wi type="G" value="4487,14,">la palabra</wi>
@@ -2899,7 +3085,8 @@ for all the saints:
 <wi type="G" value="1162,21,">suplica</wi>
 <wi type="G" value="4012,22,">por</wi>
 <wi type="G" value="3956,23,">todos</wi>
-<wi type="G" value="3588,24,"><wi type="G" value="40,25,">los santos</wi></wi>;</t>
+<wi type="G" value="3588,24,">los</wi>
+<wi type="G" value="40,25,">santos</wi>;</t>
 </sv>
 <sv id="Efesios-6-19">
 on my behalf, that utterance may be given to me in
@@ -2915,12 +3102,14 @@ opening my mouth, to make known with boldness the mystery of the Good News,
 <wi type="G" value="1722,8,">cuando</wi>
 <wi type="G" value="457,9,">abra</wi>
 <wi type="G" value="3450,12,">mi</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4750,11,">boca</wi></wi>,
+<wi type="G" value="3588,10,"/><wi type="G" value="4750,11,">boca</wi>,
 <wi type="G" value="1107,15,">para dar a conocer</wi>
 <wi type="G" value="1722,13,">con</wi>
 <wi type="G" value="3954,14,">valentía</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="3466,17,">el misterio</wi></wi>
-<wi type="G" value="3588,18,"><wi type="G" value="2098,19,">del evangelio</wi></wi>,
+<wi type="G" value="3588,16,">el</wi>
+<wi type="G" value="3466,17,">misterio</wi>
+<wi type="G" value="3588,18,">del</wi>
+<wi type="G" value="2098,19,">evangelio</wi>,
 </t>
 </sv>
 
@@ -2987,7 +3176,7 @@ may know our state, and that he may comfort your hearts.
 <wi type="G" value="2532,13,">y</wi> que
 <wi type="G" value="3870,14,">pueda confortar</wi>
 <wi type="G" value="5216,17,">sus</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="2588,16,">corazones</wi></wi>.
+<wi type="G" value="3588,15,"/><wi type="G" value="2588,16,">corazones</wi>.
 </t>
 </sv></cm>
 
@@ -2997,7 +3186,8 @@ Peace be to the brothers, and love with faith, from God the Father and
 the Lord Jesus Christ.
 <t xml:lang="es"><wi type="G" value="1515,1,">Paz</wi>
 a
-<wi type="G" value="3588,2,"><wi type="G" value="80,3,">los hermanos</wi></wi>,
+<wi type="G" value="3588,2,">los</wi>
+<wi type="G" value="80,3,">hermanos</wi>,
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="26,5,">amor</wi>
 <wi type="G" value="3326,6,">con</wi>
@@ -3014,13 +3204,13 @@ a
 <sv id="Efesios-6-24">
 Grace be with all those who love our Lord Jesus
 Christ with incorruptible love. Amen.
-<t xml:lang="es"><wi type="G" value="3588,1,"><wi type="G" value="5485,2,">Gracia</wi></wi> sea
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="5485,2,">Gracia</wi> sea
 <wi type="G" value="3326,3,">con</wi>
 <wi type="G" value="3956,4,">todos</wi>
 <wi type="G" value="3588,5,">los que</wi>
 <wi type="G" value="25,6,">aman a</wi>
 <wi type="G" value="2257,9,">nuestro</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="2962,8,">Señor</wi></wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="2962,8,">Señor</wi>
 <wi type="G" value="2424,10,">Jesús</wi>
 <wi type="G" value="5547,11,">Cristo</wi>
 <wi type="G" value="1722,12,">en</wi>

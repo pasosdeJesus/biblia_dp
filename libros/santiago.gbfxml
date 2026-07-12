@@ -30,7 +30,7 @@ a <wi type="G" value="3588,8,">las</wi>
 <wi type="G" value="5443,10,">tribus</wi>
 <wi type="G" value="3588,11,">que</wi> están
 <wi type="G" value="1722,12,">en</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="1290,14,">dispersión</wi></wi>:
+<wi type="G" value="3588,13,"/><wi type="G" value="1290,14,">dispersión</wi>:
 <wi type="G" value="5463,15,">Saludos</wi>.</t>
 </sv>
 
@@ -66,9 +66,10 @@ knowing that the testing of your
 faith produces endurance.
 <t xml:lang="es"><wi type="G" value="1097,1,">sabiendo</wi>
 <wi type="G" value="3754,2,">que</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="1383,4,">la prueba</wi></wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="1383,4,">prueba</wi>
 <wi type="G" value="5216,5,">de su</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="4102,7,">fe</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="4102,7,">fe</wi>
 <wi type="G" value="2716,8,">produce</wi>
 <wi type="G" value="5281,9,">paciencia</wi>.
 </t>
@@ -145,7 +146,7 @@ For let that man not think that he will receive anything
 from the Lord.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> que
 <wi type="G" value="1565,6,">tal</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="444,5,">hombre</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="444,5,">hombre</wi>
 <wi type="G" value="3361,1,">no</wi>
 <wi type="G" value="3633,3,">piense</wi>
 <wi type="G" value="3754,7,">que</wi>
@@ -163,7 +164,7 @@ He is a double-minded man, unstable in all his ways.
 <wi type="G" value="1722,4,">en</wi>
 <wi type="G" value="3956,5,">todos</wi>
 <wi type="G" value="846,8,">sus</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="3598,7,">caminos</wi></wi>.
+<wi type="G" value="3588,6,"/><wi type="G" value="3598,7,">caminos</wi>.
 </t>
 </sv></cm>
 
@@ -189,7 +190,7 @@ grass, he will pass away.
 <wi type="G" value="4145,3,">rico</wi>,
 <wi type="G" value="1722,4,">en</wi> que
 <wi type="G" value="846,7,">él</wi> es
-<wi type="G" value="3588,5,"><wi type="G" value="5014,6,">humillado</wi></wi>,
+<wi type="G" value="3588,5,"/><wi type="G" value="5014,6,">humillado</wi>,
 <wi type="G" value="3754,8,">porque</wi>
 <wi type="G" value="5613,9,">como</wi>
 <wi type="G" value="438,10,">la flor</wi>
@@ -201,7 +202,8 @@ For the sun arises with the scorching wind,
 and withers the grass, and the flower in it falls, and the beauty of its
 appearance perishes. So also will the rich man fade away in his pursuits.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="2246,4,">el sol</wi></wi>
+<wi type="G" value="3588,3,">el</wi>
+<wi type="G" value="2246,4,">sol</wi>
 <wi type="G" value="393,1,">se levanta</wi>
 <wi type="G" value="4862,5,">con</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="2742,7,">calor</wi>
@@ -608,8 +610,7 @@ into your
 <wi type="G" value="5216,7,">su</wi>
 </t>
 <rb>synagogue
-<t xml:lang="es"><wi type="G" value="3588,5,"><wi type="G"
-value="4864,6,">sinagoga</wi></wi></t><rf>or, meeting<t xml:lang="es">O reunión</t></rf>
+<t xml:lang="es"><wi type="G" value="3588,5,"/><wi type="G" value="4864,6,">sinagoga</wi></t><rf>or, meeting<t xml:lang="es">O reunión</t></rf>
 </rb>
 , and a poor man in filthy clothing also comes in;
 <t xml:lang="es">, <wi type="G" value="1161,14,">y</wi>
@@ -769,7 +770,8 @@ commit sin, being convicted by the law as transgressors.
 <wi type="G" value="266,4,">un pecado</wi>,
 <wi type="G" value="1651,6,">siendo reprobados</wi>
 <wi type="G" value="5259,7,">por</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="3551,9,">la ley</wi></wi>
+<wi type="G" value="3588,8,">la</wi>
+<wi type="G" value="3551,9,">ley</wi>
 <wi type="G" value="5613,10,">como</wi>
 <wi type="G" value="3848,11,">transgresores</wi>.
 </t>
@@ -781,7 +783,8 @@ has become guilty of all.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="3748,1,">cualquiera</wi> que
 <wi type="G" value="5083,6,">guarde</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="3551,5,">la ley</wi></wi>
+<wi type="G" value="3588,4,">la</wi>
+<wi type="G" value="3551,5,">ley</wi>
 <wi type="G" value="3650,3,">completa</wi>,
 <wi type="G" value="1161,8,">pero</wi>
 <wi type="G" value="4417,7,">caiga</wi>
@@ -1634,7 +1637,7 @@ it for your pleasures.
 <wi type="G" value="1159,13,">gastar</wi>
 <wi type="G" value="1722,9,">en</wi>
 <wi type="G" value="5216,12,">sus</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="2237,11,">placeres</wi></wi>.</t>
+<wi type="G" value="3588,10,"/><wi type="G" value="2237,11,">placeres</wi>.</t>
 </sv>
 
 <sv id="Santiago-4-4">
@@ -1677,10 +1680,12 @@ lives in us yearns jealously»?
 <t xml:lang="es">¿<wi type="G" value="2228,1,">O</wi>
 <wi type="G" value="1380,2,">piensan</wi>
 <wi type="G" value="3754,3,">que</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="1124,6,">la Escritura</wi></wi>
+<wi type="G" value="3588,5,">la</wi>
+<wi type="G" value="1124,6,">Escritura</wi>
 <wi type="G" value="3004,7,">dice</wi>
 <wi type="G" value="2761,4,">en vano</wi>,
-«<wi type="G" value="3588,11,"><wi type="G" value="4151,12,">El espíritu</wi></wi>
+«<wi type="G" value="3588,11,">El</wi>
+<wi type="G" value="4151,12,">espíritu</wi>
 <wi type="G" value="3739,13,">que</wi>
 <wi type="G" value="2730,14,">ha habitado</wi>
 <wi type="G" value="1722,15,">en</wi>
@@ -1699,7 +1704,7 @@ says, «God resists the proud, but gives grace to the humble.»
 <wi type="G" value="5485,4,">gracia</wi>.
 <wi type="G" value="1352,5,">Por tanto</wi>
 <wi type="G" value="3004,6,">dice</wi>
-«<wi type="G" value="3588,7,"><wi type="G" value="2316,8,">Dios</wi></wi>
+«<wi type="G" value="3588,7,"/><wi type="G" value="2316,8,">Dios</wi>
 <wi type="G" value="498,10,">resiste</wi>
 <wi type="G" value="5244,9,">a los orgullosos</wi>,
 <wi type="G" value="1161,12,">pero</wi>
@@ -1765,7 +1770,8 @@ and weep. Let your laughter be turned to mourning, and your joy to gloom.
 Humble yourselves in the sight of the Lord, and he will exalt you.
 <t xml:lang="es"><wi type="G" value="5013,1,">Humíllense</wi>
 <wi type="G" value="1799,2,">delante</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="2962,4,">del Señor</wi></wi>
+<wi type="G" value="3588,3,">del</wi>
+<wi type="G" value="2962,4,">Señor</wi>
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="5312,6,">Él</wi>
 <wi type="G" value="5209,7,">los</wi>

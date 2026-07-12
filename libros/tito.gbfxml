@@ -58,7 +58,7 @@ of God our Savior;
 <wi type="G" value="2398,4,">en sus propios</wi>
 <wi type="G" value="2540,3,">tiempos</wi>
 <wi type="G" value="846,7,">su</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="3056,6,">palabra</wi></wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="3056,6,">palabra</wi>
 <wi type="G" value="1722,8,">mediante</wi>
 <wi type="G" value="2782,9,">la predicación</wi>
 <wi type="G" value="3739,10,">que</wi>
@@ -68,7 +68,7 @@ of God our Savior;
 <wi type="G" value="2003,14,">al mandamiento</wi>
 <wi type="G" value="2316,18,">de Dios</wi>
 <wi type="G" value="2257,17,">nuestro</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="4990,16,">salvador</wi></wi>;
+<wi type="G" value="3588,15,"/><wi type="G" value="4990,16,">salvador</wi>;
 </t>
 </sv>
 <sv id="Tito-1-4">
@@ -92,7 +92,7 @@ Savior.
 <wi type="G" value="2424,15,">Jesús</wi>
 <wi type="G" value="5547,16,">Cristo</wi>
 <wi type="G" value="2257,19,">nuestro</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="4990,18,">Salvador</wi></wi>.</t>
+<wi type="G" value="3588,17,"/><wi type="G" value="4990,18,">Salvador</wi>.</t>
 </sv></cm>
 
 <cm>
@@ -152,7 +152,8 @@ For the
 overseer must be blameless, as God´s steward; not self-pleasing, not easily
 angered, not given to wine, not violent, not greedy for dishonest gain;
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="1985,4,">el obispo</wi></wi>
+<wi type="G" value="3588,3,">el</wi>
+<wi type="G" value="1985,4,">obispo</wi>
 <wi type="G" value="1163,1,">debe</wi>
 <wi type="G" value="1511,6,">ser</wi>
 <wi type="G" value="410,5,">sin falta</wi>,
@@ -197,7 +198,7 @@ those who contradict him.
 <wi type="G" value="3056,7,">la palabra</wi>
 <wi type="G" value="4103,6,">fiel</wi>
 <wi type="G" value="3588,2,"/><wi type="G" value="2596,3,">como</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="1322,5,">ha sido enseñado</wi></wi>,
+<wi type="G" value="3588,4,"/><wi type="G" value="1322,5,">ha sido enseñado</wi>,
 <wi type="G" value="2443,8,">que</wi>
 <wi type="G" value="2532,11,">también</wi>
 <wi type="G" value="5600,10,">sea</wi>
@@ -205,7 +206,7 @@ those who contradict him.
 <wi type="G" value="3870,12,">exhortar</wi>
 <wi type="G" value="1722,13,">en</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="5198,17,">la sana</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="1319,15,">doctrina</wi></wi>,
+<wi type="G" value="3588,14,"/><wi type="G" value="1319,15,">doctrina</wi>,
 <wi type="G" value="2532,18,">y</wi>
 de <wi type="G" value="1651,21,">convencer a</wi>
 <wi type="G" value="3588,19,"/><wi type="G" value="483,20,">los contradictores</wi>.</t>
@@ -277,7 +278,7 @@ como embarazada, útero y vientre.
 This testimony is true. For this cause, reprove them sharply, that they
 may be sound in the faith,
 <t xml:lang="es"><wi type="G" value="3778,3,">Este</wi>
-<wi type="G" value="3588,1,"><wi type="G" value="3141,2,">testimonio</wi></wi>
+<wi type="G" value="3588,1,"/><wi type="G" value="3141,2,">testimonio</wi>
 <wi type="G" value="2076,4,">es</wi>
 <wi type="G" value="227,5,">verdadero</wi>.
 <wi type="G" value="1223,6,">Por</wi>,
@@ -288,7 +289,8 @@ esta
 <wi type="G" value="2443,12,">para que</wi>
 <wi type="G" value="5198,13,">sean consistentes</wi>
 <wi type="G" value="1722,14,">en</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="4102,16,">la fe</wi></wi>,
+<wi type="G" value="3588,15,">la</wi>
+<wi type="G" value="4102,16,">fe</wi>,
 </t>
 </sv>
 <sv id="Tito-1-14">
@@ -302,7 +304,8 @@ commandments of men who turn away from the truth.
 <wi type="G" value="1785,6,">mandamientos</wi>
 <wi type="G" value="444,7,">de hombres</wi>
 <wi type="G" value="654,8,">que se han alejado</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="225,10,">de la verdad</wi></wi>.
+<wi type="G" value="3588,9,">de la</wi>
+<wi type="G" value="225,10,">verdad</wi>.
 </t>
 </sv>
 <sv id="Tito-1-15">
@@ -324,9 +327,9 @@ son
 <wi type="G" value="235,13,">pero</wi>
 <wi type="G" value="2532,16,">tanto</wi>
 <wi type="G" value="846,15,">sus</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="3563,18,">mentes</wi></wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="3563,18,">mentes</wi>
 <wi type="G" value="2532,19,">como</wi> sus
-<wi type="G" value="3588,20,"><wi type="G" value="4893,21,">conciencias</wi></wi> son
+<wi type="G" value="3588,20,"/><wi type="G" value="4893,21,">conciencias</wi> son
 <wi type="G" value="3392,14,">impuras</wi>.</t>
 </sv>
 <sv id="Tito-1-16">
@@ -379,9 +382,9 @@ patience:
 <wi type="G" value="4586,4,">serios</wi>,
 <wi type="G" value="4998,5,">auto controlados</wi>,
 <wi type="G" value="5198,6,">consistentes</wi>
-en <wi type="G" value="3588,7,"><wi type="G" value="4102,8,">fe</wi></wi>,
-en <wi type="G" value="3588,9,"><wi type="G" value="26,10,">amor</wi></wi> y
-en <wi type="G" value="3588,11,"><wi type="G" value="5281,12,">paciencia</wi></wi>:</t>
+en <wi type="G" value="3588,7,"/><wi type="G" value="4102,8,">fe</wi>,
+en <wi type="G" value="3588,9,"/><wi type="G" value="26,10,">amor</wi> y
+en <wi type="G" value="3588,11,"/><wi type="G" value="5281,12,">paciencia</wi>:</t>
 </sv>
 
 <sv id="Tito-2-3">
@@ -422,8 +425,10 @@ in subjection to their own husbands, that God´s word may not be blasphemed.
 <wi type="G" value="3588,6,"/><wi type="G" value="2398,7,">sus</wi>
 <wi type="G" value="435,8,">maridos</wi>,
 <wi type="G" value="2443,9,">para que</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="3056,12,">la palabra</wi></wi>
-<wi type="G" value="3588,13,"><wi type="G" value="2316,14,">de Dios</wi></wi>
+<wi type="G" value="3588,11,">la</wi>
+<wi type="G" value="3056,12,">palabra</wi>
+<wi type="G" value="3588,13,">de</wi>
+<wi type="G" value="2316,14,">Dios</wi>
 <wi type="G" value="3361,10,">no</wi>
 <wi type="G" value="987,15,">sea blasfemada</wi>.
 </t>
@@ -449,7 +454,8 @@ integrity, seriousness, incorruptibility,
 <wi type="G" value="2570,6,">de buenas</wi>
 <wi type="G" value="2041,7,">obras</wi>;
 <wi type="G" value="1722,8,">en</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="1319,10,">una enseñanza</wi></wi>
+<wi type="G" value="3588,9,">una</wi>
+<wi type="G" value="1319,10,">enseñanza</wi>
 con </t>
 <rb xml:lang="es"><wi type="G" value="90,11,">integridad</wi><rf>
 <citebib id="WEB"/> dice `integridad,´
@@ -508,10 +514,11 @@ God, our Savior, in all things.
 <wi type="G" value="4102,4,">fidelidad</wi>;
 <wi type="G" value="2443,8,">para que</wi>
 <wi type="G" value="2885,15,">puedan adornar</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="1319,10,">la doctrina</wi></wi>
+<wi type="G" value="3588,9,">la</wi>
+<wi type="G" value="1319,10,">doctrina</wi>
 <wi type="G" value="2316,14,">de Dios</wi>,
 <wi type="G" value="2257,13,">nuestro</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="4990,12,">Salvador</wi></wi>,
+<wi type="G" value="3588,11,"/><wi type="G" value="4990,12,">Salvador</wi>,
 <wi type="G" value="1722,16,">en</wi>
 <wi type="G" value="3956,17,">todas las cosas</wi>.
 </t>
@@ -521,8 +528,10 @@ For the grace of God has appeared,
 bringing salvation to all men,
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="2014,1,">se ha manifestado</wi>,
-<wi type="G" value="3588,3,"><wi type="G" value="5485,4,">la gracia</wi></wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">de Dios</wi></wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="5485,4,">gracia</wi>
+<wi type="G" value="3588,5,">de</wi>
+<wi type="G" value="2316,6,">Dios</wi>
 <wi type="G" value="3588,7,"/>con <wi type="G" value="4992,8,">salvación</wi>
 <wi type="G" value="3956,9,">para todos</wi>
 <wi type="G" value="444,10,">los hombres</wi>,</t>
@@ -534,7 +543,8 @@ and godly in this present world;
 <t xml:lang="es"><wi type="G" value="3811,1,"><wi type="G" value="2248,2,">instruyéndonos</wi></wi>
 <wi type="G" value="2443,3,">para que</wi>
 <wi type="G" value="720,4,">rechacemos</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="763,6,">la impiedad</wi></wi>
+<wi type="G" value="3588,5,">la</wi>
+<wi type="G" value="763,6,">impiedad</wi>
 <wi type="G" value="2532,7,">y</wi>
 <wi type="G" value="1939,10,">los deseos</wi>
 <wi type="G" value="3588,8,"/><wi type="G" value="2886,9,">mundanos</wi>,
@@ -553,10 +563,12 @@ and godly in this present world;
 looking for the blessed hope and
 appearing of the glory of our great God and Savior, Jesus Christ;
 <t xml:lang="es"><wi type="G" value="4327,1,">esperando</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="3107,3,">la bendita</wi></wi>
+<wi type="G" value="3588,2,">la</wi>
+<wi type="G" value="3107,3,">bendita</wi>
 <wi type="G" value="1680,4,">esperanza</wi>
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="1391,8,">la gloriosa</wi></wi>
+<wi type="G" value="3588,7,">la</wi>
+<wi type="G" value="1391,8,">gloriosa</wi>
 <wi type="G" value="2015,6,">aparición</wi>
 <wi type="G" value="2257,14,">de nuestro</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="3173,10,">gran</wi>
@@ -682,12 +694,14 @@ mankind appeared,
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="3753,1,">después</wi>
 <wi type="G" value="2014,8,">apareció</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="5544,4,">la bondad</wi></wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="5544,4,">bondad</wi>
 <wi type="G" value="2532,5,">y</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="5363,7,">el amor por la humanidad</wi></wi>
+<wi type="G" value="3588,6,">el</wi>
+<wi type="G" value="5363,7,">amor por la humanidad</wi>
 <wi type="G" value="2316,12,">de Dios</wi>
 <wi type="G" value="2257,11,">nuestro</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="4990,10,">Salvador</wi></wi>,
+<wi type="G" value="3588,9,"/><wi type="G" value="4990,10,">Salvador</wi>,
 </t>
 </sv>
 <sv id="Tito-3-5">
@@ -729,7 +743,7 @@ through Jesus Christ our Savior;
 <wi type="G" value="2424,7,">Jesús</wi>
 <wi type="G" value="5547,8,">Cristo</wi>
 <wi type="G" value="2257,11,">nuestro</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="4990,10,">Salvador</wi></wi>;
+<wi type="G" value="3588,9,"/><wi type="G" value="4990,10,">Salvador</wi>;
 </t>
 </sv>
 <sv id="Tito-3-7">
@@ -752,7 +766,7 @@ This saying
 is faithful, and concerning these things I desire that you affirm
 confidently, so that those who have believed God may be careful to maintain
 good works. These things are good and profitable to men;
-<t xml:lang="es"><wi type="G" value="3588,2,"><wi type="G" value="3056,3,">Palabra</wi></wi>
+<t xml:lang="es"><wi type="G" value="3588,2,"/><wi type="G" value="3056,3,">Palabra</wi>
 <wi type="G" value="4103,1,">fiel</wi>,
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="4012,5,">respecto a</wi>
@@ -762,7 +776,7 @@ good works. These things are good and profitable to men;
 las <wi type="G" value="1226,9,">afirmes</wi>
 <wi type="G" value="2443,10,">para que</wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="4100,16,">los creyentes</wi> en
-<wi type="G" value="3588,17,"><wi type="G" value="2316,18,">Dios</wi></wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="2316,18,">Dios</wi>
 <wi type="G" value="5431,11,">procuren</wi>
 <wi type="G" value="4291,14,">administrar</wi>
 <wi type="G" value="2570,12,">buenas</wi>
@@ -772,7 +786,8 @@ las <wi type="G" value="1226,9,">afirmes</wi>
 <wi type="G" value="3588,21,"/><wi type="G" value="2570,22,">buenas</wi>
 <wi type="G" value="2532,23,">y</wi>
 <wi type="G" value="5624,24,">de provecho</wi> para
-<wi type="G" value="3588,25,"><wi type="G" value="444,26,">los hombres</wi></wi>;
+<wi type="G" value="3588,25,">los</wi>
+<wi type="G" value="444,26,">hombres</wi>;
 </t>
 </sv>
 <sv id="Tito-3-9">
@@ -902,7 +917,8 @@ be with you all. Amen.
 <wi type="G" value="5368,9,">aman</wi>
 <wi type="G" value="1722,11,">en</wi>
 <wi type="G" value="4102,12,">fe</wi>.
-<wi type="G" value="3588,13,"><wi type="G" value="5485,14,">La gracia</wi></wi> sea
+<wi type="G" value="3588,13,">La</wi>
+<wi type="G" value="5485,14,">gracia</wi> sea
 <wi type="G" value="3326,15,">con</wi>
 <wi type="G" value="3956,16,">todos</wi>
 <wi type="G" value="5216,17,">ustedes</wi>.
