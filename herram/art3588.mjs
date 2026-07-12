@@ -260,15 +260,12 @@ function main() {
   console.log(`   G3588 anidados después: ${nestedDespues}`);
   if (nestedDespues > 0) {
     console.log(`   ⚠️  Quedan ${nestedDespues} casos anidados por revisar manualmente:`);
-    // Mostrar ubicación de cada caso restante
     const reRestantes = /<wi type="G" value="3588,\d+,[^"]*">\s*<wi type=/g;
     let m;
     while ((m = reRestantes.exec(convertido)) !== null) {
-      // Buscar el versículo que contiene este caso
       const antes = convertido.slice(0, m.index);
       const svMatch = antes.match(/<sv id="([^"]+)"/g);
       const svId = svMatch ? svMatch[svMatch.length - 1].match(/id="([^"]+)"/)[1] : 'desconocido';
-      // Extraer snippet
       const snippet = convertido.slice(m.index, m.index + 120).replace(/\n/g, '↵');
       console.log(`     ${svId}: ...${snippet}...`);
     }
@@ -282,6 +279,22 @@ function main() {
     console.log(`   ⚠️  Desbalance de tags <wi>: ${wisAbren} aperturas vs ${wisCierran} cierres + ${wisSelfClose} auto-cerrados`);
   } else {
     console.log(`   Tags <wi> balanceados: ${wisAbren} aperturas, ${wisCierran} cierres, ${wisSelfClose} auto-cerrados`);
+  }
+
+  // ─── Diagnóstico: G3588 vacío seguido de posible demostrativo ───
+  const reDemostrativo =
+    /<wi type="G" value="3588,(\d+),[^"]*"\/><wi type="[GH]" value="[^"]+">(este|esta|estos|estas|ese|esa|esos|esas|aquel|aquella|aquellos|aquellas)\s+/gi;
+  const demostrativos = convertido.match(reDemostrativo);
+  if (demostrativos && demostrativos.length > 0) {
+    console.log(`   💡 Posible demostrativo (${demostrativos.length}): G3588 vacío → ¿el artículo funciona como "este/esta/ese/aquel"?`);
+    let dm;
+    const reDmVerso = /<wi type="G" value="3588,(\d+),[^"]*"\/><wi type="[GH]" value="[^"]+">(este|esta|estos|estas|ese|esa|esos|esas|aquel|aquella|aquellos|aquellas)\s+/gi;
+    while ((dm = reDmVerso.exec(convertido)) !== null) {
+      const antes = convertido.slice(0, dm.index);
+      const svMatch = antes.match(/<sv id="([^"]+)"/g);
+      const svId = svMatch ? svMatch[svMatch.length - 1].match(/id="([^"]+)"/)[1] : '?';
+      console.log(`     ${svId}: G3588,${dm[1]} vacío → ¿"${dm[2]}"?`);
+    }
   }
 }
 
