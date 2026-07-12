@@ -266,6 +266,7 @@ function main() {
 
   let totalAntes = 0;
   let totalDespues = 0;
+  let demosGlobal = [];
 
   for (const capitulo of capsProcesar) {
     const { antes, capitulo: capContenido, despues } =
@@ -282,6 +283,16 @@ function main() {
 
     // Reconstruir contenido
     contenido = antes + convertido + despues;
+
+    // Acumular demostrativos de este capítulo
+    const reDemoCap =
+      /<wi type="G" value="3588,(\d+),[^"]*"\/><wi type="[GH]" value="[^"]+">(este|esta|estos|estas|ese|esa|esos|esas|aquel|aquella|aquellos|aquellas)\s+/gi;
+    for (const dm of convertido.matchAll(reDemoCap)) {
+      const pre = convertido.slice(0, dm.index);
+      const svM = pre.match(/<sv id="([^"]+)"/g);
+      const svId = svM ? svM[svM.length - 1].match(/id="([^"]+)"/)[1] : '?';
+      demosGlobal.push({ svId, pos: dm[1], demo: dm[2] });
+    }
 
     if (capsProcesar.length > 1) {
       const wisAbren = (convertido.match(/<wi type=/g) || []).length;
@@ -313,18 +324,11 @@ function main() {
   console.log(`   G3588 anidados antes: ${totalAntes}`);
   console.log(`   G3588 anidados después: ${totalDespues}`);
 
-  // Diagnóstico demostrativos en todo el resultado
-  const reDemo =
-    /<wi type="G" value="3588,(\d+),[^"]*"\/><wi type="[GH]" value="[^"]+">(este|esta|estos|estas|ese|esa|esos|esas|aquel|aquella|aquellos|aquellas)\s+/gi;
-  const demos = [...contenido.matchAll(reDemo)];
-  if (demos.length > 0) {
-    console.log(`   💡 Posibles demostrativos (${demos.length}):`);
-    for (const d of demos) {
-      const pre = contenido.slice(0, d.index);
-      const svM = pre.match(/<sv id="([^"]+)"/g);
-      const svId = svM ? svM[svM.length - 1].match(/id="([^"]+)"/)[1] : '?';
-      const ctx = contenido.slice(d.index, d.index + 80).replace(/\n/g, ' ');
-      console.log(`     ${svId}: G3588,${d[1]} vacío → ¿"${d[2]}"?  (${ctx}...)`);
+  // Diagnóstico demostrativos (solo de capítulos procesados)
+  if (demosGlobal.length > 0) {
+    console.log(`   💡 Posibles demostrativos (${demosGlobal.length}):`);
+    for (const d of demosGlobal) {
+      console.log(`     ${d.svId}: G3588,${d.pos} vacío → ¿"${d.demo}"?`);
     }
   }
 

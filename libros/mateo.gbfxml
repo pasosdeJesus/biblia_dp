@@ -23037,17 +23037,19 @@ of the high priest, and struck off his ear.
 <wi type="G" value="3326,5,">con</wi>
 <wi type="G" value="2424,6,">Jesús</wi>
 <wi type="G" value="1614,7,">estiró</wi> su
-<wi type="G" value="3588,8,"><wi type="G" value="5495,9,">mano</wi></wi>,
+<wi type="G" value="3588,8,"/><wi type="G" value="5495,9,">mano</wi>,
 <wi type="G" value="645,10,">sacó</wi>
 <wi type="G" value="846,13,">su</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="3162,12,">espada</wi></wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="3162,12,">espada</wi>
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="3960,15,">le dio</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="1401,17,">al siervo</wi></wi>
-<wi type="G" value="3588,18,"><wi type="G" value="749,19,">del sumo sacerdote</wi></wi>
+<wi type="G" value="3588,16,">al</wi>
+<wi type="G" value="1401,17,">siervo</wi>
+<wi type="G" value="3588,18,">del</wi>
+<wi type="G" value="749,19,">sumo sacerdote</wi>
 <wi type="G" value="851,20,">atinándole</wi> en
 <wi type="G" value="846,21,">su</wi>
-<wi type="G" value="3588,22,"><wi type="G" value="5621,23,">oreja</wi></wi>. </t>
+<wi type="G" value="3588,22,"/><wi type="G" value="5621,23,">oreja</wi>. </t>
 </sv>
 <sv id="Mateo-26-52">
 Then Jesus said to him,
@@ -23060,10 +23062,10 @@ Then Jesus said to him,
 will die by the sword.
 <t xml:lang="es">«<wi type="G" value="654,6,">Pon</wi>
 <wi type="G" value="4675,7,">tu</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="3162,9,">espada</wi></wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="3162,9,">espada</wi>
 <wi type="G" value="1519,10,">en</wi>
 <wi type="G" value="846,13,">su</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="5117,12,">lugar</wi></wi>,
+<wi type="G" value="3588,11,"/><wi type="G" value="5117,12,">lugar</wi>,
 <wi type="G" value="1063,15,">pues</wi>
 <wi type="G" value="3956,14,">aquellos</wi>
 <wi type="G" value="3588,16,"/>
@@ -24950,7 +24952,7 @@ y <wi type="G" value="805,9,">asegúrenlo</wi> tanto
 So they went with the guard and made the tomb secure,
 sealing the stone.
 <t xml:lang="es"><wi type="G" value="1161,2,">Así</wi> que
-<wi type="G" value="3588,1,"><wi type="G" value="4198,3,">fueron</wi></wi>
+<wi type="G" value="3588,1,"/><wi type="G" value="4198,3,">fueron</wi>
 <wi type="G" value="805,4,">y aseguraron</wi> <wi type="G" value="3588,5,"/>
 <wi type="G" value="5028,6,">la tumba</wi>,
 <wi type="G" value="4972,7,">sellando</wi> <wi type="G" value="3588,8,"/>
@@ -25269,7 +25271,7 @@ governor´s ears, we will persuade him and make you free of worry.»
 So they took the money and did as they were told. This saying was spread
 abroad among the Jews, and continues until this day.
 <t xml:lang="es"><wi type="G" value="1161,2,">Así</wi>
-<wi type="G" value="3588,1,"><wi type="G" value="2983,3,">que tomaron</wi></wi>
+<wi type="G" value="3588,1,"/><wi type="G" value="2983,3,">que tomaron</wi>
 <wi type="G" value="3588,4,"/>
 <wi type="G" value="694,5,">el dinero</wi>
 <wi type="G" value="4160,6,">e hicieron</wi>
