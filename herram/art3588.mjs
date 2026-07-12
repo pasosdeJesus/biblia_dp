@@ -318,12 +318,14 @@ function main() {
     /<wi type="G" value="3588,(\d+),[^"]*"\/><wi type="[GH]" value="[^"]+">(este|esta|estos|estas|ese|esa|esos|esas|aquel|aquella|aquellos|aquellas)\s+/gi;
   const demos = [...contenido.matchAll(reDemo)];
   if (demos.length > 0) {
-    const caps = new Set(demos.map(d => {
+    console.log(`   💡 Posibles demostrativos (${demos.length}):`);
+    for (const d of demos) {
       const pre = contenido.slice(0, d.index);
-      const svM = pre.match(/<sv id="[^-]+-(\d+)-/g);
-      return svM ? svM[svM.length - 1].match(/\d+/)[0] : '?';
-    }));
-    console.log(`   💡 Posibles demostrativos: ${demos.length} (capítulos ${[...caps].join(',')})`);
+      const svM = pre.match(/<sv id="([^"]+)"/g);
+      const svId = svM ? svM[svM.length - 1].match(/id="([^"]+)"/)[1] : '?';
+      const ctx = contenido.slice(d.index, d.index + 80).replace(/\n/g, ' ');
+      console.log(`     ${svId}: G3588,${d[1]} vacío → ¿"${d[2]}"?  (${ctx}...)`);
+    }
   }
 
   // Validar XML con xmllint si está disponible

@@ -11632,10 +11632,10 @@ days.
 <wi type="G" value="2962,4,">el Señor</wi>
 <wi type="G" value="3361,3,">no</wi>
 <wi type="G" value="2856,5,">hubiera acortado</wi>
-<wi type="G" value="3588,6,"/><wi type="G" value="2250,7,">esos días</wi>,
+<wi type="G" value="3588,6,">esos</wi>
+<wi type="G" value="2250,7,">días</wi>,
 <wi type="G" value="3756,8,">no</wi>
-<wi type="G" value="302,9,"/>
-<wi type="G" value="4982,10,">se salvaría</wi>
+<wi type="G" value="302,9,"/><wi type="G" value="4982,10,">se salvaría</wi>
 <wi type="G" value="4561,12,">carne</wi>
 <wi type="G" value="3956,11,">alguna</wi>;
 <wi type="G" value="235,13,">pero</wi>
