@@ -111,31 +111,30 @@ function convertirBloque(texto) {
   // <wi type="G" value="3588,POS,[...]"><wi type="T" value="STRONG,[...]">texto</wi></wi>
   // value puede ser "3588,N," o "3588,N,,"
   const regexNested =
-    /<wi type="G" value="3588,(\d+),[^"]*"(\s+sacred="yes")?>\s*<wi type="([GH])" value="([^"]+)"(\s+sacred="yes")?>([^<]*)<\/wi>([\s\S]*?)<\/wi>/g;
+    /<wi type="G" value="3588,(\d+),[^"]*"(\s+sacred="yes")?>\s*<wi type="([GH])"\s+value="([^"]+)"(\s+sacred="yes")?(\/>|>([^<]*)<\/wi>)([\s\S]*?)<\/wi>/g;
 
   let resultado = texto.replace(regexNested,
-    (match, pos3588, sacredOuter, tipoInner, valorInner, sacredInner, textoInner, extraWis) => {
-      const [articulo, resto] = extraerArticulo(textoInner);
+    (match, pos3588, sacredOuter, tipoInner, valorInner, sacredInner, selfClose, textoInner, extraWis) => {
       const sacOuter = sacredOuter || '';
       const sacInner = sacredInner || '';
+      const innerTexto = selfClose === '/>' ? '' : (textoInner || '');
+      const [articulo, resto] = extraerArticulo(innerTexto);
       const extras = extraWis ? extraWis.trim() : '';
 
       if (articulo !== null) {
-        // Texto interior del inner + extras forman el contenido del inner
-        const innerTexto = (resto + (extras ? ' ' + extras : '')).trim();
-        if (innerTexto === '') {
+        const texto = (resto + (extras ? ' ' + extras : '')).trim();
+        if (texto === '') {
           return `<wi type="G" value="3588,${pos3588},"${sacOuter}>${articulo}</wi>\n` +
                  `<wi type="${tipoInner}" value="${valorInner}"${sacInner}/>`;
         }
         return `<wi type="G" value="3588,${pos3588},"${sacOuter}>${articulo}</wi>\n` +
-               `<wi type="${tipoInner}" value="${valorInner}"${sacInner}>${innerTexto}</wi>`;
+               `<wi type="${tipoInner}" value="${valorInner}"${sacInner}>${texto}</wi>`;
       } else {
-        // Sin artículo → G3588 vacío
-        const innerTexto = textoInner + (extras ? ' ' + extras : '');
-        if (innerTexto.trim() === '') {
+        const texto = innerTexto + (extras ? ' ' + extras : '');
+        if (texto.trim() === '') {
           return `<wi type="G" value="3588,${pos3588},"${sacOuter}/><wi type="${tipoInner}" value="${valorInner}"${sacInner}/>`;
         }
-        return `<wi type="G" value="3588,${pos3588},"${sacOuter}/><wi type="${tipoInner}" value="${valorInner}"${sacInner}>${innerTexto.trim()}</wi>`;
+        return `<wi type="G" value="3588,${pos3588},"${sacOuter}/><wi type="${tipoInner}" value="${valorInner}"${sacInner}>${texto.trim()}</wi>`;
       }
     });
 
@@ -143,7 +142,7 @@ function convertirBloque(texto) {
   // <wi type="G" value="3588,POS1,">art</wi> huérfano
   // <wi type="G" value="3588,POS2,"><wi ...>texto</wi></wi>
   const regexOrphan =
-    /<wi type="G" value="3588,(\d+),[^"]*"(\s+sacred="yes")?">([^<]+)<\/wi>(\s*)(\S+)\s+<wi type="G" value="3588,(\d+),[^"]*"(\s+sacred="yes")?">\s*<wi type="([GH])" value="([^"]+)"(\s+sacred="yes")?>([^<]*)<\/wi>\s*<\/wi>/g;
+    /<wi type="G" value="3588,(\d+),[^"]*"(\s+sacred="yes")?">([^<]+)<\/wi>(\s*)(\S+)\s+<wi type="G" value="3588,(\d+),[^"]*"(\s+sacred="yes")?">\s*<wi type="([GH])"\s+value="([^"]+)"(\s+sacred="yes")?>([^<]*)<\/wi>\s*<\/wi>/g;
 
   resultado = resultado.replace(regexOrphan,
     (match,
@@ -161,7 +160,7 @@ function convertirBloque(texto) {
   // <wi type="G" value="3588,POS,">de</wi>\n<wi ...>una X</wi>
   // → <wi type="G" value="3588,POS,">de una</wi>\n<wi ...>X</wi>
   const regexDeUna =
-    /<wi type="G" value="3588,(\d+),[^"]*"(\s+sacred="yes")?>(de|a)<\/wi>\s*\n\s*<wi type="([GH])" value="([^"]+)"(\s+sacred="yes")?>(un|una|unos|unas)\s+([^<]+)<\/wi>/g;
+    /<wi type="G" value="3588,(\d+),[^"]*"(\s+sacred="yes")?>(de|a)<\/wi>\s*\n\s*<wi type="([GH])"\s+value="([^"]+)"(\s+sacred="yes")?>(un|una|unos|unas)\s+([^<]+)<\/wi>/g;
 
   resultado = resultado.replace(regexDeUna,
     (match, pos3588, sacOuter, prep, tipoInner, valorInner, sacInner, art, resto) => {
@@ -175,7 +174,7 @@ function convertirBloque(texto) {
   // <wi ...3588,POS,"/><wi ...>(Aquel|este|ese|...) X</wi>
   // → <wi ...3588,POS,">Aquel</wi>\n<wi ...>X</wi>
   const regexDemoDebil =
-    /<wi type="G" value="3588,(\d+),[^"]*"\/>\s*<wi type="([GH])" value="([^"]+)"(\s+sacred="yes")?>(Aquel|aquel|Este|este|Ese|ese|esa|aquellos|aquellas|estos|estas|esos|esas)\s+([^<]+)<\/wi>/g;
+    /<wi type="G" value="3588,(\d+),[^"]*"\/>\s*<wi type="([GH])"\s+value="([^"]+)"(\s+sacred="yes")?>(Aquel|aquel|Este|este|Ese|ese|esa|aquellos|aquellas|estos|estas|esos|esas)\s+([^<]+)<\/wi>/g;
 
   resultado = resultado.replace(regexDemoDebil,
     (match, pos3588, tipoInner, valorInner, sacInner, demo, resto) => {
