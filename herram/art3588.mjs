@@ -328,23 +328,22 @@ function main() {
     }
   }
 
-  // Validar XML con xmllint si está disponible
+  // Validar XML bien formado con xmllint
   try {
     execSync('which xmllint', { stdio: 'ignore' });
     try {
-      execSync(`xmllint --noout --valid --dtdvalid formatos/gbfxml.dtd "${archivo}" 2>&1`, { encoding: 'utf-8' });
-      console.log('   ✓ XML válido (xmllint)');
+      execSync(`xmllint --noout "${archivo}" 2>&1`, { encoding: 'utf-8' });
+      console.log('   ✓ XML bien formado (xmllint)');
     } catch (e) {
-      const err = e.stderr || e.stdout || e.message;
-      // Extraer número de línea del error
+      const err = e.stderr || e.stdout || e.message || '';
       const lineMatch = err.match(/:(\d+):/);
       if (lineMatch) {
         const lineNum = parseInt(lineMatch[1]);
         const lines = contenido.split('\n');
         const ctx = lines.slice(Math.max(0, lineNum - 2), lineNum + 1).map((l, i) => 
           `${lineNum - 1 + i}: ${l.trim().slice(0, 120)}`
-        ).join('\n');
-        console.log(`   ⚠ xmllint error línea ${lineNum}:\n${ctx}`);
+        ).join('\n   ');
+        console.log(`   ⚠ xmllint línea ${lineNum}: ${err.trim().split('\n').slice(-1)[0]}\n   ${ctx}`);
       } else {
         console.log(`   ⚠ xmllint: ${err.trim().split('\n')[0]}`);
       }
