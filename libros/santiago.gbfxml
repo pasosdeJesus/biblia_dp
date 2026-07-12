@@ -1160,7 +1160,7 @@ receive heavier judgment.
 <citebib id="WEB"/> dice `juicio,´
 <citebib id="RVG2012"/> dice `condenación.´
 Según <citebib id="Thayer-BLB"/> la palabra griega κριμα se define
-como una decisión, conenación, juicio.</rf></rb>
+como una decisión, condenación, juicio.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3173,9,">mayor</wi>.</t>
 </sv>
@@ -1307,6 +1307,7 @@ that describes a burning Hell with rotting bodies and unclean things in
 it<t xml:lang="es">Gehena es un nombre que describe un infierno
 ardiente con cuerpos en descomposición y cosas impuras.</t></rf>
 </rb>
+<t xml:lang="es">. </t>
 </sv>
 
 <sv id="Santiago-3-7">
@@ -1321,7 +1322,7 @@ sea, is tamed, and has been tamed by mankind.
 <wi type="G" value="2062,8,">de animales que se arrastran</wi>
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="1724,11,">de animales del mar</wi>,
-<wi type="G" value="1150,12,">es domada</wi>,
+<wi type="G" value="1150,12,">es domada</wi>
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="1150,14,">ha sido domada</wi>
 por
@@ -1469,7 +1470,8 @@ La palabra griega `εριθειαν´ según Strong de <citebib id="Thayer-BLB"/
 se traduce como intriga, facción, contienda, disputa. La hemos
 traducido en otros pasajes como rivalidad.
 </rf></rb>
-<t xml:lang="es"><wi type="G" value="1722,8,">en</wi> </t>
+<t xml:lang="es">
+<wi type="G" value="1722,8,">en</wi> </t>
 <rb xml:lang="es"><wi type="G" value="5216,11,">su</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="2588,10,">corazón</wi><rf>
 <citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `su corazón,`
