@@ -42,6 +42,7 @@
  */
 
 import { readFileSync, writeFileSync } from 'node:fs';
+import { execSync } from 'node:child_process';
 
 // ─── Artículos y contracciones a extraer (orden: más largos primero) ───
 const ARTICULOS = [
@@ -108,26 +109,31 @@ function convertirBloque(texto) {
   // <wi type="G" value="3588,POS,[...]"><wi type="T" value="STRONG,[...]">texto</wi></wi>
   // value puede ser "3588,N," o "3588,N,,"
   const regexNested =
-    /<wi type="G" value="3588,(\d+),[^"]*"(\s+sacred="yes")?>\s*<wi type="([GH])" value="([^"]+)"(\s+sacred="yes")?>([^<]*)<\/wi>((?:\s*<wi[^>]*\/>\s*)*)\s*<\/wi>/g;
+    /<wi type="G" value="3588,(\d+),[^"]*"(\s+sacred="yes")?>\s*<wi type="([GH])" value="([^"]+)"(\s+sacred="yes")?>([^<]*)<\/wi>([\s\S]*?)<\/wi>/g;
 
   let resultado = texto.replace(regexNested,
     (match, pos3588, sacredOuter, tipoInner, valorInner, sacredInner, textoInner, extraWis) => {
       const [articulo, resto] = extraerArticulo(textoInner);
       const sacOuter = sacredOuter || '';
       const sacInner = sacredInner || '';
-      const extras = extraWis || '';
+      const extras = extraWis ? extraWis.trim() : '';
 
       if (articulo !== null) {
-        // El texto interior comienza con artículo → separar
-        if (resto === '') {
-          return `<wi type="G" value="3588,${pos3588},"${sacOuter}>${articulo}</wi>${extras}\n` +
+        // Texto interior del inner + extras forman el contenido del inner
+        const innerTexto = (resto + (extras ? ' ' + extras : '')).trim();
+        if (innerTexto === '') {
+          return `<wi type="G" value="3588,${pos3588},"${sacOuter}>${articulo}</wi>\n` +
                  `<wi type="${tipoInner}" value="${valorInner}"${sacInner}/>`;
         }
-        return `<wi type="G" value="3588,${pos3588},"${sacOuter}>${articulo}</wi>${extras}\n` +
-               `<wi type="${tipoInner}" value="${valorInner}"${sacInner}>${resto}</wi>`;
+        return `<wi type="G" value="3588,${pos3588},"${sacOuter}>${articulo}</wi>\n` +
+               `<wi type="${tipoInner}" value="${valorInner}"${sacInner}>${innerTexto}</wi>`;
       } else {
-        // Sin artículo → G3588 vacío, sin espacio
-        return `<wi type="G" value="3588,${pos3588},"${sacOuter}/><wi type="${tipoInner}" value="${valorInner}"${sacInner}>${textoInner}</wi>${extras}`;
+        // Sin artículo → G3588 vacío
+        const innerTexto = textoInner + (extras ? ' ' + extras : '');
+        if (innerTexto.trim() === '') {
+          return `<wi type="G" value="3588,${pos3588},"${sacOuter}/><wi type="${tipoInner}" value="${valorInner}"${sacInner}/>`;
+        }
+        return `<wi type="G" value="3588,${pos3588},"${sacOuter}/><wi type="${tipoInner}" value="${valorInner}"${sacInner}>${innerTexto.trim()}</wi>`;
       }
     });
 
@@ -215,19 +221,16 @@ function extraerCapitulo(contenido, libroId, capitulo) {
 
 function main() {
   const args = process.argv.slice(2);
-  if (args.length < 2) {
-    console.error('Uso: node herram/art3588.mjs <libro> <capítulo>');
+  if (args.length < 1) {
+    console.error('Uso: node herram/art3588.mjs <libro> [capítulo]');
+    console.error('  Sin capítulo: procesa todo el libro');
+    console.error('  Con capítulo: procesa solo ese capítulo');
     console.error('Ejemplo: node herram/art3588.mjs marcos 3');
+    console.error('         node herram/art3588.mjs marcos');
     process.exit(1);
   }
 
   const [libro, capStr] = args;
-  const capitulo = parseInt(capStr, 10);
-  if (isNaN(capitulo) || capitulo < 1) {
-    console.error('El capítulo debe ser un número entero positivo');
-    process.exit(1);
-  }
-
   const libroId = libro.charAt(0).toUpperCase() + libro.slice(1);
   const archivo = `libros/${libro}.gbfxml`;
 
@@ -239,62 +242,113 @@ function main() {
     process.exit(1);
   }
 
-  const { antes, capitulo: capContenido, despues } =
-    extraerCapitulo(contenido, libroId, capitulo);
+  // Determinar capítulos a procesar
+  const todosCaps = [...contenido.matchAll(/<sc id="[^"]+"/g)]
+    .map(m => m[0].match(/id="([^"]+)"/)?.[1])
+    .filter(id => id && id.startsWith(libroId + '-'))
+    .map(id => parseInt(id.split('-')[1], 10));
 
-  // Convertir el capítulo
-  const convertido = convertirBloque(capContenido);
-
-  // Estadísticas
-  const nestedAntes =
-    (capContenido.match(/<wi type="G" value="3588,\d+,[^"]*">\s*<wi /g) || []).length;
-  const nestedDespues =
-    (convertido.match(/<wi type="G" value="3588,\d+,[^"]*">\s*<wi /g) || []).length;
-
-  // Escribir resultado
-  const nuevoContenido = antes + convertido + despues;
-  writeFileSync(archivo, nuevoContenido, 'utf-8');
-
-  console.log(`✅ Capítulo ${libroId}-${capitulo} procesado:`);
-  console.log(`   G3588 anidados antes: ${nestedAntes}`);
-  console.log(`   G3588 anidados después: ${nestedDespues}`);
-  if (nestedDespues > 0) {
-    console.log(`   ⚠️  Quedan ${nestedDespues} casos anidados por revisar manualmente:`);
-    const reRestantes = /<wi type="G" value="3588,\d+,[^"]*">\s*<wi type=/g;
-    let m;
-    while ((m = reRestantes.exec(convertido)) !== null) {
-      const antes = convertido.slice(0, m.index);
-      const svMatch = antes.match(/<sv id="([^"]+)"/g);
-      const svId = svMatch ? svMatch[svMatch.length - 1].match(/id="([^"]+)"/)[1] : 'desconocido';
-      const snippet = convertido.slice(m.index, m.index + 120).replace(/\n/g, '↵');
-      console.log(`     ${svId}: ...${snippet}...`);
+  let capsProcesar;
+  if (capStr) {
+    const c = parseInt(capStr, 10);
+    if (isNaN(c) || c < 1) {
+      console.error('El capítulo debe ser un número entero positivo');
+      process.exit(1);
     }
-  }
-
-  // Verificar balance de tags <wi> (excluyendo auto-cerrados)
-  const wisAbren = (convertido.match(/<wi type=/g) || []).length;
-  const wisCierran = (convertido.match(/<\/wi>/g) || []).length;
-  const wisSelfClose = (convertido.match(/<wi [^>]*\/>/g) || []).length;
-  if (wisAbren !== wisCierran + wisSelfClose) {
-    console.log(`   ⚠️  Desbalance de tags <wi>: ${wisAbren} aperturas vs ${wisCierran} cierres + ${wisSelfClose} auto-cerrados`);
+    if (!todosCaps.includes(c)) {
+      console.error(`No se encontró el capítulo ${libroId}-${c}`);
+      process.exit(1);
+    }
+    capsProcesar = [c];
   } else {
-    console.log(`   Tags <wi> balanceados: ${wisAbren} aperturas, ${wisCierran} cierres, ${wisSelfClose} auto-cerrados`);
+    capsProcesar = todosCaps;
   }
 
-  // ─── Diagnóstico: G3588 vacío seguido de posible demostrativo ───
-  const reDemostrativo =
-    /<wi type="G" value="3588,(\d+),[^"]*"\/><wi type="[GH]" value="[^"]+">(este|esta|estos|estas|ese|esa|esos|esas|aquel|aquella|aquellos|aquellas)\s+/gi;
-  const demostrativos = convertido.match(reDemostrativo);
-  if (demostrativos && demostrativos.length > 0) {
-    console.log(`   💡 Posible demostrativo (${demostrativos.length}): G3588 vacío → ¿el artículo funciona como "este/esta/ese/aquel"?`);
-    let dm;
-    const reDmVerso = /<wi type="G" value="3588,(\d+),[^"]*"\/><wi type="[GH]" value="[^"]+">(este|esta|estos|estas|ese|esa|esos|esas|aquel|aquella|aquellos|aquellas)\s+/gi;
-    while ((dm = reDmVerso.exec(convertido)) !== null) {
-      const antes = convertido.slice(0, dm.index);
-      const svMatch = antes.match(/<sv id="([^"]+)"/g);
-      const svId = svMatch ? svMatch[svMatch.length - 1].match(/id="([^"]+)"/)[1] : '?';
-      console.log(`     ${svId}: G3588,${dm[1]} vacío → ¿"${dm[2]}"?`);
+  let totalAntes = 0;
+  let totalDespues = 0;
+
+  for (const capitulo of capsProcesar) {
+    const { antes, capitulo: capContenido, despues } =
+      extraerCapitulo(contenido, libroId, capitulo);
+
+    const convertido = convertirBloque(capContenido);
+
+    const nestedAntes =
+      (capContenido.match(/<wi type="G" value="3588,\d+,[^"]*">\s*<wi /g) || []).length;
+    const nestedDespues =
+      (convertido.match(/<wi type="G" value="3588,\d+,[^"]*">\s*<wi /g) || []).length;
+    totalAntes += nestedAntes;
+    totalDespues += nestedDespues;
+
+    // Reconstruir contenido
+    contenido = antes + convertido + despues;
+
+    if (capsProcesar.length > 1) {
+      const wisAbren = (convertido.match(/<wi type=/g) || []).length;
+      const wisCierran = (convertido.match(/<\/wi>/g) || []).length;
+      const wisSelfClose = (convertido.match(/<wi [^>]*\/>/g) || []).length;
+      const bal = wisAbren === wisCierran + wisSelfClose ? '✓' : '⚠';
+      console.log(`   ${libroId}-${capitulo}: ${nestedAntes}→${nestedDespues} [${bal}]`);
+      if (nestedDespues > 0) {
+        const reRestantes = /<wi type="G" value="3588,\d+,[^"]*">\s*<wi type=/g;
+        let m;
+        while ((m = reRestantes.exec(convertido)) !== null) {
+          const pre = convertido.slice(0, m.index);
+          const svMatch = pre.match(/<sv id="([^"]+)"/g);
+          const svId = svMatch ? svMatch[svMatch.length - 1].match(/id="([^"]+)"/)[1] : '?';
+          console.log(`     ⚠ ${svId}: caso anidado restante`);
+        }
+      }
     }
+  }
+
+  // Escribir resultado final
+  writeFileSync(archivo, contenido, 'utf-8');
+
+  if (capsProcesar.length > 1) {
+    console.log(`\n✅ ${libroId} procesado (${capsProcesar.length} capítulos):`);
+  } else {
+    console.log(`✅ Capítulo ${libroId}-${capsProcesar[0]} procesado:`);
+  }
+  console.log(`   G3588 anidados antes: ${totalAntes}`);
+  console.log(`   G3588 anidados después: ${totalDespues}`);
+
+  // Diagnóstico demostrativos en todo el resultado
+  const reDemo =
+    /<wi type="G" value="3588,(\d+),[^"]*"\/><wi type="[GH]" value="[^"]+">(este|esta|estos|estas|ese|esa|esos|esas|aquel|aquella|aquellos|aquellas)\s+/gi;
+  const demos = [...contenido.matchAll(reDemo)];
+  if (demos.length > 0) {
+    const caps = new Set(demos.map(d => {
+      const pre = contenido.slice(0, d.index);
+      const svM = pre.match(/<sv id="[^-]+-(\d+)-/g);
+      return svM ? svM[svM.length - 1].match(/\d+/)[0] : '?';
+    }));
+    console.log(`   💡 Posibles demostrativos: ${demos.length} (capítulos ${[...caps].join(',')})`);
+  }
+
+  // Validar XML con xmllint si está disponible
+  try {
+    execSync('which xmllint', { stdio: 'ignore' });
+    try {
+      execSync(`xmllint --noout --valid --dtdvalid formatos/gbfxml.dtd "${archivo}" 2>&1`, { encoding: 'utf-8' });
+      console.log('   ✓ XML válido (xmllint)');
+    } catch (e) {
+      const err = e.stderr || e.stdout || e.message;
+      // Extraer número de línea del error
+      const lineMatch = err.match(/:(\d+):/);
+      if (lineMatch) {
+        const lineNum = parseInt(lineMatch[1]);
+        const lines = contenido.split('\n');
+        const ctx = lines.slice(Math.max(0, lineNum - 2), lineNum + 1).map((l, i) => 
+          `${lineNum - 1 + i}: ${l.trim().slice(0, 120)}`
+        ).join('\n');
+        console.log(`   ⚠ xmllint error línea ${lineNum}:\n${ctx}`);
+      } else {
+        console.log(`   ⚠ xmllint: ${err.trim().split('\n')[0]}`);
+      }
+    }
+  } catch {
+    // xmllint no disponible
   }
 }
 
