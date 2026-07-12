@@ -449,6 +449,68 @@ por capítulo:
 node herram/art3588.mjs <libro> <capítulo>
 ```
 
+### Uso demostrativo del artículo (G3588)
+
+En griego koiné, el artículo (ὁ/ἡ/τό) puede funcionar como demostrativo
+débil («este, ese, aquel»), especialmente ante participios sustantivados.
+En estos casos, **después de analizar el contexto**, G3588 debe recibir
+el demostrativo español en lugar de quedar vacío.
+
+**Ejemplo donde SÍ aplica** (participio sustantivado, el artículo funciona
+como pronombre demostrativo):
+```xml
+<!-- ANTES (vacío, diagnóstico del script): -->
+<wi type="G" value="3588,1,"/><wi type="G" value="5368,2,">Aquel que ame</wi>
+
+<!-- DESPUÉS (G3588 recibe el demostrativo): -->
+<wi type="G" value="3588,1,">Aquel</wi>
+<wi type="G" value="5368,2,">que ame</wi>
+```
+*Mateo 10:37 — ὁ φιλῶν = «el que ama» / «Aquel que ame». El artículo
+funciona como pronombre demostrativo ante el participio.*
+
+**Ejemplo donde NO aplica** (el demostrativo viene de otro Strong, no de G3588):
+```xml
+<!-- CORRECTO así: "aquel" es G1565 (ἐκεῖνος), no G3588 -->
+<wi type="G" value="3588,4,"/><wi type="G" value="1565,5,">aquel siervo</wi>
+```
+*El griego subyacente sería ὁ δοῦλος ἐκεῖνος — «el siervo aquel».
+G1565 (ἐκεῖνος) es el demostrativo «aquel»; G3588 (ὁ) es el artículo
+determinativo ordinario. Aunque el `<wi>` junto a G3588 comience con
+«aquel», ese demostrativo pertenece a G1565, no a G3588.*
+
+**Criterios para decidir:**
+- El contexto requiere un pronombre («el que», «aquel que», «los que») →
+  G3588 recibe el demostrativo
+- El contexto es una narración con artículo determinativo normal →
+  G3588 queda vacío
+- El script marca estos casos con `💡` al final de la ejecución para
+  revisión manual
+
+**Regla para no confundir con demostrativos propios:**
+Si el demostrativo español proviene de un Strong propio (especialmente
+G3778 οὗτος o G1565 ἐκεῖνος), **no** se mueve a G3588. Solo se mueve
+cuando G3588 está vacío y no hay otro Strong que justifique el
+demostrativo.
+
+| Strong | Griego   | Traducción                |
+|--------|----------|---------------------------|
+| G3778  | οὗτος    | este, esta, esto          |
+| G1565  | ἐκεῖνος  | aquel, aquella, ese, esa  |
+| G5023  | ταῦτα    | estas cosas, estos        |
+| G5024  | ταῦτά    | estas mismas cosas        |
+| G5124  | τοῦτο    | esto                      |
+| G5125  | τούτοις  | a estos                   |
+| G5126  | τοῦτον   | a este                    |
+| G5127  | τούτου   | de este                   |
+| G5128  | τούτους  | a estos                   |
+| G5129  | τούτῳ    | a este                    |
+| G846   | αὐτός    | él, mismo («el mismo»)    |
+
+**Demostrativos reconocidos por el diagnóstico:**
+`Aquel`, `aquel`, `Este`, `este`, `Ese`, `ese`, `aquellos`, `aquellas`,
+`estos`, `estas`, `esos`, `esas`, `esa`.
+
 
 
 ## Contexto Técnico

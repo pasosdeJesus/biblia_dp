@@ -52,6 +52,8 @@ const ARTICULOS = [
   'por los ', 'por las ', 'por el ', 'por la ',
   'los que ', 'las que ',
   'del ', 'al ',
+  'Aquel ', 'aquel ', 'Este ', 'este ', 'Ese ', 'ese ', 'esa ',
+  'aquellos ', 'aquellas ', 'estos ', 'estas ', 'esos ', 'esas ',
   'de ', 'a ',
   'Los ', 'Las ', 'los ', 'las ',
   'El ', 'La ', 'el ', 'la ',
@@ -166,6 +168,19 @@ function convertirBloque(texto) {
       const so = sacOuter || '';
       const si = sacInner || '';
       return `<wi type="G" value="3588,${pos3588},"${so}>${prep} ${art}</wi>\n` +
+             `<wi type="${tipoInner}" value="${valorInner}"${si}>${resto}</wi>`;
+    });
+
+  // ── Paso 4: G3588 vacío seguido de demostrativo débil ──
+  // <wi ...3588,POS,"/><wi ...>(Aquel|este|ese|...) X</wi>
+  // → <wi ...3588,POS,">Aquel</wi>\n<wi ...>X</wi>
+  const regexDemoDebil =
+    /<wi type="G" value="3588,(\d+),[^"]*"\/>\s*<wi type="([GH])" value="([^"]+)"(\s+sacred="yes")?>(Aquel|aquel|Este|este|Ese|ese|esa|aquellos|aquellas|estos|estas|esos|esas)\s+([^<]+)<\/wi>/g;
+
+  resultado = resultado.replace(regexDemoDebil,
+    (match, pos3588, tipoInner, valorInner, sacInner, demo, resto) => {
+      const si = sacInner || '';
+      return `<wi type="G" value="3588,${pos3588},">${demo}</wi>\n` +
              `<wi type="${tipoInner}" value="${valorInner}"${si}>${resto}</wi>`;
     });
 
@@ -286,7 +301,7 @@ function main() {
 
     // Acumular demostrativos de este capítulo
     const reDemoCap =
-      /<wi type="G" value="3588,(\d+),[^"]*"\/><wi type="[GH]" value="[^"]+">(este|esta|estos|estas|ese|esa|esos|esas|aquel|aquella|aquellos|aquellas)\s+/gi;
+      /<wi type="G" value="3588,(\d+),[^"]*"\/>\s*<wi type="[GH]" value="[^"]+">(este|esta|estos|estas|ese|esa|esos|esas|aquel|aquella|aquellos|aquellas)\s+/gi;
     for (const dm of convertido.matchAll(reDemoCap)) {
       const pre = convertido.slice(0, dm.index);
       const svM = pre.match(/<sv id="([^"]+)"/g);

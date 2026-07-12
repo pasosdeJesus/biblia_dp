@@ -2269,8 +2269,8 @@ For theirs is the Kingdom of Heaven.
 <fr>
 Blessed are those who mourn,
 <t xml:lang="es"><wi type="G" value="3107,1,">Benditos</wi>
-<wi type="G" value="3588,2,"/>
-<wi type="G" value="3996,3,">aquellos que se lamentan</wi>, </t>
+<wi type="G" value="3588,2,">aquellos</wi>
+<wi type="G" value="3996,3,">que se lamentan</wi>, </t>
 <cl/>
 For they shall be comforted.
 <t xml:lang="es"><wi type="G" value="3754,4,">porque</wi>
@@ -2384,8 +2384,8 @@ For they shall be called children of God.
 <sv id="Mateo-5-10">
 <fr>Blessed are those who have been persecuted for righteousness´ sake,
 <t xml:lang="es"><wi type="G" value="3107,1,">Benditos</wi>
-<wi type="G" value="3588,2,"/>
-<wi type="G" value="1377,3,">aquellos que sean perseguidos</wi>
+<wi type="G" value="3588,2,">aquellos</wi>
+<wi type="G" value="1377,3,">que sean perseguidos</wi>
 <wi type="G" value="1752,4,">por causa</wi>
 <wi type="G" value="1343,5,">de la justicia</wi>, </t>
 <cl/>
@@ -4530,8 +4530,8 @@ speck from your eye;´ and behold, the beam is in your own eye?
 <wi type="GC" value="5">hermano</wi>
 `<wi type="G" value="863,7,">Déjame</wi>
 <wi type="G" value="1544,8,">sacar</wi>
-<wi type="G" value="3588,9,"/>
-<wi type="G" value="2595,10,">esa paja</wi>
+<wi type="G" value="3588,9,">esa</wi>
+<wi type="G" value="2595,10,">paja</wi>
 <wi type="G" value="575,11,"/>
 <wi type="G" value="3588,12,"/>
 <wi type="G" value="3788,13,">de</wi>
@@ -4629,8 +4629,8 @@ For everyone who asks receives. He who
 seeks finds. To him who knocks it will be opened.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="3956,1,">todo</wi>
-<wi type="G" value="3588,3,"/>
-<wi type="G" value="154,4,">aquel que pida</wi>,
+<wi type="G" value="3588,3,">aquel</wi>
+<wi type="G" value="154,4,">que pida</wi>,
 <wi type="G" value="2983,5,">recibirá</wi>;
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="3588,7,"/>
@@ -4925,8 +4925,8 @@ into the Kingdom of Heaven; but he who does the will of my Father who is in
 heaven.
 <t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
 <wi type="G" value="3956,2,">todo</wi>
-<wi type="G" value="3588,3,"/>
-<wi type="G" value="3004,4,">aquel que</wi>
+<wi type="G" value="3588,3,">aquel</wi>
+<wi type="G" value="3004,4,">que</wi>
 <wi type="G" value="3427,5,">me</wi>
 <wi type="GC" value="4">dice</wi>
 `<wi type="G" value="2962,6," sacred="yes">Señor</wi>,
@@ -4937,8 +4937,8 @@ heaven.
 <wi type="G" value="3588,12,"/>
 <wi type="G" value="3772,13,">de los Cielos</wi>;
 <wi type="G" value="235,14,">sino</wi>
-<wi type="G" value="3588,15,"/>
-<wi type="G" value="4160,16,">aquel que hace</wi>
+<wi type="G" value="3588,15,">aquel</wi>
+<wi type="G" value="4160,16,">que hace</wi>
 <wi type="G" value="3588,17,"/>
 <wi type="G" value="2307,18,">la voluntad</wi>
 <wi type="G" value="3588,19,"/>
@@ -5074,8 +5074,8 @@ these words of mine, and doesn´t do them will be like a foolish man, who
 built his house on the sand.
 <t xml:lang="es"><wi type="G" value="2532,1,">Pero</wi>
 <wi type="G" value="3956,2,">todo</wi>
-<wi type="G" value="3588,3,"/>
-<wi type="G" value="191,4,">aquel que escucha</wi>
+<wi type="G" value="3588,3,">aquel</wi>
+<wi type="G" value="191,4,">que escucha</wi>
 <wi type="G" value="3450,5,">mis</wi>
 <wi type="G" value="3588,6,"/>
 <wi type="G" value="5128,8,"/>
@@ -5468,8 +5468,8 @@ Jesus said to the centurion,
 <citebib id="Peshitta"/> dice `niño.´</rf></rb>
 <t xml:lang="es"> <wi type="G" value="2390,14,">fue sanado</wi>
 <wi type="G" value="1722,18,">en</wi>
-<wi type="G" value="3588,19,"/>
-<wi type="G" value="1565,21,">ese mismo</wi> </t>
+<wi type="G" value="3588,19,">ese</wi>
+<wi type="G" value="1565,21,">mismo</wi> </t>
 <rb xml:lang="es"><wi type="G" value="5610,20,">momento</wi><rf>
 <citebib id="WEB"/>, y <citebib id="LAT"/> dicen `hora,´ de acuerdo a
 <citebib id="Thayer-BLB"/> la palabra original
@@ -7765,7 +7765,8 @@ A man´s foes will be those of his own household.
 <sv id="Mateo-10-37"><fr>
 He who loves father or mother more than me is not worthy of me; and he
 who loves son or daughter more than me isn´t worthy of me.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="5368,2,">Aquel que ame</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,">Aquel</wi>
+<wi type="G" value="5368,2,">que ame</wi>
 <wi type="G" value="3962,3,">a padre</wi>
 <wi type="G" value="2228,4,">o</wi>
 <wi type="G" value="3384,5,">madre</wi>
@@ -7777,8 +7778,8 @@ who loves son or daughter more than me isn´t worthy of me.
 <wi type="G" value="3450,10,">de mí</wi><rf><citebib id="DiosHablaHoy"/>
 dice `no merece ser mio.´</rf></rb>
 <t xml:lang="es">; <wi type="G" value="2532,12,">y</wi>
-<wi type="G" value="3588,13,"/>
-<wi type="G" value="5368,14,">aquel que ame</wi>
+<wi type="G" value="3588,13,">aquel</wi>
+<wi type="G" value="5368,14,">que ame</wi>
 <wi type="G" value="5207,15,">a hijo</wi>
 <wi type="G" value="2228,16,">o</wi>
 <wi type="G" value="2364,17,">hija</wi>
@@ -7812,7 +7813,8 @@ doesn´t take his cross and follow after me, isn´t worthy of me.
 <sv id="Mateo-10-39"><fr>
 He who finds his life will lose it; and he who loses his life for my
 sake will find it.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="2147,2,">Aquel que encuentre</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,">Aquel</wi>
+<wi type="G" value="2147,2,">que encuentre</wi>
 <wi type="G" value="846,5,">su</wi>
 <wi type="G" value="3588,3,"/> </t>
 <rb xml:lang="es"><wi type="G" value="5590,4,">vida</wi><rf><citebib id="Peshitta"/>
@@ -7820,8 +7822,8 @@ dice `alma.´</rf></rb>
 <t xml:lang="es"> <wi type="G" value="846,7,">la</wi>
 <wi type="G" value="622,6,">perderá</wi>;
 <wi type="G" value="2532,8,">y</wi>
-<wi type="G" value="3588,9,"/>
-<wi type="G" value="622,10,">aquel que pierda</wi>
+<wi type="G" value="3588,9,">aquel</wi>
+<wi type="G" value="622,10,">que pierda</wi>
 <wi type="G" value="3588,11,"/>
 <wi type="G" value="846,13,">su</wi>
 <wi type="G" value="5590,12,">vida</wi>
@@ -7834,14 +7836,15 @@ dice `alma.´</rf></rb>
 <sv id="Mateo-10-40"><fr>
 He who receives you receives me, and he who receives me receives
 him who sent me.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1209,2,">Aquel que</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,">Aquel</wi>
+<wi type="G" value="1209,2,">que</wi>
 <wi type="G" value="5209,3,">los</wi>
 <wi type="GC" value="2">reciba</wi>
 <wi type="G" value="1691,4,">me</wi>
 <wi type="G" value="1209,5,">recibe</wi>,
 <wi type="G" value="2532,6,">y</wi>
-<wi type="G" value="3588,7,"/>
-<wi type="G" value="1209,9,">aquel que</wi>
+<wi type="G" value="3588,7,">aquel</wi>
+<wi type="G" value="1209,9,">que</wi>
 <wi type="G" value="1691,8,">me</wi>
 <wi type="GC" value="6">recibe</wi>
 <wi type="GC" value="8">a mi</wi>
@@ -7872,8 +7875,8 @@ traducirse como nombre, nombrado, llamado.</rf></rb>
 <wi type="G" value="3408,7,">la recompensa</wi>
 <wi type="G" value="4396,8,">de un profeta</wi>;
 <wi type="G" value="2532,10,">y</wi>
-<wi type="G" value="3588,11,"/>
-<wi type="G" value="1209,12,">aquel que recibe</wi> </t>
+<wi type="G" value="3588,11,">aquel</wi>
+<wi type="G" value="1209,12,">que recibe</wi> </t>
 <rb xml:lang="es">a <wi type="G" value="1342,13,">un hombre justo</wi><rf><citebib id="DiosHablaHoy"/>
 dice `bueno.´</rf></rb>
 <t xml:lang="es"> <wi type="G" value="1519,14,">por</wi>
@@ -8444,8 +8447,8 @@ Sodom which were done in you, it would have remained until this day.
 <wi type="G" value="302,24,">habría</wi>
 <wi type="G" value="3306,23,">permanecido</wi>
 <wi type="G" value="3360,25,">hasta</wi>
-<wi type="G" value="3588,26,"/>
-<wi type="G" value="4594,27,">estos días</wi>. </t>
+<wi type="G" value="3588,26,">estos</wi>
+<wi type="G" value="4594,27,">días</wi>. </t>
 </fr>
 </sv>
 <sv id="Mateo-11-24"><fr>
@@ -9257,7 +9260,8 @@ man? Then he will plunder his house.
 <sv id="Mateo-12-30"><fr>
 «He who is not with me is against me, and he who doesn´t gather with
 me, scatters.
-<t xml:lang="es">«<wi type="G" value="3588,1,"/><wi type="G" value="5607,3,">Aquel que</wi>
+<t xml:lang="es">«<wi type="G" value="3588,1,">Aquel</wi>
+<wi type="G" value="5607,3,">que</wi>
 <wi type="G" value="3361,2,">no</wi> está
 <wi type="G" value="3326,4,"><wi type="G" value="1700,5,">conmigo</wi></wi>
 <wi type="G" value="2076,8,">está</wi>
@@ -9956,7 +9960,8 @@ as much, some sixty, and some thirty.
 </sv>
 <sv id="Mateo-13-9"><fr>
 He who has ears to hear, let him hear.»
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="2192,2,">Aquel que tenga</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,">Aquel</wi>
+<wi type="G" value="2192,2,">que tenga</wi>
 <wi type="G" value="3775,3,">oídos</wi>
 <wi type="G" value="191,4,">para escuchar</wi>,
 <wi type="G" value="191,5,">que escuche</wi>.» </t>
@@ -10881,8 +10886,8 @@ Father. He who has ears to hear, let him hear.
 <wi type="G" value="3962,12,">de</wi>
 <wi type="G" value="846,13,">su</wi>
 <wi type="GC" value="12">Padre</wi>.
-<wi type="G" value="3588,14,"/>
-<wi type="G" value="2192,15,">Aquel que tenga</wi>
+<wi type="G" value="3588,14,">Aquel</wi>
+<wi type="G" value="2192,15,">que tenga</wi>
 <wi type="G" value="3775,16,">oídos</wi>
 <wi type="G" value="191,17,">para escuchar</wi>,
 <wi type="G" value="191,18,">que escuche</wi>. </t>
@@ -13975,8 +13980,8 @@ from that hour.
 <wi type="G" value="2323,13,">fue curado</wi>
 <wi type="G" value="3588,14,"/>
 <wi type="G" value="575,16,">desde</wi>
-<wi type="G" value="3588,17,"/>
-<wi type="G" value="1565,19,">ese mismo</wi>
+<wi type="G" value="3588,17,">ese</wi>
+<wi type="G" value="1565,19,">mismo</wi>
 <wi type="G" value="5610,18,">momento</wi>. </t>
 </sv></cm>
 <cm>
@@ -14109,8 +14114,8 @@ When they had come to Capernaum, those who collected the
 <wi type="G" value="1519,4,">a</wi>
 <wi type="G" value="2584,5,">Capernaum</wi>,
 <wi type="G" value="3588,7,"/>
-<wi type="G" value="3588,8,"/>
-<wi type="G" value="2983,10,">aquellos que recolectaban</wi>
+<wi type="G" value="3588,8,">aquellos</wi>
+<wi type="G" value="2983,10,">que recolectaban</wi>
 las </t>
 <rb>didrachma coins
 <t xml:lang="es">monedas <wi type="G" value="1323,9,">didracma</wi>
@@ -15255,8 +15260,8 @@ beginning made them male and female,
 <t xml:lang="es">«<wi type="G" value="3756,6,">No</wi>
 <wi type="G" value="314,7,">han leído</wi>
 <wi type="G" value="3754,8,">que</wi>
-<wi type="G" value="3588,9,"/>
-<wi type="G" value="4160,10,">aquel que los hizo</wi>
+<wi type="G" value="3588,9,">aquel</wi>
+<wi type="G" value="4160,10,">que los hizo</wi>
 <wi type="G" value="575,11,">desde</wi>
 <wi type="G" value="746,12,">el comienzo</wi>
 <wi type="G" value="846,17,">los</wi>
@@ -15389,8 +15394,8 @@ Mat 5:9 y Mat 15:19.
 <wi type="G" value="243,17,">con otra</wi>
 <wi type="G" value="3429,18,">comete adulterio</wi>;
 <wi type="G" value="2532,19,">y</wi>
-<wi type="G" value="3588,20,"/>
-<wi type="G" value="1060,22,">aquel que se casa</wi>
+<wi type="G" value="3588,20,">aquel</wi>
+<wi type="G" value="1060,22,">que se casa</wi>
 <wi type="G" value="630,21,">con la alejada</wi>
 <wi type="G" value="3429,23,">comete adulterio</wi>.» </t>
 </fr>
@@ -15477,8 +15482,8 @@ se
 <wi type="G" value="932,26,">del Reino</wi>
 <wi type="G" value="3588,27,"/>
 <wi type="G" value="3772,28,">de los Cielos</wi>.
-<wi type="G" value="3588,29,"/>
-<wi type="G" value="1410,30,">Aquel que pueda</wi>
+<wi type="G" value="3588,29,">Aquel</wi>
+<wi type="G" value="1410,30,">que pueda</wi>
 <wi type="G" value="5562,31,">recibirlo</wi>,
 <wi type="G" value="5562,32,">que lo reciba</wi>.» </t>
 </fr>
@@ -23754,8 +23759,8 @@ Field of Blood» to this day.
 «<wi type="G" value="68,6,">El campo</wi>
 <wi type="G" value="129,7,">de la sangre</wi>»
 <wi type="G" value="2193,8,">hasta</wi>
-<wi type="G" value="3588,9,"/>
-<wi type="G" value="4594,10,">este día</wi>. </t>
+<wi type="G" value="3588,9,">este</wi>
+<wi type="G" value="4594,10,">día</wi>. </t>
 </sv>
 <sv id="Mateo-27-9">
 Then that which was spoken through Jeremiah
@@ -25284,8 +25289,8 @@ abroad among the Jews, and continues until this day.
 <wi type="G" value="1310,10,">se reporta comunmente</wi>
 <wi type="G" value="3844,14,">entre</wi>
 <wi type="G" value="2453,15,">los judíos</wi>
-<wi type="G" value="3360,16,">hasta</wi> <wi type="G" value="3588,17,"/>
-<wi type="G" value="4594,18,">este día</wi>. </t>
+<wi type="G" value="3360,16,">hasta</wi> <wi type="G" value="3588,17,">este</wi>
+<wi type="G" value="4594,18,">día</wi>. </t>
 </sv></cm><cm>
 <sv id="Mateo-28-16">
 But the eleven disciples went into Galilee, to the mountain where Jesus
