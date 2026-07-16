@@ -15,6 +15,7 @@ con la cual se ha comparado -->
 <t xml:lang="es">Primera Carta de Pablo a Timoteo</t></tt>
 <sc id="1_Timoteo-1">
 <cm>
+
 <sv id="1_Timoteo-1-1">
 Paul, an apostle of Christ Jesus according to the commandment of
 God our Savior, and Christ Jesus our hope;
@@ -57,6 +58,7 @@ Lord.
 <wi type="G" value="2257,18,">nuestro</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="2962,17,">Señor</wi>. </t>
 </sv></cm><cm>
+
 <sv id="1_Timoteo-1-3">
 As I exhorted you to stay at Ephesus when I was going into Macedonia,
 that you might charge certain men not to teach a different doctrine,
@@ -363,17 +365,15 @@ sea
 </t>
 
 </sv></cm><cm>
+
 <sv id="1_Timoteo-1-18">
 This charge I commit to you, my child Timothy, according to the
 prophecies which led the way to you, that by them you may wage the good
 warfare;
 <t xml:lang="es"><wi type="G" value="3778,1,">Esta</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,2,"/><wi type="G" value="3852,3,">orden</wi><rf>
-<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `carga,´
-<citebib id="RV1960"/> dice `mandamiento.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `παραγγελιαν´
-se puede traducir como mandato, encargo u orden.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="3588,2,"/><wi type="G" value="3852,3,">orden</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `carga,´ <citebib
+id="RV1960"/> dice `mandamiento.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+`παραγγελιαν´ se puede traducir como mandato, encargo u orden.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="4671,5,">te</wi>
 <wi type="G" value="3908,4,">encargo</wi>,
@@ -431,6 +431,7 @@ blaspheme.
 
 <sc id="1_Timoteo-2">
 <cm>
+
 <sv id="1_Timoteo-2-1">
 I exhort therefore, first of all, that petitions, prayers,
 intercessions, and givings of thanks, be made for all men:
@@ -469,12 +470,9 @@ godliness and reverence.
 <wi type="G" value="3956,16,">toda</wi>
 <wi type="G" value="2150,17,">piedad</wi>
 <wi type="G" value="2532,18,">y</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4587,19,">honestidad</wi><rf>
-<citebib id="WEB"/> dice `reverencia,´
-<citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen
-`honestidad.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `σεμνοτητι,´
-se traduce como venerable, honor, pureza.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="4587,19,">honestidad</wi><rf><citebib id="WEB"/> dice `reverencia,´ <citebib id="KJV2003"/> y <citebib
+id="RVG2012"/> dicen `honestidad.´ Según <citebib id="Thayer-BLB"/> la palabra
+griega `σεμνοτητι,´ se traduce como venerable, honor, pureza.</rf></rb>
 <t xml:lang="es">.</t>
 </sv>
 
@@ -567,6 +565,7 @@ Gentiles in faith and truth.
 </sv></cm>
 
 <cm>
+
 <sv id="1_Timoteo-2-8">
 I desire therefore that the men in every place pray, lifting up holy
 hands without wrath and doubting.
@@ -584,13 +583,11 @@ hands without wrath and doubting.
 <wi type="G" value="5565,12,">sin</wi>
 <wi type="G" value="3709,13,">ira</wi>
 <wi type="G" value="2532,14,">ni</wi> </t>
-<rb xml:lang="es"><wi type="G" value="1261,15,">dudas</wi><rf>
-<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `dudas,´
-<citebib id="RVG2012"/> dice `contiendas.´
-La palabra `διαλογισμου,´
-se ha traducido como pensamientos y disputas. Según
-<citebib id="Thayer-BLB"/> se traduce como pensamiento de un hombre
-que delibera consigo mismo o un cuestionamiento a lo que es verdad.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="1261,15,">dudas</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `dudas,´ <citebib
+id="RVG2012"/> dice `contiendas.´ La palabra `διαλογισμου,´ se
+ha traducido como pensamientos y disputas. Según <citebib id="Thayer-BLB"/> se traduce como
+pensamiento de un hombre que delibera consigo mismo o un cuestionamiento a lo
+que es verdad.</rf></rb>
 <t xml:lang="es">.</t>
 </sv>
 
@@ -613,13 +610,9 @@ braided hair, gold, pearls, or expensive clothing;
 <wi type="G" value="4997,11,">sobriedad</wi>;
 <wi type="G" value="3361,14,">no</wi>
 <wi type="G" value="1722,15,">con</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4117,16,">cabello bordado</wi><rf>
-<citebib id="WEB"/> dice `cabello trenzado,´
-<citebib id="KJV2012"/> dice `cabello bordado,´
-<citebib id="RVG2012"/> dice `cabello encrespado.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `πλεγμασιν´ se
-refiere a lo que es tejido, trenzado o retorcido.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="4117,16,">cabello bordado</wi><rf><citebib id="WEB"/> dice `cabello trenzado,´ <citebib id="KJV2012"/> dice `cabello bordado,´ <citebib id="RVG2012"/> dice `cabello
+encrespado.´ Según <citebib id="Thayer-BLB"/> la palabra griega `πλεγμασιν´ se refiere a lo que es
+tejido, trenzado o retorcido.</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="2228,17,">ni</wi>
 <wi type="G" value="5557,18,">oro</wi>,
@@ -662,12 +655,9 @@ But I don´t permit a woman to teach, nor
 to exercise authority over a man, but to be in quietness.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="3756,4,">no</wi> </t>
-<rb xml:lang="es"><wi type="G" value="2010,5,">permito</wi><rf>
-<citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `permito,´
-<citebib id="KJV2003"/> dice `soporto.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `επιτρεπω´
-se traduce como permitir.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="2010,5,">permito</wi><rf><citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `permito,´ <citebib
+id="KJV2003"/> dice `soporto.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+`επιτρεπω´ se traduce como permitir.</rf></rb>
 <t xml:lang="es">
 que <wi type="G" value="1135,1,">una mujer</wi>
 <wi type="G" value="1321,3,">enseñe</wi>,
@@ -731,6 +721,7 @@ sobriety.
 
 <sc id="1_Timoteo-3">
 <cm>
+
 <sv id="1_Timoteo-3-1">
 This is a faithful saying: if a man seeks the office of an
 <t xml:lang="es"><wi type="G" value="3588,2,">Esta</wi> es
@@ -740,11 +731,8 @@ This is a faithful saying: if a man seeks the office of an
 <wi type="G" value="5100,5,">un hombre</wi>
 <wi type="G" value="3713,7,">desea</wi> </t>
 <rb>overseer<t xml:lang="es"><wi type="G" value="1984,6,">el oficio de
-obispo</wi></t><rf>
-Or, bishop<t xml:lang="es"><citebib id="WEB"/> dice
-`supervisor,´ con nota al pie de página `U obispo,´
-<citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen `obispo.´
-</t></rf>
+obispo</wi></t><rf>Or, bishop<t xml:lang="es"><citebib id="WEB"/> dice `supervisor,´ con nota al pie de página `U obispo,´ <citebib id="KJV2003"/>
+y <citebib id="RVG2012"/> dicen `obispo.´ </t></rf>
 </rb>
 , he desires a good work.
 <t xml:lang="es">
@@ -767,29 +755,17 @@ sensible, modest, hospitable, good at teaching;
 <wi type="G" value="435,9,">esposo</wi>
 <wi type="G" value="1520,7,">de una</wi>
 <wi type="G" value="1135,8,">mujer</wi>, </t>
-<rb xml:lang="es"><wi type="G" value="3524,10,">sobrio</wi><rf>
-<citebib id="WEB"/> dice `moderado,´
-<citebib id="KJV2003"/> dice `vigilante,´
-<citebib id="RVG2012"/> dice `solícito.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `νηφαλιον´
-se traduce como que se abstiene de vino.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="3524,10,">sobrio</wi><rf><citebib id="WEB"/> dice `moderado,´ <citebib id="KJV2003"/> dice `vigilante,´ <citebib id="RVG2012"/> dice `solícito.´ Según <citebib id="Thayer-BLB"/> la
+palabra griega `νηφαλιον´ se traduce como que se abstiene de vino.</rf></rb>
 <t xml:lang="es">, </t>
-<rb xml:lang="es"><wi type="G" value="4998,11,">autocontrolado</wi><rf>
-<citebib id="WEB"/> dice `sensible,´
-<citebib id="KJV2003"/> dice `sobrio,´
-<citebib id="RVG2012"/> dice `templado.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `σωφρονα´
-se traduce como de mente consistente, que controla sus deseos e impulsos.
- </rf></rb>
+<rb xml:lang="es"><wi type="G" value="4998,11,">autocontrolado</wi><rf><citebib id="WEB"/> dice `sensible,´ <citebib id="KJV2003"/> dice `sobrio,´ <citebib id="RVG2012"/> dice `templado.´ Según <citebib id="Thayer-BLB"/> la
+palabra griega `σωφρονα´ se traduce como de mente consistente, que controla sus
+deseos e impulsos.</rf></rb>
 <t xml:lang="es">, </t>
-<rb xml:lang="es"><wi type="G" value="2887,12,">de buen comportamiento</wi><rf>
-<citebib id="WEB"/> dice `modesto,´
-<citebib id="KJV2003"/> dice `de buen comportamiento,´
-<citebib id="RVG2012"/> dice `compuesto.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `κόσμιος´
-se traduce como ordenado, decoroso, de buen comportamiento, modesto.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="2887,12,">de buen comportamiento</wi><rf><citebib id="WEB"/> dice `modesto,´ <citebib id="KJV2003"/> dice `de buen comportamiento,´ <citebib id="RVG2012"/> dice `compuesto.´
+Según <citebib
+id="Thayer-BLB"/> la palabra griega `κόσμιος´ se traduce como ordenado, decoroso, de
+buen comportamiento, modesto.</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="5382,13,">hospitalario</wi>,
 <wi type="G" value="1317,14,">apto para enseñar</wi>;</t>
@@ -806,17 +782,11 @@ violent, not greedy for money, but gentle, not quarrelsome, not covetous;
 <wi type="G" value="146,6,">codicioso de dinero</wi>,
 <wi type="G" value="235,7,">sino</wi>
 <wi type="G" value="1933,8,">gentil</wi>, </t>
-<rb xml:lang="es"><wi type="G" value="269,9,">pacífico</wi><rf>
-<citebib id="WEB"/> dice `no violento,´
-<citebib id="KJV2003"/> dice `no peleador,´
-<citebib id="RVG2012"/> dice `no litigioso.´
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="269,9,">pacífico</wi><rf><citebib id="WEB"/> dice `no violento,´ <citebib id="KJV2003"/> dice `no peleador,´ <citebib id="RVG2012"/> dice `no litigioso.´</rf></rb>
 <t xml:lang="es">,
 </t>
-<rb xml:lang="es"><wi type="G" value="866,10,">sencillo</wi><rf>
-<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `no envidioso,´
-<citebib id="RVG2012"/> dice `ajeno de avaricia.´
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="866,10,">sencillo</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `no envidioso,´ <citebib
+id="RVG2012"/> dice `ajeno de avaricia.´</rf></rb>
 <t xml:lang="es">;
 </t>
 </sv>
@@ -894,13 +864,12 @@ reproach and the snare of the devil.
 </t>
 
 </sv></cm><cm>
+
 <sv id="1_Timoteo-3-8">
 
 <rb>Deacons
-<t xml:lang="es"><wi type="G" value="1249,1,">Los</wi> diáconos</t><rf>
-The word for «deacons» literally means
-«servants.»<t xml:lang="es">La palabra griega «διακονους»
-literalmente significa «servidores».</t></rf>
+<t xml:lang="es"><wi type="G" value="1249,1,">Los</wi> diáconos</t><rf>The word for «deacons» literally means «servants.»<t xml:lang="es">La palabra griega
+«διακονους» literalmente significa «servidores».</t></rf>
 </rb>
 ,
 in the same way, must be reverent, not double-tongued, not addicted to much
@@ -993,12 +962,8 @@ good standing, and great boldness in the faith which is in Christ Jesus.
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="4183,10,">gran</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="3954,11,">confianza</wi><rf>
-<citebib id="WEB"/> dice `coraje,´
-<citebib id="RVG2012"/> dice `confianza.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `παρρησιαν´
-se traduce como franco, libre de temor, confianza sin temor.
- </rf></rb>
+<rb xml:lang="es"><wi type="G" value="3954,11,">confianza</wi><rf><citebib id="WEB"/> dice `coraje,´ <citebib id="RVG2012"/> dice `confianza.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+`παρρησιαν´ se traduce como franco, libre de temor, confianza sin temor.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="4102,13,">la fe</wi>
@@ -1008,6 +973,7 @@ se traduce como franco, libre de temor, confianza sin temor.
 <wi type="G" value="2424,17,">Jesús</wi>.
 </t>
 </sv></cm><cm>
+
 <sv id="1_Timoteo-3-14">
 These things I write to you, hoping to come to you shortly;
 <t xml:lang="es"><wi type="G" value="5023,1,">Estas cosas</wi>
@@ -1100,6 +1066,7 @@ And received up in glory.
 </sv></cm></sc>
 <sc id="1_Timoteo-4">
 <cm>
+
 <sv id="1_Timoteo-4-1">
 But the Spirit says expressly that in later times some will fall
 away from the faith, paying attention to seducing spirits and doctrines of
@@ -1307,6 +1274,7 @@ Command and teach these things.
 </t>
 
 </sv></cm><cm>
+
 <sv id="1_Timoteo-4-12">
 Let no man despise your youth; but be an example to those who believe,
 in word, in your way of life, in love, in spirit, in faith, and in purity.
@@ -1323,11 +1291,10 @@ in word, in your way of life, in love, in spirit, in faith, and in purity.
 <wi type="G" value="1722,11,">en</wi>
 <wi type="G" value="3056,12,">la palabra</wi>,
 <wi type="G" value="1722,13,">con</wi> </t>
-<rb xml:lang="es"><wi type="G" value="391,14,">tu forma de vivir</wi><rf>
-<citebib id="WEB"/> dice `forma de vivir,´
-<citebib id="RVG2012"/> y <citebib id="KJV"/> dicen `conversación.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `αναστροφη´
-se traduce como comportamiento, manera de vivir, conducta o conversación.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="391,14,">tu forma de vivir</wi><rf><citebib id="WEB"/> dice `forma de vivir,´ <citebib id="RVG2012"/> y <citebib
+id="KJV"/> dicen `conversación.´ Según <citebib id="Thayer-BLB"/> la
+palabra griega `αναστροφη´ se traduce como comportamiento, manera de vivir,
+conducta o conversación.</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="1722,15,">en</wi>
 <wi type="G" value="26,16,">amor</wi>,
@@ -1376,9 +1343,8 @@ by prophecy, with the laying on of the hands of the elders.
 <wi type="G" value="5495,15,">manos</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="3588,16,">del</wi>
-<wi type="G" value="4244,17,">presbiterio</wi><rf>
-<citebib id="WEB"/> dice `de los ancianos,´ <citebib id="KJV2003"/> y
-<citebib id="RVG2012"/> dicen `del presbiterio.´ La palabra
+<wi type="G" value="4244,17,">presbiterio</wi><rf><citebib id="WEB"/> dice `de los ancianos,´ <citebib id="KJV2003"/> y <citebib
+id="RVG2012"/> dicen `del presbiterio.´ La palabra
 griega es `πρεσβυτεριου.´</rf></rb>
 <t xml:lang="es">.</t>
 </sv>
@@ -1427,6 +1393,7 @@ a <wi type="G" value="3588,4,">la</wi>
 </sv></cm></sc>
 <sc id="1_Timoteo-5">
 <cm>
+
 <sv id="1_Timoteo-5-1">
 Don´t rebuke an older man, but exhort him as a father; the younger
 men as brothers;
@@ -1479,9 +1446,7 @@ their own family, and to repay their parents, for this is
 <wi type="G" value="2192,8,">tiene</wi>
 <wi type="G" value="5043,5,">hijos</wi>
 <wi type="G" value="2228,6,">o</wi> </t>
-<rb xml:lang="es"><wi type="G" value="1549,7,">nietos</wi><rf>
-<citebib id="WEB"/> dice nietos, <citebib id="KJV2003"/> dice sobrinos.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="1549,7,">nietos</wi><rf><citebib id="WEB"/> dice nietos, <citebib id="KJV2003"/> dice sobrinos.</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="3129,9,">que aprendan</wi>
 <wi type="G" value="4412,10,">primero</wi>
@@ -1489,11 +1454,8 @@ their own family, and to repay their parents, for this is
 <wi type="G" value="2398,12,">con su propia</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="3624,13,">casa</wi>
 <wi type="G" value="2532,15,">y</wi> </t>
-<rb xml:lang="es"><wi type="G" value="287,16,">a recompensar</wi><rf>
-Ni
-<citebib id="WEB"/> ni <citebib id="KJV2003"/> incluyen traducción a la
-palabra griega que aparece en TR: `αμοιβας´ con número strong
-287 que según <citebib id="Thayer-BLB"/> correponde a recompensar.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="287,16,">a recompensar</wi><rf>Ni <citebib id="WEB"/> ni <citebib id="KJV2003"/> incluyen traducción a la palabra griega que aparece en TR:
+`αμοιβας´ con número strong 287 que según <citebib id="Thayer-BLB"/> correponde a recompensar.</rf></rb>
 <t xml:lang="es">
 y <wi type="G" value="591,17,">retribuir a</wi>
 <wi type="G" value="3588,18,">los</wi>
@@ -1504,9 +1466,7 @@ y <wi type="G" value="591,17,">retribuir a</wi>
 <rb>acceptable
 <t xml:lang="es"><wi type="G" value="2570,23,">bueno</wi>
 <wi type="G" value="2532,24,">y</wi>
-<wi type="G" value="587,25,">aceptable</wi></t><rf>
-TR adds «good
-and»<t xml:lang="es"></t></rf>
+<wi type="G" value="587,25,">aceptable</wi></t><rf>TR adds «good and»<t xml:lang="es"></t></rf>
 </rb>
 in the sight of God.
 <t xml:lang="es">
@@ -1623,6 +1583,7 @@ good work.
 <wi type="G" value="18,19,">buena</wi>
 <wi type="G" value="2041,18,">obra</wi>. </t>
 </sv></cm><cm>
+
 <sv id="1_Timoteo-5-11">
 But refuse younger widows, for when they have grown wanton against
 Christ, they desire to marry;
@@ -1632,17 +1593,12 @@ Christ, they desire to marry;
 <wi type="G" value="3501,1,">jóvenes</wi>,
 <wi type="G" value="1063,6,">pues</wi>
 <wi type="G" value="3752,5,">cuando</wi> </t>
-<rb xml:lang="es"><wi type="G" value="2691,7,">sus pasiones las alejan</wi><rf>
-<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `se hayan vuelto libertinas
-contra Cristo,´
-<citebib id="RVG2012"/> dice `después de hacerse licenciosas contra Cristo,´
-<citebib id="RVR1960"/> dice `impulsadas por sus deseos, se rebelan contra
-Cristo.´
-La traducción Palabra de Dios para Todos dice `porque sus pasiones las alejan de
-su compromiso con Cristo.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `καταστρηνιασωσιν´
-se refiere a sentir impulso del deseo sexual.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="2691,7,">sus pasiones las alejan</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `se hayan vuelto libertinas contra Cristo,´ <citebib id="RVG2012"/> dice `después
+de hacerse licenciosas contra Cristo,´ <citebib id="RVR1960"/> dice `impulsadas por sus deseos, se
+rebelan contra Cristo.´ La traducción Palabra de Dios para Todos dice `porque
+sus pasiones las alejan de su compromiso con Cristo.´ Según <citebib
+id="Thayer-BLB"/> la palabra
+griega `καταστρηνιασωσιν´ se refiere a sentir impulso del deseo sexual.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3588,8,">de</wi>
 <wi type="G" value="5547,9,">Cristo</wi>,
@@ -1660,12 +1616,8 @@ rejected their first pledge.
 <wi type="G" value="3588,4,">la</wi>
 <wi type="G" value="4413,5,">primera</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="4102,6,">fe</wi><rf>
-<citebib id="WEB"/> dice compromiso,
-<citebib id="RVG2012"/> dice fe.
-Según <citebib id="Thayer-BLB"/> la palabra griega `πιστιν´
-se traduce como creencia.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="4102,6,">fe</wi><rf><citebib id="WEB"/> dice compromiso, <citebib id="RVG2012"/> dice fe. Según <citebib id="Thayer-BLB"/> la palabra griega `πιστιν´ se
+traduce como creencia.</rf></rb>
 <t xml:lang="es">.</t>
 </sv>
 
@@ -1681,7 +1633,7 @@ saying things which they ought not.
 <wi type="G" value="3588,7,">de</wi>
 <wi type="G" value="3614,8,">casa en casa</wi>.
 <wi type="G" value="1161,11,">Y</wi>
- <wi type="G" value="3756,9,">no</wi>
+<wi type="G" value="3756,9,">no</wi>
 <wi type="G" value="3440,10,">sólo</wi>
 <wi type="G" value="692,12,">ociosas</wi>,
 <wi type="G" value="235,13,">sino</wi>
@@ -1702,13 +1654,9 @@ adversary for reviling.
 <t xml:lang="es"><wi type="G" value="1014,1,">Anhelo</wi>
 <wi type="G" value="3767,2,">entonces</wi> que
 </t>
-<rb xml:lang="es"><wi type="G" value="3501,3,">las jóvenes</wi><rf>
-<citebib id="WEB"/> dice `viudas jóvenes,´
-<citebib id="KJV2003"/> dice `mujeres jóvenes,´
-<citebib id="RVG2012"/> dice `las que son jóvenes.´
-La palabra griega `νεωτερας´ según <citebib id="Thayer-BLB"/>
-se traduce cómo joven, nuevo(a).
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="3501,3,">las jóvenes</wi><rf><citebib id="WEB"/> dice `viudas jóvenes,´ <citebib id="KJV2003"/> dice `mujeres jóvenes,´ <citebib id="RVG2012"/> dice `las que son
+jóvenes.´ La palabra griega `νεωτερας´ según <citebib id="Thayer-BLB"/> se traduce cómo joven,
+nuevo(a).</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="1060,4,">se casen</wi>,
 <wi type="G" value="5041,5,">tengan hijos</wi>,
@@ -1758,6 +1706,7 @@ que <wi type="G" value="846,9,">las</wi>
 </sv></cm>
 
 <cm>
+
 <sv id="1_Timoteo-5-17">
 Let the elders who rule well be counted worthy of double honor,
 especially those who labor in the word and in teaching.
@@ -1798,6 +1747,7 @@ es <wi type="G" value="514,10,">digno</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="3408,14,">salario</wi>.»
 </t>
 </sv></cm><cm>
+
 <sv id="1_Timoteo-5-19">
 Don´t receive an accusation against an elder, except at the word of two
 or three witnesses.
@@ -1898,6 +1848,7 @@ de <wi type="G" value="4675,14,">tus</wi>
 </t>
 
 </sv></cm><cm>
+
 <sv id="1_Timoteo-5-24">
 Some men´s sins are evident, preceding them to judgment, and some also
 follow later.
@@ -1929,11 +1880,8 @@ obvious, and those that are otherwise can´t be hidden.
 <wi type="G" value="3588,9,">las que</wi>
 <wi type="G" value="2192,11,">son</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="247,10,">de otra forma</wi><rf>
-<citebib id="WEB"/> dice `y esas que son de otra forma´
-<citebib id="KJV2003"/> dice `y las que son de otra manera´
-<citebib id="RVG2012"/> dice `y las que son de otra manera´
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="247,10,">de otra forma</wi><rf><citebib id="WEB"/> dice `y esas que son de otra forma´ <citebib id="KJV2003"/> dice `y las que son de otra
+manera´ <citebib id="RVG2012"/> dice `y las que son de otra manera´</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3756,13,"><wi type="G" value="1410,14,">no pueden</wi></wi>
 <wi type="G" value="2928,12,">esconderse</wi>.
@@ -1943,6 +1891,7 @@ obvious, and those that are otherwise can´t be hidden.
 </sv></cm></sc>
 <sc id="1_Timoteo-6">
 <cm>
+
 <sv id="1_Timoteo-6-1">
 Let as many as are bondservants under the yoke count their own
 masters worthy of all honor, that the name of God and the doctrine not be
@@ -2006,6 +1955,7 @@ things.
 </sv></cm>
 
 <cm>
+
 <sv id="1_Timoteo-6-3">
 If anyone teaches a different doctrine, and doesn´t consent to sound
 words, the words of our Lord Jesus Christ, and to the doctrine which is
@@ -2056,13 +2006,10 @@ reviling, evil suspicions,
 constant friction of people of corrupt minds
 and destitute of the truth, who suppose that godliness is a means of gain.
 Withdraw yourself from such.
-<rb xml:lang="es"><wi type="G" value="3859,1,">disputas constantes</wi><rf>
-<citebib id="WEB"/> dice `fricciones constantes,´
-<citebib id="KJV2003"/> dice `disputas perversas,´
-<citebib id="RVG2012"/> dice `porfías.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `διαπαρατριβή´ se traduce
-como disputa constante, riña incesante, ocupación inútil, negocio vacío.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="3859,1,">disputas constantes</wi><rf><citebib id="WEB"/> dice `fricciones constantes,´ <citebib id="KJV2003"/> dice `disputas perversas,´ <citebib id="RVG2012"/> dice
+`porfías.´ Según <citebib
+id="Thayer-BLB"/> la palabra griega `διαπαρατριβή´ se traduce como disputa
+constante, riña incesante, ocupación inútil, negocio vacío.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="444,3,">de gente</wi> con
 <wi type="G" value="3588,4,"/><wi type="G" value="3563,5,">mentes</wi>
@@ -2082,6 +2029,7 @@ para <wi type="G" value="4200,11,">ganancia</wi>.
 </t>
 
 </sv></cm><cm>
+
 <sv id="1_Timoteo-6-6">
 But godliness with contentment is great gain.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -2179,6 +2127,7 @@ sorrows.
 <wi type="G" value="3601,19,">penas</wi>.
 </t>
 </sv></cm><cm>
+
 <sv id="1_Timoteo-6-11">
 But you, man of God, flee these things, and follow after righteousness,
 godliness, faith, love, patience, and gentleness.
@@ -2198,13 +2147,8 @@ godliness, faith, love, patience, and gentleness.
 <wi type="G" value="26,14,">el amor</wi>,
 <wi type="G" value="5281,15,">la paciencia</wi> y
 </t>
-<rb xml:lang="es"><wi type="G" value="4236,16,">la mansedumbre</wi><rf>
-<citebib id="WEB"/> dice `bondad,´
-<citebib id="KJV2003"/> dice `humildad,´
-<citebib id="RVG2012"/> dice `mansedumbre.´
-La palabra griega `πραοτητα´ se puede traducir de todas estas
-formas según <citebib id="Thayer-BLB"/>.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="4236,16,">la mansedumbre</wi><rf><citebib id="WEB"/> dice `bondad,´ <citebib id="KJV2003"/> dice `humildad,´ <citebib id="RVG2012"/> dice `mansedumbre.´ La palabra
+griega `πραοτητα´ se puede traducir de todas estas formas según <citebib id="Thayer-BLB"/>.</rf></rb>
 <t xml:lang="es">.
 </t>
 </sv>
@@ -2328,6 +2272,7 @@ see: to whom be honor and eternal power. Amen.
 <wi type="G" value="166,19,">por siempre</wi>.
 <wi type="G" value="281,20,">Amén</wi>. </t>
 </sv></cm><cm>
+
 <sv id="1_Timoteo-6-17">
 Charge those who are rich in this present world that they not be
 haughty, nor have their hope set on the uncertainty of riches, but on the
@@ -2393,6 +2338,7 @@ life.
 </sv></cm>
 
 <cm>
+
 <sv id="1_Timoteo-6-20">
 Timothy, guard that which is committed to you, turning away from the
 empty chatter and oppositions of the knowledge which is falsely so called;
@@ -2429,11 +2375,9 @@ Sea
 <wi type="G" value="3326,10,"><wi type="G" value="4675,11,">contigo</wi></wi>.
 <wi type="G" value="281,12,">Amén</wi>.
 </t>
-<rb xml:lang="es"><rf>
-<citebib id="KJV2003"/> agrega al final de este
-versículo incluso con marcación Strong: `La primera a Timoteo fue escrita
-desde Laodicea, que es la principal ciudad de Frigia Pacatiana.´
-</rf></rb>
+<rb xml:lang="es"><rf><citebib id="KJV2003"/> agrega al final de este versículo incluso con marcación Strong: `La primera
+a Timoteo fue escrita desde Laodicea, que es la principal ciudad de Frigia
+Pacatiana.´</rf></rb>
 
 <cl/>
 

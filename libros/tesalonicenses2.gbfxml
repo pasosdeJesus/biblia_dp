@@ -2,11 +2,12 @@
 
 <sb id="2_Tesalonicenses" type="" xml:lang="">
 <tt>Paul´s Second Letter to the Thessalonians
-  <t xml:lang="es">Segunda carta de Pablo a Tesalonicenses</t>
+<t xml:lang="es">Segunda carta de Pablo a Tesalonicenses</t>
 </tt>
 
 <sc id="2_Tesalonicenses-1">
 <cm>
+
 <sv id="2_Tesalonicenses-1-1">
 Paul, Silvanus, and Timothy, to the assembly of the Thessalonians
 in God our Father, and the Lord Jesus Christ:
@@ -45,6 +46,7 @@ from God our Father and the Lord Jesus Christ.
 <wi type="G" value="5547,12,">Cristo</wi>.
 </t>
 </sv></cm><cm>
+
 <sv id="2_Tesalonicenses-1-3">
 We are bound to always give thanks to God for you,
 <t xml:lang="es"><wi type="G" value="3784,2,">Debemos</wi>
@@ -55,13 +57,10 @@ We are bound to always give thanks to God for you,
 <wi type="G" value="5216,7,">ustedes</wi>,
 </t>
 <rb>brothers,
-<t xml:lang="es"><wi type="G" value="80,8,">hermanos</wi></t><rf>
-The
-word for «brothers» here and where context allows may also be correctly
-translated «brothers and sisters» or «siblings.»<t xml:lang="es">La palabra
-para «hermanos» aquí y donde el contexto lo permita, también puede
-traducirse correctamente como  «hermanos y hermanas.»</t>
-</rf>
+<t xml:lang="es"><wi type="G" value="80,8,">hermanos</wi></t><rf>The word for «brothers» here and where context allows may also be correctly
+translated «brothers and sisters» or «siblings.»<t xml:lang="es">La palabra para «hermanos»
+aquí y donde el contexto lo permita, también puede traducirse correctamente como
+«hermanos y hermanas.»</t></rf>
 </rb>
  even as it is
 appropriate, because your faith grows exceedingly, and the love of each and
@@ -180,9 +179,7 @@ fire,
 <wi type="G" value="3326,16,">con</wi> </t>
 <rb xml:lang="es"><wi type="G" value="32,17,">los ángeles</wi>
 <wi type="G" value="846,19,">de su</wi>
-<wi type="G" value="1411,18,">potencia</wi><rf>
-<citebib id="WEB"/> dice `sus poderosos ángeles,´
-<citebib id="RVG2012"/> dice `los ángeles de su potencia.´</rf></rb>
+<wi type="G" value="1411,18,">potencia</wi><rf><citebib id="WEB"/> dice `sus poderosos ángeles,´ <citebib id="RVG2012"/> dice `los ángeles de su potencia.´</rf></rb>
 <t xml:lang="es">,</t>
 </sv>
 
@@ -192,9 +189,7 @@ don´t obey the Good News of our Lord Jesus,
 
 <rb xml:lang="es"><wi type="G" value="1722,1,">en</wi>
 <wi type="G" value="5395,3,">llamas</wi>
-<wi type="G" value="4442,2,">de fuego</wi><rf>
-<citebib id="WEB"/> deja al final del versículo anterior
-`en llamas de fuego,´ pero <citebib id="KJV2003"/> y <citebib id="RVG2012"/>
+<wi type="G" value="4442,2,">de fuego</wi><rf><citebib id="WEB"/> deja al final del versículo anterior `en llamas de fuego,´ pero <citebib id="KJV2003"/> y <citebib id="RVG2012"/>
 lo ponen al comienzo de este.</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="1325,4,">dando</wi>
@@ -212,9 +207,7 @@ lo ponen al comienzo de este.</rf></rb>
 <wi type="G" value="2257,18,">de nuestro</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="2962,17,">Señor</wi>
 <wi type="G" value="2424,19,">Jesús</wi> </t>
-<rb xml:lang="es"><wi type="G" value="5547,20,">Cristo</wi><rf>
-<citebib id="WEB"/> no dice `Cristo,´ pero si está en
-<citebib id="TR-BLB"/>, <citebib id="KJV2003"/> y <citebib id="RVG2012"/></rf></rb>
+<rb xml:lang="es"><wi type="G" value="5547,20,">Cristo</wi><rf><citebib id="WEB"/> no dice `Cristo,´ pero si está en <citebib id="TR-BLB"/>, <citebib id="KJV2003"/> y <citebib id="RVG2012"/></rf></rb>
 <t xml:lang="es">,
 </t>
 </sv>
@@ -270,6 +263,7 @@ in that day.
 </sv></cm>
 
 <cm>
+
 <sv id="2_Tesalonicenses-1-11">
 To this end we also pray always for you, that our God may count you
 worthy of your calling, and fulfill every desire of goodness and work of
@@ -311,11 +305,8 @@ that the name of our Lord Jesus
 <wi type="G" value="2424,8,">Jesús</wi></t>
 <rb>
 <t xml:lang="es">
-<wi type="G" value="5547,9,">Cristo</wi></t><rf>
-TR adds
-«Christ»<t xml:lang="es"><citebib id="WEB"/> omite
-`Cristo,´ con nota al pie de página indicando
-que <citebib id="TR"/> si lo incluye.</t></rf>
+<wi type="G" value="5547,9,">Cristo</wi></t><rf>TR adds «Christ»<t xml:lang="es"><citebib id="WEB"/> omite `Cristo,´ con nota al pie de página indicando que
+<citebib id="TR"/> si lo incluye.</t></rf>
 </rb>
 may be glorified in you, and you
 in him, according to the
@@ -342,6 +333,7 @@ grace of our God and the Lord Jesus Christ.
 </sv></cm></sc>
 <sc id="2_Tesalonicenses-2">
 <cm>
+
 <sv id="2_Tesalonicenses-2-1">
 Now, brothers, concerning the coming of our Lord Jesus Christ, and
 our gathering together to him, we ask you
@@ -415,10 +407,7 @@ man of sin is revealed, the son of destruction,
 <wi type="G" value="1437,9,">a menos que</wi>
 <wi type="G" value="2064,11,">venga</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,12,">la</wi>
-<wi type="G" value="646,13,">apostasía</wi><rf>
-<citebib id="WEB"/> dice `la partida,´
-<citebib id="KJV2003"/> dice `la caída.´
-Según <citebib id="Thayer-BLB"/> la palabra griega
+<wi type="G" value="646,13,">apostasía</wi><rf><citebib id="WEB"/> dice `la partida,´ <citebib id="KJV2003"/> dice `la caída.´ Según <citebib id="Thayer-BLB"/> la palabra griega
 `αποστασια´ se traduce como a caída, deserción o apostasía.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="4412,14,">primero</wi>,
@@ -516,7 +505,7 @@ works. Only there is one who restrains now, until he is taken out of the way.
 <wi type="G" value="1096,15,">sea quitado</wi>
 <wi type="G" value="1537,13,">del</wi>
 <wi type="G" value="3319,14,">camino</wi>.
- </t>
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-8">
@@ -524,33 +513,24 @@ Then the lawless one will be revealed, whom the Lord will kill with the
 breath of his mouth, and destroy by the manifestation of his coming;
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="5119,2,">entonces</wi>
-  <wi type="G" value="3588,4,">el</wi>
+<wi type="G" value="3588,4,">el</wi>
 <wi type="G" value="459,5,">inicuo</wi>
 <wi type="G" value="601,3,">será revelado</wi>,
 <wi type="G" value="3739,6,">a quien</wi>
 <wi type="G" value="3588,7,">el</wi>
 <wi type="G" value="2962,8,">Señor</wi>
 <wi type="G" value="355,9,">destruirá</wi>
-<rb xml:lang="es"><wi type="G" value="3588,10,"/><wi type="G" value="4151,11,">con el espíritu</wi><rf>
-<citebib id="WEB"/> dice `con el aliento,´
-<citebib id="KJV2003"/> dice `con el espíritu.´
-Según <citebib id="Thayer-BLB"/> la palabra `πνευματι´
-se puede traducir como corriente de aire, aliento, espíritu.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="3588,10,"/><wi type="G" value="4151,11,">con el espíritu</wi><rf><citebib id="WEB"/> dice `con el aliento,´ <citebib id="KJV2003"/> dice `con el espíritu.´ Según <citebib id="Thayer-BLB"/> la palabra
+`πνευματι´ se puede traducir como corriente de aire, aliento, espíritu.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="846,14,">de su</wi>
 <wi type="G" value="3588,12,"/><wi type="G" value="4750,13,">boca</wi>,
 <wi type="G" value="2532,15,">y</wi>
 lo <wi type="G" value="2673,16,">destruirá</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="3588,17,"/><wi type="G" value="2015,18,">con el brillo</wi><rf>
-<citebib id="WEB"/> dice
-`con la manifestación,´
-<citebib id="KJV2003"/> dice `con el brillo,´
-Según <citebib id="Thayer-BLB"/> la palabra griega `ἐπιφάνεια´ se
-traduce como manifestación, especialmente advenimiento de Cristo, aparición,
-brillo.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="3588,17,"/><wi type="G" value="2015,18,">con el brillo</wi><rf><citebib id="WEB"/> dice `con la manifestación,´ <citebib id="KJV2003"/> dice `con el brillo,´ Según <citebib id="Thayer-BLB"/> la
+palabra griega `ἐπιφάνεια´ se traduce como manifestación, especialmente
+advenimiento de Cristo, aparición, brillo.</rf></rb>
 <wi type="G" value="846,21,">de su</wi>
 <wi type="G" value="3588,19,"/><wi type="G" value="3952,20,">advenimiento</wi>;</t>
 </sv>
@@ -612,14 +592,10 @@ error, that they should believe a lie;
 <wi type="G" value="846,5,">les</wi>
 <wi type="G" value="3992,4,">enviará</wi> </t>
 <rb xml:lang="es"><wi type="G" value="1753,8,">una operación</wi>
-<wi type="G" value="4106,9,">de error</wi><rf>
-<citebib id="WEB"/> dice `obra de error,´
-<citebib id="KJV2003"/> dice `un fuerte delirio,´
-<citebib id="RVG2012"/> dice `operación de error.´
-Según <citebib id="Thayer-BLB"/> la palabra
-griega `πλανης´ se traduce como error, engañar, delirio y
-la palabra girega `ενεργειαν,´ se traduce como
-operación, obra y fuerte. </rf></rb>
+<wi type="G" value="4106,9,">de error</wi><rf><citebib id="WEB"/> dice `obra de error,´ <citebib id="KJV2003"/> dice `un fuerte delirio,´ <citebib id="RVG2012"/> dice `operación
+de error.´ Según <citebib id="Thayer-BLB"/> la palabra griega `πλανης´ se traduce como error, engañar,
+delirio y la palabra girega `ενεργειαν,´ se traduce como operación, obra y
+fuerte.</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="1519,10,">para que</wi>
 <wi type="G" value="846,13,">ellos</wi>
@@ -727,6 +703,7 @@ which you
 </sv></cm>
 
 <cm>
+
 <sv id="2_Tesalonicenses-2-16">
 Now our Lord Jesus Christ himself, and God our Father, who loved us and
 gave us eternal comfort and good hope through grace,
@@ -777,6 +754,7 @@ hearts and establish you in every good work and word.
 </sv></cm></sc>
 <sc id="2_Tesalonicenses-3">
 <cm>
+
 <sv id="2_Tesalonicenses-3-1">
 Finally, brothers, pray for us, that the word of the Lord may
 spread rapidly and be glorified, even as also with you;
@@ -874,6 +852,7 @@ into the love of God, and into the patience of Christ.
 <wi type="G" value="3588,17,">de</wi>
 <wi type="G" value="5547,18,">Cristo</wi>.</t>
 </sv></cm><cm>
+
 <sv id="2_Tesalonicenses-3-6">
 Now we command you, brothers, in the name of our Lord Jesus Christ, that
 you withdraw yourselves from every brother who walks in rebellion, and
@@ -895,25 +874,18 @@ que <wi type="G" value="5209,13,">se</wi>
 <wi type="G" value="80,16,">hermano</wi>
 <wi type="G" value="4043,18,">que camine</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="814,17,">fuera de orden</wi><rf>
-<citebib id="WEB"/> dice `en rebelión,´
-<citebib id="KJV2003"/> dice `desordenamente,´
-<citebib id="RVG2012"/> dice `fuera de orden.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `ατακτως´ se traduce
-como desordenadamente, desviado del orden prescrito.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="814,17,">fuera de orden</wi><rf><citebib id="WEB"/> dice `en rebelión,´ <citebib id="KJV2003"/> dice `desordenamente,´ <citebib id="RVG2012"/> dice `fuera de orden.´
+Según <citebib
+id="Thayer-BLB"/> la palabra griega `ατακτως´ se traduce como desordenadamente,
+desviado del orden prescrito.</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="3361,20,">no</wi>
 <wi type="G" value="2596,21,">conforme a</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,22,">la</wi>
-<wi type="G" value="3862,23,">doctrina</wi><rf>
-<citebib id="WEB"/> dice `tradición,´
-<citebib id="RVG2012"/> dice `doctrina.´
-Según <citebib id="Thayer-BLB"/> la palabra griega
+<wi type="G" value="3862,23,">doctrina</wi><rf><citebib id="WEB"/> dice `tradición,´ <citebib id="RVG2012"/> dice `doctrina.´ Según <citebib id="Thayer-BLB"/> la palabra griega
 `παράδοσις´ se traduce como tradición, ordenanza. Lo que se transmite
-verbalmente o por escrito.
-</rf></rb>
+verbalmente o por escrito.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3739,24,">que</wi>
 <wi type="G" value="3880,25,">recibió</wi>
@@ -1053,6 +1025,7 @@ bread.
 </cm>
 
 <cm>
+
 <sv id="2_Tesalonicenses-3-13">
 But you, brothers, don´t be weary in doing well.
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
@@ -1102,6 +1075,7 @@ an enemy, but admonish him as a brother.
 </sv></cm>
 
 <cm>
+
 <sv id="2_Tesalonicenses-3-16">
 Now may the Lord of peace himself give you peace at all times in all
 ways. The Lord be with you all.
@@ -1125,6 +1099,7 @@ ways. The Lord be with you all.
 </t>
 
 </sv></cm><cm>
+
 <sv id="2_Tesalonicenses-3-17">
 The greeting of me, Paul, with my own hand, which is the sign in every
 letter: this is how I write.
@@ -1156,10 +1131,8 @@ you all. Amen.
 <wi type="G" value="3956,9,">todos</wi>
 <wi type="G" value="5216,10,">ustedes</wi>.
 <wi type="G" value="281,11,">Amén</wi></t>
-<rb xml:lang="es">.<rf>
-<citebib id="KJV2003"/> agrega con marcado Strong el
-siguiente colofón:
-`La segunda epístola a los Tesalonicenses fue escrita en Atenas.´</rf></rb>
+<rb xml:lang="es">.<rf><citebib id="KJV2003"/> agrega con marcado Strong el siguiente colofón: `La segunda epístola a los
+Tesalonicenses fue escrita en Atenas.´</rf></rb>
 
 <cl/>
 

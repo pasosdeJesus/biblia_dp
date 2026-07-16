@@ -4,6 +4,7 @@
 <tt>Paul´s Letter to Philemon<t xml:lang="es">Carta de Pablo a Filemón</t></tt>
 <sc id="Filemon-1">
 <cm>
+
 <sv id="Filemon-1-1">
 Paul, a prisoner of Christ Jesus, and Timothy our brother, to
 Philemon, our beloved fellow worker,
@@ -60,6 +61,7 @@ to you and peace from God our Father and the Lord Jesus Christ.
 </t>
 
 </sv></cm><cm>
+
 <sv id="Filemon-1-4">
 I thank my God always, making mention of you in my prayers,
 <t xml:lang="es"><wi type="G" value="2168,1,">Le agradezco a</wi>
@@ -144,6 +146,7 @@ of the saints have been refreshed through you, brother.
 <wi type="G" value="80,19,">hermano</wi>.
 </t>
 </sv></cm><cm>
+
 <sv id="Filemon-1-8">
 Therefore, though I have all boldness in Christ to command you that
 which is appropriate,
@@ -194,9 +197,7 @@ my child, whom I have become the father of in my chains,
 <wi type="G" value="3588,10,"/><wi type="G" value="1199,11,">cadenas</wi>,
 </t>
 <rb>Onesimus,
-<t xml:lang="es"><wi type="G" value="3682,13,">Onésimo</wi></t><rf>
-Onesimus means «useful.»
-<t xml:lang="es">Onésimo significa `util.´</t></rf>
+<t xml:lang="es"><wi type="G" value="3682,13,">Onésimo</wi></t><rf>Onesimus means «useful.» <t xml:lang="es">Onésimo significa `util.´</t></rf>
 </rb>
 
 </sv>
@@ -289,11 +290,9 @@ de ti
 <wi type="G" value="5610,7,">un tiempo</wi>,
 <wi type="G" value="2443,8,">para que</wi>
 <wi type="G" value="846,10,">lo</wi> </t>
-<rb xml:lang="es"><wi type="G" value="568,11,">recibieras</wi><rf>
-<citebib id="WEB"/> dice `tuvieras,´
-<citebib id="RVG2012"/>  y <citebib id="KJV2003"/> dicen
-`recibieras.´  La palabra griega `απεχης´ se puede
-traducir de ambas maneras.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="568,11,">recibieras</wi><rf><citebib id="WEB"/> dice `tuvieras,´ <citebib id="RVG2012"/> y <citebib
+id="KJV2003"/> dicen `recibieras.´ La palabra griega `απεχης´
+se puede traducir de ambas maneras.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="166,9,">por siempre</wi>,
 </t>
@@ -327,6 +326,7 @@ in the Lord.
 </sv></cm>
 
 <cm>
+
 <sv id="Filemon-1-17">
 If then you count me a partner, receive him as you would receive me.
 <t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
@@ -390,13 +390,9 @@ que <wi type="G" value="1473,3,">me</wi>
 <wi type="G" value="373,8,">Refresca</wi>
 <wi type="G" value="3450,9,">mis</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="3588,10,"/><wi type="G" value="4698,11,">entrañas</wi><rf>
-<citebib id="WEB"/> dice `corazón,´
-<citebib id="KJV2003"/> y <citebib id="RVG2012"/>
-dicen `entrañas.´  Según <citebib id="Thayer-BLB"/>
-la palabra griega `σπλαγχνα´ se traduce
-como entrañas, intestinos (corazón, pulmones, higado).
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="3588,10,"/><wi type="G" value="4698,11,">entrañas</wi><rf><citebib id="WEB"/> dice `corazón,´ <citebib id="KJV2003"/> y <citebib
+id="RVG2012"/> dicen `entrañas.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+`σπλαγχνα´ se traduce como entrañas, intestinos (corazón, pulmones, higado).</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="2962,13,">el Señor</wi>.
@@ -423,6 +419,7 @@ will do even beyond what I say.
 </sv></cm>
 
 <cm>
+
 <sv id="Filemon-1-22">
 Also, prepare a guest room for me, for I hope that through your prayers
 I will be restored to you.
@@ -442,6 +439,7 @@ I will be restored to you.
 </sv></cm>
 
 <cm>
+
 <sv id="Filemon-1-23">
 Epaphras, my fellow prisoner in Christ Jesus, greets you,
 <t xml:lang="es"><wi type="G" value="4571,2,">Te</wi>
@@ -477,9 +475,8 @@ Lord Jesus Christ be with your spirit. Amen.
 <wi type="G" value="5216,11,">su</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="4151,10,">espíritu</wi>.
 <wi type="G" value="281,12,">Amén</wi>.</t>
-<rb xml:lang="es"><rf>
-<citebib id="KJV2003"/> tiene el siguiente colofón
-con marcado Strong: Escrito desde Roma a Filemón, por Onésimo, un siervo.</rf></rb>
+<rb xml:lang="es"><rf><citebib id="KJV2003"/> tiene el siguiente colofón con marcado Strong: Escrito desde Roma a
+Filemón, por Onésimo, un siervo.</rf></rb>
 <cl/>
 <cl/>
 </sv></cm></sc>

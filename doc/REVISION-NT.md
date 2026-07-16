@@ -471,13 +471,14 @@ funciona como pronombre demostrativo ante el participio.*
 
 **Ejemplo donde NO aplica** (el demostrativo viene de otro Strong, no de G3588):
 ```xml
-<!-- CORRECTO así: "aquel" es G1565 (ἐκεῖνος), no G3588 -->
-<wi type="G" value="3588,4,"/><wi type="G" value="1565,5,">aquel siervo</wi>
+<!-- CORRECTO así: "este" viene de G5127 (τούτου), no de G3588 -->
+<wi type="G" value="5127,7,">de este</wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="165,6,">mundo</wi>
 ```
-*El griego subyacente sería ὁ δοῦλος ἐκεῖνος — «el siervo aquel».
-G1565 (ἐκεῖνος) es el demostrativo «aquel»; G3588 (ὁ) es el artículo
-determinativo ordinario. Aunque el `<wi>` junto a G3588 comience con
-«aquel», ese demostrativo pertenece a G1565, no a G3588.*
+*1 Corintios 2:8 — τοῦ αἰῶνος τούτου = «de este mundo». G5127 (τούτου)
+es el demostrativo «este»; G3588 (τοῦ) es el artículo determinativo
+ordinario. El demostrativo está **antes** de G3588 en el orden griego,
+por lo que el script no lo marca y es correcto no moverlo.*
 
 **Criterios para decidir:**
 - El contexto requiere un pronombre («el que», «aquel que», «los que») →

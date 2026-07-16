@@ -6,6 +6,7 @@
 </tt>
 <sc id="Tito-1">
 <cm>
+
 <sv id="Tito-1-1">
 Paul, a servant of God, and an apostle of Jesus Christ, according
 to the faith of God´s chosen ones, and the knowledge of the truth which is
@@ -97,6 +98,7 @@ Savior.
 </sv></cm>
 
 <cm>
+
 <sv id="Tito-1-5">
 I left you in Crete for this reason, that you would set in order the
 things that were lacking, and appoint elders in every city, as I directed
@@ -135,12 +137,9 @@ who believe, who are not accused of loose or unruly behavior.
 <wi type="G" value="1135,6,">mujer</wi>,
 <wi type="G" value="2192,9,">teniendo</wi>
 <wi type="G" value="5043,8,">hijos</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4103,10,">fieles</wi><rf>
-<citebib id="WEB"/> dice `que creen,´
-<citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen
-`fieles.´ 
-Según <citebib id="Thayer-BLB"/> la palabra griega `πιστός´ puede
-traducirse como fiel, confiable, creyente. </rf></rb>
+<rb xml:lang="es"><wi type="G" value="4103,10,">fieles</wi><rf><citebib id="WEB"/> dice `que creen,´ <citebib id="KJV2003"/> y <citebib
+id="RVG2012"/> dicen `fieles.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+`πιστός´ puede traducirse como fiel, confiable, creyente.</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="3361,11,">que no</wi> estén
 <wi type="G" value="1722,12,">en</wi>
@@ -173,13 +172,9 @@ angered, not given to wine, not violent, not greedy for dishonest gain;
 <wi type="G" value="4131,17,">la violencia</wi>,
 <wi type="G" value="3361,18,">ni</wi> a
 </t>
-<rb xml:lang="es"><wi type="G" value="146,19,">codicioso de ganancias</wi><rf>
-<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen
-`codicioso de ganancias deshonestas,´
-<citebib id="RVG2012"/> dice `codicioso de torpes ganancias.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `αισχροκερδη´
-se traduce como ansioso de ganancias (codicioso de ganancia deshonesta).
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="146,19,">codicioso de ganancias</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `codicioso de ganancias deshonestas,´ <citebib id="RVG2012"/> dice `codicioso de
+torpes ganancias.´ Según <citebib id="Thayer-BLB"/> la palabra griega `αισχροκερδη´ se traduce como
+ansioso de ganancias (codicioso de ganancia deshonesta).</rf></rb>
 <t xml:lang="es">;</t>
 </sv>
 
@@ -273,13 +268,8 @@ their own, said, «Cretans are always liars, evil beasts, and idle gluttons.»
 <wi type="G" value="5583,10,">mentirosos</wi>,
 <wi type="G" value="2342,12,">bestias</wi>
 <wi type="G" value="2556,11,">malas</wi> y </t>
-<rb xml:lang="es"><wi type="G" value="1064,13,">vientres</wi><rf>
-<citebib id="WEB"/> dice `glotones`,
-<citebib id="KJV2003"/> dice `estómagos,´
-<citebib id="RVG2012"/> dice `vientres.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `γαστερες´ se traduce
-como embarazada, útero y vientre.
- </rf></rb>
+<rb xml:lang="es"><wi type="G" value="1064,13,">vientres</wi><rf><citebib id="WEB"/> dice `glotones`, <citebib id="KJV2003"/> dice `estómagos,´ <citebib id="RVG2012"/> dice `vientres.´ Según <citebib id="Thayer-BLB"/> la
+palabra griega `γαστερες´ se traduce como embarazada, útero y vientre.</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="692,14,">ociosos</wi>.»
 </t>
@@ -373,6 +363,7 @@ abominable, disobedient, and unfit for any good work.
 </sv></cm></sc>
 <sc id="Tito-2">
 <cm>
+
 <sv id="Tito-2-1">
 But say the things which fit sound doctrine,
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
@@ -475,12 +466,8 @@ integrity, seriousness, incorruptibility,
 <wi type="G" value="3588,9,">una</wi>
 <wi type="G" value="1319,10,">enseñanza</wi>
 con </t>
-<rb xml:lang="es"><wi type="G" value="90,11,">integridad</wi><rf>
-<citebib id="WEB"/> dice `integridad,´
-<citebib id="KJV2003"/> dice `incorruptible.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `αδιαφθοριαν´ se traduce
-como incorruptibilidad, consistencia, integridad.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="90,11,">integridad</wi><rf><citebib id="WEB"/> dice `integridad,´ <citebib id="KJV2003"/> dice `incorruptible.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+`αδιαφθοριαν´ se traduce como incorruptibilidad, consistencia, integridad.</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="4587,12,">seriedad</wi>,
 <wi type="G" value="861,13,">incorruptible</wi>, </t>
@@ -579,7 +566,7 @@ and godly in this present world;
 <wi type="G" value="1722,17,">en</wi>
 <wi type="G" value="165,20,">el mundo</wi>
 <wi type="G" value="3588,18,"/><wi type="G" value="3568,19,">presente</wi>;
- </t>
+</t>
 </sv>
 
 <sv id="Tito-2-13">
@@ -651,6 +638,7 @@ Que <wi type="G" value="3367,10,">nadie</wi>
 </sv></cm></sc>
 <sc id="Tito-3">
 <cm>
+
 <sv id="Tito-3-1">
 Remind them to be in subjection to rulers and to authorities, to be
 obedient, to be ready for every good work,
@@ -863,14 +851,10 @@ self-condemned.
 <wi type="G" value="3588,4,">el</wi>
 <wi type="G" value="5108,5,">tal</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="1612,3,">se ha corrompido</wi><rf>
-<citebib id="WEB"/> dice `pervertido,´
-<citebib id="KJV2003"/> dice `subvertido,´
-<citebib id="RVG2012"/> dice `trastornado.´
-Según <citebib id="TR-BLB"/> la palabra griega `εξεστραπται´
-se traduce como voltear o romper, cambiar para empeorar, pervetir,
-corromper.
-</rf></rb>
+<rb xml:lang="es"><wi type="G" value="1612,3,">se ha corrompido</wi><rf><citebib id="WEB"/> dice `pervertido,´ <citebib id="KJV2003"/> dice `subvertido,´ <citebib id="RVG2012"/> dice `trastornado.´ Según
+<citebib
+id="TR-BLB"/> la palabra griega `εξεστραπται´ se traduce como voltear o romper, cambiar
+para empeorar, pervetir, corromper.</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="264,7,">pecando</wi>
@@ -878,6 +862,7 @@ corromper.
 <wi type="G" value="843,9,">auto condena</wi>.</t>
 
 </sv></cm><cm>
+
 <sv id="Tito-3-12">
 When I send Artemas to you, or Tychicus, be diligent to come to me to
 Nicopolis, for I have determined to winter there.
@@ -939,6 +924,7 @@ necessary uses, that they may not be unfruitful.
 <wi type="G" value="175,16,">improductivos</wi>.
 </t>
 </sv></cm><cm>
+
 <sv id="Tito-3-15">
 All who are with me greet you. Greet those who love us in faith. Grace
 be with you all. Amen.
@@ -959,13 +945,9 @@ be with you all. Amen.
 <wi type="G" value="3956,16,">todos</wi>
 <wi type="G" value="5216,17,">ustedes</wi>.
 <wi type="G" value="281,18,">Amén</wi>.</t>
-<rb xml:lang="es"><rf>
-<citebib id="KJV2003"/> agrega
-el siguiente colofón con marcado strong:
-Fue escrito para Tito ordenado como primer
-obispo de la iglesia de los Cretences, desde
-Nicopolis de Macedonia.
- </rf></rb>
+<rb xml:lang="es"><rf><citebib id="KJV2003"/> agrega el siguiente colofón con marcado strong: Fue escrito para Tito
+ordenado como primer obispo de la iglesia de los Cretences, desde Nicopolis de
+Macedonia.</rf></rb>
 
 <cl/>
 
