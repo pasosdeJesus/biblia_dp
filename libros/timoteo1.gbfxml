@@ -5,13 +5,10 @@ No es traducción oficial. Sin garantías.
 Puede ayudar a mejorar esta traducción en:
 http://groups.yahoo.com/group/evangelios-dp -->
 
-
 <!-- Se incluye versión en inglés a partir de la cual
 se inició la traducción. http://www.ebible.org,
 así como la versión en griego TR (tomada de KJV2003, http://www.crosswire.org)
 con la cual se ha comparado -->
-
-
 
 <sb id="1_Timoteo" type="" xml:lang="">
 <tt>Paul´s First Letter to Timothy
@@ -35,7 +32,7 @@ God our Savior, and Christ Jesus our hope;
 <wi type="G" value="2424,12,">Jesús</wi>
 <wi type="G" value="5547,13,">Cristo</wi>
 <wi type="G" value="2257,16,">nuestra</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="1680,15,">esperanza</wi></wi>; </t>
+<wi type="G" value="3588,14,"/><wi type="G" value="1680,15,">esperanza</wi>; </t>
 </sv>
 
 <sv id="1_Timoteo-1-2">
@@ -58,9 +55,8 @@ Lord.
 <wi type="G" value="2424,14,">de Jesús</wi>
 <wi type="G" value="5547,15,">Cristo</wi>
 <wi type="G" value="2257,18,">nuestro</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="2962,17,">Señor</wi></wi>. </t>
+<wi type="G" value="3588,16,"/><wi type="G" value="2962,17,">Señor</wi>. </t>
 </sv></cm><cm>
-
 <sv id="1_Timoteo-1-3">
 As I exhorted you to stay at Ephesus when I was going into Macedonia,
 that you might charge certain men not to teach a different doctrine,
@@ -107,7 +103,8 @@ of the charge is love, out of a pure heart and a good conscience and
 unfeigned faith;
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">pues</wi>
 <wi type="G" value="5056,3,">el fin</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="3852,5,">de los mandamientos</wi></wi>
+<wi type="G" value="3588,4,">de los</wi>
+<wi type="G" value="3852,5,">mandamientos</wi>
 <wi type="G" value="2076,6,">es</wi>
 <wi type="G" value="26,7,">el amor</wi>,
 <wi type="G" value="1537,8,">desde</wi>
@@ -155,7 +152,8 @@ But we know that the law is good, if a man uses it lawfully,
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="1492,1,">sabemos</wi>
 <wi type="G" value="3754,3,">que</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="3551,6,">la ley</wi></wi> es
+<wi type="G" value="3588,5,">la</wi>
+<wi type="G" value="3551,6,">ley</wi> es
 <wi type="G" value="2570,4,">buena</wi>,
 <wi type="G" value="1437,7,">si</wi>
 <wi type="G" value="5100,8,">alguno</wi>
@@ -205,7 +203,8 @@ para <wi type="G" value="1965,5,">los que perjuran</wi>,
 <wi type="G" value="5100,8,">cualquier</wi>
 <wi type="G" value="2087,9,">otra cosa</wi>
 <wi type="G" value="480,13,">contraria a</wi>
-<wi type="G" value="3588,10,"/><wi type="G" value="5198,11,">la sana</wi>
+<wi type="G" value="3588,10,">la</wi>
+<wi type="G" value="5198,11,">sana</wi>
 <wi type="G" value="1319,12,">doctrina</wi>;
 </t>
 
@@ -215,9 +214,11 @@ para <wi type="G" value="1965,5,">los que perjuran</wi>,
 according to the Good News of the glory of the blessed God, which was
 committed to my trust.
 <t xml:lang="es"><wi type="G" value="2596,1,">de acuerdo</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="1391,5,">al glorioso</wi></wi>
-<wi type="G" value="3588,2,"><wi type="G" value="2098,3,">Evangelio</wi></wi>
-<wi type="G" value="3588,6,"/><wi type="G" value="3107,7,">del bendito</wi>
+<wi type="G" value="3588,4,">al</wi>
+<wi type="G" value="1391,5,">glorioso</wi>
+<wi type="G" value="3588,2,"/><wi type="G" value="2098,3,">Evangelio</wi>
+<wi type="G" value="3588,6,">del</wi>
+<wi type="G" value="3107,7,">bendito</wi>
 <wi type="G" value="2316,8,">Dios</wi>,
 <wi type="G" value="3739,9,">que</wi>
 <wi type="G" value="1473,11,">me</wi>
@@ -231,11 +232,11 @@ Lord, because he counted me faithful, appointing me to service;
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="5485,2,"><wi type="G" value="2192,3,">agradezco</wi></wi>
 al que <wi type="G" value="3165,6,">me</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="1743,5,">habilitó</wi></wi>,
+<wi type="G" value="3588,4,"/><wi type="G" value="1743,5,">habilitó</wi>,
 <wi type="G" value="5547,7,">Cristo</wi>
 <wi type="G" value="2424,8,">Jesús</wi>
 <wi type="G" value="2257,11,">nuestro</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="2962,10,">Señor</wi></wi>,
+<wi type="G" value="3588,9,"/><wi type="G" value="2962,10,">Señor</wi>,
 <wi type="G" value="3754,12,">porque</wi>
 <wi type="G" value="3165,14,">me</wi>
 <wi type="G" value="2233,15,">contó</wi>
@@ -271,9 +272,10 @@ The
 grace of our Lord abounded exceedingly with faith and love which is in Christ
 Jesus.
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="5485,4,">la gracia</wi></wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="5485,4,">gracia</wi>
 <wi type="G" value="2257,7,">de nuestro</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2962,6,">Señor</wi></wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="2962,6,">Señor</wi>
 <wi type="G" value="5250,1,">abundó en exceso</wi>
 <wi type="G" value="3326,8,">con</wi>
 <wi type="G" value="4102,9,">fe</wi>
@@ -300,7 +302,7 @@ es <wi type="G" value="3056,3,">palabra</wi>
 <wi type="G" value="2424,10,">Jesús</wi>
 <wi type="G" value="2064,11,">vino</wi>
 <wi type="G" value="1519,12,">al</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="2889,14,">mundo</wi></wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="2889,14,">mundo</wi>
 <wi type="G" value="4982,16,">a salvar a</wi>
 <wi type="G" value="268,15,">los pecadores</wi>;
 <wi type="G" value="3739,17,">de los cuales</wi>
@@ -344,7 +346,7 @@ Now to the King eternal, immortal, invisible, to God
 who alone is wise, be honor and glory forever and ever. Amen.
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi> para
 <wi type="G" value="935,3,">el Rey</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="165,5,">eterno</wi></wi>,
+<wi type="G" value="3588,4,"/><wi type="G" value="165,5,">eterno</wi>,
 <wi type="G" value="862,6,">inmortal</wi>,
 <wi type="G" value="517,7,">invisible</wi>,
 <wi type="G" value="3441,8,">al solo</wi>
@@ -355,19 +357,18 @@ sea
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="1391,13,">la gloria</wi>
 <wi type="G" value="1519,14,">por</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="165,16,">siempre</wi></wi> y
-<wi type="G" value="3588,17,"><wi type="G" value="165,18,">siempre</wi></wi>.
+<wi type="G" value="3588,15,"/><wi type="G" value="165,16,">siempre</wi> y
+<wi type="G" value="3588,17,"/><wi type="G" value="165,18,">siempre</wi>.
 <wi type="G" value="281,19,">Amen</wi>.
 </t>
 
 </sv></cm><cm>
-
 <sv id="1_Timoteo-1-18">
 This charge I commit to you, my child Timothy, according to the
 prophecies which led the way to you, that by them you may wage the good
 warfare;
 <t xml:lang="es"><wi type="G" value="3778,1,">Esta</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,2,"><wi type="G" value="3852,3,">orden</wi></wi><rf>
+<rb xml:lang="es"><wi type="G" value="3588,2,"/><wi type="G" value="3852,3,">orden</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `carga,´
 <citebib id="RV1960"/> dice `mandamiento.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `παραγγελιαν´
@@ -404,7 +405,7 @@ away made a shipwreck concerning the faith;
 <wi type="G" value="683,8,">al abandonarla</wi>
 <wi type="G" value="3489,12,">hicieron naufragio</wi>
 <wi type="G" value="4012,9,">de</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="4102,11,">fe</wi></wi>:
+<wi type="G" value="3588,10,"/><wi type="G" value="4102,11,">fe</wi>:
 </t>
 </sv>
 
@@ -419,7 +420,7 @@ blaspheme.
 <wi type="G" value="223,5,">Alejandro</wi>;
 <wi type="G" value="3739,6,">a quienes</wi>
 <wi type="G" value="3860,7,">entregué a</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="4567,9,">Satanás</wi></wi>,
+<wi type="G" value="3588,8,"/><wi type="G" value="4567,9,">Satanás</wi>,
 <wi type="G" value="2443,10,">para que</wi>
 <wi type="G" value="3811,11,">aprendan a</wi>
 <wi type="G" value="3361,12,">no</wi>
@@ -488,7 +489,7 @@ God our Savior;
 <wi type="G" value="1799,6,">a la vista</wi>
 <wi type="G" value="2316,10,">de Dios</wi>
 <wi type="G" value="2257,9,">nuestro</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="4990,8,">Salvador</wi></wi>;</t>
+<wi type="G" value="3588,7,"/><wi type="G" value="4990,8,">Salvador</wi>;</t>
 </sv>
 
 <sv id="1_Timoteo-2-4">
@@ -533,7 +534,8 @@ the testimony in its own times;
 <wi type="G" value="487,4,">rescate</wi>
 <wi type="G" value="5228,5,">por</wi>
 <wi type="G" value="3956,6,">todos</wi>;
-<wi type="G" value="3588,7,"><wi type="G" value="3142,8,">un testimonio</wi></wi>
+<wi type="G" value="3588,7,">un</wi>
+<wi type="G" value="3142,8,">testimonio</wi>
 <wi type="G" value="2540,9,">en tiempo</wi>
 <wi type="G" value="2398,10,">apropiado</wi>;
 </t>
@@ -571,7 +573,8 @@ hands without wrath and doubting.
 <t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
 <wi type="G" value="1014,1,">deseo</wi> que
 <wi type="G" value="4336,3,">oren</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="435,5,">los hombres</wi></wi>
+<wi type="G" value="3588,4,">los</wi>
+<wi type="G" value="435,5,">hombres</wi>
 <wi type="G" value="1722,6,">en</wi>
 <wi type="G" value="3956,7,">todo</wi>
 <wi type="G" value="5117,8,">lugar</wi>,
@@ -710,7 +713,7 @@ sobriety.
 <t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
 <wi type="G" value="4982,1,">se salvará</wi>
 <wi type="G" value="1223,3,">al</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="5042,5,">tener hijos</wi></wi>,
+<wi type="G" value="3588,4,"/><wi type="G" value="5042,5,">tener hijos</wi>,
 <wi type="G" value="1437,6,">si</wi>
 <wi type="G" value="3306,7,">continúan</wi>
 <wi type="G" value="1722,8,">en</wi>
@@ -737,7 +740,8 @@ This is a faithful saying: if a man seeks the office of an
 <wi type="G" value="5100,5,">un hombre</wi>
 <wi type="G" value="3713,7,">desea</wi> </t>
 <rb>overseer<t xml:lang="es"><wi type="G" value="1984,6,">el oficio de
-obispo</wi></t><rf>Or, bishop<t xml:lang="es"><citebib id="WEB"/> dice
+obispo</wi></t><rf>
+Or, bishop<t xml:lang="es"><citebib id="WEB"/> dice
 `supervisor,´ con nota al pie de página `U obispo,´
 <citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen `obispo.´
 </t></rf>
@@ -754,7 +758,8 @@ obispo</wi></t><rf>Or, bishop<t xml:lang="es"><citebib id="WEB"/> dice
 The overseer
 therefore must be without reproach, the husband of one wife, temperate,
 sensible, modest, hospitable, good at teaching;
-<t xml:lang="es"><wi type="G" value="3588,3,"><wi type="G" value="1985,4,">El obispo</wi></wi>,
+<t xml:lang="es"><wi type="G" value="3588,3,">El</wi>
+<wi type="G" value="1985,4,">obispo</wi>,
 <wi type="G" value="3767,2,">entonces</wi>,
 <wi type="G" value="1163,1,">debe</wi>
 <wi type="G" value="1511,6,">ser</wi>
@@ -860,7 +865,8 @@ puffed up he fall into the same condemnation as the devil.
 <wi type="G" value="1706,8,">caiga</wi>
 <wi type="G" value="1519,6,">en</wi>
 <wi type="G" value="2917,7,">la condenación</wi>
-<wi type="G" value="3588,9,"/><wi type="G" value="1228,10,">del diablo</wi>.
+<wi type="G" value="3588,9,">del</wi>
+<wi type="G" value="1228,10,">diablo</wi>.
 </t>
 </sv>
 
@@ -883,15 +889,16 @@ reproach and the snare of the devil.
 <wi type="G" value="3680,14,">reproche</wi>
 <wi type="G" value="2532,16,">y</wi> en
 <wi type="G" value="3803,17,">la trampa</wi>
-<wi type="G" value="3588,18,"><wi type="G" value="1228,19,">del diablo</wi></wi>.
+<wi type="G" value="3588,18,">del</wi>
+<wi type="G" value="1228,19,">diablo</wi>.
 </t>
 
 </sv></cm><cm>
-
 <sv id="1_Timoteo-3-8">
 
 <rb>Deacons
-<t xml:lang="es"><wi type="G" value="1249,1,">Los</wi> diáconos</t><rf>The word for «deacons» literally means
+<t xml:lang="es"><wi type="G" value="1249,1,">Los</wi> diáconos</t><rf>
+The word for «deacons» literally means
 «servants.»<t xml:lang="es">La palabra griega «διακονους»
 literalmente significa «servidores».</t></rf>
 </rb>
@@ -916,8 +923,10 @@ a <wi type="G" value="4183,8,">mucho</wi>
 <sv id="1_Timoteo-3-9">
 holding the mystery of the faith in a pure conscience.
 <t xml:lang="es"><wi type="G" value="2192,1,">que mantengan</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="3466,3,">el misterio</wi></wi>
-<wi type="G" value="3588,4,"><wi type="G" value="4102,5,">de la fe</wi></wi>
+<wi type="G" value="3588,2,">el</wi>
+<wi type="G" value="3466,3,">misterio</wi>
+<wi type="G" value="3588,4,">de la</wi>
+<wi type="G" value="4102,5,">fe</wi>
 <wi type="G" value="1722,6,">en</wi>
 <wi type="G" value="4893,8,">una conciencia</wi>
 <wi type="G" value="2513,7,">pura</wi>.</t>
@@ -999,7 +1008,6 @@ se traduce como franco, libre de temor, confianza sin temor.
 <wi type="G" value="2424,17,">Jesús</wi>.
 </t>
 </sv></cm><cm>
-
 <sv id="1_Timoteo-3-14">
 These things I write to you, hoping to come to you shortly;
 <t xml:lang="es"><wi type="G" value="5023,1,">Estas cosas</wi>
@@ -1037,7 +1045,8 @@ of the truth.
 <wi type="G" value="4769,17,">el pilar</wi>
 <wi type="G" value="2532,18,">y</wi>
 <wi type="G" value="1477,19,">la base</wi>
-<wi type="G" value="3588,20,"><wi type="G" value="225,21,">de la verdad</wi></wi>.</t>
+<wi type="G" value="3588,20,">de la</wi>
+<wi type="G" value="225,21,">verdad</wi>.</t>
 </sv>
 
 <sv id="1_Timoteo-3-16">
@@ -1048,7 +1057,9 @@ great:
 <wi type="G" value="3173,3,">grande</wi>
 <wi type="G" value="2076,4,">es</wi>
 <wi type="G" value="3466,8,">el misterio</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="3588,6,"><wi type="G" value="2150,7,">de la piedad</wi></wi>:
+<wi type="G" value="3588,5,">de</wi>
+<wi type="G" value="3588,6,">la</wi>
+<wi type="G" value="2150,7,">piedad</wi>:
 </t>
 
 <cl/><fp>
@@ -1084,9 +1095,7 @@ And received up in glory.
 <wi type="G" value="1391,26,">gloria</wi>.</t>
 </fp>
 
-
 <cl/>
-
 
 </sv></cm></sc>
 <sc id="1_Timoteo-4">
@@ -1105,7 +1114,8 @@ demons,
 <wi type="G" value="2540,9,">tiempos</wi>
 <wi type="G" value="5100,11,">algunos</wi>
 <wi type="G" value="868,10,">se apartarán</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="4102,13,">de la fe</wi></wi>,
+<wi type="G" value="3588,12,">de la</wi>
+<wi type="G" value="4102,13,">fe</wi>,
 <wi type="G" value="4337,14,">prestando atención</wi>
 <wi type="G" value="4151,15,">a espíritus</wi>
 <wi type="G" value="4108,16,">seductores</wi>
@@ -1135,7 +1145,7 @@ those who believe and know the truth.
 <wi type="G" value="567,3,">abstenerse de</wi>
 <wi type="G" value="1033,4,">comidas</wi>
 <wi type="G" value="3739,5,">que</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="2316,7,">Dios</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="2316,7,">Dios</wi>
 <wi type="G" value="2936,8,">creó</wi>
 <wi type="G" value="1519,9,">para</wi>
 <wi type="G" value="3336,10,">ser recibidas</wi>
@@ -1145,7 +1155,8 @@ those who believe and know the truth.
 <wi type="G" value="4103,14,">creen</wi>
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="1921,16,">conocen</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="225,18,">la verdad</wi></wi>.</t>
+<wi type="G" value="3588,17,">la</wi>
+<wi type="G" value="225,18,">verdad</wi>.</t>
 </sv>
 
 <sv id="1_Timoteo-4-4">
@@ -1183,7 +1194,8 @@ brothers of these things, you will be a good servant of Christ Jesus,
 nourished in the words of the faith, and of the good doctrine which you have
 followed.
 <t xml:lang="es"><wi type="G" value="5294,2,">Instruyendo a</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="80,4,">los hermanos</wi></wi>
+<wi type="G" value="3588,3,">los</wi>
+<wi type="G" value="80,4,">hermanos</wi>
 <wi type="G" value="5023,1,">en estas cosas</wi>,
 <wi type="G" value="2071,6,">serás</wi>
 <wi type="G" value="2570,5,">un buen</wi>
@@ -1191,10 +1203,13 @@ followed.
 <wi type="G" value="5547,9,">de Cristo</wi>
 <wi type="G" value="2424,8,">Jesús</wi>,
 <wi type="G" value="1789,10,">alimentado en</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="3056,12,">las palabras</wi></wi>
-<wi type="G" value="3588,13,"><wi type="G" value="4102,14,">de la fe</wi></wi>,
+<wi type="G" value="3588,11,">las</wi>
+<wi type="G" value="3056,12,">palabras</wi>
+<wi type="G" value="3588,13,">de la</wi>
+<wi type="G" value="4102,14,">fe</wi>,
 <wi type="G" value="2532,15,">y</wi>
-<wi type="G" value="3588,16,"/><wi type="G" value="2570,17,">de la buena</wi>
+<wi type="G" value="3588,16,">de la</wi>
+<wi type="G" value="2570,17,">buena</wi>
 <wi type="G" value="1319,18,">doctrina</wi>
 <wi type="G" value="3739,19,">que</wi>
 <wi type="G" value="3877,20,">has seguido</wi>.
@@ -1223,12 +1238,13 @@ value for all things, having the promise of the life which is now, and of
 that which is to come.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="1129,4,">el ejercicio</wi>
-<wi type="G" value="3588,1,"><wi type="G" value="4984,3,">corporal</wi></wi>
+<wi type="G" value="3588,1,"/><wi type="G" value="4984,3,">corporal</wi>
 <wi type="G" value="2076,7,">tiene</wi>
 <wi type="G" value="4314,5,"/><wi type="G" value="3641,6,">un poco</wi>
 <wi type="G" value="5624,8,">de valor</wi>,
 <wi type="G" value="1161,10,">pero</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="2150,11,">la piedad</wi></wi>
+<wi type="G" value="3588,9,">la</wi>
+<wi type="G" value="2150,11,">piedad</wi>
 <wi type="G" value="2076,15,">es</wi>
 <wi type="G" value="5624,14,">de provecho</wi>
 <wi type="G" value="4314,12,">para</wi>
@@ -1291,7 +1307,6 @@ Command and teach these things.
 </t>
 
 </sv></cm><cm>
-
 <sv id="1_Timoteo-4-12">
 Let no man despise your youth; but be an example to those who believe,
 in word, in your way of life, in love, in spirit, in faith, and in purity.
@@ -1299,7 +1314,7 @@ in word, in your way of life, in love, in spirit, in faith, and in purity.
 <wi type="G" value="3367,1,">nadie</wi>
 <wi type="GC" value="5">desprecie</wi>
 <wi type="G" value="4675,2,">tu</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="3503,4,">juventud</wi></wi>;
+<wi type="G" value="3588,3,"/><wi type="G" value="3503,4,">juventud</wi>;
 <wi type="G" value="235,6,">más</wi>
 <wi type="G" value="1096,8,">se</wi>
 <wi type="G" value="5179,7,">un ejemplo</wi> para
@@ -1333,9 +1348,12 @@ teaching.
 <t xml:lang="es"><wi type="G" value="2193,1,">Hasta que</wi>
 <wi type="G" value="2064,2,">yo vaya</wi>,
 <wi type="G" value="4337,3,">pon atención en</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="320,5,">la lectura</wi></wi>,
-<wi type="G" value="3588,6,"><wi type="G" value="3874,7,">la exhortación</wi></wi>
-y <wi type="G" value="3588,8,"><wi type="G" value="1319,9,">la enseñanza</wi></wi>.
+<wi type="G" value="3588,4,">la</wi>
+<wi type="G" value="320,5,">lectura</wi>,
+<wi type="G" value="3588,6,">la</wi>
+<wi type="G" value="3874,7,">exhortación</wi>
+y <wi type="G" value="3588,8,">la</wi>
+<wi type="G" value="1319,9,">enseñanza</wi>.
 </t>
 </sv>
 
@@ -1354,9 +1372,11 @@ by prophecy, with the laying on of the hands of the elders.
 <wi type="G" value="4394,11,">profecía</wi>,
 <wi type="G" value="3326,12,">con</wi>
 <wi type="G" value="1936,13,">imposición</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="5495,15,">de manos</wi></wi>
+<wi type="G" value="3588,14,">de</wi>
+<wi type="G" value="5495,15,">manos</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="3588,16,"><wi type="G" value="4244,17,">del presbiterio</wi></wi><rf>
+<rb xml:lang="es"><wi type="G" value="3588,16,">del</wi>
+<wi type="G" value="4244,17,">presbiterio</wi><rf>
 <citebib id="WEB"/> dice `de los ancianos,´ <citebib id="KJV2003"/> y
 <citebib id="RVG2012"/> dicen `del presbiterio.´ La palabra
 griega es `πρεσβυτεριου.´</rf></rb>
@@ -1374,7 +1394,7 @@ revealed to all.
 <wi type="G" value="5125,4,">estas</wi>,
 <wi type="G" value="2443,6,">que</wi>
 <wi type="G" value="4675,7,">tu</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="4297,9,">progreso</wi></wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="4297,9,">progreso</wi>
 <wi type="G" value="5600,11,">pueda</wi>
 <wi type="G" value="5318,10,">ser revelado</wi>
 <wi type="G" value="1722,12,">a</wi>
@@ -1388,7 +1408,8 @@ Continue in these things, for in doing this you will save both yourself and
 those who hear you.
 <t xml:lang="es"><wi type="G" value="1907,1,">Cuídate</wi>
 <wi type="G" value="4572,2,">a ti mismo</wi> <wi type="G" value="2532,3,">y</wi>
-a <wi type="G" value="3588,4,"><wi type="G" value="1319,5,">la enseñanza</wi></wi>.
+a <wi type="G" value="3588,4,">la</wi>
+<wi type="G" value="1319,5,">enseñanza</wi>.
 <wi type="G" value="1961,6,">Continua</wi> en
 <wi type="G" value="846,7,">esta</wi>,
 <wi type="G" value="1063,9,">pues</wi>
@@ -1466,28 +1487,31 @@ their own family, and to repay their parents, for this is
 <wi type="G" value="4412,10,">primero</wi>
 <wi type="G" value="2151,14,">a mostrar piedad</wi>
 <wi type="G" value="2398,12,">con su propia</wi>
-<wi type="G" value="3588,11,"><wi type="G" value="3624,13,">casa</wi></wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="3624,13,">casa</wi>
 <wi type="G" value="2532,15,">y</wi> </t>
-<rb xml:lang="es"><wi type="G" value="287,16,">a recompensar</wi><rf>Ni
+<rb xml:lang="es"><wi type="G" value="287,16,">a recompensar</wi><rf>
+Ni
 <citebib id="WEB"/> ni <citebib id="KJV2003"/> incluyen traducción a la
 palabra griega que aparece en TR: `αμοιβας´ con número strong
 287 que según <citebib id="Thayer-BLB"/> correponde a recompensar.</rf></rb>
 <t xml:lang="es">
 y <wi type="G" value="591,17,">retribuir a</wi>
-<wi type="G" value="3588,18,"><wi type="G" value="4269,19,">los padres</wi></wi>,
+<wi type="G" value="3588,18,">los</wi>
+<wi type="G" value="4269,19,">padres</wi>,
 <wi type="G" value="1063,21,">pues</wi>
 <wi type="G" value="5124,20,">esto</wi>
 <wi type="G" value="2076,22,">es</wi></t>
 <rb>acceptable
 <t xml:lang="es"><wi type="G" value="2570,23,">bueno</wi>
 <wi type="G" value="2532,24,">y</wi>
-<wi type="G" value="587,25,">aceptable</wi></t><rf>TR adds «good
+<wi type="G" value="587,25,">aceptable</wi></t><rf>
+TR adds «good
 and»<t xml:lang="es"></t></rf>
 </rb>
 in the sight of God.
 <t xml:lang="es">
 <wi type="G" value="1799,26,">ante</wi>
-<wi type="G" value="3588,27,"><wi type="G" value="2316,28,">Dios</wi></wi>.</t>
+<wi type="G" value="3588,27,"/><wi type="G" value="2316,28,">Dios</wi>.</t>
 </sv>
 
 <sv id="1_Timoteo-5-5">
@@ -1502,12 +1526,12 @@ night and day.
 <wi type="G" value="3443,6,">desolada</wi>,
 <wi type="G" value="1679,7,">tiene su esperanza</wi>
 <wi type="G" value="1909,8,">en</wi>
-<wi type="G" value="3588,9,"><wi type="G" value="2316,10,">Dios</wi></wi>,
+<wi type="G" value="3588,9,"/><wi type="G" value="2316,10,">Dios</wi>,
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="4357,12,">continúa en</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="1162,14,">suplicas</wi></wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="1162,14,">suplicas</wi>
 <wi type="G" value="2532,15,">y</wi>
-<wi type="G" value="3588,16,"><wi type="G" value="4335,17,">oraciones</wi></wi>
+<wi type="G" value="3588,16,"/><wi type="G" value="4335,17,">oraciones</wi>
 <wi type="G" value="3571,18,">noche</wi>
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="2250,20,">día</wi>.
@@ -1549,7 +1573,8 @@ household, he has denied the faith, and is worse than an unbeliever.
 <wi type="G" value="3588,8,">para los de</wi>
 <wi type="G" value="3609,9,">su propia casa</wi>,
 <wi type="G" value="720,14,">ha negado</wi>
-<wi type="G" value="3588,12,"><wi type="G" value="4102,13,">la fe</wi></wi>,
+<wi type="G" value="3588,12,">la</wi>
+<wi type="G" value="4102,13,">fe</wi>,
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="2076,16,">es</wi>
 <wi type="G" value="5501,18,">peor que</wi>
@@ -1598,7 +1623,6 @@ good work.
 <wi type="G" value="18,19,">buena</wi>
 <wi type="G" value="2041,18,">obra</wi>. </t>
 </sv></cm><cm>
-
 <sv id="1_Timoteo-5-11">
 But refuse younger widows, for when they have grown wanton against
 Christ, they desire to marry;
@@ -1620,7 +1644,8 @@ Según <citebib id="Thayer-BLB"/> la palabra griega `καταστρηνιασω�
 se refiere a sentir impulso del deseo sexual.
 </rf></rb>
 <t xml:lang="es">
-<wi type="G" value="3588,8,"><wi type="G" value="5547,9,">de Cristo</wi></wi>,
+<wi type="G" value="3588,8,">de</wi>
+<wi type="G" value="5547,9,">Cristo</wi>,
 <wi type="G" value="2309,11,">desean</wi>
 <wi type="G" value="1060,10,">casarse</wi>;</t>
 </sv>
@@ -1653,7 +1678,8 @@ saying things which they ought not.
 <wi type="G" value="3129,5,">aprenden</wi> a estar
 <wi type="G" value="2532,3,"/><wi type="G" value="692,4,">ociosas</wi>,
 <wi type="G" value="4022,6,">yendo</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="3614,8,">de casa en casa</wi></wi>.
+<wi type="G" value="3588,7,">de</wi>
+<wi type="G" value="3614,8,">casa en casa</wi>.
 <wi type="G" value="1161,11,">Y</wi>
  <wi type="G" value="3756,9,">no</wi>
 <wi type="G" value="3440,10,">sólo</wi>
@@ -1690,7 +1716,8 @@ se traduce cómo joven, nuevo(a).
 <wi type="G" value="3367,7,">no</wi>
 <wi type="G" value="1325,9,">den</wi>
 <wi type="G" value="874,8,">ocasión</wi>
-<wi type="G" value="3588,10,"/><wi type="G" value="480,11,">al adversario</wi>
+<wi type="G" value="3588,10,">al</wi>
+<wi type="G" value="480,11,">adversario</wi>
 <wi type="G" value="5484,13,">para</wi>
 <wi type="G" value="3059,12,">reprochar</wi>.</t>
 </sv>
@@ -1702,7 +1729,7 @@ For already some have turned aside after Satan.
 <wi type="G" value="2235,1,">ya</wi>
 <wi type="G" value="1624,4,">se han vuelto</wi>
 <wi type="G" value="3694,5,">en pos de</wi>
-<wi type="G" value="3588,6,"><wi type="G" value="4567,7,">Satanás</wi></wi>.</t>
+<wi type="G" value="3588,6,"/><wi type="G" value="4567,7,">Satanás</wi>.</t>
 </sv>
 
 <sv id="1_Timoteo-5-16">
@@ -1721,7 +1748,8 @@ que <wi type="G" value="846,9,">las</wi>
 <wi type="G" value="2532,10,">y</wi> que
 <wi type="G" value="3361,11,">no</wi>
 <wi type="G" value="916,12,">se haga cargo</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="1577,14,">la iglesia</wi></wi>;
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="1577,14,">iglesia</wi>;
 <wi type="G" value="2443,15,">para que</wi>
 <wi type="G" value="1884,19,">pueda ayudar</wi>
 <wi type="G" value="3588,16,">a las que</wi>
@@ -1741,7 +1769,8 @@ especially those who labor in the word and in teaching.
 <wi type="G" value="1362,5,">de doble</wi>
 <wi type="G" value="5092,6,">honor</wi>,
 <wi type="G" value="3122,8,">especialmente</wi>
-<wi type="G" value="3588,9,"/><wi type="G" value="2872,10,">los que trabajan</wi>
+<wi type="G" value="3588,9,">los</wi>
+<wi type="G" value="2872,10,">que trabajan</wi>
 <wi type="G" value="1722,11,">en</wi>
 <wi type="G" value="3056,12,">la palabra</wi>
 <wi type="G" value="2532,13,">y</wi>
@@ -1754,21 +1783,21 @@ For the
 Scripture says, «You shall not muzzle the ox when it treads out the grain.»
 And, «The laborer is worthy of his wages.»
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="1124,4,">la escritura</wi></wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="1124,4,">escritura</wi>
 <wi type="G" value="3004,1,">dice</wi>,
 «<wi type="G" value="3756,7,">No</wi>
 <wi type="G" value="5392,8,">pondrás bozal</wi>
 <wi type="G" value="1016,5,">al buey</wi>
 que
 <wi type="G" value="248,6,">trilla el grano</wi>.»
-<wi type="G" value="2532,9,">Y</wi>, «<wi type="G" value="3588,11,"><wi type="G"
-value="2040,12,">el trabajador</wi></wi>
+<wi type="G" value="2532,9,">Y</wi>, «<wi type="G" value="3588,11,">el</wi>
+<wi type="G" value="2040,12,">trabajador</wi>
 es <wi type="G" value="514,10,">digno</wi>
 <wi type="G" value="846,15,">de su</wi>
-<wi type="G" value="3588,13,"><wi type="G" value="3408,14,">salario</wi></wi>.»
+<wi type="G" value="3588,13,"/><wi type="G" value="3408,14,">salario</wi>.»
 </t>
 </sv></cm><cm>
-
 <sv id="1_Timoteo-5-19">
 Don´t receive an accusation against an elder, except at the word of two
 or three witnesses.
@@ -1795,7 +1824,8 @@ the rest also may be in fear.
 <wi type="G" value="1799,3,">frente</wi>
 <wi type="G" value="3956,4,">a todos</wi>,
 <wi type="G" value="2443,6,">para que</wi>
-<wi type="G" value="3588,8,"/><wi type="G" value="3062,9,">los demás</wi>
+<wi type="G" value="3588,8,">los</wi>
+<wi type="G" value="3062,9,">demás</wi>
 <wi type="G" value="2532,7,">también</wi>
 <wi type="G" value="2192,11,">tengan</wi>
 <wi type="G" value="5401,10,">temor</wi>.
@@ -1809,7 +1839,7 @@ prejudice, doing nothing by partiality.
 <t xml:lang="es">Te
 <wi type="G" value="1263,1,">encargo</wi>
 <wi type="G" value="1799,2,">ante</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="2316,4,">Dios</wi></wi>,
+<wi type="G" value="3588,3,"/><wi type="G" value="2316,4,">Dios</wi>,
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="2962,6,">Señor</wi>
 <wi type="G" value="2424,7,">Jesús</wi>
@@ -1860,7 +1890,7 @@ and your frequent infirmities.
 <wi type="G" value="3631,4,">de vino</wi>
 <wi type="G" value="1223,7,">por causa de</wi>
 <wi type="G" value="4675,10,">tu</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="4751,9,">estomago</wi></wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="4751,9,">estomago</wi>
 <wi type="G" value="2532,11,">y</wi>
 de <wi type="G" value="4675,14,">tus</wi>
 <wi type="G" value="3588,12,"/><wi type="G" value="4437,13,">frecuentes</wi>
@@ -1868,11 +1898,11 @@ de <wi type="G" value="4675,14,">tus</wi>
 </t>
 
 </sv></cm><cm>
-
 <sv id="1_Timoteo-5-24">
 Some men´s sins are evident, preceding them to judgment, and some also
 follow later.
-<t xml:lang="es"><wi type="G" value="3588,3,"><wi type="G" value="266,4,">Los pecados</wi></wi>
+<t xml:lang="es"><wi type="G" value="3588,3,">Los</wi>
+<wi type="G" value="266,4,">pecados</wi>
 <wi type="G" value="5100,1,"><wi type="G" value="444,2,">de</wi> algunos</wi>
 <wi type="G" value="1526,6,">son</wi>
 <wi type="G" value="4271,5,">evidentes</wi>,
@@ -1890,7 +1920,8 @@ In the same way also there are good works that are
 obvious, and those that are otherwise can´t be hidden.
 <t xml:lang="es"><wi type="G" value="5615,1,">Así</wi>
 <wi type="G" value="2532,2,">también</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="2570,4,">las buenas</wi></wi>
+<wi type="G" value="3588,3,">las</wi>
+<wi type="G" value="2570,4,">buenas</wi>
 <wi type="G" value="2041,5,">obras</wi>
 <wi type="G" value="2076,7,">son</wi>
 <wi type="G" value="4271,6,">evidentes</wi>,
@@ -1908,7 +1939,6 @@ obvious, and those that are otherwise can´t be hidden.
 <wi type="G" value="2928,12,">esconderse</wi>.
 </t>
 <cl/>
-
 
 </sv></cm></sc>
 <sc id="1_Timoteo-6">
@@ -1929,10 +1959,13 @@ blasphemed.
 <wi type="G" value="3956,9,">de todo</wi>
 <wi type="G" value="5092,10,">honor</wi>,
 <wi type="G" value="2443,13,">para que</wi>
-<wi type="G" value="3588,15,"><wi type="G" value="3686,16,">el nombre</wi></wi>
-<wi type="G" value="3588,17,"><wi type="G" value="2316,18,">de Dios</wi></wi>
+<wi type="G" value="3588,15,">el</wi>
+<wi type="G" value="3686,16,">nombre</wi>
+<wi type="G" value="3588,17,">de</wi>
+<wi type="G" value="2316,18,">Dios</wi>
 <wi type="G" value="2532,19,">y</wi>
-<wi type="G" value="3588,20,"><wi type="G" value="1319,21,">la doctrina</wi></wi>
+<wi type="G" value="3588,20,">la</wi>
+<wi type="G" value="1319,21,">doctrina</wi>
 <wi type="G" value="3361,14,">no</wi> sean
 <wi type="G" value="987,22,">blasfemados</wi>.
 </t>
@@ -1963,7 +1996,8 @@ things.
 <wi type="G" value="4103,15,">fieles</wi>
 <wi type="G" value="2532,17,">y</wi>
 <wi type="G" value="27,18,">amados</wi>
-<wi type="G" value="3588,19,"/><wi type="G" value="3588,20,"><wi type="G" value="2108,21,">del beneficio</wi></wi>.
+<wi type="G" value="3588,19,"/><wi type="G" value="3588,20,">del</wi>
+<wi type="G" value="2108,21,">beneficio</wi>.
 <wi type="G" value="5023,23,">Estas cosas</wi>
 <wi type="G" value="1321,24,">enseña</wi>
 <wi type="G" value="2532,25,">y</wi>
@@ -1986,7 +2020,7 @@ according to godliness,
 <wi type="G" value="5198,7,">coherentes</wi>,
 <wi type="G" value="3588,9,">las de</wi>
 <wi type="G" value="2257,12,">nuestro</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="2962,11,">Señor</wi></wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="2962,11,">Señor</wi>
 <wi type="G" value="2424,13,">Jesús</wi>
 <wi type="G" value="5547,14,">Cristo</wi>,
 <wi type="G" value="2532,15,">y</wi>
@@ -2031,13 +2065,15 @@ como disputa constante, riña incesante, ocupación inútil, negocio vacío.
 </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="444,3,">de gente</wi> con
-<wi type="G" value="3588,4,"><wi type="G" value="3563,5,">mentes</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="3563,5,">mentes</wi>
 <wi type="G" value="1311,2,">corruptas</wi>
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="650,7,">destituidas</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="225,9,">de la verdad</wi></wi>,
+<wi type="G" value="3588,8,">de la</wi>
+<wi type="G" value="225,9,">verdad</wi>,
 <wi type="G" value="3543,10,">que suponen</wi> que
-<wi type="G" value="3588,13,"><wi type="G" value="2150,14,">la piedad</wi></wi>
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="2150,14,">piedad</wi>
 <wi type="G" value="1511,12,">es</wi>
 para <wi type="G" value="4200,11,">ganancia</wi>.
 <wi type="G" value="868,15,">Aléjate</wi>
@@ -2046,11 +2082,11 @@ para <wi type="G" value="4200,11,">ganancia</wi>.
 </t>
 
 </sv></cm><cm>
-
 <sv id="1_Timoteo-6-6">
 But godliness with contentment is great gain.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2150,6,">la piedad</wi></wi>
+<wi type="G" value="3588,5,">la</wi>
+<wi type="G" value="2150,6,">piedad</wi>
 <wi type="G" value="3326,7,">con</wi>
 <wi type="G" value="841,8,">contentamiento</wi>
 <wi type="G" value="2076,1,">es</wi>
@@ -2065,7 +2101,7 @@ nothing into the world, and we certainly can´t carry anything out.
 <wi type="G" value="3762,1,">nada</wi>
 <wi type="G" value="1533,3,">trajimos</wi>
 <wi type="G" value="1519,4,">al</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2889,6,">mundo</wi></wi>
+<wi type="G" value="3588,5,"/><wi type="G" value="2889,6,">mundo</wi>
 y
 <wi type="G" value="1212,7,">ciertamente</wi>
 <wi type="G" value="3754,8,"/><wi type="G" value="3761,9,"><wi type="G" value="5100,11,">nada</wi></wi>
@@ -2107,7 +2143,8 @@ and harmful lusts, such as drown men in ruin and destruction.
 <wi type="G" value="983,15,">dañinos</wi>,
 <wi type="G" value="3748,16,">que</wi>
 <wi type="G" value="1036,17,">ahogan</wi> a
-<wi type="G" value="3588,18,"><wi type="G" value="444,19,">los hombres</wi></wi>
+<wi type="G" value="3588,18,">los</wi>
+<wi type="G" value="444,19,">hombres</wi>
 <wi type="G" value="1519,20,">en</wi>
 <wi type="G" value="3639,21,">ruina</wi>
 <wi type="G" value="2532,22,">y</wi>
@@ -2121,17 +2158,20 @@ love of money is a root of all kinds of evil. Some have been led astray from
 the faith in their greed, and have pierced themselves through with many
 sorrows.
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
-<wi type="G" value="3588,7,"><wi type="G" value="5365,8,">el amor al dinero</wi></wi>
+<wi type="G" value="3588,7,">el</wi>
+<wi type="G" value="5365,8,">amor al dinero</wi>
 <wi type="G" value="2076,6,">es</wi>
 <wi type="G" value="4491,1,">la raíz</wi>
 <wi type="G" value="3956,3,">de todos</wi>
-<wi type="G" value="3588,4,"/><wi type="G" value="2556,5,">los males</wi>.
+<wi type="G" value="3588,4,">los</wi>
+<wi type="G" value="2556,5,">males</wi>.
 <wi type="G" value="3739,9,">Por el cual</wi>,
 <wi type="G" value="3713,11,">en la avaricia</wi>,
 <wi type="G" value="5100,10,">algunos</wi>
 <wi type="G" value="635,12,">se han perdido</wi>
 <wi type="G" value="575,13,">de</wi>
-<wi type="G" value="3588,14,"><wi type="G" value="4102,15,">la fe</wi></wi>
+<wi type="G" value="3588,14,">la</wi>
+<wi type="G" value="4102,15,">fe</wi>
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="1438,17,">se</wi>
 <wi type="G" value="4044,18,">han perforado</wi>
@@ -2139,7 +2179,6 @@ sorrows.
 <wi type="G" value="3601,19,">penas</wi>.
 </t>
 </sv></cm><cm>
-
 <sv id="1_Timoteo-6-11">
 But you, man of God, flee these things, and follow after righteousness,
 godliness, faith, love, patience, and gentleness.
@@ -2147,7 +2186,8 @@ godliness, faith, love, patience, and gentleness.
 <wi type="G" value="4771,1,">tu</wi>,
 <wi type="G" value="5599,3,">oh</wi>
 <wi type="G" value="444,4,">hombre</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="2316,6,">de Dios</wi></wi>,
+<wi type="G" value="3588,5,">de</wi>
+<wi type="G" value="2316,6,">Dios</wi>,
 <wi type="G" value="5343,8,">huye</wi>
 <wi type="G" value="5023,7,">de estas cosas</wi>,
 <wi type="G" value="1161,10,">y</wi>
@@ -2174,18 +2214,21 @@ Fight the good fight
 of faith. Lay hold of the eternal life to which you were called, and you
 confessed the good confession in the sight of many witnesses.
 <t xml:lang="es"><wi type="G" value="75,1,">Pelea</wi>
-<wi type="G" value="3588,2,"><wi type="G" value="2570,3,">la buena</wi></wi>
+<wi type="G" value="3588,2,">la</wi>
+<wi type="G" value="2570,3,">buena</wi>
 <wi type="G" value="73,4,">batalla</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="4102,6,">de la fe</wi></wi>.
+<wi type="G" value="3588,5,">de la</wi>
+<wi type="G" value="4102,6,">fe</wi>.
 <wi type="G" value="1949,7,">Agarra</wi>
 <wi type="G" value="2222,10,">la vida</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="166,9,">eterna</wi></wi>
+<wi type="G" value="3588,8,"/><wi type="G" value="166,9,">eterna</wi>
 <wi type="G" value="1519,11,"><wi type="G" value="3739,12,">a la cual</wi></wi>
 <wi type="G" value="2532,13,">también</wi>
 <wi type="G" value="2564,14,">fuiste llamado</wi>,
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="3670,16,">habiendo confesado</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="2570,18,">la buena</wi></wi>
+<wi type="G" value="3588,17,">la</wi>
+<wi type="G" value="2570,18,">buena</wi>
 <wi type="G" value="3671,19,">confesión</wi>
 <wi type="G" value="1799,20,">ante</wi>
 <wi type="G" value="4183,21,">muchos</wi>
@@ -2200,10 +2243,10 @@ before Pontius Pilate testified the good confession,
 <t xml:lang="es"><wi type="G" value="4671,2,">Te</wi>
 <wi type="G" value="3853,1,">encargo</wi>
 <wi type="G" value="1799,3,">delante de</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="2316,5,">Dios</wi></wi>,
+<wi type="G" value="3588,4,"/><wi type="G" value="2316,5,">Dios</wi>,
 <wi type="G" value="3588,6,">quien</wi>
 <wi type="G" value="2227,7,">da vida a</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="3956,9,">todo</wi></wi>,
+<wi type="G" value="3588,8,"/><wi type="G" value="3956,9,">todo</wi>,
 <wi type="G" value="2532,10,">y</wi>
 ante <wi type="G" value="5547,11,">Cristo</wi>
 <wi type="G" value="2424,12,">Jesús</wi>,
@@ -2212,7 +2255,8 @@ ante <wi type="G" value="5547,11,">Cristo</wi>
 <wi type="G" value="1909,15,">ante</wi>
 <wi type="G" value="4194,16,">Poncio</wi>
 <wi type="G" value="4091,17,">Pilato</wi>,
-<wi type="G" value="3588,18,"><wi type="G" value="2570,19,">la buena</wi></wi>
+<wi type="G" value="3588,18,">la</wi>
+<wi type="G" value="2570,19,">buena</wi>
 <wi type="G" value="3671,20,">confesión</wi>,
 </t>
 </sv>
@@ -2224,13 +2268,15 @@ Christ;
 <t xml:lang="es"><wi type="G" value="5083,1,">que</wi>
 <wi type="G" value="4571,2,">tu</wi>
 <wi type="GC" value="1">guardes</wi>
-<wi type="G" value="3588,3,"><wi type="G" value="1785,4,">el mandamiento</wi></wi>,
+<wi type="G" value="3588,3,">el</wi>
+<wi type="G" value="1785,4,">mandamiento</wi>,
 <wi type="G" value="784,5,">sin mancha</wi>,
 <wi type="G" value="423,6,">irreprensible</wi>,
 <wi type="G" value="3360,7,">hasta</wi>
-<wi type="G" value="3588,8,"><wi type="G" value="2015,9,">la aparición</wi></wi>
+<wi type="G" value="3588,8,">la</wi>
+<wi type="G" value="2015,9,">aparición</wi>
 <wi type="G" value="2257,12,">de nuestro</wi>
-<wi type="G" value="3588,10,"><wi type="G" value="2962,11,">Señor</wi></wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="2962,11,">Señor</wi>
 <wi type="G" value="2424,13,">Jesús</wi>
 <wi type="G" value="5547,14,">Cristo</wi>;</t>
 </sv>
@@ -2247,18 +2293,22 @@ only Ruler, the King of kings, and Lord of lords;
 <wi type="G" value="2532,7,">y</wi>
 <wi type="G" value="3441,8,">único</wi>
 <wi type="G" value="1413,9,">Gobernante</wi>,
-<wi type="G" value="3588,10,"><wi type="G" value="935,11,">el Rey</wi></wi>
-<wi type="G" value="3588,12,"/><wi type="G" value="936,13,">de reyes</wi>
+<wi type="G" value="3588,10,">el</wi>
+<wi type="G" value="935,11,">Rey</wi>
+<wi type="G" value="3588,12,">de</wi>
+<wi type="G" value="936,13,">reyes</wi>
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="2962,15,">Señor</wi>
-<wi type="G" value="3588,16,"/><wi type="G" value="2961,17,">de señores</wi>;</t>
+<wi type="G" value="3588,16,">de</wi>
+<wi type="G" value="2961,17,">señores</wi>;</t>
 </sv>
 
 <sv id="1_Timoteo-6-16">
 who alone has
 immortality, dwelling in unapproachable light; whom no man has seen, nor can
 see: to whom be honor and eternal power. Amen.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="3441,2,">el único</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,">el</wi>
+<wi type="G" value="3441,2,">único</wi>
 <wi type="G" value="2192,3,">que tiene</wi>
 <wi type="G" value="110,4,">la inmortalidad</wi>,
 <wi type="G" value="3611,6,">que habita en</wi>
@@ -2278,7 +2328,6 @@ see: to whom be honor and eternal power. Amen.
 <wi type="G" value="166,19,">por siempre</wi>.
 <wi type="G" value="281,20,">Amén</wi>. </t>
 </sv></cm><cm>
-
 <sv id="1_Timoteo-6-17">
 Charge those who are rich in this present world that they not be
 haughty, nor have their hope set on the uncertainty of riches, but on the
@@ -2288,7 +2337,7 @@ living God, who richly provides us with everything to enjoy;
 <wi type="G" value="4145,2,">ricos</wi>
 <wi type="G" value="1722,3,">en</wi>
 <wi type="G" value="3568,5,">este</wi>
-<wi type="G" value="3588,4,"><wi type="G" value="165,6,">mundo presente</wi></wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="165,6,">mundo presente</wi>
 a <wi type="G" value="3361,8,">no</wi>
 <wi type="G" value="5309,9,">ser arrogantes</wi>,
 <wi type="G" value="3366,10,">ni</wi>
@@ -2298,8 +2347,9 @@ a <wi type="G" value="3361,8,">no</wi>
 <wi type="G" value="4149,13,">de las riquezas</wi>,
 <wi type="G" value="235,15,">sino</wi>
 <wi type="G" value="1722,16,">en</wi>
-<wi type="G" value="3588,17,"><wi type="G" value="2316,18,">el Dios</wi></wi>
-<wi type="G" value="3588,19,"><wi type="G" value="2198,20,">vivo</wi></wi>,
+<wi type="G" value="3588,17,">el</wi>
+<wi type="G" value="2316,18,">Dios</wi>
+<wi type="G" value="3588,19,"/><wi type="G" value="2198,20,">vivo</wi>,
 <wi type="G" value="3588,21,">quien</wi>
 <wi type="G" value="2254,23,">nos</wi>
 <wi type="G" value="3930,22,">provee</wi>
@@ -2333,7 +2383,8 @@ life.
 <wi type="G" value="2570,4,">un buen</wi>
 <wi type="G" value="2310,3,">fundamento</wi>
 <wi type="G" value="1519,5,">contra</wi>
-<wi type="G" value="3588,6,"/><wi type="G" value="3195,7,">el tiempo que vendrá</wi>,
+<wi type="G" value="3588,6,">el</wi>
+<wi type="G" value="3195,7,">tiempo que vendrá</wi>,
 <wi type="G" value="2443,8,">para que</wi>
 <wi type="G" value="1949,9,">tengan esperanza</wi>
 <wi type="G" value="2222,12,">de vida</wi>
@@ -2356,10 +2407,12 @@ empty chatter and oppositions of the knowledge which is falsely so called;
 <wi type="G" value="3588,7,"/><wi type="G" value="952,8,">profana</wi>
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="477,11,">la oposición de</wi>
-<wi type="G" value="3588,12,"/><wi type="G" value="5581,13,">la falsamente llamada</wi>
+<wi type="G" value="3588,12,">la</wi>
+<wi type="G" value="5581,13,">falsamente llamada</wi>
 <wi type="G" value="1108,14,">ciencia</wi>;
 </t>
 </sv>
+
 <sv id="1_Timoteo-6-21">
 which some professing have erred concerning the faith. Grace be with
 you. Amen.
@@ -2368,13 +2421,16 @@ you. Amen.
 <wi type="G" value="1861,3,">la profesan</wi>
 <wi type="G" value="795,7,">han errado</wi>
 <wi type="G" value="4012,4,">respecto a</wi>
-<wi type="G" value="3588,5,"><wi type="G" value="4102,6,">la fe</wi></wi>.
+<wi type="G" value="3588,5,">la</wi>
+<wi type="G" value="4102,6,">fe</wi>.
 Sea
-<wi type="G" value="3588,8,"><wi type="G" value="5485,9,">la gracia</wi></wi>
+<wi type="G" value="3588,8,">la</wi>
+<wi type="G" value="5485,9,">gracia</wi>
 <wi type="G" value="3326,10,"><wi type="G" value="4675,11,">contigo</wi></wi>.
 <wi type="G" value="281,12,">Amén</wi>.
 </t>
-<rb xml:lang="es"><rf><citebib id="KJV2003"/> agrega al final de este
+<rb xml:lang="es"><rf>
+<citebib id="KJV2003"/> agrega al final de este
 versículo incluso con marcación Strong: `La primera a Timoteo fue escrita
 desde Laodicea, que es la principal ciudad de Frigia Pacatiana.´
 </rf></rb>

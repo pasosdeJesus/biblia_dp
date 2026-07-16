@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
 <sb id="Santiago" type="" xml:lang="">
 <tt>The Letter from James<t xml:lang="es">La carta de Santiago</t></tt>
 <sc id="Santiago-1">
 <cm>
-
 <sv id="Santiago-1-1">
 James, a servant of God and of the Lord Jesus Christ, to the twelve
 tribes which are in the Dispersion: Greetings.
@@ -42,7 +40,8 @@ Count it all joy, my
 <wi type="G" value="3450,5,">mis</wi>
 </t>
 <rb>brothers
-<t xml:lang="es"><wi type="G" value="80,4,">hermanos</wi></t><rf>The word for «brothers» here and where context allows may
+<t xml:lang="es"><wi type="G" value="80,4,">hermanos</wi></t><rf>
+The word for «brothers» here and where context allows may
 also be correctly translated «brothers and sisters» or «siblings.»
 <t xml:lang="es">La palabra para «hermanos» aquí y donde el contexto
 lo permita puede traducirse también correctamente como
@@ -52,7 +51,8 @@ lo permita puede traducirse también correctamente como
 <t xml:lang="es">,
 <wi type="G" value="3752,6,">cuando</wi> </t>
 <rb xml:lang="es"><wi type="G" value="4045,8,">lleguen</wi>
-<rf><citebib id="WEB"/>, <citebib id="KJV2003"/> y
+<rf>
+<citebib id="WEB"/>, <citebib id="KJV2003"/> y
 <citebib id="RVG2012"/> dicen `caigan.´
 Según <citebib id="Thayer-BLB"/> la palabra `περιπεσητε´ es caer como caer
 en manos de ladrones.</rf></rb>
@@ -182,6 +182,7 @@ But let the brother in humble circumstances glory in his high position;
 </t>
 
 </sv>
+
 <sv id="Santiago-1-10">
 and the rich, in that he is made humble, because like the flower in the
 grass, he will pass away.
@@ -197,6 +198,7 @@ grass, he will pass away.
 <wi type="G" value="5528,11,">del pasto</wi>,
 <wi type="G" value="3928,12,">pasará</wi>.</t>
 </sv>
+
 <sv id="Santiago-1-11">
 For the sun arises with the scorching wind,
 and withers the grass, and the flower in it falls, and the beauty of its
@@ -338,7 +340,8 @@ shadow.
 <wi type="G" value="2597,10,">desciende</wi>
 <wi type="G" value="575,11,"><wi type="G" value="3588,12,">del</wi></wi>
 <wi type="G" value="3962,13,">Padre</wi>
-<wi type="G" value="3588,14,"/><wi type="G" value="5457,15,">de luces</wi>,
+<wi type="G" value="3588,14,">de</wi>
+<wi type="G" value="5457,15,">luces</wi>,
 <wi type="G" value="3844,16,">en</wi>
 <wi type="G" value="3739,17,">quien</wi>
 <wi type="G" value="3756,18,">no</wi>
@@ -363,7 +366,8 @@ we should be a kind of first fruits of his creatures.
 <wi type="G" value="3588,7,"/><wi type="G" value="1511,8,">fuésemos</wi>
 <wi type="G" value="5100,11,">una clase</wi>
 <wi type="G" value="536,10,">de los primeros frutos</wi>
-<wi type="G" value="3588,12,"/><wi type="G" value="846,13,">de sus</wi>
+<wi type="G" value="3588,12,">de</wi>
+<wi type="G" value="846,13,">sus</wi>
 <wi type="G" value="2938,14,">criaturas</wi>.</t>
 </sv></cm>
 
@@ -424,7 +428,8 @@ able to
 <rb>save your souls
 <t xml:lang="es"><wi type="G" value="4982,16,">salvar</wi>
 <wi type="G" value="5216,19,">sus</wi>
-<wi type="G" value="3588,17,"/><wi type="G" value="5590,18,">almas</wi></t><rf>or, preserve your life.
+<wi type="G" value="3588,17,"/><wi type="G" value="5590,18,">almas</wi></t><rf>
+or, preserve your life.
 <t xml:lang="es">o preservar su vida.</t></rf>
 </rb>.<t xml:lang="es">.</t>
 </sv>
@@ -541,6 +546,7 @@ es <wi type="G" value="3152,17,">vana</wi>.
 </t>
 
 </sv>
+
 <sv id="Santiago-1-27">
 Pure religion and undefiled before our God and Father is this: to visit
 the fatherless and widows in their affliction, and to keep oneself unstained
@@ -572,7 +578,6 @@ y
 
 <cl/>
 </sv></cm></sc>
-
 
 <sc id="Santiago-2">
 <cm>
@@ -610,7 +615,8 @@ into your
 <wi type="G" value="5216,7,">su</wi>
 </t>
 <rb>synagogue
-<t xml:lang="es"><wi type="G" value="3588,5,"/><wi type="G" value="4864,6,">sinagoga</wi></t><rf>or, meeting<t xml:lang="es">O reunión</t></rf>
+<t xml:lang="es"><wi type="G" value="3588,5,"/><wi type="G" value="4864,6,">sinagoga</wi></t><rf>
+or, meeting<t xml:lang="es">O reunión</t></rf>
 </rb>
 , and a poor man in filthy clothing also comes in;
 <t xml:lang="es">, <wi type="G" value="1161,14,">y</wi>
@@ -641,7 +647,8 @@ tell the poor man, «Stand there,» or «Sit by my footstool;»
 <wi type="G" value="5602,15,">aquí</wi>
 <wi type="G" value="2573,16,">en un buen lugar</wi>;»
 <wi type="G" value="2532,17,">y</wi>
-<wi type="G" value="3588,18,"/><wi type="G" value="4434,19,">al pobre</wi>
+<wi type="G" value="3588,18,">al</wi>
+<wi type="G" value="4434,19,">pobre</wi>
 <wi type="G" value="2036,20,">le dicen</wi>
 «<wi type="G" value="2476,22,"><wi type="G" value="4771,21,">Párate</wi></wi>
 <wi type="G" value="1563,23,">allá</wi>,»
@@ -719,6 +726,7 @@ and personally drag you before the courts?
 <wi type="G" value="1519,15,">ante</wi>
 <wi type="G" value="2922,16,">las cortes</wi>?</t>
 </sv>
+
 <sv id="Santiago-2-7">
 Don´t they blaspheme the
 honorable name by which you
@@ -739,6 +747,7 @@ Según <citebib id="Thayer-BLB"/> la palabra griega `επικληθεν'
 puede traducirse como llamar o poner un nombre o como invocar.</rf></rb>
 <t xml:lang="es">?</t>
 </sv>
+
 <sv id="Santiago-2-8">
 However, if you fulfill the royal law, according to the Scripture,
 «You shall love your neighbor as yourself,» you
@@ -760,6 +769,7 @@ do well.
 <wi type="G" value="2573,15,">bien</wi>.
 </t>
 </sv>
+
 <sv id="Santiago-2-9">
 But if you show partiality, you
 commit sin, being convicted by the law as transgressors.
@@ -886,6 +896,7 @@ works? Can faith save him?
 <wi type="G" value="4102,18,">fe</wi>
 <wi type="G" value="4982,19,"><wi type="G" value="846,20,">salvarlo</wi></wi>?</t>
 </sv>
+
 <sv id="Santiago-2-15">
 And if a brother or sister is naked and in
 lack of daily food,
@@ -902,6 +913,7 @@ lack of daily food,
 <wi type="G" value="3588,11,"/><wi type="G" value="2184,12,">diario</wi>,
 </t>
 </sv>
+
 <sv id="Santiago-2-16">
 and one of you tells them, «Go in peace, be
 warmed and filled;» and yet you
@@ -1097,6 +1109,7 @@ You see then that by works, a man is justified, and not only by faith.
 <wi type="G" value="4102,11,">fe</wi>.
 </t>
 </sv>
+
 <sv id="Santiago-2-25">
 In like
 manner wasn´t Rahab the prostitute also justified by works, in that she
@@ -1192,6 +1205,7 @@ body also.
 <wi type="G" value="4983,19,">cuerpo</wi>
 <wi type="G" value="3650,17,">entero</wi>.</t>
 </sv>
+
 <sv id="Santiago-3-3">
 Indeed, we put bits into the horses´ mouths so that they may
 obey us, and we guide their whole body.
@@ -1215,6 +1229,7 @@ obey us, and we guide their whole body.
 <wi type="G" value="3650,16,">entero</wi>.
 </t>
 </sv>
+
 <sv id="Santiago-3-4">
 Behold, the ships also, though
 they are so big and are driven by fierce winds, are yet guided by a very
@@ -1305,7 +1320,8 @@ es <wi type="G" value="3588,10,">la</wi>
 </t>
 <rb>Gehenna.
 <t xml:lang="es"><wi type="G" value="3588,31,">la</wi>
-<wi type="G" value="1067,32,">Gehena</wi></t><rf>Gehenna is a name
+<wi type="G" value="1067,32,">Gehena</wi></t><rf>
+Gehenna is a name
 that describes a burning Hell with rotting bodies and unclean things in
 it<t xml:lang="es">Gehena es un nombre que describe un infierno
 ardiente con cuerpos en descomposición y cosas impuras.</t></rf>
@@ -1409,6 +1425,7 @@ the same opening fresh and bitter water?
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="3588,12,"/><wi type="G" value="4089,13,">agua amarga</wi>?</t>
 </sv>
+
 <sv id="Santiago-3-12">
 Can a fig tree, my brothers,
 yield olives, or a vine figs? Thus no spring yields both salt water and fresh
@@ -1433,7 +1450,6 @@ agua <wi type="G" value="1099,16,">fresca</wi>.
 </t>
 
 </sv></cm><cm>
-
 <sv id="Santiago-3-13">
 Who is wise and understanding among you? Let him show by his good
 conduct that his deeds are done in gentleness of wisdom.
@@ -1454,6 +1470,7 @@ conduct that his deeds are done in gentleness of wisdom.
 <wi type="G" value="4678,17,">de sabiduría</wi>.
 </t>
 </sv>
+
 <sv id="Santiago-3-14">
 But if
 you
@@ -1547,6 +1564,7 @@ es <wi type="G" value="4412,5,">primero</wi>
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="505,20,">sin hipocresía</wi>.</t>
 </sv>
+
 <sv id="Santiago-3-18">
 Now the fruit of righteousness is sown in peace by those who
 make peace.
@@ -1562,7 +1580,6 @@ make peace.
 <wi type="G" value="1515,10,">la paz</wi>.</t>
 
 <cl/>
-
 
 </sv></cm></sc>
 <sc id="Santiago-4">
@@ -1586,6 +1603,7 @@ from your pleasures that war in your members?
 <wi type="G" value="3588,16,"/><wi type="G" value="3196,17,">miembros</wi>?
 </t>
 </sv>
+
 <sv id="Santiago-4-2">
 You
 <wi type="T" value="P"/> lust, and don´t
@@ -1619,6 +1637,7 @@ You
 <wi type="G" value="154,21,">piden</wi>.
 </t>
 </sv>
+
 <sv id="Santiago-4-3">
 You
 <wi type="T" value="P"/> ask, and don´t
@@ -1670,7 +1689,8 @@ con
 <wi type="G" value="2889,22,">mundo</wi>
 <wi type="G" value="2525,26,">se hace</wi>
 <wi type="G" value="2190,23,">enemigo</wi>
-<wi type="G" value="3588,24,"/><wi type="G" value="2316,25,">de Dios</wi>.
+<wi type="G" value="3588,24,">de</wi>
+<wi type="G" value="2316,25,">Dios</wi>.
 </t>
 </sv>
 
@@ -1695,6 +1715,7 @@ lives in us yearns jealously»?
 <wi type="G" value="5355,9,">envidia</wi>»?
 </t>
 </sv>
+
 <sv id="Santiago-4-6">
 But he gives more grace. Therefore it
 says, «God resists the proud, but gives grace to the humble.»
@@ -1766,6 +1787,7 @@ and weep. Let your laughter be turned to mourning, and your joy to gloom.
 <wi type="G" value="2726,16,">tristeza</wi>.</t>
 
 </sv>
+
 <sv id="Santiago-4-10">
 Humble yourselves in the sight of the Lord, and he will exalt you.
 <t xml:lang="es"><wi type="G" value="5013,1,">Humíllense</wi>
@@ -2035,6 +2057,7 @@ of Armies.
 <wi type="G" value="2962,24,">del Señor</wi>
 <wi type="G" value="4519,25,">de los ejércitos</wi>. </t>
 </sv>
+
 <sv id="Santiago-5-5">
 You
 <wi type="T" value="P"/> have lived delicately on the earth, and taken your
@@ -2203,6 +2226,7 @@ y <wi type="G" value="3754,14,">que</wi>
 <wi type="G" value="3629,20,">misericordioso</wi>.
 </t>
 </sv>
+
 <sv id="Santiago-5-12">
 But above all things, my
 brothers, don´t swear, neither by heaven, nor by the earth, nor by any other
@@ -2240,7 +2264,8 @@ don´t fall
 </t>
 <rb>into hypocrisy.
 <t xml:lang="es"><wi type="G" value="5259,30,">en</wi>
-<wi type="G" value="2920,31,">condenación</wi></t><rf>TR reads «under judgment» instead of «into
+<wi type="G" value="2920,31,">condenación</wi></t><rf>
+TR reads «under judgment» instead of «into
 hypocrisy»<t xml:lang="es"><citebib id="WEB"/> dice `en hipocrecia,´ con
 nota al pie que dice que <citebib id="TR"/> dice `en juicio.´
 <citebib id="KJV2003"/> dice `en condenación.´</t></rf>
@@ -2315,6 +2340,7 @@ Lord will raise him up. If he has committed sins, he will be forgiven.
 </t>
 
 </sv>
+
 <sv id="Santiago-5-16">
 Confess your offenses to one another, and pray one for another, that
 you may be healed. The insistent prayer of a righteous person is
@@ -2336,6 +2362,7 @@ powerfully effective.
 <wi type="G" value="4183,11,">mucho</wi>.
 </t>
 </sv>
+
 <sv id="Santiago-5-17">
 Elijah was a man with a nature like ours, and he
 prayed earnestly that it might not rain, and it didn´t rain on the earth for
@@ -2427,11 +2454,8 @@ way will save a soul from death, and will cover a multitude of sins.
 </t>
 <cl/>
 
-
 <cl/>
-
 
 </sv></cm></sc>
 </sb>
-
 

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
 <sb id="Colosenses" type="" xml:lang="">
 <tt>Paul´s Letter to the Colosenses
 <t xml:lang="es">Carta de Pablo a los Colosenses</t>
@@ -32,7 +31,8 @@ to the saints and faithful
 <wi type="G" value="4103,6,">fieles</wi>
 </t>
 <rb>brothers
-<t xml:lang="es"><wi type="G" value="80,7,">hermanos</wi></t><rf>The word
+<t xml:lang="es"><wi type="G" value="80,7,">hermanos</wi></t><rf>
+The word
 for «brothers» here and where context allows may also be correctly translated
 «brothers and sisters» or «siblings.»<t xml:lang="es">La palabra
 para «hermanos» aquí y donde el contexto lo permita también puede
@@ -97,7 +97,8 @@ have toward all the saints,
 <wi type="G" value="26,10,">amor</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="1519,12,">por</wi>
 <wi type="G" value="3956,13,">todos</wi>
-<wi type="G" value="3588,14,"/><wi type="G" value="40,15,">los santos</wi>,</t>
+<wi type="G" value="3588,14,">los</wi>
+<wi type="G" value="40,15,">santos</wi>,</t>
 </sv>
 
 <sv id="Colosenses-1-5">
@@ -190,7 +191,8 @@ the Spirit.
 <wi type="G" value="2254,4,">nos</wi>
 <wi type="G" value="1213,3,">declaró</wi>
 <wi type="G" value="26,7,">el amor</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="5216,6,">de ustedes</wi>
+<wi type="G" value="3588,5,">de</wi>
+<wi type="G" value="5216,6,">ustedes</wi>
 <wi type="G" value="1722,8,">en</wi>
 <wi type="G" value="4151,9,">el Espíritu</wi>.</t>
 </sv>
@@ -302,7 +304,8 @@ Según  <citebib id="Thayer-BLB"/>  la palabra griega `κληρου´
 se traduce como suerte, parte, herencia.
 </rf></rb>
 <t xml:lang="es">
-<wi type="G" value="3588,12,"/><wi type="G" value="40,13,">de los santos</wi>
+<wi type="G" value="3588,12,">de los</wi>
+<wi type="G" value="40,13,">santos</wi>
 <wi type="G" value="1722,14,">en</wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="5457,16,">luz</wi>;</t>
 </sv>
@@ -338,7 +341,8 @@ redemption,
 <rb>
 <t xml:lang="es"><wi type="G" value="1223,6,">por</wi>
 <wi type="G" value="846,9,">Su</wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="129,8,">sangre</wi></t><rf>TR adds «through his blood,»
+<wi type="G" value="3588,7,"/><wi type="G" value="129,8,">sangre</wi></t><rf>
+TR adds «through his blood,»
 <t xml:lang="es"><citebib id="WEB"/> no dice `por su sangre´
 pero tiene una nota al pie que dice `TR añade «por su sangre.»´
 Si lo dice <citebib id="KJV2003"/>
@@ -438,7 +442,8 @@ firstborn from the dead; that in all things he might have the preeminence.
 <wi type="G" value="746,12,">el principio</wi>,
 <wi type="G" value="4416,13,">el primogénito</wi>
 <wi type="G" value="1537,14,">de</wi>
-<wi type="G" value="3588,15,"/><wi type="G" value="3498,16,">los muertos</wi>;
+<wi type="G" value="3588,15,">los</wi>
+<wi type="G" value="3498,16,">muertos</wi>;
 <wi type="G" value="2443,17,">para que</wi>
 <wi type="G" value="1722,19,">en</wi>
 <wi type="G" value="3956,20,">todo</wi>
@@ -507,7 +512,8 @@ evil works,
 </t>
 <rb xml:lang="es">
 <wi type="G" value="3588,8,">de</wi>
-<wi type="G" value="1271,9,">pensamiento</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `en su mente,´
+<wi type="G" value="1271,9,">pensamiento</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `en su mente,´
 <citebib id="RVG2012"/> dice `de animo.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `διανοια´
 se traduce como mente, facultad de entender, sentimiento, deseo, entendimiento,
@@ -515,7 +521,8 @@ pensamientos.
 </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1722,10,">por</wi>
-<wi type="G" value="3588,13,"/><wi type="G" value="4190,14,">las malas</wi>
+<wi type="G" value="3588,13,">las</wi>
+<wi type="G" value="4190,14,">malas</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="2041,12,">obras</wi>,
 </t><rb xml:lang="es"><wi type="G" value="1161,16,">pero</wi>
 <wi type="G" value="3570,15,">ahora</wi>
@@ -725,7 +732,8 @@ striving according to his working, which works in me mightily.
 <wi type="G" value="2872,4,">trabajo</wi>,
 <wi type="G" value="75,5,">esforzándome</wi>
 <wi type="G" value="2596,6,">de acuerdo</wi>
-<wi type="G" value="3588,10,"/><wi type="G" value="846,9,">a Su</wi>
+<wi type="G" value="3588,10,">a</wi>
+<wi type="G" value="846,9,">Su</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="1753,8,">obra</wi>,
 <wi type="G" value="1754,11,">que opera</wi>
 <wi type="G" value="1722,12,">en</wi>
@@ -965,7 +973,8 @@ en <wi type="G" value="3739,6,">quien</wi>
 <wi type="G" value="3956,10,">de todo</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="746,11,">principado</wi><rf>
-<citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="RVR1960"/> dicen `principado.´
+<citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="RVR1960"/> dicen
+`principado.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `ἀρχή´
 se traduce como (1) origen, inicio, (2) persona o cosa que comienza,
 (3) por quien algo comienza, (4) extremo de una cosa, (5) primer lugar,
@@ -1066,7 +1075,8 @@ us; and he has taken it out of the way, nailing it to the cross;
 <rb xml:lang="es"><wi type="G" value="5498,5,">el escrito</wi>
 <wi type="G" value="3588,6,">de</wi>
 <wi type="G" value="1378,7,">decretos</wi>
-<rf><citebib id="WEB"/> y <citebib id="KJV2003"/>
+<rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/>
 dicen `la escritura de ordenanzas´
 <citebib id="RVR1960"/> dice `el acta de los decretos.´
 </rf></rb>
@@ -1142,7 +1152,8 @@ shadow of the things to come; but the body is Christ´s.
 <t xml:lang="es"><wi type="G" value="3739,1,">que</wi>
 <wi type="G" value="2076,2,">son</wi>
 <wi type="G" value="4639,3,">una sombra</wi>
-<wi type="G" value="3588,4,"/><wi type="G" value="3195,5,">de las cosas que vendrán</wi>;
+<wi type="G" value="3588,4,">de las</wi>
+<wi type="G" value="3195,5,">cosas que vendrán</wi>;
 <wi type="G" value="3588,6,"/><wi type="G" value="1161,7,">pero</wi>
 <wi type="G" value="4983,8,">el cuerpo</wi> es
 <wi type="G" value="3588,9,">de</wi>
@@ -1479,7 +1490,8 @@ have put off the old man with his doings,
 <wi type="G" value="1519,3,">a</wi>
 <wi type="GC" value="4">otros</wi>,
 <wi type="G" value="554,5,">ustedes dejaron</wi>
-<wi type="G" value="3588,6,"/><wi type="G" value="3820,7,">al viejo</wi>
+<wi type="G" value="3588,6,">al</wi>
+<wi type="G" value="3820,7,">viejo</wi>
 <wi type="G" value="444,8,">hombre</wi>
 <wi type="G" value="4862,9,">y</wi>
 <wi type="G" value="846,12,">sus</wi>
@@ -1491,7 +1503,8 @@ and have put on the new man, that is being renewed in
 knowledge after the image of his Creator,
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="1746,2,">se han revistido</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="3501,4,">del nuevo</wi>,
+<wi type="G" value="3588,3,">del</wi>
+<wi type="G" value="3501,4,">nuevo</wi>,
 <wi type="G" value="3588,5,"/><wi type="G" value="341,6,">que ha sido renovado</wi>
 <wi type="G" value="1519,7,">en</wi>
 <wi type="G" value="1922,8,">el conocimiento</wi>
@@ -1520,7 +1533,8 @@ freeman; but Christ is all, and in all.
 <wi type="G" value="1658,13,">libre</wi>;
 <wi type="G" value="235,14,">sino que</wi>
 <wi type="G" value="5547,20,">Cristo</wi>
-es <wi type="G" value="3588,15,"/><wi type="G" value="3956,16,">el todo</wi>,
+es <wi type="G" value="3588,15,">el</wi>
+<wi type="G" value="3956,16,">todo</wi>,
 <wi type="G" value="2532,17,">y</wi>
 <wi type="G" value="1722,18,">en</wi>
 <wi type="G" value="3956,19,">todo</wi>. </t>
@@ -1692,7 +1706,8 @@ Lord Jesus, giving thanks to God the Father, through him.
 Wives, be in subjection to your husbands, as is fitting in the Lord.
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1135,2,">Esposas</wi>,
 <wi type="G" value="5293,3,">estén en sujeción</wi>
-<wi type="G" value="3588,4,"/><wi type="G" value="2398,5,">a sus</wi>
+<wi type="G" value="3588,4,">a</wi>
+<wi type="G" value="2398,5,">sus</wi>
 <wi type="G" value="435,6,">maridos</wi>,
 <wi type="G" value="5613,7,">como</wi>
 <wi type="G" value="433,8,">es apropiado</wi>
@@ -1721,7 +1736,6 @@ se traduce como  amargar, exasperar, irritarse, indignarse, amargarse.</rf></rb>
 <wi type="G" value="846,10,">ellas</wi>.</t>
 </sv></cm>
 <cm>
-
 <sv id="Colosenses-3-20">
 Children, obey your parents in all things, for this pleases the
 Lord.
@@ -1770,7 +1784,8 @@ of heart, fearing God.
 <wi type="G" value="2596,4,">en</wi>
 <wi type="G" value="3956,5,">todo</wi> a
 <wi type="G" value="2962,9,">los amos</wi>
-<wi type="G" value="3588,6,"/><wi type="G" value="2596,7,">de acuerdo a</wi>
+<wi type="G" value="3588,6,">de</wi>
+<wi type="G" value="2596,7,">acuerdo a</wi>
 <wi type="G" value="4561,8,">la carne</wi>,
 <wi type="G" value="3361,10,">no</wi>
 <wi type="G" value="1722,11,">cuando</wi>
@@ -2193,7 +2208,8 @@ also read the letter from Laodicea.
 <wi type="G" value="2532,10,">también</wi>
 <wi type="G" value="1722,11,">en</wi>
 <wi type="G" value="1577,14,">la iglesia</wi>
-<wi type="G" value="3588,12,"/><wi type="G" value="2994,13,">de Laodicea</wi>;
+<wi type="G" value="3588,12,">de</wi>
+<wi type="G" value="2994,13,">Laodicea</wi>;
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="2443,20,">que</wi>
 <wi type="G" value="5210,22,">ustedes</wi>
@@ -2239,13 +2255,12 @@ sea <wi type="G" value="3326,13,">con</wi>
 <wi type="G" value="5216,14,">ustedes</wi>.
 <wi type="G" value="281,15,">Amén</wi>.
 </t>
-<rb xml:lang="es"><rf><citebib id="KJV2003"/> agrega
+<rb xml:lang="es"><rf>
+<citebib id="KJV2003"/> agrega
 `Escrito desde Roma para los Colosenses por Tíquico y Onésimo.´</rf></rb>
 <cl/>
 
-
 <cl/>
-
 
 </sv></cm></sc>
 </sb>

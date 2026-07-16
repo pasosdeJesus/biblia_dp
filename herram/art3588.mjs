@@ -111,7 +111,7 @@ function convertirBloque(texto) {
   // <wi type="G" value="3588,POS,[...]"><wi type="T" value="STRONG,[...]">texto</wi></wi>
   // value puede ser "3588,N," o "3588,N,,"
   const regexNested =
-    /<wi type="G" value="3588,(\d+),[^"]*"(\s+sacred="yes")?>\s*<wi type="([GH])"\s+value="([^"]+)"(\s+sacred="yes")?(\/>|>([^<]*)<\/wi>)([\s\S]*?)<\/wi>/g;
+    /<wi type="G"\s+value="3588,(\d*),?[^"]*"(\s+sacred="yes")?>\s*<wi type="([GH]C?)"\s+value="([^"]+)"(\s+sacred="yes")?(\/>|>([^<]*)<\/wi>)([\s\S]*?)<\/wi>/g;
 
   let resultado = texto.replace(regexNested,
     (match, pos3588, sacredOuter, tipoInner, valorInner, sacredInner, selfClose, textoInner, extraWis) => {
@@ -183,6 +183,18 @@ function convertirBloque(texto) {
              `<wi type="${tipoInner}" value="${valorInner}"${si}>${resto}</wi>`;
     });
 
+  // ── Paso 5: G3588 vacío seguido de artículo/preposición no extraída ──
+  // <wi ...3588,POS,"/><wi ...>(de|a|las|los|el|la|del|al|de la|de los|...) X</wi>
+  const regexFaltante =
+    /<wi type="G" value="3588,(\d+),[^"]*"\/>\s*<wi type="([GH])"\s+value="([^"]+)"(\s+sacred="yes")?>(de los|de las|de la|de una|de un|a los|a las|a la|a una|a un|del|al|las|los|el|la|de|a|El|La|Los|Las|Al|Del|De|A)\s+([^<]+)<\/wi>/g;
+
+  resultado = resultado.replace(regexFaltante,
+    (match, pos3588, tipoInner, valorInner, sacInner, art, resto) => {
+      const si = sacInner || '';
+      return `<wi type="G" value="3588,${pos3588},">${art}</wi>\n` +
+             `<wi type="${tipoInner}" value="${valorInner}"${si}>${resto}</wi>`;
+    });
+
   return resultado;
 }
 
@@ -245,7 +257,6 @@ function main() {
   }
 
   const [libro, capStr] = args;
-  const libroId = libro.charAt(0).toUpperCase() + libro.slice(1);
   const archivo = `libros/${libro}.gbfxml`;
 
   let contenido;
@@ -255,6 +266,14 @@ function main() {
     console.error(`Error al leer ${archivo}: ${err.message}`);
     process.exit(1);
   }
+
+  // Detectar el prefijo de ID real del libro desde el XML
+  const idMatch = contenido.match(/<sb id="([^"]+)"/);
+  if (!idMatch) {
+    console.error('No se encontró <sb id="..."> en el archivo');
+    process.exit(1);
+  }
+  const libroId = idMatch[1];
 
   // Determinar capítulos a procesar
   const todosCaps = [...contenido.matchAll(/<sc id="[^"]+"/g)]
@@ -289,9 +308,9 @@ function main() {
     const convertido = convertirBloque(capContenido);
 
     const nestedAntes =
-      (capContenido.match(/<wi type="G" value="3588,\d+,[^"]*">\s*<wi /g) || []).length;
+      (capContenido.match(/<wi type="G" value="3588,\d*,?[^"]*">\s*<wi /g) || []).length;
     const nestedDespues =
-      (convertido.match(/<wi type="G" value="3588,\d+,[^"]*">\s*<wi /g) || []).length;
+      (convertido.match(/<wi type="G" value="3588,\d*,?[^"]*">\s*<wi /g) || []).length;
     totalAntes += nestedAntes;
     totalDespues += nestedDespues;
 
@@ -300,7 +319,7 @@ function main() {
 
     // Acumular demostrativos de este capítulo
     const reDemoCap =
-      /<wi type="G" value="3588,(\d+),[^"]*"\/>\s*<wi type="[GH]" value="[^"]+">(este|esta|estos|estas|ese|esa|esos|esas|aquel|aquella|aquellos|aquellas)\s+/gi;
+      /<wi type="G" value="3588,(\d*),?[^"]*"\/>\s*<wi type="[GH]" value="[^"]+">(este|esta|estos|estas|ese|esa|esos|esas|aquel|aquella|aquellos|aquellas)\s+/gi;
     for (const dm of convertido.matchAll(reDemoCap)) {
       const pre = convertido.slice(0, dm.index);
       const svM = pre.match(/<sv id="([^"]+)"/g);
@@ -315,7 +334,7 @@ function main() {
       const bal = wisAbren === wisCierran + wisSelfClose ? '✓' : '⚠';
       console.log(`   ${libroId}-${capitulo}: ${nestedAntes}→${nestedDespues} [${bal}]`);
       if (nestedDespues > 0) {
-        const reRestantes = /<wi type="G" value="3588,\d+,[^"]*">\s*<wi type=/g;
+        const reRestantes = /<wi type="G" value="3588,\d*,?[^"]*">\s*<wi type=/g;
         let m;
         while ((m = reRestantes.exec(convertido)) !== null) {
           const pre = convertido.slice(0, m.index);

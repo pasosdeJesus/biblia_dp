@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
 <sb id="Hebreos" type="" xml:lang="">
 <tt>The Letter to the Hebrews<t xml:lang="es">Carta a los Hebreos</t></tt>
 <sc id="Hebreos-1">
@@ -21,6 +20,7 @@ at many times and in various ways,
 <wi type="G" value="4396,12,">profetas</wi>
 </t>
 </sv>
+
 <sv id="Hebreos-1-2">
 has at the end of these days spoken
 to us by his Son, whom he appointed heir of all things, through whom also he
@@ -46,6 +46,7 @@ made the worlds.
 
 </t>
 </sv>
+
 <sv id="Hebreos-1-3">
 His Son is the radiance of his glory, the very image of
 his substance, and upholding all things by the word of his power, when he had
@@ -82,6 +83,7 @@ Majesty on high;
 <wi type="G" value="5308,33,">lo alto</wi>;
 </t>
 </sv>
+
 <sv id="Hebreos-1-4">
 having become so much better than the angels, as he has
 inherited a more excellent name than they have.
@@ -96,6 +98,7 @@ inherited a more excellent name than they have.
 <wi type="G" value="3844,8,">que</wi>
 <wi type="G" value="846,9,">el de ellos</wi>.</t>
 </sv>
+
 <sv id="Hebreos-1-5">
 For to which of the
 angels did he say at any time,
@@ -148,6 +151,7 @@ And he will be to me a Son?»
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-1-6">
 Again, when he brings in the firstborn into the
 world he says, «Let all
@@ -156,7 +160,8 @@ the angels of God worship him.»
 <wi type="G" value="3825,3,">de nuevo</wi>,
 <wi type="G" value="3752,1,">cuando</wi>
 <wi type="G" value="1521,4,">trae</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="4416,6,">al primogénito</wi>
+<wi type="G" value="3588,5,">al</wi>
+<wi type="G" value="4416,6,">primogénito</wi>
 <wi type="G" value="1519,7,">al</wi>
 <wi type="G" value="3588,8,"/><wi type="G" value="3625,9,">mundo</wi>
 <wi type="G" value="2532,11,"/>y <wi type="G" value="3004,10,">dice</wi>,
@@ -167,6 +172,7 @@ the angels of God worship him.»
 <wi type="G" value="4352,12,">adoren</wi>.»
 </t>
 </sv>
+
 <sv id="Hebreos-1-7">
 Of the angels he says,
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
@@ -196,6 +202,7 @@ And his servants a flame of fire.»
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-1-8">
 but of the Son he says,
 <t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
@@ -225,6 +232,7 @@ de
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-1-9">
 You have loved righteousness, and hated iniquity;
 <t xml:lang="es"><wi type="G" value="25,1,">Has amado</wi>
@@ -250,10 +258,10 @@ fellows.»
 <wi type="G" value="3588,18,"/><wi type="G" value="3353,19,">compañeros</wi>.»
 </t>
 
-
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-1-10">
 And,
 
@@ -281,6 +289,7 @@ The heavens are the works of your hands.
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-1-11">
 They will perish, but you continue.
 <t xml:lang="es"><wi type="G" value="846,1,">Ellos</wi>
@@ -300,6 +309,7 @@ They all will grow old like a garment does.
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-1-12">
 As a mantle you will roll them up,
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
@@ -316,7 +326,8 @@ But you are the same.
 <t xml:lang="es"><wi type="G" value="1161,9,">Pero</wi>
 <wi type="G" value="4771,8,">Tu</wi>
 <wi type="G" value="1488,12,">eres</wi>
-<wi type="G" value="3588,10,"/><wi type="G" value="846,11,">el mismo</wi>.</t>
+<wi type="G" value="3588,10,">el</wi>
+<wi type="G" value="846,11,">mismo</wi>.</t>
 <cl/>
 Your years will not fail.»
 <t xml:lang="es"><wi type="G" value="2532,13,">Y</wi>
@@ -326,6 +337,7 @@ Your years will not fail.»
 <wi type="G" value="1587,18,">fallarán</wi>.»</t>
 <cl/>
 </sv>
+
 <sv id="Hebreos-1-13">
 But of which of the angels has he said at any time,
 <t xml:lang="es"><wi type="G" value="1161,3,">Pero</wi>
@@ -360,6 +372,7 @@ Until I make your enemies the footstool of your feet?»
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-1-14">
 Aren´t they all ministering spirits, sent out to do service for the
 sake of those who will inherit salvation?
@@ -396,6 +409,7 @@ a
 <wi type="G" value="3379,9,">no sea que</wi>
 <wi type="G" value="3901,10,">nos resbalemos</wi>.</t>
 </sv>
+
 <sv id="Hebreos-2-2">
 For if the word spoken through angels
 proved steadfast, and every transgression and disobedience received a just
@@ -417,6 +431,7 @@ recompense;
 <wi type="G" value="3405,17,">una retribución</wi>
 <wi type="G" value="1738,16,">justa</wi>;</t>
 </sv>
+
 <sv id="Hebreos-2-3">
 how will we escape if we neglect so great a salvationwhich
 at the first having been spoken through the Lord, was confirmed to us by
@@ -440,6 +455,7 @@ those who heard;
 <wi type="G" value="3588,15,">los que</wi>
 <wi type="G" value="191,16,">escucharon</wi>;</t>
 </sv>
+
 <sv id="Hebreos-2-4">
 God also bearing witness with them, both by signs and
 wonders, and by various works of power, and by gifts of the Holy Spirit,
@@ -458,9 +474,11 @@ according to his own will?
 <wi type="G" value="4151,12,">del Espíritu</wi>
 <wi type="G" value="40,13,">Santo</wi>,
 <wi type="G" value="2596,15,">de acuerdo</wi>
-<wi type="G" value="3588,16,"/><wi type="G" value="846,17,">a Su</wi>
+<wi type="G" value="3588,16,">a</wi>
+<wi type="G" value="846,17,">Su</wi>
 <wi type="G" value="2308,18,">voluntad</wi>?</t>
 </sv>
+
 <sv id="Hebreos-2-5">
 For he didn´t subject the world to come,
 of which we speak, to angels.
@@ -475,6 +493,7 @@ of which we speak, to angels.
 <wi type="G" value="3739,10,">cual</wi>
 <wi type="G" value="2980,11,">hablamos</wi>.</t>
 </sv>
+
 <sv id="Hebreos-2-6">
 But one has somewhere testified,
 saying,
@@ -506,6 +525,7 @@ Or the son of man, that you care for him?
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-2-7">
 You made him a little lower than the angels;
 <t xml:lang="es"><wi type="G" value="846,2,">Lo</wi>
@@ -530,7 +550,8 @@ You crowned him with glory and honor.
 <wi type="G" value="2041,17,">obra</wi>
 <wi type="G" value="4675,20,">de tus</wi>
 <wi type="G" value="3588,18,"/><wi type="G" value="5495,19,">manos</wi>»
-</t><rf>TR adds «and set him over the works
+</t><rf>
+TR adds «and set him over the works
 of your hands»
 <t xml:lang="es">Esta parte no aparece en <citebib id="WEB"/> pero si en
 <citebib id="KJV2003"/>. <citebib id="WEB"/> incluye
@@ -542,6 +563,7 @@ la obra de tus manos»´</t>
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-2-8">
 You have put all things in subjection under his feet.»
 <t xml:lang="es"><wi type="G" value="5293,2,">Sujetaste</wi>
@@ -557,7 +579,8 @@ subject to him. But now we don´t see all things subjected to him, yet.
 <wi type="G" value="1722,7,">en</wi>
 <wi type="G" value="3588,9,">la</wi>
 <wi type="G" value="5293,10,">sujeción</wi>
-<wi type="G" value="3588,12,"/><wi type="G" value="3956,13,">de todo</wi>
+<wi type="G" value="3588,12,">de</wi>
+<wi type="G" value="3956,13,">todo</wi>
 <wi type="G" value="846,11,">a él</wi>,
 <wi type="G" value="3762,14,">no</wi>
 <wi type="G" value="863,15,">dejó</wi>
@@ -574,6 +597,7 @@ subject to him. But now we don´t see all things subjected to him, yet.
 </t>
 
 </sv>
+
 <sv id="Hebreos-2-9">
 But we see him who has been made a little lower than the angels, Jesus,
 because of the suffering of death crowned with glory and honor, that by the
@@ -658,7 +682,8 @@ all from one, for which cause he is not ashamed to call them
 <wi type="G" value="3588,1,"/><wi type="G" value="5037,2,">tanto</wi>
 <wi type="G" value="37,4,">el que santifica</wi>
 <wi type="G" value="2532,5,">como</wi>
-<wi type="G" value="3588,6,"/><wi type="G" value="37,7,">los santificados</wi>
+<wi type="G" value="3588,6,">los</wi>
+<wi type="G" value="37,7,">santificados</wi>
 son <wi type="G" value="3956,10,">todos</wi>
 <wi type="G" value="1537,8,">de</wi>
 <wi type="G" value="1520,9,">uno</wi>,
@@ -671,7 +696,8 @@ son <wi type="G" value="3956,10,">todos</wi>
 <wi type="G" value="2564,18,"><wi type="G" value="846,17,">de llamarlos</wi></wi>
 </t>
 
-<rb>brothers<t xml:lang="es"><wi type="G" value="80,16,">hermanos</wi></t><rf>The word for «brothers»
+<rb>brothers<t xml:lang="es"><wi type="G" value="80,16,">hermanos</wi></t><rf>
+The word for «brothers»
 here and where context allows may also be correctly translated «brothers and
 sisters» or «siblings.»
 <t xml:lang="es">La palabra para «hermanos», aquí y donde el contexto
@@ -681,6 +707,7 @@ lo permita también se puede traducir correctamente como
 ,
 
 </sv>
+
 <sv id="Hebreos-2-12">
 saying,
 <t xml:lang="es"><wi type="G" value="3004,1,">al decir</wi></t>
@@ -743,7 +770,8 @@ is, the devil,
 <wi type="G" value="2532,9,">también</wi>
 <wi type="G" value="846,10,">Él</wi>
 <wi type="G" value="3348,12,">tomó parte</wi>
-<wi type="G" value="3588,13,"/><wi type="G" value="846,14,">de lo mismo</wi>,
+<wi type="G" value="3588,13,">de</wi>
+<wi type="G" value="846,14,">lo mismo</wi>,
 <wi type="G" value="2443,15,">para</wi>
 <wi type="G" value="2673,19,">destruir</wi>
 <wi type="G" value="1223,16,">por</wi>
@@ -756,9 +784,11 @@ is, the devil,
 <wi type="G" value="2288,25,">muerte</wi>,
 <wi type="G" value="5124,26,">que</wi>
 <wi type="G" value="2076,27,">era</wi>,
-<wi type="G" value="3588,28,"/><wi type="G" value="1228,29,">el diablo</wi>,
+<wi type="G" value="3588,28,">el</wi>
+<wi type="G" value="1228,29,">diablo</wi>,
 </t>
 </sv>
+
 <sv id="Hebreos-2-15">
 and might deliver all of them who through fear of death
 were all their lifetime subject to bondage.
@@ -777,6 +807,7 @@ were all their lifetime subject to bondage.
 <wi type="G" value="1397,13,">esclavitud</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-2-16">
 For most assuredly, not to
 angels does he give help, but he gives help to the seed of Abraham.
@@ -827,6 +858,7 @@ to God, to make atonement for the sins of the people.
 <wi type="G" value="3588,23,">de la</wi>
 <wi type="G" value="2992,24,">gente</wi>.</t>
 </sv>
+
 <sv id="Hebreos-2-18">
 For in that he
 himself has suffered being tempted, he is able to help those who are
@@ -905,6 +937,7 @@ house has more honor than the house.
 <wi type="G" value="3588,13,"/><wi type="G" value="3624,14,">que la casa</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-3-4">
 For every house is built by
 someone; but he who built all things is God.
@@ -920,6 +953,7 @@ someone; but he who built all things is God.
 <wi type="G" value="3956,10,">todas las cosas</wi> es
 <wi type="G" value="2316,12,">Dios</wi>.</t>
 </sv>
+
 <sv id="Hebreos-3-5">
 Moses indeed was faithful
 in all his house as a servant, for a testimony of those things which were
@@ -939,6 +973,7 @@ afterward to be spoken,
 <wi type="G" value="3588,14,">de aquello</wi>
 que <wi type="G" value="2980,15,">después se diría</wi>,</t>
 </sv>
+
 <sv id="Hebreos-3-6">
 but Christ is faithful as a Son over his house;
 whose house we are, if we hold fast our confidence and the glorying of our
@@ -968,6 +1003,7 @@ hope firm to the end.
 <wi type="G" value="5056,22,">el final</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-3-7">
 Therefore, even as the Holy Spirit says,
 <t xml:lang="es"><wi type="G" value="1352,1,">Entonces</wi>,
@@ -988,6 +1024,7 @@ Therefore, even as the Holy Spirit says,
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-3-8">
 Don´t harden your hearts, as in the provocation,
 <t xml:lang="es"><wi type="G" value="3361,1,">No</wi>
@@ -1006,10 +1043,12 @@ Like as in the day of the trial in the wilderness,
 <wi type="G" value="3588,13,">de la</wi>
 <wi type="G" value="3986,14,">prueba</wi>
 <wi type="G" value="1722,15,">en</wi>
-<wi type="G" value="3588,16,"/><wi type="G" value="2048,17,">el desierto</wi>,</t>
+<wi type="G" value="3588,16,">el</wi>
+<wi type="G" value="2048,17,">desierto</wi>,</t>
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-3-9">
 Where your fathers tested me by proving me,
 <t xml:lang="es"><wi type="G" value="3757,1,">Donde</wi>
@@ -1032,6 +1071,7 @@ And saw my works for forty years.
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-3-10">
 Therefore I was displeased with that generation,
 <t xml:lang="es"><wi type="G" value="1352,1,">Por eso</wi>
@@ -1058,6 +1098,7 @@ But they didn´t know my ways;´
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-3-11">
 As I swore in my wrath,
 <t xml:lang="es"><wi type="G" value="5613,1,">Como</wi>
@@ -1097,6 +1138,7 @@ of unbelief, in falling away from the living God;
 <wi type="G" value="2198,16,">viviente</wi>;
 </t>
 </sv>
+
 <sv id="Hebreos-3-13">
 but exhort one
 another day by day, so long as it is called «today;» lest any one of you be
@@ -1120,6 +1162,7 @@ hardened by the deceitfulness of sin.
 <wi type="G" value="266,20,">pecado</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-3-14">
 For we have become partakers of
 Christ, if we hold fast the beginning of our confidence firm to the end:
@@ -1164,7 +1207,8 @@ Don´t harden your hearts, as in the rebellion.»
 <wi type="G" value="1722,16,">en</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,17,">la</wi>
 <wi type="G" value="3894,18,">provocación</wi><rf>
-<citebib id="WEB"/> dice `rebelión,´ aunque la palabra griega `παραπικρασμω´ es la misma usada
+<citebib id="WEB"/> dice `rebelión,´ aunque la palabra griega `παραπικρασμω´ es
+la misma usada
 en el versículo 3:8 donde se traduce como `provocación.´
 <citebib id="RVG2012"/> dice `provocación´ en 3:15 y tentación en 3:8.
 Según <citebib id="Thayer-BLB"/> esa palabra griega puede traducirse como
@@ -1177,6 +1221,7 @@ irritación, provocación.
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-3-16">
 For who, when they heard, rebelled? No, didn´t all those who came out
 of Egypt by Moses?
@@ -1198,6 +1243,7 @@ No fueron todos los que salieron de Egipto con Moisés?.´
 <citebib id="RVG2012"/> dice `Porque algunos de los que habían salido de Egipto
 con Moisés, habiendo oído, provocaron, aunque no todos.´</rf></rb>
 </sv>
+
 <sv id="Hebreos-3-17">
 With whom was he displeased forty years? Wasn´t it
 with those who sinned, whose bodies fell in the wilderness?
@@ -1213,9 +1259,11 @@ with those who sinned, whose bodies fell in the wilderness?
 <wi type="G" value="3588,10,"/><wi type="G" value="2966,11,">cadáveres</wi>
 <wi type="G" value="4098,12,">cayeron</wi>
 <wi type="G" value="1722,13,">en</wi>
-<wi type="G" value="3588,14,"/><wi type="G" value="2048,15,">el desierto</wi>?
+<wi type="G" value="3588,14,">el</wi>
+<wi type="G" value="2048,15,">desierto</wi>?
 </t>
 </sv>
+
 <sv id="Hebreos-3-18">
 To whom did he swear that they wouldn´t
 enter into his rest, but to those who were
@@ -1294,6 +1342,7 @@ al <wi type="G" value="3361,15,">no</wi>
 <wi type="G" value="191,20,">oyeron</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-4-3">
 For we who have believed do enter into that
 rest, even as he has said, «As I swore in my wrath, they will not enter into
@@ -1312,7 +1361,8 @@ my rest;» although the works were finished from the foundation of the world.
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="3450,15,">mi</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="3709,14,">ira</wi>, </t>
-<rb xml:lang="es"><wi type="G" value="1487,16,">no</wi><rf><citebib id="WEB"/> y
+<rb xml:lang="es"><wi type="G" value="1487,16,">no</wi><rf>
+<citebib id="WEB"/> y
 <citebib id="RVG2012"/> dicen `no.´
 <citebib id="KJV2003"/> usa el condicional `si.´
 La palabra griega `ει´ suele traducirse como
@@ -1336,6 +1386,7 @@ usada antes en 3:11 y en la cita original el Salmo
 </t>
 
 </sv>
+
 <sv id="Hebreos-4-4">
 For he has said this somewhere about the seventh day, «God rested on the
 seventh day from all his works;»
@@ -1349,13 +1400,15 @@ value="4012,4,">respecto</wi> <rf>
 Sin embargo la palabra griega `που´ suele
 traducirse como `donde.</rf></rb>
 <t xml:lang="es">
-<wi type="G" value="3588,5,"/><wi type="G" value="1442,6,">al séptimo</wi> día
+<wi type="G" value="3588,5,">al</wi>
+<wi type="G" value="1442,6,">séptimo</wi> día
 <wi type="G" value="3779,7,">así</wi>,
 «<wi type="G" value="2532,8,">Y</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="2316,11,">Dios</wi>
 <wi type="G" value="2664,9,">descansó</wi>
 <wi type="G" value="1722,12,">en</wi>
-<wi type="G" value="3588,15,"/><wi type="G" value="1442,16,">el séptimo</wi>
+<wi type="G" value="3588,15,">el</wi>
+<wi type="G" value="1442,16,">séptimo</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="2250,14,">día</wi>
 <wi type="G" value="575,17,">de</wi>
 <wi type="G" value="3956,18,">todas</wi>
@@ -1363,6 +1416,7 @@ traducirse como `donde.</rf></rb>
 <wi type="G" value="3588,19,"/><wi type="G" value="2041,20,">obras</wi>;»
 </t>
 </sv>
+
 <sv id="Hebreos-4-5">
 and in this place again, «They will not
 enter into my rest.»
@@ -1400,6 +1454,7 @@ disobedience,
 <wi type="G" value="1223,14,">a causa</wi>
 <wi type="G" value="543,15,">de la desobediencia</wi>,</t>
 </sv>
+
 <sv id="Hebreos-4-7">
 he again defines a certain day, today, saying throughs
 David so long a time afterward (just as has been said),
@@ -1437,6 +1492,7 @@ Don´t harden your hearts.»
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-4-8">
 For if Joshua had given them rest, he would not have spoken afterward of
 another day.
@@ -1487,6 +1543,7 @@ descansado</wi></wi> <wi type="G" value="575,16,">de</wi>
 <wi type="G" value="846,14,">los suyos</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-4-11">
 Let us therefore give diligence to
 enter into that rest, lest anyone fall after the same example of
@@ -1502,12 +1559,14 @@ disobedience.
 <wi type="G" value="5100,13,">alguno</wi>
 <wi type="G" value="4098,15,">caiga</wi>
 <wi type="G" value="1722,10,">en</wi>
-<wi type="G" value="3588,11,"/><wi type="G" value="846,12,">el mismo</wi>
+<wi type="G" value="3588,11,">el</wi>
+<wi type="G" value="846,12,">mismo</wi>
 <wi type="G" value="5262,14,">ejemplo</wi>
 <wi type="G" value="3588,16,">de</wi>
 <wi type="G" value="543,17,">desobediencia</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-4-12">
 For the word of God is living, and active, and sharper
 than any two-edged sword, and piercing even to the dividing of soul and
@@ -1572,6 +1631,7 @@ naked and laid open before the eyes of him with whom we have to do.
 <wi type="G" value="3588,19,"/><wi type="G" value="2254,18,"><wi type="G" value="3056,20,">respondemos</wi></wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-4-14">
 Having then a great high priest, who has passed through the heavens,
 Jesus, the Son of God, let us hold tightly to our confession.
@@ -1616,6 +1676,7 @@ without sin.
 <wi type="G" value="5565,17,">sin</wi>
 <wi type="G" value="266,18,">pecar</wi>.</t>
 </sv>
+
 <sv id="Hebreos-4-16">
 Let us therefore draw near with boldness to the throne of
 grace, that we may receive mercy, and may find grace for help in time of
@@ -1668,12 +1729,14 @@ for sins.
 <wi type="G" value="266,21,">pecados</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-5-2">
 The high priest can deal gently with those who are ignorant
 and going astray, because he himself is also surrounded with weakness.
 <t xml:lang="es"><wi type="G" value="1410,2,">El cual</wi>
 <wi type="G" value="3356,1,">tiene compasión con</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="50,4,">los ignorantes</wi>
+<wi type="G" value="3588,3,">los</wi>
+<wi type="G" value="50,4,">ignorantes</wi>
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="4105,6,">los extraviados</wi>
 <wi type="G" value="1893,7,">pues</wi>
@@ -1684,6 +1747,7 @@ and going astray, because he himself is also surrounded with weakness.
 </t>
 
 </sv>
+
 <sv id="Hebreos-5-3">
 Because of this, he must offer sacrifices for sins for the people, as
 well as for himself.
@@ -1817,6 +1881,7 @@ traduce como temor de Dios o temor.
 <t xml:lang="es">,
 </t>
 </sv>
+
 <sv id="Hebreos-5-8">
 though he was a Son, yet learned
 obedience by the things which he suffered.
@@ -1846,6 +1911,7 @@ became to all of those who obey him the author of eternal salvation,
 </t>
 
 </sv>
+
 <sv id="Hebreos-5-10">
 named by God a high priest after the order of Melchizedek.
 <t xml:lang="es"><wi type="G" value="4316,1,">nombrado</wi>
@@ -1857,6 +1923,7 @@ named by God a high priest after the order of Melchizedek.
 <wi type="G" value="5010,8,">orden</wi>
 <wi type="G" value="3198,9,">de Melquisedec</wi>.</t>
 </sv>
+
 <sv id="Hebreos-5-11">
 About
 him we have many words to say, and hard to interpret, seeing you
@@ -1884,6 +1951,7 @@ se traduce como decir, hablar,llamar, contar.
 <wi type="G" value="189,14,">oídos</wi>. </t>
 
 </sv>
+
 <sv id="Hebreos-5-12">
 For when by reason of the time you ought
 to be teachers, you again need to have someone teach you the rudiments
@@ -1937,6 +2005,7 @@ es <wi type="G" value="552,6,">inexperto</wi>
 <wi type="G" value="3516,9,">un bebé</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-5-14">
 But solid
 food is for those who are full grown, who by reason of use have their senses
@@ -1993,6 +2062,7 @@ from dead works, of faith toward God,
 <wi type="G" value="2316,24,">Dios</wi>,
 </t>
 </sv>
+
 <sv id="Hebreos-6-2">
 of the teaching of baptisms, of
 laying on of hands, of resurrection of the dead, and of eternal judgment.
@@ -2041,6 +2111,7 @@ que <wi type="G" value="1089,6,">probaron</wi>
 <wi type="G" value="4151,15,">del Espíritu</wi>
 <wi type="G" value="40,16,">Santo</wi>,</t>
 </sv>
+
 <sv id="Hebreos-6-5">
 and tasted the good word of God, and the powers of the age
 to come,
@@ -2054,6 +2125,7 @@ que <wi type="G" value="1089,3,">probaron</wi>
 <wi type="G" value="165,9,">del tiempo</wi>
 <wi type="G" value="3195,8,">que vendrá</wi></t>
 </sv>
+
 <sv id="Hebreos-6-6">
 and then fell away, it is impossible to renew them again to
 repentance; seeing they crucify the Son of God for themselves again, and put
@@ -2074,6 +2146,7 @@ value="3895,2,">caen</wi>,
 <wi type="G" value="2532,13,">y</wi> lo
 <wi type="G" value="3856,14,">avergonzaron públicamente</wi>.</t>
 </sv>
+
 <sv id="Hebreos-6-7">
 For the land which has drunk the rain that comes
 often on it, and brings forth a crop suitable for them for whose sake it is
@@ -2107,6 +2180,7 @@ traduce como hierba para alimento, hierba verde, planta que crece.
 <wi type="G" value="575,22,">de</wi>
 <wi type="G" value="3588,23,"/><wi type="G" value="2316,24,">Dios</wi>;</t>
 </sv>
+
 <sv id="Hebreos-6-8">
 but if it bears thorns and
 thistles, it is rejected and near being cursed, whose end is to be burned.
@@ -2143,6 +2217,7 @@ accompany salvation, even though we speak like this.
 <wi type="G" value="2980,14,">hablemos</wi>
 <wi type="G" value="3779,13,">así</wi>.</t>
 </sv>
+
 <sv id="Hebreos-6-10">
 For God is not
 unrighteous, so as to forget your work and the labor of love which you
@@ -2171,6 +2246,7 @@ la <wi type="G" value="3588,11,"/><wi type="G" value="2873,12,">obra</wi>
 <wi type="G" value="1247,25,">sirviendo</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-6-11">
 We desire that each one of you may show the same diligence
 to the fullness of hope even to the end,
@@ -2190,6 +2266,7 @@ to the fullness of hope even to the end,
 <wi type="G" value="5056,15,">el</wi> final,
 </t>
 </sv>
+
 <sv id="Hebreos-6-12">
 that you won´t be
 sluggish, but imitators of those who through faith and patience inherited the
@@ -2243,6 +2320,7 @@ you, and I will surely multiply you.»
 <wi type="G" value="4571,10,">te</wi>
 <wi type="G" value="4129,9,">multiplicaré</wi>.»</t>
 </sv>
+
 <sv id="Hebreos-6-15">
 Thus, having patiently endured,
 he obtained the promise.
@@ -2254,6 +2332,7 @@ he obtained the promise.
 <wi type="G" value="1860,6,">promesa</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-6-16">
 For men indeed swear by a greater one, and in
 every dispute of theirs the oath is final for confirmation.
@@ -2273,6 +2352,7 @@ es <wi type="G" value="4009,12,">definitivo</wi>
 <wi type="G" value="951,14,">confirmar</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-6-17">
 In this way
 God, being determined to show more abundantly to the heirs of the promise the
@@ -2294,6 +2374,7 @@ a <wi type="G" value="3588,8,">los</wi>
 <wi type="G" value="3315,17,">lo confirmó con</wi>
 <wi type="G" value="3727,18,">un juramento</wi>;</t>
 </sv>
+
 <sv id="Hebreos-6-18">
 that by two
 immutable things, in which it is impossible for God to lie, we may have a
@@ -2331,6 +2412,7 @@ se traduce como tener poder, tomar posesión de, agarrar. </rf></rb>
 <wi type="G" value="3588,17,"/><wi type="G" value="4295,18,">presentada</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-6-19">
 This hope we have as an anchor of the soul, a hope both sure
 and steadfast and entering into that which is within the veil;
@@ -2351,6 +2433,7 @@ and steadfast and entering into that which is within the veil;
 <wi type="G" value="3588,16,">del</wi>
 <wi type="G" value="2665,17,">velo</wi>;</t>
 </sv>
+
 <sv id="Hebreos-6-20">
 where as
 a forerunner Jesus entered for us, having become a high priest forever after
@@ -2392,7 +2475,8 @@ met Abraham returning from the slaughter of the kings and blessed him,
 <wi type="G" value="5290,15,">cuando volvía</wi>
 <wi type="G" value="575,16,">de</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,17,">la</wi>
-<wi type="G" value="2871,18,">matanza</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/>
+<wi type="G" value="2871,18,">matanza</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/>
 dicen `matanza,´
 <citebib id="RVG2012"/> dice `derrota.´ Según <citebib id="Thayer-BLB"/> la
 palabra griega `κοπή´ es el acto de cortar, cortar en pedazos, matar.
@@ -2405,6 +2489,7 @@ palabra griega `κοπή´ es el acto de cortar, cortar en pedazos, matar.
 <wi type="G" value="2127,22,">bendijo</wi>,</t>
 
 </sv>
+
 <sv id="Hebreos-7-2">
 to whom also Abraham divided a tenth part of all (being first, by
 interpretation, king of righteousness, and then also king of Salem, which is
@@ -2431,6 +2516,7 @@ king of peace;
 <wi type="G" value="935,20,">rey</wi>
 <wi type="G" value="1515,21,">de paz</wi>;</t>
 </sv>
+
 <sv id="Hebreos-7-3">
 without father, without mother, without genealogy, having
 neither beginning of days nor end of life, but made like the Son of God),
@@ -2456,6 +2542,7 @@ remains a priest continually.
 <wi type="G" value="2409,18,">sacerdote</wi>
 <wi type="G" value="3588,20,"/><wi type="G" value="1336,21,">continuamente</wi>.</t>
 </sv>
+
 <sv id="Hebreos-7-4">
 Now consider how great this man was, to
 whom even Abraham, the patriarch, gave a tenth out of the best spoils.
@@ -2475,12 +2562,14 @@ whom even Abraham, the patriarch, gave a tenth out of the best spoils.
 <wi type="G" value="205,12,">botines</wi>.</t>
 
 </sv>
+
 <sv id="Hebreos-7-5">
 They indeed of the sons of Levi who receive the priest´s office have a
 commandment to take tithes of the people according to the law, that is, of
 their brothers, though these have come out of the body of Abraham,
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>,
-<wi type="G" value="3588,2,"/><wi type="G" value="3303,3,">de hecho</wi>,
+<wi type="G" value="3588,2,">de</wi>
+<wi type="G" value="3303,3,">hecho</wi>,
 <wi type="G" value="1537,4,"/><wi type="G" value="3588,5,">los</wi>
 <wi type="G" value="5207,6,">hijos</wi>
 <wi type="G" value="3017,7,">de Levi</wi>
@@ -2506,6 +2595,7 @@ their brothers, though these have come out of the body of Abraham,
 <wi type="G" value="11,29,">de Abraham</wi>,
 </t>
 </sv>
+
 <sv id="Hebreos-7-6">
 but
 he whose genealogy is not counted from them has taken tithes of Abraham, and
@@ -2516,7 +2606,8 @@ has blessed him who has the promises.
 está <wi type="G" value="1075,4,">en la genealogía</wi>
 <wi type="G" value="1537,5,">de</wi>
 <wi type="G" value="846,6,">ellos</wi>
-<rf><citebib id="WEB"/>
+<rf>
+<citebib id="WEB"/>
 dice `cuya genealogía no se cuenta de ellos,´
 <citebib id="RVG2012"/> dice `cuya genealogía no es contada de ellos.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `γενεαλογούμενος´
@@ -2525,7 +2616,8 @@ de una familia, trazar ancestros.
 </rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1183,7,">recibió los diezmos</wi>
-<wi type="G" value="3588,8,"/><wi type="G" value="11,9,">de Abraham</wi>,
+<wi type="G" value="3588,8,">de</wi>
+<wi type="G" value="11,9,">Abraham</wi>,
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="2127,15,">bendijo</wi>
 <wi type="G" value="3588,11,">al que</wi>
@@ -2533,6 +2625,7 @@ de una familia, trazar ancestros.
 <wi type="G" value="3588,13,">las</wi>
 <wi type="G" value="1860,14,">promesas</wi>.</t>
 </sv>
+
 <sv id="Hebreos-7-7">
 But without any dispute the less
 is blessed by the better.
@@ -2540,11 +2633,14 @@ is blessed by the better.
 <wi type="G" value="5565,1,">sin</wi>
 <wi type="G" value="485,4,">contradicción</wi>
 <wi type="G" value="3956,3,">alguna</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="1640,6,">el menor</wi>
+<wi type="G" value="3588,5,">el</wi>
+<wi type="G" value="1640,6,">menor</wi>
 <wi type="G" value="2127,10,">es bendecido</wi>
 <wi type="G" value="5259,7,">por</wi>
-<wi type="G" value="3588,8,"/><wi type="G" value="2909,9,">el mejor</wi>.</t>
+<wi type="G" value="3588,8,">el</wi>
+<wi type="G" value="2909,9,">mejor</wi>.</t>
 </sv>
+
 <sv id="Hebreos-7-8">
 Here people who die receive tithes, but there
 one receives tithes of whom it is testified that he lives.
@@ -2561,6 +2657,7 @@ one receives tithes of whom it is testified that he lives.
 <wi type="G" value="3754,11,">que</wi>
 <wi type="G" value="2198,12,">vive</wi>.</t>
 </sv>
+
 <sv id="Hebreos-7-9">
 So to say,
 through Abraham even Levi, who receives tithes, has paid tithes,
@@ -2575,6 +2672,7 @@ through Abraham even Levi, who receives tithes, has paid tithes,
 <wi type="G" value="3588,9,"/><wi type="G" value="1181,10,">diezmos</wi>,
 <wi type="G" value="1183,12,">ha pagado diezmos</wi>, </t>
 </sv>
+
 <sv id="Hebreos-7-10">
 for he
 was yet in the body of his father when Melchizedek met him.
@@ -2591,6 +2689,7 @@ was yet in the body of his father when Melchizedek met him.
 <wi type="G" value="846,11,">lo</wi>
 <wi type="G" value="4876,10,">conoció</wi></t>
 </sv>
+
 <sv id="Hebreos-7-11">
 Now if
 there was perfection through the Levitical priesthood (for under it the
@@ -2628,6 +2727,7 @@ Aaron?
 <wi type="G" value="2,31,">de Aaron</wi>?
 </t>
 </sv>
+
 <sv id="Hebreos-7-12">
 For the priesthood being changed, there is of necessity a change
 made also in the law.
@@ -2642,6 +2742,7 @@ made also in the law.
 <wi type="G" value="3331,9,">cambiar</wi>
 <wi type="G" value="3551,8,">la ley</wi>.</t>
 </sv>
+
 <sv id="Hebreos-7-13">
 For he of whom these things are said belongs to
 another tribe, from which no one has officiated at the altar.
@@ -2661,6 +2762,7 @@ another tribe, from which no one has officiated at the altar.
 <wi type="G" value="2379,14,">altar</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-7-14">
 For it is
 evident that our Lord has sprung out of Judah, about which tribe Moses spoke
@@ -2682,6 +2784,7 @@ nothing concerning priesthood.
 <wi type="G" value="4012,14,">respecto</wi>
 <wi type="G" value="2420,15,">al sacerdocio</wi>.</t>
 </sv>
+
 <sv id="Hebreos-7-15">
 This is yet more abundantly evident, if
 after the likeness of Melchizedek there arises another priest,
@@ -2698,6 +2801,7 @@ after the likeness of Melchizedek there arises another priest,
 <wi type="G" value="2087,13,">otro</wi>
 <wi type="G" value="2409,12,">sacerdote</wi>,</t>
 </sv>
+
 <sv id="Hebreos-7-16">
 who has
 been made, not after the law of a fleshly commandment, but after the power of
@@ -2715,6 +2819,7 @@ an endless life:
 <wi type="G" value="2222,11,">de la vida</wi>
 <wi type="G" value="179,12,">inmortal</wi>:</t>
 </sv>
+
 <sv id="Hebreos-7-17">
 for it is testified,
 <t xml:lang="es"><wi type="G" value="1063,2,"><wi type="G" value="3754,3,">pues</wi></wi>
@@ -2751,6 +2856,7 @@ weakness and uselessness
 <wi type="G" value="2532,11,">e</wi>
 <wi type="G" value="512,12,">inutilidad</wi></t>
 </sv>
+
 <sv id="Hebreos-7-19">
 (for the law made nothing perfect), and a
 bringing in thereupon of a better hope, through which we draw near to God.
@@ -2769,12 +2875,14 @@ bringing in thereupon of a better hope, through which we draw near to God.
 <wi type="G" value="3588,13,">a</wi>
 <wi type="G" value="2316,14,">Dios</wi>.</t>
 </sv>
+
 <sv id="Hebreos-7-20">
 Inasmuch as he was not made priest without the taking of an oath
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="2596,2,">Por</wi>
 <wi type="G" value="3745,3,">cuanto</wi>
 <wi type="G" value="3756,4,">no</wi> </t>
-<rb xml:lang="es"><rf>Para facilitar la lectura
+<rb xml:lang="es"><rf>
+Para facilitar la lectura
 <citebib id="WEB"/> and <citebib id="KJV2003"/> agregan
 `fue hecho sacerdote.´</rf></rb>
 <t xml:lang="es">
@@ -2782,6 +2890,7 @@ fue <wi type="G" value="5565,5,">sin</wi>
 <wi type="G" value="3728,6,">un juramento</wi></t>
 
 </sv>
+
 <sv id="Hebreos-7-21">
 (for they indeed have been made priests without an oath), but he with
 an oath by him that says of him,
@@ -2842,11 +2951,13 @@ en <wi type="G" value="1450,6,">garantía</wi>
 </t>
 
 </sv>
+
 <sv id="Hebreos-7-23">
 Many, indeed, have been made priests, because they are hindered from
 continuing by death.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>,
-<wi type="G" value="3588,2,"/><wi type="G" value="3303,3,">de hecho</wi>,
+<wi type="G" value="3588,2,">de</wi>
+<wi type="G" value="3303,3,">hecho</wi>,
 <wi type="G" value="4119,4,">muchos</wi>
 <wi type="G" value="1526,5,">fueron</wi>
 <wi type="G" value="1096,6,">constituidos</wi>
@@ -2854,9 +2965,11 @@ continuing by death.
 <wi type="G" value="1223,8,">porque</wi>
 <wi type="G" value="2967,11,">estaban impedidos</wi>
 <wi type="G" value="3887,12,">de continuar</wi> por
-<wi type="G" value="3588,9,"/><wi type="G" value="2288,10,">la muerte</wi>.
+<wi type="G" value="3588,9,">la</wi>
+<wi type="G" value="2288,10,">muerte</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-7-24">
 But he, because he lives forever, has his
 priesthood unchangeable.
@@ -2871,6 +2984,7 @@ priesthood unchangeable.
 <wi type="G" value="2420,13,">sacerdocio</wi>
 <wi type="G" value="531,10,">inalterable</wi>.</t>
 </sv>
+
 <sv id="Hebreos-7-25">
 Therefore he is also able to save to the
 uttermost those who draw near to God through him, seeing he ever lives to
@@ -2908,7 +3022,8 @@ separated from sinners, and made higher than the heavens;
 <wi type="G" value="283,8,">puro</wi>,
 <wi type="G" value="5563,9,">separado</wi>
 <wi type="G" value="575,10,">de</wi>
-<wi type="G" value="3588,11,"/><wi type="G" value="268,12,">los pecadores</wi>,
+<wi type="G" value="3588,11,">los</wi>
+<wi type="G" value="268,12,">pecadores</wi>,
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="1096,17,">hecho</wi>
 <wi type="G" value="5308,14,">más alto</wi> que
@@ -2916,6 +3031,7 @@ separated from sinners, and made higher than the heavens;
 <wi type="G" value="3772,16,">cielos</wi>;
 </t>
 </sv>
+
 <sv id="Hebreos-7-27">
 who doesn´t
 need, like those high priests, to daily offer up sacrifices, first for his
@@ -3005,13 +3121,16 @@ Majesty in the heavens,
 <wi type="G" value="3772,19,">cielos</wi>,
 </t>
 </sv>
+
 <sv id="Hebreos-8-2">
 a minister of the sanctuary, and of the true
 tabernacle, which the Lord pitched, not man.
 <t xml:lang="es"><wi type="G" value="3011,3,">un ministro</wi>
-<wi type="G" value="3588,1,"/><wi type="G" value="39,2,">del santuario</wi>,
+<wi type="G" value="3588,1,">del</wi>
+<wi type="G" value="39,2,">santuario</wi>,
 <wi type="G" value="2532,4,">y</wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="228,8,">del verdadero</wi>
+<wi type="G" value="3588,7,">del</wi>
+<wi type="G" value="228,8,">verdadero</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="4633,6,">tabernáculo</wi>,
 <wi type="G" value="3739,9,">que</wi>
 <wi type="G" value="3588,11,">el</wi>
@@ -3022,6 +3141,7 @@ tabernacle, which the Lord pitched, not man.
 <wi type="G" value="444,15,">hombre</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-8-3">
 For every high priest is
 appointed to offer both gifts and sacrifices. Therefore it is necessary that
@@ -3046,6 +3166,7 @@ this high priest also have something to offer.
 <wi type="G" value="4374,19,">que ofrecer</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-8-4">
 For if he were on earth,
 he would not be a priest at all, seeing there are priests who offer the gifts
@@ -3069,6 +3190,7 @@ according to the law;
 <wi type="G" value="3551,18,">ley</wi>;
 </t>
 </sv>
+
 <sv id="Hebreos-8-5">
 who serve a copy and shadow of the heavenly
 things, even as Moses was warned by God when he was about to make the
@@ -3102,6 +3224,7 @@ pattern that was shown to you on the mountain.»
 <wi type="G" value="3735,28,">monte</wi>.»
 </t>
 </sv>
+
 <sv id="Hebreos-8-6">
 But now he has obtained
 a more excellent ministry, by so much as he is also the mediator of a better
@@ -3124,6 +3247,7 @@ covenant, which has been enacted on better promises.
 <wi type="G" value="1860,15,">promesas</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-8-7">
 For if that first
 covenant had been faultless, then no place would have been sought for a
@@ -3140,6 +3264,7 @@ second.
 <wi type="G" value="302,9,"/><wi type="G" value="1208,10,">un segundo</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-8-8">
 For finding fault with them, he said,
 <t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> </t>
@@ -3181,6 +3306,7 @@ of Judah;
 </sv></cm>
 
 <cm type="PO">
+
 <sv id="Hebreos-8-9">
 Not according to the covenant that I made with their fathers,
 <t xml:lang="es"><wi type="G" value="3756,1,">No</wi>
@@ -3229,6 +3355,7 @@ Según <citebib id="Thayer-BLB"/> la palabra griega
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-8-10">
 «For this is the covenant that I will make with the house of Israel.
 <t xml:lang="es">«<wi type="G" value="3754,1,">Entonces</wi>
@@ -3281,6 +3408,7 @@ And they will be to me a people.
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-8-11">
 They will not teach every man his
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
@@ -3289,7 +3417,8 @@ They will not teach every man his
 <wi type="G" value="846,8,">su</wi>
 </t>
 <rb>fellow citizen,
-<t xml:lang="es"><wi type="G" value="3588,6,"/><wi type="G" value="4139,7,">vecino</wi></t><rf>TR reads
+<t xml:lang="es"><wi type="G" value="3588,6,"/><wi type="G" value="4139,7,">vecino</wi></t><rf>
+TR reads
 «neighbor» instead of «fellow citizen»<t xml:lang="es">
 <citebib id="WEB"/> dice `conciudadano´ con nota al pie que
 dice: TR dice `vecino´ en lugar de `conciudadano.´
@@ -3324,6 +3453,7 @@ From the least of them to the greatest of them.
 </sv></cm>
 
 <cm type="PO">
+
 <sv id="Hebreos-8-12">
 For I will be merciful to their unrighteousness.
 <t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
@@ -3357,7 +3487,8 @@ which is becoming old and grows aged is near to vanishing away.
 <wi type="G" value="3588,2,"/><wi type="G" value="3004,3,">decir</wi>
 «<wi type="G" value="2537,4,">nuevo</wi> pacto,»
 <wi type="G" value="3822,5,">ha hecho viejo</wi>
-<wi type="G" value="3588,6,"/><wi type="G" value="4413,7,">al primero</wi>.
+<wi type="G" value="3588,6,">al</wi>
+<wi type="G" value="4413,7,">primero</wi>.
 <wi type="G" value="1161,9,">Y</wi>
 <wi type="G" value="3588,8,">lo que</wi>
 <wi type="G" value="3822,10,">decae</wi>
@@ -3416,7 +3547,8 @@ estaba <wi type="G" value="5037,9,">tanto</wi> </t>
 <rb xml:lang="es">
 <wi type="G" value="3588,8,">el</wi>
 <wi type="G" value="3087,10,">candelero</wi>
-<rf><citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="TR"/> dicen
+<rf>
+<citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="TR"/> dicen
 `candelero,´
 <citebib id="RVG2012"/> dice `candeleros´ (en plural).</rf></rb>
 <t xml:lang="es">
@@ -3482,6 +3614,7 @@ tables of the covenant;
 <wi type="G" value="3588,28,">del</wi>
 <wi type="G" value="1242,29,">pacto</wi>;</t>
 </sv>
+
 <sv id="Hebreos-9-5">
 and above it cherubim of glory overshadowing the
 mercy seat, of which things we can´t now speak in detail.
@@ -3503,6 +3636,7 @@ mercy seat, of which things we can´t now speak in detail.
 <wi type="G" value="3313,16,">detalle</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-9-6">
 Now these
 things having been thus prepared, the priests go in continually into the
@@ -3517,19 +3651,22 @@ first tabernacle, accomplishing the services,
 <wi type="G" value="1524,11,">entraban</wi>
 <wi type="G" value="1275,10,">continuamente</wi>
 <wi type="G" value="1519,5,">en</wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="4413,8,">el primer</wi>
+<wi type="G" value="3588,7,">el</wi>
+<wi type="G" value="4413,8,">primer</wi>
 <wi type="G" value="4633,9,">tabernáculo</wi>,
 <wi type="G" value="2005,16,">cumpliendo</wi>
 <wi type="G" value="3588,14,">los</wi>
 <wi type="G" value="2999,15,">servicios</wi>, </t>
 </sv>
+
 <sv id="Hebreos-9-7">
 but into the second the
 high priest alone, once in the year, not without blood, which he offers for
 himself, and for the errors of the people.
 <t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
 <wi type="G" value="1519,1,">en</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="1208,4,">el segundo</wi>,
+<wi type="G" value="3588,3,">el</wi>
+<wi type="G" value="1208,4,">segundo</wi>,
 <wi type="G" value="3441,8,">sólo</wi>
 <wi type="G" value="3588,9,">el</wi>
 <wi type="G" value="749,10,">sumo sacerdote</wi>,
@@ -3556,6 +3693,7 @@ se traduce como pecado cometido por ignorancia o sin pensar.
 <wi type="G" value="2992,21,">pueblo</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-9-8">
 The Holy Spirit is indicating
 this, that the way into the Holy Place wasn´t yet revealed while the first
@@ -3571,12 +3709,14 @@ tabernacle was still standing;
 <wi type="G" value="3380,7,">no</wi>
 <wi type="G" value="5319,8,">había sido revelado</wi>
 <wi type="G" value="2089,13,">mientras</wi>
-<wi type="G" value="3588,14,"/><wi type="G" value="4413,15,">el primer</wi>
+<wi type="G" value="3588,14,">el</wi>
+<wi type="G" value="4413,15,">primer</wi>
 <wi type="G" value="4633,16,">tabernáculo</wi>
 <wi type="G" value="2192,17,">estuviera</wi>
 <wi type="G" value="4714,18,">en pie</wi>;
 </t>
 </sv>
+
 <sv id="Hebreos-9-9">
 which is a symbol of the present age,
 where gifts and sacrifices are offered that are incapable, concerning the
@@ -3597,7 +3737,8 @@ conscience, of making the worshipper perfect;
 <wi type="G" value="2596,17,">respecto a</wi>
 <wi type="G" value="4893,18,">la conciencia</wi>,
 <wi type="G" value="5048,19,">de perfeccionar</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,20,"/><wi type="G" value="3000,21,">al que realizaba el servicio</wi><rf>
+<rb xml:lang="es"><wi type="G" value="3588,20,">al</wi>
+<wi type="G" value="3000,21,">que realizaba el servicio</wi><rf>
 <citebib id="WEB"/> dice `adorador,´
 <citebib id="KJV2003"/> dice `al que realiza el servicio.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `λατρευοντα´ se traduce
@@ -3641,7 +3782,8 @@ to say, not of this creation,
 <wi type="G" value="18,7,">de las buenas cosas</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="3195,6,">que vendrían</wi>,
 <wi type="G" value="1223,8,">por</wi>
-<wi type="G" value="3588,9,"/><wi type="G" value="3173,10,">el mayor</wi>
+<wi type="G" value="3588,9,">el</wi>
+<wi type="G" value="3173,10,">mayor</wi>
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="5046,12,">más perfecto</wi>
 <wi type="G" value="4633,13,">tabernáculo</wi>,
@@ -3671,7 +3813,8 @@ Place, having obtained eternal redemption.
 <wi type="G" value="1525,12,">entrando</wi>
 <wi type="G" value="2178,13,">una sola vez</wi>
 <wi type="G" value="1519,14,">en</wi>
-<wi type="G" value="3588,15,"/><wi type="G" value="39,16,">el santuario</wi>,
+<wi type="G" value="3588,15,">el</wi>
+<wi type="G" value="39,16,">santuario</wi>,
 <wi type="G" value="2147,19,">habiendo obtenido</wi>
 <wi type="G" value="3085,18,">redención</wi>
 <wi type="G" value="166,17,">eterna</wi>.
@@ -3693,11 +3836,13 @@ sanctify to the cleanness of the flesh:
 <wi type="G" value="4700,9,">la ceniza</wi>
 <wi type="G" value="1151,10,">de una novilla</wi>
 <wi type="G" value="4472,11,">rociada sobre</wi>
-<wi type="G" value="3588,12,"/><wi type="G" value="2840,13,">los impuros</wi>,
+<wi type="G" value="3588,12,">los</wi>
+<wi type="G" value="2840,13,">impuros</wi>,
 <wi type="G" value="37,14,">santifica</wi>
 <wi type="G" value="4314,15,">para</wi>
 <wi type="G" value="2514,19,">la purificación</wi>
-<wi type="G" value="3588,16,"/><wi type="G" value="3588,17,">de la</wi>
+<wi type="G" value="3588,16,">de</wi>
+<wi type="G" value="3588,17,">la</wi>
 <wi type="G" value="4561,18,">carne</wi>,</t>
 </sv>
 
@@ -3773,6 +3918,7 @@ que había <wi type="G" value="1909,14,">bajo</wi>
 <wi type="G" value="166,25,">eterna</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-9-16">
 For where a last will and testament is, there must
 of necessity be the death of him who made it.
@@ -3782,9 +3928,11 @@ of necessity be the death of him who made it.
 es <wi type="G" value="318,5,">necesario</wi>  que
 <wi type="G" value="5342,6,">se de</wi>
 <wi type="G" value="2288,4,">la muerte</wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="1303,8,">del que lo hizo</wi>.
+<wi type="G" value="3588,7,">del</wi>
+<wi type="G" value="1303,8,">que lo hizo</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-9-17">
 For a will is in force
 where there has been death, for it is never in force while he who made it
@@ -3803,18 +3951,21 @@ lives.
 <wi type="G" value="1303,12,">lo hizo</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-9-18">
 Therefore even the first covenant has not been dedicated without
 blood.
 <t xml:lang="es"><wi type="G" value="3606,1,">Entonces</wi>
 <wi type="G" value="3761,2,">incluso</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="4413,4,">el primero</wi>
+<wi type="G" value="3588,3,">el</wi>
+<wi type="G" value="4413,4,">primero</wi>
 <wi type="GC" value="2">no</wi>
 <wi type="G" value="1457,7,">fue dedicado</wi>
 <wi type="G" value="5565,5,">sin</wi>
 <wi type="G" value="129,6,">sangre</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-9-19">
 For when every commandment had been spoken by Moses to all the
 people according to the law, he took the blood of the calves and the goats,
@@ -3852,6 +4003,7 @@ y <wi type="G" value="846,26,"/><wi type="G" value="4472,34,">roció</wi>
 <wi type="G" value="3956,31,">todo</wi>
 <wi type="G" value="3588,32,"/><wi type="G" value="2992,33,">le pueblo</wi>,</t>
 </sv>
+
 <sv id="Hebreos-9-20">
 saying, «This is the blood of the covenant which
 God has commanded you.»
@@ -3887,6 +4039,7 @@ ministry in like manner with the blood.
 <wi type="G" value="3588,11,"/><wi type="G" value="129,12,">con la sangre</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-9-22">
 According to the law, nearly
 everything is cleansed with blood, and apart from shedding of blood there is
@@ -3908,6 +4061,7 @@ no remission.
 <wi type="G" value="859,15,">remisión</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-9-23">
 It was necessary therefore that the copies of the things
 in the heavens should be cleansed with these; but the heavenly things
@@ -3976,13 +4130,15 @@ holy place year by year with blood not his own,
 <wi type="G" value="749,8,">sumo sacerdote</wi>
 que <wi type="G" value="1525,9,">entra</wi>
 <wi type="G" value="1519,10,">en</wi>
-<wi type="G" value="3588,11,"/><wi type="G" value="39,12,">el santuario</wi>
+<wi type="G" value="3588,11,">el</wi>
+<wi type="G" value="39,12,">santuario</wi>
 <wi type="G" value="2596,13,">cada</wi>
 <wi type="G" value="1763,14,">año</wi>
 <wi type="G" value="1722,15,">con</wi>
 <wi type="G" value="129,16,">sangre</wi>
 <wi type="G" value="245,17,">de otros</wi>,</t>
 </sv>
+
 <sv id="Hebreos-9-26">
 or else he must have
 suffered often since the foundation of the world. But now once at the end of
@@ -4010,6 +4166,7 @@ the ages, he has been revealed to put away sin by the sacrifice of himself.
 <wi type="G" value="3588,20,"/><wi type="G" value="2378,21,">sacrificio</wi>.</t>
 
 </sv>
+
 <sv id="Hebreos-9-27">
 Inasmuch as it is appointed for men to die once, and after this,
 judgment,
@@ -4026,6 +4183,7 @@ judgment,
 <wi type="G" value="5124,11,">esto</wi>,
 <wi type="G" value="2920,12,">el juicio</wi>, </t>
 </sv>
+
 <sv id="Hebreos-9-28">
 so Christ also, having been once offered to bear the sins of
 many, will appear a second time, without sin, to those who are eagerly
@@ -4037,7 +4195,8 @@ waiting for him for salvation.
 <wi type="G" value="1519,6,">para</wi>
 <wi type="G" value="399,9,">llevar</wi>
 <wi type="G" value="266,10,">los pecados</wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="4183,8,">de muchos</wi>,
+<wi type="G" value="3588,7,">de</wi>
+<wi type="G" value="4183,8,">muchos</wi>,
 <wi type="G" value="3700,15,">aparecerá</wi>
 <wi type="G" value="1537,11,">por</wi>
 <wi type="G" value="1208,12,">segunda vez</wi>,
@@ -4087,6 +4246,7 @@ they offer continually, make perfect those who draw near.
 <wi type="G" value="4334,28,">se acercan</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-10-2">
 Or else
 wouldn´t they have ceased to be offered, because the worshippers, having been
@@ -4102,9 +4262,11 @@ once cleansed, would have had no more consciousness of sins?
 <wi type="G" value="3588,7,"/><wi type="G" value="3367,8,">no</wi>
 <wi type="G" value="2192,9,">tendrían</wi>
 <wi type="G" value="4893,11,">conciencia</wi>
-<wi type="G" value="3588,13,"/><wi type="G" value="266,12,">del pecado</wi>?
+<wi type="G" value="3588,13,">del</wi>
+<wi type="G" value="266,12,">pecado</wi>?
 </t>
 </sv>
+
 <sv id="Hebreos-10-3">
 But in
 those sacrifices there is yearly reminder of sins.
@@ -4117,6 +4279,7 @@ those sacrifices there is yearly reminder of sins.
 <wi type="G" value="1763,7,">año</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-10-4">
 For it is impossible
 that the blood of bulls and goats should take away sins.
@@ -4130,6 +4293,7 @@ that the blood of bulls and goats should take away sins.
 <wi type="G" value="266,8,">los pecados</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-10-5">
 Therefore when
 he comes into the world, he says,
@@ -4160,6 +4324,7 @@ But a body did you prepare for me;
 </sv></cm>
 
 <cm type="PO">
+
 <sv id="Hebreos-10-6">
 In whole burnt offerings and sacrifices for sin you had no pleasure.
 <t xml:lang="es"><wi type="G" value="2532,2,">Y</wi>
@@ -4171,6 +4336,7 @@ In whole burnt offerings and sacrifices for sin you had no pleasure.
 <cl/>
 
 </sv>
+
 <sv id="Hebreos-10-7">
 Then I said, `Behold, I have come (In the scroll of the book it is
 written of me)
@@ -4188,7 +4354,8 @@ written of me)
 <cl/>
 To do your will, God.´»
 <t xml:lang="es">
-<wi type="G" value="3588,11,"/><wi type="G" value="4160,12,">A hacer</wi>
+<wi type="G" value="3588,11,">A</wi>
+<wi type="G" value="4160,12,">hacer</wi>
 <wi type="G" value="4675,17,">Tu</wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="2307,16,">voluntad</wi>,
 <wi type="G" value="3588,13,"/><wi type="G" value="2316,14,">Dios</wi>.´»
@@ -4222,6 +4389,7 @@ and sacrifices for sin you didn´t desire, neither had pleasure in them»
 <wi type="G" value="3551,19,">ley</wi>),
 </t>
 </sv>
+
 <sv id="Hebreos-10-9">
 then he has said,
 «Behold, I have come to do your will.» He takes away the first, that he may
@@ -4230,17 +4398,21 @@ establish the second,
 <wi type="G" value="2046,2,">dijo</wi>,
 «<wi type="G" value="2400,3,">Observa</wi>,
 <wi type="G" value="2240,4,">he venido</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="4160,6,">a hacer</wi>
+<wi type="G" value="3588,5,">a</wi>
+<wi type="G" value="4160,6,">hacer</wi>
 <wi type="G" value="4675,11,">Tu</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="2307,10,">voluntad</wi>,
 <wi type="G" value="3588,7,"/><wi type="G" value="2316,8,">Dios</wi>.»
 <wi type="G" value="337,12,">Elimina</wi>
-<wi type="G" value="3588,13,"/><wi type="G" value="4413,14,">el primero</wi>,
+<wi type="G" value="3588,13,">el</wi>
+<wi type="G" value="4413,14,">primero</wi>,
 <wi type="G" value="2443,15,">para</wi>
 <wi type="G" value="2476,18,">establecer</wi>
-<wi type="G" value="3588,16,"/><wi type="G" value="1208,17,">el segundo</wi>,
+<wi type="G" value="3588,16,">el</wi>
+<wi type="G" value="1208,17,">segundo</wi>,
 </t>
 </sv>
+
 <sv id="Hebreos-10-10">
 by which will we have been sanctified through the
 offering of the body of Jesus Christ once for all.
@@ -4262,6 +4434,7 @@ offering of the body of Jesus Christ once for all.
 <citebib id="WEB"/> y <citebib id="KJV2003"/> agregan `por todos.´</rf></rb>
 <t xml:lang="es">.</t>
 </sv>
+
 <sv id="Hebreos-10-11">
 Every priest indeed
 stands day by day ministering and often offering the same sacrifices, which
@@ -4349,6 +4522,7 @@ The Holy Spirit also testifies to us, for after saying,
 </sv></cm>
 
 <cm type="PO">
+
 <sv id="Hebreos-10-16">
 «This is the covenant that I will make with them:
 <t xml:lang="es">
@@ -4394,6 +4568,7 @@ then he says,
 </sv></cm>
 
 <cm type="PO">
+
 <sv id="Hebreos-10-17">
 «I will remember their sins and their iniquities no more.»
 <t xml:lang="es">
@@ -4409,6 +4584,7 @@ then he says,
 </t>
 <cl/>
 </sv>
+
 <sv id="Hebreos-10-18">
 Now where remission of these is, there is no more offering for sin.
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
@@ -4422,6 +4598,7 @@ hay <wi type="G" value="859,3,">remisión</wi>
 </t>
 
 </sv>
+
 <sv id="Hebreos-10-19">
 Having therefore, brothers, boldness to enter into the holy place by
 the blood of Jesus,
@@ -4438,6 +4615,7 @@ the blood of Jesus,
 <wi type="G" value="129,12,">sangre</wi>
 <wi type="G" value="2424,13,">de Jesús</wi>,</t>
 </sv>
+
 <sv id="Hebreos-10-20">
 by the way which he dedicated for us, a new and
 living way, through the veil, that is to say, his flesh;
@@ -4503,6 +4681,7 @@ se refiere a limpiar rociando, purificar.
 <wi type="G" value="2513,19,">pura</wi>,
 </t>
 </sv>
+
 <sv id="Hebreos-10-23">
 let us hold fast the
 confession of our hope without wavering; for he who promised is faithful.
@@ -4534,6 +4713,7 @@ Let us consider how to provoke one another to love and good works,
 </t>
 
 </sv>
+
 <sv id="Hebreos-10-25">
 not forsaking our own assembling together, as the custom of some is,
 but exhorting one another; and so much the more, as you
@@ -4557,6 +4737,7 @@ que
 <wi type="G" value="1448,16,">se aproxima</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-10-26">
 For if we sin willfully after we have received the
 knowledge of the truth, there remains no more a sacrifice for sins,
@@ -4564,7 +4745,8 @@ knowledge of the truth, there remains no more a sacrifice for sins,
 <wi type="G" value="264,3,"><wi type="G" value="2257,4,">si pecamos</wi></wi>
 <wi type="G" value="1596,1,">deliberadamente</wi>
 <wi type="G" value="3326,5,">después</wi>
-<wi type="G" value="3588,6,"/><wi type="G" value="2983,7,">de haber recibido</wi>
+<wi type="G" value="3588,6,">de</wi>
+<wi type="G" value="2983,7,">haber recibido</wi>
 <wi type="G" value="3588,8,">el</wi>
 <wi type="G" value="1922,9,">conocimiento</wi>
 <wi type="G" value="3588,10,">de la</wi>
@@ -4577,6 +4759,7 @@ knowledge of the truth, there remains no more a sacrifice for sins,
 <wi type="G" value="266,14,">los pecados</wi>,
 </t>
 </sv>
+
 <sv id="Hebreos-10-27">
 but a certain fearful expectation of judgment, and a fierceness of fire which
 will devour the adversaries.
@@ -4590,9 +4773,11 @@ will devour the adversaries.
 <wi type="G" value="4442,7,">como fuego</wi>
 <wi type="G" value="3195,10,">que habrá de</wi>
 <wi type="G" value="2068,9,">devorar</wi>
-<wi type="G" value="3588,11,"/><wi type="G" value="5227,12,">a los adversarios</wi>.
+<wi type="G" value="3588,11,">a los</wi>
+<wi type="G" value="5227,12,">adversarios</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-10-28">
 A man who disregards Moses´ law dies
 without compassion on the word of two or three witnesses.
@@ -4695,6 +4880,7 @@ were enlightened, you endured a great struggle with sufferings;
 <wi type="G" value="119,10,">pelea</wi>
 <wi type="G" value="3804,12,">con sufrimientos</wi>;</t>
 </sv>
+
 <sv id="Hebreos-10-33">
 partly, being exposed to both
 reproaches and oppressions; and partly, becoming partakers with those who
@@ -4715,6 +4901,7 @@ con <wi type="G" value="3588,11,">los que</wi>
 <wi type="G" value="390,13,">vivían</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-10-34">
 For you both had compassion on me in my chains,
 and joyfully accepted the plundering of your possessions, knowing that
@@ -4758,6 +4945,7 @@ como saquear, robo.</rf></rb>
 <wi type="G" value="3772,23,">los cielos</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-10-35">
 Therefore don´t throw away your boldness, which has a great
 reward.
@@ -4776,6 +4964,7 @@ se puede traducir de ambas formas.</rf></rb>
 <wi type="G" value="3173,10,">gran</wi>
 <wi type="G" value="3405,9,">recompensa</wi>.</t>
 </sv>
+
 <sv id="Hebreos-10-36">
 For you need endurance so that, having done the will of
 God, you may receive the promise.
@@ -4796,6 +4985,7 @@ God, you may receive the promise.
 </sv></cm>
 
 <cm type="PO">
+
 <sv id="Hebreos-10-37">
 «In a very little while,
 <t xml:lang="es">
@@ -4823,6 +5013,7 @@ He who comes will come, and will not wait.
 </sv></cm>
 
 <cm type="PO">
+
 <sv id="Hebreos-10-38">
 But the righteous will live by faith.
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
@@ -4864,7 +5055,6 @@ who have faith to the saving of the soul.
 </t>
 <cl/>
 </sv></cm></sc>
-
 
 <sc id="Hebreos-11">
 <cm>
@@ -4929,6 +5119,7 @@ perfecto, hacer perfecto, preparar, restaurar, juntar perfectamente.
 <wi type="G" value="5316,12,">son visibles</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-4">
 By faith,
 Abel offered to God a more excellent sacrifice than Cain, through which he
@@ -4961,6 +5152,7 @@ respect to his gifts; and through it he, being dead, still speaks.
 <wi type="G" value="2980,27,">habla</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-5">
 By
 faith, Enoch was taken away, so that he wouldn´t see death, and he was not
@@ -4988,6 +5180,7 @@ before his translation he had been well pleasing to God.
 <wi type="G" value="3588,23,"/><wi type="G" value="2316,24,">Dios</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-6">
 Without faith
 it is impossible to be well pleasing to him, for he who comes to God must
@@ -5014,6 +5207,7 @@ believe that he exists, and that he is a rewarder of those who seek him.
 </t>
 
 </sv>
+
 <sv id="Hebreos-11-7">
 By faith, Noah, being warned about things not yet seen, moved with godly
 fear, prepared an ark for the saving of his house, through which he condemned
@@ -5046,6 +5240,7 @@ the world, and became heir of the righteousness which is according to faith.
 </t>
 
 </sv>
+
 <sv id="Hebreos-11-8">
 By faith, Abraham, when he was called, obeyed to go out to the place
 which he was to receive for an inheritance. He went out, not knowing where he
@@ -5114,6 +5309,7 @@ foundations, whose builder and maker is God.
 <wi type="G" value="3588,12,"/><wi type="G" value="2316,13,">Dios</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-11">
 By faith, even Sarah
 herself received power to conceive, and she bore a child when she was past
@@ -5139,6 +5335,7 @@ a <wi type="G" value="2244,13,">una edad</wi>
 <wi type="G" value="1861,19,">había prometido</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-12">
 Therefore as many
 as the stars of the sky in multitude, and as innumerable as the sand which is
@@ -5170,6 +5367,7 @@ by the sea shore, were fathered by one man, and him as good as dead.
 </t>
 
 </sv>
+
 <sv id="Hebreos-11-13">
 These all died in faith, not having received the promises, but having
 seen them
@@ -5210,6 +5408,7 @@ earth.
 <wi type="G" value="1093,27,">tierra</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-14">
 For those who say such things make it clear that they are
 seeking after a country of their own.
@@ -5224,6 +5423,7 @@ seeking after a country of their own.
 <wi type="G" value="3968,7,">un país</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-15">
 If indeed they had been thinking
 of that country from which they went out, they would have had enough time to
@@ -5241,6 +5441,7 @@ return.
 <wi type="G" value="344,12,">para regresar</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-16">
 But now they desire a better country, that is, a heavenly one.
 Therefore God is not ashamed of them, to be called their God, for he has
@@ -5285,6 +5486,7 @@ gladly received the promises was offering up his one and only son;
 <wi type="G" value="3588,8,"/><wi type="G" value="3439,9,">su único hijo</wi>;
 </t>
 </sv>
+
 <sv id="Hebreos-11-18">
 even he to whom it was said, «In Isaac will your seed be called;»
 <t xml:lang="es"><wi type="G" value="4314,1,">A</wi>
@@ -5297,6 +5499,7 @@ even he to whom it was said, «In Isaac will your seed be called;»
 <wi type="G" value="4671,8,">tu</wi>
 <wi type="G" value="4690,9,">descendencia</wi>;»</t>
 </sv>
+
 <sv id="Hebreos-11-19">
 accounting
 that God is able to raise up even from the dead. Figuratively speaking, he
@@ -5316,18 +5519,21 @@ also did receive him back from the dead.
 <wi type="G" value="1722,13,"><wi type="G" value="3850,14,">figurativamente</wi></wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-20">
 By faith, Isaac blessed Jacob
 and Esau, even concerning things to come.
 <t xml:lang="es"><wi type="G" value="4102,1,">Por la fe</wi>,
 <wi type="G" value="2464,5,">Isaac</wi>
 <wi type="G" value="2127,4,">bendijo a</wi>
-<wi type="G" value="3588,6,"/><wi type="G" value="2384,7,">a Jacob</wi>
+<wi type="G" value="3588,6,">a</wi>
+<wi type="G" value="2384,7,">Jacob</wi>
 <wi type="G" value="2532,8,">y</wi> a
 <wi type="G" value="3588,9,"/><wi type="G" value="2269,10,">Esaú</wi>,
 <wi type="G" value="4012,2,">respecto a</wi>
 <wi type="G" value="3195,3,">lo que vendría</wi>.</t>
 </sv>
+
 <sv id="Hebreos-11-21">
 By faith, Jacob, when he was
 dying, blessed each of the sons of Joseph, and worshiped, leaning on the top
@@ -5352,6 +5558,7 @@ of his staff.
 <wi type="G" value="3588,14,"/><wi type="G" value="4464,15,">bastón</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-22">
 By faith, Joseph, when his end was near, made mention of
 the departure of the children of Israel; and gave instructions concerning his
@@ -5373,6 +5580,7 @@ bones.
 <wi type="G" value="3588,13,"/><wi type="G" value="3747,14,">huesos</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-23">
 By faith, Moses, when he was born, was hidden for three months
 by his parents, because they saw that he was a beautiful child, and they were
@@ -5398,6 +5606,7 @@ not afraid of the king´s commandment.
 <wi type="G" value="3588,20,">del</wi>
 <wi type="G" value="935,21,">rey</wi>.</t>
 </sv>
+
 <sv id="Hebreos-11-24">
 By faith, Moses, when he had
 grown up, refused to be called the son of Pharaoh´s daughter,
@@ -5411,6 +5620,7 @@ grown up, refused to be called the son of Pharaoh´s daughter,
 <wi type="G" value="2364,8,">de la hija</wi>
 <wi type="G" value="5328,9,">del Farón</wi>,</t>
 </sv>
+
 <sv id="Hebreos-11-25">
 choosing
 rather to share ill treatment with God´s people, than to enjoy the pleasures
@@ -5428,6 +5638,7 @@ of sin for a time;
 <wi type="G" value="266,11,">del pecado</wi>
 <wi type="G" value="4340,9,">por un tiempo</wi>;</t>
 </sv>
+
 <sv id="Hebreos-11-26">
 accounting the reproach of Christ greater riches
 than the treasures of Egypt; for he looked to the reward.
@@ -5447,6 +5658,7 @@ que
 <wi type="G" value="1519,14,"><wi type="G" value="3588,15,">el</wi></wi>
 <wi type="G" value="3405,16,">galardón</wi>. </t>
 </sv>
+
 <sv id="Hebreos-11-27">
 By faith, he
 left Egypt, not fearing the wrath of the king; for he endured, as seeing him
@@ -5468,6 +5680,7 @@ who is invisible.
 <wi type="G" value="517,12,">invisible</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-28">
 By faith, he kept the Passover, and the sprinkling of
 the blood, that the destroyer of the firstborn should not touch them.
@@ -5490,6 +5703,7 @@ the blood, that the destroyer of the firstborn should not touch them.
 <wi type="G" value="2345,16,">tocara</wi>.</t>
 
 </sv>
+
 <sv id="Hebreos-11-29">
 By faith, they passed through the Red sea as on dry land. When the
 Egyptians tried to do so, they were swallowed up.
@@ -5509,6 +5723,7 @@ Egyptians tried to do so, they were swallowed up.
 <wi type="G" value="2666,14,">fueron devorados</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-30">
 By faith, the walls
 of Jericho fell down, after they had been encircled for seven days.
@@ -5548,6 +5763,7 @@ se puede traducir de ambas formas.</rf></rb>
 <wi type="G" value="1515,13,">paz</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-32">
 What more shall I say? For the time
 would fail me if I told of Gideon, Barak, Samson, Jephthah, David, Samuel,
@@ -5577,6 +5793,7 @@ and the prophets;
 <wi type="G" value="4396,25,">profetas</wi>;
 </t>
 </sv>
+
 <sv id="Hebreos-11-33">
 who, through faith subdued kingdoms, worked out
 righteousness, obtained promises, stopped the mouths of lions,
@@ -5593,6 +5810,7 @@ righteousness, obtained promises, stopped the mouths of lions,
 <wi type="G" value="4750,11,">las bocas</wi>
 <wi type="G" value="3023,12,">de leones</wi>,</t>
 </sv>
+
 <sv id="Hebreos-11-34">
 quenched
 the power of fire, escaped the edge of the sword, from weakness were made
@@ -5623,6 +5841,7 @@ acostarse, poner en fuga, desgastar.</rf></rb>
 </t>
 
 </sv>
+
 <sv id="Hebreos-11-35">
 Women received their dead by resurrection. Others were tortured, not
 accepting their deliverance, that they might obtain a better resurrection.
@@ -5653,6 +5872,7 @@ palos o látigos, hasta la muerte.</rf></rb>
 <wi type="G" value="2909,16,">mejor</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-36">
 Others were tried by mocking and scourging, yes, moreover by bonds and
 imprisonment.
@@ -5670,6 +5890,7 @@ imprisonment.
 <wi type="G" value="5438,12,">cárceles</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-37">
 They were stoned. They were sawn apart. They were
 tempted. They were slain with the sword. They went around in sheep skins and
@@ -5691,6 +5912,7 @@ y <wi type="G" value="5408,5,">asesinados</wi>
 <wi type="G" value="2558,16,">maltratados</wi>,
 </t>
 </sv>
+
 <sv id="Hebreos-11-38">
 (of whom the
 world was not worthy), wandering in deserts, mountains, caves, and the holes
@@ -5729,6 +5951,7 @@ cuevas en rocas o montañas.
 <wi type="G" value="1093,18,">tierra</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-11-39">
 These all, having had testimony given to them through
 their faith, didn´t receive the promise,
@@ -5794,6 +6017,7 @@ y <wi type="G" value="5143,19,">corramos</wi>
 </t>
 
 </sv>
+
 <sv id="Hebreos-12-2">
 looking to Jesus, the author and perfecter of faith, who for the joy
 that was set before him endured the cross, despising shame, and has sat down
@@ -5825,6 +6049,7 @@ at the right hand of the throne of God.
 <wi type="G" value="3588,25,">de</wi>
 <wi type="G" value="2316,26,">Dios</wi>.</t>
 </sv>
+
 <sv id="Hebreos-12-3">
 For consider him who has endured
 such contradiction of sinners against himself, that you
@@ -5848,6 +6073,7 @@ weary, fainting in your souls.
 <wi type="G" value="3588,15,"/><wi type="G" value="5590,16,">almas</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-12-4">
 You
 <wi type="T" value="P"/> have not yet resisted to blood,
@@ -5863,6 +6089,7 @@ striving against sin;
 <wi type="G" value="266,7,">pecado</wi>;
 </t>
 </sv>
+
 <sv id="Hebreos-12-5">
 and you
 <wi type="T" value="P"/> have forgotten the exhortation which
@@ -5897,6 +6124,7 @@ Nor faint when you are reproved by him;
 </sv></cm>
 
 <cm type="PO">
+
 <sv id="Hebreos-12-6">
 For whom the Lord loves, he chastens,
 <t xml:lang="es"><wi type="G" value="1063,2,">Porque</wi>
@@ -5964,12 +6192,14 @@ partakers, then are you
 <wi type="G" value="5207,15,">hijos</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-12-9">
 Furthermore, we had
 the fathers of our flesh to chasten us, and we paid them respect. Shall we
 not much rather be in subjection to the Father of spirits, and live?
 <t xml:lang="es"><wi type="G" value="1534,1,">Además</wi>,
-<wi type="G" value="3588,2,"/><wi type="G" value="3303,3,">de hecho</wi>
+<wi type="G" value="3588,2,">de</wi>
+<wi type="G" value="3303,3,">hecho</wi>
 <wi type="G" value="2192,8,">tuvimos a</wi>
 <wi type="G" value="2257,6,">nuestros</wi>
 <wi type="G" value="3962,7,">padres</wi>
@@ -5990,6 +6220,7 @@ not much rather be in subjection to the Father of spirits, and live?
 <wi type="G" value="2198,21,">vivir</wi>?</t>
 
 </sv>
+
 <sv id="Hebreos-12-10">
 For they indeed, for a few days, punished us as seemed good to them;
 but he for our profit, that we may be partakers of his holiness.
@@ -6044,6 +6275,7 @@ who have been exercised thereby.
 <wi type="G" value="846,20,">este</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-12-12">
 Therefore, lift up the hands that hang down and the
 feeble knees,
@@ -6057,6 +6289,7 @@ feeble knees,
 <wi type="G" value="3588,6,"/><wi type="G" value="3886,7,">paralizadas</wi>,
 </t>
 </sv>
+
 <sv id="Hebreos-12-13">
 and make straight paths for your feet, so that which is
 lame may not be dislocated, but rather be healed.
@@ -6085,6 +6318,7 @@ para miembros dislocados), sacar a un lado, alejarse.
 <wi type="G" value="2390,13,">que sane</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-12-14">
 Follow after peace
 with all men, and the sanctification without which no man will see the Lord,
@@ -6104,6 +6338,7 @@ with all men, and the sanctification without which no man will see the Lord,
 </t>
 
 </sv>
+
 <sv id="Hebreos-12-15">
 looking carefully lest there be any man who falls short of the grace of
 God; lest any root of bitterness springing up trouble you, and thereby the
@@ -6128,6 +6363,7 @@ que <wi type="G" value="3361,10,">no</wi>
 <wi type="G" value="4183,21,">muchos</wi> sean
 <wi type="G" value="3392,20,">contaminados</wi>;</t>
 </sv>
+
 <sv id="Hebreos-12-16">
 lest there be any sexually immoral person, or profane
 person, as Esau, who sold his birthright for one meal.
@@ -6147,6 +6383,7 @@ person, as Esau, who sold his birthright for one meal.
 <wi type="G" value="3588,13,"/><wi type="G" value="4415,14,">primogenitura</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-12-17">
 For you
 <wi type="T" value="P"/>
@@ -6175,6 +6412,7 @@ para <wi type="G" value="3341,11,">el arrepentimiento</wi>
 <wi type="G" value="1144,18,">lagrimas</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-12-18">
 For you
 <wi type="T" value="P"/> have not come to a mountain that
@@ -6204,6 +6442,7 @@ traduce oscuridad, negrura, penumbra como de tormenta.
 <wi type="G" value="2366,14,">tempestad</wi>,
 </t>
 </sv>
+
 <sv id="Hebreos-12-19">
 the sound of a trumpet, and the voice of words; which those
 who heard it begged that not one more word should be spoken to them,
@@ -6223,6 +6462,7 @@ más <wi type="G" value="3056,14,">palabra</wi>,
 </t>
 
 </sv>
+
 <sv id="Hebreos-12-20">
 for they could not stand that which was commanded, «If even an animal
 touches the mountain, it shall be stoned
@@ -6242,7 +6482,8 @@ touches the mountain, it shall be stoned
 <rb><t xml:lang="es"><wi type="G" value="2228,12,">o</wi>
 <wi type="G" value="2700,14,">traspasado</wi>
 <wi type="G" value="1002,13,">con dardo</wi></t>
-<rf>TR adds «or shot with an arrow»
+<rf>
+TR adds «or shot with an arrow»
 [see Exodus 19:12-13]<t xml:lang="es"><citebib id="WEB"/> omite
 `o traspasado con un dardo, pero tiene nota al pie de página
 aclarando que <citebib id="TR"/> si lo incluye y remitiendo
@@ -6250,6 +6491,7 @@ a Exodo 19:12-13.</t></rf></rb>
 ;»
 <t xml:lang="es">;»</t>
 </sv>
+
 <sv id="Hebreos-12-21">
 and so fearful was the appearance, that
 Moses said, «I am terrified and trembling.»
@@ -6286,6 +6528,7 @@ God, the heavenly Jerusalem, and to innumerable multitudes of angels,
 <wi type="G" value="3461,12,">a una multitud</wi>
 <wi type="G" value="32,13,">de ángeles</wi>,</t>
 </sv>
+
 <sv id="Hebreos-12-23">
 to the
 general assembly and assembly of the firstborn who are enrolled in heaven, to
@@ -6307,6 +6550,7 @@ God the Judge of all, to the spirits of just men made perfect,
 y <wi type="G" value="5048,15,">perfeccionados</wi>,
 </t>
 </sv>
+
 <sv id="Hebreos-12-24">
 to Jesus, the mediator of a new covenant, and to the blood of sprinkling that
 speaks better than that of Abel.
@@ -6351,11 +6595,13 @@ not escape who turn away from him who warns from heaven,
 <wi type="G" value="3123,18,">menos</wi> si
 <wi type="G" value="2249,19,">nos</wi>
 <wi type="G" value="654,24,">alejamos</wi>
-<wi type="G" value="3588,20,"/><wi type="G" value="3588,21,">del que</wi> advierte
+<wi type="G" value="3588,20,">del</wi>
+<wi type="G" value="3588,21,">que</wi> advierte
 <wi type="G" value="575,22,">sobre</wi>
 <wi type="G" value="3772,23,">el cielo</wi>,
 </t>
 </sv>
+
 <sv id="Hebreos-12-26">
 whose voice
 shook the earth, then, but now he has promised, saying, «Yet once more I will
@@ -6385,6 +6631,7 @@ shake not only the earth, but also the heavens.»
 <wi type="G" value="3772,23,">cielo</wi>.»
 </t>
 </sv>
+
 <sv id="Hebreos-12-27">
 This phrase, «Yet once
 more,» signifies the removing of those things that are shaken, as of things
@@ -6451,6 +6698,7 @@ Let brotherly love continue.
 <wi type="G" value="5360,2,">amor fraternal</wi>
 <wi type="GC" value="3">continúe</wi>.</t>
 </sv>
+
 <sv id="Hebreos-13-2">
 Don´t forget to show hospitality
 to strangers, for in doing so, some have entertained angels without knowing
@@ -6468,6 +6716,7 @@ it.
 <wi type="G" value="2990,8,">sin saberlo</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-13-3">
 Remember those who are in bonds, as bound with them; and those who
 are ill-treated, since you are also in the body.
@@ -6486,6 +6735,7 @@ a <wi type="G" value="3588,6,">los</wi>
 <wi type="G" value="4983,13,">el cuerpo</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-13-4">
 Let marriage be held in
 honor among all, and let the bed be undefiled: but God will judge the
@@ -6531,6 +6781,7 @@ value="3361,16,">de forma alguna</wi></wi>
 <wi type="G" value="4571,17,">te</wi>
 <wi type="G" value="1459,18,">abandonaré</wi>.»</t>
 </sv>
+
 <sv id="Hebreos-13-6">
 So that with good courage we say,
 <t xml:lang="es"><wi type="G" value="5620,1,">Para que</wi>
@@ -6641,6 +6892,7 @@ right to eat.
 <wi type="G" value="4633,11,">tabernáculo</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-13-11">
 For the bodies of those animals, whose blood is brought
 into the holy place by the high priest as an offering for sin, are burned
@@ -6666,6 +6918,7 @@ outside of the camp.
 <wi type="G" value="3925,21,">campamento</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-13-12">
 Therefore Jesus also, that he might sanctify the
 people through his own blood, suffered outside of the gate.
@@ -6685,6 +6938,7 @@ people through his own blood, suffered outside of the gate.
 <wi type="G" value="4439,14,">puerta</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-13-13">
 Let us
 therefore go forth to him outside of the camp, bearing his reproach.
@@ -6697,7 +6951,8 @@ therefore go forth to him outside of the camp, bearing his reproach.
 <wi type="G" value="3925,7,">campamento</wi>,
 <wi type="G" value="5342,11,">cargando</wi>
 <wi type="G" value="846,10,">su</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,8,"/><wi type="G" value="3680,9,">oprobio</wi><rf><citebib id="WEB"/> dice reproche,
+<rb xml:lang="es"><wi type="G" value="3588,8,"/><wi type="G" value="3680,9,">oprobio</wi><rf>
+<citebib id="WEB"/> dice reproche,
 <citebib id="RVG2012"/> dice `vituperio,´
 según <citebib id="Thayer-BLB"/> la palabra griega `ὀνειδισμὸν´ puede
 traducirse como reproche, como el que Cristo sufrió por Dios a manos de
@@ -6744,6 +6999,7 @@ continually, that is, the fruit of lips which make confession to his name.
 </t>
 
 </sv>
+
 <sv id="Hebreos-13-16">
 But don´t forget to be doing good and sharing, for with such sacrifices
 God is well pleased.
@@ -6815,6 +7071,7 @@ desiring to live honorably in all things.
 <wi type="G" value="3956,11,">todas las cosas</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-13-19">
 I strongly urge you to do
 this, that I may be restored to you sooner.
@@ -6838,7 +7095,8 @@ shepherd of the sheep with the blood of an eternal covenant, our Lord Jesus,
 <t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi> que
 <wi type="G" value="3588,1,">el</wi>
 <wi type="G" value="2316,3,">Dios</wi>
-<wi type="G" value="3588,4,"/><wi type="G" value="1515,5,">de paz</wi>,
+<wi type="G" value="3588,4,">de</wi>
+<wi type="G" value="1515,5,">paz</wi>,
 <wi type="G" value="3588,6,">que</wi>
 <wi type="G" value="321,7,">sacó</wi>
 <wi type="G" value="1537,8,">de</wi>
@@ -6902,7 +7160,8 @@ written to you in few words.
 <wi type="G" value="430,5,">a permanecer en</wi>
 <wi type="G" value="3588,6,">la</wi>
 <wi type="G" value="3056,7,">palabra</wi>
-<wi type="G" value="3588,8,"/><wi type="G" value="3874,9,">de exhortación</wi>,
+<wi type="G" value="3588,8,">de</wi>
+<wi type="G" value="3874,9,">exhortación</wi>,
 <wi type="G" value="2532,10,"/><wi type="G" value="1063,11,">pues</wi>
 <wi type="G" value="5213,15,">les</wi>
 <wi type="G" value="1989,14,">he escrito</wi>
@@ -6910,6 +7169,7 @@ written to you in few words.
 <wi type="G" value="1024,13,">pocas palabras</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-13-23">
 Know that our brother Timothy has
 been freed, with whom, if he comes shortly, I will see you.
@@ -6927,6 +7187,7 @@ been freed, with whom, if he comes shortly, I will see you.
 <wi type="G" value="3700,11,">veré</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-13-24">
 Greet all
 of your leaders and all the saints. The Italians greet you.
@@ -6945,6 +7206,7 @@ of your leaders and all the saints. The Italians greet you.
 <wi type="G" value="782,10,">saludan</wi>.
 </t>
 </sv>
+
 <sv id="Hebreos-13-25">
 Grace be
 with you all. Amen.
@@ -6961,5 +7223,4 @@ with you all. Amen.
 <cl/>
 </sv></cm></sc>
 </sb>
-
 

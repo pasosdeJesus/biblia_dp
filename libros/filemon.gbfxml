@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
 <sb id="Filemon" type="" xml:lang="">
 <tt>Paul´s Letter to Philemon<t xml:lang="es">Carta de Pablo a Filemón</t></tt>
 <sc id="Filemon-1">
@@ -28,7 +27,8 @@ Philemon, our beloved fellow worker,
 to the beloved Apphia, to
 Archippus, our fellow soldier, and to the assembly in your house:
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="27,4,">a la amada</wi>
+<wi type="G" value="3588,3,">a la</wi>
+<wi type="G" value="27,4,">amada</wi>
 <wi type="G" value="682,2,">Apia</wi>,
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="751,6,">a Arquipo</wi>,
@@ -41,6 +41,7 @@ Archippus, our fellow soldier, and to the assembly in your house:
 <wi type="G" value="3624,13,">casa</wi>:
 </t>
 </sv>
+
 <sv id="Filemon-1-3">
 Grace
 to you and peace from God our Father and the Lord Jesus Christ.
@@ -59,7 +60,6 @@ to you and peace from God our Father and the Lord Jesus Christ.
 </t>
 
 </sv></cm><cm>
-
 <sv id="Filemon-1-4">
 I thank my God always, making mention of you in my prayers,
 <t xml:lang="es"><wi type="G" value="2168,1,">Le agradezco a</wi>
@@ -73,6 +73,7 @@ I thank my God always, making mention of you in my prayers,
 <wi type="G" value="3450,12,">mis</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="4335,11,">oraciones</wi>,</t>
 </sv>
+
 <sv id="Filemon-1-5">
 hearing
 of your love, and of the faith which you have toward the Lord Jesus, and
@@ -92,8 +93,10 @@ toward all the saints;
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="1519,15,">por</wi>
 <wi type="G" value="3956,16,">todos</wi>
-<wi type="G" value="3588,17,"/><wi type="G" value="40,18,">los santos</wi>;</t>
+<wi type="G" value="3588,17,">los</wi>
+<wi type="G" value="40,18,">santos</wi>;</t>
 </sv>
+
 <sv id="Filemon-1-6">
 that the fellowship of your faith may become
 effective, in the knowledge of every good thing which is in us in Christ
@@ -116,6 +119,7 @@ es <wi type="G" value="1722,14,">mediante</wi>
 <wi type="G" value="5547,17,">Cristo</wi>
 <wi type="G" value="2424,18,">Jesús</wi>.</t>
 </sv>
+
 <sv id="Filemon-1-7">
 For we have much joy and comfort in your love, because the hearts
 of the saints have been refreshed through you, brother.
@@ -140,7 +144,6 @@ of the saints have been refreshed through you, brother.
 <wi type="G" value="80,19,">hermano</wi>.
 </t>
 </sv></cm><cm>
-
 <sv id="Filemon-1-8">
 Therefore, though I have all boldness in Christ to command you that
 which is appropriate,
@@ -154,6 +157,7 @@ which is appropriate,
 <wi type="G" value="3588,9,">lo que</wi> es
 <wi type="G" value="433,10,">apropiado</wi>,</t>
 </sv>
+
 <sv id="Filemon-1-9">
 yet for love´s sake I rather beg, being such a one
 as Paul, the aged, but also a prisoner of Jesus Christ.
@@ -174,6 +178,7 @@ as Paul, the aged, but also a prisoner of Jesus Christ.
 <wi type="G" value="5547,16,">Cristo</wi>.
 </t>
 </sv>
+
 <sv id="Filemon-1-10">
 I beg you for
 my child, whom I have become the father of in my chains,
@@ -189,11 +194,13 @@ my child, whom I have become the father of in my chains,
 <wi type="G" value="3588,10,"/><wi type="G" value="1199,11,">cadenas</wi>,
 </t>
 <rb>Onesimus,
-<t xml:lang="es"><wi type="G" value="3682,13,">Onésimo</wi></t><rf>Onesimus means «useful.»
+<t xml:lang="es"><wi type="G" value="3682,13,">Onésimo</wi></t><rf>
+Onesimus means «useful.»
 <t xml:lang="es">Onésimo significa `util.´</t></rf>
 </rb>
 
 </sv>
+
 <sv id="Filemon-1-11">
 who once was useless to
 you, but now is useful to you and to me.
@@ -208,6 +215,7 @@ you, but now is useful to you and to me.
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="1698,9,">para mí</wi>.</t>
 </sv>
+
 <sv id="Filemon-1-12">
 I am sending him back.
 Therefore receive him, that is, my own heart,
@@ -218,10 +226,12 @@ Therefore receive him, that is, my own heart,
 <wi type="G" value="4355,11,"><wi type="G" value="846,5,">recíbelo</wi></wi>,
 <wi type="G" value="5124,6,">que</wi>
 <wi type="G" value="2076,7,">es</wi>,
-<wi type="G" value="3588,8,"/><wi type="G" value="1699,9,">de mis</wi>
+<wi type="G" value="3588,8,">de</wi>
+<wi type="G" value="1699,9,">mis</wi>
 <wi type="G" value="4698,10,">entrañas</wi>,
 </t>
 </sv>
+
 <sv id="Filemon-1-13">
 whom I desired to keep
 with me, that on your behalf he might serve me in my chains for the Good News.
@@ -265,6 +275,7 @@ goodness would not be as of necessity, but of free will.
 <wi type="G" value="1595,20,">buena voluntad</wi>.
 </t>
 </sv>
+
 <sv id="Filemon-1-15">
 For perhaps he
 was therefore separated from you for a while, that you would have him
@@ -287,6 +298,7 @@ traducir de ambas maneras.</rf></rb>
 <wi type="G" value="166,9,">por siempre</wi>,
 </t>
 </sv>
+
 <sv id="Filemon-1-16">
 no longer as a slave, but more than a slave, a beloved
 brother, especially to me, but how much rather to you, both in the flesh and
@@ -328,6 +340,7 @@ If then you count me a partner, receive him as you would receive me.
 </t>
 
 </sv>
+
 <sv id="Filemon-1-18">
 But if he has wronged you at all, or owes you anything, put that to my
 account.
@@ -344,6 +357,7 @@ account.
 <wi type="GC" value="10">cuenta</wi>.
 </t>
 </sv>
+
 <sv id="Filemon-1-19">
 I, Paul, write this with my own hand: I will repay it (not to
 mention to you that you owe to me even your own self besides).
@@ -362,6 +376,7 @@ mention to you that you owe to me even your own self besides).
 <wi type="G" value="4359,17,">debes</wi>
 <wi type="G" value="2532,14,"/><wi type="G" value="4572,15,">tu mismo</wi>).</t>
 </sv>
+
 <sv id="Filemon-1-20">
 Yes,
 brother, let me have joy from you in the Lord. Refresh my heart in the Lord.
@@ -388,6 +403,7 @@ como entrañas, intestinos (corazón, pulmones, higado).
 </t>
 
 </sv>
+
 <sv id="Filemon-1-21">
 Having confidence in your obedience, I write to you, knowing that you
 will do even beyond what I say.
@@ -437,6 +453,7 @@ Epaphras, my fellow prisoner in Christ Jesus, greets you,
 <wi type="G" value="5547,8,">Cristo</wi>
 <wi type="G" value="2424,9,">Jesús</wi>,</t>
 </sv>
+
 <sv id="Filemon-1-24">
 as do Mark, Aristarchus, Demas, and Luke, my fellow workers.
 <t xml:lang="es"><wi type="G" value="3138,1,">Marcos</wi>,
@@ -446,6 +463,7 @@ as do Mark, Aristarchus, Demas, and Luke, my fellow workers.
 <wi type="G" value="3450,7,">mis</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="4904,6,">compañeros de trabajo</wi>.</t>
 </sv>
+
 <sv id="Filemon-1-25">
 The grace of our
 Lord Jesus Christ be with your spirit. Amen.
@@ -459,11 +477,11 @@ Lord Jesus Christ be with your spirit. Amen.
 <wi type="G" value="5216,11,">su</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="4151,10,">espíritu</wi>.
 <wi type="G" value="281,12,">Amén</wi>.</t>
-<rb xml:lang="es"><rf><citebib id="KJV2003"/> tiene el siguiente colofón
+<rb xml:lang="es"><rf>
+<citebib id="KJV2003"/> tiene el siguiente colofón
 con marcado Strong: Escrito desde Roma a Filemón, por Onésimo, un siervo.</rf></rb>
 <cl/>
 <cl/>
 </sv></cm></sc>
 </sb>
-
 
