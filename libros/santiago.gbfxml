@@ -41,16 +41,21 @@ Count it all joy, my
 <wi type="G" value="3450,5,">mis</wi>
 </t>
 <rb>brothers
-<t xml:lang="es"><wi type="G" value="80,4,">hermanos</wi></t><rf>The word for «brothers» here and where context allows may also be correctly
-translated «brothers and sisters» or «siblings.» <t xml:lang="es">La palabra para «hermanos»
+<t xml:lang="es"><wi type="G" value="80,4,">hermanos</wi></t><rf>
+The word for «brothers» here and where context allows may also be correctly
+translated «brothers and sisters» or «siblings.» 
+<t xml:lang="es">La palabra para «hermanos»
 aquí y donde el contexto lo permita puede traducirse también correctamente como
-«hermanos y hermanas».</t></rf></rb>
+«hermanos y hermanas».</t>
+</rf></rb>
 , when you fall into various temptations,
 <t xml:lang="es">,
 <wi type="G" value="3752,6,">cuando</wi> </t>
 <rb xml:lang="es"><wi type="G" value="4045,8,">lleguen</wi>
-<rf><citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen `caigan.´ Según <citebib id="Thayer-BLB"/> la palabra `περιπεσητε´ es caer
-como caer en manos de ladrones.</rf></rb>
+<rf>
+<citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen `caigan.´ Según <citebib id="Thayer-BLB"/> la palabra `περιπεσητε´ es caer
+como caer en manos de ladrones.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="4164,9,">diversas</wi>
 <wi type="G" value="3986,7,">tentaciones</wi>,</t>
@@ -84,7 +89,8 @@ you may be perfect and complete, lacking in nothing.
 <wi type="G" value="5046,9,">ser perfeccionados</wi>
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="3648,11,">completos</wi>, que
-<wi type="G" value="1722,12,">en</wi> <wi type="G" value="3367,13,">nada</wi>
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="3367,13,">nada</wi>
 <wi type="G" value="3007,14,">haga falta</wi>.
 </t>
 </sv>
@@ -278,7 +284,8 @@ for God can´t be tempted by evil, and he himself tempts no one.
 <wi type="G" value="2556,14,">por los malos</wi>,
 <wi type="G" value="1161,16,">ni</wi>
 <wi type="G" value="846,17,">Él mismo</wi>
-<wi type="G" value="3985,15,">tienta</wi> <wi type="G" value="3762,18,">a nadie</wi>. </t>
+<wi type="G" value="3985,15,">tienta</wi>
+<wi type="G" value="3762,18,">a nadie</wi>. </t>
 </sv>
 
 <sv id="Santiago-1-14">
@@ -426,7 +433,10 @@ able to
 <rb>save your souls
 <t xml:lang="es"><wi type="G" value="4982,16,">salvar</wi>
 <wi type="G" value="5216,19,">sus</wi>
-<wi type="G" value="3588,17,"/><wi type="G" value="5590,18,">almas</wi></t><rf>or, preserve your life. <t xml:lang="es">o preservar su vida.</t></rf>
+<wi type="G" value="3588,17,"/><wi type="G" value="5590,18,">almas</wi></t><rf>
+or, preserve your life. 
+<t xml:lang="es">o preservar su vida.</t>
+</rf>
 </rb>.<t xml:lang="es">.</t>
 </sv>
 
@@ -613,7 +623,10 @@ into your
 <wi type="G" value="5216,7,">su</wi>
 </t>
 <rb>synagogue
-<t xml:lang="es"><wi type="G" value="3588,5,"/><wi type="G" value="4864,6,">sinagoga</wi></t><rf>or, meeting<t xml:lang="es">O reunión</t></rf>
+<t xml:lang="es"><wi type="G" value="3588,5,"/><wi type="G" value="4864,6,">sinagoga</wi></t><rf>
+or, meeting 
+<t xml:lang="es">O reunión</t>
+</rf>
 </rb>
 , and a poor man in filthy clothing also comes in;
 <t xml:lang="es">, <wi type="G" value="1161,14,">y</wi>
@@ -737,11 +750,11 @@ are called?
 <rb xml:lang="es"><wi type="G" value="1909,9,">por</wi>
 <wi type="G" value="3588,7,">el cual</wi>
 <wi type="G" value="5209,10,">ustedes</wi>
-<wi type="G" value="1941,8,">fueron llamados</wi><rf><citebib id="WEB"/> dice `por el cual ustedes son llamados,´ <citebib
-id="RVG2012"/> dice `que fue invocado sobre
-ustedes.´ Según <citebib
-id="Thayer-BLB"/> la palabra griega `επικληθεν' puede traducirse como llamar
-o poner un nombre o como invocar.</rf></rb>
+<wi type="G" value="1941,8,">fueron llamados</wi><rf>
+<citebib id="WEB"/> dice `por el cual ustedes son llamados,´ <citebib id="RVG2012"/> dice `que fue invocado sobre
+ustedes.´ Según <citebib id="Thayer-BLB"/> la palabra griega `επικληθεν' puede traducirse como llamar
+o poner un nombre o como invocar.
+</rf></rb>
 <t xml:lang="es">?</t>
 </sv>
 
@@ -857,11 +870,12 @@ para <wi type="G" value="3588,5,">el que</wi>
 <wi type="G" value="1656,8,">misericordia</wi>.
 <wi type="G" value="2532,9,">Y</wi>
 <wi type="G" value="1656,11,">la misericordia</wi> </t>
-<rb xml:lang="es"><wi type="G" value="2620,10,">se regocija contra</wi><rf><citebib id="WEB"/> dice `triunfa sobre,´ <citebib id="KJV2003"/> dice `so goza contra´ <citebib id="RVG2012"/> dice `se gloria
-contra.´ Según <citebib
-id="Thayer-BLB"/> la palabra griega `κατακαυχαται´ se traduce como jactarse a
+<rb xml:lang="es"><wi type="G" value="2620,10,">se regocija contra</wi><rf>
+<citebib id="WEB"/> dice `triunfa sobre,´ <citebib id="KJV2003"/> dice `so goza contra´ <citebib id="RVG2012"/> dice `se gloria
+contra.´ Según <citebib id="Thayer-BLB"/> la palabra griega `κατακαυχαται´ se traduce como jactarse a
 costa de, regocijarse sobre, vanagloriarse en detrimento de (una persona o
-cosa).</rf></rb>
+cosa).
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2920,12,">el juicio</wi>.
 </t>
@@ -1169,8 +1183,10 @@ receive heavier judgment.
 <wi type="G" value="1492,7,">sabiendo</wi>
 <wi type="G" value="3754,8,">que</wi>
 <wi type="G" value="2983,11,">recibiremos</wi> </t>
-<rb xml:lang="es"><wi type="G" value="2917,10,">un juicio</wi><rf><citebib id="WEB"/> dice `juicio,´ <citebib id="RVG2012"/> dice `condenación.´ Según <citebib id="Thayer-BLB"/> la palabra griega κριμα
-se define como una decisión, condenación, juicio.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="2917,10,">un juicio</wi><rf>
+<citebib id="WEB"/> dice `juicio,´ <citebib id="RVG2012"/> dice `condenación.´ Según <citebib id="Thayer-BLB"/> la palabra griega κριμα
+se define como una decisión, condenación, juicio.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3173,9,">mayor</wi>.</t>
 </sv>
@@ -1270,9 +1286,10 @@ forest!
 <wi type="G" value="4442,12,">fuego</wi>
 <wi type="G" value="381,15,">enciende</wi>
 <wi type="G" value="2245,13,">un gran</wi> </t>
-<rb xml:lang="es"><wi type="G" value="5208,14,">bosque</wi><rf><citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `bosque,´ <citebib
-id="KJV2003"/> dice `asunto.´ Según <citebib id="Thayer-BLB"/> la palabra griega
-υλην se traduce como bosque, madera, combustible.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="5208,14,">bosque</wi><rf>
+<citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `bosque,´ <citebib id="KJV2003"/> dice `asunto.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+υλην se traduce como bosque, madera, combustible.
+</rf></rb>
 <t xml:lang="es">!</t>
 </sv>
 
@@ -1311,9 +1328,12 @@ es <wi type="G" value="3588,10,">la</wi>
 </t>
 <rb>Gehenna.
 <t xml:lang="es"><wi type="G" value="3588,31,">la</wi>
-<wi type="G" value="1067,32,">Gehena</wi></t><rf>Gehenna is a name that describes a burning Hell with rotting bodies and unclean
-things in it<t xml:lang="es">Gehena es un nombre que describe un infierno ardiente con
-cuerpos en descomposición y cosas impuras.</t></rf>
+<wi type="G" value="1067,32,">Gehena</wi></t><rf>
+Gehenna is a name that describes a burning Hell with rotting bodies and unclean
+things in it 
+<t xml:lang="es">Gehena es un nombre que describe un infierno ardiente con
+cuerpos en descomposición y cosas impuras.</t>
+</rf>
 </rb>
 <t xml:lang="es">. </t>
 </sv>
@@ -1325,7 +1345,8 @@ sea, is tamed, and has been tamed by mankind.
 <wi type="G" value="3956,1,">toda</wi>
 <wi type="G" value="5449,3,">clase</wi>
 <wi type="G" value="2342,4,">de animal</wi>,
-<wi type="G" value="5037,5,"/><wi type="G" value="2532,6,">y</wi> <wi type="G" value="4071,7,">de aves</wi>,
+<wi type="G" value="5037,5,"/><wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="4071,7,">de aves</wi>,
 <wi type="G" value="5037,9,">y</wi>
 <wi type="G" value="2062,8,">de animales que se arrastran</wi>
 <wi type="G" value="2532,10,">y</wi>
@@ -1343,7 +1364,8 @@ por
 <sv id="Santiago-3-8">
 But nobody can tame the
 tongue. It is a restless evil, full of deadly poison.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi> <wi type="G"
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G"
 value="3762,4,"><wi type="G" value="444,6,">nadie</wi></wi>
 <wi type="G" value="1410,5,">puede</wi>
 <wi type="G" value="1150,7,">domar</wi>
@@ -1362,8 +1384,8 @@ who are made in the image of God.
 <wi type="G" value="846,2,">esta</wi>
 <wi type="G" value="2127,3,">bendecimos</wi>
 <wi type="G" value="3588,4,">al</wi>
-<wi type="G" value="2316,5,">Dios</wi> <wi
-type="G" value="2532,6,">y</wi>
+<wi type="G" value="2316,5,">Dios</wi>
+<wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="3962,7,">Padre</wi>,
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="1722,9,">con</wi>
@@ -1472,15 +1494,18 @@ and don´t lie against the truth.
 <wi type="G" value="2205,3,">celos</wi>
 <wi type="G" value="4089,4,">amargos</wi>
 <wi type="G" value="2532,6,">y</wi> </t>
-<rb xml:lang="es"><wi type="G" value="2052,7,">rivalidad</wi><rf><citebib id="WEB"/> dice `ambiciones egoístas,´ <citebib id="RVG2012"/> dice `contención,´ <citebib id="KJV2003"/> dice `lucha.´ La
+<rb xml:lang="es"><wi type="G" value="2052,7,">rivalidad</wi><rf>
+<citebib id="WEB"/> dice `ambiciones egoístas,´ <citebib id="RVG2012"/> dice `contención,´ <citebib id="KJV2003"/> dice `lucha.´ La
 palabra griega `εριθειαν´ según Strong de <citebib id="Thayer-BLB"/> se traduce como intriga, facción,
-contienda, disputa. La hemos traducido en otros pasajes como rivalidad.</rf></rb>
+contienda, disputa. La hemos traducido en otros pasajes como rivalidad.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1722,8,">en</wi> </t>
 <rb xml:lang="es"><wi type="G" value="5216,11,">su</wi>
-<wi type="G" value="3588,9,"/><wi type="G" value="2588,10,">corazón</wi><rf><citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `su corazón,` <citebib
-id="KJV2003"/> dice `sus corazones.` En griego sus está en
-plural, mientras que corazón está en singular.</rf></rb>
+<wi type="G" value="3588,9,"/><wi type="G" value="2588,10,">corazón</wi><rf>
+<citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `su corazón,` <citebib id="KJV2003"/> dice `sus corazones.` En griego sus está en
+plural, mientras que corazón está en singular.
+</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="3361,12,">no</wi>
 <wi type="G" value="2620,13,">presuman</wi>
@@ -2142,9 +2167,11 @@ Establish your hearts, for the coming of the Lord is at hand.
 Don´t grumble, brothers, against one another, so that you
 won´t be judged. Behold, the judge stands at the door.
 <rb xml:lang="es"><wi type="G" value="3361,1,">No</wi>
-<wi type="G" value="4727,2,">murmuren</wi><rf><citebib id="WEB"/> dice `Don't grumble´ que puede traducirse como `No se quejen,´ <citebib id="KJV2003"/> dice
+<wi type="G" value="4727,2,">murmuren</wi><rf>
+<citebib id="WEB"/> dice `Don't grumble´ que puede traducirse como `No se quejen,´ <citebib id="KJV2003"/> dice
 `Grudge not´ que puede traducirse como `No guarden rencor.´ La palabra griega
-`στεναζετε´ puede traducirse como murmurar, suspirar, gemir, quejarse.</rf></rb>
+`στεναζετε´ puede traducirse como murmurar, suspirar, gemir, quejarse.
+</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="80,5,">hermanos</wi>,
 <wi type="G" value="2596,3,">unos de</wi>
@@ -2250,10 +2277,12 @@ don´t fall
 </t>
 <rb>into hypocrisy.
 <t xml:lang="es"><wi type="G" value="5259,30,">en</wi>
-<wi type="G" value="2920,31,">condenación</wi></t><rf>TR reads «under judgment» instead of «into hypocrisy»<t xml:lang="es"><citebib
-id="WEB"/> dice `en
+<wi type="G" value="2920,31,">condenación</wi></t><rf>
+TR reads «under judgment» instead of «into hypocrisy» 
+<t xml:lang="es"><citebib id="WEB"/> dice `en
 hipocrecia,´ con nota al pie que dice que <citebib id="TR"/> dice `en juicio.´ <citebib id="KJV2003"/> dice `en
-condenación.´</t></rf>
+condenación.´</t>
+</rf>
 </rb>
 </sv></cm>
 
@@ -2262,7 +2291,8 @@ condenación.´</t></rf>
 <sv id="Santiago-5-13">
 Is any among you suffering? Let him pray. Is any cheerful? Let him sing
 praises.
-<t xml:lang="es">¿<wi type="G" value="2553,1,">Está</wi> <wi type="G" value="5100,2,">alguno</wi>
+<t xml:lang="es">¿<wi type="G" value="2553,1,">Está</wi>
+<wi type="G" value="5100,2,">alguno</wi>
 <wi type="G" value="1722,3,">entre</wi>
 <wi type="G" value="5213,4,">ustedes</wi>
 <wi type="GC" value="1">sufriendo</wi>?

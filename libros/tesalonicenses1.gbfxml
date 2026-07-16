@@ -91,10 +91,13 @@ Father.
 We know,
 <t xml:lang="es"><wi type="G" value="1492,1,">Sabiendo</wi> </t>
 <rb>brothers
-<t xml:lang="es"><wi type="G" value="80,2,">hermanos</wi></t><rf>The word for «brothers» here and where context allows may also be correctly
-translated «brothers and sisters» or «siblings.»<t xml:lang="es">La palabra para hermanos
+<t xml:lang="es"><wi type="G" value="80,2,">hermanos</wi></t><rf>
+The word for «brothers» here and where context allows may also be correctly
+translated «brothers and sisters» or «siblings.» 
+<t xml:lang="es">La palabra para hermanos
 aquí y en donde el contexto lo permita también se puede traducir correctamente
-como hermanos y hermanas.</t></rf></rb>
+como hermanos y hermanas.</t>
+</rf></rb>
  loved by God, that you are chosen,
 <t xml:lang="es">
 <wi type="G" value="25,3,">amados</wi>
@@ -103,12 +106,14 @@ como hermanos y hermanas.</t></rf></rb>
 <rb xml:lang="es">
 <wi type="G" value="3588,6,">la</wi>
 <wi type="G" value="1589,7,">elección</wi>
-<wi type="G" value="5216,8,">de ustedes</wi><rf><citebib id="WEB"/> dice `que ustedes son elegidos,´ <citebib id="KJV2003"/> dice `su eleccion de Dios´ <citebib id="RVG2012"/> dice
+<wi type="G" value="5216,8,">de ustedes</wi><rf>
+<citebib id="WEB"/> dice `que ustedes son elegidos,´ <citebib id="KJV2003"/> dice `su eleccion de Dios´ <citebib id="RVG2012"/> dice
 `su elección.´ Nos parece más correcta la traducción de <citebib id="RVG2012"/> porque `de Dios´ va
 a continuación de hermanos amados por lo que creemos se conecta como `hermanos
 amados de Dios´ y las palabras griegas finales υμων εκλογην corresponden (1) al
 pronombre posesivo de la segunda persona plural `su` o `de ustedes´ y (2) según
-<citebib id="Thayer-BLB"/> puede traducirse como "el acto de elegir" o "una persona o cosa elegida."</rf></rb>
+<citebib id="Thayer-BLB"/> puede traducirse como "el acto de elegir" o "una persona o cosa elegida."
+</rf></rb>
 <t xml:lang="es">, </t>
 </sv>
 
@@ -140,10 +145,11 @@ among you for your sake.
 <wi type="G" value="1722,21,">con</wi>
 <wi type="G" value="4183,23,">gran</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="4136,22,">plenitud</wi><rf><citebib id="WEB"/> dice `con gran seguridad,´ <citebib id="KJV2003"/> dice `con mucha seguridad,´ <citebib id="RVG2012"/> dice `gran
-plenitud.´ Según <citebib
-id="Thayer-BLB"/> la palabra griega `πληροφορια´ se traduce como plenitud,
-abundancia, plena seguridad, garantía.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="4136,22,">plenitud</wi><rf>
+<citebib id="WEB"/> dice `con gran seguridad,´ <citebib id="KJV2003"/> dice `con mucha seguridad,´ <citebib id="RVG2012"/> dice `gran
+plenitud.´ Según <citebib id="Thayer-BLB"/> la palabra griega `πληροφορια´ se traduce como plenitud,
+abundancia, plena seguridad, garantía.
+</rf></rb>
 <t xml:lang="es">.
 <wi type="G" value="2531,24,">Como</wi>
 <wi type="G" value="1492,25,">saben</wi>
@@ -421,8 +427,10 @@ might have claimed authority as apostles of Christ.
 <wi type="G" value="1410,12,">pudiendo</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="1511,15,">ser</wi>
-<wi type="G" value="1722,13,"/><wi type="G" value="922,14,">carga</wi><rf><citebib id="WEB"/> dice `reclamar autoridad,´ <citebib id="KJV2003"/> dice `haber sido gravosos,´ <citebib id="RVG2012"/> dice
-`podiamos serles carga.´</rf></rb>
+<wi type="G" value="1722,13,"/><wi type="G" value="922,14,">carga</wi><rf>
+<citebib id="WEB"/> dice `reclamar autoridad,´ <citebib id="KJV2003"/> dice `haber sido gravosos,´ <citebib id="RVG2012"/> dice
+`podiamos serles carga.´
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="5613,16,">como</wi>
 <wi type="G" value="652,18,">apóstoles</wi>
@@ -534,10 +542,12 @@ every one of you, as a father does his own children,
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="3888,14,">confortamos</wi>
 <wi type="G" value="2532,15,">e</wi>
-</t><rb xml:lang="es"><wi type="G" value="3140,16,">imploramos</wi><rf><citebib id="WEB"/> dice `imploramos,´ <citebib id="KJV2003"/> dice `charged´ que podría traducirse como atraer,
+</t><rb xml:lang="es"><wi type="G" value="3140,16,">imploramos</wi><rf>
+<citebib id="WEB"/> dice `imploramos,´ <citebib id="KJV2003"/> dice `charged´ que podría traducirse como atraer,
 <citebib id="RVG2012"/> no la traduce. La palabra `μαρτυρουμενοι´ en otros versículos se ha
 traducido como dar testimonio, y según <citebib id="Thayer-BLB"/> significa ser testigo, dar
-testimonio, dar buen reporte, conjurar, implorar.</rf></rb>
+testimonio, dar buen reporte, conjurar, implorar.
+</rf></rb>
 <t xml:lang="es">
 por <wi type="G" value="1538,5,">cada</wi>
 <wi type="G" value="1520,4,">uno</wi>
@@ -763,9 +773,12 @@ Isn´t it even you, before our Lord Jesus
 <wi type="G" value="3588,15,"/><wi type="G" value="2962,16,">Señor</wi>
 <wi type="G" value="2424,18,">Jesús</wi>
 </t>
-<rb><t xml:lang="es"><wi type="G" value="5547,19,">Cristo</wi></t><rf>TR adds Christ. <t xml:lang="es">WEB no lo incluye, pero según nota al pie si lo incluye TR y
-vemos que también <citebib id="KJV2003"/> y <citebib
-id="RVG2012"/>.</t></rf>
+<rb>
+<t xml:lang="es"><wi type="G" value="5547,19,">Cristo</wi></t><rf>
+TR adds Christ. 
+<t xml:lang="es">WEB no lo incluye, pero según nota al pie si lo incluye TR y
+vemos que también <citebib id="KJV2003"/> y <citebib id="RVG2012"/>.</t>
+</rf>
 </rb>
  at his
 coming?
@@ -820,8 +833,10 @@ concerning your faith;
 </t>
 <rb xml:lang="es"><wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="2257,13,">nuestro</wi>
-<wi type="G" value="4904,12,">compañero</wi><rf><citebib id="WEB"/> no dice esto, pero si está en <citebib id="KJV2003"/> y su concordancia Strong al TR, y en
-<citebib id="RVG2012"/>.</rf></rb>
+<wi type="G" value="4904,12,">compañero</wi><rf>
+<citebib id="WEB"/> no dice esto, pero si está en <citebib id="KJV2003"/> y su concordancia Strong al TR, y en
+<citebib id="RVG2012"/>.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1722,14,">en</wi>
 <wi type="G" value="3588,15,">el</wi>
@@ -1015,9 +1030,11 @@ perfect that which is lacking in your faith?
 <wi type="G" value="3588,11,"/><wi type="G" value="4383,12,">rostro</wi>,
 <wi type="G" value="2532,13,">y</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="2675,14,">se perfeccione</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `pueda perfeccionarse,´ <citebib id="RVG2012"/> dice `que cumplamos.´ Según <citebib id="Thayer-BLB"/>
+<rb xml:lang="es"><wi type="G" value="2675,14,">se perfeccione</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `pueda perfeccionarse,´ <citebib id="RVG2012"/> dice `que cumplamos.´ Según <citebib id="Thayer-BLB"/>
 la palabra griega `καταρτισαι´ se traduce como reparar, ajustas, perfeccionar,
-preparar, restaurar.</rf></rb>
+preparar, restaurar.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3588,15,"/><wi type="G" value="5303,16,">lo que falta</wi>
 <wi type="G" value="5216,19,">en su</wi>
@@ -1078,10 +1095,11 @@ Lord Jesus with all his saints.
 <t xml:lang="es"><wi type="G" value="1519,1,">para</wi>
 <wi type="G" value="3588,2,">que</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="4741,3,">sean confirmados</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `Él pueda establecer,´ <citebib id="RVG2012"/> dice `sean confirmados,´ Según
-<citebib
-id="Thayer-BLB"/> la palabra griega `στηριξαι´ se puede traducir como hacer estable, poner
-firmemente, fortalecer, confirmar.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="4741,3,">sean confirmados</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `Él pueda establecer,´ <citebib id="RVG2012"/> dice `sean confirmados,´ Según
+<citebib id="Thayer-BLB"/> la palabra griega `στηριξαι´ se puede traducir como hacer estable, poner
+firmemente, fortalecer, confirmar.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="5216,4,">sus</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="2588,6,">corazones</wi>
@@ -1277,7 +1295,8 @@ you. For you  yourselves are taught by God to love one another,
 <wi type="G" value="4012,1,">respecto</wi> al
 <wi type="G" value="3588,3,"/><wi type="G" value="5360,4,">amor fraternal</wi>,
 <wi type="G" value="3756,5,">no</wi>
-<wi type="G" value="2192,7,">tienen</wi> <wi type="G" value="5532,6,">necesidad</wi> de que
+<wi type="G" value="2192,7,">tienen</wi>
+<wi type="G" value="5532,6,">necesidad</wi> de que
 <wi type="G" value="5213,9,">les</wi>
 <wi type="G" value="1125,8,">escriba</wi>,
 <wi type="G" value="1063,11,">pues</wi>
@@ -1320,10 +1339,11 @@ and that you  make it your ambition to lead a quiet life, and to do your own
 business, and to work with your own hands, even as we charged you;
 <t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
 </t>
-<rb xml:lang="es">que <wi type="G" value="5389,2,">se esfuercen</wi> por<rf><citebib id="WEB"/> dice `que sea su ambición,´ <citebib id="KJV2003"/> dice `que estudien,´ <citebib id="RVG2102"/> dice `procuren.´
-Según <citebib
-id="Thayer-BLB"/> la palabra griega `φιλοτιμεισθαι se traduce como esforzarse,
-trabajar, estudiar, actuar por amor al honor, ser ambicioso.</rf></rb>
+<rb xml:lang="es">que <wi type="G" value="5389,2,">se esfuercen</wi> por<rf>
+<citebib id="WEB"/> dice `que sea su ambición,´ <citebib id="KJV2003"/> dice `que estudien,´ <citebib id="RVG2102"/> dice `procuren.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `φιλοτιμεισθαι se traduce como esforzarse,
+trabajar, estudiar, actuar por amor al honor, ser ambicioso.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2270,3,">estar tranquilos</wi>,
 <wi type="G" value="2532,4,">y</wi>
@@ -1967,8 +1987,10 @@ The grace of our Lord Jesus Christ be with you. Amen.
 <wi type="G" value="3326,8,">con</wi>
 <wi type="G" value="5216,9,">ustedes</wi>.
 <wi type="G" value="281,10,">Amén</wi></t>
-<rb xml:lang="es"><rf><citebib id="KJV2003"/> agrega este colofón: La primera epístola a los Tesalonicenses fue escrita
-desde Atenas.</rf></rb>
+<rb xml:lang="es"><rf>
+<citebib id="KJV2003"/> agrega este colofón: La primera epístola a los Tesalonicenses fue escrita
+desde Atenas.
+</rf></rb>
 <t xml:lang="es">.
 </t>
 <cl/>

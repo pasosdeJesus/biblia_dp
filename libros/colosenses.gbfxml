@@ -32,10 +32,13 @@ to the saints and faithful
 <wi type="G" value="4103,6,">fieles</wi>
 </t>
 <rb>brothers
-<t xml:lang="es"><wi type="G" value="80,7,">hermanos</wi></t><rf>The word for «brothers» here and where context allows may also be correctly
-translated «brothers and sisters» or «siblings.»<t xml:lang="es">La palabra para «hermanos»
+<t xml:lang="es"><wi type="G" value="80,7,">hermanos</wi></t><rf>
+The word for «brothers» here and where context allows may also be correctly
+translated «brothers and sisters» or «siblings.» 
+<t xml:lang="es">La palabra para «hermanos»
 aquí y donde el contexto lo permita también puede traducirse correctamente como
-«hermanos y hermanas». </t></rf>
+«hermanos y hermanas». </t>
+</rf>
 </rb>
  in Christ at Colossae: Grace to you
 and peace from God our Father, and the Lord Jesus Christ.
@@ -133,7 +136,8 @@ heard and knew the grace of God in truth;
 <wi type="G" value="1519,3,">a</wi>
 <wi type="G" value="5209,4,">ustedes</wi>;
 <wi type="G" value="2531,5,">así</wi>
-<wi type="G" value="2532,6,">como</wi> <wi type="G" value="1722,7,">a</wi>
+<wi type="G" value="2532,6,">como</wi>
+<wi type="G" value="1722,7,">a</wi>
 <wi type="G" value="3956,8,">todo</wi>
 <wi type="G" value="3588,9,">el</wi>
 <wi type="G" value="2889,10,">mundo</wi>
@@ -265,12 +269,14 @@ all endurance and perseverance with joy;
 <wi type="G" value="3588,8,"/><wi type="G" value="1391,9,">glorioso</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="2904,7,">poder</wi>,
 <wi type="G" value="1519,11,">para</wi> </t>
-<rb xml:lang="es"><wi type="G" value="5281,13,">soportar</wi><rf><citebib id="WEB"/> dice `para toda resistencia,´ <citebib id="KJV2003"/> dice `para toda paciencia,´ <citebib id="RVG2012"/> dice
+<rb xml:lang="es"><wi type="G" value="5281,13,">soportar</wi><rf>
+<citebib id="WEB"/> dice `para toda resistencia,´ <citebib id="KJV2003"/> dice `para toda paciencia,´ <citebib id="RVG2012"/> dice
 `para toda tolerancia.´ Segun <citebib id="Thayer-BLB"/> la palabra griega `υπομονην´ se traduce como
 firmeza, constancia, resistencia y aclara `en el nuevo testamento la
 característica del hombre que no se desvia de su propósito deliberado, y de la
 fidelidad a la fe y la misericordia aun ante las más grandes pruebas y
-sufrimintos.</rf></rb>
+sufrimintos.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3956,12,">todo</wi>
 <wi type="G" value="2532,14,">y</wi>
@@ -291,9 +297,10 @@ who made us fit to be partakers of the inheritance of the saints in light;
 <wi type="G" value="1519,7,">de</wi>
 <wi type="G" value="3588,8,"/><wi type="G" value="3310,9,">ser participes</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,10,">de la</wi>
-<wi type="G" value="2819,11,">herencia</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `herencia,´ <citebib
-id="RVG2012"/> dice `suerte.´ Según <citebib id="Thayer-BLB"/> la palabra griega
-`κληρου´ se traduce como suerte, parte, herencia.</rf></rb>
+<wi type="G" value="2819,11,">herencia</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `herencia,´ <citebib id="RVG2012"/> dice `suerte.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+`κληρου´ se traduce como suerte, parte, herencia.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3588,12,">de los</wi>
 <wi type="G" value="40,13,">santos</wi>
@@ -332,8 +339,11 @@ redemption,
 <rb>
 <t xml:lang="es"><wi type="G" value="1223,6,">por</wi>
 <wi type="G" value="846,9,">Su</wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="129,8,">sangre</wi></t><rf>TR adds «through his blood,» <t xml:lang="es"><citebib id="WEB"/> no dice `por su sangre´ pero tiene una
-nota al pie que dice `TR añade «por su sangre.»´ Si lo dice <citebib id="KJV2003"/> </t></rf>
+<wi type="G" value="3588,7,"/><wi type="G" value="129,8,">sangre</wi></t><rf>
+TR adds «through his blood,» 
+<t xml:lang="es"><citebib id="WEB"/> no dice `por su sangre´ pero tiene una
+nota al pie que dice `TR añade «por su sangre.»´ Si lo dice <citebib id="KJV2003"/> </t>
+</rf>
 </rb>
  the forgiveness of our sins;
 <t xml:lang="es">
@@ -446,7 +456,9 @@ For all the fullness was pleased to dwell in him;
 <wi type="G" value="3588,6,">la</wi>
 <wi type="G" value="4138,7,">plenitud</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="2106,4,">se agradó</wi><rf><citebib id="RVG2012"/> dice `agradó al Padre.´</rf></rb>
+<rb xml:lang="es"><wi type="G" value="2106,4,">se agradó</wi><rf>
+<citebib id="RVG2012"/> dice `agradó al Padre.´
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2730,8,">de morar</wi>
 <wi type="G" value="1722,2,">en</wi>
@@ -499,10 +511,11 @@ evil works,
 </t>
 <rb xml:lang="es">
 <wi type="G" value="3588,8,">de</wi>
-<wi type="G" value="1271,9,">pensamiento</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `en su mente,´ <citebib
-id="RVG2012"/> dice `de animo.´ Según <citebib id="Thayer-BLB"/> la palabra
+<wi type="G" value="1271,9,">pensamiento</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `en su mente,´ <citebib id="RVG2012"/> dice `de animo.´ Según <citebib id="Thayer-BLB"/> la palabra
 griega `διανοια´ se traduce como mente, facultad de entender, sentimiento,
-deseo, entendimiento, pensamientos.</rf></rb>
+deseo, entendimiento, pensamientos.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1722,10,">por</wi>
 <wi type="G" value="3588,13,">las</wi>
@@ -510,8 +523,10 @@ deseo, entendimiento, pensamientos.</rf></rb>
 <wi type="G" value="3588,11,"/><wi type="G" value="2041,12,">obras</wi>,
 </t><rb xml:lang="es"><wi type="G" value="1161,16,">pero</wi>
 <wi type="G" value="3570,15,">ahora</wi>
-<wi type="G" value="604,17,">han sido reconciliados</wi><rf><citebib id="WEB"/> pone esto en el siguiente versículo, pero está en este versículo en <citebib id="KJV2003"/> y
-<citebib id="RVG2012"/>.</rf></rb>
+<wi type="G" value="604,17,">han sido reconciliados</wi><rf>
+<citebib id="WEB"/> pone esto en el siguiente versículo, pero está en este versículo en <citebib id="KJV2003"/> y
+<citebib id="RVG2012"/>.
+</rf></rb>
 </sv>
 
 <sv id="Colosenses-1-22">
@@ -548,7 +563,8 @@ Paul, was made a servant.
 <wi type="G" value="2311,5,">cimentados</wi>
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="1476,7,">perseverantes</wi>,
-<wi type="G" value="2532,8,">y</wi> <wi type="G" value="3361,9,">no</wi>
+<wi type="G" value="2532,8,">y</wi>
+<wi type="G" value="3361,9,">no</wi>
 <wi type="G" value="3334,10,">se mueven</wi>
 <wi type="G" value="575,11,">de</wi>
 <wi type="G" value="3588,12,">la</wi>
@@ -737,10 +753,11 @@ for those at Laodicea, and for as many as have not seen my face in the flesh;
 <wi type="G" value="1492,4,">sepan</wi>
 <wi type="G" value="2245,5,">cuan gran</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="73,6,">lucha</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `conflicto,´ <citebib
-id="RVG2012"/> dice `solicitud.´ Según <citebib id="Thayer-BLB"/> la palabra
+<rb xml:lang="es"><wi type="G" value="73,6,">lucha</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `conflicto,´ <citebib id="RVG2012"/> dice `solicitud.´ Según <citebib id="Thayer-BLB"/> la palabra
 griega `αγωνα´ se traduce como lugar de reunión, o de competencia, esfuerzo o
-ansiedad, conflicto, pelea, carrera.</rf></rb>
+ansiedad, conflicto, pelea, carrera.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2192,7,">he tenido</wi>
 <wi type="G" value="4012,8,">por</wi>
@@ -952,10 +969,12 @@ en <wi type="G" value="3739,6,">quien</wi>
 <wi type="G" value="2776,9,">cabeza</wi>
 <wi type="G" value="3956,10,">de todo</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="746,11,">principado</wi><rf><citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="RVR1960"/> dicen `principado.´ Según <citebib id="Thayer-BLB"/> la palabra griega `ἀρχή´ se
+<rb xml:lang="es"><wi type="G" value="746,11,">principado</wi><rf>
+<citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="RVR1960"/> dicen `principado.´ Según <citebib id="Thayer-BLB"/> la palabra griega `ἀρχή´ se
 traduce como (1) origen, inicio, (2) persona o cosa que comienza, (3) por quien
 algo comienza, (4) extremo de una cosa, (5) primer lugar, principado,
-magistratura <citebib id=""/></rf></rb>
+magistratura <citebib id=""/>
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="1849,13,">potestad</wi>;</t>
@@ -1050,8 +1069,10 @@ us; and he has taken it out of the way, nailing it to the cross;
 <rb xml:lang="es"><wi type="G" value="5498,5,">el escrito</wi>
 <wi type="G" value="3588,6,">de</wi>
 <wi type="G" value="1378,7,">decretos</wi>
-<rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `la escritura de ordenanzas´ <citebib id="RVR1960"/> dice `el acta de los
-decretos.´</rf></rb>
+<rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `la escritura de ordenanzas´ <citebib id="RVR1960"/> dice `el acta de los
+decretos.´
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3739,8,">que</wi>
 <wi type="G" value="2258,9,">había</wi>
@@ -1087,8 +1108,10 @@ las
 <wi type="G" value="846,11,">estos</wi>
 <wi type="G" value="1722,12,">en</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="846,13,">si mismo</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `it´ que puede traducirse como `esto.´ <citebib id="RVG2012"/> dice `en si
-mismo.´</rf></rb>
+<rb xml:lang="es"><wi type="G" value="846,13,">si mismo</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `it´ que puede traducirse como `esto.´ <citebib id="RVG2012"/> dice `en si
+mismo.´
+</rf></rb>
 <t xml:lang="es">.</t>
 </sv></cm>
 
@@ -1144,18 +1167,21 @@ mind,
 </t>
 <rb xml:lang="es"><wi type="G" value="2309,4,">dispuesto</wi>
 <wi type="G" value="1722,5,">en</wi>
-<wi type="G" value="5012,6,">una ostentosa humildad</wi><rf><citebib id="WEB"/> dice `por una humildad voluntaria,´ <citebib id="RVR1960"/> dice `afectando humildad.´ Las
+<wi type="G" value="5012,6,">una ostentosa humildad</wi><rf>
+<citebib id="WEB"/> dice `por una humildad voluntaria,´ <citebib id="RVR1960"/> dice `afectando humildad.´ Las
 palabras griegas θελων εν ταπεινοφροσυνη se traducen como (1) determinar,
 disponerse a, deseo, propósito, amor, (2) en (3) humildad, modestia con nota
-"utilizado de una humildad afectada y ostentosa en Col 2:18."</rf></rb>
+"utilizado de una humildad afectada y ostentosa en Col 2:18."
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2532,7,">y</wi>
 en <wi type="G" value="2356,8,">adoración</wi>
 <wi type="G" value="3588,9,">de</wi>
 <wi type="G" value="32,10,">ángeles</wi>,
 </t>
-<rb xml:lang="es"><wi type="G" value="1687,14,">entrometiéndose en</wi><rf><citebib id="WEB"/> `que habitan,´ <citebib id="RVR1960"/> y <citebib
-id="KJV2003"/> dicen `entrometiéndose en´</rf></rb>
+<rb xml:lang="es"><wi type="G" value="1687,14,">entrometiéndose en</wi><rf>
+<citebib id="WEB"/> `que habitan,´ <citebib id="RVR1960"/> y <citebib id="KJV2003"/> dicen `entrometiéndose en´
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3739,11,">cosas</wi>
 que <wi type="G" value="3361,12,">no</wi>
@@ -1242,7 +1268,9 @@ perish with use), according to the precepts and doctrines of men?
 <wi type="G" value="1519,4,">para</wi>
 <wi type="G" value="5356,5,">destrucción</wi>
 <wi type="G" value="3588,6,">al</wi>
-<wi type="G" value="671,7,">usarse</wi><rf><citebib id="WEB"/> dice `perecen con el uso,´ <citebib id="RVG2012"/> dice `para destrucción en el uso mismo.´</rf></rb>
+<wi type="G" value="671,7,">usarse</wi><rf>
+<citebib id="WEB"/> dice `perecen con el uso,´ <citebib id="RVG2012"/> dice `para destrucción en el uso mismo.´
+</rf></rb>
 <t xml:lang="es">),
 <wi type="G" value="2596,8,">de acuerdo a</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="1778,10,">preceptos</wi>
@@ -1265,7 +1293,9 @@ flesh.
 <wi type="G" value="4678,6,">de sabiduría</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="1722,7,">en</wi>
-<wi type="G" value="1479,8,">culto voluntario</wi><rf><citebib id="WEB"/> dice `una adoración auto-impuesta,´ <citebib id="RVG2012"/> dice `culto voluntario.´</rf></rb>
+<wi type="G" value="1479,8,">culto voluntario</wi><rf>
+<citebib id="WEB"/> dice `una adoración auto-impuesta,´ <citebib id="RVG2012"/> dice `culto voluntario.´
+</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="5012,10,">humildad</wi>,
@@ -1313,11 +1343,12 @@ that are above, where Christ is, seated on the right hand of God.
 <sv id="Colosenses-3-2">
 Set your mind on the things that are above, not on the things that are on the
 earth.
-<rb xml:lang="es"><wi type="G" value="5426,3,">Pongan sus mentes</wi><rf><citebib id="WEB"/> dice `pongan sus mentes,´ <citebib id="KJV2003"/> dice `pongan su cariño´ <citebib id="RVG2012"/> dice `pongan la
-mira.´ Según <citebib
-id="Thayer-BLB"/> la palabra griega `φρονειτε´ significa (1)tener entendimiento,
+<rb xml:lang="es"><wi type="G" value="5426,3,">Pongan sus mentes</wi><rf>
+<citebib id="WEB"/> dice `pongan sus mentes,´ <citebib id="KJV2003"/> dice `pongan su cariño´ <citebib id="RVG2012"/> dice `pongan la
+mira.´ Según <citebib id="Thayer-BLB"/> la palabra griega `φρονειτε´ significa (1)tener entendimiento,
 ser sabio, (2) sentir, pensar, (3) dirigir la mente a algo, buscar, esforzarse
-por.</rf></rb>
+por.
+</rf></rb>
 <t xml:lang="es"><wi type="G" value="3588,1,">en lo que</wi> está
 <wi type="G" value="507,2,">arriba</wi>,
 <wi type="G" value="3361,4,">no</wi>
@@ -1516,9 +1547,11 @@ compassion, kindness, lowliness, humility, and perseverance;
 <wi type="G" value="5012,13,">mansedumbre</wi>,
 <wi type="G" value="4236,14,">humildad</wi>
 y </t>
-<rb xml:lang="es"><wi type="G" value="3115,15,">paciencia</wi><rf><citebib id="WEB"/> dice `perseverancia´ <citebib id="RVG2012"/> dice `tolerancia.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+<rb xml:lang="es"><wi type="G" value="3115,15,">paciencia</wi><rf>
+<citebib id="WEB"/> dice `perseverancia´ <citebib id="RVG2012"/> dice `tolerancia.´ Según <citebib id="Thayer-BLB"/> la palabra griega
 `μακροθυμίαν´ se traduce como (1) paciencia, constancia, perseverancia, (2)
-paciencia, lentitud para vengar los agravios.</rf></rb>
+paciencia, lentitud para vengar los agravios.
+</rf></rb>
 <t xml:lang="es">;</t>
 </sv>
 
@@ -1612,7 +1645,8 @@ psalms, hymns, and spiritual songs, singing with grace in your
 <wi type="G" value="3560,14,">exhortándose</wi>
 <wi type="G" value="1438,15,">unos a otros</wi> con
 <wi type="G" value="5568,16,">salmos</wi>,
-<wi type="G" value="2532,17,">e</wi> <wi type="G" value="5215,18,">himnos</wi>
+<wi type="G" value="2532,17,">e</wi>
+<wi type="G" value="5215,18,">himnos</wi>
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="5603,20,">cantos</wi>
 <wi type="G" value="4152,21,">espirituales</wi>,
@@ -1683,10 +1717,11 @@ Husbands, love your wives, and don´t be bitter against them.
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="3361,7,">no</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="4087,8,">se exasperen</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `amargos,´ <citebib
-id="RVG2012"/> dice `desapacibles.´ Según <citebib id="Thayer-BLB"/> la palabra
+<rb xml:lang="es"><wi type="G" value="4087,8,">se exasperen</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `amargos,´ <citebib id="RVG2012"/> dice `desapacibles.´ Según <citebib id="Thayer-BLB"/> la palabra
 griega `πικραινεσθε´ se traduce como amargar, exasperar, irritarse, indignarse,
-amargarse.</rf></rb>
+amargarse.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="4314,9,">con</wi>
 <wi type="G" value="846,10,">ellas</wi>.</t>
@@ -1717,10 +1752,11 @@ discouraged.
 <t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="3962,2,">Padres</wi>,
 <wi type="G" value="3361,3,">no</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="2042,4,">estimulen la ira</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dice `provoquen,´ <citebib
-id="RVG2012"/> dice `irriten.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+<rb xml:lang="es"><wi type="G" value="2042,4,">estimulen la ira</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dice `provoquen,´ <citebib id="RVG2012"/> dice `irriten.´ Según <citebib id="Thayer-BLB"/> la palabra griega
 `ερεθιζετε´ se traduce como agitar, excitar, estimular, provocar. Estimular
-(especialmente la ira).</rf></rb>
+(especialmente la ira).
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="5216,7,">de sus</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="5043,6,">hijos</wi>,
@@ -1751,9 +1787,11 @@ of heart, fearing God.
 <wi type="G" value="235,15,">sino</wi>
 <wi type="G" value="1722,16,">en</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="572,17,">sencillez</wi><rf><citebib id="WEB"/> dice `singleness´ que puede traducirse como soltería, <citebib id="RVG2012"/> dice
+<rb xml:lang="es"><wi type="G" value="572,17,">sencillez</wi><rf>
+<citebib id="WEB"/> dice `singleness´ que puede traducirse como soltería, <citebib id="RVG2012"/> dice
 `sencillez.´ Según <citebib id="Thayer-BLB"/> la palabra griega `απλοτητι´ que puede traducirse como
-soltería, sencillez, sinceridad, honestidad mental.</rf></rb>
+soltería, sencillez, sinceridad, honestidad mental.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2588,18,">del corazón</wi>,
 <wi type="G" value="5399,19,">temiendo a</wi>
@@ -2014,9 +2052,10 @@ received commandments,
 <wi type="G" value="3138,8,">Marcos</wi>,
 </t>
 <rb xml:lang="es"><wi type="G" value="3588,9,">el</wi>
-<wi type="G" value="431,10,">sobrino</wi><rf><citebib id="WEB"/> dice `primo,´ <citebib id="KJV2003"/> dice `hijo de la hermana,´ <citebib id="RVG2012"/> dice `sobrino.´ Según
-<citebib
-id="Thayer-BLB"/> la palabra griega `ανεψιος´ se traduce como hijo de la hermana o primo.</rf></rb>
+<wi type="G" value="431,10,">sobrino</wi><rf>
+<citebib id="WEB"/> dice `primo,´ <citebib id="KJV2003"/> dice `hijo de la hermana,´ <citebib id="RVG2012"/> dice `sobrino.´ Según
+<citebib id="Thayer-BLB"/> la palabra griega `ανεψιος´ se traduce como hijo de la hermana o primo.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="921,11,">de Bernabé</wi>
 (<wi type="G" value="4012,12,">respecto</wi>
@@ -2209,7 +2248,9 @@ sea <wi type="G" value="3326,13,">con</wi>
 <wi type="G" value="5216,14,">ustedes</wi>.
 <wi type="G" value="281,15,">Amén</wi>.
 </t>
-<rb xml:lang="es"><rf><citebib id="KJV2003"/> agrega `Escrito desde Roma para los Colosenses por Tíquico y Onésimo.´</rf></rb>
+<rb xml:lang="es"><rf>
+<citebib id="KJV2003"/> agrega `Escrito desde Roma para los Colosenses por Tíquico y Onésimo.´
+</rf></rb>
 <cl/>
 
 <cl/>

@@ -17,6 +17,9 @@ import { readFileSync, writeFileSync } from 'node:fs';
 function aplicarEstilo(contenido) {
   let c = contenido;
 
+  // ── -1. Unir tags partidos en líneas (ej: <citebib\nid="RVG2012"/> → <citebib id="RVG2012"/>)
+  c = c.replace(/(<\w+)\n\s*([^>]+>)/g, '$1 $2');
+
   // ── 0. Eliminar indentación (tabs/espacios al inicio de línea) ──
   c = c.replace(/^[ \t]+(<\/?(?:sv|sc|sb|cm|t|rb|fr|tt|credits|fp|wi|rf|cl|br)\b[^>]*>?)/gm, '$1');
 
@@ -37,12 +40,12 @@ function aplicarEstilo(contenido) {
   c = c.replace(/\/><wi ([^>]*\/)>/g, '/> <wi $1>');
   // Quitar espacio cuando el siguiente NO es self-closing (tiene texto)
   c = c.replace(/\/> <wi ([^>]*[^/])>/g, '/><wi $1>');
-  // Si hay más <wi> con texto en la misma línea tras />...texto</wi>, pasarlos a línea aparte
-  c = c.replace(/(\/><wi [^>]*[^\/]>[^<]*<\/wi>) +(<wi [^\/>]+>)/g, '$1\n$2');
+  // Si hay más <wi> en la misma línea tras />...texto</wi>, pasarlos a línea aparte
+  c = c.replace(/(\/><wi [^>]*[^\/]>[^<]*<\/wi>)([,;.]?) +(<wi )/g, '$1$2\n$3');
+  // General: un <wi> con texto seguido de otro <wi> (con o sin texto) → línea aparte
+  c = c.replace(/(<wi [^>]*[^\/]>[^<]*<\/wi>)([,;.]?) +(<wi )/g, '$1$2\n$3');
 
-  // ── 3. <rf> contenido en nueva línea ──
-  // <rf>texto → <rf>\ntexto
-  c = c.replace(/<rf>(\S)/g, '<rf>\n$1');
+  // ── 3. <rf> contenido en nueva línea (manejado por regla 4) ──
 
   // ── 4. Ajustar líneas en <rf> (~80 chars, sin partir tags ni URLs) ──
   c = c.replace(/<rf>([\s\S]*?)<\/rf>/g, (match, contenido) => {
@@ -71,15 +74,24 @@ function aplicarEstilo(contenido) {
     }
     if (current) result.push(current);
     // Restaurar tags
-    return '<rf>' + result.join('\n').replace(/\x00T(\d+)\x00/g, (m, i) => tags[parseInt(i)]) + '</rf>';
+    return '<rf>\n' + result.join('\n').replace(/\x00T(\d+)\x00/g, (m, i) => tags[parseInt(i)]) + '</rf>';
   });
 
-  // ── 5. Limpiar: evitar doble espacio después de /> en misma línea ──
+  // ── 5. <t xml:lang="es"> dentro de <rf> en nueva línea ──
+  c = c.replace(/<rf>([\s\S]*?)<\/rf>/g, (match, contenido) => {
+    return '<rf>' + contenido.replace(/([^\n])(<t xml:lang="es">)/g, '$1\n$2') + '</rf>';
+  });
+
+  // ── 6. </rf> en línea propia ──
+  c = c.replace(/([^\n])(<\/rf>)/g, '$1\n$2');
   c = c.replace(/\/><wi ([^>]*\/)>/g, '/><wi $1>');
 
   // ── 6. Quitar línea en blanco después de <sc> y antes de </sc> ──
   c = c.replace(/<sc id="([^"]+)">\n\n/g, '<sc id="$1">\n');
   c = c.replace(/\n\n<\/sc>/g, '\n</sc>');
+
+  // ── 7. <t> dentro de <rb> empieza en nueva línea ──
+  c = c.replace(/(<rb[^>]*>[^\n]*)(<t xml:lang=)/g, '$1\n$2');
 
   // ── 7. Quitar línea en blanco antes del primer <sv> de un <cm> ──
   // (Eliminada: entraba en conflicto con regla 1)

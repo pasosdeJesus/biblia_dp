@@ -166,9 +166,10 @@ and prudence,
 <wi type="G" value="2532,8,">y</wi>
 </t>
 <rb xml:lang="es">
-<wi type="G" value="5428,9,">prudencia</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `prudencia,´ <citebib
-id="RVR1960"/> dice `inteligencia.´ Según <citebib id="Thayer-BLB"/> la palabra
-griega `φρονησει´ se traduce como entendimiento, sabiduría, prudencia.</rf></rb>
+<wi type="G" value="5428,9,">prudencia</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `prudencia,´ <citebib id="RVR1960"/> dice `inteligencia.´ Según <citebib id="Thayer-BLB"/> la palabra
+griega `φρονησει´ se traduce como entendimiento, sabiduría, prudencia.
+</rf></rb>
 <t xml:lang="es">,</t>
 </sv>
 
@@ -294,7 +295,9 @@ redemption of God´s own possession, to the praise of his glory.
 <wi type="G" value="1519,7,">para</wi>
 <wi type="G" value="629,8,">la redención</wi> </t>
 <rb xml:lang="es"><wi type="G" value="3588,9,">de la</wi>
-<wi type="G" value="4047,10,">posesión</wi>,<rf><citebib id="RVG2012"/> dice `de la posesión adquirida.´</rf></rb>
+<wi type="G" value="4047,10,">posesión</wi>,<rf>
+<citebib id="RVG2012"/> dice `de la posesión adquirida.´
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1519,11,">para</wi>
 <wi type="G" value="1868,12,">la alabanza</wi>
@@ -361,7 +364,8 @@ spirit of wisdom and revelation in the knowledge of him;
 <wi type="G" value="4678,16,">de sabiduría</wi>
 <wi type="G" value="2532,17,">y</wi>
 <wi type="G" value="602,18,">revelación</wi>
-<wi type="G" value="1722,19,">en</wi> <wi type="G" value="1922,20,">el conocimiento</wi>
+<wi type="G" value="1722,19,">en</wi>
+<wi type="G" value="1922,20,">el conocimiento</wi>
 <wi type="G" value="846,21,">de Él</wi>;</t>
 </sv>
 
@@ -372,11 +376,12 @@ having the eyes of your
 <wi type="G" value="3788,3,">ojos</wi>
 <wi type="G" value="5216,6,">de sus</wi></t>
 <rb>hearts
-<t xml:lang="es"><wi type="G" value="3588,4,"/><wi type="G" value="1271,5,">mentes</wi></t><rf>TR reads «understanding» instead of «hearts» <t xml:lang="es"><citebib
-id="WEB"/> y <citebib id="RVG2012"/> dicen `corazones´
-TR y <citebib
-id="KJV2003"/> dicen `entendimiento.´ Según <citebib id="Thayer-BLB"/> la palabra griega `διανοιας´ se
-traduce como mente, entendimiento, imaginación. </t></rf>
+<t xml:lang="es"><wi type="G" value="3588,4,"/><wi type="G" value="1271,5,">mentes</wi></t><rf>
+TR reads «understanding» instead of «hearts» 
+<t xml:lang="es"><citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `corazones´
+TR y <citebib id="KJV2003"/> dicen `entendimiento.´ Según <citebib id="Thayer-BLB"/> la palabra griega `διανοιας´ se
+traduce como mente, entendimiento, imaginación. </t>
+</rf>
 </rb>
 enlightened, that you
 may know what is the hope of his calling, and what
@@ -484,9 +489,10 @@ sobre <wi type="G" value="3956,11,">todo</wi>
 He put all things in subjection under his feet,
 and gave him to be head over all things for the assembly,
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi> </t>
-<rb xml:lang="es"><wi type="G" value="5293,3,">sometió</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `puso,´ <citebib
-id="RVG2012"/> dice `sometió.´ Según <citebib id="Thayer-BLB"/> la palabra griega
-`ὑποτάσσω´ se traduce como poner bajo, subyugar, someterse, poner en sujeción.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="5293,3,">sometió</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `puso,´ <citebib id="RVG2012"/> dice `sometió.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+`ὑποτάσσω´ se traduce como poner bajo, subyugar, someterse, poner en sujeción.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3956,2,">todas las cosas</wi>
 <wi type="G" value="5259,4,">bajo</wi>
@@ -576,9 +582,11 @@ were by nature children of wrath, even as the rest.
 <wi type="G" value="3956,5,">todos</wi>
 <wi type="G" value="2249,4,">nosotros</wi>
 <wi type="G" value="4218,7,">una vez</wi> </t>
-<rb xml:lang="es"><wi type="G" value="390,6,">vivimos</wi><rf><citebib id="WEB"/> dice `vivimos,´ <citebib id="KJV2003"/> dice `teníamos conversaciones.´ Según <citebib id="Thayer-BLB"/> la palabra
+<rb xml:lang="es"><wi type="G" value="390,6,">vivimos</wi><rf>
+<citebib id="WEB"/> dice `vivimos,´ <citebib id="KJV2003"/> dice `teníamos conversaciones.´ Según <citebib id="Thayer-BLB"/> la palabra
 griega `ανεστραφημεν´ se traduce como dar vuelta, regresar, metaforicamente
-conducirse, comportarse, vivir.</rf></rb>
+conducirse, comportarse, vivir.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1722,8,">en</wi>
 <wi type="G" value="3588,9,">la</wi>
@@ -650,8 +658,10 @@ with him in the heavenly places in Christ Jesus,
 <wi type="G" value="2532,3,">y</wi> nos
 <wi type="G" value="4776,4,">hizo sentar</wi> con Él
 <wi type="G" value="1722,5,">en</wi> </t>
-<rb xml:lang="es"><wi type="G" value="2032,7,">los cielos</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `lugares celestiales,´ <citebib id="RVG2012"/> dice `los cielos.´ Según <citebib id="Thayer-BLB"/> el
-adjetivo griego `επουρανιοις´ se traduce como celestial, cielo, alto.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="2032,7,">los cielos</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `lugares celestiales,´ <citebib id="RVG2012"/> dice `los cielos.´ Según <citebib id="Thayer-BLB"/> el
+adjetivo griego `επουρανιοις´ se traduce como celestial, cielo, alto.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1722,8,">con</wi>
 <wi type="G" value="5547,9,">Cristo</wi>
@@ -1172,12 +1182,14 @@ all men see what is the
 <wi type="G" value="5101,4,">cual</wi> es la
 </t>
 <rb>administration
-<t xml:lang="es"><wi type="G" value="3588,5,"/><wi type="G" value="2842,6,">participación</wi></t><rf>TR reads of «administration» <t xml:lang="es"><citebib id="WEB"/> dice `administración´ con nota al pie: TR
-dice «compañia» en lugar de «administración». <citebib id="KJV2003"/> dice `compañia,´ <citebib
-id="RVG2012"/> dice
+<t xml:lang="es"><wi type="G" value="3588,5,"/><wi type="G" value="2842,6,">participación</wi></t><rf>
+TR reads of «administration» 
+<t xml:lang="es"><citebib id="WEB"/> dice `administración´ con nota al pie: TR
+dice «compañia» en lugar de «administración». <citebib id="KJV2003"/> dice `compañia,´ <citebib id="RVG2012"/> dice
 `dispensación.´ Según <citebib id="TR-BLB"/> la palabra griega `κοινωνια` se traduce como
 asociación, comunidad, comunión, participación, la participación que se tiene en
-algo, contribución. </t></rf>
+algo, contribución. </t>
+</rf>
 </rb>
  of the mystery which for ages has been hidden in God,
 who created all things through Jesus Christ;
@@ -1186,10 +1198,11 @@ who created all things through Jesus Christ;
 <wi type="G" value="3466,8,">misterio</wi>
 <wi type="G" value="3588,9,">que</wi> </t>
 <rb xml:lang="es"><wi type="G" value="575,11,">por</wi>
-<wi type="G" value="3588,12,"/><wi type="G" value="165,13,">eras</wi><rf><citebib id="WEB"/> dice `por eras,´ <citebib id="KJV2003"/> dice `desde el comienzo del mundo,´ <citebib id="RVG2012"/> dice `por
-siglos.´ Según <citebib
-id="TR-BLB"/> la palabra griega `αιωνων´ es sustantivo plural siempre,
-mundo, nunca, por siempre, eras, eterno.</rf></rb>
+<wi type="G" value="3588,12,"/><wi type="G" value="165,13,">eras</wi><rf>
+<citebib id="WEB"/> dice `por eras,´ <citebib id="KJV2003"/> dice `desde el comienzo del mundo,´ <citebib id="RVG2012"/> dice `por
+siglos.´ Según <citebib id="TR-BLB"/> la palabra griega `αιωνων´ es sustantivo plural siempre,
+mundo, nunca, por siempre, eras, eterno.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="613,10,">ha estado escondido</wi>
 <wi type="G" value="1722,14,">en</wi>
@@ -1550,9 +1563,10 @@ all, who is over all, and through all, and in us all.
 <wi type="G" value="1722,13,">en</wi>
 <wi type="G" value="3956,14,">todos</wi> </t>
 <rb xml:lang="es">
-<wi type="G" value="5213,15,">ustedes</wi><rf><citebib id="WEB"/> dice `nosotros,´ <citebib id="KJV2003"/> y <citebib
-id="RVG2012"/> dicen `ustedes.´ Según <citebib id="Thayer-BLB"/> la palabra griega
-`ὑμῖν´ se traduce como ustedes.</rf></rb>
+<wi type="G" value="5213,15,">ustedes</wi><rf>
+<citebib id="WEB"/> dice `nosotros,´ <citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen `ustedes.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+`ὑμῖν´ se traduce como ustedes.
+</rf></rb>
 <t xml:lang="es">.</t>
 </sv>
 
@@ -1643,7 +1657,8 @@ and some,
 <wi type="G" value="846,2,">Él</wi> les
 <wi type="G" value="1325,3,">dio</wi> ser
 <wi type="G" value="3303,5,">verdaderamente</wi>
-<wi type="G" value="652,6,">apóstoles</wi>, <wi type="G" value="1161,8,">y</wi>
+<wi type="G" value="652,6,">apóstoles</wi>,
+<wi type="G" value="1161,8,">y</wi>
 <wi type="G" value="3588,7,">a algunos</wi>
 <wi type="G" value="4396,9,">profetas</wi>,
 <wi type="G" value="1161,11,">y</wi>
@@ -1653,7 +1668,9 @@ and some,
 <wi type="G" value="3588,13,">a algunos</wi>
 <wi type="G" value="4166,15,">pastores</wi>
 </t>
-<rb>shepherds;<rf>The word for «shepherds» (poimenas) can also be correctly translated «pastors.»</rf>
+<rb>shepherds;<rf>
+The word for «shepherds» (poimenas) can also be correctly translated «pastors.»
+</rf>
 </rb>
  and teachers;
 <t xml:lang="es"><wi type="G" value="2532,16,">y</wi>
@@ -1741,10 +1758,11 @@ in craftiness, after the wiles of error;
 but speaking truth in love, we
 may grow up in all things into him, who is the head, Christ;
 <t xml:lang="es"><wi type="G" value="1161,2,">pero</wi> </t>
-<rb xml:lang="es"><wi type="G" value="226,1,">profesando la verdad</wi><rf><citebib id="WEB"/>y <citebib id="KJV2003"/> dicen hablando la verdad, <citebib
-id="RVG2012"/> dice siguiendo la verdad. Según <citebib id="Thayer-BLB"/>
+<rb xml:lang="es"><wi type="G" value="226,1,">profesando la verdad</wi><rf>
+<citebib id="WEB"/>y <citebib id="KJV2003"/> dicen hablando la verdad, <citebib id="RVG2012"/> dice siguiendo la verdad. Según <citebib id="Thayer-BLB"/>
 el verbo `αληθευοντες´ se traduce como decir la verdad, profesar la verdad,
-estar en la verdad.</rf></rb>
+estar en la verdad.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1722,3,">en</wi>
 <wi type="G" value="26,4,">amor</wi>,
@@ -1806,8 +1824,10 @@ in the futility of their mind,
 <wi type="G" value="3004,3,">digo</wi>
 <wi type="G" value="3767,2,">entonces</wi>,
 <wi type="G" value="2532,4,">y</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3143,5,">los exhorto</wi><rf><citebib id="WEB"/> dice `doy testimonio,´ <citebib id="RVG2012"/> dice `requiero.´ Según <citebib id="Thayer-BLB"/> la palabra griega
-`μαρτύρομαι´ se traduce como dar testimonio y como exhortar solemnemente.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="3143,5,">los exhorto</wi><rf>
+<citebib id="WEB"/> dice `doy testimonio,´ <citebib id="RVG2012"/> dice `requiero.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+`μαρτύρομαι´ se traduce como dar testimonio y como exhortar solemnemente.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1722,6,">en</wi>
 <wi type="G" value="2962,7,">el Señor</wi>,
@@ -1847,9 +1867,11 @@ hearts;
 <wi type="G" value="1223,17,">por</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="3588,18,">el</wi>
-<wi type="G" value="4457,19,">endurecimiento</wi><rf><citebib id="WEB"/> dice `endurecimiento,´ <citebib id="KJV2003"/> dice `la ceguera.´ Según <citebib id="Thayer-BLB"/> la palabra griega
+<wi type="G" value="4457,19,">endurecimiento</wi><rf>
+<citebib id="WEB"/> dice `endurecimiento,´ <citebib id="KJV2003"/> dice `la ceguera.´ Según <citebib id="Thayer-BLB"/> la palabra griega
 `πωρωσιν´ se traduce como enceguecido o endurecido. En otros pasajes donde se
-usa (i.e. Marcos 3:5 y Romanos 11:25) se ha traducido como endurecido.</rf></rb>
+usa (i.e. Marcos 3:5 y Romanos 11:25) se ha traducido como endurecido.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="846,22,">de sus</wi>
 <wi type="G" value="3588,20,"/><wi type="G" value="2588,21,">corazones</wi>; </t>
@@ -1859,10 +1881,12 @@ usa (i.e. Marcos 3:5 y Romanos 11:25) se ha traducido como endurecido.</rf></rb>
 who having become callous gave themselves up to lust, to work
 all uncleanness with greediness.
 <t xml:lang="es"><wi type="G" value="3748,1,">que</wi> </t>
-<rb xml:lang="es"><wi type="G" value="524,2,">volviéndose callosos</wi><rf><citebib id="WEB"/> dice `habiéndose vuelto calloso,´ <citebib id="KJV2003"/> dice `habiendo dejado de sentir,´
+<rb xml:lang="es"><wi type="G" value="524,2,">volviéndose callosos</wi><rf>
+<citebib id="WEB"/> dice `habiéndose vuelto calloso,´ <citebib id="KJV2003"/> dice `habiendo dejado de sentir,´
 <citebib id="RVG2012"/> dice `después de que perdieron el sentido de la conciencia.´ Según <citebib id="Thayer-BLB"/> la
 palabra griega `ἀπηλγηκότες´ se traduce como que cesa de sentir, volverse
-calloso.</rf></rb>
+calloso.
+</rf></rb>
 <t xml:lang="es">
 se <wi type="G" value="3860,4,">dieron</wi>
 <wi type="G" value="1438,3,">a si mismos</wi>
@@ -2135,8 +2159,10 @@ other, just as God also in Christ forgave you.
 Be therefore imitators of God, as beloved children.
 <t xml:lang="es"><wi type="G" value="1096,1,">Sean</wi>
 <wi type="G" value="3767,2,">entonces</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3402,3,">imitadores</wi><rf><citebib id="WEB"/> dice `imitadores,´ <citebib id="KJV2003"/> dice `seguidores.´ La palabra griega `μιμηται´ se
-ha traducido como imitadores, y eso significa según <citebib id="Thayer-BLB"/>.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="3402,3,">imitadores</wi><rf>
+<citebib id="WEB"/> dice `imitadores,´ <citebib id="KJV2003"/> dice `seguidores.´ La palabra griega `μιμηται´ se
+ha traducido como imitadores, y eso significa según <citebib id="Thayer-BLB"/>.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="3588,4,">de</wi>
 <wi type="G" value="2316,5,">Dios</wi>,
@@ -2196,8 +2222,10 @@ nor filthiness, nor foolish
 talking, nor jesting, which are not appropriate; but rather giving of
 thanks.
 <t xml:lang="es"><wi type="G" value="2532,1,">ni</wi> </t>
-<rb xml:lang="es"><wi type="G" value="151,2,">obscenidades</wi><rf><citebib id="WEB"/> dice `inmundicia,´ <citebib id="RVG2012"/> dice `palabras torpes.´ Según <citebib id="Thayer-BLB"/> la palabra
-griega `αισχροτης´ se traduce como obscenidad, inmundicia.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="151,2,">obscenidades</wi><rf>
+<citebib id="WEB"/> dice `inmundicia,´ <citebib id="RVG2012"/> dice `palabras torpes.´ Según <citebib id="Thayer-BLB"/> la palabra
+griega `αισχροτης´ se traduce como obscenidad, inmundicia.
+</rf></rb>
 <t xml:lang="es">,
 <wi type="G" value="2532,3,">ni</wi>
 <wi type="G" value="3473,4,">hablar neciamente</wi>,
@@ -2314,10 +2342,11 @@ es
 <sv id="Efesios-5-10">
 proving what is
 well pleasing to the Lord.
-<rb xml:lang="es"><wi type="G" value="1381,1,">examinando</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `probando,´ <citebib
-id="RVG2012"/> dice `aprobando.´ Según <citebib id="Thayer-BLB"/> el verbo griego
+<rb xml:lang="es"><wi type="G" value="1381,1,">examinando</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `probando,´ <citebib id="RVG2012"/> dice `aprobando.´ Según <citebib id="Thayer-BLB"/> el verbo griego
 `δοκιμαζοντες´ se traduce como probar, examinar, aprobar, escrutar para
-reconocer si una cosa es cierta o no. Reconocer como genuino tras examinar.</rf></rb>
+reconocer si una cosa es cierta o no. Reconocer como genuino tras examinar.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="5101,2,">lo que</wi>
 <wi type="G" value="2076,3,">es</wi>
@@ -2331,10 +2360,11 @@ Have no fellowship with the unfruitful works
 of darkness, but rather even reprove them.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="3361,2,">no</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4790,3,">participen</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `tengan compañía,´ <citebib
-id="RVG2012"/> dice `comuniquen.´ Según <citebib id="Thayer-BLB"/> la
+<rb xml:lang="es"><wi type="G" value="4790,3,">participen</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `tengan compañía,´ <citebib id="RVG2012"/> dice `comuniquen.´ Según <citebib id="Thayer-BLB"/> la
 palabra griega `συγκοινωνειτε´ se traduce como tener compañia, comunicar, ser
-coparticipe.</rf></rb>
+coparticipe.
+</rf></rb>
 <t xml:lang="es">
 con
 <wi type="G" value="3588,4,">las</wi>
@@ -2356,9 +2386,10 @@ done by them in secret, it is a shame even to speak of.
 <wi type="G" value="1096,4,"><wi type="G" value="846,6,">hacen</wi></wi>
 <wi type="G" value="2931,3,">en secreto</wi>,
 <wi type="G" value="2532,9,">hasta</wi> </t>
-<rb xml:lang="es"><wi type="G" value="150,7,">vergonzoso</wi><rf><citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `es una vergüenza,´ <citebib
-id="RVG2012"/> dice `torpe.´ Según <citebib id="Thayer-BLB"/> el adjetivo
-griego `αισχρον´ se traduce como inmundicia, bajeza, deshonra.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="150,7,">vergonzoso</wi><rf>
+<citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `es una vergüenza,´ <citebib id="RVG2012"/> dice `torpe.´ Según <citebib id="Thayer-BLB"/> el adjetivo
+griego `αισχρον´ se traduce como inmundicia, bajeza, deshonra.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2076,8,">es</wi>
 <wi type="G" value="3004,10,">hablar</wi>.
@@ -2825,7 +2856,8 @@ promise:
 earth.»
 <t xml:lang="es">
 «<wi type="G" value="2443,1,">para que</wi>
-<wi type="G" value="4671,3,">te</wi> <wi type="G" value="1096,4,">vaya</wi>
+<wi type="G" value="4671,3,">te</wi>
+<wi type="G" value="1096,4,">vaya</wi>
 <wi type="G" value="2095,2,">bien</wi>,
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="2071,6,">tengas</wi>
@@ -2850,15 +2882,18 @@ in the discipline and instruction of the Lord.
 <wi type="G" value="5216,8,">sus</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="5043,7,">hijos</wi>,
 <wi type="G" value="235,9,">sino</wi> </t>
-<rb xml:lang="es"><wi type="G" value="1625,10,"><wi type="G" value="846,11,">críenlos</wi></wi><rf><citebib id="WEB"/> dice nútranlos, <citebib id="KJV2003"/> dice levantenlos, <citebib id="RVG2012"/> dice críenlos</rf></rb>
+<rb xml:lang="es"><wi type="G" value="1625,10,"><wi type="G" value="846,11,">críenlos</wi></wi><rf>
+<citebib id="WEB"/> dice nútranlos, <citebib id="KJV2003"/> dice levantenlos, <citebib id="RVG2012"/> dice críenlos
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="3809,13,">la disciplina</wi>
 <wi type="G" value="2532,14,">y</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3559,15,">amonestación</wi><rf><citebib id="WEB"/> dice `instrucción,´ <citebib id="KJV2003"/> dice `admonición´ y <citebib id="RVG2012"/> dice `amonestación.´
-Según <citebib
-id="Thayer-BLB"/> la palabra griega `νουθεσια´ se traduce como admonición o
-exhortación.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="3559,15,">amonestación</wi><rf>
+<citebib id="WEB"/> dice `instrucción,´ <citebib id="KJV2003"/> dice `admonición´ y <citebib id="RVG2012"/> dice `amonestación.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `νουθεσια´ se traduce como admonición o
+exhortación.
+</rf></rb>
 <t xml:lang="es">
 <wi type="G" value="2962,16,">del Señor</wi>.
 </t>
@@ -2967,7 +3002,8 @@ no partiality with him.
 <wi type="G" value="3588,17,">el</wi>
 <wi type="G" value="2962,18,">Amo</wi>
 <wi type="G" value="5216,15,">de ustedes</wi>
-<wi type="G" value="2532,14,">y</wi> <wi type="G" value="846,16,">de ellos</wi>
+<wi type="G" value="2532,14,">y</wi>
+<wi type="G" value="846,16,">de ellos</wi>
 <wi type="G" value="2076,19,">está</wi>
 <wi type="G" value="1722,20,">en</wi>
 <wi type="G" value="3772,21,">el cielo</wi>,
@@ -3048,10 +3084,11 @@ y <wi type="G" value="4314,26,">contra</wi>
 <wi type="G" value="3588,29,"/><wi type="G" value="4189,30,">maldad</wi>
 <wi type="G" value="3588,27,"/><wi type="G" value="4152,28,">espiritual</wi>
 <wi type="G" value="1722,31,">en</wi> </t>
-<rb xml:lang="es"><wi type="G" value="3588,32,"/><wi type="G" value="2032,33,">lugares altos</wi><rf><citebib id="WEB"/> dice `en lugares celestes,´ <citebib id="KJV2003"/> dice `lugares altos,´ <citebib id="RVG2012"/> dice `los
-aires.´ Según <citebib
-id="Thayer-BLB"/> la palabra griega `επουρανιοις´ es un adjetivo que se traduce
-como celestial, alto.</rf></rb>
+<rb xml:lang="es"><wi type="G" value="3588,32,"/><wi type="G" value="2032,33,">lugares altos</wi><rf>
+<citebib id="WEB"/> dice `en lugares celestes,´ <citebib id="KJV2003"/> dice `lugares altos,´ <citebib id="RVG2012"/> dice `los
+aires.´ Según <citebib id="Thayer-BLB"/> la palabra griega `επουρανιοις´ es un adjetivo que se traduce
+como celestial, alto.
+</rf></rb>
 <t xml:lang="es">.
 </t>
 </sv>
@@ -3321,7 +3358,9 @@ Christ with incorruptible love. Amen.
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="861,13,">sinceridad</wi>.
 <wi type="G" value="281,14,">Amén</wi></t>
-<rb xml:lang="es">.<rf><citebib id="KJV2003"/> añade como colofón: "Escrito desde Roma para los Efesios por Tíquico."</rf></rb>
+<rb xml:lang="es">.<rf>
+<citebib id="KJV2003"/> añade como colofón: "Escrito desde Roma para los Efesios por Tíquico."
+</rf></rb>
 <cl/>
 <cl/>
 </sv></cm></sc>
