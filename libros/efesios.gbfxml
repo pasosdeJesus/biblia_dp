@@ -3282,10 +3282,9 @@ all things;
 <wi type="G" value="2532,4,">también</wi>
 <wi type="G" value="1492,3,">puedan saber</wi>
 <wi type="G" value="1691,8,">de mis</wi>
-<wi type="G" value="3588,6,">asuntos</wi>,
-<wi type="G" value="2596,7,">y en particular</wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="2596,7,">asuntos</wi> y
 <wi type="G" value="5101,9,">como</wi>
-<wi type="G" value="4238,10,">estoy</wi>,
+<wi type="G" value="4238,10,">estoy</wi>;
 <wi type="G" value="3956,11,">todo</wi>
 se <wi type="G" value="5213,12,">los</wi>
 <wi type="G" value="1107,13,">dará a conocer</wi>

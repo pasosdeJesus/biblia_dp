@@ -4506,9 +4506,7 @@ which reach even to you.
 <wi type="G" value="2249,1,">nosotros</wi>
 <wi type="G" value="3780,3,">no</wi>
 <wi type="G" value="2744,7,">presumiremos</wi>
-<wi type="G" value="1519,4,">de</wi>
-<wi type="G" value="3588,5,">cosas</wi>
-<wi type="G" value="280,6,">sin medida</wi>,
+<wi type="G" value="1519,4,"/> <wi type="G" value="3588,5,"/><wi type="G" value="280,6,">sin medida</wi>,
 <wi type="G" value="235,8,">sino</wi>
 <wi type="G" value="2596,9,">de acuerdo a</wi>
 <wi type="G" value="3588,10,">la</wi>
@@ -4566,8 +4564,7 @@ enlarged by you in our sphere of influence,
 <wi type="G" value="2744,5,">presumiendo</wi>
 <wi type="G" value="280,4,">sin medida</wi>
 <wi type="G" value="1519,2,">de</wi>
-<wi type="G" value="3588,3,">cosas</wi>
-que son
+<wi type="G" value="3588,3,">las</wi>
 <wi type="G" value="2873,8,">obras</wi>
 <wi type="G" value="1722,6,">de</wi>
 <wi type="G" value="245,7,">otros</wi>,

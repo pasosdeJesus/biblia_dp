@@ -687,8 +687,8 @@ changed the natural function into that which is against nature.
 <wi type="G" value="5540,18,">el uso</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="5446,17,">natural</wi>
 <wi type="G" value="1519,19,">por</wi>
-<wi type="G" value="3588,20,">la que es</wi>
-<wi type="G" value="3844,21,">contraría a</wi>
+<wi type="G" value="3588,20,">lo</wi> que es
+<wi type="G" value="3844,21,">contrarío a</wi>
 <wi type="G" value="5449,22,">la naturaleza</wi>. </t>
 </sv>
 
@@ -1301,9 +1301,9 @@ dice `pues tienes en la Ley el criterio del conocimiento y la verdad.´
 <sv id="Romanos-2-21">
 You therefore who teach another, don´t you
 teach yourself? You who preach that a man shouldn´t steal, do you steal?
-<t xml:lang="es"><wi type="G" value="3588,1,">Tu</wi>
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1321,3">Tu</wi>
 <wi type="G" value="3767,2,">entonces</wi>
-<wi type="G" value="1321,3,">que enseñas</wi>
+<wi type="GC" value="3">que enseñas</wi>
 <wi type="G" value="2087,4,">a otros</wi>,
 ¿<wi type="G" value="3756,6,">No</wi>
 <wi type="G" value="4572,5,">te</wi>
@@ -3923,7 +3923,7 @@ So then if,
 while the husband lives, she is joined to another man, she would be called an
 adulteress. But if the husband dies, she is free from the law, so that she is
 no adulteress, though she is joined to another man.
-<t xml:lang="es"><wi type="G" value="686,1,"><wi type="G" value="3767,2,">Así que</wi></wi>
+<t xml:lang="es"><wi type="G" value="686,1,"><wi type="G" value="3767,2,">Entonces</wi></wi>,
 <wi type="G" value="1437,8,">si</wi> mientras
 <wi type="G" value="3588,4,">el</wi>
 <wi type="G" value="435,5,">marido</wi>
@@ -3943,11 +3943,10 @@ no adulteress, though she is joined to another man.
 <wi type="G" value="575,19,">ante</wi>
 <wi type="G" value="3588,20,">la</wi>
 <wi type="G" value="3551,21,">ley</wi>,
-<wi type="G" value="3588,22,">así que</wi>
 <wi type="G" value="846,25,">ella</wi>
-<wi type="G" value="3361,23,">no</wi>
+<wi type="G" value="3588,22,"/><wi type="G" value="3361,23,">no</wi>
 <wi type="G" value="1511,24,">es</wi>
-<wi type="G" value="3428,26,">adultera</wi>, aun cuando
+<wi type="G" value="3428,26,">adultera</wi>, aún cuando
 <wi type="G" value="1096,27,">se junte</wi> con
 <wi type="G" value="2087,29,">otro</wi>
 <wi type="G" value="435,28,">hombre</wi>. </t>
@@ -5920,7 +5919,6 @@ una
 What if God, willing to show his wrath, and to make his power
 known, endured with much patience vessels of wrath made for destruction,
 <t xml:lang="es">¿<wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="3588,11,">qué</wi>
 <wi type="G" value="1487,1,">si</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="2316,5,">Dios</wi>,
 <wi type="G" value="2309,3,">queriendo</wi>
@@ -5929,7 +5927,7 @@ known, endured with much patience vessels of wrath made for destruction,
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="1107,10,">dar a conocer</wi>
 <wi type="G" value="846,13,">Su</wi>
-<wi type="G" value="1415,12,">poder</wi>,
+<wi type="G" value="3588,11,"/><wi type="G" value="1415,12,">poder</wi>,
 <wi type="G" value="5342,14,">soportó</wi>
 <wi type="G" value="1722,15,">con</wi>
 <wi type="G" value="4183,16,">mucha</wi>
@@ -8306,7 +8304,7 @@ impuesto indirecto sobre bienes.
 <wi type="G" value="3588,17,"/><wi type="G" value="5401,18,">respeto</wi>;
 <wi type="G" value="3588,24,"/><wi type="G" value="5092,25,">honor</wi>
 <wi type="G" value="3588,21,">a quien</wi>
-<wi type="G" value="3588,22,"><wi type="G" value="5092,23,">honor</wi></wi>. </t>
+<wi type="G" value="3588,22,"/><wi type="G" value="5092,23,">honor</wi>. </t>
 </sv>
 
 <sv id="Romanos-13-8">

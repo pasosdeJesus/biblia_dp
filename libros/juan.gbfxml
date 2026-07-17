@@ -8129,8 +8129,7 @@ y <wi type="G" value="846,12,">le</wi>
 <sv id="Juan-8-11">
 She said, «No one, Lord.»
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="3588,1,">ella</wi>
-<wi type="G" value="2036,3,">dijo</wi>,
+<wi type="G" value="3588,1,"/><wi type="G" value="2036,3,">ella dijo</wi>,
 «<wi type="G" value="3762,4,">Nadie</wi>
 <wi type="G" value="2962,5," sacred="yes">Señor</wi>.» </t>
 
@@ -17815,9 +17814,8 @@ cup which the Father has given me, shall I not surely drink it?»
 <wi type="G" value="2336,13,">vaina</wi>.
 ¿<wi type="G" value="3588,14,">La</wi>
 <wi type="G" value="4221,15,">copa</wi>
-<wi type="G" value="3739,16,">que</wi>
-<wi type="G" value="3588,19,">mi</wi>
-<wi type="G" value="3962,20,">Padre</wi>
+<wi type="G" value="3739,16,">que</wi> mi
+<wi type="G" value="3588,19,"/><wi type="G" value="3962,20,">Padre</wi>
 <wi type="G" value="3427,18,">me</wi>
 <wi type="G" value="1325,17,">ha dado</wi>,
 <wi type="G" value="3756,21,">no</wi>

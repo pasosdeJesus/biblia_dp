@@ -8051,8 +8051,7 @@ de nuevo.» </t>
 <sv id="Marcos-9-32">
 But they didn´t understand the saying, and were afraid to ask him.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G" value="3588,1,">ellos</wi>
-<wi type="G" value="50,3,">no entendian</wi>
+<wi type="G" value="3588,1,"/><wi type="G" value="50,3,">ellos no entendían</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="4487,5,">lo que decía</wi>,
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="5399,7,">temían</wi>
@@ -8090,8 +8089,7 @@ He came to Capernaum, and when he was in the house he asked them,
 But they were silent, for they had disputed one with another on the way
 about who was the greatest.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G" value="3588,1,">ellos</wi>
-<wi type="G" value="4623,3,">guardaban silencio</wi>,
+<wi type="G" value="3588,1,"/><wi type="G" value="4623,3,">ellos guardaban silencio</wi>,
 <wi type="G" value="1063,6,">porque</wi>
 <wi type="G" value="1722,8,">en</wi>
 <wi type="G" value="3588,9,">el</wi>
@@ -12730,8 +12728,8 @@ de los sacerdotes</wi>,
 They, when they heard it, were glad, and promised to give him money.
 He sought how he might conveniently deliver him.
 <t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="3588,1,">cuando ellos</wi>
-lo <wi type="G" value="191,3,">escucharon</wi>,
+<wi type="G" value="191,3,">al escuchar</wi> 
+<wi type="G" value="3588,1,">esto</wi>,
 <wi type="G" value="5463,4,">se alegraron</wi>,
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="1861,6,">prometieron</wi>

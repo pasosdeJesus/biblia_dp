@@ -6298,8 +6298,7 @@ abroad throughout the regions of Judea and Samaria, except for the apostles.
 <wi type="G" value="1909,16,">contra</wi>
 <wi type="G" value="3588,17,">la</wi>
 <wi type="G" value="1577,18,">iglesia</wi>
-<wi type="G" value="3588,19,">que estaba</wi>
-<wi type="G" value="1722,20,">en</wi>
+<wi type="G" value="3588,19,"/><wi type="G" value="1722,20,">en</wi>
 <wi type="G" value="2414,21,">Jerusalén</wi>.
 <wi type="G" value="5037,23,"/><wi type="G" value="1289,24,">Fueron</wi>
 <wi type="G" value="3956,22,">todos</wi>
@@ -10002,8 +10001,7 @@ Barnabas to go as far as Antioch,
 <wi type="G" value="3588,6,"/><wi type="G" value="3775,7,">oídos</wi>
 <wi type="G" value="3588,8,">de la</wi>
 <wi type="G" value="1577,9,">iglesia</wi>
-<wi type="G" value="3588,10,">que estaba</wi>
-<wi type="G" value="1722,11,">en</wi>
+<wi type="G" value="3588,10,"><wi type="G" value="1722,11,">en</wi>
 <wi type="G" value="2414,12,">Jerusalén</wi>,
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="1821,16,">enviaron</wi>
@@ -15496,8 +15494,7 @@ that all people everywhere should repent,
 La traducción `pasaba por alto´ es tomada de <citebib id="RV1960"/>.
 </rf></rb>
 <t xml:lang="es">.
-<wi type="G" value="3588,10,">Pero</wi>
-<wi type="G" value="3568,11,">ahora</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="3568,11,">Más ahora</wi>
 <wi type="G" value="3853,12,">Él ordena</wi>
 <wi type="G" value="3956,15,">que toda</wi>
 <wi type="G" value="3588,13,">la</wi>
@@ -15759,7 +15756,7 @@ Justus, one who worshiped God, whose house was next door to the synagogue.
 <wi type="G" value="4576,10,">adoraba</wi>
 <wi type="G" value="3588,11,">a</wi>
 <wi type="G" value="2316,12,">Dios</wi>
-y <wi type="G" value="3588,14,">cuya</wi>
+y <wi type="G" value="3588,14,">la</wi>
 <wi type="G" value="3614,15,">casa</wi> era
 <wi type="G" value="2258,16,"/><wi type="G" value="4927,17,">contigua</wi>
 a <wi type="G" value="3588,18,">la</wi>
@@ -18065,9 +18062,8 @@ that these hands ministered to my necessities, and to those who were with me.
 <wi type="G" value="3450,7,">mis</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="5532,6,">necesidades</wi>,
 <wi type="G" value="2532,8,">y</wi>
-<wi type="G" value="3588,9,">a las de
-aquellos</wi>
-<wi type="G" value="5607,10,">que estaban</wi>
+<wi type="G" value="3588,9,">las de</wi>
+<wi type="G" value="5607,10,">los que estaban</wi>
 <wi type="G" value="3326,11,"><wi type="G" value="1700,12,">conmigo</wi></wi>. </t>
 </sv>
 
@@ -21128,11 +21124,12 @@ excelente.´
 <sv id="Hechos-24-18">
 amid which certain Jews from Asia
 found me purified in the temple, not with a mob, nor with turmoil.
-<t xml:lang="es"><wi type="G" value="1722,1,"/><wi type="G" value="3739,2,">en medio de las cuales</wi>,
+<t xml:lang="es"><wi type="G" value="1722,1,">en medio</wi>
+<wi type="G" value="3739,2,">de las cuales</wi>,
 <wi type="G" value="5100,15,">ciertos</wi>
-<wi type="G" value="773,18,">judíos</wi>
-<wi type="G" value="2453,19,"/><wi type="G" value="575,16,">de</wi>
-<wi type="G" value="3588,17,">Asia</wi>
+<wi type="G" value="2453,19,">judíos</wi>
+<wi type="G" value="575,16,">de</wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="773,18,">Asia</wi>
 <wi type="G" value="3165,4,">me</wi>
 <wi type="G" value="2147,3,">encontraron</wi>
 <wi type="G" value="48,5,">purificado</wi>

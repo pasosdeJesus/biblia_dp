@@ -64,6 +64,7 @@ multi: formatos/gbfxml2vhtml.xsl libros/$(PROYECTO).gbfxml
 	cp -f formatos/$(PROYECTO).css formatos/$(PROYECTO).js $(HTML_DIR)/
 	SGML_CATALOG_FILES=$(CATALOG_DOCBOOK) $(XSLTPROC) --stringparam outlang es --stringparam css $(PROYECTO).css --catalogs --nonet formatos/gbfxml2vhtml.xsl libros/$(PROYECTO).gbfxml 
 	for n in `grep -l ". »" html/*`; do sed -i -e "s/. »/.»/g" $$n; done
+	node herram/agrupa-strong.mjs html/strong.html
 
 
 all: $(HTML_TARGET).bak $(PRINT_DIR)/$(PROYECTO).ps $(PRINT_DIR)/$(PROYECTO).pdf

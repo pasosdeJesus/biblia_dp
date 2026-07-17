@@ -6548,8 +6548,7 @@ saying,
 But they went out
 and spread abroad his fame in all that land.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G" value="3588,1,">ellos</wi>
-<wi type="G" value="1831,3,">salieron</wi> y
+<wi type="G" value="3588,1,"/><wi type="G" value="1831,3,">ellos salieron</wi> y
 <wi type="G" value="1310,4,">difundieron</wi>
 <wi type="G" value="846,5,">su</wi>
 <wi type="GC" value="4">fama</wi>
@@ -17387,7 +17386,7 @@ believe him.
 <wi type="G" value="5210,21,">ustedes</wi>
 <wi type="G" value="3756,24,">no</wi>
 <wi type="G" value="3338,25,">se arrepintieron</wi>
-<wi type="G" value="3588,27,">para</wi>
+<wi type="G" value="3588,27,"/> para
 <wi type="G" value="4100,28,"><wi type="G" value="846,29,">poder creerle</wi></wi>. </t>
 <cl/>
 </fr>
@@ -19925,7 +19924,7 @@ mountains.
 Let him who is on the housetop not go down to take out
 things that are in his house.
 <t xml:lang="es"><wi type="G" value="2597,6,">El que</wi>
-<wi type="G" value="3588,1,">esté</wi>
+<wi type="G" value="3588,1,"/>esté
 <wi type="G" value="1909,2,">en</wi>
 <wi type="G" value="3588,3,">la</wi>
 <wi type="G" value="1430,4,">azotea</wi>
@@ -21408,8 +21407,7 @@ blessed of my Father, inherit the Kingdom prepared for you from the
 foundation of the world;
 <t xml:lang="es"><wi type="G" value="5119,1,">Entonces</wi>
 <wi type="G" value="935,4,">el Rey</wi>
-<wi type="G" value="3588,5,">les</wi>
-<wi type="G" value="2046,2,">dirá</wi> a los
+<wi type="G" value="3588,5,"/><wi type="G" value="2046,2,">dirá</wi> a los
 <wi type="G" value="3588,3,"/><wi type="G" value="1537,6,">de</wi>
 <wi type="G" value="846,8,">su</wi>
 <wi type="G" value="1188,7,">mano derecha</wi>,
@@ -21572,8 +21570,7 @@ on the left hand, `Depart from me, you
 which is prepared for the devil and his angels;
 <t xml:lang="es"><wi type="G" value="5119,1,">Entonces</wi>
 <wi type="G" value="2532,3,">también</wi>
-<wi type="G" value="3588,4,">les</wi>
-<wi type="G" value="2046,2,">dirá</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="2046,2,">dirá</wi>
 <wi type="G" value="1537,5,">a</wi>
 <wi type="G" value="2176,6,">los de la mano izquierda</wi>,
 `<wi type="G" value="4198,7,">Aléjense</wi>
@@ -23417,8 +23414,8 @@ innocent blood.»
 <cl/>
 But they said, «What is that to us? You see to it.»
 <t xml:lang="es"><wi type="G" value="1161,7,">Pero</wi>
-<wi type="G" value="3588,6,">ellos</wi> le
-<wi type="G" value="2036,8,">dijeron</wi>, «</t>
+<wi type="G" value="3588,6,"/><wi type="G" value="2036,8,">ellos</wi> le
+<wi type="GC" value="8">dijeron</wi>, «</t>
 <rb xml:lang="es">¿<wi type="G" value="5101,9,">Que</wi> tiene que ver
 <wi type="G" value="4314,10,">con</wi>
 <wi type="G" value="2248,11,">nosotros</wi>?<rf>
@@ -23782,8 +23779,7 @@ que
 <cl/>
 They said, «Barabbas!»
 <t xml:lang="es"><wi type="G" value="1161,15,">Y</wi>
-<wi type="G" value="3588,14,">ellos</wi>
-<wi type="G" value="2036,16,">dijeron</wi>,
+<wi type="G" value="3588,14,"/><wi type="G" value="2036,16,">ellos dijeron</wi>,
 «¡<wi type="G" value="912,17,">Barrabás</wi>!» </t>
 </sv></cm>
 <cm>
