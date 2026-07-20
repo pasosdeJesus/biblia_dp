@@ -136,6 +136,12 @@
         "reason": "Fidelidad al TR. SpaTDP incluye 'ἐν τῇ ἀνοχῇ τοῦ θεοῦ' al inicio del v. 26, mientras que KJV2003 la anexa al final del v. 25."
       }
     },
+    "1": {
+      "9": {
+        "missingKjv2003": ["G3842-1", "G1909-2", "G3588-3", "G4335-4", "G3450-5"],
+        "reason": "Fidelidad al TR. SpaTDP incluye 'πάντοτε ἐπὶ τῶν προσευχῶν μου' al final del v. 9, que KJV2003 mueve al v. 10 o estructura diferente."
+      }
+    },
     "9": {
       "14": {
         "missingKjv2003": ["G3361-4"],
@@ -165,6 +171,10 @@
       }
     },
     "8": {
+      "14": {
+        "missingKjv2003": ["G23-9", "G1537-10", "G2471-11", "G1722-12", "G3588-13", "G3568-14", "G2540-15", "G3588-16", "G5216-17", "G4051-18", "G1519-19", "G3588-20", "G1565-21", "G5303-22"],
+        "reason": "Fidelidad al TR. SpaTDP incluye 'ἀλλ' ἐξ ἰσότητος· ἐν τῷ νῦν καιρῷ...' al inicio del v. 14, que KJV2003 omite o mueve."
+      },
       "10": {
         "missingKjv2003": ["G1722-3", "G5129-4"],
         "reason": "Fidelidad al TR. SpaTDP incluye la frase 'ἐν τούτῳ' (en esto), que la base KJV2003 omite."

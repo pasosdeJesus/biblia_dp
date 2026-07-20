@@ -178,6 +178,7 @@ async function main() {
   const validationMode = validationModeArg ? validationModeArg.split('=')[1] : 'concordancia';
   
   const booksToValidate = args.filter(arg => !arg.startsWith('--'));
+  const ntOnly = args.includes('--nt');
   
   // Parsear libro, capítulo y versículo opcionales
   let targetBook = null;
@@ -199,7 +200,8 @@ async function main() {
 
   if (validationMode === 'formato' || validationMode === 'todo') {
     const booksToProcess = targetBook ? [targetBook] : Object.keys(BOOK_MAP);
-    for (const book of booksToProcess) {
+    const filtered = ntOnly ? booksToProcess.filter(b => BOOK_MAP[b]?.strongType === 'G') : booksToProcess;
+    for (const book of filtered) {
       const bookInfo = BOOK_MAP[book];
       if (bookInfo) validateBookFormat(book, bookInfo);
     }
@@ -217,8 +219,9 @@ async function main() {
     const booksWithIssues = new Set();
     
     const booksToProcess = targetBook ? [targetBook] : Object.keys(BOOK_MAP);
+    const filtered = ntOnly ? booksToProcess.filter(b => BOOK_MAP[b]?.strongType === 'G') : booksToProcess;
     
-    for (const book of booksToProcess) {
+    for (const book of filtered) {
       const bookInfo = BOOK_MAP[book];
       if (!bookInfo) {
         console.log(`\nLibro desconocido: ${book}`);
@@ -229,7 +232,9 @@ async function main() {
         grandTotalMismatches += totalMismatches;
         grandTotalUntranslated += totalUntranslated;
         grandTotalExceptions += totalExceptions;
-        booksWithIssues.add(bookInfo.display);
+        if (totalMismatches > 0 || totalUntranslated > 0) {
+          booksWithIssues.add(bookInfo.display);
+        }
       }
     }
     
