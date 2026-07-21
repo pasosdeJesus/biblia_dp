@@ -9,9 +9,9 @@ SOURCE_GBFXML=libros/mateo.gbfxml libros/marcos.gbfxml libros/lucas.gbfxml libro
 
 EXT_DOCBOOK=xdbk
 
-VS_SWORDBOOK_I=James
+VS_SWORDBOOK_I=I Peter
 #VS_SWORDBOOK_I=II Corinthians
-VS_SWORDBOOK=James
+VS_SWORDBOOK=I_Peter
 #VS_SWORDBOOK=II_Corinthians
 
 # Variables requeridas por comdocbook.mak
