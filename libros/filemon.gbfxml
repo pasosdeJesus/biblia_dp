@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <sb id="Filemon" type="" xml:lang="">
+
 <tt>Paul´s Letter to Philemon<t xml:lang="es">Carta de Pablo a Filemón</t></tt>
+
 <sc id="Filemon-1">
+
 <cm>
 
 <sv id="Filemon-1-1">
 Paul, a prisoner of Christ Jesus, and Timothy our brother, to
 Philemon, our beloved fellow worker,
-<t xml:lang="es"><wi type="G" value="3972,1,">Pablo</wi>,
+<t xml:lang="es">
+<wi type="G" value="3972,1,">Pablo</wi>,
 <wi type="G" value="1198,2,">prisionero</wi>
 <wi type="G" value="5547,3,">de Cristo</wi>
 <wi type="G" value="2424,4,">Jesús</wi>,
@@ -27,7 +31,8 @@ Philemon, our beloved fellow worker,
 <sv id="Filemon-1-2">
 to the beloved Apphia, to
 Archippus, our fellow soldier, and to the assembly in your house:
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="3588,3,">a la</wi>
 <wi type="G" value="27,4,">amada</wi>
 <wi type="G" value="682,2,">Apia</wi>,
@@ -46,7 +51,8 @@ Archippus, our fellow soldier, and to the assembly in your house:
 <sv id="Filemon-1-3">
 Grace
 to you and peace from God our Father and the Lord Jesus Christ.
-<t xml:lang="es"><wi type="G" value="5485,1,">Gracia</wi>
+<t xml:lang="es">
+<wi type="G" value="5485,1,">Gracia</wi>
 <wi type="G" value="5213,2,">a ustedes</wi>
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="1515,4,">paz</wi>
@@ -59,12 +65,13 @@ to you and peace from God our Father and the Lord Jesus Christ.
 <wi type="G" value="2424,11,">Jesús</wi>
 <wi type="G" value="5547,12,">Cristo</wi>.
 </t>
-
-</sv></cm><cm>
+</sv>
+</cm><cm>
 
 <sv id="Filemon-1-4">
 I thank my God always, making mention of you in my prayers,
-<t xml:lang="es"><wi type="G" value="2168,1,">Le agradezco a</wi>
+<t xml:lang="es">
+<wi type="G" value="2168,1,">Le agradezco a</wi>
 <wi type="G" value="3450,4,">mi</wi>
 <wi type="G" value="3588,2,"/><wi type="G" value="2316,3,">Dios</wi>
 <wi type="G" value="3842,5,">siempre</wi>
@@ -73,14 +80,16 @@ I thank my God always, making mention of you in my prayers,
 <wi type="G" value="4675,7,">de ti</wi>
 <wi type="G" value="1909,9,">en</wi>
 <wi type="G" value="3450,12,">mis</wi>
-<wi type="G" value="3588,10,"/><wi type="G" value="4335,11,">oraciones</wi>,</t>
+<wi type="G" value="3588,10,"/><wi type="G" value="4335,11,">oraciones</wi>,
+</t>
 </sv>
 
 <sv id="Filemon-1-5">
 hearing
 of your love, and of the faith which you have toward the Lord Jesus, and
 toward all the saints;
-<t xml:lang="es"><wi type="G" value="191,1,">al escuchar</wi>
+<t xml:lang="es">
+<wi type="G" value="191,1,">al escuchar</wi>
 <wi type="G" value="4675,2,">de tu</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="26,4,">amor</wi>,
 <wi type="G" value="2532,5,">y</wi>
@@ -96,14 +105,16 @@ toward all the saints;
 <wi type="G" value="1519,15,">por</wi>
 <wi type="G" value="3956,16,">todos</wi>
 <wi type="G" value="3588,17,">los</wi>
-<wi type="G" value="40,18,">santos</wi>;</t>
+<wi type="G" value="40,18,">santos</wi>;
+</t>
 </sv>
 
 <sv id="Filemon-1-6">
 that the fellowship of your faith may become
 effective, in the knowledge of every good thing which is in us in Christ
 Jesus.
-<t xml:lang="es"><wi type="G" value="3704,1,">para que</wi>
+<t xml:lang="es">
+<wi type="G" value="3704,1,">para que</wi>
 <wi type="G" value="3588,2,">el</wi>
 <wi type="G" value="2842,3,">compartir</wi>
 <wi type="G" value="4675,6,">de tu</wi>
@@ -115,11 +126,13 @@ Jesus.
 <wi type="G" value="3956,11,">de toda</wi>
 <wi type="G" value="18,12,">buena cosa</wi>
 <wi type="G" value="3588,13,">que</wi>
-es <wi type="G" value="1722,14,">mediante</wi>
+es 
+<wi type="G" value="1722,14,">mediante</wi>
 <wi type="G" value="5213,15,">ustedes</wi>
 <wi type="G" value="1519,16,">en</wi>
 <wi type="G" value="5547,17,">Cristo</wi>
-<wi type="G" value="2424,18,">Jesús</wi>.</t>
+<wi type="G" value="2424,18,">Jesús</wi>.
+</t>
 </sv>
 
 <sv id="Filemon-1-7">
@@ -145,12 +158,14 @@ of the saints have been refreshed through you, brother.
 <wi type="G" value="4675,18,">ti</wi>,
 <wi type="G" value="80,19,">hermano</wi>.
 </t>
-</sv></cm><cm>
+</sv>
+</cm><cm>
 
 <sv id="Filemon-1-8">
 Therefore, though I have all boldness in Christ to command you that
 which is appropriate,
-<t xml:lang="es"><wi type="G" value="1352,1,">Por tanto</wi>,
+<t xml:lang="es">
+<wi type="G" value="1352,1,">Por tanto</wi>,
 <wi type="G" value="2192,6,">aunque sería</wi>
 <wi type="G" value="4183,2,">de gran</wi>
 <wi type="G" value="3954,5,">valentía</wi>
@@ -158,13 +173,15 @@ which is appropriate,
 <wi type="G" value="5547,4,">Cristo</wi>
 <wi type="G" value="2004,7,"><wi type="G" value="4671,8,">ordenarte</wi></wi>
 <wi type="G" value="3588,9,">lo que</wi> es
-<wi type="G" value="433,10,">apropiado</wi>,</t>
+<wi type="G" value="433,10,">apropiado</wi>,
+</t>
 </sv>
 
 <sv id="Filemon-1-9">
 yet for love´s sake I rather beg, being such a one
 as Paul, the aged, but also a prisoner of Jesus Christ.
-<t xml:lang="es"><wi type="G" value="1223,1,">por</wi>
+<t xml:lang="es">
+<wi type="G" value="1223,1,">por</wi>
 <wi type="G" value="3588,2,"/><wi type="G" value="26,3,">amor</wi>
 <wi type="G" value="3123,4,">más bien</wi>
 <wi type="G" value="3870,5,">ruego</wi>,
@@ -185,7 +202,8 @@ as Paul, the aged, but also a prisoner of Jesus Christ.
 <sv id="Filemon-1-10">
 I beg you for
 my child, whom I have become the father of in my chains,
-<t xml:lang="es"><wi type="G" value="4571,2,">Te</wi>
+<t xml:lang="es">
+<wi type="G" value="4571,2,">Te</wi>
 <wi type="G" value="3870,1,">ruego</wi>
 <wi type="G" value="4012,3,">por</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="1700,5,">mi</wi>
@@ -197,18 +215,19 @@ my child, whom I have become the father of in my chains,
 <wi type="G" value="3588,10,"/><wi type="G" value="1199,11,">cadenas</wi>,
 </t>
 <rb>Onesimus,
-<t xml:lang="es"><wi type="G" value="3682,13,">Onésimo</wi></t><rf>
-Onesimus means «useful.» 
-<t xml:lang="es">Onésimo significa `util.´</t>
+<t xml:lang="es">
+<wi type="G" value="3682,13,">Onésimo</wi>
+</t><rf>
+Onesimus means «useful.» <t xml:lang="es"> Onésimo significa `util.´ </t>
 </rf>
 </rb>
-
 </sv>
 
 <sv id="Filemon-1-11">
 who once was useless to
 you, but now is useful to you and to me.
-<t xml:lang="es"><wi type="G" value="3588,1,">quien</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,">quien</wi>
 <wi type="G" value="4218,2,">en el pasado</wi>
 <wi type="G" value="4671,3,">te</wi> fue
 <wi type="G" value="890,4,">inútil</wi>,
@@ -217,13 +236,15 @@ you, but now is useful to you and to me.
 <wi type="G" value="2173,10,">útil</wi>
 <wi type="G" value="4671,7,">para ti</wi>
 <wi type="G" value="2532,8,">y</wi>
-<wi type="G" value="1698,9,">para mí</wi>.</t>
+<wi type="G" value="1698,9,">para mí</wi>.
+</t>
 </sv>
 
 <sv id="Filemon-1-12">
 I am sending him back.
 Therefore receive him, that is, my own heart,
-<t xml:lang="es"><wi type="G" value="4771,3,">Te</wi>
+<t xml:lang="es">
+<wi type="G" value="4771,3,">Te</wi>
 <wi type="G" value="3739,1,">lo</wi>
 <wi type="G" value="375,2,">envío de vuelta</wi>.
 <wi type="G" value="1161,4,">Por tanto</wi>
@@ -239,7 +260,8 @@ Therefore receive him, that is, my own heart,
 <sv id="Filemon-1-13">
 whom I desired to keep
 with me, that on your behalf he might serve me in my chains for the Good News.
-<t xml:lang="es"><wi type="G" value="3739,1,">a quien</wi>
+<t xml:lang="es">
+<wi type="G" value="3739,1,">a quien</wi>
 <wi type="G" value="1473,2,">yo</wi>
 <wi type="G" value="1014,3,">quisiera</wi>
 <wi type="G" value="2722,6,">mantener</wi>
@@ -253,13 +275,15 @@ with me, that on your behalf he might serve me in my chains for the Good News.
 <wi type="G" value="3588,13,">las</wi>
 <wi type="G" value="1199,14,">cadenas</wi>
 <wi type="G" value="3588,15,">del</wi>
-<wi type="G" value="2098,16,">Evangelio</wi>.</t>
+<wi type="G" value="2098,16,">Evangelio</wi>.
+</t>
 </sv>
 
 <sv id="Filemon-1-14">
 But I was willing to do nothing without your consent, that your
 goodness would not be as of necessity, but of free will.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="5565,1,">sin</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="4674,4,">tu</wi>
 <wi type="G" value="1106,5,">consejo</wi>
@@ -284,7 +308,8 @@ goodness would not be as of necessity, but of free will.
 For perhaps he
 was therefore separated from you for a while, that you would have him
 forever,
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="5029,1,">tal vez</wi>
 <wi type="G" value="1223,3,"><wi type="G" value="5124,4,">entonces</wi></wi>
 <wi type="G" value="5563,5,">se separó</wi>
@@ -292,11 +317,13 @@ de ti
 <wi type="G" value="4314,6,">por</wi>
 <wi type="G" value="5610,7,">un tiempo</wi>,
 <wi type="G" value="2443,8,">para que</wi>
-<wi type="G" value="846,10,">lo</wi> </t>
+<wi type="G" value="846,10,">lo</wi> 
+</t>
 <rb xml:lang="es"><wi type="G" value="568,11,">recibieras</wi><rf>
 <citebib id="WEB"/> dice `tuvieras,´ <citebib id="RVG2012"/> y <citebib id="KJV2003"/> dicen `recibieras.´ La palabra griega `απεχης´
 se puede traducir de ambas maneras.
-</rf></rb>
+</rf>
+</rb>
 <t xml:lang="es">
 <wi type="G" value="166,9,">por siempre</wi>,
 </t>
@@ -306,7 +333,8 @@ se puede traducir de ambas maneras.
 no longer as a slave, but more than a slave, a beloved
 brother, especially to me, but how much rather to you, both in the flesh and
 in the Lord.
-<t xml:lang="es"><wi type="G" value="3765,1,">ya no</wi>
+<t xml:lang="es">
+<wi type="G" value="3765,1,">ya no</wi>
 <wi type="G" value="5613,2,">como</wi>
 <wi type="G" value="1401,3,">siervo</wi>,
 <wi type="G" value="235,4,">sino</wi>
@@ -327,13 +355,15 @@ in the Lord.
 <wi type="G" value="1722,19,">en</wi>
 <wi type="G" value="2962,20,">el Señor</wi>.
 </t>
-</sv></cm>
+</sv>
+</cm>
 
 <cm>
 
 <sv id="Filemon-1-17">
 If then you count me a partner, receive him as you would receive me.
-<t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
+<t xml:lang="es">
+<wi type="G" value="3767,2,">Entonces</wi>
 <wi type="G" value="1487,1,">si</wi>
 <wi type="G" value="1691,3,">me</wi>
 <wi type="G" value="2192,4,">cuentas como</wi>
@@ -342,13 +372,13 @@ If then you count me a partner, receive him as you would receive me.
 <wi type="G" value="5613,8,">como a</wi>
 <wi type="G" value="1691,9,">a mi mismo</wi>.
 </t>
-
 </sv>
 
 <sv id="Filemon-1-18">
 But if he has wronged you at all, or owes you anything, put that to my
 account.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="1487,1,">si</wi>
 <wi type="G" value="5100,3,">algo</wi>
 <wi type="G" value="4571,5,">te</wi>
@@ -365,28 +395,33 @@ account.
 <sv id="Filemon-1-19">
 I, Paul, write this with my own hand: I will repay it (not to
 mention to you that you owe to me even your own self besides).
-<t xml:lang="es"><wi type="G" value="1473,1,">Yo</wi>,
+<t xml:lang="es">
+<wi type="G" value="1473,1,">Yo</wi>,
 <wi type="G" value="3972,2,">Pablo</wi>,
 <wi type="G" value="1125,3,">escribo</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="1699,5,">con mi propia</wi>
 <wi type="G" value="5495,6,">mano</wi>:
 <wi type="G" value="1473,7,">Yo</wi> lo
-<wi type="G" value="661,8,">pagaré</wi> (<wi type="G" value="2443,9,">por</wi>
+<wi type="G" value="661,8,">pagaré</wi> (
+<wi type="G" value="2443,9,">por</wi>
 <wi type="G" value="3361,10,">no</wi>
 <wi type="G" value="3004,11,">decirte</wi>
 <wi type="G" value="3754,13,">como</wi>
 <wi type="G" value="4671,12,">te</wi>
 <wi type="G" value="3427,16,">me</wi>
 <wi type="G" value="4359,17,">debes</wi>
-<wi type="G" value="2532,14,"/><wi type="G" value="4572,15,">tu mismo</wi>).</t>
+<wi type="G" value="2532,14,"/><wi type="G" value="4572,15,">tu mismo</wi>).
+</t>
 </sv>
 
 <sv id="Filemon-1-20">
 Yes,
 brother, let me have joy from you in the Lord. Refresh my heart in the Lord.
-<t xml:lang="es"><wi type="G" value="3483,1,">Si</wi>,
+<t xml:lang="es">
+<wi type="G" value="3483,1,">Si</wi>,
 <wi type="G" value="80,2,">hermano</wi>,
-que <wi type="G" value="1473,3,">me</wi>
+que 
+<wi type="G" value="1473,3,">me</wi>
 <wi type="G" value="3685,5,">goce</wi>
 <wi type="G" value="4675,4,">de ti</wi>
 <wi type="G" value="1722,6,">en</wi>
@@ -397,18 +432,19 @@ que <wi type="G" value="1473,3,">me</wi>
 <rb xml:lang="es"><wi type="G" value="3588,10,"/><wi type="G" value="4698,11,">entrañas</wi><rf>
 <citebib id="WEB"/> dice `corazón,´ <citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen `entrañas.´ Según <citebib id="Thayer-BLB"/> la palabra griega
 `σπλαγχνα´ se traduce como entrañas, intestinos (corazón, pulmones, higado).
-</rf></rb>
+</rf>
+</rb>
 <t xml:lang="es">
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="2962,13,">el Señor</wi>.
 </t>
-
 </sv>
 
 <sv id="Filemon-1-21">
 Having confidence in your obedience, I write to you, knowing that you
 will do even beyond what I say.
-<t xml:lang="es"><wi type="G" value="3982,1,">Confiando en</wi>
+<t xml:lang="es">
+<wi type="G" value="3982,1,">Confiando en</wi>
 <wi type="G" value="4675,4,">tu</wi>
 <wi type="G" value="3588,2,"/><wi type="G" value="5218,3,">obediencia</wi>,
 <wi type="G" value="4671,6,">te</wi>
@@ -421,14 +457,16 @@ will do even beyond what I say.
 <wi type="G" value="3739,11,">lo que</wi>
 <wi type="G" value="3004,12,">pido</wi>.
 </t>
-</sv></cm>
+</sv>
+</cm>
 
 <cm>
 
 <sv id="Filemon-1-22">
 Also, prepare a guest room for me, for I hope that through your prayers
 I will be restored to you.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="260,1,">también</wi>
 <wi type="G" value="2532,3,"/><wi type="G" value="2090,4,">prepara</wi>
 <wi type="G" value="3578,6,">un cuarto</wi>
@@ -440,37 +478,44 @@ I will be restored to you.
 <wi type="G" value="5216,13,">sus</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="4335,12,">oraciones</wi>
 <wi type="G" value="5483,14,">seré concedido</wi>
-<wi type="G" value="5213,15,">a ustedes</wi>.</t>
-</sv></cm>
+<wi type="G" value="5213,15,">a ustedes</wi>.
+</t>
+</sv>
+</cm>
 
 <cm>
 
 <sv id="Filemon-1-23">
 Epaphras, my fellow prisoner in Christ Jesus, greets you,
-<t xml:lang="es"><wi type="G" value="4571,2,">Te</wi>
+<t xml:lang="es">
+<wi type="G" value="4571,2,">Te</wi>
 <wi type="G" value="782,1,">saludan</wi>
 <wi type="G" value="1889,3,">Epafras</wi>,
 <wi type="G" value="3450,6,">mi</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="4869,5,">compañero prisionero</wi>
 <wi type="G" value="1722,7,">en</wi>
 <wi type="G" value="5547,8,">Cristo</wi>
-<wi type="G" value="2424,9,">Jesús</wi>,</t>
+<wi type="G" value="2424,9,">Jesús</wi>,
+</t>
 </sv>
 
 <sv id="Filemon-1-24">
 as do Mark, Aristarchus, Demas, and Luke, my fellow workers.
-<t xml:lang="es"><wi type="G" value="3138,1,">Marcos</wi>,
+<t xml:lang="es">
+<wi type="G" value="3138,1,">Marcos</wi>,
 <wi type="G" value="708,2,">Aristarco</wi>,
 <wi type="G" value="1214,3,">Demas</wi> y
 <wi type="G" value="3065,4,">Lucas</wi>,
 <wi type="G" value="3450,7,">mis</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="4904,6,">compañeros de trabajo</wi>.</t>
+<wi type="G" value="3588,5,"/><wi type="G" value="4904,6,">compañeros de trabajo</wi>.
+</t>
 </sv>
 
 <sv id="Filemon-1-25">
 The grace of our
 Lord Jesus Christ be with your spirit. Amen.
-<t xml:lang="es"><wi type="G" value="3588,1,">La</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,">La</wi>
 <wi type="G" value="5485,2,">gracia</wi>
 <wi type="G" value="2257,5,">de nuestro</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="2962,4,">Señor</wi>
@@ -479,13 +524,16 @@ Lord Jesus Christ be with your spirit. Amen.
 <wi type="G" value="3326,8,">con</wi>
 <wi type="G" value="5216,11,">su</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="4151,10,">espíritu</wi>.
-<wi type="G" value="281,12,">Amén</wi>.</t>
+<wi type="G" value="281,12,">Amén</wi>.
+</t>
 <rb xml:lang="es"><rf>
 <citebib id="KJV2003"/> tiene el siguiente colofón con marcado Strong: Escrito desde Roma a
 Filemón, por Onésimo, un siervo.
-</rf></rb>
+</rf>
+</rb>
 <cl/>
 <cl/>
-</sv></cm></sc>
+</sv>
+</cm>
+</sc>
 </sb>
-

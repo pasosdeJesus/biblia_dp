@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <sb id="Tito" type="" xml:lang="">
+
 <tt>Paul´s Letter to Titus
 <t xml:lang="es">Carta de Pablo a Tito</t>
 </tt>
+
 <sc id="Tito-1">
+
 <cm>
 
 <sv id="Tito-1-1">
 Paul, a servant of God, and an apostle of Jesus Christ, according
 to the faith of God´s chosen ones, and the knowledge of the truth which is
 according to godliness,
-<t xml:lang="es"><wi type="G" value="3972,1,">Pablo</wi>,
+<t xml:lang="es">
+<wi type="G" value="3972,1,">Pablo</wi>,
 <wi type="G" value="1401,2,">siervo</wi>
 <wi type="G" value="2316,3,">de Dios</wi>,
 <wi type="G" value="1161,5,">y</wi>
@@ -54,7 +58,8 @@ lie, promised before eternal times;
 but in his own time revealed his
 word in the message with which I was entrusted according to the commandment
 of God our Savior;
-<t xml:lang="es"><wi type="G" value="1161,2,">y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">y</wi>
 <wi type="G" value="5319,1,">reveló</wi>
 <wi type="G" value="2398,4,">en sus propios</wi>
 <wi type="G" value="2540,3,">tiempos</wi>
@@ -77,7 +82,8 @@ of God our Savior;
 to Titus, my true child according to a common faith:
 Grace, mercy, and peace from God the Father and the Lord Jesus Christ our
 Savior.
-<t xml:lang="es"><wi type="G" value="5103,1,">a Tito</wi>,
+<t xml:lang="es">
+<wi type="G" value="5103,1,">a Tito</wi>,
 <wi type="G" value="1103,2,">mi propio</wi>
 <wi type="G" value="5043,3,">hijo</wi>
 <wi type="G" value="2596,4,">de acuerdo a</wi>
@@ -94,8 +100,10 @@ Savior.
 <wi type="G" value="2424,15,">Jesús</wi>
 <wi type="G" value="5547,16,">Cristo</wi>
 <wi type="G" value="2257,19,">nuestro</wi>
-<wi type="G" value="3588,17,"/><wi type="G" value="4990,18,">Salvador</wi>.</t>
-</sv></cm>
+<wi type="G" value="3588,17,"/><wi type="G" value="4990,18,">Salvador</wi>.
+</t>
+</sv>
+</cm>
 
 <cm>
 
@@ -122,13 +130,15 @@ you;
 <wi type="G" value="5613,16,">así como</wi>
 <wi type="G" value="1473,17,">yo</wi>
 <wi type="G" value="4671,18,">te</wi>
-<wi type="G" value="1299,19,">oriente</wi>;</t>
+<wi type="G" value="1299,19,">oriente</wi>;
+</t>
 </sv>
 
 <sv id="Tito-1-6">
 if anyone is blameless, the husband of one wife, having children
 who believe, who are not accused of loose or unruly behavior.
-<t xml:lang="es"><wi type="G" value="1487,1,">si</wi>
+<t xml:lang="es">
+<wi type="G" value="1487,1,">si</wi>
 <wi type="G" value="5100,2,">alguno</wi>
 <wi type="G" value="2076,3,">es</wi>
 <wi type="G" value="410,4,">sin falta</wi>,
@@ -136,25 +146,30 @@ who believe, who are not accused of loose or unruly behavior.
 <wi type="G" value="1520,5,">de una</wi>
 <wi type="G" value="1135,6,">mujer</wi>,
 <wi type="G" value="2192,9,">teniendo</wi>
-<wi type="G" value="5043,8,">hijos</wi> </t>
+<wi type="G" value="5043,8,">hijos</wi> 
+</t>
 <rb xml:lang="es"><wi type="G" value="4103,10,">fieles</wi><rf>
 <citebib id="WEB"/> dice `que creen,´ <citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen `fieles.´ Según <citebib id="Thayer-BLB"/> la palabra griega
 `πιστός´ puede traducirse como fiel, confiable, creyente.
-</rf></rb>
-<t xml:lang="es">,
+</rf>
+</rb>
+<t xml:lang="es">
+,
 <wi type="G" value="3361,11,">que no</wi> estén
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="2724,13,">acusación de</wi>
 <wi type="G" value="810,14,">desenfreno</wi>
 <wi type="G" value="2228,15,">o</wi>
-<wi type="G" value="506,16,">rebeldía</wi>.</t>
+<wi type="G" value="506,16,">rebeldía</wi>.
+</t>
 </sv>
 
 <sv id="Tito-1-7">
 For the
 overseer must be blameless, as God´s steward; not self-pleasing, not easily
 angered, not given to wine, not violent, not greedy for dishonest gain;
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="3588,3,">el</wi>
 <wi type="G" value="1985,4,">obispo</wi>
 <wi type="G" value="1163,1,">debe</wi>
@@ -177,27 +192,33 @@ angered, not given to wine, not violent, not greedy for dishonest gain;
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `codicioso de ganancias deshonestas,´ <citebib id="RVG2012"/> dice `codicioso de
 torpes ganancias.´ Según <citebib id="Thayer-BLB"/> la palabra griega `αισχροκερδη´ se traduce como
 ansioso de ganancias (codicioso de ganancia deshonesta).
-</rf></rb>
-<t xml:lang="es">;</t>
+</rf>
+</rb>
+<t xml:lang="es">
+;
+</t>
 </sv>
 
 <sv id="Tito-1-8">
 but given to hospitality, as a lover of good, sober minded, fair, holy,
 self-controlled;
-<t xml:lang="es"><wi type="G" value="235,1,">pero</wi>
+<t xml:lang="es">
+<wi type="G" value="235,1,">pero</wi>
 <wi type="G" value="5382,2,">dado a la hospitalidad</wi>, que
 <wi type="G" value="5358,3,">ame lo bueno</wi>,
 <wi type="G" value="4998,4,">sobrio</wi>,
 <wi type="G" value="1342,5,">justo</wi>,
 <wi type="G" value="3741,6,">santo</wi>,
-<wi type="G" value="1468,7,">que se controle</wi>;</t>
+<wi type="G" value="1468,7,">que se controle</wi>;
+</t>
 </sv>
 
 <sv id="Tito-1-9">
 holding to the faithful word which is according to the
 teaching, that he may be able to exhort in the sound doctrine, and to convict
 those who contradict him.
-<t xml:lang="es"><wi type="G" value="472,1,">apegado a</wi>
+<t xml:lang="es">
+<wi type="G" value="472,1,">apegado a</wi>
 <wi type="G" value="3056,7,">la palabra</wi>
 <wi type="G" value="4103,6,">fiel</wi>
 <wi type="G" value="3588,2,"/><wi type="G" value="2596,3,">como</wi>
@@ -212,15 +233,18 @@ those who contradict him.
 <wi type="G" value="5198,17,">sana</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="1319,15,">doctrina</wi>,
 <wi type="G" value="2532,18,">y</wi>
-de <wi type="G" value="1651,21,">convencer a</wi>
+de 
+<wi type="G" value="1651,21,">convencer a</wi>
 <wi type="G" value="3588,19,">los</wi>
-<wi type="G" value="483,20,">contradictores</wi>.</t>
+<wi type="G" value="483,20,">contradictores</wi>.
+</t>
 </sv>
 
 <sv id="Tito-1-10">
 For there are also many unruly men, vain
 talkers and deceivers, especially those of the circumcision,
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="1526,1,">hay</wi>
 <wi type="G" value="4183,3,">muchos</wi>
 <wi type="G" value="506,5,">rebeldes</wi>
@@ -239,7 +263,8 @@ talkers and deceivers, especially those of the circumcision,
 whose
 mouths must be stopped; men who overthrow whole houses, teaching things which
 they ought not, for dishonest gain´s sake.
-<t xml:lang="es"><wi type="G" value="3739,1,">cuyas</wi>
+<t xml:lang="es">
+<wi type="G" value="3739,1,">cuyas</wi>
 <wi type="G" value="1993,3,">bocas</wi>
 <wi type="G" value="1163,2,">deben</wi>
 <wi type="GC" value="3">detenerse</wi>;
@@ -253,28 +278,33 @@ they ought not, for dishonest gain´s sake.
 <wi type="G" value="1163,11,">deben</wi>,
 <wi type="G" value="5484,14,">por</wi>
 <wi type="G" value="2771,13,">ganancias</wi>
-<wi type="G" value="150,12,">deshonestas</wi>.</t>
+<wi type="G" value="150,12,">deshonestas</wi>.
+</t>
 </sv>
 
 <sv id="Tito-1-12">
 One of them, a prophet of
 their own, said, «Cretans are always liars, evil beasts, and idle gluttons.»
-<t xml:lang="es"><wi type="G" value="5100,2,">Uno</wi>
+<t xml:lang="es">
+<wi type="G" value="5100,2,">Uno</wi>
 <wi type="G" value="1537,3,">de</wi>
 <wi type="G" value="846,4,">ellos</wi>,
 <wi type="G" value="4396,7,">un profeta</wi>
 <wi type="G" value="2398,5,">propio</wi>,
 <wi type="G" value="846,6,">de ellos</wi>
 <wi type="G" value="2036,1,">dijo</wi>,
-«<wi type="G" value="2912,8,">Los cretenses</wi> son
+«
+<wi type="G" value="2912,8,">Los cretenses</wi> son
 <wi type="G" value="104,9,">siempre</wi>
 <wi type="G" value="5583,10,">mentirosos</wi>,
 <wi type="G" value="2342,12,">bestias</wi>
-<wi type="G" value="2556,11,">malas</wi> y </t>
+<wi type="G" value="2556,11,">malas</wi> y 
+</t>
 <rb xml:lang="es"><wi type="G" value="1064,13,">vientres</wi><rf>
 <citebib id="WEB"/> dice `glotones`, <citebib id="KJV2003"/> dice `estómagos,´ <citebib id="RVG2012"/> dice `vientres.´ Según <citebib id="Thayer-BLB"/> la
 palabra griega `γαστερες´ se traduce como embarazada, útero y vientre.
-</rf></rb>
+</rf>
+</rb>
 <t xml:lang="es">
 <wi type="G" value="692,14,">ociosos</wi>.»
 </t>
@@ -283,7 +313,8 @@ palabra griega `γαστερες´ se traduce como embarazada, útero y vientre.
 <sv id="Tito-1-13">
 This testimony is true. For this cause, reprove them sharply, that they
 may be sound in the faith,
-<t xml:lang="es"><wi type="G" value="3778,3,">Este</wi>
+<t xml:lang="es">
+<wi type="G" value="3778,3,">Este</wi>
 <wi type="G" value="3588,1,"/><wi type="G" value="3141,2,">testimonio</wi>
 <wi type="G" value="2076,4,">es</wi>
 <wi type="G" value="227,5,">verdadero</wi>.
@@ -303,7 +334,8 @@ esta
 <sv id="Tito-1-14">
 not paying attention to Jewish fables and
 commandments of men who turn away from the truth.
-<t xml:lang="es"><wi type="G" value="3361,1,">no</wi>
+<t xml:lang="es">
+<wi type="G" value="3361,1,">no</wi>
 <wi type="G" value="4337,2,">prestando atención a</wi>
 <wi type="G" value="3454,4,">fábulas</wi>
 <wi type="G" value="2451,3,">judías</wi>
@@ -338,14 +370,16 @@ son
 <wi type="G" value="3588,17,"/><wi type="G" value="3563,18,">mentes</wi>
 <wi type="G" value="2532,19,">como</wi> sus
 <wi type="G" value="3588,20,"/><wi type="G" value="4893,21,">conciencias</wi> son
-<wi type="G" value="3392,14,">impuras</wi>.</t>
+<wi type="G" value="3392,14,">impuras</wi>.
+</t>
 </sv>
 
 <sv id="Tito-1-16">
 They
 profess that they know God, but by their works they deny him, being
 abominable, disobedient, and unfit for any good work.
-<t xml:lang="es"><wi type="G" value="3670,2,">Profesan</wi>
+<t xml:lang="es">
+<wi type="G" value="3670,2,">Profesan</wi>
 <wi type="G" value="1492,3,">conocer a</wi>
 <wi type="G" value="2316,1,">Dios</wi>,
 <wi type="G" value="3588,4,"/><wi type="G" value="1161,5,">pero</wi>
@@ -362,44 +396,53 @@ abominable, disobedient, and unfit for any good work.
 <wi type="G" value="18,16,">buena</wi>
 <wi type="G" value="2041,15,">obra</wi>.
 </t>
-
 <cl/>
-
-</sv></cm></sc>
+</sv>
+</cm>
+</sc>
 <sc id="Tito-2">
+
 <cm>
 
 <sv id="Tito-2-1">
 But say the things which fit sound doctrine,
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="4771,1,">tu</wi>
 <wi type="G" value="2980,3,">habla</wi>
 <wi type="G" value="3739,4,">lo que</wi>
 <wi type="G" value="4241,5,">sea</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="5198,7,">sana</wi>
-<wi type="G" value="1319,8,">doctrina</wi>,</t>
+<wi type="G" value="1319,8,">doctrina</wi>,
+</t>
 </sv>
 
 <sv id="Tito-2-2">
 that older men
 should be temperate, sensible, sober minded, sound in faith, in love, and in
 patience:
-<t xml:lang="es"><wi type="G" value="1511,3,">que</wi>
+<t xml:lang="es">
+<wi type="G" value="1511,3,">que</wi>
 <wi type="G" value="4246,1,">los ancianos</wi>
 <wi type="GC" value="3">sean</wi>
 <wi type="G" value="3524,2,">sobrios</wi>,
 <wi type="G" value="4586,4,">serios</wi>,
 <wi type="G" value="4998,5,">auto controlados</wi>,
 <wi type="G" value="5198,6,">consistentes</wi>
-en <wi type="G" value="3588,7,"/><wi type="G" value="4102,8,">fe</wi>,
-en <wi type="G" value="3588,9,"/><wi type="G" value="26,10,">amor</wi> y
-en <wi type="G" value="3588,11,"/><wi type="G" value="5281,12,">paciencia</wi>:</t>
+en 
+<wi type="G" value="3588,7,"/><wi type="G" value="4102,8,">fe</wi>,
+en 
+<wi type="G" value="3588,9,"/><wi type="G" value="26,10,">amor</wi> y
+en 
+<wi type="G" value="3588,11,"/><wi type="G" value="5281,12,">paciencia</wi>:
+</t>
 </sv>
 
 <sv id="Tito-2-3">
 and that older women likewise be reverent in behavior, not
 slanderers nor enslaved to much wine, teachers of that which is good;
-<t xml:lang="es"><wi type="G" value="4247,1,">las ancianas</wi>
+<t xml:lang="es">
+<wi type="G" value="4247,1,">las ancianas</wi>
 <wi type="G" value="5615,2,">así mismo</wi>
 sean
 <wi type="G" value="2412,5,">reverentes</wi>
@@ -411,24 +454,28 @@ sean
 <wi type="G" value="1402,11,">dadas a</wi>
 <wi type="G" value="4183,10,">mucho</wi>
 <wi type="G" value="3631,9,">vino</wi>,
-<wi type="G" value="2567,12,">profesoras de lo bueno</wi>;</t>
+<wi type="G" value="2567,12,">profesoras de lo bueno</wi>;
+</t>
 </sv>
 
 <sv id="Tito-2-4">
 that they may train the young women to love their husbands, to love
 their children,
-<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
+<t xml:lang="es">
+<wi type="G" value="2443,1,">para que</wi>
 <wi type="G" value="4994,2,">puedan enseñar a</wi>
 <wi type="G" value="3588,3,">las</wi>
 <wi type="G" value="3501,4,">jóvenes</wi>
 <wi type="G" value="5362,5,">a amar a sus maridos</wi>,
-<wi type="G" value="1511,6,"/><wi type="G" value="5388,7,">a amar a sus hijos</wi>,</t>
+<wi type="G" value="1511,6,"/><wi type="G" value="5388,7,">a amar a sus hijos</wi>,
+</t>
 </sv>
 
 <sv id="Tito-2-5">
 to be sober minded, chaste, workers at home, kind, being
 in subjection to their own husbands, that God´s word may not be blasphemed.
-<t xml:lang="es">a ser <wi type="G" value="4998,1,">auto controladas</wi>,
+<t xml:lang="es">
+a ser <wi type="G" value="4998,1,">auto controladas</wi>,
 <wi type="G" value="53,2,">castas</wi>,
 <wi type="G" value="3626,3,">trabajadoras del hogar</wi>,
 <wi type="G" value="18,4,">amables</wi>,
@@ -443,12 +490,12 @@ in subjection to their own husbands, that God´s word may not be blasphemed.
 <wi type="G" value="3361,10,">no</wi>
 <wi type="G" value="987,15,">sea blasfemada</wi>.
 </t>
-
 </sv>
 
 <sv id="Tito-2-6">
 Likewise, exhort the younger men to be sober minded;
-<t xml:lang="es"><wi type="G" value="5615,3,">Así mismo</wi>
+<t xml:lang="es">
+<wi type="G" value="5615,3,">Así mismo</wi>
 <wi type="G" value="3870,4,">exhorta a</wi>
 <wi type="G" value="3588,1,">los</wi>
 <wi type="G" value="3501,2,">jóvenes</wi> a
@@ -460,7 +507,8 @@ Likewise, exhort the younger men to be sober minded;
 in all things
 showing yourself an example of good works; in your teaching showing
 integrity, seriousness, incorruptibility,
-<t xml:lang="es"><wi type="G" value="4012,1,">en</wi>
+<t xml:lang="es">
+<wi type="G" value="4012,1,">en</wi>
 <wi type="G" value="3956,2,">todas las cosas</wi>
 <wi type="G" value="3930,4,">muestra</wi>
 <wi type="G" value="4572,3,">en ti</wi>
@@ -470,21 +518,26 @@ integrity, seriousness, incorruptibility,
 <wi type="G" value="1722,8,">en</wi>
 <wi type="G" value="3588,9,">una</wi>
 <wi type="G" value="1319,10,">enseñanza</wi>
-con </t>
+con 
+</t>
 <rb xml:lang="es"><wi type="G" value="90,11,">integridad</wi><rf>
 <citebib id="WEB"/> dice `integridad,´ <citebib id="KJV2003"/> dice `incorruptible.´ Según <citebib id="Thayer-BLB"/> la palabra griega
 `αδιαφθοριαν´ se traduce como incorruptibilidad, consistencia, integridad.
-</rf></rb>
-<t xml:lang="es">,
+</rf>
+</rb>
+<t xml:lang="es">
+,
 <wi type="G" value="4587,12,">seriedad</wi>,
-<wi type="G" value="861,13,">incorruptible</wi>, </t>
+<wi type="G" value="861,13,">incorruptible</wi>, 
+</t>
 </sv>
 
 <sv id="Tito-2-8">
 and soundness of speech that
 can´t be condemned; that he who opposes you may be ashamed, having no evil
 thing to say about us.
-<t xml:lang="es"><wi type="G" value="3056,1,">una palabra</wi>
+<t xml:lang="es">
+<wi type="G" value="3056,1,">una palabra</wi>
 <wi type="G" value="5199,2,">consistente</wi> que
 <wi type="G" value="176,3,">no pueda ser condenada</wi>;
 <wi type="G" value="2443,4,">para que</wi>
@@ -496,13 +549,15 @@ thing to say about us.
 <wi type="G" value="5337,14,">algo malo</wi>
 <wi type="G" value="3004,13,">que decir</wi>
 <wi type="G" value="4012,11,">sobre</wi>
-<wi type="G" value="5216,12,">ustedes</wi>.</t>
+<wi type="G" value="5216,12,">ustedes</wi>.
+</t>
 </sv>
 
 <sv id="Tito-2-9">
 Exhort servants to be in subjection to their own
 masters, and to be well-pleasing in all things; not contradicting;
-<t xml:lang="es"><wi type="G" value="1401,1,">Los siervos</wi>
+<t xml:lang="es">
+<wi type="G" value="1401,1,">Los siervos</wi>
 <wi type="G" value="1511,8,">estén</wi>
 <wi type="G" value="5293,4,">sujetos a</wi>
 <wi type="G" value="2398,2,">sus</wi>
@@ -512,14 +567,16 @@ y
 <wi type="G" value="1722,5,">en</wi>
 <wi type="G" value="3956,6,">todo</wi>;
 <wi type="G" value="3361,9,">no</wi>
-<wi type="G" value="483,10,">contradiciendo</wi>; </t>
+<wi type="G" value="483,10,">contradiciendo</wi>; 
+</t>
 </sv>
 
 <sv id="Tito-2-10">
 not
 stealing, but showing all good fidelity; that they may adorn the doctrine of
 God, our Savior, in all things.
-<t xml:lang="es"><wi type="G" value="3361,1,">no</wi>
+<t xml:lang="es">
+<wi type="G" value="3361,1,">no</wi>
 <wi type="G" value="3557,2,">robando</wi>,
 <wi type="G" value="235,3,">sino</wi>
 <wi type="G" value="1731,6,">mostrando</wi>
@@ -541,22 +598,26 @@ God, our Savior, in all things.
 <sv id="Tito-2-11">
 For the grace of God has appeared,
 bringing salvation to all men,
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="2014,1,">se ha manifestado</wi>,
 <wi type="G" value="3588,3,">la</wi>
 <wi type="G" value="5485,4,">gracia</wi>
 <wi type="G" value="3588,5,">de</wi>
 <wi type="G" value="2316,6,">Dios</wi>
-<wi type="G" value="3588,7,"/>con <wi type="G" value="4992,8,">salvación</wi>
+<wi type="G" value="3588,7,"/>con 
+<wi type="G" value="4992,8,">salvación</wi>
 <wi type="G" value="3956,9,">para todos</wi>
-<wi type="G" value="444,10,">los hombres</wi>,</t>
+<wi type="G" value="444,10,">los hombres</wi>,
+</t>
 </sv>
 
 <sv id="Tito-2-12">
 instructing us to the intent that,
 denying ungodliness and worldly lusts, we would live soberly, righteously,
 and godly in this present world;
-<t xml:lang="es"><wi type="G" value="3811,1,"><wi type="G" value="2248,2,">instruyéndonos</wi></wi>
+<t xml:lang="es">
+<wi type="G" value="3811,1,"><wi type="G" value="2248,2,">instruyéndonos</wi></wi>
 <wi type="G" value="2443,3,">para que</wi>
 <wi type="G" value="720,4,">rechacemos</wi>
 <wi type="G" value="3588,5,">la</wi>
@@ -579,7 +640,8 @@ and godly in this present world;
 <sv id="Tito-2-13">
 looking for the blessed hope and
 appearing of the glory of our great God and Savior, Jesus Christ;
-<t xml:lang="es"><wi type="G" value="4327,1,">esperando</wi>
+<t xml:lang="es">
+<wi type="G" value="4327,1,">esperando</wi>
 <wi type="G" value="3588,2,">la</wi>
 <wi type="G" value="3107,3,">bendita</wi>
 <wi type="G" value="1680,4,">esperanza</wi>
@@ -593,14 +655,16 @@ appearing of the glory of our great God and Savior, Jesus Christ;
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="4990,13,">Salvador</wi>,
 <wi type="G" value="2424,15,">Jesús</wi>
-<wi type="G" value="5547,16,">Cristo</wi>;</t>
+<wi type="G" value="5547,16,">Cristo</wi>;
+</t>
 </sv>
 
 <sv id="Tito-2-14">
 who
 gave himself for us, that he might redeem us from all iniquity, and purify
 for himself a people for his own possession, zealous for good works.
-<t xml:lang="es"><wi type="G" value="3739,1,">quien</wi>
+<t xml:lang="es">
+<wi type="G" value="3739,1,">quien</wi>
 <wi type="G" value="1438,3,">se</wi>
 <wi type="G" value="1325,2,">dio</wi>
 <wi type="GC" value="3">a si mismo</wi>
@@ -620,13 +684,13 @@ for himself a people for his own possession, zealous for good works.
 <wi type="G" value="2570,18,">de buenas</wi>
 <wi type="G" value="2041,19,">obras</wi>.
 </t>
-
 </sv>
 
 <sv id="Tito-2-15">
 Say these things and exhort and reprove with all authority. Let no man
 despise you.
-<t xml:lang="es"><wi type="G" value="2980,2,">Di</wi>
+<t xml:lang="es">
+<wi type="G" value="2980,2,">Di</wi>
 <wi type="G" value="5023,1,">estas cosas</wi>
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="3870,4,">exhorta</wi>
@@ -635,22 +699,24 @@ despise you.
 <wi type="G" value="3326,7,">con</wi>
 <wi type="G" value="3956,8,">toda</wi>
 <wi type="G" value="2003,9,">autoridad</wi>.
-Que <wi type="G" value="3367,10,">nadie</wi>
+Que 
+<wi type="G" value="3367,10,">nadie</wi>
 <wi type="G" value="4675,11,">te</wi>
 <wi type="G" value="4065,12,">subestime</wi>.
 </t>
-
 <cl/>
-
-</sv></cm></sc>
+</sv>
+</cm>
+</sc>
 <sc id="Tito-3">
+
 <cm>
 
 <sv id="Tito-3-1">
 Remind them to be in subjection to rulers and to authorities, to be
 obedient, to be ready for every good work,
-<t xml:lang="es"><wi type="G" value="5279,1,"><wi type="G"
-value="846,2,">Recuérdales</wi></wi>
+<t xml:lang="es">
+<wi type="G" value="5279,1,"><wi type="G" value="846,2,">Recuérdales</wi></wi>
 <wi type="G" value="5293,6,">estar sujetos a</wi>
 <wi type="G" value="746,3,">los gobernantes</wi>
 <wi type="G" value="2532,4,">y</wi>
@@ -668,7 +734,8 @@ value="846,2,">Recuérdales</wi></wi>
 <sv id="Tito-3-2">
 to speak evil of no one, not
 to be contentious, to be gentle, showing all humility toward all men.
-<t xml:lang="es">que <wi type="G" value="3367,1,">de nadie</wi>
+<t xml:lang="es">
+que <wi type="G" value="3367,1,">de nadie</wi>
 <wi type="G" value="987,2,">hablen mal</wi>,
 <wi type="G" value="1511,4,">que sean</wi>
 <wi type="G" value="269,3,">pacíficos</wi>,
@@ -678,14 +745,16 @@ to be contentious, to be gentle, showing all humility toward all men.
 <wi type="G" value="4236,8,">humildad</wi>
 <wi type="G" value="4314,9,">a</wi>
 <wi type="G" value="3956,10,">todos</wi>
-<wi type="G" value="444,11,">los hombres</wi>.</t>
+<wi type="G" value="444,11,">los hombres</wi>.
+</t>
 </sv>
 
 <sv id="Tito-3-3">
 For we were also once foolish, disobedient, deceived, serving various
 lusts and pleasures, living in malice and envy, hateful, and hating one
 another.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="2532,4,">también</wi>
 <wi type="G" value="2249,5,">nosotros</wi>
 <wi type="G" value="4218,3,">antes</wi>
@@ -712,7 +781,8 @@ another.
 <sv id="Tito-3-4">
 But when the kindness of God our Savior and his love toward
 mankind appeared,
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="3753,1,">después</wi>
 <wi type="G" value="2014,8,">apareció</wi>
 <wi type="G" value="3588,3,">la</wi>
@@ -730,7 +800,8 @@ mankind appeared,
 not by works of righteousness, which we did ourselves,
 but according to his mercy, he saved us, through the washing of regeneration
 and renewing by the Holy Spirit,
-<t xml:lang="es"><wi type="G" value="3756,1,">no</wi>
+<t xml:lang="es">
+<wi type="G" value="3756,1,">no</wi>
 <wi type="G" value="1537,2,">por</wi>
 <wi type="G" value="2041,3,">obras</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="1722,5,">de</wi>
@@ -757,7 +828,8 @@ and renewing by the Holy Spirit,
 <sv id="Tito-3-6">
 which he poured out on us richly,
 through Jesus Christ our Savior;
-<t xml:lang="es"><wi type="G" value="3739,1,">el cual</wi>
+<t xml:lang="es">
+<wi type="G" value="3739,1,">el cual</wi>
 <wi type="G" value="1632,2,">vertió</wi>
 <wi type="G" value="1909,3,">sobre</wi>
 <wi type="G" value="2248,4,">nosotros</wi>
@@ -773,7 +845,8 @@ through Jesus Christ our Savior;
 <sv id="Tito-3-7">
 that, being justified by his grace, we
 might be made heirs according to the hope of eternal life.
-<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>,
+<t xml:lang="es">
+<wi type="G" value="2443,1,">para que</wi>,
 <wi type="G" value="1344,2,">siendo justificados</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="1565,4,">por Su</wi>
 <wi type="G" value="5485,5,">gracia</wi>,
@@ -791,14 +864,16 @@ This saying
 is faithful, and concerning these things I desire that you affirm
 confidently, so that those who have believed God may be careful to maintain
 good works. These things are good and profitable to men;
-<t xml:lang="es"><wi type="G" value="3588,2,"/><wi type="G" value="3056,3,">Palabra</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,2,"/><wi type="G" value="3056,3,">Palabra</wi>
 <wi type="G" value="4103,1,">fiel</wi>,
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="4012,5,">respecto a</wi>
 <wi type="G" value="5130,6,">estas cosas</wi>
 <wi type="G" value="1014,7,">deseo que</wi>
 <wi type="G" value="4571,8,">tu</wi>
-las <wi type="G" value="1226,9,">afirmes</wi>
+las 
+<wi type="G" value="1226,9,">afirmes</wi>
 <wi type="G" value="2443,10,">para que</wi>
 <wi type="G" value="3588,15,">los</wi>
 <wi type="G" value="4100,16,">creyentes</wi> en
@@ -821,7 +896,8 @@ las <wi type="G" value="1226,9,">afirmes</wi>
 but shun
 foolish questionings, genealogies, strife, and disputes about the law; for
 they are unprofitable and vain.
-<t xml:lang="es"><wi type="G" value="1161,2,">pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">pero</wi>
 <wi type="G" value="4026,11,">desecha</wi>
 <wi type="G" value="2214,3,">preguntas</wi>
 <wi type="G" value="3474,1,">necias</wi>,
@@ -840,20 +916,23 @@ they are unprofitable and vain.
 
 <sv id="Tito-3-10">
 Avoid a factious man after a first and second warning;
-<t xml:lang="es"><wi type="G" value="3868,8,">Rechaza a</wi>
+<t xml:lang="es">
+<wi type="G" value="3868,8,">Rechaza a</wi>
 <wi type="G" value="444,2,">un hombre</wi>
 <wi type="G" value="141,1,">hereje</wi>
 <wi type="G" value="3326,3,">después de</wi>
 <wi type="G" value="1520,4,">la primera</wi>
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="1208,6,">la segunda</wi>
-<wi type="G" value="3559,7,">amonestación</wi>;</t>
+<wi type="G" value="3559,7,">amonestación</wi>;
+</t>
 </sv>
 
 <sv id="Tito-3-11">
 knowing that such a one is perverted, and sins, being
 self-condemned.
-<t xml:lang="es"><wi type="G" value="1492,1,">sabiendo</wi>
+<t xml:lang="es">
+<wi type="G" value="1492,1,">sabiendo</wi>
 <wi type="G" value="3754,2,">que</wi>
 <wi type="G" value="3588,4,">el</wi>
 <wi type="G" value="5108,5,">tal</wi>
@@ -862,19 +941,23 @@ self-condemned.
 <citebib id="WEB"/> dice `pervertido,´ <citebib id="KJV2003"/> dice `subvertido,´ <citebib id="RVG2012"/> dice `trastornado.´ Según
 <citebib id="TR-BLB"/> la palabra griega `εξεστραπται´ se traduce como voltear o romper, cambiar
 para empeorar, pervetir, corromper.
-</rf></rb>
-<t xml:lang="es">,
+</rf>
+</rb>
+<t xml:lang="es">
+,
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="264,7,">pecando</wi>
 <wi type="G" value="5607,8,">se</wi>
-<wi type="G" value="843,9,">auto condena</wi>.</t>
-
-</sv></cm><cm>
+<wi type="G" value="843,9,">auto condena</wi>.
+</t>
+</sv>
+</cm><cm>
 
 <sv id="Tito-3-12">
 When I send Artemas to you, or Tychicus, be diligent to come to me to
 Nicopolis, for I have determined to winter there.
-<t xml:lang="es"><wi type="G" value="3752,1,">Cuando</wi>
+<t xml:lang="es">
+<wi type="G" value="3752,1,">Cuando</wi>
 <wi type="G" value="4314,4,"/><wi type="G" value="4571,5,">te</wi>
 <wi type="G" value="3992,2,">envíe a</wi>
 <wi type="G" value="734,3,">Artemas</wi>,
@@ -898,7 +981,8 @@ Nicopolis, for I have determined to winter there.
 Send Zenas, the
 lawyer, and Apollos on their journey speedily, that nothing may be lacking
 for them.
-<t xml:lang="es"><wi type="G" value="4311,7,">Envía a</wi>
+<t xml:lang="es">
+<wi type="G" value="4311,7,">Envía a</wi>
 <wi type="G" value="2211,1,">Zenas</wi>,
 <wi type="G" value="3588,2,"/><wi type="G" value="3544,3,">maestro de la ley</wi>,
 <wi type="G" value="2532,4,">y</wi>
@@ -915,7 +999,8 @@ for them.
 <sv id="Tito-3-14">
 Let our people also learn to maintain good works for
 necessary uses, that they may not be unfruitful.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> que
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi> que
 <wi type="G" value="3588,4,">los</wi>
 <wi type="G" value="2251,5,">nuestros</wi>
 <wi type="G" value="2532,3,">también</wi>
@@ -931,12 +1016,14 @@ necessary uses, that they may not be unfruitful.
 <wi type="G" value="5600,15,">sean</wi>
 <wi type="G" value="175,16,">improductivos</wi>.
 </t>
-</sv></cm><cm>
+</sv>
+</cm><cm>
 
 <sv id="Tito-3-15">
 All who are with me greet you. Greet those who love us in faith. Grace
 be with you all. Amen.
-<t xml:lang="es"><wi type="G" value="4571,2,">Te</wi>
+<t xml:lang="es">
+<wi type="G" value="4571,2,">Te</wi>
 <wi type="G" value="782,1,">saludan</wi>
 <wi type="G" value="3956,6,3,">todos</wi>
 <wi type="G" value="3588,3,">los que</wi> están
@@ -952,17 +1039,17 @@ be with you all. Amen.
 <wi type="G" value="3326,15,">con</wi>
 <wi type="G" value="3956,16,">todos</wi>
 <wi type="G" value="5216,17,">ustedes</wi>.
-<wi type="G" value="281,18,">Amén</wi>.</t>
+<wi type="G" value="281,18,">Amén</wi>.
+</t>
 <rb xml:lang="es"><rf>
 <citebib id="KJV2003"/> agrega el siguiente colofón con marcado strong: Fue escrito para Tito
 ordenado como primer obispo de la iglesia de los Cretences, desde Nicopolis de
 Macedonia.
-</rf></rb>
-
+</rf>
+</rb>
 <cl/>
-
 <cl/>
-
-</sv></cm></sc>
+</sv>
+</cm>
+</sc>
 </sb>
-

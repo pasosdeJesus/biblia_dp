@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <sb id="2_Tesalonicenses" type="" xml:lang="">
+
 <tt>Paul´s Second Letter to the Thessalonians
 <t xml:lang="es">Segunda carta de Pablo a Tesalonicenses</t>
 </tt>
 
 <sc id="2_Tesalonicenses-1">
+
 <cm>
 
 <sv id="2_Tesalonicenses-1-1">
 Paul, Silvanus, and Timothy, to the assembly of the Thessalonians
 in God our Father, and the Lord Jesus Christ:
-<t xml:lang="es"><wi type="G" value="3972,1,">Pablo</wi>
+<t xml:lang="es">
+<wi type="G" value="3972,1,">Pablo</wi>
 <wi type="G" value="2532,2,">y</wi>
 <wi type="G" value="4610,3,">Silvano</wi>
 <wi type="G" value="2532,4,">y</wi>
@@ -24,15 +27,18 @@ in God our Father, and the Lord Jesus Christ:
 <wi type="G" value="2257,12,">nuestro</wi>
 <wi type="G" value="3962,11,">Padre</wi>
 <wi type="G" value="2532,13,">y</wi>
-en <wi type="G" value="2962,14,">el Señor</wi>
+en 
+<wi type="G" value="2962,14,">el Señor</wi>
 <wi type="G" value="2424,15,">Jesús</wi>
-<wi type="G" value="5547,16,">Cristo</wi>:</t>
+<wi type="G" value="5547,16,">Cristo</wi>:
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-1-2">
 Grace to you and peace
 from God our Father and the Lord Jesus Christ.
-<t xml:lang="es"><wi type="G" value="5485,1,">Gracia a</wi>
+<t xml:lang="es">
+<wi type="G" value="5485,1,">Gracia a</wi>
 <wi type="G" value="5213,2,">ustedes</wi>
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="1515,4,">paz</wi>
@@ -45,11 +51,13 @@ from God our Father and the Lord Jesus Christ.
 <wi type="G" value="2424,11,">Jesús</wi>
 <wi type="G" value="5547,12,">Cristo</wi>.
 </t>
-</sv></cm><cm>
+</sv>
+</cm><cm>
 
 <sv id="2_Tesalonicenses-1-3">
 We are bound to always give thanks to God for you,
-<t xml:lang="es"><wi type="G" value="3784,2,">Debemos</wi>
+<t xml:lang="es">
+<wi type="G" value="3784,2,">Debemos</wi>
 <wi type="G" value="2168,1,">dar gracias a</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="2316,4,">Dios</wi>
 <wi type="G" value="3842,5,">siempre</wi>
@@ -57,12 +65,13 @@ We are bound to always give thanks to God for you,
 <wi type="G" value="5216,7,">ustedes</wi>,
 </t>
 <rb>brothers,
-<t xml:lang="es"><wi type="G" value="80,8,">hermanos</wi></t><rf>
+<t xml:lang="es">
+<wi type="G" value="80,8,">hermanos</wi>
+</t><rf>
 The word for «brothers» here and where context allows may also be correctly
-translated «brothers and sisters» or «siblings.» 
-<t xml:lang="es">La palabra para «hermanos»
+translated «brothers and sisters» or «siblings.» <t xml:lang="es"> La palabra para «hermanos»
 aquí y donde el contexto lo permita, también puede traducirse correctamente como
-«hermanos y hermanas.»</t>
+«hermanos y hermanas.» </t>
 </rf>
 </rb>
  even as it is
@@ -81,7 +90,8 @@ every one of you towards one another abounds;
 <wi type="G" value="3588,19,">el</wi>
 <wi type="G" value="26,20,">amor</wi>
 <wi type="G" value="3956,23,">de todos</wi>
-y <wi type="G" value="1538,22,">cada</wi>
+y 
+<wi type="G" value="1538,22,">cada</wi>
 <wi type="G" value="1520,21,">uno</wi>
 <wi type="G" value="5216,24,">de ustedes</wi>
 <wi type="G" value="1519,25,">hacia</wi>
@@ -94,7 +104,8 @@ so that we ourselves boast
 about you in the assemblies of God for your patience and faith in all your
 persecutions and in the afflictions which you
 endure.
-<t xml:lang="es"><wi type="G" value="5620,1,">así que</wi>
+<t xml:lang="es">
+<wi type="G" value="5620,1,">así que</wi>
 <wi type="G" value="2248,2,">nosotros</wi>
 <wi type="G" value="846,3,">nos</wi>
 <wi type="G" value="2744,6,">gloriamos</wi>
@@ -127,7 +138,8 @@ This is an
 obvious sign of the righteous judgment of God, to the end that you
 may be counted worthy of the Kingdom of God, for which you
 also suffer.
-<t xml:lang="es"><wi type="G" value="1730,1,">Una manifestación</wi>
+<t xml:lang="es">
+<wi type="G" value="1730,1,">Una manifestación</wi>
 <wi type="G" value="3588,2,">del</wi>
 <wi type="G" value="1342,3,">recto</wi>
 <wi type="G" value="2920,4,">juicio</wi>
@@ -143,20 +155,22 @@ also suffer.
 <wi type="G" value="5228,15,">por</wi>
 <wi type="G" value="3739,16,">el cual</wi>
 <wi type="G" value="2532,17,">también</wi>
-<wi type="G" value="3958,18,">sufren</wi>.</t>
-
+<wi type="G" value="3958,18,">sufren</wi>.
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-1-6">
 Since it is a righteous thing with God to repay affliction to those who
 afflict you,
-<t xml:lang="es"><wi type="G" value="1512,1,">Como</wi> es
+<t xml:lang="es">
+<wi type="G" value="1512,1,">Como</wi> es
 <wi type="G" value="1342,2,">justo</wi>
 <wi type="G" value="3844,3,">de</wi>
 <wi type="G" value="2316,4,">Dios</wi>
 <wi type="G" value="467,5,">devolver</wi>
 <wi type="G" value="2347,9,">aflicción</wi>
-a <wi type="G" value="3588,6,">los que</wi>
+a 
+<wi type="G" value="3588,6,">los que</wi>
 <wi type="G" value="5209,8,">los</wi>
 <wi type="G" value="2346,7,">afligieron</wi>,
 </t>
@@ -166,7 +180,8 @@ a <wi type="G" value="3588,6,">los que</wi>
 and to give relief to you that are afflicted with us, when
 the Lord Jesus is revealed from heaven with his mighty angels in flaming
 fire,
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="5213,2,">a ustedes</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="2346,4,">que están afligidos</wi>
 <wi type="G" value="425,5,">darles alivio</wi>
@@ -179,26 +194,31 @@ fire,
 <wi type="G" value="3588,9,"/><wi type="G" value="602,10,">sea revelado</wi>
 <wi type="G" value="575,14,">desde</wi>
 <wi type="G" value="3772,15,">el cielo</wi>
-<wi type="G" value="3326,16,">con</wi> </t>
+<wi type="G" value="3326,16,">con</wi> 
+</t>
 <rb xml:lang="es"><wi type="G" value="32,17,">los ángeles</wi>
 <wi type="G" value="846,19,">de su</wi>
 <wi type="G" value="1411,18,">potencia</wi><rf>
 <citebib id="WEB"/> dice `sus poderosos ángeles,´ <citebib id="RVG2012"/> dice `los ángeles de su potencia.´
-</rf></rb>
-<t xml:lang="es">,</t>
+</rf>
+</rb>
+<t xml:lang="es">
+,
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-1-8">
 giving vengeance to those who don´t know God, and to those who
 don´t obey the Good News of our Lord Jesus,
-
 <rb xml:lang="es"><wi type="G" value="1722,1,">en</wi>
 <wi type="G" value="5395,3,">llamas</wi>
 <wi type="G" value="4442,2,">de fuego</wi><rf>
 <citebib id="WEB"/> deja al final del versículo anterior `en llamas de fuego,´ pero <citebib id="KJV2003"/> y <citebib id="RVG2012"/>
 lo ponen al comienzo de este.
-</rf></rb>
-<t xml:lang="es">,
+</rf>
+</rb>
+<t xml:lang="es">
+,
 <wi type="G" value="1325,4,">dando</wi>
 <wi type="G" value="1557,5,">venganza a</wi>
 <wi type="G" value="3588,6,">los que</wi>
@@ -213,11 +233,14 @@ lo ponen al comienzo de este.
 <wi type="G" value="2098,15,">evangelio</wi>
 <wi type="G" value="2257,18,">de nuestro</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="2962,17,">Señor</wi>
-<wi type="G" value="2424,19,">Jesús</wi> </t>
+<wi type="G" value="2424,19,">Jesús</wi> 
+</t>
 <rb xml:lang="es"><wi type="G" value="5547,20,">Cristo</wi><rf>
 <citebib id="WEB"/> no dice `Cristo,´ pero si está en <citebib id="TR-BLB"/>, <citebib id="KJV2003"/> y <citebib id="RVG2012"/>
-</rf></rb>
-<t xml:lang="es">,
+</rf>
+</rb>
+<t xml:lang="es">
+,
 </t>
 </sv>
 
@@ -225,7 +248,8 @@ lo ponen al comienzo de este.
 who will pay the penalty:
 eternal destruction from the face of the Lord and from the glory of his
 might,
-<t xml:lang="es"><wi type="G" value="3748,1,">quienes</wi>
+<t xml:lang="es">
+<wi type="G" value="3748,1,">quienes</wi>
 <wi type="G" value="5099,3,">pagarán</wi>
 <wi type="G" value="1349,2,">la penalidad</wi>:
 <wi type="G" value="3639,4,">destrucción</wi>
@@ -247,7 +271,8 @@ might,
 when he comes to be glorified in his saints, and to be admired
 among all those who have believed (because our testimony to you was believed)
 in that day.
-<t xml:lang="es"><wi type="G" value="3752,1,">cuando</wi>
+<t xml:lang="es">
+<wi type="G" value="3752,1,">cuando</wi>
 <wi type="G" value="2064,2,">Él venga</wi>
 <wi type="G" value="1740,3,">a ser glorificado</wi>
 <wi type="G" value="1722,4,">en</wi>
@@ -259,7 +284,8 @@ in that day.
 <wi type="G" value="3956,11,">todos</wi>
 <wi type="G" value="3588,12,">los que</wi>
 <wi type="G" value="4100,13,">han creído</wi>
-(<wi type="G" value="3754,14,">porque</wi>
+(
+<wi type="G" value="3754,14,">porque</wi>
 <wi type="G" value="2257,18,">nuestro</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="3142,17,">testimonio</wi>
 <wi type="G" value="1909,19,">entre</wi>
@@ -269,7 +295,8 @@ in that day.
 <wi type="G" value="1565,24,">ese</wi>
 <wi type="G" value="3588,22,"/><wi type="G" value="2250,23,">día</wi>.
 </t>
-</sv></cm>
+</sv>
+</cm>
 
 <cm>
 
@@ -277,7 +304,8 @@ in that day.
 To this end we also pray always for you, that our God may count you
 worthy of your calling, and fulfill every desire of goodness and work of
 faith, with power;
-<t xml:lang="es"><wi type="G" value="1519,1,">Para eso</wi>
+<t xml:lang="es">
+<wi type="G" value="1519,1,">Para eso</wi>
 es
 <wi type="G" value="3739,2,">que</wi>
 <wi type="G" value="2532,3,">también</wi>
@@ -301,29 +329,33 @@ es
 <wi type="G" value="2041,22,">obra</wi>
 <wi type="G" value="4102,23,">de fe</wi>,
 <wi type="G" value="1722,24,">con</wi>
-<wi type="G" value="1411,25,">poder</wi>;</t>
+<wi type="G" value="1411,25,">poder</wi>;
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-1-12">
 that the name of our Lord Jesus
-<t xml:lang="es"><wi type="G" value="3704,1,">para que</wi>
+<t xml:lang="es">
+<wi type="G" value="3704,1,">para que</wi>
 <wi type="G" value="3588,3,">el</wi>
 <wi type="G" value="3686,4,">nombre</wi>
 <wi type="G" value="2257,7,">de nuestro</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="2962,6,">Señor</wi>
-<wi type="G" value="2424,8,">Jesús</wi></t>
+<wi type="G" value="2424,8,">Jesús</wi>
+</t>
 <rb>
 <t xml:lang="es">
-<wi type="G" value="5547,9,">Cristo</wi></t><rf>
-TR adds «Christ» 
-<t xml:lang="es"><citebib id="WEB"/> omite `Cristo,´ con nota al pie de página indicando
-que <citebib id="TR"/> si lo incluye.</t>
+<wi type="G" value="5547,9,">Cristo</wi>
+</t><rf>
+TR adds «Christ» <t xml:lang="es"> <citebib id="WEB"/> omite `Cristo,´ con nota al pie de página indicando
+que <citebib id="TR"/> si lo incluye. </t>
 </rf>
 </rb>
 may be glorified in you, and you
 in him, according to the
 grace of our God and the Lord Jesus Christ.
-<t xml:lang="es"><wi type="G" value="1740,2,">sea glorificado</wi>
+<t xml:lang="es">
+<wi type="G" value="1740,2,">sea glorificado</wi>
 <wi type="G" value="1722,10,">en</wi>
 <wi type="G" value="5213,11,">ustedes</wi>,
 <wi type="G" value="2532,12,">y</wi>
@@ -338,18 +370,21 @@ grace of our God and the Lord Jesus Christ.
 <wi type="G" value="2532,22,">y</wi>
 <wi type="G" value="2962,23,">del Señor</wi>
 <wi type="G" value="2424,24,">Jesús</wi>
-<wi type="G" value="5547,25,">Cristo</wi>.</t>
-
+<wi type="G" value="5547,25,">Cristo</wi>.
+</t>
 <cl/>
-
-</sv></cm></sc>
+</sv>
+</cm>
+</sc>
 <sc id="2_Tesalonicenses-2">
+
 <cm>
 
 <sv id="2_Tesalonicenses-2-1">
 Now, brothers, concerning the coming of our Lord Jesus Christ, and
 our gathering together to him, we ask you
-<t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>,
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Ahora</wi>,
 <wi type="G" value="5209,3,">les</wi>
 <wi type="G" value="2065,1,">pedimos</wi>,
 <wi type="G" value="80,4,">hermanos</wi>,
@@ -373,9 +408,11 @@ not to be
 <wi type="T" value="P"/> quickly shaken
 in your mind, nor yet be troubled, either by spirit, or by word, or by letter
 as from us, saying that the day of Christ had come.
-<t xml:lang="es"><wi type="G" value="1519,1,">que</wi>
+<t xml:lang="es">
+<wi type="G" value="1519,1,">que</wi>
 <wi type="G" value="3588,2,"/><wi type="G" value="3361,3,">no</wi>
-se <wi type="G" value="4531,5,">muevan</wi>
+se 
+<wi type="G" value="4531,5,">muevan</wi>
 <wi type="G" value="5030,4,">repentinamente</wi>
 <wi type="G" value="575,7,">en</wi>
 <wi type="G" value="5209,6,">sus</wi>
@@ -400,14 +437,16 @@ se <wi type="G" value="4531,5,">muevan</wi>
 <wi type="G" value="2250,28,">día</wi>
 <wi type="G" value="3588,29,">de</wi>
 <wi type="G" value="5547,30,">Cristo</wi>
-<wi type="G" value="1764,26,">ha llegado</wi>.</t>
+<wi type="G" value="1764,26,">ha llegado</wi>.
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-3">
 Let no one deceive
 you in any way. For it will not be, unless the departure comes first, and the
 man of sin is revealed, the son of destruction,
-<t xml:lang="es"><wi type="G" value="1818,4,">Que</wi>
+<t xml:lang="es">
+<wi type="G" value="1818,4,">Que</wi>
 <wi type="G" value="3361,1,"><wi type="G" value="5100,2,">nadie</wi></wi>
 <wi type="G" value="5209,3,">los</wi>
 <wi type="GC" value="4">engañe</wi>
@@ -417,12 +456,14 @@ man of sin is revealed, the son of destruction,
 <wi type="G" value="3754,8,">Porque</wi>
 <wi type="G" value="3361,10,">no</wi> será,
 <wi type="G" value="1437,9,">a menos que</wi>
-<wi type="G" value="2064,11,">venga</wi> </t>
+<wi type="G" value="2064,11,">venga</wi> 
+</t>
 <rb xml:lang="es"><wi type="G" value="3588,12,">la</wi>
 <wi type="G" value="646,13,">apostasía</wi><rf>
 <citebib id="WEB"/> dice `la partida,´ <citebib id="KJV2003"/> dice `la caída.´ Según <citebib id="Thayer-BLB"/> la palabra griega
 `αποστασια´ se traduce como a caída, deserción o apostasía.
-</rf></rb>
+</rf>
+</rb>
 <t xml:lang="es">
 <wi type="G" value="4412,14,">primero</wi>,
 <wi type="G" value="2532,15,">y</wi>
@@ -442,7 +483,8 @@ man of sin is revealed, the son of destruction,
 he who opposes and
 exalts himself against all that is called God or that is worshiped; so that
 he sits as God in the temple of God, setting himself up as God.
-<t xml:lang="es"><wi type="G" value="3588,1,">el que</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,">el que</wi>
 <wi type="G" value="480,2,">se opone</wi>
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="5229,4,">se exalta</wi>
@@ -467,13 +509,15 @@ he sits as God in the temple of God, setting himself up as God.
 <wi type="G" value="3754,24,">como que</wi>
 <wi type="G" value="1438,23,">él</wi>
 <wi type="G" value="2076,25,">es</wi>
-<wi type="G" value="2316,26,">Dios</wi>.</t>
+<wi type="G" value="2316,26,">Dios</wi>.
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-5">
 Don´t you
 remember that, when I was still with you, I told you these things?
-<t xml:lang="es">¿<wi type="G" value="3756,1,">No</wi>
+<t xml:lang="es">
+¿<wi type="G" value="3756,1,">No</wi>
 <wi type="G" value="3421,2,">recuerdan</wi>
 <wi type="G" value="3754,3,">que</wi>,
 <wi type="G" value="5607,5,">cuando estaba</wi>
@@ -482,14 +526,15 @@ remember that, when I was still with you, I told you these things?
 <wi type="G" value="5209,7,">ustedes</wi>,
 <wi type="G" value="5213,10,">les</wi>
 <wi type="G" value="3004,9,">dije</wi>
-<wi type="G" value="5023,8,">estas cosas</wi>?</t>
-
+<wi type="G" value="5023,8,">estas cosas</wi>?
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-6">
 Now you know what is restraining him, to the end that he may be
 revealed in his own season.
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="3568,2,">ahora</wi>
 <wi type="G" value="1492,5,">saben</wi>
 <wi type="G" value="3588,3,">lo que</wi>
@@ -506,7 +551,8 @@ revealed in his own season.
 <sv id="2_Tesalonicenses-2-7">
 For the mystery of lawlessness already
 works. Only there is one who restrains now, until he is taken out of the way.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="3466,3,">el misterio</wi>
 <wi type="G" value="3588,6,">del</wi>
 <wi type="G" value="458,7,">inicuo</wi>
@@ -526,7 +572,8 @@ works. Only there is one who restrains now, until he is taken out of the way.
 <sv id="2_Tesalonicenses-2-8">
 Then the lawless one will be revealed, whom the Lord will kill with the
 breath of his mouth, and destroy by the manifestation of his coming;
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="5119,2,">entonces</wi>
 <wi type="G" value="3588,4,">el</wi>
 <wi type="G" value="459,5,">inicuo</wi>
@@ -538,26 +585,31 @@ breath of his mouth, and destroy by the manifestation of his coming;
 <rb xml:lang="es"><wi type="G" value="3588,10,"/><wi type="G" value="4151,11,">con el espíritu</wi><rf>
 <citebib id="WEB"/> dice `con el aliento,´ <citebib id="KJV2003"/> dice `con el espíritu.´ Según <citebib id="Thayer-BLB"/> la palabra
 `πνευματι´ se puede traducir como corriente de aire, aliento, espíritu.
-</rf></rb>
+</rf>
+</rb>
 <t xml:lang="es">
 <wi type="G" value="846,14,">de su</wi>
 <wi type="G" value="3588,12,"/><wi type="G" value="4750,13,">boca</wi>,
 <wi type="G" value="2532,15,">y</wi>
-lo <wi type="G" value="2673,16,">destruirá</wi>
+lo 
+<wi type="G" value="2673,16,">destruirá</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="3588,17,"/><wi type="G" value="2015,18,">con el brillo</wi><rf>
 <citebib id="WEB"/> dice `con la manifestación,´ <citebib id="KJV2003"/> dice `con el brillo,´ Según <citebib id="Thayer-BLB"/> la
 palabra griega `ἐπιφάνεια´ se traduce como manifestación, especialmente
 advenimiento de Cristo, aparición, brillo.
-</rf></rb>
+</rf>
+</rb>
 <wi type="G" value="846,21,">de su</wi>
-<wi type="G" value="3588,19,"/><wi type="G" value="3952,20,">advenimiento</wi>;</t>
+<wi type="G" value="3588,19,"/><wi type="G" value="3952,20,">advenimiento</wi>;
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-9">
 even he whose coming is according to the working of Satan with all power
 and signs and lying wonders,
-<t xml:lang="es">incluso <wi type="G" value="3739,1,">al que</wi>
+<t xml:lang="es">
+incluso <wi type="G" value="3739,1,">al que</wi>
 <wi type="G" value="2076,2,">ha de</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="3952,4,">venir</wi>
 <wi type="G" value="2596,5,">por</wi>
@@ -579,7 +631,8 @@ and signs and lying wonders,
 and with all deception of wickedness for
 those who are being lost, because they didn´t receive the love of the truth,
 that they might be saved.
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="1722,2,">con</wi>
 <wi type="G" value="3956,3,">todo</wi>
 <wi type="G" value="539,4,">engaño</wi>
@@ -604,31 +657,37 @@ that they might be saved.
 <sv id="2_Tesalonicenses-2-11">
 Because of this, God sends them a working of
 error, that they should believe a lie;
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="1223,2,">a causa</wi>
 <wi type="G" value="5124,3,">de esto</wi>,
 <wi type="G" value="3588,6,"/><wi type="G" value="2316,7,">Dios</wi>
 <wi type="G" value="846,5,">les</wi>
-<wi type="G" value="3992,4,">enviará</wi> </t>
+<wi type="G" value="3992,4,">enviará</wi> 
+</t>
 <rb xml:lang="es"><wi type="G" value="1753,8,">una operación</wi>
 <wi type="G" value="4106,9,">de error</wi><rf>
 <citebib id="WEB"/> dice `obra de error,´ <citebib id="KJV2003"/> dice `un fuerte delirio,´ <citebib id="RVG2012"/> dice `operación
 de error.´ Según <citebib id="Thayer-BLB"/> la palabra griega `πλανης´ se traduce como error, engañar,
 delirio y la palabra girega `ενεργειαν,´ se traduce como operación, obra y
 fuerte.
-</rf></rb>
-<t xml:lang="es">,
+</rf>
+</rb>
+<t xml:lang="es">
+,
 <wi type="G" value="1519,10,">para que</wi>
 <wi type="G" value="846,13,">ellos</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="4100,12,">crean</wi>
 <wi type="G" value="3588,14,">una</wi>
-<wi type="G" value="5579,15,">mentira</wi>;</t>
+<wi type="G" value="5579,15,">mentira</wi>;
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-12">
 that they all might be judged
 who didn´t believe the truth, but had pleasure in unrighteousness.
-<t xml:lang="es"><wi type="G" value="2443,1,">para que</wi>
+<t xml:lang="es">
+<wi type="G" value="2443,1,">para que</wi>
 <wi type="G" value="2919,2,">puedan ser juzgados</wi>
 <wi type="G" value="3956,3,">todos</wi>
 <wi type="G" value="3588,4,">los que</wi>
@@ -649,7 +708,8 @@ But
 we are bound to always give thanks to God for you, brothers loved by the
 Lord, because God chose you from the beginning for salvation through
 sanctification of the Spirit and belief in the truth;
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="2249,1,">nosotros</wi>
 <wi type="G" value="3784,3,">debemos</wi>
 <wi type="G" value="2168,4,">dar gracias</wi>
@@ -683,7 +743,8 @@ sanctification of the Spirit and belief in the truth;
 to which he
 called you through our Good News, for the obtaining of the glory of our Lord
 Jesus Christ.
-<t xml:lang="es"><wi type="G" value="1519,1,">para</wi>
+<t xml:lang="es">
+<wi type="G" value="1519,1,">para</wi>
 <wi type="G" value="3739,2,">lo cual</wi>
 <wi type="G" value="5209,4,">los</wi>
 <wi type="G" value="2564,3,">llamo</wi>
@@ -696,14 +757,16 @@ Jesus Christ.
 <wi type="G" value="2257,14,">de nuestro</wi>
 <wi type="G" value="3588,12,"/><wi type="G" value="2962,13,">Señor</wi>
 <wi type="G" value="2424,15,">Jesús</wi>
-<wi type="G" value="5547,16,">Cristo</wi>.</t>
+<wi type="G" value="5547,16,">Cristo</wi>.
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-2-15">
 So then, brothers, stand firm, and hold the traditions
 which you
  were taught by us, whether by word, or by letter.
-<t xml:lang="es"><wi type="G" value="686,1,">Así</wi>
+<t xml:lang="es">
+<wi type="G" value="686,1,">Así</wi>
 <wi type="G" value="3767,2,">entonces</wi>,
 <wi type="G" value="80,3,">hermanos</wi>,
 <wi type="G" value="4739,4,">permanezcan firmes</wi>,
@@ -721,14 +784,16 @@ which you
 <wi type="G" value="1992,16,">carta</wi>
 <wi type="G" value="2257,17,">nuestra</wi>.
 </t>
-</sv></cm>
+</sv>
+</cm>
 
 <cm>
 
 <sv id="2_Tesalonicenses-2-16">
 Now our Lord Jesus Christ himself, and God our Father, who loved us and
 gave us eternal comfort and good hope through grace,
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="846,1,">el mismo</wi>,
 <wi type="G" value="2257,5,">nuestro</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="2962,4,">Señor</wi>
@@ -757,7 +822,8 @@ gave us eternal comfort and good hope through grace,
 <sv id="2_Tesalonicenses-2-17">
 comfort your
 hearts and establish you in every good work and word.
-<t xml:lang="es"><wi type="G" value="3870,1,">consuele</wi>
+<t xml:lang="es">
+<wi type="G" value="3870,1,">consuele</wi>
 <wi type="G" value="5216,2,">sus</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="2588,4,">corazones</wi>
 <wi type="G" value="2532,5,">y</wi>
@@ -771,15 +837,18 @@ hearts and establish you in every good work and word.
 <wi type="G" value="2041,12,">obra</wi>.
 </t>
 <cl/>
-
-</sv></cm></sc>
+</sv>
+</cm>
+</sc>
 <sc id="2_Tesalonicenses-3">
+
 <cm>
 
 <sv id="2_Tesalonicenses-3-1">
 Finally, brothers, pray for us, that the word of the Lord may
 spread rapidly and be glorified, even as also with you;
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="3063,2,">Finalmente</wi>,
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="3063,2,">Finalmente</wi>,
 <wi type="G" value="80,4,">hermanos</wi>,
 <wi type="G" value="4336,3,">oren</wi>
 <wi type="G" value="4012,5,">por</wi>
@@ -795,13 +864,15 @@ spread rapidly and be glorified, even as also with you;
 <wi type="G" value="2532,16,">así</wi>
 <wi type="G" value="2531,15,">como</wi>
 <wi type="G" value="4314,17,">entre</wi>
-<wi type="G" value="5209,18,">ustedes</wi>;</t>
+<wi type="G" value="5209,18,">ustedes</wi>;
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-3-2">
 and that we may
 be delivered from unreasonable and evil men; for not all have faith.
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="2443,2,">para que</wi>
 <wi type="G" value="4506,3,">seamos librados</wi>
 <wi type="G" value="575,4,">de</wi>
@@ -819,7 +890,8 @@ be delivered from unreasonable and evil men; for not all have faith.
 <sv id="2_Tesalonicenses-3-3">
 But the Lord is faithful, who will establish you, and guard you from the evil
 one.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="4103,1,">fiel</wi>
 <wi type="G" value="2076,3,">es</wi>
 <wi type="G" value="3588,4,">el</wi>
@@ -830,13 +902,15 @@ one.
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="5442,10,">guardará</wi>
 <wi type="G" value="575,11,">del</wi>
-<wi type="G" value="3588,12,"/><wi type="G" value="4190,13,">mal</wi>.</t>
+<wi type="G" value="3588,12,"/><wi type="G" value="4190,13,">mal</wi>.
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-3-4">
 We have confidence in the Lord concerning you, that you
 both do and will do the things we command.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="3982,1,">confiamos</wi>
 <wi type="G" value="1722,3,">en</wi>
 <wi type="G" value="2962,4,">el Señor</wi>
@@ -856,7 +930,8 @@ both do and will do the things we command.
 <sv id="2_Tesalonicenses-3-5">
 May the Lord direct your hearts
 into the love of God, and into the patience of Christ.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi> que
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi> que
 <wi type="G" value="3588,1,">el</wi>
 <wi type="G" value="2962,3,">Señor</wi>
 <wi type="G" value="2720,4,">guíe</wi>
@@ -871,14 +946,17 @@ into the love of God, and into the patience of Christ.
 <wi type="G" value="3588,15,">la</wi>
 <wi type="G" value="5281,16,">paciencia</wi>
 <wi type="G" value="3588,17,">de</wi>
-<wi type="G" value="5547,18,">Cristo</wi>.</t>
-</sv></cm><cm>
+<wi type="G" value="5547,18,">Cristo</wi>.
+</t>
+</sv>
+</cm><cm>
 
 <sv id="2_Tesalonicenses-3-6">
 Now we command you, brothers, in the name of our Lord Jesus Christ, that
 you withdraw yourselves from every brother who walks in rebellion, and
 not after the tradition which they received from us.
-<t xml:lang="es"><wi type="G" value="1161,2,">Ahora</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Ahora</wi>
 <wi type="G" value="5213,3,">les</wi>
 <wi type="G" value="3853,1,">ordenamos</wi>,
 <wi type="G" value="80,4,">hermanos</wi>,
@@ -888,7 +966,8 @@ not after the tradition which they received from us.
 <wi type="G" value="3588,7,"/><wi type="G" value="2962,8,">Señor</wi>
 <wi type="G" value="2424,10,">Jesús</wi>
 <wi type="G" value="5547,11,">Cristo</wi>,
-que <wi type="G" value="5209,13,">se</wi>
+que 
+<wi type="G" value="5209,13,">se</wi>
 <wi type="G" value="4724,12,">alejen</wi>
 <wi type="G" value="575,14,">de</wi>
 <wi type="G" value="3956,15,">todo</wi>
@@ -899,17 +978,21 @@ que <wi type="G" value="5209,13,">se</wi>
 <citebib id="WEB"/> dice `en rebelión,´ <citebib id="KJV2003"/> dice `desordenamente,´ <citebib id="RVG2012"/> dice `fuera de orden.´
 Según <citebib id="Thayer-BLB"/> la palabra griega `ατακτως´ se traduce como desordenadamente,
 desviado del orden prescrito.
-</rf></rb>
-<t xml:lang="es">,
+</rf>
+</rb>
+<t xml:lang="es">
+,
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="3361,20,">no</wi>
-<wi type="G" value="2596,21,">conforme a</wi> </t>
+<wi type="G" value="2596,21,">conforme a</wi> 
+</t>
 <rb xml:lang="es"><wi type="G" value="3588,22,">la</wi>
 <wi type="G" value="3862,23,">doctrina</wi><rf>
 <citebib id="WEB"/> dice `tradición,´ <citebib id="RVG2012"/> dice `doctrina.´ Según <citebib id="Thayer-BLB"/> la palabra griega
 `παράδοσις´ se traduce como tradición, ordenanza. Lo que se transmite
 verbalmente o por escrito.
-</rf></rb>
+</rf>
+</rb>
 <t xml:lang="es">
 <wi type="G" value="3739,24,">que</wi>
 <wi type="G" value="3880,25,">recibió</wi>
@@ -921,7 +1004,8 @@ verbalmente o por escrito.
 <sv id="2_Tesalonicenses-3-7">
 For you know how you ought to imitate us. For we didn´t behave
 ourselves rebelliously among you,
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="846,1,">ustedes</wi>
 <wi type="G" value="1492,3,">saben</wi>
 <wi type="G" value="4459,4,">como</wi>
@@ -931,14 +1015,16 @@ ourselves rebelliously among you,
 <wi type="G" value="3756,9,">no</wi>
 <wi type="G" value="812,10,">fuimos desordenado</wi>
 <wi type="G" value="1722,11,">entre</wi>
-<wi type="G" value="5213,12,">ustedes</wi>,</t>
+<wi type="G" value="5213,12,">ustedes</wi>,
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-3-8">
 neither did we eat bread from anyone´s hand without paying
 for it, but in labor and travail worked night and day, that we might not
 burden any of you;
-<t xml:lang="es"><wi type="G" value="3761,1,">ni</wi>
+<t xml:lang="es">
+<wi type="G" value="3761,1,">ni</wi>
 <wi type="G" value="5315,4,">comimos</wi>
 <wi type="G" value="740,3,">el pan</wi>
 <wi type="G" value="3844,5,">de</wi>
@@ -966,7 +1052,8 @@ para
 not because we don´t have the right, but to make
 ourselves an example to you, that you
 should imitate us.
-<t xml:lang="es"><wi type="G" value="3756,1,">no</wi>
+<t xml:lang="es">
+<wi type="G" value="3756,1,">no</wi>
 <wi type="G" value="3754,2,">porque</wi>
 <wi type="G" value="3756,3,">no</wi>
 <wi type="G" value="2192,4,">tuviéramos</wi>
@@ -986,7 +1073,8 @@ should imitate us.
 For even
 when we were with you, we commanded you this: «If anyone will not work,
 neither let him eat.»
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="2532,1,">incluso</wi>
 <wi type="G" value="3753,3,">cuando</wi>
 <wi type="G" value="1510,4,">estuvimos</wi>
@@ -996,12 +1084,14 @@ neither let him eat.»
 <wi type="G" value="3853,8,">mandamos</wi>
 <wi type="G" value="5124,7,">esto</wi>:
 <wi type="G" value="3754,10,">que</wi>
-«<wi type="G" value="1487,11,">Si</wi>
+«
+<wi type="G" value="1487,11,">Si</wi>
 <wi type="G" value="5100,12,">alguno</wi>
 <wi type="G" value="3756,13,">no</wi>
 <wi type="G" value="2309,14,">quiere</wi>
 <wi type="G" value="2038,15,">trabajar</wi>,
-que <wi type="G" value="3366,16,">no</wi>
+que 
+<wi type="G" value="3366,16,">no</wi>
 <wi type="G" value="2068,17,">coma</wi>.»
 </t>
 </sv>
@@ -1009,9 +1099,11 @@ que <wi type="G" value="3366,16,">no</wi>
 <sv id="2_Tesalonicenses-3-11">
 For we hear of some who walk among you in
 rebellion, who don´t work at all, but are busybodies.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="191,1,">escuchamos</wi>
-que <wi type="G" value="5100,3,">algunos</wi>
+que 
+<wi type="G" value="5100,3,">algunos</wi>
 <wi type="G" value="1722,5,">entre</wi>
 <wi type="G" value="5213,6,">ustedes</wi>
 <wi type="G" value="4043,4,">caminan</wi>
@@ -1019,14 +1111,16 @@ que <wi type="G" value="5100,3,">algunos</wi>
 <wi type="G" value="3367,8,">no</wi>
 <wi type="G" value="2038,9,">trabajan</wi>
 <wi type="G" value="235,10,">sino</wi> que
-<wi type="G" value="4020,11,">son desocupados</wi>.</t>
+<wi type="G" value="4020,11,">son desocupados</wi>.
+</t>
 </sv>
 
 <sv id="2_Tesalonicenses-3-12">
 Now those who are that way, we command and exhort in the
 Lord Jesus Christ, that with quietness they work, and eat their own
 bread.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Ahora</wi>
 <wi type="G" value="5108,3,">a aquellos</wi>
 <wi type="G" value="3853,4,">les ordenamos</wi>
 <wi type="G" value="2532,5,">y</wi>
@@ -1045,14 +1139,14 @@ bread.
 <wi type="G" value="740,19,">pan</wi>.
 </t>
 </sv>
-
 </cm>
 
 <cm>
 
 <sv id="2_Tesalonicenses-3-13">
 But you, brothers, don´t be weary in doing well.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="5210,1,">ustedes</wi>
 <wi type="G" value="80,3,">hermanos</wi>,
 <wi type="G" value="3361,4,">no</wi>
@@ -1064,7 +1158,8 @@ But you, brothers, don´t be weary in doing well.
 <sv id="2_Tesalonicenses-3-14">
 If any man doesn´t obey our word in this letter, note that man, that you
 have no company with him, to the end that he may be ashamed.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="1487,1,">si</wi>
 <wi type="G" value="5100,3,">alguno</wi>
 <wi type="G" value="3756,4,">no</wi>
@@ -1087,7 +1182,8 @@ have no company with him, to the end that he may be ashamed.
 <sv id="2_Tesalonicenses-3-15">
 Don´t count him as
 an enemy, but admonish him as a brother.
-<t xml:lang="es"><wi type="G" value="2532,1,">Más</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">Más</wi>
 <wi type="G" value="3361,2,">no</wi> lo
 <wi type="G" value="2233,5,">cuenten</wi>
 <wi type="G" value="5613,3,">como</wi>
@@ -1095,15 +1191,18 @@ an enemy, but admonish him as a brother.
 <wi type="G" value="235,6,">sino</wi>
 <wi type="G" value="3560,7,">amonéstenlo</wi>
 <wi type="G" value="5613,8,">como a</wi>
-<wi type="G" value="80,9,">hermano</wi>.</t>
-</sv></cm>
+<wi type="G" value="80,9,">hermano</wi>.
+</t>
+</sv>
+</cm>
 
 <cm>
 
 <sv id="2_Tesalonicenses-3-16">
 Now may the Lord of peace himself give you peace at all times in all
 ways. The Lord be with you all.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="846,1,">el mismo</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="2962,4,">Señor</wi>
 <wi type="G" value="3588,5,">de</wi>
@@ -1121,13 +1220,14 @@ ways. The Lord be with you all.
 <wi type="G" value="3956,19,">todos</wi>
 <wi type="G" value="5216,20,">ustedes</wi>.
 </t>
-
-</sv></cm><cm>
+</sv>
+</cm><cm>
 
 <sv id="2_Tesalonicenses-3-17">
 The greeting of me, Paul, with my own hand, which is the sign in every
 letter: this is how I write.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="783,2,">Saludo</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="783,2,">Saludo</wi>
 <wi type="G" value="3972,6,">de Pablo</wi>,
 <wi type="G" value="3588,3,"/><wi type="G" value="1699,4,">con mi propia</wi>
 <wi type="G" value="5495,5,">mano</wi>,
@@ -1145,7 +1245,8 @@ letter: this is how I write.
 <sv id="2_Tesalonicenses-3-18">
 The grace of our Lord Jesus Christ be with
 you all. Amen.
-<t xml:lang="es"><wi type="G" value="3588,1,">La</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,">La</wi>
 <wi type="G" value="5485,2,">gracia</wi>
 <wi type="G" value="2257,5,">de nuestro</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="2962,4,">Señor</wi>
@@ -1154,19 +1255,16 @@ you all. Amen.
 <wi type="G" value="3326,8,">con</wi>
 <wi type="G" value="3956,9,">todos</wi>
 <wi type="G" value="5216,10,">ustedes</wi>.
-<wi type="G" value="281,11,">Amén</wi></t>
+<wi type="G" value="281,11,">Amén</wi>
+</t>
 <rb xml:lang="es">.<rf>
 <citebib id="KJV2003"/> agrega con marcado Strong el siguiente colofón: `La segunda epístola a los
 Tesalonicenses fue escrita en Atenas.´
-</rf></rb>
-
+</rf>
+</rb>
 <cl/>
-
 <cl/>
-
 </sv>
-
 </cm>
 </sc>
 </sb>
-

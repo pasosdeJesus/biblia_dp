@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <sb id="Santiago" type="" xml:lang="">
+
 <tt>The Letter from James<t xml:lang="es">La carta de Santiago</t></tt>
+
 <sc id="Santiago-1">
+
 <cm>
 
 <sv id="Santiago-1-1">
@@ -16,55 +19,66 @@ según https://es.wikipedia.org/wiki/Jacobo esto se debe a la evolución
 del latín eclesiástico Sanctus Iacobus (Santo Jacobo) que con el tiempo
 tomó formas más fluida como Sant Iaco, Sant Yago o Santo Yagüe, hasta
 fusionarse en una sola palabra: Santiago.
-</rf></rb>
-<t xml:lang="es">,
+</rf>
+</rb>
+<t xml:lang="es">
+,
 <wi type="G" value="1401,7,">siervo</wi>
 <wi type="G" value="2316,2,">de Dios</wi>
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="2962,4,">del Señor</wi>
 <wi type="G" value="2424,5,">Jesús</wi>
 <wi type="G" value="5547,6,">Cristo</wi>,
-a <wi type="G" value="3588,8,">las</wi>
+a 
+<wi type="G" value="3588,8,">las</wi>
 <wi type="G" value="1427,9,">doce</wi>
 <wi type="G" value="5443,10,">tribus</wi>
 <wi type="G" value="3588,11,">que</wi> están
 <wi type="G" value="1722,12,">en</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="1290,14,">dispersión</wi>:
-<wi type="G" value="5463,15,">Saludos</wi>.</t>
+<wi type="G" value="5463,15,">Saludos</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-1-2">
 Count it all joy, my
-<t xml:lang="es"><wi type="G" value="2233,3,">Cuenten</wi> como
+<t xml:lang="es">
+<wi type="G" value="2233,3,">Cuenten</wi> como
 <wi type="G" value="3956,1,">todo</wi>
 <wi type="G" value="5479,2,">gozo</wi>,
 <wi type="G" value="3450,5,">mis</wi>
 </t>
 <rb>brothers
-<t xml:lang="es"><wi type="G" value="80,4,">hermanos</wi></t><rf>
+<t xml:lang="es">
+<wi type="G" value="80,4,">hermanos</wi>
+</t><rf>
 The word for «brothers» here and where context allows may also be correctly
-translated «brothers and sisters» or «siblings.» 
-<t xml:lang="es">La palabra para «hermanos»
+translated «brothers and sisters» or «siblings.» <t xml:lang="es"> La palabra para «hermanos»
 aquí y donde el contexto lo permita puede traducirse también correctamente como
-«hermanos y hermanas».</t>
-</rf></rb>
+«hermanos y hermanas». </t>
+</rf>
+</rb>
 , when you fall into various temptations,
-<t xml:lang="es">,
-<wi type="G" value="3752,6,">cuando</wi> </t>
-<rb xml:lang="es"><wi type="G" value="4045,8,">lleguen</wi>
-<rf>
+<t xml:lang="es">
+,
+<wi type="G" value="3752,6,">cuando</wi> 
+</t>
+<rb xml:lang="es"><wi type="G" value="4045,8,">lleguen</wi><rf>
 <citebib id="WEB"/>, <citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen `caigan.´ Según <citebib id="Thayer-BLB"/> la palabra `περιπεσητε´ es caer
 como caer en manos de ladrones.
-</rf></rb>
+</rf>
+</rb>
 <t xml:lang="es">
 <wi type="G" value="4164,9,">diversas</wi>
-<wi type="G" value="3986,7,">tentaciones</wi>,</t>
+<wi type="G" value="3986,7,">tentaciones</wi>,
+</t>
 </sv>
 
 <sv id="Santiago-1-3">
 knowing that the testing of your
 faith produces endurance.
-<t xml:lang="es"><wi type="G" value="1097,1,">sabiendo</wi>
+<t xml:lang="es">
+<wi type="G" value="1097,1,">sabiendo</wi>
 <wi type="G" value="3754,2,">que</wi>
 <wi type="G" value="3588,3,">la</wi>
 <wi type="G" value="1383,4,">prueba</wi>
@@ -78,7 +92,8 @@ faith produces endurance.
 <sv id="Santiago-1-4">
 Let endurance have its perfect work, that
 you may be perfect and complete, lacking in nothing.
-<t xml:lang="es"><wi type="G" value="1161,2,,">Y</wi> que
+<t xml:lang="es">
+<wi type="G" value="1161,2,,">Y</wi> que
 <wi type="G" value="3588,1,">la</wi>
 <wi type="G" value="5281,3,">paciencia</wi>
 <wi type="G" value="2192,6,">tenga</wi> su
@@ -99,7 +114,8 @@ you may be perfect and complete, lacking in nothing.
 But if any of
 you lacks wisdom, let him ask of God, who gives to all liberally and without
 reproach; and it will be given to him.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="1487,1,">si</wi>
 <wi type="G" value="5100,3,">a alguno</wi>
 <wi type="G" value="5216,4,">de ustedes</wi>
@@ -125,7 +141,8 @@ reproach; and it will be given to him.
 But let him ask in faith, without
 any doubting, for he who doubts is like a wave of the sea, driven by the wind
 and tossed.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="154,1,">que pida</wi>
 <wi type="G" value="1722,3,">en</wi>
 <wi type="G" value="4102,4,">fe</wi>,
@@ -139,13 +156,15 @@ and tossed.
 <wi type="G" value="2281,12,">del mar</wi>,
 <wi type="G" value="416,13,">llevada por el viento</wi>
 <wi type="G" value="2532,14,">y</wi>
-<wi type="G" value="4494,15,">lanzada</wi>.</t>
+<wi type="G" value="4494,15,">lanzada</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-1-7">
 For let that man not think that he will receive anything
 from the Lord.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi> que
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi> que
 <wi type="G" value="1565,6,">tal</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="444,5,">hombre</wi>
 <wi type="G" value="3361,1,">no</wi>
@@ -154,12 +173,14 @@ from the Lord.
 <wi type="G" value="2983,8,">recibirá</wi>
 <wi type="G" value="5100,9,">algo</wi>
 <wi type="G" value="3844,10,"><wi type="G" value="3588,11,">del</wi></wi>
-<wi type="G" value="2962,12,">Señor</wi>.</t>
+<wi type="G" value="2962,12,">Señor</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-1-8">
 He is a double-minded man, unstable in all his ways.
-<t xml:lang="es"><wi type="G" value="435,1,">Una persona</wi>
+<t xml:lang="es">
+<wi type="G" value="435,1,">Una persona</wi>
 <wi type="G" value="1374,2,">de doble mente</wi> es
 <wi type="G" value="182,3,">inestable</wi>
 <wi type="G" value="1722,4,">en</wi>
@@ -167,13 +188,15 @@ He is a double-minded man, unstable in all his ways.
 <wi type="G" value="846,8,">sus</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="3598,7,">caminos</wi>.
 </t>
-</sv></cm>
+</sv>
+</cm>
 
 <cm>
 
 <sv id="Santiago-1-9">
 But let the brother in humble circumstances glory in his high position;
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> que
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi> que
 <wi type="G" value="3588,3,">el</wi>
 <wi type="G" value="80,4,">hermano</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="5011,6,">humilde</wi>
@@ -182,13 +205,13 @@ But let the brother in humble circumstances glory in his high position;
 <wi type="G" value="846,10,">él</wi> es
 <wi type="G" value="3588,8,"/><wi type="G" value="5311,9,">exaltado</wi>;
 </t>
-
 </sv>
 
 <sv id="Santiago-1-10">
 and the rich, in that he is made humble, because like the flower in the
 grass, he will pass away.
-<t xml:lang="es"><wi type="G" value="1161,2,">y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">y</wi>
 <wi type="G" value="3588,1,">el</wi>
 <wi type="G" value="4145,3,">rico</wi>,
 <wi type="G" value="1722,4,">en</wi> que
@@ -198,14 +221,16 @@ grass, he will pass away.
 <wi type="G" value="5613,9,">como</wi>
 <wi type="G" value="438,10,">la flor</wi>
 <wi type="G" value="5528,11,">del pasto</wi>,
-<wi type="G" value="3928,12,">pasará</wi>.</t>
+<wi type="G" value="3928,12,">pasará</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-1-11">
 For the sun arises with the scorching wind,
 and withers the grass, and the flower in it falls, and the beauty of its
 appearance perishes. So also will the rich man fade away in his pursuits.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="3588,3,">el</wi>
 <wi type="G" value="2246,4,">sol</wi>
 <wi type="G" value="393,1,">se levanta</wi>
@@ -235,7 +260,8 @@ appearance perishes. So also will the rich man fade away in his pursuits.
 <wi type="G" value="846,31,">sus</wi>
 <wi type="G" value="3588,29,"/><wi type="G" value="4197,30,">propósitos</wi>.
 </t>
-</sv></cm>
+</sv>
+</cm>
 
 <cm>
 
@@ -243,7 +269,8 @@ appearance perishes. So also will the rich man fade away in his pursuits.
 Blessed is the man who endures temptation, for when he has been
 approved, he will receive the crown of life, which the Lord promised to those
 who love him.
-<t xml:lang="es"><wi type="G" value="3107,1,">Bendito</wi>
+<t xml:lang="es">
+<wi type="G" value="3107,1,">Bendito</wi>
 <wi type="G" value="435,2,">el hombre</wi>
 <wi type="G" value="3739,3,">que</wi>
 <wi type="G" value="5278,4,">soporta</wi>
@@ -269,11 +296,13 @@ who love him.
 <sv id="Santiago-1-13">
 Let no man say when he is tempted, «I am tempted by God,»
 for God can´t be tempted by evil, and he himself tempts no one.
-<t xml:lang="es">Que <wi type="G" value="3367,1,">nadie</wi>
+<t xml:lang="es">
+Que <wi type="G" value="3367,1,">nadie</wi>
 <wi type="G" value="3004,3,">diga</wi>
 <wi type="G" value="3754,4,">cuando</wi>
 <wi type="G" value="3985,2,">es tentado</wi>,
-«<wi type="G" value="3985,8,">Estoy siendo tentado</wi>
+«
+<wi type="G" value="3985,8,">Estoy siendo tentado</wi>
 <wi type="G" value="575,5,">por</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="2316,7,">Dios</wi>,»
 <wi type="G" value="3588,9,"/><wi type="G" value="1063,10,">pues</wi>
@@ -285,13 +314,15 @@ for God can´t be tempted by evil, and he himself tempts no one.
 <wi type="G" value="1161,16,">ni</wi>
 <wi type="G" value="846,17,">Él mismo</wi>
 <wi type="G" value="3985,15,">tienta</wi>
-<wi type="G" value="3762,18,">a nadie</wi>. </t>
+<wi type="G" value="3762,18,">a nadie</wi>. 
+</t>
 </sv>
 
 <sv id="Santiago-1-14">
 But
 each one is tempted, when he is drawn away by his own lust, and enticed.
-<t xml:lang="es"><wi type="G" value="1161,2,">Más</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Más</wi>
 <wi type="G" value="1538,1,">cada quien</wi>
 <wi type="G" value="3985,3,">es tentado</wi>,
 <wi type="G" value="1828,8,">cuando es alejado</wi>
@@ -306,7 +337,8 @@ each one is tempted, when he is drawn away by his own lust, and enticed.
 <sv id="Santiago-1-15">
 Then the lust, when it has conceived, bears sin; and the sin, when it
 is full grown, brings forth death.
-<t xml:lang="es"><wi type="G" value="1534,1,">Entonces</wi>
+<t xml:lang="es">
+<wi type="G" value="1534,1,">Entonces</wi>
 <wi type="G" value="3588,2,">la</wi>
 <wi type="G" value="1939,3,">concupiscencia</wi> cuando
 <wi type="G" value="4815,4,">ha concebido</wi>,
@@ -316,23 +348,27 @@ is full grown, brings forth death.
 <wi type="G" value="266,9,">el pecado</wi>, cuando
 <wi type="G" value="658,10,">ha</wi> crecido,
 <wi type="G" value="616,11,">produce</wi>
-<wi type="G" value="2288,12,">la</wi> muerte.</t>
+<wi type="G" value="2288,12,">la</wi> muerte.
+</t>
 </sv>
 
 <sv id="Santiago-1-16">
 Don´t be deceived, my beloved brothers.
-<t xml:lang="es"><wi type="G" value="3361,1,">No</wi>
+<t xml:lang="es">
+<wi type="G" value="3361,1,">No</wi>
 <wi type="G" value="4105,2,">se equivoquen</wi>,
 <wi type="G" value="3450,4,">mis</wi>
 <wi type="G" value="27,5,">queridos</wi>
-<wi type="G" value="80,3,">hermanos</wi>.</t>
+<wi type="G" value="80,3,">hermanos</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-1-17">
 Every good gift and every perfect gift is from above, coming
 down from the Father of lights, with whom can be no variation, nor turning
 shadow.
-<t xml:lang="es"><wi type="G" value="3956,1,">Toda</wi>
+<t xml:lang="es">
+<wi type="G" value="3956,1,">Toda</wi>
 <wi type="G" value="18,3,">buena</wi>
 <wi type="G" value="1394,2,">ofrenda</wi>
 <wi type="G" value="2532,4,">y</wi>
@@ -360,7 +396,8 @@ shadow.
 <sv id="Santiago-1-18">
 Of his own will he brought us forth by the word of truth, that
 we should be a kind of first fruits of his creatures.
-<t xml:lang="es"><wi type="G" value="1014,1,">De Su voluntad</wi>
+<t xml:lang="es">
+<wi type="G" value="1014,1,">De Su voluntad</wi>
 <wi type="G" value="2248,3,">nos</wi>
 <wi type="G" value="616,2,">creó</wi> por
 <wi type="G" value="3056,4,">la palabra</wi>
@@ -372,15 +409,18 @@ we should be a kind of first fruits of his creatures.
 <wi type="G" value="536,10,">de los primeros frutos</wi>
 <wi type="G" value="3588,12,">de</wi>
 <wi type="G" value="846,13,">sus</wi>
-<wi type="G" value="2938,14,">criaturas</wi>.</t>
-</sv></cm>
+<wi type="G" value="2938,14,">criaturas</wi>.
+</t>
+</sv>
+</cm>
 
 <cm>
 
 <sv id="Santiago-1-19">
 So, then, my beloved brothers, let every man be swift to hear, slow to
 speak, and slow to anger;
-<t xml:lang="es"><wi type="G" value="5620,1,">Entonces</wi>
+<t xml:lang="es">
+<wi type="G" value="5620,1,">Entonces</wi>
 <wi type="G" value="3450,3,">mis</wi>
 <wi type="G" value="27,4,">amados</wi>
 <wi type="G" value="80,2,">hermanos</wi>,
@@ -396,12 +436,14 @@ speak, and slow to anger;
 <wi type="G" value="1021,16,">lento</wi>
 <wi type="G" value="1519,17,">para</wi>
 <wi type="G" value="3709,18,">airarse</wi>.
-</t></sv>
+</t>
+</sv>
 
 <sv id="Santiago-1-20">
 for the anger of man doesn´t produce the
 righteousness of God.
-<t xml:lang="es"><wi type="G" value="1063,2,">pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">pues</wi>
 <wi type="G" value="3709,1,">la ira</wi>
 <wi type="G" value="435,3,">del hombre</wi>
 <wi type="G" value="3756,6,">no</wi>
@@ -415,7 +457,8 @@ righteousness of God.
 Therefore, putting away all filthiness and
 overflowing of wickedness, receive with humility the implanted word, which is
 able to
-<t xml:lang="es"><wi type="G" value="1352,1,">Entonces</wi>,
+<t xml:lang="es">
+<wi type="G" value="1352,1,">Entonces</wi>,
 <wi type="G" value="659,2,">dejen</wi>
 <wi type="G" value="3956,3,">toda</wi>
 <wi type="G" value="4507,4,">impureza</wi>
@@ -431,18 +474,22 @@ able to
 <wi type="G" value="1410,15,">puede</wi>
 </t>
 <rb>save your souls
-<t xml:lang="es"><wi type="G" value="4982,16,">salvar</wi>
+<t xml:lang="es">
+<wi type="G" value="4982,16,">salvar</wi>
 <wi type="G" value="5216,19,">sus</wi>
-<wi type="G" value="3588,17,"/><wi type="G" value="5590,18,">almas</wi></t><rf>
-or, preserve your life. 
-<t xml:lang="es">o preservar su vida.</t>
+<wi type="G" value="3588,17,"/><wi type="G" value="5590,18,">almas</wi>
+</t><rf>
+or, preserve your life. <t xml:lang="es"> o preservar su vida. </t>
 </rf>
-</rb>.<t xml:lang="es">.</t>
+</rb>.<t xml:lang="es">
+.
+</t>
 </sv>
 
 <sv id="Santiago-1-22">
 But be doers of the word, and not only hearers, deluding your own selves.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="1096,1,">sean</wi>
 <wi type="G" value="4163,3,">hacedores</wi>
 <wi type="G" value="3056,4,">de la palabra</wi>,
@@ -451,14 +498,16 @@ But be doers of the word, and not only hearers, deluding your own selves.
 <wi type="G" value="3440,7,">sólo</wi>
 <wi type="G" value="202,8,">oidores</wi>,
 <wi type="G" value="3884,9,">engañándose a</wi>
-<wi type="G" value="1438,10,">si mismos</wi>.</t>
+<wi type="G" value="1438,10,">si mismos</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-1-23">
 For
 if anyone is a hearer of the word and not a doer, he is like a man beholding
 his natural face in a mirror;
-<t xml:lang="es"><wi type="G" value="3754,1,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="3754,1,">Pues</wi>
 <wi type="G" value="1487,2,">si</wi>
 <wi type="G" value="5100,3,">alguno</wi> es
 <wi type="G" value="202,4,">oidor</wi>
@@ -475,13 +524,15 @@ his natural face in a mirror;
 <wi type="G" value="3588,14,"/><wi type="G" value="4383,15,">rostro</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="1078,17,">natural</wi>
 <wi type="G" value="1722,19,">en</wi>
-<wi type="G" value="2072,20,">un espejo</wi>;</t>
+<wi type="G" value="2072,20,">un espejo</wi>;
+</t>
 </sv>
 
 <sv id="Santiago-1-24">
 for he sees himself, and goes away, and
 immediately forgets what kind of man he was.
-<t xml:lang="es"><wi type="G" value="1063,2,">entonces</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">entonces</wi>
 <wi type="G" value="2657,1,">se ve</wi>
 <wi type="G" value="1438,3,">a si mismo</wi>,
 <wi type="G" value="2532,4,">y</wi>
@@ -490,14 +541,16 @@ immediately forgets what kind of man he was.
 <wi type="G" value="2112,7,">de inmediato</wi>
 <wi type="G" value="1950,8,">olvida</wi>
 <wi type="G" value="3697,9,">como</wi>
-<wi type="G" value="2258,10,">es</wi>.</t>
+<wi type="G" value="2258,10,">es</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-1-25">
 But he who looks into the
 perfect law, the law of freedom, and continues, not being a hearer who
 forgets but a doer of the work, this man will be blessed in what he does.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="3588,1,">al que</wi>
 <wi type="G" value="3879,3,">mira</wi>
 <wi type="G" value="1519,4,">en</wi>
@@ -523,14 +576,16 @@ forgets but a doer of the work, this man will be blessed in what he does.
 <wi type="G" value="846,25,">su</wi>
 <wi type="G" value="3588,23,"/><wi type="G" value="4162,24,">actuar</wi>.
 </t>
-</sv></cm>
+</sv>
+</cm>
 
 <cm>
 
 <sv id="Santiago-1-26">
 If anyone among you thinks himself to be religious while he doesn´t
 bridle his tongue, but deceives his heart, this man´s religion is worthless.
-<t xml:lang="es"><wi type="G" value="1487,1,">Si</wi>
+<t xml:lang="es">
+<wi type="G" value="1487,1,">Si</wi>
 <wi type="G" value="5100,2,">alguno</wi>
 <wi type="G" value="1722,6,">de</wi>
 <wi type="G" value="5213,7,">ustedes</wi>
@@ -549,16 +604,17 @@ pero
 <wi type="G" value="3588,18,">la</wi>
 <wi type="G" value="2356,19,">religión</wi>
 <wi type="G" value="5127,16,">de este hombre</wi>
-es <wi type="G" value="3152,17,">vana</wi>.
+es 
+<wi type="G" value="3152,17,">vana</wi>.
 </t>
-
 </sv>
 
 <sv id="Santiago-1-27">
 Pure religion and undefiled before our God and Father is this: to visit
 the fatherless and widows in their affliction, and to keep oneself unstained
 by the world.
-<t xml:lang="es"><wi type="G" value="2356,1,">La religión</wi>
+<t xml:lang="es">
+<wi type="G" value="2356,1,">La religión</wi>
 <wi type="G" value="2513,2,">pura</wi>
 <wi type="G" value="2532,3,">e</wi>
 <wi type="G" value="283,4,">incorrupta</wi>
@@ -582,17 +638,20 @@ y
 <wi type="G" value="575,23,">del</wi>
 <wi type="G" value="3588,24,"/><wi type="G" value="2889,25,">mundo</wi>.
 </t>
-
 <cl/>
-</sv></cm></sc>
+</sv>
+</cm>
+</sc>
 
 <sc id="Santiago-2">
+
 <cm>
 
 <sv id="Santiago-2-1">
 My brothers, don´t hold the faith of our Lord Jesus Christ of glory
 with partiality.
-<t xml:lang="es"><wi type="G" value="3450,2,">Mis</wi>
+<t xml:lang="es">
+<wi type="G" value="3450,2,">Mis</wi>
 <wi type="G" value="80,1,">hermanos</wi>,
 <wi type="G" value="3361,3,">no</wi>
 <wi type="G" value="2192,6,">tengan</wi>
@@ -605,13 +664,15 @@ with partiality.
 <wi type="G" value="3588,14,">de</wi>
 <wi type="G" value="1391,15,">gloria</wi>
 <wi type="G" value="1722,4,">con</wi>
-<wi type="G" value="4382,5,">parcialidad</wi>.</t>
+<wi type="G" value="4382,5,">parcialidad</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-2-2">
 For if a man with a gold ring, in fine clothing, comes
 into your
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="1437,1,">si</wi>
 <wi type="G" value="435,8,">un hombre</wi>
 <wi type="G" value="5554,9,">con un anillo de oro</wi>,
@@ -623,26 +684,30 @@ into your
 <wi type="G" value="5216,7,">su</wi>
 </t>
 <rb>synagogue
-<t xml:lang="es"><wi type="G" value="3588,5,"/><wi type="G" value="4864,6,">sinagoga</wi></t><rf>
-or, meeting 
-<t xml:lang="es">O reunión</t>
+<t xml:lang="es">
+<wi type="G" value="3588,5,"/><wi type="G" value="4864,6,">sinagoga</wi>
+</t><rf>
+or, meeting <t xml:lang="es"> O reunión </t>
 </rf>
 </rb>
 , and a poor man in filthy clothing also comes in;
-<t xml:lang="es">, <wi type="G" value="1161,14,">y</wi>
+<t xml:lang="es">
+, <wi type="G" value="1161,14,">y</wi>
 <wi type="G" value="4434,16,">un hombre pobre</wi>
 <wi type="G" value="1722,17,">en</wi>
 <wi type="G" value="2066,19,">ropa</wi>
 <wi type="G" value="4508,18,">inmunda</wi>
 <wi type="G" value="2532,15,">también</wi>
-<wi type="G" value="1525,13,">viene</wi>;</t>
+<wi type="G" value="1525,13,">viene</wi>;
+</t>
 </sv>
 
 <sv id="Santiago-2-3">
 and you pay special attention to him who wears the fine clothing, and say,
 «Sit here in a good place;» and you
 tell the poor man, «Stand there,» or «Sit by my footstool;»
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="1914,2,">le prestan atención especial</wi>
 <wi type="G" value="1909,3,">a</wi>
 <wi type="G" value="3588,4,">aquel que</wi>
@@ -653,17 +718,20 @@ tell the poor man, «Stand there,» or «Sit by my footstool;»
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="846,12,">le</wi>
 <wi type="G" value="2036,11,">dicen</wi>
-«<wi type="G" value="2521,14,"><wi type="G" value="4771,13,">Siéntate</wi></wi>
+«
+<wi type="G" value="2521,14,"><wi type="G" value="4771,13,">Siéntate</wi></wi>
 <wi type="G" value="5602,15,">aquí</wi>
 <wi type="G" value="2573,16,">en un buen lugar</wi>;»
 <wi type="G" value="2532,17,">y</wi>
 <wi type="G" value="3588,18,">al</wi>
 <wi type="G" value="4434,19,">pobre</wi>
 <wi type="G" value="2036,20,">le dicen</wi>
-«<wi type="G" value="2476,22,"><wi type="G" value="4771,21,">Párate</wi></wi>
+«
+<wi type="G" value="2476,22,"><wi type="G" value="4771,21,">Párate</wi></wi>
 <wi type="G" value="1563,23,">allá</wi>,»
 <wi type="G" value="2228,24,">o</wi>
-«<wi type="G" value="2521,25,">Siéntate</wi>
+«
+<wi type="G" value="2521,25,">Siéntate</wi>
 <wi type="G" value="5602,26,">aquí</wi>
 <wi type="G" value="5259,27,">debajo</wi>
 <wi type="G" value="3450,30,">de mi</wi>
@@ -674,7 +742,8 @@ tell the poor man, «Stand there,» or «Sit by my footstool;»
 <sv id="Santiago-2-4">
 haven´t you shown partiality among
 yourselves, and become judges with evil thoughts?
-<t xml:lang="es">¿<wi type="G" value="2532,6,">acaso</wi>
+<t xml:lang="es">
+¿<wi type="G" value="2532,6,">acaso</wi>
 <wi type="G" value="3756,2,">no</wi>
 <wi type="G" value="1252,3,">han mostrado parcialidad</wi>
 <wi type="G" value="1722,4,">entre</wi>
@@ -683,18 +752,21 @@ yourselves, and become judges with evil thoughts?
 <wi type="G" value="1096,7,">se han hecho</wi>
 <wi type="G" value="2923,8,">jueces</wi>
 <wi type="G" value="4190,10,">de malos</wi>
-<wi type="G" value="1261,9,">pensamientos</wi>?</t>
+<wi type="G" value="1261,9,">pensamientos</wi>?
+</t>
 </sv>
 
 <sv id="Santiago-2-5">
 Listen, my beloved
 brothers. Didn´t God choose those who are poor in this world to be rich in
 faith, and heirs of the Kingdom which he promised to those who love him?
-<t xml:lang="es"><wi type="G" value="191,1,">Escuchen</wi>,
+<t xml:lang="es">
+<wi type="G" value="191,1,">Escuchen</wi>,
 <wi type="G" value="3450,3,">mis</wi>
 <wi type="G" value="27,4,">amados</wi>
 <wi type="G" value="80,2,">hermanos</wi>.
-¿<wi type="G" value="3756,5,">No</wi>
+¿
+<wi type="G" value="3756,5,">No</wi>
 <wi type="G" value="1586,8,">ha escogido</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="2316,7,">Dios</wi>
 <wi type="G" value="3588,9,">a los que</wi> son
@@ -712,19 +784,22 @@ faith, and heirs of the Kingdom which he promised to those who love him?
 <wi type="G" value="1861,22,">ha prometido</wi>
 <wi type="G" value="3588,23,">a los que</wi>
 <wi type="G" value="846,25,">lo</wi>
-<wi type="G" value="25,24,">aman</wi>?</t>
+<wi type="G" value="25,24,">aman</wi>?
+</t>
 </sv>
 
 <sv id="Santiago-2-6">
 But you
 have dishonored the poor man. Don´t the rich oppress you,
 and personally drag you before the courts?
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="5210,1,">ustedes</wi>
 <wi type="G" value="818,3,">han deshonrado</wi>
 <wi type="G" value="3588,4,">al</wi>
 <wi type="G" value="4434,5,">pobre</wi>.
-¿<wi type="G" value="3756,6,">No</wi>
+¿
+<wi type="G" value="3756,6,">No</wi>
 <wi type="G" value="5216,10,">los</wi>
 <wi type="G" value="2616,9,">oprimen</wi>
 <wi type="G" value="3588,7,">los</wi>
@@ -734,19 +809,22 @@ and personally drag you before the courts?
 <wi type="G" value="5209,14,">los</wi>
 <wi type="G" value="1670,13,">arrastran</wi>
 <wi type="G" value="1519,15,">ante</wi>
-<wi type="G" value="2922,16,">las cortes</wi>?</t>
+<wi type="G" value="2922,16,">las cortes</wi>?
+</t>
 </sv>
 
 <sv id="Santiago-2-7">
 Don´t they blaspheme the
 honorable name by which you
 are called?
-<t xml:lang="es">¿<wi type="G" value="3756,1,">No</wi>
+<t xml:lang="es">
+¿<wi type="G" value="3756,1,">No</wi>
 <wi type="G" value="987,3,">blasfeman</wi>
 <wi type="G" value="846,2,">ellos</wi>
 <wi type="G" value="3588,4,">al</wi>
 <wi type="G" value="2570,5,">honorable</wi>
-<wi type="G" value="3686,6,">nombre</wi> </t>
+<wi type="G" value="3686,6,">nombre</wi> 
+</t>
 <rb xml:lang="es"><wi type="G" value="1909,9,">por</wi>
 <wi type="G" value="3588,7,">el cual</wi>
 <wi type="G" value="5209,10,">ustedes</wi>
@@ -754,15 +832,19 @@ are called?
 <citebib id="WEB"/> dice `por el cual ustedes son llamados,´ <citebib id="RVG2012"/> dice `que fue invocado sobre
 ustedes.´ Según <citebib id="Thayer-BLB"/> la palabra griega `επικληθεν' puede traducirse como llamar
 o poner un nombre o como invocar.
-</rf></rb>
-<t xml:lang="es">?</t>
+</rf>
+</rb>
+<t xml:lang="es">
+?
+</t>
 </sv>
 
 <sv id="Santiago-2-8">
 However, if you fulfill the royal law, according to the Scripture,
 «You shall love your neighbor as yourself,» you
 do well.
-<t xml:lang="es"><wi type="G" value="3305,2,">Sin embargo</wi>,
+<t xml:lang="es">
+<wi type="G" value="3305,2,">Sin embargo</wi>,
 <wi type="G" value="1487,1,">si</wi>
 <wi type="G" value="5055,4,">ustedes cumplen</wi>
 <wi type="G" value="3551,3,">la ley</wi>
@@ -770,7 +852,8 @@ do well.
 <wi type="G" value="2596,6,">acorde a</wi>
 <wi type="G" value="3588,7,">la</wi>
 <wi type="G" value="1124,8,">Escritura</wi>
-«<wi type="G" value="25,9,">Amarás a</wi>
+«
+<wi type="G" value="25,9,">Amarás a</wi>
 <wi type="G" value="4675,12,">tu</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="4139,11,">prójimo</wi>
 <wi type="G" value="5613,13,">como a</wi>
@@ -783,7 +866,8 @@ do well.
 <sv id="Santiago-2-9">
 But if you show partiality, you
 commit sin, being convicted by the law as transgressors.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="1487,1,">si</wi>
 <wi type="G" value="4380,3,">muestran parcialidad</wi>,
 <wi type="G" value="2038,5,">cometen</wi>
@@ -800,7 +884,8 @@ commit sin, being convicted by the law as transgressors.
 <sv id="Santiago-2-10">
 For whoever shall keep the whole law, and yet stumble in one point, he
 has become guilty of all.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="3748,1,">cualquiera</wi> que
 <wi type="G" value="5083,6,">guarde</wi>
 <wi type="G" value="3588,4,">la</wi>
@@ -812,21 +897,25 @@ has become guilty of all.
 <wi type="G" value="1520,10,">un</wi> punto,
 <wi type="G" value="1096,11,">se ha hecho</wi>
 <wi type="G" value="1777,13,">culpable</wi>
-<wi type="G" value="3956,12,">de toda</wi>. </t>
+<wi type="G" value="3956,12,">de toda</wi>. 
+</t>
 </sv>
 
 <sv id="Santiago-2-11">
 For he who said, «Do not commit adultery,»
 said also, «Do not commit murder.» Now if you do not commit adultery, but
 murder, you have become a transgressor of the law.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="3588,1,">el que</wi>
 <wi type="G" value="2036,3,">dijo</wi>,
-«<wi type="G" value="3361,4,">No</wi>
+«
+<wi type="G" value="3361,4,">No</wi>
 <wi type="G" value="3431,5,">adulteres</wi>,»
 <wi type="G" value="2532,7,">también</wi>
 <wi type="G" value="2036,6,">dijo</wi>,
-«<wi type="G" value="3361,8,">No</wi>
+«
+<wi type="G" value="3361,8,">No</wi>
 <wi type="G" value="5407,9,">mates</wi>.»
 <wi type="G" value="1161,11,">Ahora</wi>
 <wi type="G" value="1487,10,">si</wi>
@@ -843,7 +932,8 @@ murder, you have become a transgressor of the law.
 <sv id="Santiago-2-12">
 So speak, and
 so do, as men who are to be judged by a law of freedom.
-<t xml:lang="es"><wi type="G" value="2980,2,">Hablen</wi>
+<t xml:lang="es">
+<wi type="G" value="2980,2,">Hablen</wi>
 <wi type="G" value="3779,1,">así</wi>,
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="4160,5,">hagan</wi>
@@ -860,33 +950,39 @@ so do, as men who are to be judged by a law of freedom.
 <sv id="Santiago-2-13">
 For judgment is
 without mercy to him who has shown no mercy. Mercy triumphs over judgment.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="3588,1,">el</wi>
 <wi type="G" value="2920,3,">juicio</wi> es
 <wi type="G" value="448,4,">sin misericordia</wi>
-para <wi type="G" value="3588,5,">el que</wi>
+para 
+<wi type="G" value="3588,5,">el que</wi>
 <wi type="G" value="3361,6,">no</wi>
 <wi type="G" value="4160,7,">ha mostrado</wi>
 <wi type="G" value="1656,8,">misericordia</wi>.
 <wi type="G" value="2532,9,">Y</wi>
-<wi type="G" value="1656,11,">la misericordia</wi> </t>
+<wi type="G" value="1656,11,">la misericordia</wi> 
+</t>
 <rb xml:lang="es"><wi type="G" value="2620,10,">se regocija contra</wi><rf>
 <citebib id="WEB"/> dice `triunfa sobre,´ <citebib id="KJV2003"/> dice `so goza contra´ <citebib id="RVG2012"/> dice `se gloria
 contra.´ Según <citebib id="Thayer-BLB"/> la palabra griega `κατακαυχαται´ se traduce como jactarse a
 costa de, regocijarse sobre, vanagloriarse en detrimento de (una persona o
 cosa).
-</rf></rb>
+</rf>
+</rb>
 <t xml:lang="es">
 <wi type="G" value="2920,12,">el juicio</wi>.
 </t>
-</sv></cm>
+</sv>
+</cm>
 
 <cm>
 
 <sv id="Santiago-2-14">
 What good is it, my brothers, if a man says he has faith, but has no
 works? Can faith save him?
-<t xml:lang="es">¿<wi type="G" value="5101,1,">Qué</wi>
+<t xml:lang="es">
+¿<wi type="G" value="5101,1,">Qué</wi>
 <wi type="G" value="3588,2,"/><wi type="G" value="3786,3,">bien</wi> es,
 <wi type="G" value="3450,5,">mis</wi>
 <wi type="G" value="80,4,">hermanos</wi>,
@@ -899,17 +995,20 @@ works? Can faith save him?
 <wi type="G" value="3361,13,">no</wi>
 <wi type="G" value="2192,14,">tiene</wi>
 <wi type="G" value="2041,11,">obras</wi>?
-¿<wi type="G" value="3361,15,">No</wi>
+¿
+<wi type="G" value="3361,15,">No</wi>
 <wi type="G" value="1410,16,">puede</wi>
 <wi type="G" value="3588,17,">la</wi>
 <wi type="G" value="4102,18,">fe</wi>
-<wi type="G" value="4982,19,"><wi type="G" value="846,20,">salvarlo</wi></wi>?</t>
+<wi type="G" value="4982,19,"><wi type="G" value="846,20,">salvarlo</wi></wi>?
+</t>
 </sv>
 
 <sv id="Santiago-2-15">
 And if a brother or sister is naked and in
 lack of daily food,
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="1437,1,">si</wi>
 <wi type="G" value="80,3,">un hermano</wi>
 <wi type="G" value="2228,4,">o</wi>
@@ -928,13 +1027,15 @@ and one of you tells them, «Go in peace, be
 warmed and filled;» and yet you
 didn´t give them the things the body
 needs, what good is it?
-<t xml:lang="es"><wi type="G" value="1161,2,">y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">y</wi>
 <wi type="G" value="5100,3,">uno</wi>
 <wi type="G" value="1537,5,">de</wi>
 <wi type="G" value="5216,6,">ustedes</wi>
 <wi type="G" value="846,4,">les</wi>
 <wi type="G" value="2036,1,">dice</wi>,
-«<wi type="G" value="5217,7,">Vayan</wi>
+«
+<wi type="G" value="5217,7,">Vayan</wi>
 <wi type="G" value="1722,8,">en</wi>
 <wi type="G" value="1515,9,">paz</wi>,
 <wi type="G" value="2328,10,">caliéntense</wi>
@@ -948,14 +1049,16 @@ needs, what good is it?
 <wi type="G" value="2006,18,">necesario para</wi>
 <wi type="G" value="3588,19,">el</wi>
 <wi type="G" value="4983,20,">cuerpo</wi>,
-¿<wi type="G" value="5101,21,">de qué</wi>
+¿
+<wi type="G" value="5101,21,">de qué</wi>
 <wi type="G" value="3588,22,"/><wi type="G" value="3786,23,">sirve</wi>?
 </t>
 </sv>
 
 <sv id="Santiago-2-17">
 Even so faith, if it has no works, is dead in itself.
-<t xml:lang="es"><wi type="G" value="2532,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,2,">Y</wi>
 <wi type="G" value="3779,1,">así</wi>
 <wi type="G" value="3588,3,">la</wi>
 <wi type="G" value="4102,4,">fe</wi>,
@@ -966,16 +1069,19 @@ Even so faith, if it has no works, is dead in itself.
 <wi type="G" value="2076,10,">es</wi>
 <wi type="G" value="3498,9,">muerta</wi>
 <wi type="G" value="2596,11,">en</wi>
-<wi type="G" value="1438,12,">sí misma</wi>.</t>
+<wi type="G" value="1438,12,">sí misma</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-2-18">
 Yes, a man will say, «You have faith, and I have works.» Show
 me your faith from your works, and I by my works will show you my faith.
-<t xml:lang="es"><wi type="G" value="235,1,">Pero</wi>,
+<t xml:lang="es">
+<wi type="G" value="235,1,">Pero</wi>,
 <wi type="G" value="5100,3,">alguno</wi>
 <wi type="G" value="2046,2,">dirá</wi>,
-«<wi type="G" value="4771,4,">Tú</wi>
+«
+<wi type="G" value="4771,4,">Tú</wi>
 <wi type="G" value="2192,6,">tienes</wi>
 <wi type="G" value="4102,5,">fe</wi>,
 <wi type="G" value="2504,7,">yo</wi>
@@ -987,7 +1093,8 @@ me your faith from your works, and I by my works will show you my faith.
 <wi type="G" value="1537,15,">de</wi>
 <wi type="G" value="4675,18,">tus</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="2041,17,">obras</wi>,
-y <wi type="G" value="2504,19,">yo</wi>
+y 
+<wi type="G" value="2504,19,">yo</wi>
 <wi type="G" value="1537,22,">por</wi>
 <wi type="G" value="3450,25,">mis</wi>
 <wi type="G" value="3588,23,"/><wi type="G" value="2041,24,">obras</wi>
@@ -996,14 +1103,16 @@ y <wi type="G" value="2504,19,">yo</wi>
 <wi type="G" value="3450,28,">mi</wi>
 <wi type="G" value="3588,26,"/><wi type="G" value="4102,27,">fe</wi>.
 </t>
-</sv></cm>
+</sv>
+</cm>
 
 <cm>
 
 <sv id="Santiago-2-19">
 You believe that God is one. You do well. The demons also believe, and
 shudder.
-<t xml:lang="es"><wi type="G" value="4771,1,">Tú</wi>
+<t xml:lang="es">
+<wi type="G" value="4771,1,">Tú</wi>
 <wi type="G" value="4100,2,">crees</wi>
 <wi type="G" value="3754,3,">que</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="2316,5,">Dios</wi>
@@ -1023,7 +1132,8 @@ shudder.
 <sv id="Santiago-2-20">
 But do you want to know, vain man, that faith apart from works
 is dead?
-<t xml:lang="es">¿<wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+¿<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="2309,1,">quieres</wi>
 <wi type="G" value="1097,3,">saber</wi>,
 <wi type="G" value="5599,4,">Oh</wi>
@@ -1043,7 +1153,8 @@ is dead?
 <sv id="Santiago-2-21">
 Wasn´t Abraham our father justified by works, in that he
 offered up Isaac his son on the altar?
-<t xml:lang="es">¿<wi type="G" value="3756,5,">No</wi> 
+<t xml:lang="es">
+¿<wi type="G" value="3756,5,">No</wi> 
 <wi type="G" value="1344,8,">ha sido justificado</wi>
 <wi type="G" value="11,1,">Abraham</wi>,
 <wi type="G" value="2257,4,">nuestro</wi>
@@ -1056,13 +1167,15 @@ offered up Isaac his son on the altar?
 <wi type="G" value="3588,11,"/><wi type="G" value="5207,12,">hijo</wi>
 <wi type="G" value="1909,14,">en</wi>
 <wi type="G" value="3588,15,">el</wi>
-<wi type="G" value="2379,16,">altar</wi>?</t>
+<wi type="G" value="2379,16,">altar</wi>?
+</t>
 </sv>
 
 <sv id="Santiago-2-22">
 You see that faith worked with
 his works, and by works faith was perfected;
-<t xml:lang="es"><wi type="G" value="991,1,">Ves</wi>
+<t xml:lang="es">
+<wi type="G" value="991,1,">Ves</wi>
 <wi type="G" value="3754,2,">cómo</wi>
 <wi type="G" value="3588,3,">la</wi>
 <wi type="G" value="4102,4,">fe</wi>
@@ -1075,19 +1188,22 @@ his works, and by works faith was perfected;
 <wi type="G" value="2041,12,">obras</wi>
 <wi type="G" value="3588,13,">la</wi>
 <wi type="G" value="4102,14,">fe</wi>
-<wi type="G" value="5048,15,">ha sido perfeccionada</wi>; </t>
+<wi type="G" value="5048,15,">ha sido perfeccionada</wi>; 
+</t>
 </sv>
 
 <sv id="Santiago-2-23">
 and the Scripture was
 fulfilled which says, «Abraham believed God, and it was accounted to him as
 righteousness;» and he was called the friend of God.
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="4137,2,">se ha cumplido</wi>
 <wi type="G" value="3588,3,">la</wi>
 <wi type="G" value="1124,4,">Escritura</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="3004,6,">que dice</wi>,
-«<wi type="G" value="1161,8,"/><wi type="G" value="11,9,">Abraham</wi>
+«
+<wi type="G" value="1161,8,"/><wi type="G" value="11,9,">Abraham</wi>
 <wi type="G" value="846,14,">le</wi>
 <wi type="G" value="4100,7,">creyó a</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="2316,11,">Dios</wi>,
@@ -1105,7 +1221,8 @@ righteousness;» and he was called the friend of God.
 
 <sv id="Santiago-2-24">
 You see then that by works, a man is justified, and not only by faith.
-<t xml:lang="es"><wi type="G" value="3708,1,">Vean</wi>
+<t xml:lang="es">
+<wi type="G" value="3708,1,">Vean</wi>
 <wi type="G" value="5106,2,">entonces</wi>
 <wi type="G" value="3754,3,">que</wi>
 <wi type="G" value="1537,4,">por</wi>
@@ -1124,9 +1241,11 @@ You see then that by works, a man is justified, and not only by faith.
 In like
 manner wasn´t Rahab the prostitute also justified by works, in that she
 received the messengers, and sent them out another way?
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="3668,1,">así mismo</wi>
-¿<wi type="G" value="3756,7,">no</wi>
+¿
+<wi type="G" value="3756,7,">no</wi>
 <wi type="G" value="1344,10,">ha sido justificada</wi>
 <wi type="G" value="4460,4,">Rahab</wi>
 <wi type="G" value="3588,5,">la</wi>
@@ -1138,7 +1257,8 @@ received the messengers, and sent them out another way?
 <wi type="G" value="3588,12,">los</wi>
 <wi type="G" value="32,13,">mensajeros</wi>
 <wi type="G" value="2532,14,">y</wi>
-los <wi type="G" value="1544,17,">envió</wi> por
+los 
+<wi type="G" value="1544,17,">envió</wi> por
 <wi type="G" value="2087,15,">otro</wi>
 <wi type="G" value="3598,16,">camino</wi>?
 </t>
@@ -1147,7 +1267,8 @@ los <wi type="G" value="1544,17,">envió</wi> por
 <sv id="Santiago-2-26">
 For as the body
 apart from the spirit is dead, even so faith apart from works is dead.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="5618,1,">así como</wi>
 <wi type="G" value="3588,3,">el</wi>
 <wi type="G" value="4983,4,">cuerpo</wi>
@@ -1166,15 +1287,19 @@ apart from the spirit is dead, even so faith apart from works is dead.
 <wi type="G" value="3498,16,">muerta</wi>.
 </t>
 <cl/>
-</sv></cm></sc>
+</sv>
+</cm>
+</sc>
 
 <sc id="Santiago-3">
+
 <cm>
 
 <sv id="Santiago-3-1">
 Let not many of you be teachers, my brothers, knowing that we will
 receive heavier judgment.
-<t xml:lang="es">Que <wi type="G" value="3361,1,">no</wi>
+<t xml:lang="es">
+Que <wi type="G" value="3361,1,">no</wi>
 <wi type="G" value="4183,2,">muchos</wi>
 <wi type="G" value="1096,4,">sean</wi>
 <wi type="G" value="1320,3,">maestros</wi>,
@@ -1182,20 +1307,24 @@ receive heavier judgment.
 <wi type="G" value="80,5,">hermanos</wi>,
 <wi type="G" value="1492,7,">sabiendo</wi>
 <wi type="G" value="3754,8,">que</wi>
-<wi type="G" value="2983,11,">recibiremos</wi> </t>
+<wi type="G" value="2983,11,">recibiremos</wi> 
+</t>
 <rb xml:lang="es"><wi type="G" value="2917,10,">un juicio</wi><rf>
 <citebib id="WEB"/> dice `juicio,´ <citebib id="RVG2012"/> dice `condenación.´ Según <citebib id="Thayer-BLB"/> la palabra griega κριμα
 se define como una decisión, condenación, juicio.
-</rf></rb>
+</rf>
+</rb>
 <t xml:lang="es">
-<wi type="G" value="3173,9,">mayor</wi>.</t>
+<wi type="G" value="3173,9,">mayor</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-3-2">
 For in many things we all stumble. If anyone
 doesn´t stumble in word, the same is a perfect man, able to bridle the whole
 body also.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="4183,1,">en muchas cosas</wi>
 <wi type="G" value="4417,3,">ofendemos</wi>
 <wi type="G" value="537,4,">todos</wi>.
@@ -1213,13 +1342,15 @@ body also.
 <wi type="G" value="2532,16,">también</wi>
 <wi type="G" value="3588,18,">el</wi>
 <wi type="G" value="4983,19,">cuerpo</wi>
-<wi type="G" value="3650,17,">entero</wi>.</t>
+<wi type="G" value="3650,17,">entero</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-3-3">
 Indeed, we put bits into the horses´ mouths so that they may
 obey us, and we guide their whole body.
-<t xml:lang="es"><wi type="G" value="2400,1,">Observa</wi>,
+<t xml:lang="es">
+<wi type="G" value="2400,1,">Observa</wi>,
 <wi type="G" value="906,9,">ponemos</wi>
 <wi type="G" value="3588,4,">las</wi>
 <wi type="G" value="5469,5,">embocaduras</wi>
@@ -1244,7 +1375,8 @@ obey us, and we guide their whole body.
 Behold, the ships also, though
 they are so big and are driven by fierce winds, are yet guided by a very
 small rudder, wherever the pilot desires.
-<t xml:lang="es"><wi type="G" value="2400,1,">Observa</wi>,
+<t xml:lang="es">
+<wi type="G" value="2400,1,">Observa</wi>,
 <wi type="G" value="3588,3,">los</wi>
 <wi type="G" value="4143,4,">barcos</wi>
 <wi type="G" value="2532,2,">también</wi>,
@@ -1265,14 +1397,16 @@ small rudder, wherever the pilot desires.
 <wi type="G" value="3730,19,">movimiento</wi>
 <wi type="G" value="3588,20,">del</wi>
 <wi type="G" value="2116,21,">piloto</wi>
-<wi type="G" value="1014,22,">determine</wi>.</t>
+<wi type="G" value="1014,22,">determine</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-3-5">
 So the tongue is also a little
 member, and boasts great things. See how a small fire can spread to a large
 forest!
-<t xml:lang="es"><wi type="G" value="3779,1,">Así</wi>
+<t xml:lang="es">
+<wi type="G" value="3779,1,">Así</wi>
 <wi type="G" value="2532,2,">también</wi>
 <wi type="G" value="3588,3,">la</wi>
 <wi type="G" value="1100,4,">lengua</wi>
@@ -1281,23 +1415,29 @@ forest!
 <wi type="G" value="3196,6,">miembro</wi>,
 <wi type="G" value="2532,8,">pero</wi>
 <wi type="G" value="3166,9,">presume de grandes cosas</wi>.
-¡<wi type="G" value="2400,10,">Miren como</wi>
+¡
+<wi type="G" value="2400,10,">Miren como</wi>
 <wi type="G" value="3641,11,">un pequeño</wi>
 <wi type="G" value="4442,12,">fuego</wi>
 <wi type="G" value="381,15,">enciende</wi>
-<wi type="G" value="2245,13,">un gran</wi> </t>
+<wi type="G" value="2245,13,">un gran</wi> 
+</t>
 <rb xml:lang="es"><wi type="G" value="5208,14,">bosque</wi><rf>
 <citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `bosque,´ <citebib id="KJV2003"/> dice `asunto.´ Según <citebib id="Thayer-BLB"/> la palabra griega
 υλην se traduce como bosque, madera, combustible.
-</rf></rb>
-<t xml:lang="es">!</t>
+</rf>
+</rb>
+<t xml:lang="es">
+!
+</t>
 </sv>
 
 <sv id="Santiago-3-6">
 And the tongue is a fire. The world of iniquity among our
 members is the tongue, which defiles the whole body, and sets on fire the
 course of nature, and is set on fire by
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="3588,2,">la</wi>
 <wi type="G" value="1100,3,">lengua</wi> es
 <wi type="G" value="4442,4,">un fuego</wi>.
@@ -1306,7 +1446,8 @@ course of nature, and is set on fire by
 <wi type="G" value="3588,7,">de</wi>
 <wi type="G" value="93,8,">iniquidad</wi>;
 <wi type="G" value="3779,9,">así</wi>
-es <wi type="G" value="3588,10,">la</wi>
+es 
+<wi type="G" value="3588,10,">la</wi>
 <wi type="G" value="1100,11,">lengua</wi>
 <wi type="G" value="1722,13,">entre</wi>
 <wi type="G" value="2257,16,">nuestros</wi>
@@ -1327,21 +1468,25 @@ es <wi type="G" value="3588,10,">la</wi>
 <wi type="G" value="5259,30,">por</wi>
 </t>
 <rb>Gehenna.
-<t xml:lang="es"><wi type="G" value="3588,31,">la</wi>
-<wi type="G" value="1067,32,">Gehena</wi></t><rf>
+<t xml:lang="es">
+<wi type="G" value="3588,31,">la</wi>
+<wi type="G" value="1067,32,">Gehena</wi>
+</t><rf>
 Gehenna is a name that describes a burning Hell with rotting bodies and unclean
-things in it 
-<t xml:lang="es">Gehena es un nombre que describe un infierno ardiente con
-cuerpos en descomposición y cosas impuras.</t>
+things in it <t xml:lang="es"> Gehena es un nombre que describe un infierno ardiente con
+cuerpos en descomposición y cosas impuras. </t>
 </rf>
 </rb>
-<t xml:lang="es">. </t>
+<t xml:lang="es">
+. 
+</t>
 </sv>
 
 <sv id="Santiago-3-7">
 For every kind of animal, bird, creeping thing, and thing in the
 sea, is tamed, and has been tamed by mankind.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="3956,1,">toda</wi>
 <wi type="G" value="5449,3,">clase</wi>
 <wi type="G" value="2342,4,">de animal</wi>,
@@ -1364,9 +1509,9 @@ por
 <sv id="Santiago-3-8">
 But nobody can tame the
 tongue. It is a restless evil, full of deadly poison.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
-<wi type="G"
-value="3762,4,"><wi type="G" value="444,6,">nadie</wi></wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="3762,4,"><wi type="G" value="444,6,">nadie</wi></wi>
 <wi type="G" value="1410,5,">puede</wi>
 <wi type="G" value="1150,7,">domar</wi>
 <wi type="G" value="1100,3,">la lengua</wi>. Es
@@ -1374,13 +1519,15 @@ value="3762,4,"><wi type="G" value="444,6,">nadie</wi></wi>
 <wi type="G" value="183,8,">ingobernable</wi>,
 <wi type="G" value="3324,10,">lleno</wi>
 <wi type="G" value="2447,11,">de veneno</wi>
-<wi type="G" value="2287,12,">mortal</wi>.</t>
+<wi type="G" value="2287,12,">mortal</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-3-9">
 With it we bless our God and Father, and with it we curse men,
 who are made in the image of God.
-<t xml:lang="es"><wi type="G" value="1722,1,">Con</wi>
+<t xml:lang="es">
+<wi type="G" value="1722,1,">Con</wi>
 <wi type="G" value="846,2,">esta</wi>
 <wi type="G" value="2127,3,">bendecimos</wi>
 <wi type="G" value="3588,4,">al</wi>
@@ -1397,13 +1544,15 @@ who are made in the image of God.
 <wi type="G" value="1096,18,">fueron hechos</wi>
 <wi type="G" value="2596,15,">a</wi>
 <wi type="G" value="3669,16,">la imagen</wi>
-<wi type="G" value="2316,17,">de Dios</wi>.</t>
+<wi type="G" value="2316,17,">de Dios</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-3-10">
 Out of the same mouth comes forth blessing and cursing. My
 brothers, these things ought not to be so.
-<t xml:lang="es"><wi type="G" value="1537,1,">De</wi>
+<t xml:lang="es">
+<wi type="G" value="1537,1,">De</wi>
 <wi type="G" value="3588,2,">la</wi>
 <wi type="G" value="846,3,">misma</wi>
 <wi type="G" value="4750,4,">boca</wi>
@@ -1424,7 +1573,8 @@ brothers, these things ought not to be so.
 <sv id="Santiago-3-11">
 Does a spring send out from
 the same opening fresh and bitter water?
-<t xml:lang="es">¿<wi type="G" value="3385,1,">Acaso</wi>
+<t xml:lang="es">
+¿<wi type="G" value="3385,1,">Acaso</wi>
 <wi type="G" value="3588,2,">una</wi>
 <wi type="G" value="4077,3,">fuente</wi>
 <wi type="G" value="1537,4,">de</wi>
@@ -1434,14 +1584,16 @@ the same opening fresh and bitter water?
 <wi type="G" value="1032,8,">da</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="1099,10,">agua fresca</wi>
 <wi type="G" value="2532,11,">y</wi>
-<wi type="G" value="3588,12,"/><wi type="G" value="4089,13,">agua amarga</wi>?</t>
+<wi type="G" value="3588,12,"/><wi type="G" value="4089,13,">agua amarga</wi>?
+</t>
 </sv>
 
 <sv id="Santiago-3-12">
 Can a fig tree, my brothers,
 yield olives, or a vine figs? Thus no spring yields both salt water and fresh
 water.
-<t xml:lang="es"><wi type="G" value="3361,1,"/><wi type="G" value="1410,2,">Puede</wi>
+<t xml:lang="es">
+<wi type="G" value="3361,1,"/><wi type="G" value="1410,2,">Puede</wi>
 <wi type="G" value="4808,5,">una higuera</wi>,
 <wi type="G" value="3450,4,">mis</wi>
 <wi type="G" value="80,3,">hermanos</wi>,
@@ -1457,15 +1609,17 @@ water.
 <wi type="G" value="5204,18,">agua</wi>
 <wi type="G" value="252,14,">salada</wi>
 <wi type="G" value="2532,15,">como</wi>
-agua <wi type="G" value="1099,16,">fresca</wi>.
+agua 
+<wi type="G" value="1099,16,">fresca</wi>.
 </t>
-
-</sv></cm><cm>
+</sv>
+</cm><cm>
 
 <sv id="Santiago-3-13">
 Who is wise and understanding among you? Let him show by his good
 conduct that his deeds are done in gentleness of wisdom.
-<t xml:lang="es">¿<wi type="G" value="5101,1,">Quién</wi> es
+<t xml:lang="es">
+¿<wi type="G" value="5101,1,">Quién</wi> es
 <wi type="G" value="4680,2,">sabio</wi>
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="1990,4,">entendido</wi>
@@ -1488,25 +1642,31 @@ But if
 you
 <wi type="T" value="P"/> have bitter jealousy and selfish ambition in your heart, don´t boast
 and don´t lie against the truth.
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="1487,1,">si</wi>
 <wi type="G" value="2192,5,">ustedes tienen</wi>
 <wi type="G" value="2205,3,">celos</wi>
 <wi type="G" value="4089,4,">amargos</wi>
-<wi type="G" value="2532,6,">y</wi> </t>
+<wi type="G" value="2532,6,">y</wi> 
+</t>
 <rb xml:lang="es"><wi type="G" value="2052,7,">rivalidad</wi><rf>
 <citebib id="WEB"/> dice `ambiciones egoístas,´ <citebib id="RVG2012"/> dice `contención,´ <citebib id="KJV2003"/> dice `lucha.´ La
 palabra griega `εριθειαν´ según Strong de <citebib id="Thayer-BLB"/> se traduce como intriga, facción,
 contienda, disputa. La hemos traducido en otros pasajes como rivalidad.
-</rf></rb>
+</rf>
+</rb>
 <t xml:lang="es">
-<wi type="G" value="1722,8,">en</wi> </t>
+<wi type="G" value="1722,8,">en</wi> 
+</t>
 <rb xml:lang="es"><wi type="G" value="5216,11,">su</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="2588,10,">corazón</wi><rf>
 <citebib id="WEB"/> y <citebib id="RVG2012"/> dicen `su corazón,` <citebib id="KJV2003"/> dice `sus corazones.` En griego sus está en
 plural, mientras que corazón está en singular.
-</rf></rb>
-<t xml:lang="es">,
+</rf>
+</rb>
+<t xml:lang="es">
+,
 <wi type="G" value="3361,12,">no</wi>
 <wi type="G" value="2620,13,">presuman</wi>
 <wi type="G" value="2532,14,">ni</wi>
@@ -1520,7 +1680,8 @@ plural, mientras que corazón está en singular.
 <sv id="Santiago-3-15">
 This wisdom is not that which comes
 down from above, but is earthly, sensual, and demonic.
-<t xml:lang="es"><wi type="G" value="3778,3,">Esta</wi>
+<t xml:lang="es">
+<wi type="G" value="3778,3,">Esta</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="4678,5,">sabiduría</wi>
 <wi type="G" value="3756,1,">no</wi>
 <wi type="G" value="2076,2,">es</wi> la que
@@ -1536,7 +1697,8 @@ down from above, but is earthly, sensual, and demonic.
 <sv id="Santiago-3-16">
 For where
 jealousy and selfish ambition are, there is confusion and every evil deed.
-<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="1063,2,">Pues</wi>
 <wi type="G" value="3699,1,">donde</wi>
 <wi type="G" value="2205,3,">hay envidia</wi>
 <wi type="G" value="2532,4,">y</wi>
@@ -1546,18 +1708,21 @@ jealousy and selfish ambition are, there is confusion and every evil deed.
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="3956,9,">toda</wi>
 <wi type="G" value="4229,11,">obra</wi>
-<wi type="G" value="5337,10,">perversa</wi>.</t>
+<wi type="G" value="5337,10,">perversa</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-3-17">
 But the wisdom that is from above is first pure, then peaceful, gentle,
 reasonable, full of mercy and good fruits, without partiality, and without
 hypocrisy.
-<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="4678,4,">la sabiduría</wi>
 <wi type="G" value="2076,8,">que es</wi>
 <wi type="G" value="509,3,">de arriba</wi>
-es <wi type="G" value="4412,5,">primero</wi>
+es 
+<wi type="G" value="4412,5,">primero</wi>
 <wi type="G" value="3303,6,"/><wi type="G" value="53,7,">pura</wi>,
 <wi type="G" value="1899,9,">después</wi>
 <wi type="G" value="1516,10,">pacífica</wi>,
@@ -1570,13 +1735,15 @@ es <wi type="G" value="4412,5,">primero</wi>
 <wi type="G" value="2590,16,">frutos</wi>,
 <wi type="G" value="87,18,">sin parcialidad</wi>,
 <wi type="G" value="2532,19,">y</wi>
-<wi type="G" value="505,20,">sin hipocresía</wi>.</t>
+<wi type="G" value="505,20,">sin hipocresía</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-3-18">
 Now the fruit of righteousness is sown in peace by those who
 make peace.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="2590,1,">el fruto</wi>
 <wi type="G" value="3588,3,">de la</wi>
 <wi type="G" value="1343,4,">justicia</wi>
@@ -1585,24 +1752,29 @@ make peace.
 <wi type="G" value="1515,6,">paz</wi>
 <wi type="G" value="3588,8,">para quienes</wi>
 <wi type="G" value="4160,9,">hacen</wi>
-<wi type="G" value="1515,10,">la paz</wi>.</t>
-
+<wi type="G" value="1515,10,">la paz</wi>.
+</t>
 <cl/>
-
-</sv></cm></sc>
+</sv>
+</cm>
+</sc>
 <sc id="Santiago-4">
+
 <cm>
 
 <sv id="Santiago-4-1">
 Where do wars and fightings among you come from? Don´t they come
 from your pleasures that war in your members?
-<t xml:lang="es">¿<wi type="G" value="4159,1,">De dónde</wi> vienen
+<t xml:lang="es">
+¿<wi type="G" value="4159,1,">De dónde</wi> vienen
 <wi type="G" value="4171,2,">las guerras</wi>
 <wi type="G" value="2532,3,">y</wi>
 <wi type="G" value="3163,4,">peleas</wi>
 <wi type="G" value="1722,5,">entre</wi>
 <wi type="G" value="5213,6,">ustedes</wi>?
-¿<wi type="G" value="3756,7,">No</wi> es <wi type="G" value="1782,8,">acaso</wi>
+¿
+<wi type="G" value="3756,7,">No</wi> es 
+<wi type="G" value="1782,8,">acaso</wi>
 <wi type="G" value="1537,9,">de</wi>
 <wi type="G" value="5216,12,">sus</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="2237,11,">placeres</wi>
@@ -1622,7 +1794,8 @@ have. You
 You
 <wi type="T" value="P"/> don´t have, because you
 <wi type="T" value="P"/> don´t ask.
-<t xml:lang="es"><wi type="G" value="1937,1,">Ustedes desean</wi>,
+<t xml:lang="es">
+<wi type="G" value="1937,1,">Ustedes desean</wi>,
 <wi type="G" value="2532,2,">y</wi>
 <wi type="G" value="3756,3,">no</wi>
 <wi type="G" value="2192,4,">tienen</wi>.
@@ -1631,7 +1804,6 @@ You
 <wi type="G" value="2206,7,">envidian</wi>
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="3756,9,">no</wi>
-
 <wi type="G" value="1410,10,">pueden</wi>
 <wi type="G" value="2013,11,">obtener</wi>.
 <wi type="G" value="3164,12,">Pelean</wi>
@@ -1654,7 +1826,8 @@ receive, because you
 <wi type="T" value="P"/> ask with wrong motives, so that you
 <wi type="T" value="P"/> may spend
 it for your pleasures.
-<t xml:lang="es"><wi type="G" value="154,1,">Ustedes piden</wi>
+<t xml:lang="es">
+<wi type="G" value="154,1,">Ustedes piden</wi>
 <wi type="G" value="2532,2,">y</wi>
 <wi type="G" value="3756,3,">no</wi>
 <wi type="G" value="2983,4,">reciben</wi>,
@@ -1665,7 +1838,8 @@ it for your pleasures.
 <wi type="G" value="1159,13,">gastar</wi>
 <wi type="G" value="1722,9,">en</wi>
 <wi type="G" value="5216,12,">sus</wi>
-<wi type="G" value="3588,10,"/><wi type="G" value="2237,11,">placeres</wi>.</t>
+<wi type="G" value="3588,10,"/><wi type="G" value="2237,11,">placeres</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-4-4">
@@ -1674,10 +1848,12 @@ You
 you
 <wi type="T" value="P"/> know that friendship with the world is enmity with God? Whoever
 therefore wants to be a friend of the world makes himself an enemy of God.
-<t xml:lang="es"><wi type="G" value="3432,1,">Ustedes adúlteros</wi>
+<t xml:lang="es">
+<wi type="G" value="3432,1,">Ustedes adúlteros</wi>
 <wi type="G" value="2532,2,">y</wi>
 <wi type="G" value="3428,3,">adúlteras</wi>,
-¿<wi type="G" value="3756,4,">no</wi>
+¿
+<wi type="G" value="3756,4,">no</wi>
 <wi type="G" value="1492,5,">saben</wi>
 <wi type="G" value="3754,6,">que</wi>
 <wi type="G" value="3588,7,">la</wi>
@@ -1706,14 +1882,16 @@ con
 <sv id="Santiago-4-5">
 Or do you think that the Scripture says in vain, «The Spirit who
 lives in us yearns jealously»?
-<t xml:lang="es">¿<wi type="G" value="2228,1,">O</wi>
+<t xml:lang="es">
+¿<wi type="G" value="2228,1,">O</wi>
 <wi type="G" value="1380,2,">piensan</wi>
 <wi type="G" value="3754,3,">que</wi>
 <wi type="G" value="3588,5,">la</wi>
 <wi type="G" value="1124,6,">Escritura</wi>
 <wi type="G" value="3004,7,">dice</wi>
 <wi type="G" value="2761,4,">en vano</wi>,
-«<wi type="G" value="3588,11,">El</wi>
+«
+<wi type="G" value="3588,11,">El</wi>
 <wi type="G" value="4151,12,">espíritu</wi>
 <wi type="G" value="3739,13,">que</wi>
 <wi type="G" value="2730,14,">ha habitado</wi>
@@ -1728,13 +1906,15 @@ lives in us yearns jealously»?
 <sv id="Santiago-4-6">
 But he gives more grace. Therefore it
 says, «God resists the proud, but gives grace to the humble.»
-<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="1325,3,">da</wi>
 <wi type="G" value="3173,1,">más</wi>
 <wi type="G" value="5485,4,">gracia</wi>.
 <wi type="G" value="1352,5,">Por tanto</wi>
 <wi type="G" value="3004,6,">dice</wi>
-«<wi type="G" value="3588,7,"/><wi type="G" value="2316,8,">Dios</wi>
+«
+<wi type="G" value="3588,7,"/><wi type="G" value="2316,8,">Dios</wi>
 <wi type="G" value="498,10,">resiste</wi>
 <wi type="G" value="5244,9,">a los orgullosos</wi>,
 <wi type="G" value="1161,12,">pero</wi>
@@ -1747,7 +1927,8 @@ says, «God resists the proud, but gives grace to the humble.»
 <sv id="Santiago-4-7">
 Be subject
 therefore to God. But resist the devil, and he will flee from you.
-<t xml:lang="es"><wi type="G" value="3767,2,">Por tanto</wi>
+<t xml:lang="es">
+<wi type="G" value="3767,2,">Por tanto</wi>
 <wi type="G" value="5293,1,">sométanse a</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="2316,4,">Dios</wi>.
 <wi type="G" value="436,5,">Resistan al</wi>
@@ -1762,7 +1943,8 @@ therefore to God. But resist the devil, and he will flee from you.
 <sv id="Santiago-4-8">
 Draw near to God, and he will draw near to you. Cleanse your hands, you
 sinners; and purify your hearts, you double-minded.
-<t xml:lang="es"><wi type="G" value="1448,1,">Acérquense a</wi>
+<t xml:lang="es">
+<wi type="G" value="1448,1,">Acérquense a</wi>
 <wi type="G" value="3588,2,"/><wi type="G" value="2316,3,">Dios</wi>,
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="1448,5,">Él se acercará a</wi>
@@ -1773,13 +1955,16 @@ sinners; and purify your hearts, you double-minded.
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="48,11,">purifiquen</wi> sus
 <wi type="G" value="2588,12,">corazones</wi>,
-los de <wi type="G" value="1374,13,">mente doble</wi>.</t>
+los de 
+<wi type="G" value="1374,13,">mente doble</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-4-9">
 Lament, mourn,
 and weep. Let your laughter be turned to mourning, and your joy to gloom.
-<t xml:lang="es"><wi type="G" value="5003,1,">Laméntense</wi>,
+<t xml:lang="es">
+<wi type="G" value="5003,1,">Laméntense</wi>,
 <wi type="G" value="2532,2,"/><wi type="G" value="3996,3,">guarden luto</wi>
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="2799,5,">lloren</wi>.
@@ -1793,13 +1978,14 @@ and weep. Let your laughter be turned to mourning, and your joy to gloom.
 <wi type="G" value="3588,13,">la</wi>
 <wi type="G" value="5479,14,">alegría</wi>
 <wi type="G" value="1519,15,">en</wi>
-<wi type="G" value="2726,16,">tristeza</wi>.</t>
-
+<wi type="G" value="2726,16,">tristeza</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-4-10">
 Humble yourselves in the sight of the Lord, and he will exalt you.
-<t xml:lang="es"><wi type="G" value="5013,1,">Humíllense</wi>
+<t xml:lang="es">
+<wi type="G" value="5013,1,">Humíllense</wi>
 <wi type="G" value="1799,2,">delante</wi>
 <wi type="G" value="3588,3,">del</wi>
 <wi type="G" value="2962,4,">Señor</wi>
@@ -1808,7 +1994,8 @@ Humble yourselves in the sight of the Lord, and he will exalt you.
 <wi type="G" value="5209,7,">los</wi>
 <wi type="GC" value="6">exaltará</wi>.
 </t>
-</sv></cm>
+</sv>
+</cm>
 
 <cm>
 
@@ -1816,7 +2003,8 @@ Humble yourselves in the sight of the Lord, and he will exalt you.
 Don´t speak against one another, brothers. He who speaks against a
 brother and judges his brother, speaks against the law and judges the law.
 But if you judge the law, you are not a doer of the law, but a judge.
-<t xml:lang="es"><wi type="G" value="3361,1,">No</wi>
+<t xml:lang="es">
+<wi type="G" value="3361,1,">No</wi>
 <wi type="G" value="2635,2,">hablen mal</wi>
 <wi type="G" value="240,3,">unos de otros</wi>,
 <wi type="G" value="80,4,">hermanos</wi>.
@@ -1848,7 +2036,8 @@ But if you judge the law, you are not a doer of the law, but a judge.
 <sv id="Santiago-4-12">
 Only one is the lawgiver, who is able to save and to destroy. But who
 are you to judge another?
-<t xml:lang="es"><wi type="G" value="2076,2,">Hay</wi>
+<t xml:lang="es">
+<wi type="G" value="2076,2,">Hay</wi>
 <wi type="G" value="1520,1,">un</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="3550,4,">dador de la ley</wi>,
 <wi type="G" value="3588,5,">quien</wi>
@@ -1856,13 +2045,16 @@ are you to judge another?
 <wi type="G" value="4982,7,">salvar</wi>
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="622,9,">destruir</wi>.
-¿<wi type="G" value="5101,11,">Quién</wi>
+¿
+<wi type="G" value="5101,11,">Quién</wi>
 <wi type="G" value="1488,12,">eres</wi>
 <wi type="G" value="4771,10,">tú</wi>
 <wi type="G" value="3739,13,">para</wi>
 <wi type="G" value="2919,14,">juzgar a</wi>
-<wi type="G" value="3588,15,"/><wi type="G" value="2087,16,">otros</wi>?</t>
-</sv></cm>
+<wi type="G" value="3588,15,"/><wi type="G" value="2087,16,">otros</wi>?
+</t>
+</sv>
+</cm>
 
 <cm>
 
@@ -1870,11 +2062,13 @@ are you to judge another?
 Come now, you
 <wi type="T" value="P"/> who say, «Today or tomorrow let´s go into this city,
 and spend a year there, trade, and make a profit.»
-<t xml:lang="es"><wi type="G" value="71,1,">Vengan</wi>
+<t xml:lang="es">
+<wi type="G" value="71,1,">Vengan</wi>
 <wi type="G" value="3568,2,">ahora</wi>,
 <wi type="G" value="3588,3,">los que</wi>
 <wi type="G" value="3004,4,">dicen</wi>,
-«<wi type="G" value="4594,5,">Hoy</wi>
+«
+<wi type="G" value="4594,5,">Hoy</wi>
 <wi type="G" value="2532,6,">o</wi>
 <wi type="G" value="839,7,">mañana</wi>
 <wi type="G" value="4198,8,">vayamos</wi>
@@ -1898,14 +2092,16 @@ Whereas you
 don´t know what your life will be like tomorrow. For what is your life? For
 you
 <wi type="T" value="P"/> are a vapor, that appears for a little time, and then vanishes away.
-<t xml:lang="es"><wi type="G" value="3748,1,">Pues</wi>
+<t xml:lang="es">
+<wi type="G" value="3748,1,">Pues</wi>
 <wi type="G" value="3756,2,">no</wi>
 <wi type="G" value="1987,3,">saben</wi>
 <wi type="G" value="3588,4,">lo que</wi>
 será
 <wi type="G" value="3588,5,"/><wi type="G" value="839,6,">mañana</wi>.
 <wi type="G" value="1063,8,">Porque</wi>
-¿<wi type="G" value="4169,7,">qué</wi> es
+¿
+<wi type="G" value="4169,7,">qué</wi> es
 <wi type="G" value="3588,9,">la</wi>
 <wi type="G" value="2222,10,">vida</wi>
 <wi type="G" value="5216,11,">de ustedes</wi>?
@@ -1925,10 +2121,12 @@ será
 For you
 <wi type="T" value="P"/> ought to say, «If the Lord wills, we will both live, and
 do this or that.»
-<t xml:lang="es"><wi type="G" value="473,1,">Por lo tanto</wi>
+<t xml:lang="es">
+<wi type="G" value="473,1,">Por lo tanto</wi>
 <wi type="G" value="5209,4,">ustedes</wi> deberían
 <wi type="G" value="3588,2,"/><wi type="G" value="3004,3,">decir</wi>,
-«<wi type="G" value="1437,5,">Si</wi>
+«
+<wi type="G" value="1437,5,">Si</wi>
 <wi type="G" value="3588,6,">el</wi>
 <wi type="G" value="2962,7,">Señor</wi>
 <wi type="G" value="2309,8,">quiere</wi>,
@@ -1945,23 +2143,27 @@ do this or that.»
 But now you
 <wi type="T" value="P"/> glory in your boasting. All such
 boasting is evil.
-<t xml:lang="es"><wi type="G" value="1161,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="3568,1,">ahora</wi>
 <wi type="G" value="2744,3,">se alegran</wi>
 <wi type="G" value="1722,4,">en</wi>
-lo que <wi type="G" value="5216,7,">ustedes</wi>
+lo que 
+<wi type="G" value="5216,7,">ustedes</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="212,6,">presumen</wi>.
 <wi type="G" value="3956,8,">Toda</wi>
 <wi type="G" value="5108,10,">esa</wi>
 <wi type="G" value="2746,9,">alegría</wi>
 <wi type="G" value="2076,12,">es</wi>
-<wi type="G" value="4190,11,">maldad</wi>.</t>
+<wi type="G" value="4190,11,">maldad</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-4-17">
 To him therefore who knows to do good, and doesn´t do
 it, to him it is sin.
-<t xml:lang="es"><wi type="G" value="3767,2,">Por tanto</wi>
+<t xml:lang="es">
+<wi type="G" value="3767,2,">Por tanto</wi>
 <wi type="G" value="1492,1,">al que sabe</wi>
 <wi type="G" value="4160,4,">hacer</wi>
 <wi type="G" value="2570,3,">el bien</wi>
@@ -1970,21 +2172,27 @@ it, to him it is sin.
 <wi type="G" value="4160,7,">hace</wi>,
 <wi type="G" value="846,9,">para él</wi>
 <wi type="G" value="2076,10,">es</wi>
-<wi type="G" value="266,8,">pecado</wi>.</t>
+<wi type="G" value="266,8,">pecado</wi>.
+</t>
 <cl/>
-</sv></cm></sc>
+</sv>
+</cm>
+</sc>
 
 <sc id="Santiago-5">
+
 <cm>
 
 <sv id="Santiago-5-1">
 Come now, you
 <wi type="T" value="P"/> rich, weep and howl for your miseries that are
 coming on you.
-<t xml:lang="es"><wi type="G" value="71,1,">Vengan</wi>
+<t xml:lang="es">
+<wi type="G" value="71,1,">Vengan</wi>
 <wi type="G" value="3568,2,">ahora</wi>,
 <wi type="G" value="3588,3,">los que </wi>
-son <wi type="G" value="4145,4,">ricos</wi>,
+son 
+<wi type="G" value="4145,4,">ricos</wi>,
 <wi type="G" value="2799,5,">lloren</wi> y
 <wi type="G" value="3649,6,">aúllen</wi>
 <wi type="G" value="1909,7,">por</wi>
@@ -1992,13 +2200,15 @@ son <wi type="G" value="4145,4,">ricos</wi>,
 <wi type="G" value="5004,9,">miserias</wi>
 que
 <wi type="G" value="5216,10,">les</wi>
-<wi type="G" value="3588,11,"/><wi type="G" value="1904,12,">vendrán</wi>.</t>
+<wi type="G" value="3588,11,"/><wi type="G" value="1904,12,">vendrán</wi>.
+</t>
 </sv>
 
 <sv id="Santiago-5-2">
 Your riches are corrupted and your garments are
 moth-eaten.
-<t xml:lang="es"><wi type="G" value="5216,3,">Sus</wi>
+<t xml:lang="es">
+<wi type="G" value="5216,3,">Sus</wi>
 <wi type="G" value="3588,1,"/><wi type="G" value="4149,2,">riquezas</wi>
 <wi type="G" value="4595,4,">se han corrompido</wi>
 <wi type="G" value="2532,5,">y</wi>
@@ -2014,7 +2224,8 @@ Your gold and your silver are corroded, and their corrosion
 will be for a testimony against you, and will eat your flesh like fire.
 You
 <wi type="T" value="P"/> have laid up your treasure in the last days.
-<t xml:lang="es"><wi type="G" value="5216,3,">Su</wi>
+<t xml:lang="es">
+<wi type="G" value="5216,3,">Su</wi>
 <wi type="G" value="3588,1,"/><wi type="G" value="5557,2,">oro</wi>
 <wi type="G" value="2532,4,">y</wi> su
 <wi type="G" value="3588,5,"/><wi type="G" value="696,6,">plata</wi>
@@ -2044,7 +2255,8 @@ Behold, the wages
 of the laborers who mowed your fields, which you have kept back by fraud, cry
 out, and the cries of those who reaped have entered into the ears of the Lord
 of Armies.
-<t xml:lang="es"><wi type="G" value="2400,1,">Observa</wi>,
+<t xml:lang="es">
+<wi type="G" value="2400,1,">Observa</wi>,
 <wi type="G" value="3588,2,">el</wi>
 <wi type="G" value="3408,3,">pago</wi>
 <wi type="G" value="3588,4,">de los</wi>
@@ -2067,7 +2279,8 @@ of Armies.
 <wi type="G" value="3588,22,">los</wi>
 <wi type="G" value="3775,23,">oídos</wi>
 <wi type="G" value="2962,24,">del Señor</wi>
-<wi type="G" value="4519,25,">de los ejércitos</wi>. </t>
+<wi type="G" value="4519,25,">de los ejércitos</wi>. 
+</t>
 </sv>
 
 <sv id="Santiago-5-5">
@@ -2075,7 +2288,8 @@ You
 <wi type="T" value="P"/> have lived delicately on the earth, and taken your
 pleasure. You
 <wi type="T" value="P"/> have nourished your hearts as in a day of slaughter.
-<t xml:lang="es"><wi type="G" value="5171,1,">Ustedes han vivido en deleites</wi>
+<t xml:lang="es">
+<wi type="G" value="5171,1,">Ustedes han vivido en deleites</wi>
 <wi type="G" value="1909,2,">sobre</wi>
 <wi type="G" value="3588,3,">la</wi>
 <wi type="G" value="1093,4,">tierra</wi>,
@@ -2096,7 +2310,8 @@ You
 <wi type="T" value="P"/> have condemned, you
 <wi type="T" value="P"/> have murdered the righteous one. He
 doesn´t resist you.
-<t xml:lang="es"><wi type="G" value="2613,1,">Ustedes han condenado</wi>,
+<t xml:lang="es">
+<wi type="G" value="2613,1,">Ustedes han condenado</wi>,
 <wi type="G" value="5407,2,">ustedes han asesinado al</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="1342,4,">justo</wi>.
 <wi type="G" value="498,6,">Él</wi>
@@ -2104,7 +2319,8 @@ doesn´t resist you.
 <wi type="G" value="5213,7,">los</wi>
 <wi type="GC" value="6">resiste</wi>.
 </t>
-</sv></cm>
+</sv>
+</cm>
 
 <cm>
 
@@ -2112,7 +2328,8 @@ doesn´t resist you.
 Be patient therefore, brothers, until the coming of the Lord. Behold,
 the farmer waits for the precious fruit of the earth, being patient over it,
 until it receives the early and late rain.
-<t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
+<t xml:lang="es">
+<wi type="G" value="3767,2,">Entonces</wi>
 <wi type="G" value="3114,1,">sean pacientes</wi>,
 <wi type="G" value="80,3,">hermanos</wi>,
 <wi type="G" value="2193,4,">hasta</wi>
@@ -2146,7 +2363,8 @@ until it receives the early and late rain.
 You
 <wi type="T" value="P"/> also be patient.
 Establish your hearts, for the coming of the Lord is at hand.
-<t xml:lang="es"><wi type="G" value="2532,2,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,2,">Y</wi>
 <wi type="G" value="5210,3,">ustedes</wi>
 <wi type="G" value="3114,1,">sean pacientes</wi>.
 <wi type="G" value="4741,4,">Establezcan</wi>
@@ -2159,7 +2377,8 @@ Establish your hearts, for the coming of the Lord is at hand.
 <wi type="G" value="2962,12,">Señor</wi>
 <wi type="G" value="1448,13,">está cerca</wi>.
 </t>
-</sv></cm>
+</sv>
+</cm>
 
 <cm>
 
@@ -2171,8 +2390,10 @@ won´t be judged. Behold, the judge stands at the door.
 <citebib id="WEB"/> dice `Don't grumble´ que puede traducirse como `No se quejen,´ <citebib id="KJV2003"/> dice
 `Grudge not´ que puede traducirse como `No guarden rencor.´ La palabra griega
 `στεναζετε´ puede traducirse como murmurar, suspirar, gemir, quejarse.
-</rf></rb>
-<t xml:lang="es">,
+</rf>
+</rb>
+<t xml:lang="es">
+,
 <wi type="G" value="80,5,">hermanos</wi>,
 <wi type="G" value="2596,3,">unos de</wi>
 <wi type="G" value="240,4,">otros</wi>,
@@ -2193,7 +2414,8 @@ won´t be judged. Behold, the judge stands at the door.
 Take, brothers, for an
 example of suffering and of patience, the prophets who spoke in the name of
 the Lord.
-<t xml:lang="es"><wi type="G" value="80,5,">Hermanos</wi>
+<t xml:lang="es">
+<wi type="G" value="80,5,">Hermanos</wi>
 <wi type="G" value="3450,6,">míos</wi>,
 <wi type="G" value="2983,2,">tomen</wi>
 <wi type="G" value="5262,1,">como ejemplo</wi>
@@ -2217,7 +2439,8 @@ Behold, we call them blessed who endured. You
 <wi type="T" value="P"/> have heard
 of the patience of Job, and have seen the Lord in the outcome, and how the
 Lord is full of compassion and mercy.
-<t xml:lang="es"><wi type="G" value="2400,1,">Observa</wi>,
+<t xml:lang="es">
+<wi type="G" value="2400,1,">Observa</wi>,
 <wi type="G" value="3106,2,">bendecimos</wi> a
 <wi type="G" value="3588,3,">los que</wi>
 <wi type="G" value="5278,4,">han soportado</wi>.
@@ -2230,7 +2453,8 @@ Lord is full of compassion and mercy.
 <wi type="G" value="2962,12,">al Señor</wi>
 <wi type="G" value="3588,10,">en el</wi>
 <wi type="G" value="5056,11,">resultado</wi>,
-y <wi type="G" value="3754,14,">que</wi>
+y 
+<wi type="G" value="3754,14,">que</wi>
 <wi type="G" value="3588,17,">el</wi>
 <wi type="G" value="2962,18,">Señor</wi>
 <wi type="G" value="2076,16,">es</wi>
@@ -2246,7 +2470,8 @@ brothers, don´t swear, neither by heaven, nor by the earth, nor by any other
 oath; but let your «yes» be «yes,» and your «no,» «no;» so that you
 <wi type="T" value="P"/>
 don´t fall
-<t xml:lang="es"><wi type="G" value="1161,3,">Pero</wi>
+<t xml:lang="es">
+<wi type="G" value="1161,3,">Pero</wi>
 <wi type="G" value="4253,1,">sobre</wi>
 <wi type="G" value="3956,2,">todo</wi>,
 <wi type="G" value="3450,5,">mis</wi>
@@ -2276,28 +2501,32 @@ don´t fall
 <wi type="G" value="4098,32,">caigan</wi>
 </t>
 <rb>into hypocrisy.
-<t xml:lang="es"><wi type="G" value="5259,30,">en</wi>
-<wi type="G" value="2920,31,">condenación</wi></t><rf>
-TR reads «under judgment» instead of «into hypocrisy» 
-<t xml:lang="es"><citebib id="WEB"/> dice `en
+<t xml:lang="es">
+<wi type="G" value="5259,30,">en</wi>
+<wi type="G" value="2920,31,">condenación</wi>
+</t><rf>
+TR reads «under judgment» instead of «into hypocrisy» <t xml:lang="es"> <citebib id="WEB"/> dice `en
 hipocrecia,´ con nota al pie que dice que <citebib id="TR"/> dice `en juicio.´ <citebib id="KJV2003"/> dice `en
-condenación.´</t>
+condenación.´ </t>
 </rf>
 </rb>
-</sv></cm>
+</sv>
+</cm>
 
 <cm>
 
 <sv id="Santiago-5-13">
 Is any among you suffering? Let him pray. Is any cheerful? Let him sing
 praises.
-<t xml:lang="es">¿<wi type="G" value="2553,1,">Está</wi>
+<t xml:lang="es">
+¿<wi type="G" value="2553,1,">Está</wi>
 <wi type="G" value="5100,2,">alguno</wi>
 <wi type="G" value="1722,3,">entre</wi>
 <wi type="G" value="5213,4,">ustedes</wi>
 <wi type="GC" value="1">sufriendo</wi>?
 <wi type="G" value="4336,5,">Que ore</wi>.
-¿<wi type="G" value="5100,7,">Alguno</wi>
+¿
+<wi type="G" value="5100,7,">Alguno</wi>
 <wi type="G" value="2114,6,">está alegre</wi>?
 <wi type="G" value="5567,8,">Que cante alabanzas</wi>.
 </t>
@@ -2307,7 +2536,8 @@ praises.
 Is any among you sick? Let him call for the elders of the
 assembly, and let them pray over him, anointing him with oil in the name of
 the Lord,
-<t xml:lang="es">¿<wi type="G" value="770,1,">Está</wi>
+<t xml:lang="es">
+¿<wi type="G" value="770,1,">Está</wi>
 <wi type="G" value="5100,2,">alguno</wi>
 <wi type="G" value="1722,3,">entre</wi>
 <wi type="G" value="5213,4,">ustedes</wi>
@@ -2334,7 +2564,8 @@ the Lord,
 <sv id="Santiago-5-15">
 and the prayer of faith will heal him who is sick, and the
 Lord will raise him up. If he has committed sins, he will be forgiven.
-<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="3588,2,">la</wi>
 <wi type="G" value="2171,3,">oración</wi>
 <wi type="G" value="3588,4,">de</wi>
@@ -2354,14 +2585,14 @@ Lord will raise him up. If he has committed sins, he will be forgiven.
 <wi type="G" value="5600,16,">serán</wi>
 <wi type="G" value="863,18,">perdonados</wi>.
 </t>
-
 </sv>
 
 <sv id="Santiago-5-16">
 Confess your offenses to one another, and pray one for another, that
 you may be healed. The insistent prayer of a righteous person is
 powerfully effective.
-<t xml:lang="es"><wi type="G" value="1843,1,">Confiesen</wi> sus
+<t xml:lang="es">
+<wi type="G" value="1843,1,">Confiesen</wi> sus
 <wi type="G" value="3588,3,"/><wi type="G" value="3900,4,">ofensas</wi>
 <wi type="G" value="240,2,">unos a otros</wi>,
 <wi type="G" value="2532,5,">y</wi>
@@ -2383,7 +2614,8 @@ powerfully effective.
 Elijah was a man with a nature like ours, and he
 prayed earnestly that it might not rain, and it didn´t rain on the earth for
 three years and six months.
-<t xml:lang="es"><wi type="G" value="2243,1,">Elías</wi>
+<t xml:lang="es">
+<wi type="G" value="2243,1,">Elías</wi>
 <wi type="G" value="2258,3,">era</wi>
 <wi type="G" value="444,2,">un hombre</wi>
 <wi type="G" value="3663,4,">con pasiones</wi>
@@ -2411,7 +2643,8 @@ three years and six months.
 <sv id="Santiago-5-18">
 He prayed again, and the sky gave rain, and
 the earth brought forth its fruit.
-<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<t xml:lang="es">
+<wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="4336,3,">oró</wi>
 <wi type="G" value="3825,2,">nuevamente</wi>,
 <wi type="G" value="2532,4,">y</wi>
@@ -2426,14 +2659,16 @@ the earth brought forth its fruit.
 <wi type="G" value="846,15,">su</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="2590,14,">fruto</wi>.
 </t>
-</sv></cm>
+</sv>
+</cm>
 
 <cm>
 
 <sv id="Santiago-5-19">
 Brothers, if any among you wanders from the truth, and someone turns
 him back,
-<t xml:lang="es"><wi type="G" value="80,1,">Hermanos</wi>,
+<t xml:lang="es">
+<wi type="G" value="80,1,">Hermanos</wi>,
 <wi type="G" value="1437,2,">si</wi>
 <wi type="G" value="5100,3,">alguno</wi>
 <wi type="G" value="1722,4,">de</wi>
@@ -2445,13 +2680,15 @@ him back,
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="5100,12,">alguno</wi>
 <wi type="G" value="846,13,">lo</wi>
-<wi type="G" value="1994,11,">convierte</wi>,</t>
+<wi type="G" value="1994,11,">convierte</wi>,
+</t>
 </sv>
 
 <sv id="Santiago-5-20">
 let him know that he who turns a sinner from the error of his
 way will save a soul from death, and will cover a multitude of sins.
-<t xml:lang="es"><wi type="G" value="1097,1,">sepa</wi>
+<t xml:lang="es">
+<wi type="G" value="1097,1,">sepa</wi>
 <wi type="G" value="3754,2,">que</wi>
 <wi type="G" value="3588,3,">el que</wi>
 <wi type="G" value="1994,4,">convirtió al</wi>
@@ -2470,9 +2707,8 @@ way will save a soul from death, and will cover a multitude of sins.
 <wi type="G" value="266,17,">de pecados</wi>.
 </t>
 <cl/>
-
 <cl/>
-
-</sv></cm></sc>
+</sv>
+</cm>
+</sc>
 </sb>
-

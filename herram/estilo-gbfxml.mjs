@@ -139,30 +139,41 @@ function serializeText(node, ctx) {
 // ── Contenedores estructurales ──
 
 function childNodesArr(el) {
+  if (!el || !el.childNodes) return [];
   const cn = el.childNodes;
   const arr = [];
   for (let i = 0; i < cn.length; i++) arr.push(cn[i]);
   return arr;
 }
 
+function normalizeInner(inner) {
+  inner = inner.replace(/\n{3,}/g, '\n\n');
+  inner = inner.replace(/(<\/sv>)(<sv)/g, '$1\n\n$2');
+  inner = inner.replace(/(>)\n(<sv)/g, '$1\n\n$3');
+  return inner.replace(/\n+$/, '');
+}
+
+function serializeCm(el, ctx) {
+  const hijos = childNodesArr(el).map(c => serialize(c, ctx));
+  let inner = normalizeInner(hijos.join(''));
+  return `<cm${attrStr(el)}>\n${inner}\n</cm>`;
+}
+
+function serializeSc(el, ctx) {
+  const hijos = childNodesArr(el).map(c => serialize(c, ctx));
+  let inner = normalizeInner(hijos.join(''));
+  return `<sc${attrStr(el)}>\n${inner}\n</sc>`;
+}
+
 function serializeContainer(el, ctx) {
-  const partes = childNodesArr(el).map(c => serialize(c, ctx));
-  return `<${el.tagName}${attrStr(el)}>\n${partes.join('')}</${el.tagName}>\n`;
+  const hijos = childNodesArr(el).map(c => serialize(c, ctx));
+  let inner = normalizeInner(hijos.join(''));
+  return `<${el.tagName}${attrStr(el)}>\n${inner}\n</${el.tagName}>`;
 }
 
 function serializePreserve(el, ctx) {
   const partes = childNodesArr(el).map(c => serialize(c, { ...ctx, mode: 'preserve' }));
   return `<${el.tagName}${attrStr(el)}>${partes.join('')}</${el.tagName}>\n`;
-}
-
-function serializeSc(el, ctx) {
-  const partes = childNodesArr(el).map(c => serialize(c, ctx));
-  return `<sc${attrStr(el)}>\n${partes.join('')}</sc>\n`;
-}
-
-function serializeCm(el, ctx) {
-  const partes = childNodesArr(el).map(c => serialize(c, ctx));
-  return `<cm${attrStr(el)}>\n${partes.join('')}</cm>\n`;
 }
 
 // ── Versículo <sv> ──
@@ -188,16 +199,16 @@ function serializeSv(el, ctx) {
     }
   }
 
-  const inner = partes.join('').replace(/\n\n+/g, '\n');
-  return `\n<sv${attrStr(el)}>\n${inner}</sv>\n`;
+  const inner = partes.join('').replace(/\n\n+/g, '\n').replace(/^\n+/, '').replace(/\n+$/, '');
+  return `<sv${attrStr(el)}>\n${inner}\n</sv>`;
 }
 
 // ── <t xml:lang="es"> ──
 
 function serializeT(el, ctx) {
   const inner = serializeWiFlow(childNodesArr(el), ctx);
-  const trimmed = inner.replace(/\n+$/, '');
-  return `<t${attrStr(el)}>\n${trimmed}</t>`;
+  const trimmed = inner.replace(/^\n+/, '').replace(/\n+$/, '');
+  return `<t${attrStr(el)}>\n${trimmed}\n</t>`;
 }
 
 // ── Flujo de <wi> ──
@@ -299,9 +310,9 @@ function serializeWiFlow(nodos, ctx) {
   }
 
   if (pendingPrefix) {
-    return pendingPrefix.trimStart() + lines.join('\n');
+    return (pendingPrefix.trimStart() + lines.join('\n')).replace(/\n{2,}/g, '\n');
   }
-  return lines.join('\n');
+  return lines.join('\n').replace(/\n{2,}/g, '\n');
 }
 
 function serializeWi(el, ctx) {
@@ -347,7 +358,7 @@ function serializeRb(el, ctx) {
   }
   flushWi();
 
-  return `<rb${attrStr(el)}>${parts.join('')}</rb>`;
+  return `<rb${attrStr(el)}>${parts.join('')}\n</rb>`;
 }
 
 function serializeRf(el, ctx) {
@@ -445,12 +456,11 @@ function aplicarEstilo(contenido) {
 
   const serializado = serialize(doc, { mode: 'default' });
 
-  // Unir preámbulo con el contenido serializado
   const sbIni = serializado.indexOf('<sb');
-  const resultado = preambulo + (sbIni >= 0 ? serializado.slice(sbIni) : serializado);
-
-  // Limpiar líneas en blanco múltiples
-  return resultado.replace(/\n{3,}/g, '\n\n');
+  let resultado = preambulo + (sbIni >= 0 ? serializado.slice(sbIni) : serializado);
+  resultado = resultado.replace(/\n{3,}/g, '\n\n');
+  resultado = resultado.replace(/([^>])\n\n(<\/?(?:cm|sc|sb))/g, '$1\n$3');
+  return resultado;
 }
 
 // ── Main ──
