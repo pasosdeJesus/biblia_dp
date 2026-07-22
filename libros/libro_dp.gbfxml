@@ -23,6 +23,7 @@
   <!ENTITY filemon SYSTEM "filemon.gbfxml">
   <!ENTITY hebreos SYSTEM "hebreos.gbfxml">
   <!ENTITY santiago SYSTEM "santiago.gbfxml">
+  <!ENTITY pedro1 SYSTEM "pedro1.gbfxml">
 
   <!ENTITY biblio SYSTEM "biblio.gbfxml">
   ]>
@@ -54,7 +55,8 @@
 &tito;
 &filemon;
 &hebreos;
- --> 
 &santiago;
+ --> 
+&pedro1;
 &biblio;
 </gbfxml>
