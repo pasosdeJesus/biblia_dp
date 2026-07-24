@@ -12,17 +12,18 @@
 Peter, an apostle of Jesus Christ, to the chosen ones who are
 living as strangers in the Dispersion in Pontus, Galatia, Cappadocia, Asia,
 and Bithynia,
-<t xml:lang="es"><wi type="G" value="4074,1,">Pedro</wi>,
+<t xml:lang="es">
+<wi type="G" value="4074,1,">Pedro</wi>,
 <wi type="G" value="642,2,">apóstol</wi>
 <wi type="G" value="2424,3,">de Jesús</wi>
-<wi type="G" value="5547,4,">Cristo</wi>, </t>
+<wi type="G" value="5547,4,">Cristo</wi>, 
+</t>
 <rb xml:lang="es">a los <wi type="G" value="1588,5,">elegidos</wi><rf>
-<citebib id="WEB"/> dice a los elegidos en este versículo,
-<citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen elegidos en el
-versículo siguiente.
-<citebib id="TR"/> tiene ἐκλεκτός (elegidos) como quinta palabra del
+<citebib id="WEB"/> dice a los elegidos en este versículo, <citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen elegidos en el
+versículo siguiente. <citebib id="TR"/> tiene ἐκλεκτός (elegidos) como quinta palabra del
 versículo 1.
-</rf></rb>
+</rf>
+</rb>
 <t xml:lang="es">
 <wi type="G" value="3927,6,">que viven como extraños</wi>
 <wi type="G" value="1290,7,">dispersos en</wi>
@@ -31,14 +32,16 @@ versículo 1.
 <wi type="G" value="2587,10,">Capadocia</wi>,
 <wi type="G" value="773,11,">Asia</wi>
 <wi type="G" value="2532,12,">y</wi>
-<wi type="G" value="978,13,">Bitinia</wi>.</t>
+<wi type="G" value="978,13,">Bitinia</wi>.
+</t>
 </sv>
 
 <sv id="b1_Peter-1-2">
 according to the foreknowledge of God the Father, in
 sanctification of the Spirit, that you may obey Jesus Christ and be sprinkled
 in his blood: Grace to you and peace be multiplied.
-<t xml:lang="es"><wi type="G" value="2596,1,">según</wi>
+<t xml:lang="es">
+<wi type="G" value="2596,1,">según</wi>
 <wi type="G" value="4268,2,">el conocimiento previo</wi>
 <wi type="G" value="2316,3,">de Dios</wi>
 <wi type="G" value="3962,4,">Padre</wi>,
@@ -47,7 +50,8 @@ in his blood: Grace to you and peace be multiplied.
 <wi type="G" value="4151,7,">del Espíritu</wi>,
 <wi type="G" value="1519,8,">para</wi>
 <wi type="G" value="5218,9,">la obediencia</wi>
-<wi type="G" value="2532,10,">y</wi> <wi type="G" value="4473,11,">el rociamiento</wi>
+<wi type="G" value="2532,10,">y</wi> 
+<wi type="G" value="4473,11,">el rociamiento</wi>
 <wi type="G" value="129,12,">de la sangre</wi>
 <wi type="G" value="2424,13,">de Jesús</wi>
 <wi type="G" value="5547,14,">Cristo</wi>:
