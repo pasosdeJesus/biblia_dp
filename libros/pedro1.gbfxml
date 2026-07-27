@@ -100,18 +100,44 @@ from the dead,
 <sv id="b1_Peter-1-4">
 to an incorruptible and undefiled inheritance that
 doesn´t fade away, reserved in heaven for you,
+<t xml:lang="es"><wi type="G" value="1519,1,">a</wi>
+<wi type="G" value="2817,2,">una herencia</wi>
+<wi type="G" value="862,3,">incorruptible</wi>
+<wi type="G" value="2532,4,">e</wi>
+<wi type="G" value="283,5,">inmaculada</wi>
+<wi type="G" value="2532,6,">y</wi>
+<wi type="G" value="263,7,">que no se desvanece</wi>,
+<wi type="G" value="5083,8,">reservada</wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="3772,10,">el cielo</wi>
+<wi type="G" value="1519,11,">para</wi>
+<wi type="G" value="5209,12,">ustedes</wi>,</t>
 </sv>
 
 <sv id="b1_Peter-1-5">
 who by the power of God
 are guarded through faith for a salvation ready to be revealed in the last
 time.
+<t xml:lang="es"><wi type="G" value="3588,1,">quienes</wi>
+<wi type="G" value="1722,2,">por</wi>
+<wi type="G" value="1411,3,">el poder</wi>
+<wi type="G" value="2316,4,">de Dios</wi>
+<wi type="G" value="5432,5,">están resguardados</wi>
+<wi type="G" value="1223,6,">por</wi>
+<wi type="G" value="4102,7,">fe</wi>
+<wi type="G" value="1519,8,">para</wi>
+<wi type="G" value="4991,9,">una salvación</wi>
+<wi type="G" value="2092,10,">lista</wi>
+<wi type="G" value="601,11,">a ser revelada</wi>
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="2078,14,">el último</wi>
+<wi type="G" value="2540,13,">tiempo</wi>.
+</t>
 </sv>
 
 <sv id="b1_Peter-1-6">
-Wherein you
-<wi type="T" value="P"/> greatly rejoice, though now for a little while,
-if need be, you
+Wherein you <wi type="T" value="P"/> greatly rejoice, though now for a
+little while, if need be, you
 <wi type="T" value="P"/> have been put to grief in various trials,
 </sv>
 
