@@ -182,21 +182,46 @@ que <wi type="G" value="5553,9,">el oro</wi>
 <wi type="G" value="1722,23,">en</wi>
 <wi type="G" value="602,24,">la revelación</wi>
 <wi type="G" value="2424,25,">de Jesús</wi>
-<wi type="G" value="5547,26,">Cristo</wi>.</t>
+<wi type="G" value="5547,26,">Cristo</wi>;</t>
 </sv>
 
 <sv id="b1_Peter-1-8">
 whom not having known you
-<wi type="T" value="P"/>
 love; in whom, though now you
-<wi type="T" value="P"/> don´t see him, yet believing, you
-<wi type="T" value="P"/>
+don´t see him, yet believing, you
 rejoice greatly with joy unspeakable and full of glory
+<t xml:lang="es">
+<wi type="G" value="3739,1,">a quien</wi> 
+<wi type="G" value="3756,2,">no</wi> 
+<wi type="G" value="1492,3,">habiendo visto</wi> 
+<wi type="G" value="25,4,">ustedes aman</wi>; 
+<wi type="G" value="1519,5,">a</wi> 
+<wi type="G" value="3739,6,">quien</wi>,
+<wi type="G" value="737,7,">ahora</wi> 
+<wi type="G" value="3708,9,">ustedes</wi> 
+<wi type="G" value="3361,8,">no</wi>
+<wi type="GC" value="9">ven</wi>, 
+<wi type="G" value="1161,11,">pero</wi> 
+<wi type="G" value="4100,10,">creen</wi>, 
+<wi type="G" value="21,12,">se gozan</wi> con 
+<wi type="G" value="5479,13,">un gozo</wi> 
+<wi type="G" value="412,14,">indecible</wi> 
+<wi type="G" value="2532,15,">y</wi> 
+<wi type="G" value="1392,16,">lleno de gloria</wi>
+</t>
 </sv>
 
 <sv id="b1_Peter-1-9">
 receiving the
 result of your faith, the salvation of your souls.
+<t xml:lang="es"><wi type="G" value="2865,1,">recibiendo</wi> 
+<wi type="G" value="3588,2,">el</wi> 
+<wi type="G" value="5056,3,">resultado</wi> 
+<wi type="G" value="5216,6,">de su</wi> 
+<wi type="G" value="3588,4,"/><wi type="G" value="4102,5,">fe</wi>,
+<wi type="G" value="4991,7,">la salvación</wi> 
+<wi type="G" value="5590,8,">de las almas</wi>.
+</t>
 </sv>
 
 <sv id="b1_Peter-1-10">
