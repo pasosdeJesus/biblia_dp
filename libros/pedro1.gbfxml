@@ -522,31 +522,81 @@ heart fervently:
 <sv id="b1_Peter-1-23">
 having been born again, not of corruptible seed, but
 of incorruptible, through the word of God, which lives and remains forever.
+<t xml:lang="es"><wi type="G" value="313,1,">habiendo vuelto a nacer</wi>,
+<wi type="G" value="3756,2,">no</wi>
+<wi type="G" value="1537,3,">de</wi>
+<wi type="G" value="4701,4,">una semilla</wi>
+<wi type="G" value="5349,5,">corruptible</wi>,
+<wi type="G" value="235,6,">sino</wi>
+<wi type="G" value="862,7,">de una incorruptible</wi>,
+<wi type="G" value="1223,8,">por</wi>
+<wi type="G" value="3056,9,">la palabra</wi>
+<wi type="G" value="2316,11,">de Dios</wi>,
+<wi type="G" value="2198,10,">que vive</wi>
+<wi type="G" value="2532,12,">y</wi>
+<wi type="G" value="3306,13,">permanece</wi>
+<wi type="G" value="1519,14,">por</wi>
+<wi type="G" value="3588,15,"/><wi type="G" value="165,16,">siempre</wi>.
+</t>
 </sv>
 
 <sv id="b1_Peter-1-24">
 For,
+<t xml:lang="es"><wi type="G" value="1360,1,">Pues</wi> </t>
 <cl/>
 «All flesh is like grass,
+<t xml:lang="es">«<wi type="G" value="3956,2,">Toda</wi>
+<wi type="G" value="4561,3,">carne</wi> es
+<wi type="G" value="5613,4,">como</wi>
+<wi type="G" value="5528,5,">el pasto</wi>,</t>
 <cl/>
 And all of man´s glory like the flower in the grass.
+<t xml:lang="es"><wi type="G" value="2532,6,">Y</wi>
+<wi type="G" value="3956,7,">toda</wi>
+<wi type="G" value="1391,8,">la gloria</wi>
+<wi type="G" value="444,9,">del hombre</wi>
+es <wi type="G" value="5613,10,">como</wi>
+<wi type="G" value="438,11,">la flor</wi>
+<wi type="G" value="5528,12,">del pasto</wi>.</t>
 <cl/>
 The grass withers, and its flower falls;
+<t xml:lang="es"><wi type="G" value="3588,14,">El</wi>
+<wi type="G" value="5528,15,">pasto</wi>
+<wi type="G" value="3583,13,">se seca</wi>,
+<wi type="G" value="2532,16,">y</wi>
+<wi type="G" value="846,19,">su</wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="438,18,">flor</wi>
+<wi type="G" value="1601,20,">se cae</wi>;</t>
 <cl/>
 </sv>
 
 <sv id="b1_Peter-1-25">
 But the Lord´s word endures forever.»
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
+<wi type="G" value="4487,3,">la palabra</wi>
+<wi type="G" value="2962,4,">del Señor</wi>
+<wi type="G" value="3306,5,">permanece</wi>
+<wi type="G" value="1519,6,">para</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="165,8,">siempre</wi></t>
+<cl/>
 <cl/>
 This is the word of good news which was preached to you.
+<t xml:lang="es"><wi type="G" value="1161,10,">Y</wi>
+<wi type="G" value="5124,9,">esta</wi>
+<wi type="G" value="2076,11,">es</wi>
+<wi type="G" value="3588,12,">la</wi>
+<wi type="G" value="4487,13,">palabra</wi>
+<wi type="G" value="3588,14,">de</wi>
+<wi type="G" value="2097,15,">buenas nuevas</wi> que
+<wi type="G" value="1519,16,"/><wi type="G" value="5209,17,">les</wi>
+<wi type="GC" value="15,">fue predicada</wi>.</t>
 <cl/>
 </sv>
 </cm>
 </sc>
+
 <sc id="b1_Peter-2">
-
 <cm>
-
 <sv id="b1_Peter-2-1">
 Putting away therefore all wickedness, all deceit, hypocrisies,
 envies, and all evil speaking,
