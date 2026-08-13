@@ -601,7 +601,7 @@ This is the word of good news which was preached to you.
 Putting away therefore all wickedness, all deceit, hypocrisies,
 envies, and all evil speaking,
 <t xml:lang="es"><wi type="G" value="3767,2,">Entonces</wi>
-<wi type="G" value="659,1,">alejen</wi>
+<wi type="G" value="659,1,">dejen</wi>
 <wi type="G" value="3956,3,">toda</wi>
 <wi type="G" value="2549,4,">maldad</wi>,
 <wi type="G" value="2532,5,">y</wi>
@@ -613,7 +613,7 @@ envies, and all evil speaking,
 <wi type="G" value="5355,11,">envidias</wi>,
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="3956,13,">todo</wi>
-<wi type="G" value="2636,14,">hablar malvado</wi>,
+<wi type="G" value="2636,14,">mal hablar</wi>,
 </t>
 </sv>
 
@@ -621,12 +621,38 @@ envies, and all evil speaking,
 as newborn babes, long for the pure milk
 of the Word, that you
 <wi type="T" value="P"/> may grow thereby,
+<t xml:lang="es"><wi type="G" value="1971,8,">deseen</wi>
+<wi type="G" value="5613,1,">como</wi>
+<wi type="G" value="1025,3,">bebes</wi>
+<wi type="G" value="738,2,">recién nacidos</wi>,
+<wi type="G" value="1051,7,">la leche</wi> </t>
+<rb xml:lang="es"><wi type="G" value="97,6,">pura</wi><rf>
+<citebib id="WEB"/> dice `pura,´
+<citebib id="KJV2003"/> dice `sincera,´
+;<citebib id="RVG2012"/> dice `espiritual.´
+Según <citebib id="Thayer-BLB"/>
+la palabra griega `ἄδολος´ se traduce como sin culpa, pura, no mezclada,
+no adulterada.
+</rf></rb>
+<t xml:lang="es">
+<wi type="G" value="3588,4,">de la</wi>
+<wi type="G" value="3050,5,">Palabra</wi>,
+<wi type="G" value="2443,9,">para</wi>
+<wi type="G" value="837,12,">poder crecer</wi>
+<wi type="G" value="1722,10,">con</wi>
+<wi type="G" value="846,11,">esta</wi>,</t>
 </sv>
 
 <sv id="b1_Peter-2-3">
 if indeed you
 <wi type="T" value="P"/> have
 tasted that the Lord is gracious:
+<t xml:lang="es"><wi type="G" value="1512,1,">si de hecho</wi>
+<wi type="G" value="1089,2,">han probado</wi>
+<wi type="G" value="3754,3,">que</wi>
+<wi type="G" value="3588,5,">el</wi>
+<wi type="G" value="2962,6,">Señor</wi>
+<wi type="G" value="5543,4,">tiene gracia</wi>.</t>
 </sv>
 
 <sv id="b1_Peter-2-4">
