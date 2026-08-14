@@ -652,12 +652,26 @@ tasted that the Lord is gracious:
 <wi type="G" value="3754,3,">que</wi>
 <wi type="G" value="3588,5,">el</wi>
 <wi type="G" value="2962,6,">Señor</wi>
-<wi type="G" value="5543,4,">tiene gracia</wi>.</t>
+<wi type="G" value="5543,4,">tiene gracia</wi> </t>
 </sv>
 
 <sv id="b1_Peter-2-4">
 coming to him, a living stone,
 rejected indeed by men, but chosen by God, precious.
+<t xml:lang="es"><wi type="G" value="4314,1,">a</wi>
+<wi type="G" value="3739,2,">quien</wi>
+<wi type="G" value="4334,3,">vienen</wi>,
+<wi type="G" value="3037,4,">la piedra</wi>
+<wi type="G" value="2198,5,">viva</wi>
+<wi type="G" value="593,9,">rechazada</wi>,
+<wi type="G" value="3303,8,">de hecho</wi>,
+<wi type="G" value="5259,6,">por</wi>
+<wi type="G" value="444,7,">los hombres</wi>,
+<wi type="G" value="1161,11,">pero</wi>
+<wi type="G" value="1588,13,">elegida</wi>
+<wi type="G" value="3844,10,">por</wi>
+<wi type="G" value="2316,12,">Dios</wi>,
+<wi type="G" value="1784,14,">preciosa</wi>.</t>
 </sv>
 
 <sv id="b1_Peter-2-5">
