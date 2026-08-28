@@ -990,11 +990,45 @@ Honor all men. Love the brotherhood. Fear God. Honor the king.
 <sv id="b1_Peter-2-18">
 Servants, be in subjection to your masters with all fear; not only to
 the good and gentle, but also to the wicked.
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="3610,2,">Siervos</wi>,
+<wi type="G" value="5293,3,">sujetense a</wi> sus
+<wi type="G" value="3588,7,"/><wi type="G" value="1203,8,">amos</wi>
+<wi type="G" value="1722,4,">con</wi>
+<wi type="G" value="3956,5,">todo</wi>
+<wi type="G" value="5401,6,">temor</wi>;
+<wi type="G" value="3756,9,">no</wi>
+<wi type="G" value="3440,10,">solo</wi>
+<wi type="G" value="3588,11,">a los</wi>
+<wi type="G" value="18,12,">buenos</wi>
+<wi type="G" value="2532,13,">y</wi>
+<wi type="G" value="1933,14,">amables</wi>,
+<wi type="G" value="235,15,">sino</wi>
+<wi type="G" value="2532,16,">también</wi> a
+<wi type="G" value="3588,17,">los</wi> </t>
+<rb xml:lang="es"><wi type="G" value="4646,18,">malvados</wi><rf>
+<citebib id="WEB"/> dice malvados,
+<citebib id="RVG2012"/> dice rigurosos.
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`σκολιοις' se traduce como curvo, torcido o metaforicamete perverso, malvado.</rf></rb>
+<t xml:lang="es">.</t>
 </sv>
 
 <sv id="b1_Peter-2-19">
 For it is commendable if
 someone endures pain, suffering unjustly, because of conscience toward God.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="5124,1,">esto</wi> es
+<wi type="G" value="5485,3,">admirable</wi>,
+<wi type="G" value="1487,4,">si</wi>
+<wi type="G" value="5100,9,">alguien</wi>
+<wi type="G" value="5297,8,">soporta</wi>
+<wi type="G" value="3077,10,">dolor</wi>,
+<wi type="G" value="3958,11,">sufre</wi>
+<wi type="G" value="95,12,">injustamente</wi>
+<wi type="G" value="1223,5,">a causa</wi>
+<wi type="G" value="4893,6,">de la conciencia</wi>
+ante <wi type="G" value="2316,7,">Dios</wi>.
+</t>
 </sv>
 
 <sv id="b1_Peter-2-20">
