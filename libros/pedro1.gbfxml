@@ -1092,12 +1092,35 @@ dice `dejandolos,´ pero
 <sv id="b1_Peter-2-22">
 who did
 not sin, «neither was deceit found in his mouth.»
+<t xml:lang="es"><wi type="G" value="3739,1,">quien</wi>
+<wi type="G" value="3756,3,">no</wi>
+<wi type="G" value="4160,4,">cometió</wi>
+<wi type="G" value="266,2,">pecado</wi>,
+«<wi type="G" value="3761,5,">ni</wi>
+<wi type="G" value="2147,6,">se encontró</wi>
+<wi type="G" value="1388,7,">engaño</wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="846,11,">su</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="4750,10,">boca</wi>.»
+</t>
 </sv>
 
 <sv id="b1_Peter-2-23">
 Who, when he was
 cursed, didn´t curse back. When he suffered, didn´t threaten, but committed
 himself to him who judges righteously;
+<t xml:lang="es"><wi type="G" value="3739,1,">Quien</wi>,
+<wi type="G" value="3058,2,">al ser maldecido</wi>,
+<wi type="G" value="3756,3,">no</wi>
+<wi type="G" value="486,4,">maldijo de vuelta</wi>.
+<wi type="G" value="3958,5,">Cuando sufrió</wi>,
+<wi type="G" value="3756,6,">no</wi>
+<wi type="G" value="546,7,">amenazó</wi>,
+<wi type="G" value="1161,9,">sino</wi>
+<wi type="G" value="3860,8,">se encomendó</wi>
+<wi type="G" value="3588,10,">al que</wi>
+<wi type="G" value="2919,11,">juzga</wi>
+<wi type="G" value="1346,12,">rectamente</wi>;</t>
 </sv>
 
 <sv id="b1_Peter-2-24">
