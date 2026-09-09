@@ -1137,7 +1137,7 @@ righteousness; by whose stripes you
 <wi type="G" value="846,10,">su</wi>
 <wi type="G" value="3588,8,"/><wi type="G" value="4983,9,">cuerpo</wi>
 <wi type="G" value="1909,11,">sobre</wi>
-<wi type="G" value="3688,12,">el</wi>
+<wi type="G" value="3588,12,">el</wi>
 <wi type="G" value="3586,13,">madero</wi>,
 <wi type="G" value="2443,14,">para que</wi>
 <wi type="G" value="2198,20,">nosotros</wi>,
@@ -1156,23 +1156,40 @@ righteousness; by whose stripes you
 For you
 <wi type="T" value="P"/> were
 going astray like sheep; but are now returned to the Shepherd and
+<t xml:lang="es"><wi type="G" value="1063,2,">Pues</wi>
+<wi type="G" value="2258,1,">ustedes</wi>
+<wi type="G" value="4105,5,">se perdieron</wi>
+<wi type="G" value="5613,3,">como</wi>
+<wi type="G" value="4263,4,">ovejas</wi>;
+<wi type="G" value="235,6,">pero</wi>
+<wi type="G" value="3568,8,">ahora</wi>
+<wi type="G" value="1994,7,">han regresado</wi>
+<wi type="G" value="1909,9,"><wi type="G" value="3588,10,">al</wi></wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="4166,11,">Pastor</wi>
+<wi type="G" value="2532,12,">y</wi>
+</t>
 <rb>Overseer
-<t xml:lang="es">
-</t><rf>
+<t xml:lang="es"><wi type="G" value="1985,13,">Cuidador</wi></t><rf>
 «Overseer» is from the Greek episkopon, which can mean overseer, curator,
-guardian, or superintendent. <t xml:lang="es"> </t>
+guardian, or superintendent. <t xml:lang="es"><citebib id="WEB"/> dice
+inspector,
+<citebib id="KJV2003"/> y <citebib id="RVG2012"/> dicen `obispo´.
+Según <citebib id="Thayer-BLB"/> la palabra griega
+`ἐπίσκοπος´ puede traducirse como inspector, curador, guardian,
+superintendente, en la iglesia obispo.
+</t>
 </rf>
 </rb>
- of your souls.
+of your souls.
+<t xml:lang="es"><wi type="G" value="5216,16,">de sus</wi>
+<wi type="G" value="3588,14,"/><wi type="G" value="5590,15,">almas</wi>.</t>
 <cl/>
 </sv>
 </cm>
 </sc>
 
 <sc id="b1_Peter-3">
-
 <cm>
-
 <sv id="b1_Peter-3-1">
 In like manner, wives, be in subjection to your own husbands; so
 that, even if any don´t obey the Word, they may be won by the behavior of
