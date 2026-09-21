@@ -1372,45 +1372,76 @@ reviling; but instead blessing; knowing that to this were you
 <wi type="T" value="P"/> called,
 that you
 <wi type="T" value="P"/> may inherit a blessing.
-<t xml:lang="es"><wi type="G" value="3361,1,">no</wi> 
-<wi type="G" value="591,2,">respondiendo</wi> 
-<wi type="G" value="2556,3,">mal</wi> 
-<wi type="G" value="473,4,">por</wi> 
+<t xml:lang="es"><wi type="G" value="3361,1,">no</wi>
+<wi type="G" value="591,2,">respondiendo</wi>
+<wi type="G" value="2556,3,">mal</wi>
+<wi type="G" value="473,4,">por</wi>
 <wi type="G" value="2556,5,">mal</wi>,
-<wi type="G" value="2228,6,">ni</wi> 
-<wi type="G" value="3059,7,">maldición</wi> 
-<wi type="G" value="473,8,">por</wi> 
+<wi type="G" value="2228,6,">ni</wi>
+<wi type="G" value="3059,7,">maldición</wi>
+<wi type="G" value="473,8,">por</wi>
 <wi type="G" value="3059,9,">maldición</wi>;
-<wi type="G" value="1161,11,">sino</wi> 
-<wi type="G" value="5121,10,">en cambio</wi> 
-<wi type="G" value="2127,12,">bendiciendo</wi>; 
-<wi type="G" value="1492,13,">sabiendo</wi> 
-<wi type="G" value="3754,14,">que</wi> 
-<wi type="G" value="1519,15,">a esto</wi> 
-<wi type="G" value="5124,16,"/><wi type="G" value="2564,17,">fueron llamados</wi> 
-<wi type="G" value="2443,18,">para</wi> 
-<wi type="G" value="2816,20,">heredar</wi> 
+<wi type="G" value="1161,11,">sino</wi>
+<wi type="G" value="5121,10,">en cambio</wi>
+<wi type="G" value="2127,12,">bendiciendo</wi>;
+<wi type="G" value="1492,13,">sabiendo</wi>
+<wi type="G" value="3754,14,">que</wi>
+<wi type="G" value="1519,15,">a esto</wi>
+<wi type="G" value="5124,16,"/><wi type="G" value="2564,17,">fueron llamados</wi>
+<wi type="G" value="2443,18,">para</wi>
+<wi type="G" value="2816,20,">heredar</wi>
 <wi type="G" value="2129,19,">una bendición</wi>.
 </t>
 </sv>
 
 <sv id="b1_Peter-3-10">
 For,
+<t xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="1063,2,">Pues</wi></t>
 <cl/>
 «He who would love life,
+<t xml:lang="es">«<wi type="G" value="2309,3,">Aquel que</wi>
+<wi type="G" value="25,5,">ame</wi>
+<wi type="G" value="2222,4,">la vida</wi>,</t>
 <cl/>
 And see good days,
+<t xml:lang="es"><wi type="G" value="2532,6,">Y</wi>
+<wi type="G" value="1492,7,">vea</wi>
+<wi type="G" value="18,9,">buenos</wi>
+<wi type="G" value="2250,8,">días</wi>,</t>
 <cl/>
 Let him keep his tongue from evil,
+<t xml:lang="es"><wi type="G" value="3973,10,">Que detenga</wi>
+<wi type="G" value="846,13,">su</wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="1100,12,">lengua</wi>
+<wi type="G" value="575,14,">del</wi>
+<wi type="G" value="2556,15,">mal</wi>,</t>
 <cl/>
 And his lips from speaking deceit.
+<t xml:lang="es"><wi type="G" value="2532,16,">Y</wi>
+que <wi type="G" value="846,18,">sus</wi>
+<wi type="G" value="5491,17,">labios</wi>
+<wi type="G" value="3588,19,"/><wi type="G" value="3361,20,">no</wi>
+<wi type="G" value="2980,21,">hablen</wi>
+<wi type="G" value="1388,22,">engaño</wi>.</t>
 <cl/>
 </sv>
 
 <sv id="b1_Peter-3-11">
 Let him turn away from evil, and do good.
+<t xml:lang="es"><wi type="G" value="1578,1,">Aléjese</wi>
+<wi type="G" value="575,2,">del</wi>
+<wi type="G" value="2556,3,">mal</wi>,
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="4160,5,">haga</wi>
+<wi type="G" value="18,6,">el bien</wi>.
+</t>
 <cl/>
 Let him seek peace, and pursue it.
+<t xml:lang="es"><wi type="G" value="2212,7,">que busque</wi>
+<wi type="G" value="1515,8,">la paz</wi>,
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="846,11,">la</wi>
+<wi type="G" value="1377,10,">siga</wi>.</t>
 <cl/>
 </sv>
 
