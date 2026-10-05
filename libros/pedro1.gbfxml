@@ -1802,12 +1802,21 @@ que <wi type="G" value="5216,6,">ustedes</wi>
 <wi type="G" value="401,12,">excesos</wi>
 <wi type="G" value="3588,10,">de</wi>
 <wi type="G" value="810,11,">abandono</wi>,
-<wi type="G" value="987,13,">blasfemando</wi>:</t>
+<wi type="G" value="987,13,">blasfemando</wi>;</t>
 </sv>
 
 <sv id="b1_Peter-4-5">
 who will give
 account to him who is ready to judge the living and the dead.
+<t xml:lang="es"><wi type="G" value="3739,1,">quienes</wi>
+<wi type="G" value="591,2,">darán</wi>
+<wi type="G" value="3056,3,">cuenta</wi>
+<wi type="G" value="2192,6,">al que está</wi>
+<wi type="G" value="3588,4,"/><wi type="G" value="2093,5,">listo</wi>
+<wi type="G" value="2919,7,">para juzgar</wi>
+a <wi type="G" value="2198,8,">los vivos</wi>
+<wi type="G" value="2532,9,">y</wi> a
+<wi type="G" value="3498,10,">los muertos</wi>.</t>
 </sv>
 
 <sv id="b1_Peter-4-6">
