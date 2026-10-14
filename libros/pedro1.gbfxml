@@ -1725,7 +1725,8 @@ ceased from sin;
 <wi type="G" value="3695,12,">ármense</wi>
 <wi type="G" value="5210,8,">ustedes</wi>
 <wi type="G" value="2532,7,">también</wi>
-<wi type="G" value="3588,9,"/><wi type="G" value="846,10,">de Su</wi>
+<wi type="G" value="3588,9,">de la</wi>
+<wi type="G" value="846,10,">misma</wi>
 <wi type="G" value="1771,11,">mente</wi>;
 <wi type="G" value="3754,13,">pues</wi>
 <wi type="G" value="3588,14,">el que</wi>
@@ -1775,7 +1776,7 @@ abominable idolatries.
 <wi type="G" value="2307,10,">voluntad</wi>
 <wi type="G" value="3588,11,">de los</wi>
 <wi type="G" value="1484,12,">gentiles</wi>,
-<wi type="G" value="4198,14,">cuando caminamos</wi>
+<wi type="G" value="4198,14,">habiendo caminado</wi>
 <wi type="G" value="1722,15,">en</wi>
 <wi type="G" value="766,16,">lascivia</wi>,
 <wi type="G" value="1939,17,">deseos</wi>,
@@ -1799,9 +1800,8 @@ que <wi type="G" value="5216,6,">ustedes</wi>
 <wi type="G" value="4936,5,">corran</wi>
 <wi type="G" value="1519,7,">en</wi>
 <wi type="G" value="3588,8,"/><wi type="G" value="846,9,">sus</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="810,11,">desenfrenados</wi>,
 <wi type="G" value="401,12,">excesos</wi>
-<wi type="G" value="3588,10,">de</wi>
-<wi type="G" value="810,11,">abandono</wi>,
 <wi type="G" value="987,13,">blasfemando</wi>;</t>
 </sv>
 
@@ -1826,17 +1826,17 @@ indeed as men in the flesh, but live as to God in the spirit.
 <t xml:lang="es"><wi type="G" value="1063,3,">Pues</wi>
 <wi type="G" value="1519,1,">para</wi>
 <wi type="G" value="5124,2,">esto</wi>
-<wi type="G" value="2097,6,">fue predicado el evangelio</wi>
+<wi type="G" value="2097,6,">ha sido predicado el evangelio</wi>
 <wi type="G" value="2532,4,">incluso</wi>
 <wi type="G" value="3498,5,">a los muertos</wi>,
 <wi type="G" value="2443,7,">para que</wi>
-<wi type="G" value="2919,8,">pudieran ser juzgados</wi>
-<wi type="G" value="3303,9,">de hecho</wi>
-<wi type="G" value="2596,10,">como a</wi>
+<wi type="G" value="2919,8,">pudieran ser juzgados</wi>,
+<wi type="G" value="3303,9,">de hecho</wi>,
+<wi type="G" value="2596,10,">como</wi>
 <wi type="G" value="444,11,">hombres</wi>
 <wi type="G" value="4561,12,">en la carne</wi>,
 <wi type="G" value="1161,14,">pero</wi>
-<wi type="G" value="2198,13,">vivos</wi>
+<wi type="G" value="2198,13,">que viven</wi>
 <wi type="G" value="2596,15,">como ante</wi>
 <wi type="G" value="2316,16,">Dios</wi>
 en <wi type="G" value="4151,17,">el espíritu</wi>.
@@ -1877,7 +1877,7 @@ yourselves, for love covers a multitude of sins.
 <wi type="G" value="3754,10,">pues</wi>
 <wi type="G" value="3588,11,">el</wi>
 <wi type="G" value="26,12,">amor</wi>
-<wi type="G" value="2572,13,">cubre</wi>
+<wi type="G" value="2572,13,">cubrirá</wi>
 <wi type="G" value="4128,14,">multitud</wi>
 <wi type="G" value="266,15,">de pecados</wi>.</t>
 </sv>
@@ -1920,7 +1920,7 @@ glory and the dominion forever and ever. Amen.
 <t xml:lang="es"><wi type="G" value="1487,1,">Si</wi>
 <wi type="G" value="5100,2,">alguien</wi>
 <wi type="G" value="2980,3,">habla</wi>, que sea
-<wi type="G" value="5613,4,">conforma a </wi>
+<wi type="G" value="5613,4,">conforme a </wi>
 <wi type="G" value="3051,5,">la palabra</wi>
 <wi type="G" value="2316,6,">de Dios</wi>.
 <wi type="G" value="1487,7,">Si</wi>
@@ -1950,7 +1950,7 @@ glory and the dominion forever and ever. Amen.
 <wi type="G" value="1519,33,">por</wi>
 <wi type="G" value="3588,34,"/><wi type="G" value="165,35,">siempre</wi> y
 <wi type="G" value="3588,36,"/><wi type="G" value="165,37,">siempre</wi>.
-<wi type="G" value="281,38,">Amen</wi>.
+<wi type="G" value="281,38,">Amén</wi>.
 </t>
 </sv>
 </cm><cm>
@@ -1966,7 +1966,7 @@ you
 <wi type="G" value="3579,3,">extrañen</wi>
 <wi type="G" value="1722,5,">por</wi>
 <wi type="G" value="3588,4,">el</wi>
-<wi type="G" value="4451,7,">feroz juicio</wi>
+<wi type="G" value="4451,7,">fuego</wi>
 <wi type="G" value="4314,8,">que</wi>
 <wi type="G" value="5213,10,">los</wi>
 <wi type="G" value="3986,9,">pone a prueba</wi>;
