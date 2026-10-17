@@ -2127,7 +2127,7 @@ the sinner?»
 <sv id="b1_Peter-4-19">
 Therefore let them also who suffer according to the will
 of God in doing good entrust their souls to him, as to a faithful Creator.
-<t xml:lang="es"><wi type="G" value="5620,1,">Entonces</wi>
+<t xml:lang="es"><wi type="G" value="5620,1,">Por tanto</wi>
 <wi type="G" value="2532,2,">también</wi>
 <wi type="G" value="3588,3,">los que</wi>
 <wi type="G" value="3958,4,">sufren</wi>
@@ -2136,11 +2136,10 @@ of God in doing good entrust their souls to him, as to a faithful Creator.
 <wi type="G" value="2307,7,">voluntad</wi>
 <wi type="G" value="3588,8,">de</wi>
 <wi type="G" value="2316,9,">Dios</wi>
-<wi type="G" value="1722,17,">al</wi>
-<wi type="G" value="16,18,">hacer bien</wi>
 <wi type="G" value="3908,13,">confíen</wi>
 <wi type="G" value="1438,16,">sus</wi>
-<wi type="G" value="3588,14,"/><wi type="G" value="5590,15,">almas</wi> a Él,
+<wi type="G" value="3588,14,"/><wi type="G" value="5590,15,">almas</wi> a Él
+<wi type="G" value="1722,17,"/><wi type="G" value="16,18,">haciendo el bien</wi>,
 <wi type="G" value="5613,10,">como</wi> a
 <wi type="G" value="2939,12,">un Creador</wi>
 <wi type="G" value="4103,11,">fiel</wi>.</t>
