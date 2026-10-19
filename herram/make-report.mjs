@@ -54,6 +54,9 @@ function esParticipioPasivo(w) {
   return /(ado|ada|ido|ida)$/.test(last)
 }
 
+// Imperfectos que convencionalmente se vierten en pretérito simple (φημί).
+const IMPERFECTO_PRETERITO_EXC = new Set(['εφη'])
+
 // Devuelve hallazgos automáticos de morfología (indicativo y participios).
 function detectarMorfologia(verbs, words) {
   const flags = []
@@ -64,7 +67,7 @@ function detectarMorfologia(verbs, words) {
     const w = (words[pos] || '').trim()
     if (!w) continue
     // Imperfecto indicativo (V-I*I) vertido en pretérito simple
-    if (/^V-I[A-Z]I/.test(morph) && esPreteritoSimple(w)) {
+    if (/^V-I[A-Z]I/.test(morph) && !IMPERFECTO_PRETERITO_EXC.has(vb.greek) && esPreteritoSimple(w)) {
       flags.push(`⚙️ Imperfecto ${morph} «${vb.greek}» → «${w}» (pretérito); se espera imperfecto (-aba/-ía).`)
     }
     // Participio presente activo (V-PAP) vertido con apariencia pasiva (-ado/-ido)

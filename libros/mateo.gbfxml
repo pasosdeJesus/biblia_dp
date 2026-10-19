@@ -2233,7 +2233,7 @@ que
 <wi type="G" value="32,8,">ángeles</wi>
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="846,12,">lo</wi>
-<wi type="G" value="1247,11,">atendieron</wi>. 
+<wi type="G" value="1247,11,">atendían</wi>. 
 </t>
 </sv>
 </cm><cm>
@@ -2268,7 +2268,7 @@ the sea, in the region of Zebulun and Naphtali,
 <wi type="G" value="2532,1,"/><wi type="G" value="2641,2,">Saliendo</wi> de
 <wi type="G" value="3588,3,"/><wi type="G" value="3478,4,">Nazaret</wi>,
 <wi type="G" value="2064,5,">fue</wi>
-<wi type="G" value="2730,6,"> y se quedó</wi>
+y <wi type="G" value="2730,6,">habitó</wi>
 <wi type="G" value="1519,7,">en</wi>
 <wi type="G" value="2584,8,">Capernaum</wi>,
 <wi type="G" value="3588,9,">que</wi> 
@@ -2561,7 +2561,7 @@ preaching the Good News of the Kingdom, and healing every disease and every
 sickness among the people.
 <t xml:lang="es">
 <wi type="G" value="2532,1,"/><wi type="G" value="2424,7,">Jesús</wi>
-<wi type="G" value="4013,2,">fue</wi> por
+<wi type="G" value="4013,2,">recorría</wi>
 <wi type="G" value="3650,3,">toda</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="1056,5,">Galilea</wi>,
 <wi type="G" value="3588,6,"/><wi type="G" value="1321,8,">enseñando</wi>
@@ -2574,8 +2574,8 @@ sickness among the people.
 <wi type="G" value="932,18,">Reino</wi>,
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="2323,20,">sanando</wi>
-<wi type="G" value="3956,21,">todo</wi>
-<wi type="G" value="3554,22,">desorden</wi>
+<wi type="G" value="3956,21,">toda</wi>
+<wi type="G" value="3554,22,">dolencia</wi>
 <wi type="G" value="2532,23,">y</wi>
 <wi type="G" value="3956,24,">toda</wi>
 <wi type="G" value="3119,25,">enfermedad</wi>
@@ -2652,7 +2652,7 @@ and from beyond the Jordan followed him.
 <wi type="G" value="3588,17,"/><wi type="G" value="4008,16,">otro lado</wi> del
 <wi type="G" value="2446,18,">Jordán</wi>
 <wi type="G" value="846,3,">lo</wi>
-<wi type="G" value="190,2,">seguían</wi>. 
+<wi type="G" value="190,2,">siguieron</wi>. 
 </t>
 </sv>
 </cm>
