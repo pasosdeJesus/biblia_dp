@@ -204,7 +204,13 @@ Robinson junto a cada palabra griega. Ejemplo:
 3. **Aplicar regla solo a indicativos** (3ª letra = `I`):
    - Aoristo indicativo (`V-A.I-`): verificar que SpaTDP use «he X»,
      «ha X» (si pasivo: «ha sido X»). Reportar si usa pretérito simple
-     (-ó/-ieron)
+     (-ó/-ieron).
+     **Excepción (narración):** en narración histórica o hechos puntuales
+     (genealogías, sucesos narrativos), el pretérito simple (-ó/-ieron) es
+     correcto; «he X» se reserva para afirmaciones teológicas, exhortaciones
+     y no-narrativa. Ej.: «engendró» (genealogía) y «hizo/ordenó/tomó»
+     (hechos puntuales) van en pretérito; «Cristo ha sufrido» (afirmación
+     teológica) va en «he X».
    - Perfecto indicativo (`V-.R.-` o `V-2R.-`): verificar que SpaTDP use
      «he sido X», «ha sido X» o equivalente de estado resultante.
      Reportar si usa presente simple o pretérito
@@ -369,8 +375,17 @@ KJV: G3037,18 (stone en posición 18)
 - [ ] ¿Todos los Strong de SpaTDP están en KJV?
 - [ ] ¿Todas las posiciones coinciden?
 - [ ] ¿Hay palabras divididas en KJV (type="x-split")? → Contar como una
-- [ ] ¿Ortografía correcta en español?
+- [ ] ¿Ortografía correcta en español? (incluye **tildes en nombres propios**:
+  Abías, Uzías, Ezequías, Salomón, José, María, etc.)
 - [ ] ¿Traducción coherente con el griego?
+- [ ] ¿Cada **preposición** está bien vertida? (ἐκ/ἀπό = «de/desde», no «con»;
+  ἐν = «en»; κατά = «según»; διά = «por/mediante»)
+- [ ] ¿Cada **artículo G3588** está bien resuelto? («el/la/los/las», «lo que»,
+  «a», «de», o vacío según contexto; no confundir con relativo «quien»)
+- [ ] ¿Cada **demostrativo/relativo** está bien vertido? (οὗτος=«este»,
+  ἐκεῖνος=«ese/aquel», ὅς=«quien/que», τό=«lo que»)
+- [ ] ¿Hay artículos o preposiciones **faltantes** en el español? (ej. «al rey
+  David» vs «rey David»)
 
 ### 5. Resumen final
 

@@ -158,12 +158,12 @@ father of Obed by Ruth. Obed became the father of Jesse.
 <wi type="G" value="1161,2,"/><wi type="G" value="4533,1,">Salmón</wi>
 <wi type="G" value="1080,3,">engendró</wi> a
 <wi type="G" value="3588,4,"/><wi type="G" value="1003,5,">Booz</wi>
-<wi type="G" value="1537,6,">con</wi>
+<wi type="G" value="1537,6,">de</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="4477,8,">Rahab</wi>.
 <wi type="G" value="1161,10,"/><wi type="G" value="1003,9,">Booz</wi>
 <wi type="G" value="1080,11,">engendró</wi> a
 <wi type="G" value="3588,12,"/><wi type="G" value="5601,13,">Obed</wi>
-<wi type="G" value="1537,14,">con</wi>
+<wi type="G" value="1537,14,">de</wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="4503,16,">Rut</wi>.
 <wi type="G" value="1161,18,"/><wi type="G" value="5601,17,">Obed</wi>
 <wi type="G" value="1080,19,">engendró</wi> a
@@ -186,7 +186,7 @@ had been the wife of Uriah.
 <wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="2421,1,">Jessé</wi>
 <wi type="G" value="1080,3,">engendró</wi>
-<wi type="G" value="3588,4,"/> 
+<wi type="G" value="3588,4,">al</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="935,7,">rey</wi>
 <wi type="G" value="1138,5,">David</wi>.
 <wi type="G" value="1161,9,"/><wi type="G" value="3588,10,">El</wi>
@@ -211,7 +211,7 @@ Rehoboam became the father of Abijah. Abijah became the father of Asa.
 <wi type="G" value="3588,4,"/><wi type="G" value="4497,5,">Roboam</wi>.
 <wi type="G" value="1161,7,"/><wi type="G" value="4497,6,">Roboam</wi>
 <wi type="G" value="1080,8,">engendró</wi> a
-<wi type="G" value="3588,9,"/><wi type="G" value="7,10,">Abias</wi>.
+<wi type="G" value="3588,9,"/><wi type="G" value="7,10,">Abías</wi>.
 <wi type="G" value="1161,12,"/><wi type="G" value="7,11,">Abias</wi>
 <wi type="G" value="1080,13,">engendró</wi> a
 <wi type="G" value="3588,14,"/><wi type="G" value="760,15,">Asa</wi>. 
@@ -230,7 +230,7 @@ Joram. Joram became the father of Uzziah.
 <wi type="G" value="3588,9,"/><wi type="G" value="2496,10,">Joram</wi>.
 <wi type="G" value="1161,12,"/><wi type="G" value="2496,11,">Joram</wi>
 <wi type="G" value="1080,13,">engendró</wi> a
-<wi type="G" value="3588,14,"/><wi type="G" value="3604,15,">Uzias</wi>. 
+<wi type="G" value="3588,14,"/><wi type="G" value="3604,15,">Uzías</wi>. 
 </t>
 </sv>
 
@@ -246,7 +246,7 @@ Jotham. Jotham became the father of Ahaz. Ahaz became the father of Hezekiah.
 <wi type="G" value="3588,9,"/><wi type="G" value="881,10,">Acaz</wi>.
 <wi type="G" value="1161,12,"/><wi type="G" value="881,11,">Acaz</wi>
 <wi type="G" value="1080,13,">engendró</wi> a
-<wi type="G" value="3588,14,"/><wi type="G" value="1478,15,">Ezequias</wi>. 
+<wi type="G" value="3588,14,"/><wi type="G" value="1478,15,">Ezequías</wi>. 
 </t>
 </sv>
 
@@ -529,7 +529,7 @@ her is of the Holy Spirit.
 <wi type="G" value="3588,20,"/><wi type="G" value="4675,22,">tu</wi>
 <wi type="G" value="1135,21,">esposa</wi>,
 <wi type="G" value="1063,24,">pues</wi>
-<wi type="G" value="3588,23,">quien</wi>
+<wi type="G" value="3588,23,">el que</wi>
 <wi type="G" value="1080,27,">se ha concebido</wi>
 <wi type="G" value="1722,25,">en</wi>
 <wi type="G" value="846,26,">ella</wi>
@@ -570,7 +570,7 @@ by the Lord through the prophet, saying,
 <wi type="G" value="1161,2,"/><wi type="G" value="3650,3,">Todo</wi>
 <wi type="G" value="5124,1,">esto</wi> 
 </t>
-<rb xml:lang="es"><wi type="G" value="1096,4,">fue hecho</wi><rf>
+<rb xml:lang="es"><wi type="G" value="1096,4,">ha acontecido</wi><rf>
 <citebib id="WEB"/> dice `ocurrió,´ <citebib id="KJV2003"/> dice `fue hecho.´
 </rf>
 </rb>
