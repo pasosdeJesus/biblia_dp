@@ -34,6 +34,47 @@ function strongs(lst) {
   return lst.map(([n, p]) => `G${n},${p}`).join(' ')
 }
 
+// --- Detección heurística de tiempo verbal en español ---
+const PRETERITO_IRREG = new Set([
+  'fue', 'fui', 'fueron', 'fuiste', 'fuimos', 'vio', 'dio', 'hizo', 'dijo',
+  'trajo', 'puso', 'quiso', 'supo', 'vino', 'tuvo', 'estuvo', 'anduvo',
+  'pusieron', 'vinieron', 'tuvieron', 'dijeron', 'hicieron', 'trajeron'
+])
+
+function esPreteritoSimple(w) {
+  const first = w.toLowerCase().replace(/[.,;:!?»«()"]/g, '').split(/\s+/)[0]
+  if (PRETERITO_IRREG.has(first)) return true
+  if (/(ó|ió)$/.test(first)) return true
+  if (/(aron|ieron)$/.test(first)) return true
+  return false
+}
+
+function esParticipioPasivo(w) {
+  const last = w.toLowerCase().replace(/[.,;:!?»«()"]/g, '').split(/\s+/).pop()
+  return /(ado|ada|ido|ida)$/.test(last)
+}
+
+// Devuelve hallazgos automáticos de morfología (indicativo y participios).
+function detectarMorfologia(verbs, words) {
+  const flags = []
+  if (!words) return flags
+  for (const vb of verbs) {
+    const morph = vb.morph || ''
+    const pos = String(vb.src || '').trim().split(/\s+/)[0]
+    const w = (words[pos] || '').trim()
+    if (!w) continue
+    // Imperfecto indicativo (V-I*I) vertido en pretérito simple
+    if (/^V-I[A-Z]I/.test(morph) && esPreteritoSimple(w)) {
+      flags.push(`⚙️ Imperfecto ${morph} «${vb.greek}» → «${w}» (pretérito); se espera imperfecto (-aba/-ía).`)
+    }
+    // Participio presente activo (V-PAP) vertido con apariencia pasiva (-ado/-ido)
+    if (/^V-PAP/.test(morph) && esParticipioPasivo(w)) {
+      flags.push(`⚙️ Participio activo ${morph} «${vb.greek}» → «${w}» (apariencia pasiva -ado/-ido); revisar voz.`)
+    }
+  }
+  return flags
+}
+
 const out = []
 out.push('# Revisión — fuente canónica `libros/*.gbfxml`')
 out.push('')
@@ -70,8 +111,10 @@ for (const v of Object.keys(gbf).sort((a, b) => a - b)) {
   out.push('')
   out.push('**Verificación:**')
   const fs2 = findings[String(v)] || []
-  if (fs2.length === 0) out.push('(sin hallazgos registrados)')
+  const auto = detectarMorfologia(k.verbs, g.words)
+  if (fs2.length === 0 && auto.length === 0) out.push('(sin hallazgos registrados)')
   for (const f of fs2) out.push(`- ${f}`)
+  for (const a of auto) out.push(`- ${a}`)
   if (g.missing.length || g.extra.length) {
     out.push(`- Diferencia Strong: faltan [${strongs(g.missing)}]; sobran [${strongs(g.extra)}]`)
   }

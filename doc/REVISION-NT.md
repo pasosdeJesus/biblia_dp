@@ -121,6 +121,8 @@ fidelidad respecto al Textus Receptus.
   morfología Robinson de cada verbo. Paso 1 del flujo de revisión.
 - `herram/make-report.mjs <json> [findings.json]` - Genera el reporte
   Markdown verso a verso (4 traducciones + Strong + morfología + hallazgos).
+  Incluye detección automática de morfología (marca con `⚙️`): imperfecto
+  indicativo vertido en pretérito y participio activo con apariencia pasiva.
   Paso 2 del flujo de revisión.
 
 **Flujo de revisión sistemático:**

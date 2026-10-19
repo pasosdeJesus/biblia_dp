@@ -1472,18 +1472,17 @@ For this is he who was spoken of by Isaiah the prophet, saying,
 <wi type="G" value="2076,3,">es</wi>
 <wi type="G" value="3588,4,">aquel</wi>
 <wi type="G" value="5259,6,">de quien</wi>
-<wi type="G" value="4483,5,">habló</wi>
+<wi type="G" value="4483,5,"><wi type="G" value="3004,10,">fue dicho por</wi></wi>
 <wi type="G" value="3588,8,">el</wi>
 <wi type="G" value="4396,9,">profeta</wi>
 <wi type="G" value="2268,7,">Isaías</wi>,
-<wi type="G" value="3004,10,">diciendo</wi>, 
 </t>
 <cl/><fp>
 «The voice of one crying in the wilderness,
 <t xml:lang="es">
 «<wi type="G" value="5456,11,">La voz</wi> 
 </t>
-<rb xml:lang="es"><wi type="G" value="994,12,">clamada</wi><rf>
+<rb xml:lang="es"><wi type="G" value="994,12,">del que clama</wi><rf>
 Ver nota al pie de Lucas 3:4.
 </rf>
 </rb>
@@ -1549,7 +1548,7 @@ Jerusalem, all of Judea, and all the region around the Jordán went out to
 him.
 <t xml:lang="es">
 <wi type="G" value="5119,1,">Entonces</wi>
-<wi type="G" value="1607,2,">fue</wi>
+<wi type="G" value="1607,2,">iba</wi>
 <wi type="G" value="4314,3,">donde</wi>
 <wi type="G" value="846,4,">él</wi>, la gente de
 <wi type="G" value="2414,5,">Jerusalén</wi>,
@@ -1571,7 +1570,7 @@ They were
 </t>
 <rb>baptized
 <t xml:lang="es">
-<wi type="G" value="907,2,">fueron bautizados</wi>
+<wi type="G" value="907,2,">eran bautizados</wi>
 </t><rf>
 or, immersed. <t xml:lang="es"> o sumergidos. </t>
 </rf>
@@ -1819,7 +1818,7 @@ by you, and you come to me?»
 <wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="2491,3,">Juan</wi> se
 <wi type="G" value="846,5,">le</wi>
-<wi type="G" value="1254,4,">opuso</wi>,
+<wi type="G" value="1254,4,">oponía</wi>,
 <wi type="G" value="3004,6,">diciendo</wi>,
 «
 <wi type="G" value="1473,7,">Yo</wi>
@@ -1852,19 +1851,16 @@ fitting way for us to fulfill all righteousness.»
 «
 </t>
 <rb xml:lang="es"><wi type="G" value="863,8,">Permítelo</wi><rf>
-<citebib id="WEB"/> dice `permitelo,´ <citebib id="KJV2003"/> dice `sufrelo.´
+<citebib id="WEB"/> dice `permítelo,´ <citebib id="KJV2003"/> dice `sufrelo.´
 </rf>
 </rb>
 <t xml:lang="es">
-<wi type="G" value="2076,13,">así</wi>
 <wi type="G" value="737,9,">ahora</wi>,
 <wi type="G" value="1063,11,">pues</wi>
-<wi type="G" value="3779,10,"/>
-esta 
-<wi type="G" value="4241,12,">es</wi> la forma
-apropiada para 
-<wi type="G" value="2254,14,"/> que
-<wi type="G" value="4137,15,">cumplamos</wi> con
+<wi type="G" value="3779,10,">así</wi>
+<wi type="G" value="2254,14,">nos</wi>
+<wi type="G" value="2076,13,"/><wi type="G" value="4241,12,">conviene</wi>
+<wi type="G" value="4137,15,">cumplir</wi>
 <wi type="G" value="3956,16,">toda</wi>
 <wi type="G" value="1343,17,">justicia</wi>.» 
 </t>
@@ -1886,13 +1882,12 @@ as a dove, and coming on him.
 <wi type="G" value="3588,3,"/><wi type="G" value="2424,4,">Jesús</wi>
 <wi type="GC" value="2">fue bautizado</wi>,
 <wi type="G" value="305,5,">salió</wi>
-<wi type="G" value="2117,6,">directamente</wi>
+<wi type="G" value="2117,6,">luego</wi>
 <wi type="G" value="575,7,">del</wi>
 <wi type="G" value="3588,8,"/><wi type="G" value="5204,9,">agua</wi>;
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="2400,11,">he aquí</wi>
-que 
-<wi type="G" value="3588,14,">los</wi>
+que <wi type="G" value="3588,14,">los</wi>
 <wi type="G" value="3772,15,">cielos</wi>
 <wi type="G" value="846,13,">le</wi>
 <wi type="G" value="455,12,">fueron abiertos</wi>.
@@ -1931,11 +1926,11 @@ Behold, a voice out of the heavens said,
 <wi type="G" value="2076,9,">es</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="3450,12,">mi</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="27,14,">amado</wi>
-<wi type="G" value="5207,11,">hijo</wi>, 
+<wi type="G" value="5207,11,">Hijo</wi>, 
 </t>
 <rb xml:lang="es"><wi type="G" value="1722,15,">en</wi>
 <wi type="G" value="3739,16,">quien</wi>
-<wi type="G" value="2106,17,">estoy bien complacido</wi><rf>
+<wi type="G" value="2106,17,">me he complacido</wi><rf>
 <citebib id="DiosHablaHoy"/> dice `a quien he elegido.´
 </rf>
 </rb>

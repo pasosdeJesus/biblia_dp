@@ -138,6 +138,23 @@ function strongsFrom(node, out) {
   for (const c of childNodesArr(node)) strongsFrom(c, out)
 }
 
+// Texto español por posición Strong: { posición: "texto" }
+// (unión de <wi> y su continuación <wi type="GC"> cuando comparten posición)
+function spaWordsFrom(node, out) {
+  if (node.nodeType !== 1) return
+  if (node.tagName === 'rf') return
+  if (node.tagName === 'wi') {
+    const value = node.getAttribute('value') || ''
+    const m = value.match(/^[A-Za-z]*(\d+),(\d+),?/)
+    if (m) {
+      const pos = parseInt(m[2], 10)
+      const txt = textOf(node).trim()
+      if (txt) out[pos] = (out[pos] ? out[pos] + ' ' : '') + txt
+    }
+  }
+  for (const c of childNodesArr(node)) spaWordsFrom(c, out)
+}
+
 // --- GBF (SpaTDP + WEB) ---
 const gbf = {}
 const doc = new DOMParser().parseFromString(fs.readFileSync(gbfPath, 'utf-8'), 'application/xml')
@@ -148,11 +165,13 @@ for (let i = 0; i < doc.getElementsByTagName('sv').length; i++) {
   if (!m || parseInt(m[1], 10) !== ch) continue
   const v = parseInt(m[2], 10)
   const strongs = []
-  for (const c of childNodesArr(sv)) strongsFrom(c, strongs)
+  const words = {}
+  for (const c of childNodesArr(sv)) { strongsFrom(c, strongs); spaWordsFrom(c, words) }
   gbf[v] = {
     web: web(sv),
     spa: spanish(sv),
-    strongs: [...new Map(strongs.map(x => [x.join('-'), x])).values()].sort((a, b) => a[1] - b[1] || a[0] - b[0])
+    strongs: [...new Map(strongs.map(x => [x.join('-'), x])).values()].sort((a, b) => a[1] - b[1] || a[0] - b[0]),
+    words
   }
 }
 
