@@ -116,6 +116,30 @@ fidelidad respecto al Textus Receptus.
 ### Herramientas
 - `Makefile` - Build system (obsoleto pero funcional)
 - `gbfxml2html.xsl`, `gbfxml2db.xsl` - Conversiones XSLT
+- `herram/parse-revision.mjs <libro> <capítulo>` - Extrae a JSON el texto de
+  las 4 fuentes (WEB, SpaTDP, KJV, RVG2012), los Strong+posición y la
+  morfología Robinson de cada verbo. Paso 1 del flujo de revisión.
+- `herram/make-report.mjs <json> [findings.json]` - Genera el reporte
+  Markdown verso a verso (4 traducciones + Strong + morfología + hallazgos).
+  Paso 2 del flujo de revisión.
+
+**Flujo de revisión sistemático:**
+
+```bash
+# 1. Extraer datos (Strong, verbos, 4 traducciones) a JSON
+node herram/parse-revision.mjs mateo 2 > /tmp/rev2.json
+
+# 2. (opcional) Crear hallazgos por versículo en JSON
+#    { "4": ["G4441 imperfecto «preguntó»→«preguntaba»", ...] }
+
+# 3. Generar el reporte Markdown
+node herram/make-report.mjs /tmp/rev2.json /tmp/findings2.json > /tmp/rev2.md
+```
+
+El parseador extrae **programáticamente** (no manual) todos los Strong con
+posición y todos los verbos con su código Robinson, y calcula `missing`/`extra`
+por diferencia de conjuntos. Sobre ese JSON se aplica la verificación
+morfológica de la sección 2.1 y la lista de chequeo 4.7.
 
 ## Protocolo de revisión obligatorio
 
@@ -215,7 +239,12 @@ Robinson junto a cada palabra griega. Ejemplo:
      «he sido X», «ha sido X» o equivalente de estado resultante.
      Reportar si usa presente simple o pretérito
    - Presente indicativo (`V-P.I-`): verificar que SpaTDP use «está/es X»
-     o presente simple
+     o presente simple.
+     **Presente histórico:** en narración, el presente griego (*praesens
+     historicum*) puede verterse como pasado en español (opción del
+     traductor) sin considerarlo error. Ej.: «βασιλεύει» (2:22) → «reinaba»;
+     «φαίνεται» (2:13,19) → «se apareció». Conservar el presente («reina»,
+     «se aparece») también es defendible por fidelidad al griego.
    - Imperfecto indicativo (`V-I.I-`): verificar que SpaTDP use «-aba/-ía»
      (acción continua en pasado). Reportar si usa pretérito simple (-ó)
 4. **No aplicar a**: subjuntivos (`S`), imperativos (`M`), infinitivos (`N`),
