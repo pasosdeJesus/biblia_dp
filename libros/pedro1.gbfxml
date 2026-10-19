@@ -2161,8 +2161,7 @@ revealed.
 <wi type="G" value="3588,2,">que</wi> hay
 <wi type="G" value="1722,3,">entre</wi>
 <wi type="G" value="5213,4,">ustedes</wi>,
-<wi type="G" value="3588,6,">como</wi>
-<wi type="G" value="4850,7,">anciano</wi>,
+<wi type="G" value="3588,6,"/><wi type="G" value="4850,7,">como anciano con ustedes</wi>,
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="3144,9,">testigo</wi>
 <wi type="G" value="3804,13,">de los sufrimientos</wi>
@@ -2187,7 +2186,7 @@ willingly;
 <wi type="G" value="2316,7,">Dios</wi> que está
 <wi type="G" value="1722,3,">entre</wi>
 <wi type="G" value="5213,4,">ustedes</wi>,
-<wi type="G" value="1893,8,">ejerzan vigilancia</wi>
+<wi type="G" value="1983,8,">ejerciendo vigilancia</wi>
 <wi type="G" value="3361,9,">no</wi>
 <wi type="G" value="317,10,">por obligación</wi>,
 <wi type="G" value="235,11,">sino</wi>
