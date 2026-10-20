@@ -2200,15 +2200,36 @@ willingly;
 <sv id="b1_Peter-5-3">
 neither as lording it over the charge allotted to you, but
 making yourselves examples to the flock.
+<t xml:lang="es"><wi type="G" value="3366,1,">ni</wi>
+<wi type="G" value="5613,2,">como</wi>
+<wi type="G" value="2634,3,">señores sobre</wi>
+<wi type="G" value="3588,4,">la</wi>
+<wi type="G" value="2819,5,">herencia</wi> de Dios
+<wi type="G" value="235,6,">sino</wi>
+<wi type="G" value="1096,8,">siendo</wi>
+<wi type="G" value="5179,7,">ejemplo</wi> para
+<wi type="G" value="3588,9,">el</wi>
+<wi type="G" value="4168,10,">rebaño</wi>.
+</t>
 </sv>
 
 <sv id="b1_Peter-5-4">
 When the chief Shepherd is
 revealed, you
 <wi type="T" value="P"/> will receive the crown of glory that doesn´t fade away.
+<t xml:lang="es"><wi type="G" value="2532,1,">Cuando</wi>
+<wi type="G" value="3588,3,">el</wi>
+<wi type="G" value="750,4,">pastor jefe</wi>
+<wi type="G" value="5319,2,">se revele</wi>,
+<wi type="G" value="2865,5,">ustedes recibirán</wi>
+<wi type="G" value="4735,10,">una corona</wi>
+<wi type="G" value="3588,8,">de</wi>
+<wi type="G" value="1391,9,">gloria</wi> que
+<wi type="G" value="3588,6,"/><wi type="G" value="262,7,">no se desvanece</wi>.</t>
 </sv>
-</cm><cm>
+</cm>
 
+<cm>
 <sv id="b1_Peter-5-5">
 Likewise, you
 <wi type="T" value="P"/> younger ones, be subject to the elder. Yes, all of
