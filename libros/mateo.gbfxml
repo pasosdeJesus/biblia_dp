@@ -2688,7 +2688,7 @@ them, saying,
 <wi type="G" value="4750,4,">boca</wi>
 y 
 <wi type="G" value="846,7,">les</wi>
-<wi type="G" value="1321,6,">enseñó</wi>
+<wi type="G" value="1321,6,">enseñaba</wi>
 <wi type="G" value="3004,8,">diciendo</wi>, 
 </t>
 </sv>
@@ -2969,9 +2969,8 @@ but to be cast out and trodden under the feet of men.
 <wi type="G" value="217,10,">sal</wi>
 <wi type="G" value="3471,11,">pierde su sabor</wi>,
 <wi type="G" value="1722,12,"/>
-¿
-<wi type="G" value="5101,13,">Con que</wi>
-<wi type="G" value="233,14,">podrá devolvérsele el sabor</wi>?
+¿<wi type="G" value="5101,13,">Con qué</wi>
+<wi type="G" value="233,14,">será salada</wi>?
 <wi type="G" value="2089,18,">Entonces</wi> no
 <wi type="G" value="2480,17,">es buena</wi>
 <wi type="G" value="1519,15,"> para</wi>
@@ -3088,6 +3087,9 @@ come to destroy, but to fulfill.
 </t>
 <rb xml:lang="es"><wi type="G" value="4137,15,">a completar</wi><rf>
 <citebib id="LAT"/> dice `perfeccionar,´ <citebib id="WEB"/> dice `completar.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `πληρόω' puede
+traducirse llenar, hacer abundar, completar pero también
+como poner en efecto, realizar, cumplir.
 </rf>
 </rb>
 <t xml:lang="es">
@@ -3268,7 +3270,7 @@ brother, `
 <wi type="G" value="3754,5,"/><wi type="G" value="3956,6,">cualquiera</wi> que
 <wi type="G" value="3588,7,"/>
 </t>
-<rb xml:lang="es"><wi type="G" value="3710,8,">este de mal genio</wi>
+<rb xml:lang="es"><wi type="G" value="3710,8,">esté de mal genio</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="80,10,">con</wi>
 <wi type="G" value="846,11,">su</wi>
 <wi type="GC" value="10">hermano</wi><rf>
@@ -3307,12 +3309,12 @@ fire of
 <t xml:lang="es">
 !´ <wi type="G" value="2071,26,">estará</wi>
 <wi type="G" value="3588,27,"/><wi type="G" value="1777,25,">en peligro</wi>
-<wi type="G" value="4892,28,">del Concejo</wi>;
+<wi type="G" value="4892,28,">del Consejo</wi>;
 <wi type="G" value="1161,30,">y</wi>
 <wi type="G" value="3739,29,">cualquiera</wi>
 <wi type="G" value="302,31,"/><wi type="G" value="2036,32,">que le diga</wi>,
 `¡
-<wi type="G" value="3474,33,">Tu, tonto</wi>!´
+<wi type="G" value="3474,33,">Tú, tonto</wi>!´
 <wi type="G" value="2071,35,">estará</wi>
 <wi type="G" value="1777,34,">en peligro</wi>
 <wi type="G" value="1519,36,">del</wi>
@@ -3688,7 +3690,7 @@ completado el matrimonio al vivir en unión libre (concubinato).
 ,
 <wi type="G" value="846,16,">la</wi>
 <wi type="G" value="4160,15,">hace</wi>
-<wi type="G" value="3429,17,">una adultera</wi>;
+<wi type="G" value="3429,17,">una adúltera</wi>;
 <wi type="G" value="2532,18,">y</wi>
 <wi type="G" value="3739,19,">cualquiera</wi>
 <wi type="G" value="1437,20,"/> que
@@ -4114,7 +4116,7 @@ do the same?
 <wi type="G" value="3440,7,">sólo</wi>
 <wi type="G" value="782,3,">saludas</wi> a
 <wi type="G" value="3588,4,"/><wi type="G" value="5216,6,">tus</wi>
-<wi type="G" value="80,5,">amigos</wi>,
+<wi type="G" value="80,5,">hermanos</wi>,
 ¿
 <wi type="G" value="5101,8,">qué</wi>
 <wi type="G" value="4160,10,">haces</wi>
