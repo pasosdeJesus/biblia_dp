@@ -17,9 +17,10 @@ import fs from 'fs'
 
 const jsonPath = process.argv[2]
 const findingsPath = process.argv[3]
+const glosarioPath = process.argv[4]
 
 if (!jsonPath) {
-  console.error('Uso: node herram/make-report.mjs <json> [findings.json]')
+  console.error('Uso: node herram/make-report.mjs <json> [findings.json] [glosario.json]')
   process.exit(1)
 }
 
@@ -29,6 +30,7 @@ const kjv = d.kjv
 const rvg = d.rvg
 
 const findings = findingsPath ? JSON.parse(fs.readFileSync(findingsPath, 'utf-8')) : {}
+const glosario = glosarioPath ? JSON.parse(fs.readFileSync(glosarioPath, 'utf-8')) : null
 
 function strongs(lst) {
   return lst.map(([n, p]) => `G${n},${p}`).join(' ')
@@ -78,6 +80,80 @@ function detectarMorfologia(verbs, words) {
   return flags
 }
 
+// Preposiciones griegas → traducción española esperada (por Strong).
+const PREP_ES = {
+  575: ['de', 'desde'],        // ἀπό
+  1537: ['de', 'desde', 'del'],// ἐκ
+  1722: ['en'],                // ἐν
+  1519: ['a', 'en', 'al'],     // εἰς
+  1909: ['sobre', 'en'],       // ἐπί
+  4314: ['a', 'hacia', 'al'],  // πρός
+  1223: ['por', 'mediante'],   // διά
+  2596: ['según', 'contra'],   // κατά
+  5259: ['por', 'de'],         // ὑπό
+  4012: ['acerca', 'alrededor', 'por'], // περί
+  3326: ['con'],               // μετά
+  3844: ['junto', 'al lado', 'a orillas'], // παρά
+  4862: ['con']                // σύν
+}
+
+function detectarPreposiciones(preps, words) {
+  const flags = []
+  if (!words) return flags
+  for (const p of (preps || [])) {
+    const pos = String(p.src || '').trim().split(/\s+/)[0]
+    const w = (words[pos] || '').trim().toLowerCase()
+    if (!w) continue
+    const esperados = PREP_ES[p.strong] || []
+    if (!esperados.length) continue
+    const first = w.split(/\s+/)[0].replace(/[.,;:!?»«()"]/g, '')
+    if (!esperados.some(e => first === e || first.startsWith(e))) {
+      flags.push(`⚙️ Preposición G${p.strong} «${p.greek}» → «${w}»; se espera ${esperados.join('/')}.`)
+    }
+  }
+  return flags
+}
+
+// Palabras funcionales con variación legítima (no se marcan por léxico).
+const SKIP_LEXICO = new Set([
+  3588, 846, 2532, 1161, 1063, 3754, 1722, 1519, 1909, 5259, 575, 1537,
+  4314, 4012, 3326, 2596, 1223, 3778, 1565, 3739, 5101, 3956, 3361, 3756,
+  1487, 1437, 2443, 3767, 235, 2228, 3004, 2036, 2076, 1510, 1096, 2192,
+  4160, 1325, 2064, 1492, 191, 2983, 863, 906, 5087, 2476, 2521, 2309, 1410
+])
+
+// Marca traducciones léxicas inusuales: palabra usada pocas veces (<= 3) para
+// un Strong que tiene otra traducción dominante. Incluye el lema griego
+// (lemma.TR) para juzgar fidelidad, no solo consistencia.
+function detectarLexico(strongs, words, glosario, greekMap) {
+  const flags = []
+  if (!glosario || !words) return flags
+  for (const [n, pos] of strongs) {
+    if (SKIP_LEXICO.has(n)) continue
+    const g = glosario[String(n)]
+    if (!g) continue
+    const w = (words[String(pos)] || '').trim().toLowerCase()
+    if (!w) continue
+    // Normaliza a minúsculas el glosario (fusiona diferencias de mayúscula)
+    const gLower = {}
+    let total = 0
+    for (const [k, c] of Object.entries(g)) {
+      const kk = k.toLowerCase()
+      gLower[kk] = (gLower[kk] || 0) + c
+      total += c
+    }
+    if (!gLower[w]) continue
+    const entradas = Object.entries(gLower)
+    const max = Math.max(...entradas.map(([, c]) => c))
+    if (gLower[w] < max && gLower[w] <= 3) {
+      const comunes = entradas.filter(([, c]) => c === max).map(([k]) => k)
+      const greek = (greekMap && greekMap[n]) ? ` (${greekMap[n]})` : ''
+      flags.push(`⚙️ Léxico G${n}${greek} → «${w}» (${gLower[w]}/${total} usos); frecuente: ${comunes.join(' / ')}.`)
+    }
+  }
+  return flags
+}
+
 const out = []
 out.push('# Revisión — fuente canónica `libros/*.gbfxml`')
 out.push('')
@@ -112,12 +188,33 @@ for (const v of Object.keys(gbf).sort((a, b) => a - b)) {
     out.push(`- G_${vb.greek || '?'} \`${vb.morph}\` → «${vb.text}» (src ${vb.src})`)
   }
   out.push('')
+  out.push('**Interlinear (griego → inglés → español):**')
+  for (const wd of (k.words || [])) {
+    const strong = wd.strongs.map(s => `G${s}`).join('+')
+    const spa = wd.positions.map(p => g.words[String(p)] || '').filter(x => x).join(' ')
+    out.push(`- ${wd.greek || '?'} \`${wd.morph || '?'}\` [${strong}] «${wd.english}» → «${spa}»`)
+  }
+  out.push('')
   out.push('**Verificación:**')
   const fs2 = findings[String(v)] || []
+  const strongToGreek = {}
+  for (const wd of (k.words || [])) {
+    for (let i = 0; i < wd.strongs.length; i++) {
+      const s = wd.strongs[i]
+      const gr = (wd.greeks && wd.greeks[i]) || wd.greek
+      if (gr && !strongToGreek[s]) strongToGreek[s] = gr
+    }
+  }
   const auto = detectarMorfologia(k.verbs, g.words)
-  if (fs2.length === 0 && auto.length === 0) out.push('(sin hallazgos registrados)')
+  const preps = detectarPreposiciones(k.preps, g.words)
+  const lex = detectarLexico(g.strongs, g.words, glosario, strongToGreek)
+  const warns = g.warnings || []
+  if (fs2.length === 0 && auto.length === 0 && preps.length === 0 && lex.length === 0 && warns.length === 0) out.push('(sin hallazgos registrados)')
   for (const f of fs2) out.push(`- ${f}`)
   for (const a of auto) out.push(`- ${a}`)
+  for (const p of preps) out.push(`- ${p}`)
+  for (const l of lex) out.push(`- ${l}`)
+  for (const w of warns) out.push(`- ⚠️ ${w}`)
   if (g.missing.length || g.extra.length) {
     out.push(`- Diferencia Strong: faltan [${strongs(g.missing)}]; sobran [${strongs(g.extra)}]`)
   }

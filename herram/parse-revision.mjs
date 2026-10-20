@@ -94,6 +94,11 @@ function textOf(node) {
 
 // Texto español: concatenar t/rb con xml:lang="es", omitiendo rf
 function spanish(sv) {
+  return normalize(rawSpanish(sv))
+}
+
+// Texto español sin normalizar (para chequeos de tipografía)
+function rawSpanish(sv) {
   const parts = []
   function walk(n) {
     if (n.nodeType !== 1) return
@@ -104,7 +109,7 @@ function spanish(sv) {
     for (const c of childNodesArr(n)) walk(c)
   }
   walk(sv)
-  return normalize(parts.join(' '))
+  return parts.join('')
 }
 
 // Texto WEB: texto del <sv> omitiendo <t>, <rf> y <rb xml:lang="es">
@@ -158,6 +163,102 @@ function spaWordsFrom(node, out) {
   for (const c of childNodesArr(node)) spaWordsFrom(c, out)
 }
 
+// Advertencias estructurales: <wi> fuera de bloque español
+function structuralWarnings(sv) {
+  const warns = []
+  function walk(n, inEs) {
+    if (n.nodeType !== 1) return
+    if (n.tagName === 'rf') return
+    let es = inEs
+    if ((n.tagName === 't' || n.tagName === 'rb') && n.getAttribute(XML_LANG) === 'es') es = true
+    if (n.tagName === 'wi' && !es) {
+      const value = n.getAttribute('value') || ''
+      const m = value.match(/^[A-Za-z]*(\d+),(\d+),?/)
+      if (m) warns.push(`<wi G${m[1]},${m[2]}> fuera de <t xml:lang="es">`)
+    }
+    for (const c of childNodesArr(n)) walk(c, es)
+  }
+  walk(sv, false)
+  return warns
+}
+
+// Advertencias de etiquetado: <wi> anidados y <wi> vacíos seguidos de texto
+// español sin etiquetar (sugiere mapeo Strong roto o palabra sin marcar).
+const SKIP_VACIO = new Set(['3588', '846', '2532', '1161', '1063', '3754', '3767', '235'])
+
+function tagWarnings(sv) {
+  const warns = []
+  function walk(n) {
+    if (n.nodeType !== 1) return
+    if (n.tagName === 'rf') return
+    if (n.tagName === 'wi') {
+      const value = n.getAttribute('value') || ''
+      const m = value.match(/^[A-Za-z]*(\d+),(\d+),?/)
+      const strong = m ? m[1] : ''
+      const hasWiChild = childNodesArr(n).some(c => c.nodeType === 1 && c.tagName === 'wi')
+      if (hasWiChild) {
+        warns.push(`<wi> anidado (revisar mapeo Strong): value="${value}"`)
+      } else if (!textOf(n).trim()) {
+        const next = n.nextSibling
+        if (next && next.nodeType === 3) {
+          const t = next.nodeValue.replace(/\s+/g, ' ').trim()
+          if (t && /^[A-Za-zÁÉÍÓÚÑáéíóúñ]/.test(t) && !SKIP_VACIO.has(strong)) {
+            warns.push(`<wi G${strong || '?'}> vacío seguido de «${t.slice(0, 24)}» sin etiquetar`)
+          }
+        }
+      }
+    }
+    for (const c of childNodesArr(n)) walk(c)
+  }
+  walk(sv)
+  return warns
+}
+
+// Advertencias de texto español fuera de <wi> (palabras sin marcar, suelen ser
+// añadidos o palabras que deberían llevar su número Strong).
+function untaggedWarnings(sv) {
+  const frags = []
+  function walk(n, es, inWi) {
+    if (n.nodeType === 3) {
+      if (es && !inWi) frags.push(n.nodeValue)
+      return
+    }
+    if (n.nodeType !== 1) return
+    if (n.tagName === 'rf') return
+    let childEs = es
+    if (n.tagName === 't' || n.tagName === 'rb') {
+      childEs = n.getAttribute(XML_LANG) === 'es'
+    }
+    const childWi = inWi || n.tagName === 'wi'
+    for (const c of childNodesArr(n)) walk(c, childEs, childWi)
+  }
+  walk(sv, false, false)
+  const words = new Set()
+  for (const tok of frags.join(' ').split(/[^A-Za-zÁÉÍÓÚÑÜáéíóúñü]+/)) {
+    if (tok.length > 1) words.add(tok)
+  }
+  if (words.size === 0) return []
+  return [`Sin <wi>: ${[...words].map(w => `«${w}»`).join(', ')}`]
+}
+
+// Advertencias de tipografía sobre el texto español sin normalizar
+function typographyWarnings(rawSpa) {
+  const warns = []
+  if (/«\s+[A-Za-zÁÉÍÓÚÑ]/.test(rawSpa)) warns.push('espacio tras « (ej. « Si)')
+  if (/¿\s+[A-Za-zÁÉÍÓÚÑ]/.test(rawSpa)) warns.push('espacio tras ¿ (ej. ¿ Quién)')
+  if (/¡\s+[A-Za-zÁÉÍÓÚÑ]/.test(rawSpa)) warns.push('espacio tras ¡ (ej. ¡ Arrepiéntanse)')
+  if (/`\s+[A-Za-zÁÉÍÓÚÑ]/.test(rawSpa)) warns.push('espacio tras `')
+  const commaCap = rawSpa.match(/, ([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+)/g)
+  if (commaCap) {
+    const propias = /^(Y|El|La|Los|Las|Un|Una|Señor|Dios|Espíritu|Cristo|Jesús|Satanás|Simón|Pedro|Andrés|Santiago|Juan|Galilea|Jordán|Jerusalén|Judea|Siria|Decápolis|Neftalí|Zabulón|Ca[fp]erna[úu]m|Nazaret|Gehena|Raca)$/
+    for (const c of commaCap) {
+      const w = c.slice(2)
+      if (!propias.test(w)) warns.push(`mayúscula tras coma: «${c}»`)
+    }
+  }
+  return warns
+}
+
 // --- GBF (SpaTDP + WEB) ---
 const gbf = {}
 const doc = new DOMParser().parseFromString(fs.readFileSync(gbfPath, 'utf-8'), 'application/xml')
@@ -170,11 +271,13 @@ for (let i = 0; i < doc.getElementsByTagName('sv').length; i++) {
   const strongs = []
   const words = {}
   for (const c of childNodesArr(sv)) { strongsFrom(c, strongs); spaWordsFrom(c, words) }
+  const warnings = [...structuralWarnings(sv), ...tagWarnings(sv), ...untaggedWarnings(sv), ...typographyWarnings(rawSpanish(sv))]
   gbf[v] = {
     web: web(sv),
     spa: spanish(sv),
     strongs: [...new Map(strongs.map(x => [x.join('-'), x])).values()].sort((a, b) => a[1] - b[1] || a[0] - b[0]),
-    words
+    words,
+    warnings
   }
 }
 
@@ -184,13 +287,15 @@ let cur = null
 for (const raw of fs.readFileSync(kjvPath, 'utf-8').split('\n')) {
   const line = raw.replace(/\r$/, '')
   const mm = line.match(new RegExp(`^\\$\\$\\$${kjvMarkerName} ${ch}:(\\d+)`))
-  if (mm) { cur = parseInt(mm[1], 10); kjv[cur] = { text: [], strongs: [], verbs: [] }; continue }
+  if (mm) { cur = parseInt(mm[1], 10); kjv[cur] = { text: [], strongs: [], verbs: [], preps: [], words: [] }; continue }
   if (cur === null) continue
   // palabras <w ...> ... </w>
   const wRe = /<w\b([^>]*?)(?:\/>|>(.*?)<\/w>)/g
   let wm
   const lineStrongs = []
   const lineVerbs = []
+  const linePreps = []
+  const lineWords = []
   while ((wm = wRe.exec(line))) {
     const attrs = wm[1]
     const body = (wm[2] || '').replace(/<[^>]+>/g, '')
@@ -199,12 +304,21 @@ for (const raw of fs.readFileSync(kjvPath, 'utf-8').split('\n')) {
     const morph = attrs.match(/morph="robinson:([^"]*)"/)
     if (!lemma || !src) continue
     const gids = [...lemma[1].matchAll(/strong:G(\d+)/g)].map(x => x[1])
+    const greeks = [...lemma[1].matchAll(/lemma\.TR:([^"\s]+)/g)].map(x => x[1])
     const positions = src[1].split(/\s+/).filter(x => /^\d+$/.test(x)).map(Number)
     if (gids.length === positions.length) {
       for (let k = 0; k < gids.length; k++) lineStrongs.push([Number(gids[k]), positions[k]])
     } else if (gids.length === 1) {
       for (const p of positions) lineStrongs.push([Number(gids[0]), p])
     }
+    lineWords.push({
+      strongs: gids.map(Number),
+      greeks,
+      positions,
+      greek: greeks[0] || '',
+      morph: morph ? morph[1] : '',
+      english: normalize(body)
+    })
     if (morph && morph[1].startsWith('V-')) {
       lineVerbs.push({
         morph: morph[1],
@@ -213,9 +327,19 @@ for (const raw of fs.readFileSync(kjvPath, 'utf-8').split('\n')) {
         src: src[1].trim()
       })
     }
+    if (morph && morph[1] === 'PREP' && gids.length) {
+      linePreps.push({
+        strong: Number(gids[0]),
+        greek: (lemma[1].match(/lemma\.TR:([^"\s]+)/) || [])[1] || '',
+        text: normalize(body),
+        src: src[1].trim()
+      })
+    }
   }
   kjv[cur].strongs.push(...lineStrongs)
   kjv[cur].verbs.push(...lineVerbs)
+  kjv[cur].preps.push(...linePreps)
+  kjv[cur].words.push(...lineWords)
   // texto: quitar <w/> y <w>..</w>, <transChange>..</transChange>, resto de tags
   let t = line.replace(/<w\b[^>]*?\/>/g, '')
   t = t.replace(/<w\b[^>]*?>(.*?)<\/w>/g, '$1')

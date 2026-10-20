@@ -84,3 +84,13 @@ Make a summary of this project and the relation you see between it and the frame
 - ❌ `git push`
 - ❌ `git checkout -- <archivo>` (descartar cambios)
 - ✅ `git status`, `git diff`, `git log` (solo lectura)
+
+## 8. Restricciones de edición de la traducción
+
+**No edites directamente los archivos de traducción del Nuevo Testamento**
+(`libros/*.gbfxml`). Tu rol es revisar y reportar hallazgos; el traductor
+humano aplica los cambios de traducción.
+
+- ❌ Editar `libros/*.gbfxml` (texto en español, marcado Strong, notas)
+- ✅ Revisar, comparar fuentes y reportar problemas
+- ✅ Mejorar herramientas de verificación (`herram/`)

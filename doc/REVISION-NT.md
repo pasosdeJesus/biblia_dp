@@ -117,31 +117,51 @@ fidelidad respecto al Textus Receptus.
 - `Makefile` - Build system (obsoleto pero funcional)
 - `gbfxml2html.xsl`, `gbfxml2db.xsl` - Conversiones XSLT
 - `herram/parse-revision.mjs <libro> <capítulo>` - Extrae a JSON el texto de
-  las 4 fuentes (WEB, SpaTDP, KJV, RVG2012), los Strong+posición y la
-  morfología Robinson de cada verbo. Paso 1 del flujo de revisión.
-- `herram/make-report.mjs <json> [findings.json]` - Genera el reporte
-  Markdown verso a verso (4 traducciones + Strong + morfología + hallazgos).
-  Incluye detección automática de morfología (marca con `⚙️`): imperfecto
-  indicativo vertido en pretérito y participio activo con apariencia pasiva.
+  las 4 fuentes (WEB, SpaTDP, KJV, RVG2012), los Strong+posición, la
+  morfología Robinson de cada verbo y preposición, el interlinear completo
+  (griego `lemma.TR` + inglés + Strong por palabra) y advertencias
+  estructurales/tipográficas. Paso 1 del flujo de revisión.
+- `herram/make-report.mjs <json> [findings.json] [glosario.json]` - Genera el
+  reporte Markdown verso a verso (4 traducciones + Strong + morfología +
+  interlinear + hallazgos). Incluye detección automática (marca `⚙️`):
+  - Morfología: imperfecto indicativo en pretérito, participio activo con
+    apariencia pasiva (excepto φημί/ἔφη).
+  - Preposiciones: mapa griego→español.
+  - Léxico: palabra usada 1 vez para un Strong con otra traducción dominante
+    (requiere `glosario.json`).
+  - Estructural y tipografía (marca `⚠️`): `<wi>` fuera de
+    `<t xml:lang="es">`, `<wi>` anidados, `<wi>` vacío seguido de texto sin
+    etiquetar, espacio tras comilla, mayúscula indebida tras coma.
   Paso 2 del flujo de revisión.
+- `herram/build-glosario.mjs [libro]` - Construye el glosario
+  Strong → { traducción: frecuencia } desde los `<wi>` de `libros/*.gbfxml`
+  (o de un solo libro). Paso 0, se ejecuta una vez.
 
 **Flujo de revisión sistemático:**
 
 ```bash
-# 1. Extraer datos (Strong, verbos, 4 traducciones) a JSON
+# 0. Construir glosario léxico (una vez)
+node herram/build-glosario.mjs > /tmp/glosario.json
+
+# 1. Extraer datos (Strong, verbos, preposiciones, interlinear, warnings)
 node herram/parse-revision.mjs mateo 2 > /tmp/rev2.json
 
 # 2. (opcional) Crear hallazgos por versículo en JSON
 #    { "4": ["G4441 imperfecto «preguntó»→«preguntaba»", ...] }
 
-# 3. Generar el reporte Markdown
-node herram/make-report.mjs /tmp/rev2.json /tmp/findings2.json > /tmp/rev2.md
+# 3. Generar el reporte Markdown (con glosario para chequeo léxico)
+node herram/make-report.mjs /tmp/rev2.json /tmp/findings2.json /tmp/glosario.json > /tmp/rev2.md
 ```
 
 El parseador extrae **programáticamente** (no manual) todos los Strong con
-posición y todos los verbos con su código Robinson, y calcula `missing`/`extra`
-por diferencia de conjuntos. Sobre ese JSON se aplica la verificación
-morfológica de la sección 2.1 y la lista de chequeo 4.7.
+posición, todos los verbos y preposiciones con su código Robinson, y el
+interlinear palabra por palabra (griego → inglés → español), y calcula
+`missing`/`extra` por diferencia de conjuntos. Sobre ese JSON se aplica la
+verificación morfológica de la sección 2.1 y la lista de chequeo 4.7.
+
+Nota: los marcadores de versículo del OSIS de KJV usan espacio, no guion
+bajo (ej. `$$$I Peter 5:3` aunque el archivo sea `I_Peter-05.osis.xml`); el
+parseador lo resuelve.
 
 ## Protocolo de revisión obligatorio
 
