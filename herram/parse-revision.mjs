@@ -56,6 +56,9 @@ if (!libro || !BOOK_MAP[libro]) {
 }
 
 const kjvName = BOOK_MAP[libro].kjv2003
+// En el marcador de versículo del OSIS el nombre usa espacio, no guion bajo
+// (ej. el archivo I_Peter-05.osis.xml contiene "$$$I Peter 5:3").
+const kjvMarkerName = kjvName.replace(/_/g, ' ')
 const gbfPath = path.join(BASE, `libros/${libro}.gbfxml`)
 const kjvPath = path.join(BASE, `ref/sword_kjv/capitulos2003/${kjvName}-${String(ch).padStart(2, '0')}.osis.xml`)
 const rvgChapPath = path.join(BASE, `ref/reina_valera_geiger_nt/capitulos/${RVG_NUM[libro]}_${RVG_NAME[libro]}-${String(ch).padStart(2, '0')}.usfm`)
@@ -180,7 +183,7 @@ const kjv = {}
 let cur = null
 for (const raw of fs.readFileSync(kjvPath, 'utf-8').split('\n')) {
   const line = raw.replace(/\r$/, '')
-  const mm = line.match(new RegExp(`^\\$\\$\\$${kjvName} ${ch}:(\\d+)`))
+  const mm = line.match(new RegExp(`^\\$\\$\\$${kjvMarkerName} ${ch}:(\\d+)`))
   if (mm) { cur = parseInt(mm[1], 10); kjv[cur] = { text: [], strongs: [], verbs: [] }; continue }
   if (cur === null) continue
   // palabras <w ...> ... </w>
