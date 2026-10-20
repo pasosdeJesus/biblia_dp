@@ -2139,7 +2139,7 @@ him all the kingdoms of the world, and their glory.
 <wi type="G" value="3588,4,">el</wi>
 <wi type="G" value="1228,5,">diablo</wi>
 <wi type="G" value="846,3,">lo</wi>
-<wi type="G" value="3880,2,">subió</wi>
+<wi type="G" value="3880,2,">llevó</wi>
 <wi type="G" value="1519,6,">a</wi>
 <wi type="G" value="3735,7,">una montaña</wi>
 <wi type="G" value="3029,9,">muy</wi>
@@ -2247,7 +2247,7 @@ Galilee.
 <wi type="G" value="3588,3,"/><wi type="G" value="191,1,">escuchó</wi>
 <wi type="G" value="3754,5,">que</wi>
 <wi type="G" value="2491,6,">Juan</wi>
-había sido 
+había sido,
 </t>
 <rb xml:lang="es"><wi type="G" value="3860,7,">arrestado</wi><rf>
 <citebib id="WEB"/> dice `entregado,´ tanto <citebib id="DieBibel"/> como <citebib id="DiosHablaHoy"/> dicen que Juan fue encerrado en la
@@ -2255,7 +2255,7 @@ cárcel, <citebib id="Peshitta"/> dice `arrestado.´
 </rf>
 </rb>
 <t xml:lang="es">
-, <wi type="G" value="402,8,">volvió</wi>
+<wi type="G" value="402,8,">se retiró</wi>
 <wi type="G" value="1519,9,">a</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="1056,11,">Galilea</wi>. 
 </t>
@@ -2267,7 +2267,7 @@ the sea, in the region of Zebulun and Naphtali,
 <t xml:lang="es">
 <wi type="G" value="2532,1,"/><wi type="G" value="2641,2,">Saliendo</wi> de
 <wi type="G" value="3588,3,"/><wi type="G" value="3478,4,">Nazaret</wi>,
-<wi type="G" value="2064,5,">fue</wi>
+<wi type="G" value="2064,5,">vino</wi>
 y <wi type="G" value="2730,6,">habitó</wi>
 <wi type="G" value="1519,7,">en</wi>
 <wi type="G" value="2584,8,">Capernaum</wi>,
@@ -2299,13 +2299,12 @@ fulfilled which was spoken through Isaiah the prophet, saying,
 <wi type="G" value="2443,1,">Para</wi>
 <wi type="G" value="4137,2,">que se cumpliera</wi>
 <wi type="G" value="3588,3,">lo que</wi>
-<wi type="G" value="4483,4,">fue dicho</wi>
+<wi type="G" value="4483,4,"><wi type="G" value="3004,9,">fue dicho</wi></wi>
 <wi type="G" value="1223,5,">por medio</wi>
 de 
 <wi type="G" value="2268,6,">Isaías</wi>
 <wi type="G" value="3588,7,">el</wi>
-<wi type="G" value="4396,8,">profeta</wi> cuando
-<wi type="G" value="3004,9,">dijo</wi>, 
+<wi type="G" value="4396,8,">profeta</wi>, 
 </t>
 </sv>
 </cm>
@@ -2342,12 +2341,11 @@ Galilee of the Gentiles,
 <wi type="G" value="1056,11,">Galilea</wi> 
 </t>
 <rb xml:lang="es"><wi type="G" value="3588,12,">de los</wi>
-<wi type="G" value="1484,13,">Gentiles</wi><rf>
+<wi type="G" value="1484,13,">gentiles</wi><rf>
 <citebib id="Peshitta"/> dice `de las naciones´
 </rf>
 </rb>
-<t xml:lang="es">
-.
+<t xml:lang="es">.
 </t>
 <cl/>
 </sv>
@@ -2368,9 +2366,8 @@ The people who sat in darkness saw a great light,
 <cl/>
 To those who sat in the region and shadow of death,
 <t xml:lang="es">
-<wi type="G" value="2532,10,">Y</wi>
-<wi type="G" value="846,20,">para aquellos</wi>
-<wi type="G" value="3588,11,">que</wi>
+<wi type="G" value="2532,10,">y</wi>
+para <wi type="G" value="3588,11,">los que</wi>
 <wi type="G" value="2521,12,">se sentaban</wi>
 <wi type="G" value="1722,13,">en</wi> 
 </t>
@@ -2378,8 +2375,8 @@ To those who sat in the region and shadow of death,
 <wi type="G" value="2532,15,">y</wi>
 en <wi type="G" value="4639,16,">sombra</wi>
 <wi type="G" value="2288,17,">de muerte</wi><rf>
-<citebib id="WEB"/> dice `en región y sombra de muerte,´ <citebib id="LAT"/> dice `la región tenebrosa de la
-muerte.´
+<citebib id="WEB"/> dice `en región y sombra de muerte,´ <citebib id="LAT"/> 
+dice `la región tenebrosa de la muerte.´
 </rf>
 </rb>
 <t xml:lang="es">
@@ -2387,14 +2384,14 @@ muerte.´
 </t>
 <cl/>
 To them light has dawned.»
-<rb xml:lang="es"><wi type="G" value="5457,18,">la luz</wi> ha
-<wi type="G" value="393,19,">aparecido</wi><rf>
-<citebib id="Peshitta"/> dice `una luz se les ha aparecido,´ <citebib id="KJV2003"/> dice `la luz ha brotado,´ <citebib id="WEB"/>
-dice `Para ellos la luz ha amanecido.´
+<rb xml:lang="es"><wi type="G" value="5457,18,">la luz</wi>
+<wi type="G" value="846,20,"/><wi type="G" value="393,19,">ha aparecido</wi><rf>
+<citebib id="Peshitta"/> dice `una luz se les ha aparecido,´ 
+<citebib id="KJV2003"/> dice `la luz ha brotado,´ 
+<citebib id="WEB"/> dice `Para ellos la luz ha amanecido.´
 </rf>
 </rb>
-<t xml:lang="es">
-.» 
+<t xml:lang="es">.» 
 </t>
 </sv>
 </cm><cm>
@@ -2523,7 +2520,8 @@ el hijo
 <wi type="G" value="3588,14,"/><wi type="G" value="846,16,">su</wi>
 <wi type="G" value="80,15,">hermano</wi>,
 <wi type="G" value="1722,17,">en</wi>
-<wi type="G" value="3588,18,"/><wi type="G" value="4143,19,">un bote</wi>
+<wi type="G" value="3588,18,">el</wi>
+<wi type="G" value="4143,19,">bote</wi>
 <wi type="G" value="3326,20,">con</wi>
 <wi type="G" value="2199,21,">Zebedeo</wi>
 <wi type="G" value="3588,22,"/><wi type="G" value="846,24,">su</wi>
@@ -2610,8 +2608,8 @@ oido, lo escuchado, instrucción, predicación o rumor.
 <wi type="G" value="4374,11,">trajeron</wi> a
 <wi type="G" value="3956,13,">todos</wi> los que estaban
 <wi type="G" value="3588,14,"/><wi type="G" value="2560,15,">enfermos</wi>, 
-</t>
 <wi type="G" value="2192,16,"/>
+</t>
 <rb xml:lang="es"><wi type="G" value="4912,21,">afligidos</wi>
 <wi type="G" value="4164,17,">por varios</wi>
 <wi type="G" value="3554,18,">desórdenes</wi><rf>
