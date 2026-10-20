@@ -456,8 +456,7 @@ Cristo,´ pero en español comunmente se usa `Jesús el Cristo´ o `Jesucristo.�
 <wi type="G" value="3423,9,">comprometido</wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="2501,16,">con José</wi>, y
 <wi type="G" value="4250,17,">antes</wi>
-<wi type="G" value="2228,18,"/>
-de que 
+<wi type="G" value="2228,18,">de que</wi>
 <wi type="G" value="846,20,"/><wi type="G" value="4905,19,">estuvieran juntos</wi>,
 <wi type="G" value="2147,21,">ella se encontró</wi>
 <wi type="G" value="2192,24,">en</wi>
@@ -488,8 +487,8 @@ hombre
 <wi type="GC" value="12">un ejemplo público</wi>,
 <wi type="G" value="1014,13,">quiso</wi> 
 </t>
-<rb xml:lang="es">separarse de
-<wi type="G" value="630,15,"/><wi type="G" value="846,16,"/> ella<rf>
+<rb xml:lang="es"><wi type="G" value="630,15,">separarse de</wi>
+<wi type="G" value="846,16,">ella</wi><rf>
 <citebib id="WEB"/> dice `separarla en secreto.´
 </rf>
 </rb>
@@ -518,8 +517,8 @@ her is of the Holy Spirit.
 <wi type="G" value="5316,10,">se le apareció</wi>
 <wi type="G" value="846,11,"/><wi type="G" value="2596,8,">en</wi>
 <wi type="G" value="3677,9,">un sueño</wi>,
-<wi type="G" value="3004,12,">diciendo</wi>, «
-<wi type="G" value="2501,13,">José</wi>,
+<wi type="G" value="3004,12,">diciendo</wi>,
+«<wi type="G" value="2501,13,">José</wi>,
 <wi type="G" value="5207,14,">hijo</wi>
 <wi type="G" value="1138,15,">de David</wi>,
 <wi type="G" value="3361,16,">no</wi>
@@ -595,17 +594,15 @@ del
 «Behold, the virgin shall be with child,
 <t xml:lang="es">
 «<wi type="G" value="2400,1,">Observen</wi>,
-<wi type="G" value="3588,2,"/>
-la 
+<wi type="G" value="3588,2,">la</wi> 
 <wi type="G" value="3933,3,">virgen</wi> 
 </t>
-<rb xml:lang="es"><wi type="G" value="2192,6,"/><wi type="G" value="1722,4,"/>
-concebirá<rf>
+<rb xml:lang="es"><wi type="G" value="2192,6,">concebirá</wi><wi type="G" value="1722,4,"/><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `estará con niño,´ <citebib id="Peshitta"/> dice `concebirá.´
 </rf>
 </rb>
 <t xml:lang="es">
-un <wi type="G" value="1064,5,">niño</wi>, 
+<wi type="G" value="1064,5,">un niño</wi>, 
 </t>
 <cl/>
 And shall bring forth a son.
@@ -634,8 +631,8 @@ Which is, being interpreted, «God with us.»
 <wi type="G" value="846,14,"/> 
 <wi type="G" value="3686,13,"/><wi type="G" value="3739,16,">que</wi>
 <wi type="G" value="3177,18,">traducido</wi>
-<wi type="G" value="2076,17,">es</wi> «
-<wi type="G" value="2316,22,">Dios</wi>
+<wi type="G" value="2076,17,">es</wi>
+«<wi type="G" value="2316,22,">Dios</wi>
 <wi type="G" value="3326,19,">con</wi>
 <wi type="G" value="2257,20,">nosotros</wi>
 <wi type="G" value="3588,21,"/>.» 
@@ -684,11 +681,9 @@ she had brought forth her firstborn son. He named him Jesus.
 </rb>
 <t xml:lang="es">
 <wi type="G" value="2193,5,">hasta</wi>
-<wi type="G" value="3739,6,"/>
-que ella 
-<wi type="G" value="5088,7,">dio a luz</wi>
-<wi type="G" value="3588,8,"/>
-a 
+<wi type="G" value="3739,6,">que</wi>
+<wi type="G" value="5088,7,">ella dio a luz</wi>
+<wi type="G" value="3588,8,">a</wi>
 <wi type="G" value="846,10,">su</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="4416,12,">primer</wi>
 <wi type="G" value="5207,9,">hijo</wi>. 
@@ -818,12 +813,10 @@ he asked them where the Christ would be born.
 They said to him, «In Bethlehem of Judea, for thus it is
 written through the prophet,
 <t xml:lang="es">
-Ellos
-<wi type="G" value="3588,1,"/> 
+<wi type="G" value="3588,1,">Ellos</wi> 
 <wi type="G" value="1161,2,"/><wi type="G" value="846,4,">le</wi>
 <wi type="G" value="2036,3,">dijeron</wi>,
-«
-<wi type="G" value="1722,5,">En</wi>
+«<wi type="G" value="1722,5,">En</wi>
 <wi type="G" value="965,6,">Belén</wi>
 <wi type="G" value="3588,7,">de</wi>
 <wi type="G" value="2449,8,">Judea</wi>,
@@ -854,8 +847,7 @@ are in no way least among the princes of Judah:
 <wi type="G" value="1646,7,">menos</wi>
 <wi type="G" value="1722,9,">entre</wi> 
 </t>
-<wi type="G" value="3588,10,"/>
-<rb xml:lang="es"><wi type="G" value="2232,11,">príncipes</wi><rf>
+<rb xml:lang="es"><wi type="G" value="3588,10,"/><wi type="G" value="2232,11,">príncipes</wi><rf>
 <citebib id="DieBibel"/> dice `entre las estados dirigentes de Judá,´ <citebib id="Peshitta"/> dice `en Judá,´ <citebib id="WEB"/> y
 <citebib id="KJV2003"/> dicen `entre los príncipes de Judá´
 </rf>
@@ -928,8 +920,7 @@ bring me word, so that I also may come and worship him.»
 <wi type="G" value="1519,4,">a</wi>
 <wi type="G" value="965,5,">Belén</wi>,
 <wi type="G" value="2036,6,">diciéndoles</wi>,
-«
-<wi type="G" value="4198,7,">Vayan</wi>
+«<wi type="G" value="4198,7,">Vayan</wi>
 <wi type="G" value="1833,9,">y busquen</wi>
 <wi type="G" value="199,8,">diligentemente</wi>
 <wi type="G" value="4012,10,">al</wi>
@@ -1073,8 +1064,7 @@ un
 <wi type="G" value="2596,8,">en</wi>
 <wi type="G" value="3677,9,">un sueño</wi>,
 <wi type="G" value="3588,10,"/><wi type="G" value="3004,12,">diciendo</wi>,
-«
-<wi type="G" value="1453,13,">Levántate</wi>
+«<wi type="G" value="1453,13,">Levántate</wi>
 <wi type="G" value="3880,14,">y toma</wi>
 <wi type="G" value="3588,15,">al</wi>
 <wi type="G" value="3813,16,">niño</wi>
@@ -1093,8 +1083,7 @@ un
 , <wi type="G" value="2532,25,"/><wi type="G" value="2468,26,">quédate</wi>
 <wi type="G" value="1563,27,">allá</wi>
 <wi type="G" value="2193,28,">hasta</wi>
-<wi type="G" value="302,29,"/>
-que 
+<wi type="G" value="302,29,">que</wi>
 <wi type="G" value="4671,31,">te</wi>
 <wi type="G" value="2036,30,">diga</wi>,
 <wi type="G" value="1063,33,">porque</wi>
@@ -1151,8 +1140,7 @@ Egypt I called my son.»
 <wi type="G" value="1223,15,">por medio</wi>
 <wi type="G" value="3588,16,">del</wi>
 <wi type="G" value="4396,17,">profeta</wi>
-<wi type="G" value="3004,18,"/>, «
-<wi type="G" value="1537,19,">De</wi>
+<wi type="G" value="3004,18,"/>, «<wi type="G" value="1537,19,">De</wi>
 <wi type="G" value="125,20,">Egipto</wi>
 <wi type="G" value="2564,21,">llamé</wi> a
 <wi type="G" value="3588,22,"/><wi type="G" value="3450,24,">mi</wi>
@@ -1409,8 +1397,7 @@ through the prophets: «He will be called a Nazarene.»
 <wi type="G" value="1223,12,">por</wi>
 <wi type="G" value="3588,13,">los</wi>
 <wi type="G" value="4396,14,">profetas</wi>:
-<wi type="G" value="3754,15,"/>«
-<wi type="G" value="2564,17,">Será llamado</wi>
+<wi type="G" value="3754,15,"/>«<wi type="G" value="2564,17,">Será llamado</wi>
 <wi type="G" value="3480,16,">Nazareno</wi>.»
 </t>
 </sv>
