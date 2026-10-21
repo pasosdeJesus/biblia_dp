@@ -18,6 +18,8 @@ import path from 'path'
 import { fileURLToPath } from 'url'
 import { DOMParser } from '@xmldom/xmldom'
 import { BOOK_MAP } from './lib/config.js'
+import { normalize } from './lib/text.js'
+import { parseKjv2003Full } from './lib/parsers/kjv2003-parser.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const BASE = path.join(__dirname, '..')
@@ -63,15 +65,6 @@ const gbfPath = path.join(BASE, `libros/${libro}.gbfxml`)
 const kjvPath = path.join(BASE, `ref/sword_kjv/capitulos2003/${kjvName}-${String(ch).padStart(2, '0')}.osis.xml`)
 const rvgChapPath = path.join(BASE, `ref/reina_valera_geiger_nt/capitulos/${RVG_NUM[libro]}_${RVG_NAME[libro]}-${String(ch).padStart(2, '0')}.usfm`)
 const rvgFullPath = path.join(BASE, `ref/reina_valera_geiger_nt/${RVG_NUM[libro]}_${RVG_NAME[libro]}.usfm`)
-
-function normalize(s) {
-  return s
-    .replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'")
-    .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&')
-    .replace(/\s+/g, ' ').trim()
-    .replace(/\s+([,.;:!?»])/g, '$1')
-    .replace(/([«])\s+/g, '$1')
-}
 
 function childNodesArr(el) {
   const arr = []
@@ -282,75 +275,7 @@ for (let i = 0; i < doc.getElementsByTagName('sv').length; i++) {
 }
 
 // --- KJV2003 (OSIS) ---
-const kjv = {}
-let cur = null
-for (const raw of fs.readFileSync(kjvPath, 'utf-8').split('\n')) {
-  const line = raw.replace(/\r$/, '')
-  const mm = line.match(new RegExp(`^\\$\\$\\$${kjvMarkerName} ${ch}:(\\d+)`))
-  if (mm) { cur = parseInt(mm[1], 10); kjv[cur] = { text: [], strongs: [], verbs: [], preps: [], words: [] }; continue }
-  if (cur === null) continue
-  // palabras <w ...> ... </w>
-  const wRe = /<w\b([^>]*?)(?:\/>|>(.*?)<\/w>)/g
-  let wm
-  const lineStrongs = []
-  const lineVerbs = []
-  const linePreps = []
-  const lineWords = []
-  while ((wm = wRe.exec(line))) {
-    const attrs = wm[1]
-    const body = (wm[2] || '').replace(/<[^>]+>/g, '')
-    const lemma = attrs.match(/lemma="([^"]*)"/)
-    const src = attrs.match(/src="([^"]*)"/)
-    const morph = attrs.match(/morph="robinson:([^"]*)"/)
-    if (!lemma || !src) continue
-    const gids = [...lemma[1].matchAll(/strong:G(\d+)/g)].map(x => x[1])
-    const greeks = [...lemma[1].matchAll(/lemma\.TR:([^"\s]+)/g)].map(x => x[1])
-    const positions = src[1].split(/\s+/).filter(x => /^\d+$/.test(x)).map(Number)
-    if (gids.length === positions.length) {
-      for (let k = 0; k < gids.length; k++) lineStrongs.push([Number(gids[k]), positions[k]])
-    } else if (gids.length === 1) {
-      for (const p of positions) lineStrongs.push([Number(gids[0]), p])
-    }
-    lineWords.push({
-      strongs: gids.map(Number),
-      greeks,
-      positions,
-      greek: greeks[0] || '',
-      morph: morph ? morph[1] : '',
-      english: normalize(body)
-    })
-    if (morph && morph[1].startsWith('V-')) {
-      lineVerbs.push({
-        morph: morph[1],
-        greek: (lemma[1].match(/lemma\.TR:([^"\s]+)/) || [])[1] || '',
-        text: normalize(body),
-        src: src[1].trim()
-      })
-    }
-    if (morph && morph[1] === 'PREP' && gids.length) {
-      linePreps.push({
-        strong: Number(gids[0]),
-        greek: (lemma[1].match(/lemma\.TR:([^"\s]+)/) || [])[1] || '',
-        text: normalize(body),
-        src: src[1].trim()
-      })
-    }
-  }
-  kjv[cur].strongs.push(...lineStrongs)
-  kjv[cur].verbs.push(...lineVerbs)
-  kjv[cur].preps.push(...linePreps)
-  kjv[cur].words.push(...lineWords)
-  // texto: quitar <w/> y <w>..</w>, <transChange>..</transChange>, resto de tags
-  let t = line.replace(/<w\b[^>]*?\/>/g, '')
-  t = t.replace(/<w\b[^>]*?>(.*?)<\/w>/g, '$1')
-  t = t.replace(/<transChange[^>]*>(.*?)<\/transChange>/g, '$1')
-  t = t.replace(/<[^>]+>/g, '')
-  kjv[cur].text.push(t.replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'"))
-}
-for (const v of Object.keys(kjv)) {
-  kjv[v].text = normalize(kjv[v].text.join(' '))
-  kjv[v].strongs = [...new Map(kjv[v].strongs.map(x => [x.join('-'), x])).values()].sort((a, b) => a[1] - b[1] || a[0] - b[0])
-}
+const kjv = parseKjv2003Full(kjvPath, kjvMarkerName, ch)
 
 // --- RVG2012 (USFM, por capítulo; si no existe, libro completo) ---
 const rvg = {}

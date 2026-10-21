@@ -381,9 +381,9 @@ born
 <wi type="G" value="2424,12,">Jesús</wi>
 </t><rf>
 «Jesus» is a Greek variant of the Jewish name «Yehoshua,» which means «Yah
-saves.» «Jesus» is also the masculine form of «Yeshu`ah,» which means
+saves.» «Jesus» is also the masculine form of «Yeshu´ah,» which means
 «Salvation.» <t xml:lang="es"> «Jesús» es una variación griega del nombre Judío «Yehoshua,»
-que significa «Yah salva.» «Jesús» es también la forma masculina de «Yeshu`ah,»
+que significa «Yah salva.» «Jesús» es también la forma masculina de «Yeshu´ah,»
 que significa «Salvación.» </t>
 </rf>
 </rb>
@@ -2159,10 +2159,8 @@ Then Jesus said to him,
 <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="3004,2,">dijo</wi>, 
 </t>
-<fr>«
-<t xml:lang="es">
-«
-</t>
+<fr>«<t xml:lang="es">
+«</t>
 <rb>Get behind me,
 <t xml:lang="es">
 ¡<wi type="G" value="5217,6,">Aléjate</wi> de mí
@@ -2380,8 +2378,7 @@ From that time, Jesus began to preach, and to say,
 </t>
 <fr>«Repent! For the Kingdom of Heaven is at hand.»
 <t xml:lang="es">
-«
-</t>
+«</t>
 <rb xml:lang="es">¡<wi type="G" value="3340,9,">Arrepiéntanse</wi>!<rf>
 <citebib id="DiosHablaHoy"/> dice `Vuelvanse a Dios´
 </rf>
@@ -2665,8 +2662,7 @@ y
 
 <sv id="Mateo-5-3">
 <fr>«Blessed are the poor in spirit,<t xml:lang="es">
-«
-</t>
+«</t>
 <rb xml:lang="es"><wi type="G" value="3107,1,">Benditos</wi><rf>
 <citebib id="WEB"/> dice `Benditos,´ <citebib id="DiosHablaHoy"/> dice `dichosos,´ <citebib id="RV1960"/> dice `bienaventurados,´ según
 <citebib id="KJV2003"/> la palabra griega `makarios´ se traduce como bendito o feliz.
@@ -3056,7 +3052,7 @@ come to destroy, but to fulfill.
 </t>
 <rb xml:lang="es"><wi type="G" value="4137,15,">a completar</wi><rf>
 <citebib id="LAT"/> dice `perfeccionar,´ <citebib id="WEB"/> dice `completar.´
-Según <citebib id="Thayer-BLB"/> la palabra griega `πληρόω' puede
+Según <citebib id="Thayer-BLB"/> la palabra griega `πληρόω´ puede
 traducirse llenar, hacer abundar, completar pero también
 como poner en efecto, realizar, cumplir.
 </rf>
@@ -3207,12 +3203,10 @@ of the judgment.´
 <wi type="G" value="4483,3,">fue dicho</wi>
 <wi type="G" value="3588,4,">a los</wi>
 <wi type="G" value="744,5,">antiguos</wi>,
-`
-<wi type="G" value="3756,6,">No</wi>
+`<wi type="G" value="3756,6,">No</wi>
 <wi type="G" value="5407,7,">debes</wi>
 <wi type="GC" value="7">matar</wi>;´
-<wi type="G" value="1161,9,">y</wi> `
-</t>
+<wi type="G" value="1161,9,">y</wi> `</t>
 <rb xml:lang="es"><wi type="G" value="3739,8,">Quien</wi>
 <wi type="G" value="302,10,"/><wi type="G" value="5407,11,">mate</wi>
 <wi type="G" value="2071,13,">estará</wi>
@@ -3231,8 +3225,7 @@ Esta parte no esta en <citebib id="DieBibel"/>, <citebib id="Peshitta"/> dice `q
 <sv id="Mateo-5-22">
 <fr>But I tell you, that everyone who is angry with his brother without a
 cause shall be in danger of the judgment; and whoever shall say to his
-brother, `
-<t xml:lang="es">
+brother, `<t xml:lang="es">
 <wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="5213,4,">les</wi>
 <wi type="G" value="1473,1,"/><wi type="G" value="3004,3,">digo</wi>,
@@ -3260,8 +3253,7 @@ Ni <citebib id="LAT"/>, ni <citebib id="KJV2003"/> incluyen `sin una causa.´
 <wi type="G" value="302,19,"/><wi type="G" value="2036,20,">que le diga</wi>
 <wi type="G" value="3588,21,"/><wi type="G" value="80,22,">a</wi>
 <wi type="G" value="846,23,">su</wi>
-<wi type="GC" value="22">hermano</wi>, `¡
-</t>
+<wi type="GC" value="22">hermano</wi>, `¡</t>
 <rb>Raca
 <t xml:lang="es">
 <wi type="G" value="4469,24,">Raca</wi>
@@ -3282,8 +3274,7 @@ fire of
 <wi type="G" value="1161,30,">y</wi>
 <wi type="G" value="3739,29,">cualquiera</wi>
 <wi type="G" value="302,31,"/><wi type="G" value="2036,32,">que le diga</wi>,
-`¡
-<wi type="G" value="3474,33,">Tú, tonto</wi>!´
+`¡<wi type="G" value="3474,33,">Tú, tonto</wi>!´
 <wi type="G" value="2071,35,">estará</wi>
 <wi type="G" value="1777,34,">en peligro</wi>
 <wi type="G" value="1519,36,">del</wi>
@@ -3601,8 +3592,7 @@ writing of divorce,´
 <wi type="G" value="4483,1,">se dijo</wi>,
 <wi type="G" value="1161,2,"/> 
 <wi type="G" value="3754,3,"/>
-`
-<wi type="G" value="3739,4,">Cualquiera</wi> que
+`<wi type="G" value="3739,4,">Cualquiera</wi> que
 <wi type="G" value="302,5,"/><wi type="G" value="630,6,">aleje</wi> a
 <wi type="G" value="846,9,">su</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="1135,8,">mujer</wi>,
@@ -3682,8 +3672,7 @@ Lord your vows,´
 <wi type="G" value="3754,3,">que</wi>
 <wi type="G" value="4483,4,">les fue dicho</wi>
 <wi type="G" value="3588,5,">a los</wi>
-<wi type="G" value="744,6,">de los tiempos antiguos</wi>, `
-</t>
+<wi type="G" value="744,6,">de los tiempos antiguos</wi>, `</t>
 <rb xml:lang="es"><wi type="G" value="3756,7,">No</wi>
 <wi type="G" value="1964,8,">harás promesas falsas</wi><rf>
 <citebib id="Peshitta"/> dice `no mentirás en tu juramento.´
@@ -3787,16 +3776,12 @@ Whatever is more than these is of the evil one.
 <wi type="G" value="1161,2,">En cambio</wi>
 <wi type="G" value="2077,1,">que</wi>
 <wi type="G" value="5216,5,">tu</wi>
-`
-<wi type="G" value="3483,6,">Si</wi>´ sea
-`
-<wi type="G" value="3483,7,">Si</wi>´ y que tu
+`<wi type="G" value="3483,6,">Si</wi>´ sea
+`<wi type="G" value="3483,7,">Si</wi>´ y que tu
 <wi type="G" value="3588,3,"/> 
 <wi type="G" value="3056,4,"/>
-`
-<wi type="G" value="3756,8,">No</wi>´ sea
-`
-<wi type="G" value="3756,9,">No</wi>.´
+`<wi type="G" value="3756,8,">No</wi>´ sea
+`<wi type="G" value="3756,9,">No</wi>.´
 <wi type="G" value="3588,10,"/><wi type="G" value="1161,11,">Pues</wi>
 <wi type="G" value="4053,12,">lo que sea más</wi>
 <wi type="G" value="5130,13,">que esto</wi>
@@ -3823,8 +3808,7 @@ and a tooth for a tooth.´
 «<wi type="G" value="191,1,">Ustedes han oído</wi>
 <wi type="G" value="3754,2,">que</wi>
 <wi type="G" value="4483,3,">fue dicho</wi>,
-`
-<wi type="G" value="3788,4,">Ojo</wi>
+`<wi type="G" value="3788,4,">Ojo</wi>
 <wi type="G" value="473,5,">por</wi>
 <wi type="G" value="3788,6,">ojo</wi>,
 <wi type="G" value="2532,7,">y</wi>
@@ -3956,8 +3940,7 @@ love your neighbor, and hate your enemy.´
 <t xml:lang="es">
 «<wi type="G" value="191,1,">Ustedes han oído</wi>
 <wi type="G" value="3754,2,"/><wi type="G" value="4483,3,">que fue dicho</wi>,
-`
-<wi type="G" value="25,4,">Amarás</wi> a
+`<wi type="G" value="25,4,">Amarás</wi> a
 <wi type="G" value="3588,5,"/><wi type="G" value="4675,7,">tu</wi>
 <wi type="G" value="4139,6,">prójimo</wi>,
 <wi type="G" value="2532,8,">y</wi>
@@ -4046,12 +4029,10 @@ tax collectors do the same?
 <wi type="G" value="25,5,">aquellos que</wi>
 <wi type="G" value="5209,6,">los</wi>
 <wi type="GC" value="5">aman</wi>,
-¿
-<wi type="G" value="5101,7,">qué</wi>
+¿<wi type="G" value="5101,7,">qué</wi>
 <wi type="G" value="3408,8,">recompensa</wi>
 <wi type="G" value="2192,9,">merecen</wi>?
-¿
-<wi type="G" value="2532,11,">Acaso</wi>
+¿<wi type="G" value="2532,11,">Acaso</wi>
 <wi type="G" value="3588,12,"/><wi type="G" value="3780,10,">no</wi>
 <wi type="G" value="4160,16,">hacen</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="846,15,">lo mismo</wi> los 
@@ -4086,12 +4067,10 @@ do the same?
 <wi type="G" value="782,3,">saludas</wi> a
 <wi type="G" value="3588,4,"/><wi type="G" value="5216,6,">tus</wi>
 <wi type="G" value="80,5,">hermanos</wi>,
-¿
-<wi type="G" value="5101,8,">qué</wi>
+¿<wi type="G" value="5101,8,">qué</wi>
 <wi type="G" value="4160,10,">haces</wi>
 <wi type="G" value="4053,9,">de más</wi> que los demás?
-¿
-<wi type="G" value="2532,12,">Acaso</wi>
+¿<wi type="G" value="2532,12,">Acaso</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="3780,11,">no</wi>
 <wi type="G" value="4160,16,">hacen</wi>
 <wi type="G" value="3779,15,">lo mismo</wi> 
@@ -4417,8 +4396,7 @@ you ask him.
 <wi type="G" value="3767,2,">Por tanto</wi>
 <wi type="G" value="4336,3,"><wi type="G" value="5210,4,">oren</wi></wi>
 <wi type="G" value="3779,1,">así</wi>:
-`
-<wi type="G" value="3962,5," sacred="yes">Padre</wi>
+`<wi type="G" value="3962,5," sacred="yes">Padre</wi>
 <wi type="G" value="2257,6,">nuestro</wi> 
 </t>
 <rb xml:lang="es"><wi type="G" value="3588,7,">que estás</wi><rf>
@@ -4864,8 +4842,7 @@ maldad.
 <wi type="G" value="4671,20,">ti</wi>
 <wi type="G" value="2076,22,">es</wi>
 <wi type="G" value="3588,23,"/><wi type="G" value="4655,21,">oscuridad</wi>,
-¡
-<wi type="G" value="4214,25,">cuan grande</wi> es
+¡<wi type="G" value="4214,25,">cuan grande</wi> es
 <wi type="G" value="4655,24,">la oscuridad</wi>!
 </t>
 </fr>
@@ -4945,8 +4922,7 @@ Isn´t life more than food, and the body more than clothing?
 <wi type="G" value="5101,19,">lo que</wi>
 <wi type="G" value="1746,20,">se pondrán</wi> en el
 <wi type="G" value="5216,18,"/><wi type="GC" value="17">cuerpo</wi>.
-¿
-<wi type="G" value="3780,21,">No</wi>
+¿<wi type="G" value="3780,21,">No</wi>
 <wi type="G" value="3588,22,"/><wi type="G" value="2076,25,">es</wi>
 <wi type="G" value="5590,23,">la vida</wi>
 <wi type="G" value="4119,24,">más</wi>
@@ -4986,8 +4962,7 @@ they?
 <wi type="G" value="3770,21,">celestial</wi>
 <wi type="G" value="846,23,">los</wi>
 <wi type="G" value="5142,22,">alimenta</wi>.
-¿
-<wi type="G" value="3756,24,">No</wi>
+¿<wi type="G" value="3756,24,">No</wi>
 <wi type="G" value="1308,27,">son</wi>
 <wi type="G" value="5210,25,">ustedes</wi>
 de 
@@ -5105,8 +5080,7 @@ que
 <wi type="G" value="906,13,">es arrojado</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="1519,11,">al</wi>
 <wi type="G" value="2823,12,">horno</wi>,
-¿
-<wi type="G" value="3756,18,">No</wi>
+¿<wi type="G" value="3756,18,">No</wi>
 <wi type="G" value="5209,21,">los</wi> vestirá
 <wi type="G" value="4183,19,">mucho</wi>
 <wi type="G" value="3123,20,">más</wi>
@@ -5126,16 +5100,13 @@ drink?´ or, `With what will we be clothed?´
 <wi type="G" value="3361,1,">no</wi>
 <wi type="G" value="3309,3,">se afanen</wi>,
 <wi type="G" value="3004,4,">diciendo</wi>, `
-¿
-<wi type="G" value="5101,5,">Que</wi>
+¿<wi type="G" value="5101,5,">Que</wi>
 <wi type="G" value="5315,6,">comeremos</wi>?,´
 <wi type="G" value="2228,7,">o</wi>
-`¿
-<wi type="G" value="5101,8,">Qué</wi>
+`¿<wi type="G" value="5101,8,">Qué</wi>
 <wi type="G" value="4095,9,">beberemos</wi>?´
 <wi type="G" value="2228,10,">o</wi>
-`¿
-<wi type="G" value="5101,11,">Con que</wi>
+`¿<wi type="G" value="5101,11,">Con que</wi>
 <wi type="G" value="4016,12,">nos vestiremos</wi>?´ 
 </t>
 </fr>
@@ -5308,8 +5279,7 @@ speck from your eye;´ and behold, the beam is in your own eye?
 <wi type="G" value="3588,4,"/><wi type="G" value="80,5,">a</wi>
 <wi type="G" value="4675,6,">tu</wi>
 <wi type="GC" value="5">hermano</wi>
-`
-<wi type="G" value="863,7,">Déjame</wi>
+`<wi type="G" value="863,7,">Déjame</wi>
 <wi type="G" value="1544,8,">sacar</wi>
 <wi type="G" value="3588,9,">esa</wi>
 <wi type="G" value="2595,10,">paja</wi>
@@ -5488,8 +5458,7 @@ your Father who is in heaven give good things to those who ask him!
 <wi type="G" value="3588,10,"/><wi type="G" value="5043,11,">a</wi>
 <wi type="G" value="5216,12,">sus</wi>
 <wi type="GC" value="11">hijos</wi>,
-¡
-<wi type="G" value="4214,13,">cuanto</wi>
+¡<wi type="G" value="4214,13,">cuanto</wi>
 <wi type="G" value="3123,14,">más</wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="5216,17,">su</wi>
 <wi type="G" value="3962,16,">Padre</wi>
@@ -5767,8 +5736,7 @@ heaven.
 <wi type="G" value="3004,4,">que</wi>
 <wi type="G" value="3427,5,">me</wi>
 <wi type="GC" value="4">dice</wi>
-`
-<wi type="G" value="2962,6," sacred="yes">Señor</wi>,
+`<wi type="G" value="2962,6," sacred="yes">Señor</wi>,
 <wi type="G" value="2962,7," sacred="yes">Señor</wi>,´
 <wi type="G" value="1525,8,">entrará</wi>
 <wi type="G" value="1519,9,">al</wi>
@@ -5802,11 +5770,9 @@ works?´
 <wi type="G" value="1722,4,">en</wi>
 <wi type="G" value="1565,5,">ese</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="2250,7,">día</wi>,
-`
-<wi type="G" value="2962,8," sacred="yes">Señor</wi>,
+`<wi type="G" value="2962,8," sacred="yes">Señor</wi>,
 <wi type="G" value="2962,9," sacred="yes">Señor</wi>,
-¿
-<wi type="G" value="3756,10,">no</wi>
+¿<wi type="G" value="3756,10,">no</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="4395,14,">profetizamos</wi>
 <wi type="G" value="3686,13,">en</wi>
 <wi type="G" value="4674,12,">tu</wi>
@@ -6065,8 +6031,7 @@ para `arrodillarse´ o `postrarse.´
 </rb>
 <t xml:lang="es">
 <wi type="G" value="3004,7,">diciendo</wi>,
-«
-<wi type="G" value="2962,8," sacred="yes">Señor</wi>,
+«<wi type="G" value="2962,8," sacred="yes">Señor</wi>,
 <wi type="G" value="1437,9,">si</wi>
 <wi type="G" value="2309,10,">tu quieres</wi>,
 <wi type="G" value="1410,11,">puedes</wi>
@@ -6169,8 +6134,7 @@ tormented.»
 <t xml:lang="es">
 <wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="3004,2,">diciendo</wi>
-«
-<wi type="G" value="2962,3," sacred="yes">Señor</wi>,
+«<wi type="G" value="2962,3," sacred="yes">Señor</wi>,
 <wi type="G" value="3450,6,">mi</wi> 
 </t>
 <rb xml:lang="es"><wi type="G" value="3588,4,"/><wi type="G" value="3816,5,">siervo</wi><rf>
@@ -6198,8 +6162,7 @@ Jesus said to him,
 </t>
 <fr>«I will come and heal him.»
 <t xml:lang="es">
-«
-<wi type="G" value="1473,6,"><wi type="G" value="2064,7,">Iré y</wi></wi>
+«<wi type="G" value="1473,6,"><wi type="G" value="2064,7,">Iré y</wi></wi>
 <wi type="G" value="846,9,">lo</wi>
 <wi type="G" value="2323,8,">sanaré</wi>.» 
 </t>
@@ -6216,8 +6179,7 @@ roof. Just say the word, and my servant will be healed.
 <wi type="G" value="1543,4,">centurión</wi>
 <wi type="G" value="611,2,">contestó</wi>
 <wi type="G" value="5346,5,">diciendo</wi>,
-«
-<wi type="G" value="2962,6," sacred="yes">Señor</wi>,
+«<wi type="G" value="2962,6," sacred="yes">Señor</wi>,
 <wi type="G" value="3756,7,">no</wi>
 <wi type="G" value="1510,8,">soy</wi>
 <wi type="G" value="2425,9,">digno</wi> de
@@ -6257,22 +6219,19 @@ this,´ and he does it.»
 <wi type="G" value="2532,12,">Y</wi>
 <wi type="G" value="3004,13,">le digo</wi>
 <wi type="G" value="5129,14,">a este</wi>,
-`
-<wi type="G" value="4198,15,">Ve</wi>,´
+`<wi type="G" value="4198,15,">Ve</wi>,´
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="4198,17,">él va</wi>,
 <wi type="G" value="2532,18,">y</wi>
 <wi type="G" value="243,19,">a otro</wi>,
-`
-<wi type="G" value="2064,20,">Ven</wi>,´
+`<wi type="G" value="2064,20,">Ven</wi>,´
 <wi type="G" value="2532,21,">y</wi>
 <wi type="G" value="2064,22,">él viene</wi>;
 <wi type="G" value="2532,23,">y</wi>
 <wi type="G" value="3588,24,"/><wi type="G" value="1401,25,">a</wi>
 <wi type="G" value="3450,26,">mi</wi>
 <wi type="GC" value="25">siervo</wi>,
-`
-<wi type="G" value="4160,27,">Haz</wi>
+`<wi type="G" value="4160,27,">Haz</wi>
 <wi type="G" value="5124,28,">esto</wi>,´
 <wi type="G" value="2532,29,">y</wi>
 <wi type="G" value="4160,30,">él lo hace</wi>.» 
@@ -6498,8 +6457,7 @@ saying: «He took our infirmities, and bore our diseases.»
 <wi type="G" value="2268,6,">Isaías</wi>
 <wi type="G" value="3588,7,"/> 
 <wi type="G" value="3004,9,"/>:
-«
-<wi type="G" value="846,10,">Él</wi>
+«<wi type="G" value="846,10,">Él</wi>
 <wi type="G" value="3588,11,"/>
 </t>
 <rb xml:lang="es"><wi type="G" value="2983,14,">tomó</wi><rf>
@@ -6546,8 +6504,7 @@ you go.»
 <wi type="G" value="4334,2,">vino</wi> y
 <wi type="G" value="846,6,">le</wi>
 <wi type="G" value="2036,5,">dijo</wi>,
-«
-<wi type="G" value="1320,7,">Maestro</wi>,
+«<wi type="G" value="1320,7,">Maestro</wi>,
 yo 
 <wi type="G" value="4671,9,">te</wi>
 <wi type="G" value="190,8,">seguiré</wi>
@@ -6608,8 +6565,7 @@ bury my father.»
 <wi type="GC" value="4">discípulos</wi>
 <wi type="G" value="846,7,">le</wi>
 <wi type="G" value="2036,6,">dijo</wi>,
-«
-<wi type="G" value="2962,8," sacred="yes">Señor</wi>,
+«<wi type="G" value="2962,8," sacred="yes">Señor</wi>,
 <wi type="G" value="2010,9,"><wi type="G" value="3427,10,">permíteme</wi></wi>
 <wi type="G" value="4412,11,">primero</wi>
 <wi type="G" value="565,12,">ir</wi>
@@ -6698,11 +6654,9 @@ y
 <wi type="G" value="846,7,">lo</wi>
 <wi type="G" value="1453,6,">despertaron</wi>
 <wi type="G" value="3004,8,">diciendo</wi>,
-«¡
-<wi type="G" value="4982,10,"><wi type="G" value="2248,11,">Sálvanos</wi></wi>
+«¡<wi type="G" value="4982,10,"><wi type="G" value="2248,11,">Sálvanos</wi></wi>
 <wi type="G" value="2962,9," sacred="yes">Señor</wi>!
-¡
-<wi type="G" value="622,12,">Perecemos</wi>!» 
+¡<wi type="G" value="622,12,">Perecemos</wi>!» 
 </t>
 </sv>
 </cm>
@@ -6746,8 +6700,7 @@ and the sea obey him?»
 <t xml:lang="es">
 <wi type="G" value="1161,2,"/><wi type="G" value="444,3,">Los hombres</wi>
 <wi type="G" value="3588,1,"/><wi type="G" value="2296,4,">se asombraron</wi> y
-<wi type="G" value="3004,5,">dijeron</wi>, «¿
-<wi type="G" value="4217,6,">Qué clase de hombre</wi>
+<wi type="G" value="3004,5,">dijeron</wi>, «¿<wi type="G" value="4217,6,">Qué clase de hombre</wi>
 <wi type="G" value="2076,7,">es</wi>
 <wi type="G" value="3778,8,">este</wi>
 <wi type="G" value="3754,9,">que</wi>
@@ -6805,16 +6758,14 @@ you come here to torment us before the time?»
 <wi type="G" value="2532,1,"/><wi type="G" value="2400,2,">He aquí</wi>
 que 
 <wi type="G" value="2896,3,"><wi type="G" value="3004,4,">gritaron</wi></wi>
-«¿
-<wi type="G" value="5101,5,">Qué</wi>
+«¿<wi type="G" value="5101,5,">Qué</wi>
 <wi type="G" value="2254,6,"><wi type="G" value="2532,7,">tenemos que ver</wi></wi>
 <wi type="G" value="4671,8,">contigo</wi>
 <wi type="G" value="2424,9,">Jesús</wi>,
 <wi type="G" value="5207,10,">Hijo</wi>
 <wi type="G" value="3588,11,">de</wi>
 <wi type="G" value="2316,12,">Dios</wi>?
-¿
-<wi type="G" value="2064,13,">Has venido</wi>
+¿<wi type="G" value="2064,13,">Has venido</wi>
 <wi type="G" value="5602,14,">aquí</wi>
 <wi type="G" value="928,17,"><wi type="G" value="2248,18,">a atormentarnos</wi></wi>
 <wi type="G" value="4253,15,">antes</wi>
@@ -6850,8 +6801,7 @@ The demons begged him, saying,
 <wi type="G" value="1142,3,">los demonios</wi>
 <wi type="G" value="846,5,">le</wi>
 <wi type="G" value="3870,4,">suplicaron</wi>
-<wi type="G" value="3004,6,">diciendo</wi>, «
-<wi type="G" value="1487,7,">Si</wi>
+<wi type="G" value="3004,6,">diciendo</wi>, «<wi type="G" value="1487,7,">Si</wi>
 <wi type="G" value="2248,9,">nos</wi>
 <wi type="G" value="1544,8,">expulsas</wi>
 <wi type="G" value="2010,10,"><wi type="G" value="2254,11,">permítenos</wi></wi>
@@ -7021,8 +6971,7 @@ blasphemes.»
 <wi type="G" value="2036,6,">dijeron</wi>
 <wi type="G" value="1722,7,">entre</wi>
 <wi type="G" value="1438,8,">ellos</wi>,
-«
-<wi type="G" value="3778,9,">Este</wi> hombre
+«<wi type="G" value="3778,9,">Este</wi> hombre
 <wi type="G" value="987,10,">blasfema</wi>.» 
 </t>
 </sv>
@@ -7039,8 +6988,7 @@ Jesus, knowing their thoughts, said,
 <fr>«Why do you think evil in
 your hearts?
 <t xml:lang="es">
-«¿
-</t>
+«¿</t>
 <rb xml:lang="es"><wi type="G" value="2443,9,"><wi type="G" value="2444,10,">Por
 qué</wi></wi><rf>
 <citebib id="KJV2003"/> marca la palabra ἵνατί
@@ -7064,8 +7012,7 @@ marca con los strong G2443 y G5101.
 to say, `Get up, and walk?´
 <t xml:lang="es">
 <wi type="G" value="1063,2,">Pues</wi>
-¿
-<wi type="G" value="5101,1,">qué</wi>
+¿<wi type="G" value="5101,1,">qué</wi>
 <wi type="G" value="2076,3,">es</wi>
 <wi type="G" value="2123,4,">más fácil</wi>,
 <wi type="G" value="2036,5,">decir</wi>
@@ -7076,8 +7023,7 @@ to say, `Get up, and walk?´
 <wi type="G" value="863,6,">son perdonados</wi>;´
 <wi type="G" value="2228,10,">o</wi>
 <wi type="G" value="2036,11,">decir</wi>
-`
-<wi type="G" value="1453,12,">Levántate</wi>,
+`<wi type="G" value="1453,12,">Levántate</wi>,
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="4043,14,">camina</wi>?´ 
 </t>
@@ -7236,8 +7182,7 @@ teacher eat with tax collectors and sinners?»
 <wi type="G" value="846,8,">sus</wi>
 <wi type="GC" value="7">discípulos</wi>,
 <wi type="G" value="1223,9,"/>
-«¿
-<wi type="G" value="5101,10,">Por qué</wi>
+«¿<wi type="G" value="5101,10,">Por qué</wi>
 <wi type="G" value="5216,19,">su</wi>
 <wi type="G" value="3588,17,"/> 
 </t>
@@ -7290,8 +7235,7 @@ call the righteous, but sinners to repentance.»
 <wi type="G" value="3129,3,">aprendan</wi>
 <wi type="G" value="5101,4,">lo que</wi> esto
 <wi type="G" value="2076,5,">significa</wi>:
-`
-</t>
+`</t>
 <rb xml:lang="es"><wi type="G" value="2309,7,">Deseo</wi><rf>
 <citebib id="WEB"/> dice `deseo,´ <citebib id="KJV2003"/> dice `tengo.´ De acuerdo a <citebib id="Thayer-BLB"/> la palabra `θέλω´ se
 traduce como `deseo.´
@@ -7327,8 +7271,7 @@ fast often, but your disciples don´t fast?»
 <wi type="G" value="846,3,">Él</wi>
 <wi type="G" value="3004,7,">diciendo</wi>,
 <wi type="G" value="1223,8,"/>
-«¿
-<wi type="G" value="5101,9,">Por qué</wi>
+«¿<wi type="G" value="5101,9,">Por qué</wi>
 <wi type="G" value="2249,10,">nosotros</wi>
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="3588,12,">los</wi>
@@ -7495,8 +7438,7 @@ suplica.´
 <wi type="G" value="3004,10,">diciendo</wi>,
 <wi type="G" value="3754,11,"/> 
 <wi type="G" value="3588,12,"/>
-«
-<wi type="G" value="3450,14,">Mi</wi>
+«<wi type="G" value="3450,14,">Mi</wi>
 <wi type="G" value="2364,13,">hija</wi>
 <wi type="G" value="5053,16,"><wi type="G" value="737,15,">acaba de morir</wi></wi>
 <wi type="G" value="235,17,">pero</wi>
@@ -7554,8 +7496,7 @@ touch his garment, I will be made well.»
 <wi type="G" value="3004,1,">ella dijo</wi>
 <wi type="G" value="1722,3,">a</wi>
 <wi type="G" value="1438,4,">si misma</wi>,
-«
-<wi type="G" value="1437,5,">Si</wi>
+«<wi type="G" value="1437,5,">Si</wi>
 <wi type="G" value="3440,6,">yo solo</wi>
 <wi type="G" value="680,7,">pudiera</wi>
 <wi type="G" value="3588,8,"/><wi type="GC" value="7">tocar</wi>
@@ -7724,8 +7665,7 @@ followed him, calling out and saying, «Have mercy on us, son of David!»
 <wi type="G" value="2896,10,">llamándolo</wi>
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="3004,12,">diciendo</wi>,
-«¡
-<wi type="G" value="1653,13,">Ten piedad</wi>
+«¡<wi type="G" value="1653,13,">Ten piedad</wi>
 <wi type="G" value="2248,14,">de nosotros</wi>,
 <wi type="G" value="5207,15," sacred="yes">Hijo</wi>
 <wi type="G" value="1138,16,">de David</wi>!» 
@@ -7762,8 +7702,7 @@ They told him, «Yes, Lord.»
 <wi type="G" value="3004,20,">Ellos</wi>
 <wi type="G" value="846,21,">le</wi>
 <wi type="GC" value="20">dijeron</wi>,
-«
-<wi type="G" value="3483,22,">Si</wi>,
+«<wi type="G" value="3483,22,">Si</wi>,
 <wi type="G" value="2962,23,">Señor</wi>.» 
 </t>
 </sv>
@@ -7855,8 +7794,7 @@ Israel!»
 <wi type="G" value="2296,9,">maravillada</wi>,
 <wi type="G" value="3004,12,">decía</wi>,
 <wi type="G" value="3754,13,"/>
-«¡
-<wi type="G" value="3763,14,">Nunca</wi> antes
+«¡<wi type="G" value="3763,14,">Nunca</wi> antes
 <wi type="G" value="5316,15,">había sido visto</wi>
 <wi type="G" value="1722,17,">en</wi>
 <wi type="G" value="3588,18,"/><wi type="G" value="2474,19,">Israel</wi>
@@ -7872,8 +7810,7 @@ demons.»
 <wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="5330,3,">los fariseos</wi>
 <wi type="G" value="3004,4,">decían</wi>,
-«
-<wi type="G" value="1722,5,">Por</wi>
+«<wi type="G" value="1722,5,">Por</wi>
 <wi type="G" value="3588,6,">el</wi>
 <wi type="G" value="758,7,">príncipe</wi>
 <wi type="G" value="3588,8,">de los</wi>
@@ -8191,8 +8128,7 @@ go, preach, saying, `The Kingdom of Heaven is at hand!´
 <wi type="G" value="3004,4,"/> 
 <wi type="G" value="3754,5,"/> 
 <wi type="G" value="3588,7,"/>
-`¡
-<wi type="G" value="932,8,">El Reino</wi>
+`¡<wi type="G" value="932,8,">El Reino</wi>
 <wi type="G" value="3588,9,">de los</wi>
 <wi type="G" value="3772,10,">Cielos</wi>
 <wi type="G" value="1448,6,">está cerca</wi>!´
@@ -8723,8 +8659,7 @@ how much more those of his household!
 <wi type="G" value="3588,18,"/><wi type="G" value="2564,21,">ellos han llamado</wi>
 <wi type="G" value="3617,19,">al maestro de la casa</wi>
 <wi type="G" value="954,20,">Beelzebú</wi>,
-¡
-<wi type="G" value="4214,22,">cuanto</wi>
+¡<wi type="G" value="4214,22,">cuanto</wi>
 <wi type="G" value="3123,23,">más</wi>
 <wi type="G" value="3588,24,">los</wi>
 <wi type="G" value="3615,25,">de</wi>
@@ -9285,8 +9220,7 @@ and said to him, «Are you he who comes, or should we look
 for another?»
 <t xml:lang="es">
 <wi type="G" value="2036,1,"><wi type="G" value="846,2,">a decirle</wi></wi>,
-«¿
-<wi type="G" value="1488,4,">Eres</wi>
+«¿<wi type="G" value="1488,4,">Eres</wi>
 <wi type="G" value="4771,3,">tu</wi>
 <wi type="G" value="3588,5,">el</wi>
 <wi type="G" value="2064,6,">que vendría</wi>,
@@ -9406,8 +9340,7 @@ by the wind?
 <wi type="G" value="2300,17,">a ver</wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="1519,14,">al</wi>
 <wi type="G" value="2048,16,">desierto</wi>?
-¿
-<wi type="G" value="2563,18,">Una caña</wi>
+¿<wi type="G" value="2563,18,">Una caña</wi>
 <wi type="G" value="4531,21,">movida</wi>
 <wi type="G" value="5259,19,">por</wi>
 <wi type="G" value="417,20,">el viento</wi>? 
@@ -9423,8 +9356,7 @@ clothing? Behold, those who wear soft clothing are in king´s houses.
 ¿<wi type="G" value="235,1,">Pero</wi>
 <wi type="G" value="5101,2,">qué</wi>
 <wi type="G" value="1831,3,">fueron</wi>
-<wi type="G" value="1492,4,">a ver</wi>? ¿
-<wi type="G" value="444,5,">Un hombre</wi>
+<wi type="G" value="1492,4,">a ver</wi>? ¿<wi type="G" value="444,5,">Un hombre</wi>
 <wi type="G" value="294,9,">vestido</wi>
 <wi type="G" value="1722,6,">con</wi>
 <wi type="G" value="3120,7,">suaves</wi>
@@ -9452,8 +9384,7 @@ than a prophet.
 <wi type="G" value="5101,2,">que</wi>
 <wi type="G" value="1831,3,">fueron</wi>
 <wi type="G" value="1492,4,">a ver</wi>?
-¿
-<wi type="G" value="4396,5,">Un profeta</wi>?
+¿<wi type="G" value="4396,5,">Un profeta</wi>?
 <wi type="G" value="3483,6,">Si</wi>, y
 <wi type="G" value="3004,7,"><wi type="G" value="5213,8,">les digo</wi></wi>,
 <wi type="G" value="2532,9,"/><wi type="G" value="4053,10,">mucho más</wi>
@@ -9472,8 +9403,7 @@ my messenger before your face, who will prepare your way before you.´
 <wi type="G" value="4012,4,">de</wi>
 <wi type="G" value="3739,5,">quien</wi>
 <wi type="G" value="1125,6,">está escrito</wi>,
-`
-<wi type="G" value="2400,7,">Observa</wi>,
+`<wi type="G" value="2400,7,">Observa</wi>,
 <wi type="G" value="1473,8,"><wi type="G" value="649,9,">envío</wi></wi>
 <wi type="G" value="3450,12,">mi</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="32,11,">mensajero</wi> 
@@ -9621,8 +9551,7 @@ tenga</wi>
 sitting in the marketplaces, who call to their companions
 <t xml:lang="es">
 «<wi type="G" value="1161,2,">Pero</wi>
-¿
-<wi type="G" value="5101,1,">con qué</wi>
+¿<wi type="G" value="5101,1,">con qué</wi>
 <wi type="G" value="3666,3,">compararé</wi> a
 <wi type="G" value="3778,6,">esta</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="1074,5,">generación</wi>?
@@ -9646,8 +9575,7 @@ didn´t dance. We mourned for you, and you didn´t lament.´
 <t xml:lang="es">
 <wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="3004,2,">dicen</wi>,
-`
-<wi type="G" value="832,3,">Tocamos la flauta</wi>
+`<wi type="G" value="832,3,">Tocamos la flauta</wi>
 <wi type="G" value="5213,4,">para ustedes</wi>,
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="3738,7,">ustedes</wi>
@@ -9682,8 +9610,7 @@ they say, `He has a demon.´
 <wi type="G" value="4095,7,">beber</wi>
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="3004,9,">ellos dijeron</wi>,
-`
-<wi type="G" value="2192,11,">Tiene</wi>
+`<wi type="G" value="2192,11,">Tiene</wi>
 <wi type="G" value="1140,10,">un demonio</wi>.´ 
 </t>
 </fr>
@@ -9704,8 +9631,7 @@ collectors and sinners!´ But wisdom is justified by her children.»
 <wi type="G" value="4095,8,">bebiendo</wi>
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="3004,10,">ellos dijeron</wi>,
-`¡
-<wi type="G" value="2400,11,">Observen</wi>,
+`¡<wi type="G" value="2400,11,">Observen</wi>,
 <wi type="G" value="444,12,"><wi type="G" value="5314,13,">un glotón</wi></wi>
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="3630,15,">bebedor</wi>,
@@ -9759,8 +9685,7 @@ Woe to you, Bethsaida! For if the mighty works had been done in Tyre and
 Sidon which were done in you, they would have repented long ago in sackcloth
 and ashes.
 <t xml:lang="es">
-«
-</t>
+«</t>
 <rb xml:lang="es">¡<wi type="G" value="3759,1,">Ay</wi>
 <wi type="G" value="4671,2,">de ti</wi>,
 <wi type="G" value="5523,3,">Corazín</wi>!<rf>
@@ -10103,8 +10028,7 @@ disciples do what is not lawful to do on the Sabbath.»
 <wi type="G" value="1492,4,">vieron</wi>,
 <wi type="G" value="846,6,">le</wi>
 <wi type="G" value="2036,5,">dijeron</wi>,
-«
-<wi type="G" value="2400,7,">Observa</wi>,
+«<wi type="G" value="2400,7,">Observa</wi>,
 <wi type="G" value="4675,10,">tus</wi>
 <wi type="G" value="3588,8,"/><wi type="G" value="3101,9,">discípulos</wi>
 <wi type="G" value="4160,11,">hacen</wi>
@@ -10238,8 +10162,7 @@ would not have condemned the guiltless.
 <wi type="G" value="1097,3,">ustedes hubieran sabido</wi>
 <wi type="G" value="5101,4,">lo que</wi> esto
 <wi type="G" value="2076,5,">significa</wi>,
-`
-<wi type="G" value="2309,7,">quiero</wi>
+`<wi type="G" value="2309,7,">quiero</wi>
 <wi type="G" value="1656,6,">compasión</wi>
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="3756,9,">no</wi>
@@ -10298,8 +10221,7 @@ Ellos
 <wi type="G" value="1905,10,">preguntaron</wi>,
 <wi type="G" value="3004,12,"/> 
 <wi type="G" value="1487,13,"/>
-«¿
-<wi type="G" value="1832,14,">Es legal</wi>
+«¿<wi type="G" value="1832,14,">Es legal</wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="2323,17,">sanar</wi>
 <wi type="G" value="4521,16,">en el día sabático</wi>?»
 <wi type="G" value="2443,18,">Para</wi> así
@@ -10623,8 +10545,7 @@ All the multitudes were amazed, and said, «Can this be the son of David?»
 <wi type="G" value="1839,2,">estaban maravilladas</wi>,
 <wi type="G" value="2532,6,">y</wi>
 <wi type="G" value="3004,7,">dijeron</wi>,
-«¿
-<wi type="G" value="3385,8,">No</wi>
+«¿<wi type="G" value="3385,8,">No</wi>
 <wi type="G" value="2076,10,">es</wi>
 <wi type="G" value="3778,9,">este</wi>
 <wi type="G" value="3588,11,">el</wi>
@@ -10641,8 +10562,7 @@ demons, except by Beelzebul, the prince of the demons.»
 <wi type="G" value="5330,3,">fariseos</wi> lo
 <wi type="G" value="191,4,">escucharon</wi>,
 <wi type="G" value="2036,5,">dijeron</wi>,
-«
-<wi type="G" value="3778,6,">Este</wi>
+«<wi type="G" value="3778,6,">Este</wi>
 hombre
 <wi type="G" value="3756,7,">no</wi>
 <wi type="G" value="1544,8,">expulsa</wi>
@@ -10702,8 +10622,7 @@ against himself. How then will his kingdom stand?
 <wi type="G" value="3307,10,">se dividiría</wi>
 <wi type="G" value="1909,8,">contra</wi>
 <wi type="G" value="1438,9,">sí mismo</wi> .
-¿
-<wi type="G" value="4459,11,">Cómo</wi>
+¿<wi type="G" value="4459,11,">Cómo</wi>
 <wi type="G" value="3767,12,">entonces</wi>
 <wi type="G" value="2476,13,">se mantendría</wi>
 <wi type="G" value="846,16,">su</wi>
@@ -10945,8 +10864,7 @@ the mouth speaks.
 <t xml:lang="es">
 Ustedes, <wi type="G" value="1081,1,">nido</wi>
 <wi type="G" value="2191,2,">de víboras</wi>,
-¿
-<wi type="G" value="4459,3,">cómo</wi>
+¿<wi type="G" value="4459,3,">cómo</wi>
 <wi type="G" value="1410,4,">pueden</wi>
 <wi type="G" value="5607,8,">siendo</wi>
 <wi type="G" value="4190,7,">malos</wi>,
@@ -11057,8 +10975,7 @@ to see a sign from you.»
 <wi type="G" value="5330,7,">los fariseos</wi>
 <wi type="G" value="611,2,">contestaron</wi>
 <wi type="G" value="3004,8,">diciendo</wi>,
-«
-<wi type="G" value="1320,9,">Maestro</wi>,
+«<wi type="G" value="1320,9,">Maestro</wi>,
 <wi type="G" value="2309,10,">queremos</wi>
 <wi type="G" value="1492,14,">ver</wi>
 <wi type="G" value="4592,13,">una señal</wi>
@@ -11241,8 +11158,7 @@ and put in order.
 <t xml:lang="es">
 <wi type="G" value="5119,1,">Entonces</wi>
 <wi type="G" value="3004,2,">dice</wi>,
-`
-<wi type="G" value="1994,3,">Regresaré</wi>
+`<wi type="G" value="1994,3,">Regresaré</wi>
 <wi type="G" value="1519,4,">a</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="3450,7,">mi</wi>
 <wi type="G" value="3624,6,">casa</wi>
@@ -11339,8 +11255,7 @@ you.»
 <wi type="G" value="1161,2,">Entonces</wi>
 <wi type="G" value="5100,3,">alguien</wi>
 <wi type="G" value="846,4,">le</wi>
-<wi type="G" value="2036,1,">dijo</wi>, «
-<wi type="G" value="2400,5,">Mira</wi>,
+<wi type="G" value="2036,1,">dijo</wi>, «<wi type="G" value="2400,5,">Mira</wi>,
 <wi type="G" value="4675,8,">tu</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="3384,7,">madre</wi>
 <wi type="G" value="2532,9,">y</wi>
@@ -11373,8 +11288,7 @@ But he answered him who spoke to him,
 <wi type="G" value="3450,12,">mi</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="3384,11,">madre</wi>?
 <wi type="G" value="2532,13,">y</wi>
-¿
-<wi type="G" value="5101,14,">Quiénes</wi>
+¿<wi type="G" value="5101,14,">Quiénes</wi>
 <wi type="G" value="1526,15,">son</wi>
 <wi type="G" value="3450,18,">mis</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="80,17,">hermanos</wi>?» 
@@ -12185,10 +12099,8 @@ this darnel come from?´
 y
 <wi type="G" value="846,8,">le</wi>
 <wi type="G" value="2036,7,">dijeron</wi>,
-`
-<wi type="G" value="2962,9,">Señor</wi>,
-¿
-<wi type="G" value="3780,10,">no</wi>
+`<wi type="G" value="2962,9,">Señor</wi>,
+¿<wi type="G" value="3780,10,">no</wi>
 <wi type="G" value="4687,13,">sembraste</wi>
 <wi type="G" value="2570,11,">buena</wi>
 <wi type="G" value="4690,12,">semilla</wi>
@@ -12196,8 +12108,7 @@ y
 <wi type="G" value="4674,16,">tu</wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="68,17,">campo</wi>?
 <wi type="G" value="3767,19,">Entonces</wi>
-¿
-<wi type="G" value="4159,18,">de donde</wi>
+¿<wi type="G" value="4159,18,">de donde</wi>
 <wi type="G" value="2192,20,"/> vino esta
 <wi type="G" value="3588,21,"/><wi type="G" value="2215,22,">maleza</wi>?´ 
 </t>
@@ -12212,8 +12123,7 @@ y
 <wi type="G" value="3588,1,"/> 
 <wi type="G" value="1161,2,"/><wi type="G" value="846,4,">les</wi>
 <wi type="GC" value="3">dijo</wi>,
-`
-<wi type="G" value="2190,5,">Un enemigo</wi>
+`<wi type="G" value="2190,5,">Un enemigo</wi>
 <wi type="G" value="444,6,"/><wi type="G" value="4160,8,">ha hecho</wi>
 <wi type="G" value="5124,7,">esto</wi>.´ 
 </t>
@@ -12222,12 +12132,10 @@ y
 <t xml:lang="es">
 <wi type="G" value="1161,10,"/> 
 <wi type="G" value="3588,9,"/>
-«
-<wi type="G" value="1401,11,">Los siervos</wi>
+«<wi type="G" value="1401,11,">Los siervos</wi>
 <wi type="G" value="846,13,">le</wi>
 <wi type="G" value="2036,12,">preguntaron</wi>,
-`¿
-<wi type="G" value="2309,14,">Quieres</wi>
+`¿<wi type="G" value="2309,14,">Quieres</wi>
 <wi type="G" value="3767,15,">entonces</wi>
 <wi type="G" value="565,16,">que vayamos</wi> y
 <wi type="G" value="846,18,">la</wi>
@@ -12243,8 +12151,7 @@ gather up the darnel, you root up the wheat with them.
 <t xml:lang="es">
 «<wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="3588,1,"/><wi type="G" value="5346,3,">él dijo</wi>,
-`
-<wi type="G" value="3756,4,">No</wi>,
+`<wi type="G" value="3756,4,">No</wi>,
 <wi type="G" value="3379,5,">pues tal vez</wi>
 <wi type="G" value="4816,6,">mientras recogen</wi>
 <wi type="G" value="3588,7,">la</wi>
@@ -12277,8 +12184,7 @@ my barn.»´»
 <wi type="G" value="2326,12,"/><wi type="G" value="2046,13,">le diré</wi>
 <wi type="G" value="3588,14,">a los</wi>
 <wi type="G" value="2327,15,">recolectores</wi>,
-«
-<wi type="G" value="4412,17,">Primero</wi>
+«<wi type="G" value="4412,17,">Primero</wi>
 <wi type="G" value="4816,16,">recojan</wi>
 <wi type="G" value="3588,18,">la</wi>
 <wi type="G" value="2215,19,">cizaña</wi>,
@@ -12496,8 +12402,7 @@ de regreso
 <wi type="G" value="4334,12,">fueron</wi> donde
 <wi type="G" value="846,13,">Él</wi>,
 <wi type="G" value="3004,17,">diciendo</wi>,
-«
-<wi type="G" value="5419,18,"><wi type="G" value="2254,19,">Explícanos</wi></wi>
+«<wi type="G" value="5419,18,"><wi type="G" value="2254,19,">Explícanos</wi></wi>
 <wi type="G" value="3588,20,">la</wi>
 <wi type="G" value="3850,21,">parábola</wi>
 <wi type="G" value="3588,22,">de la</wi>
@@ -12886,8 +12791,7 @@ They answered him, «Yes, Lord.»
 <t xml:lang="es">
 <wi type="G" value="846,9,">Le</wi>
 <wi type="G" value="3004,8,">contestaron</wi>,
-«
-<wi type="G" value="3483,10,">Si</wi>,
+«<wi type="G" value="3483,10,">Si</wi>,
 <wi type="G" value="2962,11,">Señor</wi>.» 
 </t>
 </sv>
@@ -12905,8 +12809,7 @@ disciple in the Kingdom of Heaven is like a man who is a householder, who
 brings out of his treasure new and old things.»
 <t xml:lang="es">
 <wi type="G" value="1223,5,"/>
-«
-<wi type="G" value="5124,6,">Por lo tanto</wi>
+«<wi type="G" value="5124,6,">Por lo tanto</wi>
 <wi type="G" value="3956,7,">cada</wi>
 <wi type="G" value="1122,8,">escriba</wi> que ha sido
 </t>
@@ -12971,8 +12874,7 @@ this wisdom, and these mighty works?
 <wi type="G" value="1605,14,">estaba asombrada</wi>
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="3004,17,">decía</wi>,
-«¿
-<wi type="G" value="4159,18,">De donde</wi>
+«¿<wi type="G" value="4159,18,">De donde</wi>
 <wi type="G" value="3588,20,"/><wi type="G" value="5129,19,">saco</wi>
 <wi type="G" value="3778,22,">este</wi> hombre esa
 <wi type="G" value="4678,21,">sabiduría</wi>,
@@ -12990,8 +12892,7 @@ Isn´t his mother called Mary, and his brothers, James, Joses, Simon, and
 <wi type="G" value="3588,4,"/><wi type="G" value="3588,5,">el</wi>
 <wi type="G" value="5207,7,">hijo</wi>
 <wi type="G" value="5045,6,">del carpintero</wi>?
-¿
-<wi type="G" value="3780,8,">No</wi>
+¿<wi type="G" value="3780,8,">No</wi>
 <wi type="G" value="3004,12,">se llama</wi>
 <wi type="G" value="846,11,">su</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="3384,10,">madre</wi>
@@ -13030,8 +12931,7 @@ all of these things?»
 <wi type="G" value="3588,2,"/><wi type="G" value="79,3,">hermanas</wi>
 <wi type="G" value="4314,7,">con</wi>
 <wi type="G" value="2248,8,">nosotros</wi>?
-¿
-<wi type="G" value="4159,10,">De dónde</wi>
+¿<wi type="G" value="4159,10,">De dónde</wi>
 <wi type="G" value="5129,12,">saco</wi>
 <wi type="G" value="3767,11,"/>este hombre
 <wi type="G" value="3956,14,">todas</wi>
@@ -13114,8 +13014,7 @@ from the dead. That is why these powers work in him.»
 <wi type="G" value="3588,3,"/><wi type="G" value="3816,4,">a</wi>
 <wi type="G" value="846,5,">sus</wi>
 <wi type="GC" value="3">siervos</wi>,
-«
-<wi type="G" value="3778,6,">Este</wi>
+«<wi type="G" value="3778,6,">Este</wi>
 <wi type="G" value="2076,7,">es</wi>
 <wi type="G" value="2491,8,">Juan</wi>
 <wi type="G" value="3588,9,">el</wi>
@@ -13165,8 +13064,7 @@ you to have her.»
 <wi type="G" value="1063,2,">Porque</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="2491,5,">Juan</wi>
 <wi type="G" value="846,3,">le</wi>
-<wi type="G" value="3004,1,">había dicho</wi>, «
-</t>
+<wi type="G" value="3004,1,">había dicho</wi>, «</t>
 <rb xml:lang="es"><wi type="G" value="3756,6,">No</wi>
 <wi type="G" value="1832,7,">es legal</wi>
 <wi type="G" value="4671,8,">para ti</wi>
@@ -13241,8 +13139,7 @@ head of John the Baptizer.»
 <wi type="G" value="846,7,">su</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="3384,6,">madre</wi>,
 <wi type="G" value="5346,10,">dijo</wi>,
-«
-<wi type="G" value="1325,8,"><wi type="G" value="3427,9,">Traeme</wi></wi>
+«<wi type="G" value="1325,8,"><wi type="G" value="3427,9,">Traeme</wi></wi>
 <wi type="G" value="5602,11,">aquí</wi>
 <wi type="G" value="1909,12,">sobre</wi>
 <wi type="G" value="4094,13,">una bandeja</wi>
@@ -13388,8 +13285,7 @@ they may go into the villages, and buy themselves food.»
 <wi type="G" value="4334,4,">fueron</wi>
 <wi type="G" value="846,5,">a Él</wi>
 <wi type="G" value="3004,9,">diciendo</wi>,
-«
-<wi type="G" value="2076,11,">Este</wi>
+«<wi type="G" value="2076,11,">Este</wi>
 <wi type="G" value="5117,13,">lugar</wi>
 <wi type="G" value="3588,12,"/>
 está 
@@ -13444,8 +13340,7 @@ They told him, «We only have here five loaves and two fish.»
 <wi type="G" value="1161,2,"/><wi type="G" value="846,4,">le</wi>
 <wi type="GC" value="3">dijeron</wi>,
 <wi type="G" value="3756,5,"/>
-«
-<wi type="G" value="1487,8,">Sólo</wi>
+«<wi type="G" value="1487,8,">Sólo</wi>
 <wi type="G" value="2192,6,">tenemos</wi>
 <wi type="G" value="5602,7,">aquí</wi>
 <wi type="G" value="3361,9,"/><wi type="G" value="4002,10,">cinco</wi>
@@ -13659,8 +13554,7 @@ saying, «It´s a ghost!» and they cried out for fear.
 <wi type="G" value="5015,10,">se angustiaron</wi>,
 <wi type="G" value="3004,11,">diciendo</wi>,
 <wi type="G" value="3754,12,"/>
-«¡
-<wi type="G" value="2076,14,">Es</wi>
+«¡<wi type="G" value="2076,14,">Es</wi>
 <wi type="G" value="5326,13,">un fantasma</wi>!»
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="2896,19,">gritaban</wi>
@@ -13707,8 +13601,7 @@ you on the waters.»
 <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="611,1,">contestó</wi>
 <wi type="G" value="2036,6,"/>,
-«
-<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
+«<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
 <wi type="G" value="1487,8,">si</wi>
 <wi type="G" value="1488,10,">eres</wi>
 <wi type="G" value="4771,9,">tu</wi>,
@@ -13767,8 +13660,7 @@ que
 <wi type="G" value="2670,9,">a hundirse</wi>, entonces
 <wi type="G" value="2896,10,">gritó</wi>,
 <wi type="G" value="3004,11,"/>
-«¡
-<wi type="G" value="2962,12," sacred="yes">Señor</wi>,
+«¡<wi type="G" value="2962,12," sacred="yes">Señor</wi>,
 <wi type="G" value="4982,13,"><wi type="G" value="3165,14,">sálvame</wi></wi>!» 
 </t>
 </sv>
@@ -13793,8 +13685,7 @@ y
 <t xml:lang="es">
 «Tu, <wi type="G" value="3640,13,">hombre de poca de fe</wi>,
 <wi type="G" value="1519,14,"/>
-¿
-<wi type="G" value="5101,15,">Por qué</wi>
+¿<wi type="G" value="5101,15,">Por qué</wi>
 <wi type="G" value="1365,16,">dudaste</wi>?» 
 </t>
 </fr>
@@ -13823,8 +13714,7 @@ worshiped him, saying, «You are truly the Son of God!»
 <wi type="G" value="846,8,">lo</wi>
 <wi type="G" value="4352,7,">alabaron</wi>,
 <wi type="G" value="3004,9,">diciendo</wi>,
-«¡
-<wi type="G" value="1488,13,">Tu eres</wi>
+«¡<wi type="G" value="1488,13,">Tu eres</wi>
 <wi type="G" value="230,10,">verdaderamente</wi>
 <wi type="G" value="5207,12,">el Hijo</wi>
 <wi type="G" value="2316,11,">de Dios</wi>!» 
@@ -13967,16 +13857,14 @@ death.´
 <wi type="G" value="3588,1,"/><wi type="G" value="2316,3,">Dios</wi>
 <wi type="G" value="1781,4,">ordenó</wi>,
 <wi type="G" value="3004,5,"/>
-`
-<wi type="G" value="5091,6,">Honren</wi> a
+`<wi type="G" value="5091,6,">Honren</wi> a
 <wi type="G" value="3588,7,"/><wi type="G" value="4675,9,">su</wi>
 <wi type="G" value="3962,8,">padre</wi>
 <wi type="G" value="2532,10,">y</wi> a su
 <wi type="G" value="3588,11,"/><wi type="G" value="3384,12,">madre</wi>,´
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="3588,14,"/>
-`
-<wi type="G" value="2551,15,">Aquel que hable mal</wi>
+`<wi type="G" value="2551,15,">Aquel que hable mal</wi>
 de su
 <wi type="G" value="3962,16,">padre</wi>
 <wi type="G" value="2228,17,">o</wi>
@@ -14004,14 +13892,12 @@ God,»
 <wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="5210,1,">ustedes</wi>
 <wi type="G" value="3004,3,">dicen</wi>,
-`
-<wi type="G" value="3739,4,">Cualquiera</wi>
+`<wi type="G" value="3739,4,">Cualquiera</wi>
 <wi type="G" value="302,5,"/><wi type="G" value="2036,6,">puede decirle</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="3962,8,">a</wi> su
 <wi type="GC" value="8">padre</wi>
 <wi type="G" value="2228,9,">o</wi> a su
-<wi type="G" value="3588,10,"/><wi type="G" value="3384,11,">madre</wi> «
-</t>
+<wi type="G" value="3588,10,"/><wi type="G" value="3384,11,">madre</wi> «</t>
 <rb xml:lang="es"><wi type="G" value="3739,13,">Cualquier</wi> ayuda que
 <wi type="G" value="5623,17,">pudieras haber recibido</wi>
 <wi type="G" value="1437,14,"/><wi type="G" value="1537,15,">de</wi>
@@ -14083,8 +13969,7 @@ Well did Isaiah prophesy of you, saying,
 <sv id="Mateo-15-8">
 <fr>`These people draw near to me with their mouth,
 <t xml:lang="es">
-`
-</t>
+`</t>
 <rb xml:lang="es"><wi type="G" value="3778,5,">Esta</wi>
 <wi type="G" value="2992,4,">gente</wi>
 <wi type="G" value="1448,1,">se acerca</wi>
@@ -14198,8 +14083,7 @@ Pharisees were offended, when they heard this saying?»
 <wi type="G" value="4334,2,">vinieron</wi>, y
 <wi type="G" value="3588,3,"/><wi type="G" value="846,7,">le</wi>
 <wi type="G" value="2036,6,">dijeron</wi>,
-«¿
-<wi type="G" value="1492,8,">Sabes</wi>
+«¿<wi type="G" value="1492,8,">Sabes</wi>
 <wi type="G" value="3754,9,">que</wi>
 <wi type="G" value="3588,10,">los</wi>
 <wi type="G" value="5330,11,">fariseos</wi>
@@ -14261,8 +14145,7 @@ Peter answered him, «Explain the parable to us.»
 <wi type="G" value="3588,3,"/><wi type="G" value="4074,4,">Pedro</wi>
 <wi type="G" value="846,6,">le</wi>
 <wi type="G" value="611,1,">contestó</wi>
-<wi type="G" value="2036,5,"/>, «
-</t>
+<wi type="G" value="2036,5,"/>, «</t>
 <rb xml:lang="es"><wi type="G" value="5419,7,"><wi type="G" value="2254,8,">Explícanos</wi></wi><rf>
 <citebib id="Peshitta"/> agrega antes `Mi Señor.´
 </rf>
@@ -14282,8 +14165,7 @@ So Jesus said,
 </t>
 <fr>«Do you also still not understand?
 <t xml:lang="es">
-«¿
-<wi type="G" value="2532,6,">Tampoco</wi>
+«¿<wi type="G" value="2532,6,">Tampoco</wi>
 <wi type="G" value="2075,9,"><wi type="G" value="5210,7,"><wi type="G" value="801,8,">entienden</wi></wi></wi>
 <wi type="G" value="188,5,">aún</wi>? 
 </t>
@@ -14421,15 +14303,13 @@ severely demonized!»
 <wi type="G" value="3588,6,"/><wi type="G" value="3725,7,">fronteras</wi>,
 <wi type="G" value="2905,10,">llorando</wi> y
 <wi type="G" value="3004,12,"><wi type="G" value="846,11,">diciéndole</wi></wi>,
-«¡
-<wi type="G" value="1653,13,">Ten piedad</wi>
+«¡<wi type="G" value="1653,13,">Ten piedad</wi>
 <wi type="G" value="3165,14,">de mí</wi>,
 <wi type="G" value="2962,15," sacred="yes">Señor</wi>, tu
 <wi type="G" value="5207,16," sacred="yes">Hijo</wi>
 <wi type="G" value="1138,17,">de David</wi>!
 <wi type="G" value="3588,18,"/>
-¡
-<wi type="G" value="3450,20,">Mi</wi>
+¡<wi type="G" value="3450,20,">Mi</wi>
 <wi type="G" value="2364,19,">hija</wi>
 <wi type="G" value="1139,22,">está</wi>
 <wi type="G" value="2560,21,">severamente</wi>
@@ -14456,8 +14336,7 @@ after us.»
 <wi type="G" value="4334,8,">vinieron</wi> y
 <wi type="G" value="846,13,">le</wi>
 <wi type="G" value="2065,12,">rogaron</wi>,
-<wi type="G" value="3004,14,">diciendo</wi>, «
-</t>
+<wi type="G" value="3004,14,">diciendo</wi>, «</t>
 <rb xml:lang="es"><wi type="G" value="630,15,"><wi type="G" value="846,16,">Despidela</wi></wi><rf>
 <citebib id="DieBibel"/> dice `Libérala (de su preocupación),´ <citebib id="KJV2003"/> dice `envíala lejos,´ <citebib id="RV1960"/> dice
 `despidela.´
@@ -14505,8 +14384,7 @@ y
 <wi type="G" value="846,5,">lo</wi>
 <wi type="G" value="4352,4,">alabó</wi>
 <wi type="G" value="3004,6,">diciendo</wi>,
-«
-<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
+«<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
 <wi type="G" value="997,8,"><wi type="G" value="3427,9,">ayúdame</wi></wi>.» 
 </t>
 </sv>
@@ -14543,8 +14421,7 @@ from their masters´ table.»
 <t xml:lang="es">
 <wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="2036,3,">ella dijo</wi>,
-«
-<wi type="G" value="3483,4,">Si</wi>,
+«<wi type="G" value="3483,4,">Si</wi>,
 <wi type="G" value="2962,5," sacred="yes">Señor</wi>,
 <wi type="G" value="2532,6,"/>pero
 <wi type="G" value="1063,7,">aún</wi>
@@ -14732,8 +14609,7 @@ deserted place as to satisfy so great a multitude?»
 <wi type="G" value="3101,5,">discípulos</wi>
 <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="3004,2,">dijeron</wi>,
-«¿
-<wi type="G" value="4159,7,">Donde</wi>
+«¿<wi type="G" value="4159,7,">Donde</wi>
 <wi type="G" value="2254,8,">conseguiríamos</wi>
 <wi type="G" value="5118,12,">tanto</wi>
 <wi type="G" value="740,11,">pan</wi>
@@ -14766,8 +14642,7 @@ They said, «Seven, and a few small fish.»
 <t xml:lang="es">
 <wi type="G" value="3588,9,"/> 
 <wi type="G" value="1161,10,"/><wi type="G" value="2036,11,">Ellos le dijeron</wi>,
-«
-<wi type="G" value="2033,12,">Siete</wi>,
+«<wi type="G" value="2033,12,">Siete</wi>,
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="3641,14,">unos pocos</wi>
 <wi type="G" value="2485,15,">pescaditos</wi>.» 
@@ -14915,8 +14790,7 @@ But he answered them,
 <t xml:lang="es">
 «<wi type="G" value="1096,7,">Cuando es</wi>
 <wi type="G" value="3798,6,">el atardecer</wi>
-<wi type="G" value="3004,8,">ustedes dicen</wi>, `
-</t>
+<wi type="G" value="3004,8,">ustedes dicen</wi>, `</t>
 <rb xml:lang="es">El
 <wi type="G" value="2105,9,">clima</wi> será
 <wi type="GC" value="9">bueno</wi><rf>
@@ -14939,8 +14813,7 @@ the appearance of the sky, but you can´t discern
 the signs of the times!
 <t xml:lang="es">
 <wi type="G" value="2532,1,">Y</wi>
-<wi type="G" value="4404,2,">en la mañana</wi>, `
-</t>
+<wi type="G" value="4404,2,">en la mañana</wi>, `</t>
 <rb xml:lang="es">Hará
 <wi type="G" value="5494,4,">mal tiempo</wi><rf>
 <citebib id="Peshitta"/> dice `Será invierno.´
@@ -14961,8 +14834,7 @@ the signs of the times!
 .´ ¡<wi type="G" value="5273,10,">Hipócritas</wi>!
 <wi type="G" value="3588,11,"/> 
 <wi type="G" value="3303,12,"/>
-¡
-<wi type="G" value="1097,16,">Pueden</wi>
+¡<wi type="G" value="1097,16,">Pueden</wi>
 <wi type="G" value="1252,17,">discernir</wi>
 <wi type="G" value="4383,13,">la apariencia</wi>
 <wi type="G" value="3588,14,">del</wi>
@@ -15033,8 +14905,7 @@ Jesus said to them,
 </t>
 <fr>«Take heed and beware of the yeast of the Pharisees and Sadducees.»
 <t xml:lang="es">
-«
-<wi type="G" value="3708,6,">Observen</wi>
+«<wi type="G" value="3708,6,">Observen</wi>
 <wi type="G" value="2532,7,">y</wi>
 <wi type="G" value="4337,8,">sea cautos</wi>
 <wi type="G" value="575,9,">con</wi>
@@ -15055,8 +14926,7 @@ They reasoned among themselves, saying, «We brought no bread.»
 <wi type="G" value="3588,1,"/> 
 <wi type="G" value="1161,2,"/><wi type="G" value="1722,4,">entre</wi>
 <wi type="G" value="1438,5,">si</wi>
-<wi type="G" value="3004,6,">diciendo</wi>, «
-</t>
+<wi type="G" value="3004,6,">diciendo</wi>, «</t>
 <rb xml:lang="es">Es <wi type="G" value="3754,7,">porque</wi>
 <wi type="G" value="3756,9,">no</wi>
 <wi type="G" value="2983,10,">trajimos</wi>
@@ -15251,8 +15121,7 @@ Jeremiah, or one of the prophets.»
 <wi type="G" value="2036,3,">Ellos dijeron</wi>,
 <wi type="G" value="3588,1,"/> 
 <wi type="G" value="1161,2,"/>
-«
-<wi type="G" value="3588,4,"/><wi type="G" value="3303,5,">Algunos</wi> dicen
+«<wi type="G" value="3588,4,"/><wi type="G" value="3303,5,">Algunos</wi> dicen
 <wi type="G" value="2491,6,">Juan</wi>
 <wi type="G" value="3588,7,">el</wi>
 <wi type="G" value="910,8,">Bautista</wi>,
@@ -15298,8 +15167,7 @@ God.»
 <wi type="G" value="4074,4,">Pedro</wi>
 <wi type="G" value="611,1,">respondió</wi>
 <wi type="G" value="2036,5,">diciendo</wi>,
-«
-<wi type="G" value="4771,6,">Tu</wi>
+«<wi type="G" value="4771,6,">Tu</wi>
 <wi type="G" value="1488,7,">eres</wi>
 <wi type="G" value="3588,8,">el</wi>
 <wi type="G" value="5547,9,">Cristo</wi>,
@@ -15542,8 +15410,7 @@ you, Lord! This will never be done to you.»
 <wi type="G" value="756,6,">y comenzó</wi>
 <wi type="G" value="2008,7,"><wi type="G" value="846,8,">a reprenderlo</wi></wi>
 <wi type="G" value="3004,9,">diciendo</wi>,
-«¡
-<wi type="G" value="2436,10,">Lejos</wi>
+«¡<wi type="G" value="2436,10,">Lejos</wi>
 este eso
 <wi type="G" value="4671,11,">de ti</wi>
 <wi type="G" value="2962,12," sacred="yes">Señor</wi>!
@@ -15654,8 +15521,7 @@ lose it, and whoever will lose his life for my sake will find it.
 For what will it profit a man, if he gains the whole world, and forfeits his
 life? Or what will a man give in exchange for his life?
 <t xml:lang="es">
-<wi type="G" value="1063,2,"/>¿
-<wi type="G" value="5101,1,">Qué</wi>
+<wi type="G" value="1063,2,"/>¿<wi type="G" value="5101,1,">Qué</wi>
 <wi type="G" value="5623,3,">beneficio</wi>
 tendrá
 <wi type="G" value="444,4,">un hombre</wi>
@@ -15825,8 +15691,7 @@ for Elijah.»
 <wi type="G" value="611,1,"><wi type="G" value="2036,5,">le dijo</wi></wi>
 <wi type="G" value="3588,6,">a</wi>
 <wi type="G" value="2424,7,">Jesús</wi>,
-«
-<wi type="G" value="2962,8," sacred="yes">Señor</wi>,
+«<wi type="G" value="2962,8," sacred="yes">Señor</wi>,
 <wi type="G" value="2076,10,">es</wi>
 <wi type="G" value="2570,9,">bueno</wi>
 <wi type="G" value="2248,11,"><wi type="G" value="1511,13,">que estemos</wi></wi>
@@ -15866,8 +15731,7 @@ Mientras
 <wi type="G" value="3588,13,">la</wi>
 <wi type="G" value="3507,14,">nube</wi>,
 <wi type="G" value="3004,15,">dijo</wi>,
-«
-<wi type="G" value="3778,16,">Este</wi>
+«<wi type="G" value="3778,16,">Este</wi>
 <wi type="G" value="2076,17,">es</wi>
 <wi type="G" value="3588,18,"/><wi type="G" value="3450,20,">mi</wi>
 <wi type="G" value="5207,19,">Hijo</wi>
@@ -15981,8 +15845,7 @@ Elijah must come first?»
 <wi type="G" value="3588,4,"/><wi type="G" value="3101,5,">discípulos</wi>
 <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="1905,2,"><wi type="G" value="3004,7,">preguntaron</wi></wi>,
-«¿
-<wi type="G" value="3767,9,">Entonces</wi>
+«¿<wi type="G" value="3767,9,">Entonces</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="5101,8,">por qué</wi>
 <wi type="G" value="1122,11,">los escribas</wi>
 <wi type="G" value="3004,12,">dicen</wi>
@@ -16161,13 +16024,11 @@ be with you? How long will I bear with you? Bring him here to me.»
 <wi type="G" value="1294,10,">perversa</wi>
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="571,8,">sin fe</wi>!
-¿
-<wi type="G" value="2193,11,"><wi type="G" value="4219,12,">Cuánto tiempo</wi></wi>
+¿<wi type="G" value="2193,11,"><wi type="G" value="4219,12,">Cuánto tiempo</wi></wi>
 <wi type="G" value="2071,13,">estaré</wi>
 <wi type="G" value="3326,14,">con</wi>
 <wi type="G" value="5216,15,">ustedes</wi>?
-¿
-<wi type="G" value="2193,16,"><wi type="G" value="4219,17,">Cuanto tiempo</wi></wi>
+¿<wi type="G" value="2193,16,"><wi type="G" value="4219,17,">Cuanto tiempo</wi></wi>
 <wi type="G" value="5216,19,">los</wi>
 <wi type="G" value="430,18,">soportaré</wi>?
 <wi type="G" value="5342,20,"><wi type="G" value="846,22,"><wi type="G" value="3427,21,">Traíganmelo</wi></wi></wi>
@@ -16210,8 +16071,7 @@ able to cast it out?»
 le
 <wi type="G" value="2036,9,">dijeron</wi>,
 <wi type="G" value="1223,10,"/>
-«¿
-<wi type="G" value="5101,11,">Por qué</wi>
+«¿<wi type="G" value="5101,11,">Por qué</wi>
 <wi type="G" value="3756,13,">no</wi>
 <wi type="G" value="1410,14,"><wi type="G" value="2249,12,">nos fue posible</wi></wi>
 <wi type="G" value="1544,15,"><wi type="G" value="846,16,">expulsarlo</wi></wi>?» 
@@ -16249,8 +16109,7 @@ tanta
 <wi type="G" value="3588,21,"/><wi type="G" value="3735,22,">a</wi>
 <wi type="G" value="5129,23,">esta</wi>
 <wi type="GC" value="22">montaña</wi>,
-`
-<wi type="G" value="3327,24,">Muévete</wi>
+`<wi type="G" value="3327,24,">Muévete</wi>
 <wi type="G" value="1782,25,">de aquí</wi>
 <wi type="G" value="1563,26,">para allí</wi>,´
 <wi type="G" value="2532,27,">y</wi>
@@ -16374,8 +16233,7 @@ correspondían al valor de medio siclo de plata. <citebib id="Peshitta"/> agrega
 <wi type="G" value="3588,11,"/><wi type="G" value="4074,12,">donde Pedro</wi>
 <wi type="G" value="2532,13,">y</wi> le
 <wi type="G" value="2036,14,">dijeron</wi>,
-«¿
-<wi type="G" value="5216,17,">Tu</wi>
+«¿<wi type="G" value="5216,17,">Tu</wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="1320,16,">maestro</wi>
 <wi type="G" value="3756,18,">no</wi>
 <wi type="G" value="5055,19,">paga</wi>
@@ -16387,8 +16245,7 @@ correspondían al valor de medio siclo de plata. <citebib id="Peshitta"/> agrega
 He said, «Yes.»
 <t xml:lang="es">
 <wi type="G" value="3004,1,">Él dijo</wi>,
-«
-<wi type="G" value="3483,2,">Si</wi>.» 
+«<wi type="G" value="3483,2,">Si</wi>.» 
 </t>
 <cl/>
 When he came into the house, Jesus anticipated him, saying,
@@ -16413,8 +16270,7 @@ From their children, or from strangers?»
 <wi type="G" value="4613,17,">Simón</wi>?
 <wi type="G" value="3588,18,"/> 
 <wi type="G" value="3588,20,"/>
-¿
-<wi type="G" value="575,22,">De</wi>
+¿<wi type="G" value="575,22,">De</wi>
 <wi type="G" value="5101,23,">quienes</wi>
 <wi type="G" value="2983,24,">reciben</wi>
 <wi type="G" value="5056,25,">impuestos</wi>
@@ -16422,8 +16278,7 @@ From their children, or from strangers?»
 <wi type="G" value="2778,27,">tributos</wi>
 <wi type="G" value="935,19,">los reyes</wi>
 <wi type="G" value="1093,21,">de la tierra</wi>?
-¿
-<wi type="G" value="575,28,">De</wi>
+¿<wi type="G" value="575,28,">De</wi>
 <wi type="G" value="3588,29,"/><wi type="G" value="846,31,">sus propios</wi> 
 </t>
 <rb xml:lang="es"><wi type="G" value="5207,30,">hijos</wi><rf>
@@ -16444,8 +16299,7 @@ Peter said to him, «From strangers.»
 <wi type="G" value="4074,4,">Pedro</wi>
 <wi type="G" value="846,2,">le</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="3004,1,">dijo</wi>,
-«
-<wi type="G" value="575,5,">De</wi>
+«<wi type="G" value="575,5,">De</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="245,7,">extraños</wi>.» 
 </t>
 <cl/>
@@ -16536,8 +16390,7 @@ greatest in the Kingdom of Heaven?»
 <wi type="G" value="3588,8,"/><wi type="G" value="4334,5,">llegaron</wi> donde
 <wi type="G" value="2424,9,">Jesús</wi>
 <wi type="G" value="3004,10,">diciendo</wi>,
-«¿
-<wi type="G" value="5101,11,">Quién</wi>
+«¿<wi type="G" value="5101,11,">Quién</wi>
 <wi type="G" value="687,12,"/><wi type="G" value="2076,14,">es</wi> entonces
 <wi type="G" value="3187,13,">el más grande</wi>
 <wi type="G" value="1722,15,">en</wi>
@@ -16705,8 +16558,7 @@ impedimento en el camino para que otro caiga, metáfora ofender.´
 <wi type="G" value="4625,12,">ocasiones</wi>
 <wi type="GC" value="10">lleguen</wi>,
 <wi type="G" value="4133,13,">pero</wi>
-¡
-<wi type="G" value="3759,14,">ay</wi>
+¡<wi type="G" value="3759,14,">ay</wi>
 <wi type="G" value="3588,15,">de</wi>
 <wi type="G" value="1565,17,">esa</wi>
 <wi type="G" value="444,16,">persona</wi>
@@ -17131,10 +16983,8 @@ against me, and I forgive him? Until seven times?»
 donde 
 <wi type="G" value="846,3,">Él</wi> y
 <wi type="G" value="2036,6,">dijo</wi>,
-«
-<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
-¿
-<wi type="G" value="4212,8,">que tan a menudo</wi>
+«<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
+¿<wi type="G" value="4212,8,">que tan a menudo</wi>
 debo
 <wi type="G" value="863,16,">perdonar</wi> a
 <wi type="G" value="3450,14,">mi</wi>
@@ -17144,8 +16994,7 @@ debo
 <wi type="G" value="1519,10,">contra</wi>
 <wi type="G" value="1691,11,">mí</wi>?
 <wi type="G" value="3588,12,"/>
-¿
-<wi type="G" value="2193,18,">Hasta</wi>
+¿<wi type="G" value="2193,18,">Hasta</wi>
 <wi type="G" value="2034,19,">siete veces</wi>?» 
 </t>
 </sv>
@@ -17273,8 +17122,7 @@ you all!´
 <t xml:lang="es">
 <wi type="G" value="846,6,">ante él</wi>,
 <wi type="G" value="3004,7,">diciendo</wi>,
-`¡
-<wi type="G" value="2962,8,">Señor</wi>,
+`¡<wi type="G" value="2962,8,">Señor</wi>,
 <wi type="G" value="3114,9,">ten paciencia</wi>
 <wi type="G" value="1909,10,"><wi type="G" value="1698,11,">conmigo</wi></wi>,
 <wi type="G" value="2532,12,">y</wi>
@@ -17340,8 +17188,7 @@ what you owe!´
 <wi type="G" value="846,18,">sobre él</wi>
 <wi type="G" value="4155,19,">tomándolo</wi> por el cuello y
 <wi type="G" value="3004,20,">diciendo</wi>
-`¡
-<wi type="G" value="591,21,"><wi type="G" value="3427,22,">Págame</wi></wi>
+`¡<wi type="G" value="591,21,"><wi type="G" value="3427,22,">Págame</wi></wi>
 <wi type="G" value="3739,23,"/><wi type="G" value="5100,24,">lo que</wi> me
 <wi type="G" value="3784,25,">debes</wi>!´ 
 </t>
@@ -17363,8 +17210,7 @@ what you owe!´
 <wi type="G" value="846,11,">le</wi>
 <wi type="G" value="3870,10,">rogó</wi>,
 <wi type="G" value="3004,12,">diciendo</wi>,
-`¡
-<wi type="G" value="3114,13,">Ten paciencia</wi>
+`¡<wi type="G" value="3114,13,">Ten paciencia</wi>
 <wi type="G" value="1909,14,"><wi type="G" value="1698,15,">conmigo</wi></wi>,
 <wi type="G" value="2532,16,">y</wi> yo
 <wi type="G" value="4671,19,">te</wi>
@@ -17431,8 +17277,7 @@ forgave you all that debt, because you begged me.
 <wi type="G" value="4341,2,">llamó</wi> y
 <wi type="G" value="846,8,">le</wi>
 <wi type="G" value="3004,7,">dijo</wi>,
-`¡
-<wi type="G" value="1401,9,">Tu siervo</wi>
+`¡<wi type="G" value="1401,9,">Tu siervo</wi>
 <wi type="G" value="4190,10,">malo</wi>!
 <wi type="G" value="3588,12,"/><wi type="G" value="4671,16,">Te</wi>
 <wi type="G" value="863,15,">perdoné</wi>
@@ -17579,8 +17424,7 @@ any reason?»
 </rb>
 <t xml:lang="es">
 <wi type="G" value="2532,8,"/><wi type="G" value="3004,9,"><wi type="G" value="846,10,">diciendole</wi></wi>,
-«¿
-<wi type="G" value="1487,11,">Es</wi>
+«¿<wi type="G" value="1487,11,">Es</wi>
 <wi type="G" value="1832,12,">legal</wi>
 <wi type="G" value="444,13,">para un hombre</wi>
 <wi type="G" value="630,14,">divorciarse</wi> de
@@ -17627,8 +17471,7 @@ shall become one flesh?´
 <t xml:lang="es">
 <wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="2036,2,">dijo</wi>,
-`
-<wi type="G" value="1752,3,">Por</wi>
+`<wi type="G" value="1752,3,">Por</wi>
 <wi type="G" value="5127,4,">esta</wi>
 <wi type="GC" value="3">causa</wi>
 <wi type="G" value="444,6,">el hombre</wi>
@@ -17679,8 +17522,7 @@ They asked him, «Why then did Moses command us to give her a bill of
 divorce, and divorce her?»
 <t xml:lang="es">
 <wi type="G" value="3004,1,"><wi type="G" value="846,2,">Le preguntaron</wi></wi>,
-«¿
-<wi type="G" value="5101,3,">Por qué</wi>
+«¿<wi type="G" value="5101,3,">Por qué</wi>
 <wi type="G" value="3767,4,">entonces</wi>
 <wi type="G" value="3475,5,">Moisés</wi>
 <wi type="G" value="1781,6,">ordenó</wi>
@@ -17765,8 +17607,7 @@ wife, it is not expedient to marry.»
 <wi type="G" value="846,5,">Sus</wi>
 <wi type="G" value="3101,4,">discípulos</wi>
 <wi type="G" value="846,2,">le</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="3004,1,">dijeron</wi>, «
-</t>
+<wi type="G" value="3588,3,"/><wi type="G" value="3004,1,">dijeron</wi>, «</t>
 <rb xml:lang="es"><wi type="G" value="1487,6,">Si</wi>
 <wi type="G" value="2076,8,">es</wi>
 <wi type="G" value="3779,7,">así</wi>
@@ -17933,11 +17774,9 @@ I do, that I may have eternal life?»
 <wi type="G" value="4334,4,">llegó</wi> y
 <wi type="G" value="846,6,">le</wi>
 <wi type="G" value="2036,5,">dijo</wi>,
-«
-<wi type="G" value="18,8,">Buen</wi>
+«<wi type="G" value="18,8,">Buen</wi>
 <wi type="G" value="1320,7,">maestro</wi>,
-¿
-<wi type="G" value="5101,9,">qué</wi>
+¿<wi type="G" value="5101,9,">qué</wi>
 <wi type="G" value="18,10,">cosas buenas</wi>
 <wi type="G" value="4160,11,">debo hacer</wi>
 <wi type="G" value="2443,12,">para</wi>
@@ -17998,8 +17837,7 @@ He said to him, «Which ones?»
 <t xml:lang="es">
 Él <wi type="G" value="846,2,">le</wi>
 <wi type="G" value="3004,1,">preguntó</wi>,
-«¿
-<wi type="G" value="4169,3,">Cuales</wi>?» 
+«¿<wi type="G" value="4169,3,">Cuales</wi>?» 
 <wi type="G" value="3588,4,"/>
 </t>
 <cl/>
@@ -18014,14 +17852,11 @@ le
 <t xml:lang="es">
 «`<wi type="G" value="3756,9,">No</wi>
 <wi type="G" value="3588,8,"/><wi type="G" value="5407,10,">matarás</wi>.´
-`
-<wi type="G" value="3756,11,">No</wi>
+`<wi type="G" value="3756,11,">No</wi>
 <wi type="G" value="3431,12,">cometerás adulterio</wi>.´
-`
-<wi type="G" value="3756,13,">No</wi>
+`<wi type="G" value="3756,13,">No</wi>
 <wi type="G" value="2813,14,">robarás</wi>.´
-`
-<wi type="G" value="3756,15,">No</wi>
+`<wi type="G" value="3756,15,">No</wi>
 <wi type="G" value="5576,16,">darás testimonio falso</wi>.´ 
 </t>
 </fr>
@@ -18038,8 +17873,7 @@ yourself.´»
 <wi type="G" value="2532,5,">y</wi> a tu
 <wi type="G" value="3588,6,"/><wi type="G" value="3384,7,">madre</wi>.´
 <wi type="G" value="2532,8,">Y</wi>
-`
-<wi type="G" value="25,9,">Ama</wi> a
+`<wi type="G" value="25,9,">Ama</wi> a
 <wi type="G" value="3588,10,"/><wi type="G" value="4675,12,">tu</wi>
 <wi type="G" value="4139,11,">prójimo</wi>
 <wi type="G" value="5613,13,">como</wi>
@@ -18055,15 +17889,13 @@ youth. What do I still lack?»
 <wi type="G" value="3495,4,">El joven</wi>
 <wi type="G" value="846,2,">le</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="3004,1,">dijo</wi>,
-«
-<wi type="G" value="3956,5,">Todas</wi>
+«<wi type="G" value="3956,5,">Todas</wi>
 <wi type="G" value="5023,6,">estas cosas</wi>
 <wi type="G" value="5442,7,">las he observado</wi>
 <wi type="G" value="1537,8,">desde</wi>
 <wi type="G" value="3450,10,">mi</wi>
 <wi type="G" value="3503,9,">juventud</wi>.
-¿
-<wi type="G" value="5101,11,">Qué</wi>
+¿<wi type="G" value="5101,11,">Qué</wi>
 <wi type="G" value="5302,13,">me falta</wi>
 <wi type="G" value="2089,12,">aún</wi>?» 
 </t>
@@ -18215,8 +18047,7 @@ When the disciples heard it, they were exceedingly astonished, saying,
 <wi type="G" value="4970,7,">muy</wi>
 <wi type="GC" value="6">asombrados</wi>,
 <wi type="G" value="3004,8,">diciendo</wi>,
-«¿
-<wi type="G" value="5101,9,">Quien</wi>
+«¿<wi type="G" value="5101,9,">Quien</wi>
 <wi type="G" value="1410,11,">puede</wi>
 <wi type="G" value="687,10,">entonces</wi> 
 </t>
@@ -18264,15 +18095,13 @@ you. What then will we have?»
 <wi type="G" value="3588,3,"/><wi type="G" value="4074,4,">Pedro</wi>
 <wi type="G" value="611,2,">contestó</wi>
 <wi type="G" value="2036,5,"><wi type="G" value="846,6,">diciendole</wi></wi>,
-«
-<wi type="G" value="2400,7,">Observa</wi>,
+«<wi type="G" value="2400,7,">Observa</wi>,
 <wi type="G" value="2249,8,"><wi type="G" value="863,9,">hemos dejado</wi></wi>
 <wi type="G" value="3956,10,">todo</wi>,
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="4671,13,">te</wi>
 <wi type="G" value="190,12,">hemos seguido</wi>.
-¿
-<wi type="G" value="687,15,">Entonces</wi>
+¿<wi type="G" value="687,15,">Entonces</wi>
 <wi type="G" value="5101,14,">qué</wi>
 <wi type="G" value="2071,16,"><wi type="G" value="2254,17,">tendremos</wi></wi>?» 
 </t>
@@ -18488,8 +18317,7 @@ their way.
 <t xml:lang="es">
 <wi type="G" value="2548,1,">Y</wi>
 <wi type="G" value="2036,2,">les dijo</wi>,
-`
-<wi type="G" value="5217,3,">Vayan</wi>
+`<wi type="G" value="5217,3,">Vayan</wi>
 <wi type="G" value="5210,5,">ustedes</wi>
 <wi type="G" value="2532,4,">también</wi>
 <wi type="G" value="1519,6,">a</wi>
@@ -18561,8 +18389,7 @@ He said to them, `Why do you stand here all day idle?´
 <wi type="G" value="2532,11,">Y</wi>
 <wi type="G" value="846,13,">les</wi>
 <wi type="G" value="3004,12,">dijo</wi>,
-`¿
-<wi type="G" value="5101,14,">Por qué</wi>
+`¿<wi type="G" value="5101,14,">Por qué</wi>
 <wi type="G" value="2476,16,">han estado</wi>
 <wi type="G" value="692,20,">desempleados</wi>
 <wi type="G" value="5602,15,">aquí</wi>,
@@ -18580,8 +18407,7 @@ He said to them, `Why do you stand here all day idle?´
 «<wi type="G" value="3004,1,">Ellos</wi>
 <wi type="G" value="846,2,">le</wi>
 <wi type="GC" value="1">dijeron</wi>,
-`
-<wi type="G" value="3754,3,">Porque</wi>
+`<wi type="G" value="3754,3,">Porque</wi>
 <wi type="G" value="3762,4,">nadie</wi>
 <wi type="G" value="2248,5,">nos</wi>
 <wi type="G" value="3409,6,">ha contratado</wi>.´ 
@@ -18593,8 +18419,7 @@ and you will receive whatever is right.´
 «<wi type="G" value="3004,7,">Él</wi>
 <wi type="G" value="846,8,">les</wi>
 <wi type="GC" value="7">dijo</wi>,
-`
-<wi type="G" value="5217,9,"><wi type="G" value="5210,11,">Vayan</wi></wi>
+`<wi type="G" value="5217,9,"><wi type="G" value="5210,11,">Vayan</wi></wi>
 <wi type="G" value="2532,10,">también</wi>
 <wi type="G" value="1519,12,">a</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="290,14,">la</wi> viña,
@@ -18622,8 +18447,7 @@ the last to the first.´
 <wi type="G" value="3588,9,"/><wi type="G" value="2012,10,">a</wi>
 <wi type="G" value="846,11,">su</wi>
 <wi type="GC" value="10">mayordomo</wi>,
-`
-<wi type="G" value="2564,12,">Llama</wi>
+`<wi type="G" value="2564,12,">Llama</wi>
 <wi type="G" value="3588,13,">a los</wi>
 <wi type="G" value="2040,14,">trabajadores</wi>
 <wi type="G" value="2532,15,">y</wi>
@@ -18705,8 +18529,7 @@ who have borne the burden of the day and the scorching heat!´
 <t xml:lang="es">
 <wi type="G" value="3004,1,">diciendo</wi>,
 <wi type="G" value="3754,2,"/>
-`¡
-<wi type="G" value="3778,3,">Estos</wi>
+`¡<wi type="G" value="3778,3,">Estos</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="2078,5,">últimos</wi>
 <wi type="G" value="4160,8,">han estado</wi>
 <wi type="G" value="1520,6,">una</wi>
@@ -18737,8 +18560,7 @@ you agree with me for a denarius?
 <wi type="G" value="1520,5,">a uno</wi>
 <wi type="G" value="846,6,">de ellos</wi>
 <wi type="G" value="2036,4,">diciendo</wi>,
-`
-<wi type="G" value="2083,7,">Amigo</wi>,
+`<wi type="G" value="2083,7,">Amigo</wi>,
 <wi type="G" value="3756,8,">no</wi>
 <wi type="G" value="91,9,"><wi type="G" value="4571,10,">estoy haciéndote</wi></wi> 
 </t>
@@ -18782,8 +18604,7 @@ Es mi
 Isn´t it lawful for me to do what I want to with what I own?
 Or is your eye evil, because I am good?´
 <t xml:lang="es">
-<wi type="G" value="2228,1,"/>¿
-<wi type="G" value="3756,2,">No</wi>
+<wi type="G" value="2228,1,"/>¿<wi type="G" value="3756,2,">No</wi>
 <wi type="G" value="1832,3,">es legal</wi>
 <wi type="G" value="3427,4,">para mi</wi>
 <wi type="G" value="4160,5,">hacer</wi>
@@ -18967,8 +18788,7 @@ hand, and one on your left hand, in your Kingdom.»
 <wi type="G" value="3004,7,">Ella</wi>
 <wi type="G" value="846,8,">le</wi>
 <wi type="GC" value="7">dijo</wi>,
-«
-</t>
+«</t>
 <rb xml:lang="es"><wi type="G" value="2036,9,">Ordena</wi><rf>
 <citebib id="WEB"/> dice `Ordena,´ <citebib id="KJV2003"/> dice `Concede,´ <citebib id="Thayer-BLB"/> dice que la palabra griega `εἶπεν´
 significar hablar o decir.
@@ -19012,8 +18832,7 @@ and be baptized with the baptism that I am baptized with?»
 <wi type="G" value="1492,7,">saben</wi>
 <wi type="G" value="5101,8,">lo que</wi>
 <wi type="G" value="154,9,">piden</wi>.
-¿
-<wi type="G" value="1410,10,">Pueden</wi>
+¿<wi type="G" value="1410,10,">Pueden</wi>
 <wi type="G" value="4095,11,">beber</wi>
 <wi type="G" value="3588,12,">de la</wi>
 <wi type="G" value="4221,13,">copa</wi>
@@ -19034,8 +18853,7 @@ They said to him, «We are able.»
 <wi type="G" value="3004,25,">Ellos</wi>
 <wi type="G" value="846,26,">le</wi>
 <wi type="GC" value="25">dijeron</wi>,
-«
-<wi type="G" value="1410,27,">Podemos</wi>.» 
+«<wi type="G" value="1410,27,">Podemos</wi>.» 
 </t>
 </sv>
 </cm><cm>
@@ -19251,8 +19069,7 @@ estaban
 <wi type="G" value="3855,12,">pasaba</wi>,
 <wi type="G" value="2896,13,">gritaron</wi>
 <wi type="G" value="3004,14,">diciendo</wi>,
-«¡
-<wi type="G" value="1653,15,">Ten piedad</wi>
+«¡<wi type="G" value="1653,15,">Ten piedad</wi>
 <wi type="G" value="2248,16,">de nosotros</wi>,
 <wi type="G" value="2962,17," sacred="yes">Señor</wi>,
 tu 
@@ -19274,8 +19091,7 @@ they cried out even more, «Lord, have mercy on us, you son of David!»
 <wi type="G" value="2896,11,">ellos gritaban</wi>
 <wi type="G" value="3185,10,">aún más</wi>
 <wi type="G" value="3004,12,">diciendo</wi>
-«¡
-<wi type="G" value="1653,13,">Ten piedad</wi>
+«¡<wi type="G" value="1653,13,">Ten piedad</wi>
 <wi type="G" value="2248,14,">de nosotros</wi>,
 <wi type="G" value="2962,15," sacred="yes">Señor</wi>, tu
 <wi type="G" value="5207,16," sacred="yes">Hijo</wi>
@@ -19309,8 +19125,7 @@ They told him, «Lord, that our eyes may be opened.»
 <t xml:lang="es">
 <wi type="G" value="846,2,">Le</wi>
 <wi type="G" value="3004,1,">dijeron</wi>,
-«
-<wi type="G" value="2962,3," sacred="yes">Señor</wi>,
+«<wi type="G" value="2962,3," sacred="yes">Señor</wi>,
 <wi type="G" value="2443,4,">que</wi>
 <wi type="G" value="2257,6,">nuestros</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="3788,8,">ojos</wi>
@@ -19415,8 +19230,7 @@ If anyone says anything to you, you shall say,
 <wi type="G" value="2046,7,">ustedes dirán</wi>,
 <wi type="G" value="3754,8,"/> 
 <wi type="G" value="3588,9,"/>
-`
-<wi type="G" value="2962,10,">El Señor</wi>
+`<wi type="G" value="2962,10,">El Señor</wi>
 <wi type="G" value="2192,13,"/><wi type="G" value="846,11,">los</wi>
 <wi type="G" value="5532,12,">necesita</wi>, 
 </t>
@@ -19562,20 +19376,17 @@ Lord! Hosanna in the highest!»
 <wi type="G" value="190,8,">que lo seguía</wi>
 <wi type="G" value="2896,9,">gritaba</wi>
 <wi type="G" value="3004,10,">diciendo</wi>,
-«¡
-<wi type="G" value="5614,11,">Hosanna</wi>
+«¡<wi type="G" value="5614,11,">Hosanna</wi>
 <wi type="G" value="3588,12,">al</wi>
 <wi type="G" value="5207,13,">hijo</wi>
 <wi type="G" value="1138,14,">de David</wi>!
-¡
-<wi type="G" value="2127,15,">Bendito</wi>
+¡<wi type="G" value="2127,15,">Bendito</wi>
 <wi type="G" value="3588,16,">el</wi>
 <wi type="G" value="2064,17,">que viene</wi>
 <wi type="G" value="1722,18,">en</wi>
 <wi type="G" value="3686,19,">el nombre</wi>
 <wi type="G" value="2962,20,">del Señor</wi>!
-¡
-<wi type="G" value="5614,21,">Hosanna</wi>
+¡<wi type="G" value="5614,21,">Hosanna</wi>
 <wi type="G" value="1722,22,">en</wi>
 <wi type="G" value="3588,23,"/><wi type="G" value="5310,24,">lo más alto</wi>!» 
 </t>
@@ -19593,8 +19404,7 @@ When he had come into Jerusalem, all the city was stirred up, saying,
 <wi type="G" value="4172,9,">ciudad</wi>
 <wi type="G" value="4579,6,">estaba agitada</wi> ,
 <wi type="G" value="3004,10,">diciendo</wi>
-«¿
-<wi type="G" value="5101,11,">Quién</wi>
+«¿<wi type="G" value="5101,11,">Quién</wi>
 <wi type="G" value="2076,12,">es</wi>
 <wi type="G" value="3778,13,">este</wi>?» 
 </t>
@@ -19606,8 +19416,7 @@ Nazareth of Galilee.»
 <wi type="G" value="3793,3,">La multitud</wi>
 <wi type="G" value="3588,1,"/> 
 <wi type="G" value="1161,2,"/><wi type="G" value="3004,4,">decía</wi>,
-«
-<wi type="G" value="3778,5,">Este</wi>
+«<wi type="G" value="3778,5,">Este</wi>
 <wi type="G" value="2076,6,">es</wi>
 <wi type="G" value="2424,7,">Jesús</wi>
 <wi type="G" value="3588,8,">el</wi>
@@ -19667,8 +19476,7 @@ written, `My house shall be called a house of prayer,´ but you
 it a den of robbers!»
 <t xml:lang="es">
 «<wi type="G" value="1125,4,">Está escrito</wi>,
-`¡
-<wi type="G" value="3450,7,">Mi</wi>
+`¡<wi type="G" value="3450,7,">Mi</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="3624,6,">casa</wi>
 <wi type="G" value="2564,10,">será llamada</wi>
 <wi type="G" value="3624,8,">una casa</wi>
@@ -19726,8 +19534,7 @@ that he did, and the children who were crying in the temple and saying,
 <wi type="G" value="2411,18,">templo</wi>
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="3004,20,">diciendo</wi>,
-«¡
-<wi type="G" value="5614,21,">Hosanna</wi>
+«¡<wi type="G" value="5614,21,">Hosanna</wi>
 <wi type="G" value="3588,22,">al</wi>
 <wi type="G" value="5207,23,">hijo</wi>
 <wi type="G" value="1138,24,">de David</wi>!»
@@ -19741,8 +19548,7 @@ and said to him,
 <wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="2036,2,">dijeron</wi>,
-«¿
-<wi type="G" value="191,4,">Escuchas</wi>
+«¿<wi type="G" value="191,4,">Escuchas</wi>
 <wi type="G" value="5101,5,">lo que</wi>
 <wi type="G" value="3778,6,">estos</wi>
 <wi type="G" value="3004,7,">están diciendo</wi>?»
@@ -19759,12 +19565,10 @@ Jesus said to them,
 babes and nursing babies you have perfected praise?´»
 <t xml:lang="es">
 «<wi type="G" value="3483,13,">Si</wi>.
-¿
-<wi type="G" value="3763,14,">Nunca</wi>
+¿<wi type="G" value="3763,14,">Nunca</wi>
 <wi type="G" value="314,15,">leyeron</wi>,
 <wi type="G" value="3754,16,"/>
-`
-<wi type="G" value="1537,17,">De</wi>
+`<wi type="G" value="1537,17,">De</wi>
 <wi type="G" value="4750,18,">la boca</wi>
 <wi type="G" value="3516,19,">de bebes</wi>
 <wi type="G" value="2532,20,">y</wi>
@@ -19858,8 +19662,7 @@ marveled, saying, «How did the fig tree immediately wither away?»
 <wi type="GC" value="2">vieron</wi> esto,
 <wi type="G" value="2296,5,">se maravillaron</wi>,
 <wi type="G" value="3004,6,">diciendo</wi>,
-«¿
-<wi type="G" value="4459,7,">Cómo</wi>
+«¿<wi type="G" value="4459,7,">Cómo</wi>
 <wi type="G" value="3583,9,">se</wi>
 <wi type="G" value="3588,10,"/><wi type="GC" value="9">secó</wi>
 <wi type="G" value="3916,8,">de inmediato</wi>
@@ -19900,8 +19703,7 @@ mountain, `Be taken up and cast into the sea,´ it would be done.
 <wi type="G" value="3588,24,"/><wi type="G" value="3735,25,">a</wi>
 <wi type="G" value="5129,26,">esta</wi>
 <wi type="GC" value="25">montaña</wi>,
-`
-<wi type="G" value="142,28,">Levántate</wi>
+`<wi type="G" value="142,28,">Levántate</wi>
 <wi type="G" value="2532,29,">y</wi>
 <wi type="G" value="906,30,">arrójate</wi>
 <wi type="G" value="1519,31,">al</wi>
@@ -19944,15 +19746,13 @@ you do these things? Who gave you this authority?»
 <wi type="G" value="846,8,">donde Él</wi>
 <wi type="G" value="1321,9,">mientras enseñaba</wi>,
 <wi type="G" value="3588,15,"/><wi type="G" value="3004,17,">y le dijeron</wi>,
-«¿
-<wi type="G" value="1722,18,">Con</wi>
+«¿<wi type="G" value="1722,18,">Con</wi>
 <wi type="G" value="4169,19,">que</wi>
 <wi type="G" value="1849,20,">autoridad</wi>
 <wi type="G" value="4160,22,">haces</wi>
 <wi type="G" value="5023,21,">esta cosas</wi>? 
 <wi type="G" value="2532,23,"/>
-¿
-<wi type="G" value="5101,24,">Quien</wi>
+¿<wi type="G" value="5101,24,">Quien</wi>
 <wi type="G" value="4671,25,">te</wi>
 <wi type="G" value="1325,26,">dio</wi>
 <wi type="G" value="3778,29,">esta</wi>
@@ -19996,13 +19796,11 @@ things.
 The baptism of John, where was it from? From heaven or from
 men?»
 <t xml:lang="es">
-<wi type="G" value="3588,1,"/>¿
-<wi type="G" value="4159,4,">De donde</wi>
+<wi type="G" value="3588,1,"/>¿<wi type="G" value="4159,4,">De donde</wi>
 <wi type="G" value="2258,5,">venía</wi>
 <wi type="G" value="908,2,">el bautizo</wi>
 <wi type="G" value="2491,3,">de Juan</wi>?
-¿
-<wi type="G" value="1537,6,">Del</wi>
+¿<wi type="G" value="1537,6,">Del</wi>
 <wi type="G" value="3772,7,">cielo</wi>
 <wi type="G" value="2228,8,">o</wi>
 <wi type="G" value="1537,9,">de</wi>
@@ -20017,16 +19815,13 @@ us, `Why then did you not believe him?´
 <wi type="G" value="3588,11,"/> 
 <wi type="G" value="1161,12,"/><wi type="G" value="3844,14,"><wi type="G" value="1438,15,">entre si</wi></wi>,
 <wi type="G" value="3004,16,">diciendo</wi>,
-«
-<wi type="G" value="1437,17,">Si</wi>
+«<wi type="G" value="1437,17,">Si</wi>
 <wi type="G" value="2036,18,">decimos</wi>,
-`
-<wi type="G" value="1537,19,">Del</wi>
+`<wi type="G" value="1537,19,">Del</wi>
 <wi type="G" value="3772,20,">cielo</wi>,´
 <wi type="G" value="2254,22,">nos</wi>
 <wi type="G" value="2046,21,">preguntará</wi>,
-`¿
-<wi type="G" value="3767,25,">Entonces</wi>
+`¿<wi type="G" value="3767,25,">Entonces</wi>
 <wi type="G" value="1223,23,"/><wi type="G" value="5101,24,">porque</wi>
 <wi type="G" value="3756,26,">no</wi>
 <wi type="G" value="4100,27,">creyeron</wi>
@@ -20040,8 +19835,7 @@ prophet.»
 <wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="1437,1,">si</wi>
 <wi type="G" value="2036,3,">decimos</wi>,
-`
-<wi type="G" value="1537,4,">De</wi>
+`<wi type="G" value="1537,4,">De</wi>
 <wi type="G" value="444,5,">hombres</wi>,´
 <wi type="G" value="5399,6,">tememos</wi>
 <wi type="G" value="3588,7,">a la</wi>
@@ -20062,8 +19856,7 @@ They answered Jesus, and said, «We don´t know.»
 <wi type="G" value="3588,3,">a</wi>
 <wi type="G" value="2424,4,">Jesús</wi>
 <wi type="G" value="2036,5,">diciendo</wi>,
-«
-<wi type="G" value="3756,6,">No</wi>
+«<wi type="G" value="3756,6,">No</wi>
 <wi type="G" value="1492,7,">sabemos</wi>.» 
 </t>
 <cl/>
@@ -20094,8 +19887,7 @@ these things.
 But what do you think? A man had two sons, and he
 came to the first, and said, `Son, go work today in my vineyard.´
 <t xml:lang="es">
-<wi type="G" value="1161,2,"/>¿
-<wi type="G" value="5101,1,">Qué</wi>
+<wi type="G" value="1161,2,"/>¿<wi type="G" value="5101,1,">Qué</wi>
 <wi type="G" value="1380,4,"><wi type="G" value="5213,3,">piensan</wi></wi>?
 <wi type="G" value="444,5,">Un hombre</wi>
 <wi type="G" value="2192,6,">tenía</wi>
@@ -20105,8 +19897,7 @@ came to the first, and said, `Son, go work today in my vineyard.´
 <wi type="G" value="4334,10,">llegó</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="4413,12,">donde el primero</wi>
 <wi type="G" value="2036,13,">y le dijo</wi>,
-`
-<wi type="G" value="5043,14,">Hijo</wi>,
+`<wi type="G" value="5043,14,">Hijo</wi>,
 <wi type="G" value="5217,15,">ve</wi> y
 <wi type="G" value="2038,17,">trabaja</wi>
 <wi type="G" value="4594,16,">hoy</wi>
@@ -20122,8 +19913,7 @@ He answered, `I will not,´ but afterward he changed his mind, and went.
 <t xml:lang="es">
 <wi type="G" value="3588,1,"/><wi type="G" value="611,3,">Él le contestó</wi>
 <wi type="G" value="1161,2,"/><wi type="G" value="2036,4,">diciendo</wi>,
-`
-<wi type="G" value="3756,5,">no</wi>
+`<wi type="G" value="3756,5,">no</wi>
 <wi type="G" value="2309,6,">lo haré</wi>,´
 <wi type="G" value="1161,8,">pero</wi>
 <wi type="G" value="5305,7,">luego</wi>
@@ -20146,8 +19936,7 @@ He came to the second, and said the same thing. He answered,
 <wi type="G" value="1161,8,"/><wi type="G" value="611,9,">Él le
 contestó</wi>
 <wi type="G" value="2036,10,"/>,
-`
-<wi type="G" value="1473,11,">yo</wi> voy
+`<wi type="G" value="1473,11,">yo</wi> voy
 <wi type="G" value="2962,12,">señor</wi>,´
 <wi type="G" value="2532,13,">pero</wi>
 <wi type="G" value="3756,14,">no</wi>
@@ -20176,8 +19965,7 @@ They said to him, «The first.»
 <wi type="G" value="846,11,">Le</wi>
 <wi type="G" value="3004,10,">dijeron</wi>,
 <wi type="G" value="3588,12,"/>
-«
-<wi type="G" value="4413,13,">El primero</wi>.» 
+«<wi type="G" value="4413,13,">El primero</wi>.» 
 </t>
 <cl/>
 Jesus said to them,
@@ -20360,8 +20148,7 @@ them his son, saying, `They will respect my son.´
 <wi type="G" value="649,3,">envió</wi>
 <wi type="G" value="846,8,">a su</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="5207,7,">hijo</wi>
-<wi type="G" value="3004,9,">diciendo</wi>, `
-</t>
+<wi type="G" value="3004,9,">diciendo</wi>, `</t>
 <rb xml:lang="es"><wi type="G" value="1788,10,">Ellos reverenciarán</wi><rf>
 <citebib id="KJV2003"/> dice `reverenciarán,´ <citebib id="WEB"/> y <citebib id="RV1960"/> dicen `respetarán,´ según <citebib id="Thayer-BLB"/> la palabra
 griegeo `entrepo´ se traduce como `reverenciar, apenarse.´
@@ -20387,8 +20174,7 @@ But the farmers, when they saw the son, said among themselves,
 <wi type="G" value="2036,7,">dijeron</wi>
 <wi type="G" value="1722,8,">entre</wi>
 <wi type="G" value="1438,9,">ellos</wi>,
-`
-<wi type="G" value="3778,10,">Este</wi>
+`<wi type="G" value="3778,10,">Este</wi>
 <wi type="G" value="2076,11,">es</wi>
 <wi type="G" value="3588,12,">el</wi>
 <wi type="G" value="2818,13,">heredero</wi>.
@@ -20448,8 +20234,7 @@ season.»
 <wi type="G" value="3004,1,">Ellos</wi>
 <wi type="G" value="846,2,">le</wi>
 <wi type="GC" value="1">dijeron</wi>,
-«
-<wi type="G" value="622,5,">Él destruirá</wi>
+«<wi type="G" value="622,5,">Él destruirá</wi>
 <wi type="G" value="2560,4,">miserablemente</wi>
 <wi type="G" value="846,6,">a esos</wi>
 <wi type="G" value="2556,3,">hombres perversos</wi>
@@ -20690,12 +20475,10 @@ ready. Come to the marriage feast!»´
 <wi type="G" value="243,3,">a otros</wi>
 <wi type="G" value="1401,4,">siervos</wi>
 <wi type="G" value="3004,5,">diciendo</wi>,
-`
-<wi type="G" value="2036,6,">Digan</wi>
+`<wi type="G" value="2036,6,">Digan</wi>
 <wi type="G" value="3588,7,">a</wi>
 <wi type="G" value="2564,8,">estos que están invitados</wi>,
-«
-<wi type="G" value="2400,9,">Observen</wi>,
+«<wi type="G" value="2400,9,">Observen</wi>,
 <wi type="G" value="3588,10,"/><wi type="G" value="2090,13,">he alistado</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="3450,12,">mi</wi>
 <wi type="G" value="712,11,">cena</wi>.
@@ -20709,8 +20492,7 @@ fueron
 <wi type="G" value="2532,21,">y</wi>
 <wi type="G" value="3956,22,">todas las cosas</wi> están
 <wi type="G" value="2092,23,">listas</wi>.
-¡
-<wi type="G" value="1205,24,">Vengan</wi>
+¡<wi type="G" value="1205,24,">Vengan</wi>
 <wi type="G" value="1519,25,">a</wi>
 <wi type="G" value="3588,26,">la</wi>
 <wi type="G" value="1062,27,">fiesta de matrimonio</wi>!»´ 
@@ -20792,8 +20574,7 @@ invited weren´t worthy.
 <wi type="GC" value="4">siervos</wi>,
 <wi type="G" value="3588,6,"/> 
 <wi type="G" value="3303,7,"/>
-`
-<wi type="G" value="1062,8,">La boda</wi>
+`<wi type="G" value="1062,8,">La boda</wi>
 <wi type="G" value="2076,10,">está</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="2092,9,">lista</wi>,
 <wi type="G" value="1161,12,">pero</wi>
@@ -20883,10 +20664,8 @@ you come in here not wearing wedding clothing?´ He was speechless.
 <wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="3004,2,">dijo</wi>,
-`
-<wi type="G" value="2083,4,">Amigo</wi>,
-¿
-<wi type="G" value="4459,5,">cómo</wi>
+`<wi type="G" value="2083,4,">Amigo</wi>,
+¿<wi type="G" value="4459,5,">cómo</wi>
 <wi type="G" value="1525,6,">viniste</wi>
 <wi type="G" value="5602,7,">aquí</wi>
 <wi type="G" value="3361,8,"><wi type="G" value="2192,9,">sin ponerte</wi></wi>
@@ -20908,8 +20687,7 @@ grinding of teeth will be.´
 <wi type="G" value="935,4,">rey</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="2036,2,">dijo</wi>
 <wi type="G" value="1249,6,">a los que servían</wi>,
-`
-<wi type="G" value="1210,7,"><wi type="G" value="846,8,">Átenlo</wi></wi>
+`<wi type="G" value="1210,7,"><wi type="G" value="846,8,">Átenlo</wi></wi>
 <wi type="G" value="4228,9,">de pies</wi>
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="5495,11,">manos</wi>,
@@ -20989,8 +20767,7 @@ truth, no matter who you teach, for you aren´t partial to anyone.
 <t xml:lang="es">
 ,
 <wi type="G" value="3004,10,">diciendo</wi>,
-«
-<wi type="G" value="1320,11,">Maestro</wi>,
+«<wi type="G" value="1320,11,">Maestro</wi>,
 <wi type="G" value="1492,12,">sabemos</wi>
 <wi type="G" value="3754,13,">que</wi>
 <wi type="G" value="1488,15,">eres</wi>
@@ -21031,8 +20808,7 @@ not?»
 <wi type="G" value="3767,2,">entonces</wi>,
 <wi type="G" value="5101,4,">que</wi>
 <wi type="G" value="1380,6,"><wi type="G" value="4671,5,">piensas</wi></wi>,
-¿
-<wi type="G" value="1832,7,">Es legal</wi>
+¿<wi type="G" value="1832,7,">Es legal</wi>
 <wi type="G" value="1325,8,">pagar</wi>
 <wi type="G" value="2778,9,">impuestos</wi>
 <wi type="G" value="2541,10,">al Cesar</wi>
@@ -21107,8 +20883,7 @@ They said to him, «Caesar´s.»
 <wi type="G" value="3004,1,">Ellos</wi>
 <wi type="G" value="846,2,">le</wi>
 <wi type="GC" value="1">dijeron</wi>,
-«
-<wi type="G" value="2541,3,">del Cesar</wi>.» 
+«<wi type="G" value="2541,3,">del Cesar</wi>.» 
 </t>
 <cl/>
 Then he said to them,
@@ -21174,12 +20949,10 @@ saying, «Teacher, Moses said, `If a man
 dies, having no children, his brother shall marry his wife, and raise up seed
 for his brother.´
 <t xml:lang="es">
-<wi type="G" value="3004,1,"/>«
-<wi type="G" value="1320,2,">Maestro</wi>,
+<wi type="G" value="3004,1,"/>«<wi type="G" value="1320,2,">Maestro</wi>,
 <wi type="G" value="3475,3,">Moisés</wi>
 <wi type="G" value="2036,4,">dijo</wi>,
-`
-<wi type="G" value="1437,5,">Si</wi>
+`<wi type="G" value="1437,5,">Si</wi>
 <wi type="G" value="5100,6,">un hombre</wi>
 <wi type="G" value="599,7,">muere</wi>,
 <wi type="G" value="3361,8,">sin</wi>
@@ -21335,8 +21108,7 @@ which was spoken to you by God, saying,
 <wi type="G" value="386,4,">resurrección</wi>
 <wi type="G" value="3588,5,">de la</wi>
 <wi type="G" value="3498,6,">muerte</wi>,
-¿
-<wi type="G" value="3756,7,">no</wi>
+¿<wi type="G" value="3756,7,">no</wi>
 <wi type="G" value="314,8,">han leído</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="4483,10,">lo que fue dicho</wi>
 <wi type="G" value="5213,11,">a ustedes</wi>
@@ -21498,8 +21270,7 @@ your neighbor as yourself.´
 es
 <wi type="G" value="3664,3,">similiar</wi>
 <wi type="G" value="846,4,"/>,
-`
-<wi type="G" value="25,5,">Amarás</wi> a
+`<wi type="G" value="25,5,">Amarás</wi> a
 <wi type="G" value="4675,8,">tu</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="4139,7,">prójimo</wi>
 <wi type="G" value="5613,9,">como</wi>
@@ -21545,13 +21316,11 @@ saying,
 <fr>«What do you think of the Christ? Whose son
 is he?»
 <t xml:lang="es">
-<wi type="G" value="3004,1,"/>«¿
-<wi type="G" value="5101,2,">Qué</wi>
+<wi type="G" value="3004,1,"/>«¿<wi type="G" value="5101,2,">Qué</wi>
 <wi type="G" value="1380,4,"><wi type="G" value="5213,3,">piensan</wi></wi>
 <wi type="G" value="4012,5,">del</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="5547,7,">Cristo</wi>?
-¿
-<wi type="G" value="5101,8,">De quién</wi>
+¿<wi type="G" value="5101,8,">De quién</wi>
 <wi type="G" value="2076,10,">es</wi>
 <wi type="G" value="5207,9,">hijo</wi>?» 
 </t>
@@ -21563,8 +21332,7 @@ They said to him, «Of David.»
 <wi type="G" value="846,12,">le</wi>
 <wi type="GC" value="11">dijeron</wi>,
 <wi type="G" value="3588,13,"/>
-«
-<wi type="G" value="1138,14,">De David</wi>.» 
+«<wi type="G" value="1138,14,">De David</wi>.» 
 </t>
 </sv>
 </cm><cm>
@@ -21637,8 +21405,7 @@ de <wi type="G" value="4675,16,">tus</wi>
 <wi type="G" value="846,5,">lo</wi>
 <wi type="G" value="2564,4,">llama</wi>
 <wi type="G" value="2962,6,">Señor</wi>,
-¿
-<wi type="G" value="4459,7,">cómo</wi>
+¿<wi type="G" value="4459,7,">cómo</wi>
 <wi type="G" value="2076,10,">es Él</wi>
 <wi type="G" value="846,9,">su</wi>
 <wi type="G" value="5207,8,">hijo</wi>?» 
@@ -21687,8 +21454,7 @@ Then Jesus spoke to the multitudes and to his disciples,
 saying,
 <fr>«The scribes and the Pharisees sat on Moses´ seat.
 <t xml:lang="es">
-<wi type="G" value="3004,1,"/>«
-<wi type="G" value="1122,8,">Los escribas</wi>
+<wi type="G" value="3004,1,"/>«<wi type="G" value="1122,8,">Los escribas</wi>
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="3588,10,">los</wi>
 <wi type="G" value="5330,11,">fariseos</wi>
@@ -21827,8 +21593,7 @@ and to be called `Rabbi, Rabbi´ by men.
 <wi type="G" value="58,6,">plaza de mercado</wi>,
 <wi type="G" value="2532,7,">y</wi>
 <wi type="G" value="2564,8,">ser llamados</wi>
-`
-<wi type="G" value="4461,12,">Rabí</wi>,
+`<wi type="G" value="4461,12,">Rabí</wi>,
 <wi type="G" value="4461,13,">Rabí</wi>´
 <wi type="G" value="5259,9,">por</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="444,11,">hombres</wi>. 
@@ -21845,8 +21610,7 @@ you are brothers.
 <wi type="G" value="5210,1,">que ustedes</wi>
 <wi type="G" value="3361,3,">no</wi>
 <wi type="G" value="2564,4,">sean llamados</wi>
-`
-<wi type="G" value="4461,5,">Rabí</wi>,´
+`<wi type="G" value="4461,5,">Rabí</wi>,´
 <wi type="G" value="1063,7,">pues</wi>
 <wi type="G" value="1520,6,">uno</wi>
 <wi type="G" value="2076,8,">es</wi>
@@ -22069,8 +21833,7 @@ the temple, he is obligated.´
 <wi type="G" value="3595,3,">guías</wi>
 <wi type="G" value="5185,4,">ciegos</wi>!
 <wi type="G" value="3588,5,"/><wi type="G" value="3004,6,">que dicen</wi>,
-`
-<wi type="G" value="3739,7,">Quien</wi>
+`<wi type="G" value="3739,7,">Quien</wi>
 <wi type="G" value="302,8,"/><wi type="G" value="3660,9,">jure</wi>
 <wi type="G" value="1722,10,">por</wi>
 <wi type="G" value="3588,11,">el</wi>
@@ -22104,8 +21867,7 @@ the temple that sanctifies the gold?
 <wi type="G" value="2532,2,">y</wi>
 <wi type="G" value="3474,1,">necios</wi>!
 <wi type="G" value="1063,5,">Pues</wi>
-¿
-<wi type="G" value="5101,4,">cuál</wi>
+¿<wi type="G" value="5101,4,">cuál</wi>
 <wi type="G" value="2076,7,">es</wi>
 <wi type="G" value="3187,6,">más grande</wi>,
 <wi type="G" value="3588,8,">el</wi>
@@ -22124,8 +21886,7 @@ the temple that sanctifies the gold?
 `Whoever swears by the altar, it
 is nothing; but whoever swears by the gift that is on it, he is obligated.´
 <t xml:lang="es">
-<wi type="G" value="2532,1,"/>`
-<wi type="G" value="1437,3,">Quien</wi>
+<wi type="G" value="2532,1,"/>`<wi type="G" value="1437,3,">Quien</wi>
 <wi type="G" value="3739,2,"/><wi type="G" value="3660,4,">jura</wi>
 <wi type="G" value="1722,5,">por</wi>
 <wi type="G" value="3588,6,">el</wi>
@@ -22153,8 +21914,7 @@ or the altar that sanctifies the gift?
 <wi type="G" value="2532,2,">y</wi>
 <wi type="G" value="3474,1,">necios</wi>!
 <wi type="G" value="1063,5,">Pues</wi>
-¿
-<wi type="G" value="5101,4,">cuál</wi> es
+¿<wi type="G" value="5101,4,">cuál</wi> es
 <wi type="G" value="3173,6,">más grande</wi>,
 <wi type="G" value="3588,7,">la</wi>
 <wi type="G" value="1435,8,">ofrenda</wi>
@@ -22478,8 +22238,7 @@ partakers with them in the blood of the prophets.´
 <t xml:lang="es">
 <wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="3004,2,">dicen</wi>,
-`
-<wi type="G" value="1487,3,">Si</wi>
+`<wi type="G" value="1487,3,">Si</wi>
 <wi type="G" value="1510,4,">hubiéramos estado</wi>
 <wi type="G" value="1722,5,">en</wi>
 <wi type="G" value="3588,6,">los</wi>
@@ -22546,8 +22305,7 @@ Ustedes <wi type="G" value="3789,1,">serpientes</wi>,
 ustedes 
 <wi type="G" value="1081,2,">nido</wi>
 <wi type="G" value="2191,3,">de víboras</wi>,
-¿
-<wi type="G" value="4459,4,">cómo</wi>
+¿<wi type="G" value="4459,4,">cómo</wi>
 <wi type="G" value="5343,5,">escaparán</wi>
 <wi type="G" value="575,6,"/><wi type="G" value="3588,7,">al</wi>
 <wi type="G" value="2920,8,">juicio</wi>
@@ -22678,8 +22436,7 @@ would not!
 <wi type="G" value="649,10,">aquellos que</wi>
 <wi type="G" value="4314,11,"><wi type="G" value="846,12,">te</wi></wi>
 <wi type="GC" value="10">son enviados</wi>!
-¡
-<wi type="G" value="4212,13,">Que tanto</wi>
+¡<wi type="G" value="4212,13,">Que tanto</wi>
 <wi type="G" value="2309,14,">quisiera haber</wi>
 <wi type="G" value="1996,15,">reunido</wi>
 <wi type="G" value="3588,16,">a</wi>
@@ -22730,8 +22487,7 @@ you say, `Blessed is he who comes in the name of the Lord!´»
 <wi type="G" value="302,11,"/>
 que 
 <wi type="G" value="2036,12,">digan</wi>,
-`¡
-<wi type="G" value="2127,13,">Bendito</wi> es
+`¡<wi type="G" value="2127,13,">Bendito</wi> es
 <wi type="G" value="3588,14,">el</wi>
 <wi type="G" value="2064,15,">que viene</wi>
 <wi type="G" value="1722,16,">en</wi>
@@ -22813,15 +22569,12 @@ and of the end of the age?»
 <wi type="G" value="3588,11,"/> 
 <wi type="G" value="2596,13,"/><wi type="G" value="2398,14,">en privado</wi>
 <wi type="G" value="3004,15,">diciendo</wi>,
-«
-<wi type="G" value="2036,16,"><wi type="G" value="2254,17,">Dinos</wi></wi>,
-¿
-<wi type="G" value="4219,18,">Cuándo</wi>
+«<wi type="G" value="2036,16,"><wi type="G" value="2254,17,">Dinos</wi></wi>,
+¿<wi type="G" value="4219,18,">Cuándo</wi>
 <wi type="G" value="2071,20,">pasarán</wi>
 <wi type="G" value="5023,19,">estas cosas</wi>?
 <wi type="G" value="2532,21,">Y</wi>
-¿
-<wi type="G" value="5101,22,">Cuál</wi>
+¿<wi type="G" value="5101,22,">Cuál</wi>
 <wi type="G" value="3588,23,"/>
 será
 <wi type="G" value="4592,24,">la señal</wi>
@@ -22863,8 +22616,7 @@ many astray.
 <wi type="G" value="3588,5,"/><wi type="G" value="3450,7,">mi</wi>
 <wi type="G" value="3686,6,">nombre</wi>
 <wi type="G" value="3004,8,">diciendo</wi>,
-`
-<wi type="G" value="1473,9,">Yo</wi>
+`<wi type="G" value="1473,9,">Yo</wi>
 <wi type="G" value="1510,10,">soy</wi>
 <wi type="G" value="3588,11,">el</wi>
 <wi type="G" value="5547,12,">Cristo</wi>,´
@@ -23252,14 +23004,12 @@ don´t believe it.
 <wi type="G" value="5100,3,">alguien</wi>
 <wi type="G" value="5213,4,">les</wi>
 <wi type="G" value="2036,5,">dice</wi>,
-`
-<wi type="G" value="2400,6,">Observen</wi>,
+`<wi type="G" value="2400,6,">Observen</wi>,
 <wi type="G" value="5602,7,">aquí</wi> está
 <wi type="G" value="3588,8,">el</wi>
 <wi type="G" value="5547,9,">Cristo</wi>,´
 <wi type="G" value="2228,10,">o</wi>
-`
-<wi type="G" value="5602,11,">Allí</wi>,´
+`<wi type="G" value="5602,11,">Allí</wi>,´
 <wi type="G" value="3361,12,">no</wi> le
 <wi type="G" value="4100,13,">crean</wi>. 
 </t>
@@ -23313,15 +23063,13 @@ chambers,´ don´t believe it.
 <wi type="G" value="1437,1,">si</wi>
 <wi type="G" value="5213,4,">les</wi>
 <wi type="G" value="2036,3,">dicen</wi>,
-`
-<wi type="G" value="2400,5,">Observen</wi>, Él está
+`<wi type="G" value="2400,5,">Observen</wi>, Él está
 <wi type="G" value="1722,6,">en</wi>
 <wi type="G" value="3588,7,">el</wi>
 <wi type="G" value="2048,8,">desierto</wi>,´
 <wi type="G" value="3361,10,">no</wi>
 <wi type="G" value="1831,11,">salgan</wi>;
-`
-<wi type="G" value="2400,12,">Observen</wi>,
+`<wi type="G" value="2400,12,">Observen</wi>,
 <wi type="G" value="2076,9,">Él está</wi>
 <wi type="G" value="1722,13,">en</wi>
 <wi type="G" value="3588,14,"/>
@@ -23896,8 +23644,7 @@ servant should say in his heart, `My lord is delaying his coming,´
 <wi type="G" value="1722,8,">en</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="846,11,">su</wi>
 <wi type="G" value="2588,10,">corazón</wi>,
-`
-<wi type="G" value="3450,15,">Mi</wi>
+`<wi type="G" value="3450,15,">Mi</wi>
 <wi type="G" value="2962,14,">señor</wi>
 <wi type="G" value="5549,12,">se demora</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="2064,16,">en llegar</wi>,´ 
@@ -24093,13 +23840,10 @@ bridegroom is coming! Come out to meet him!´
 <wi type="G" value="3319,1,"><wi type="G" value="3571,3,">a medianoche</wi></wi>
 <wi type="G" value="1096,5,">hubo</wi>
 <wi type="G" value="2906,4,">un clamor</wi>,
-`¡
-<wi type="G" value="2400,6,">Observen</wi>!
+`¡<wi type="G" value="2400,6,">Observen</wi>!
 <wi type="G" value="3588,7,"/>
-¡
-<wi type="G" value="3566,8,">El novio</wi>
-<wi type="G" value="2064,9,">está llegando</wi>! ¡
-<wi type="G" value="1831,10,">Salgan</wi>
+¡<wi type="G" value="3566,8,">El novio</wi>
+<wi type="G" value="2064,9,">está llegando</wi>! ¡<wi type="G" value="1831,10,">Salgan</wi>
 <wi type="G" value="1519,11,">a</wi>
 <wi type="G" value="529,12,"><wi type="G" value="846,13,">encontrarlo</wi></wi>!´ 
 </t>
@@ -24130,8 +23874,7 @@ some of your oil, for our lamps are going out.´
 <wi type="G" value="1161,2,"/> 
 <wi type="G" value="3588,4,"/><wi type="G" value="2036,6,">dijeron</wi>
 <wi type="G" value="5429,5,">a las sabias</wi>,
-`
-<wi type="G" value="1325,7,"><wi type="G" value="2254,8,">Dennos</wi></wi>
+`<wi type="G" value="1325,7,"><wi type="G" value="2254,8,">Dennos</wi></wi>
 <wi type="G" value="1537,9,">de</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="5216,12,">su</wi>
 <wi type="G" value="1637,11,">aceite</wi>,
@@ -24152,8 +23895,7 @@ go rather to those who sell, and buy for yourselves.´
 <wi type="G" value="3588,3,">las</wi>
 <wi type="G" value="5429,4,">sabias</wi>
 <wi type="G" value="611,1,"><wi type="G" value="3004,5,">contestaron</wi></wi>,
-`
-<wi type="G" value="3379,6,">No sea que</wi>
+`<wi type="G" value="3379,6,">No sea que</wi>
 <wi type="G" value="3756,7,">no</wi>
 <wi type="G" value="714,8,">haya suficiente</wi>
 <wi type="G" value="2254,9,">para nosotras</wi>
@@ -24210,8 +23952,7 @@ Afterward the other virgins also came, saying, `Lord, Lord, open to us.´
 <wi type="G" value="2532,4,">también</wi>
 <wi type="G" value="2064,3,">llegaron</wi>
 <wi type="G" value="3004,8,">diciendo</wi>
-`
-<wi type="G" value="2962,9,">Señor</wi>,
+`<wi type="G" value="2962,9,">Señor</wi>,
 <wi type="G" value="2962,10,">Señor</wi>,
 <wi type="G" value="455,11,"><wi type="G" value="2254,12,">ábrenos</wi></wi>.´ 
 </t>
@@ -24223,8 +23964,7 @@ But he answered, `Most assuredly I tell you, I don´t know you.´
 <t xml:lang="es">
 <wi type="G" value="3588,1,"/><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="611,3,"><wi type="G" value="2036,4,">él contestó</wi></wi>,
-`
-<wi type="G" value="281,5,">En verdad</wi>
+`<wi type="G" value="281,5,">En verdad</wi>
 <wi type="G" value="5213,7,">les</wi>
 <wi type="G" value="3004,6,">digo</wi>, que
 <wi type="G" value="3756,8,">no</wi>
@@ -24413,8 +24153,7 @@ Behold, I have gained another five talents besides them.´
 <wi type="G" value="4002,10,">cinco</wi>
 <wi type="G" value="5007,11,">talentos</wi>,
 <wi type="G" value="3004,12,">diciendo</wi>,
-`
-<wi type="G" value="2962,13,">Señor</wi>,
+`<wi type="G" value="2962,13,">Señor</wi>,
 <wi type="G" value="3427,16,">me</wi>
 <wi type="G" value="3860,17,">diste</wi>
 <wi type="G" value="4002,14,">cinco</wi>
@@ -24435,13 +24174,11 @@ Behold, I have gained another five talents besides them.´
 been faithful over a few things, I will set you over many things. Enter into
 the joy of your lord.´
 <t xml:lang="es">
-<wi type="G" value="1161,2,"/>«
-<wi type="G" value="846,6,">Su</wi>
+<wi type="G" value="1161,2,"/>«<wi type="G" value="846,6,">Su</wi>
 <wi type="G" value="2962,5,">señor</wi>
 <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="5346,1,">dijo</wi>,
-`
-<wi type="G" value="2095,7,">Bien hecho</wi>,
+`<wi type="G" value="2095,7,">Bien hecho</wi>,
 <wi type="G" value="1401,8,">siervo</wi>
 <wi type="G" value="18,9,">bueno</wi>
 <wi type="G" value="2532,10,">y</wi>
@@ -24470,16 +24207,14 @@ the joy of your lord.´
 «He also who got the two talents came and said, `Lord, you delivered to
 me two talents. Behold, I have gained another two talents besides them.´
 <t xml:lang="es">
-<wi type="G" value="1161,2,"/>«
-<wi type="G" value="2983,8,">El que recibió</wi>
+<wi type="G" value="1161,2,"/>«<wi type="G" value="2983,8,">El que recibió</wi>
 <wi type="G" value="3588,4,"/> 
 <wi type="G" value="3588,5,"/><wi type="G" value="1417,6,">dos</wi>
 <wi type="G" value="5007,7,">talentos</wi>
 <wi type="G" value="2532,3,">también</wi>
 <wi type="G" value="4334,1,">vino</wi>
 <wi type="G" value="2036,9,">y dijo</wi>,
-`
-<wi type="G" value="2962,10,">Señor</wi>,
+`<wi type="G" value="2962,10,">Señor</wi>,
 <wi type="G" value="3427,13,">me</wi>
 <wi type="G" value="3860,14,">diste</wi>
 <wi type="G" value="1417,11,">dos</wi>
@@ -24505,8 +24240,7 @@ the joy of your lord.´
 <wi type="G" value="3588,3,"/><wi type="G" value="2962,4,">señor</wi>
 <wi type="G" value="846,2,">le</wi>
 <wi type="G" value="5346,1,">dijo</wi>,
-`
-<wi type="G" value="2095,6,">Bien hecho</wi>,
+`<wi type="G" value="2095,6,">Bien hecho</wi>,
 <wi type="G" value="1401,7,">siervo</wi>
 <wi type="G" value="18,8,">bueno</wi>
 <wi type="G" value="2532,9,">y</wi>
@@ -24542,8 +24276,7 @@ where you did not scatter.
 <wi type="G" value="3588,5,"/><wi type="G" value="1520,6,">un</wi>
 <wi type="G" value="5007,7,">talento</wi>
 <wi type="G" value="2036,9,">y dijo</wi>,
-`
-<wi type="G" value="2962,10,">Señor</wi>,
+`<wi type="G" value="2962,10,">Señor</wi>,
 <wi type="G" value="1097,11,">sabía</wi>
 <wi type="G" value="3754,13,">que</wi>
 <wi type="G" value="4571,12,"><wi type="G" value="1488,15,">eres</wi></wi>
@@ -24591,8 +24324,7 @@ that I reap where I didn´t sow, and gather where I didn´t scatter.
 <wi type="G" value="2962,4,">señor</wi>
 <wi type="G" value="846,7,">le</wi>
 <wi type="G" value="611,1,"><wi type="G" value="2036,6,">contestó</wi></wi>,
-`
-<wi type="G" value="1401,9,">Siervo</wi>
+`<wi type="G" value="1401,9,">Siervo</wi>
 <wi type="G" value="4190,8,">malo</wi>
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="3636,11,">perezoso</wi>.
@@ -24793,8 +24525,7 @@ foundation of the world;
 <wi type="G" value="3588,3,"/><wi type="G" value="1537,6,">de</wi>
 <wi type="G" value="846,8,">su</wi>
 <wi type="G" value="1188,7,">mano derecha</wi>,
-`
-<wi type="G" value="1205,9,">Vengan</wi>,
+`<wi type="G" value="1205,9,">Vengan</wi>,
 <wi type="G" value="3588,10,"/><wi type="G" value="2127,11,">bendecidos</wi>
 <wi type="G" value="3588,12,"/><wi type="G" value="3962,13,">de</wi>
 <wi type="G" value="3450,14,">mi</wi>
@@ -24870,10 +24601,8 @@ hungry, and feed you; or thirsty, and give you a drink?
 <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="611,2,">contestarán</wi>
 <wi type="G" value="3004,6,">diciendo</wi>,
-`
-<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
-¿
-<wi type="G" value="4219,8,">Cuándo</wi>
+`<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
+¿<wi type="G" value="4219,8,">Cuándo</wi>
 <wi type="G" value="4571,9,">te</wi>
 <wi type="G" value="1492,10,">vimos</wi>
 <wi type="G" value="3983,11,">hambriento</wi>
@@ -24891,8 +24620,7 @@ hungry, and feed you; or thirsty, and give you a drink?
 When did we see
 you as a stranger, and take you in; or naked, and clothe you?
 <t xml:lang="es">
-<wi type="G" value="1161,2,"/>¿
-<wi type="G" value="4219,1,">Cuándo</wi>
+<wi type="G" value="1161,2,"/>¿<wi type="G" value="4219,1,">Cuándo</wi>
 <wi type="G" value="4571,3,">te</wi>
 <wi type="G" value="1492,4,">vimos</wi>
 <wi type="G" value="3581,5,">como un extraño</wi>
@@ -24910,8 +24638,7 @@ you as a stranger, and take you in; or naked, and clothe you?
 When did
 we see you sick, or in prison, and come to you?´
 <t xml:lang="es">
-<wi type="G" value="1161,2,"/>¿
-<wi type="G" value="4219,1,">Cuándo</wi>
+<wi type="G" value="1161,2,"/>¿<wi type="G" value="4219,1,">Cuándo</wi>
 <wi type="G" value="4571,3,">te</wi>
 <wi type="G" value="1492,4,">vimos</wi>
 <wi type="G" value="772,5,">enfermo</wi>
@@ -24931,13 +24658,11 @@ we see you sick, or in prison, and come to you?´
 «The King will answer them, `Most assuredly I tell you, inasmuch as
 you did it to one of the least of these my
 <t xml:lang="es">
-<wi type="G" value="2532,1,"/>«
-<wi type="G" value="935,4,">El Rey</wi>
+<wi type="G" value="2532,1,"/>«<wi type="G" value="935,4,">El Rey</wi>
 <wi type="G" value="846,6,">les</wi>
 <wi type="G" value="611,2,"><wi type="G" value="2046,5,">contestará</wi></wi>,
 <wi type="G" value="3588,3,"/>
-`
-<wi type="G" value="281,7,">En verdad</wi>
+`<wi type="G" value="281,7,">En verdad</wi>
 <wi type="G" value="5213,9,">les</wi>
 <wi type="G" value="3004,8,">digo</wi>,
 <wi type="G" value="1909,10,">así</wi>
@@ -24979,8 +24704,7 @@ which is prepared for the devil and his angels;
 <wi type="G" value="3588,4,"/><wi type="G" value="2046,2,">dirá</wi>
 <wi type="G" value="1537,5,">a</wi>
 <wi type="G" value="2176,6,">los de la mano izquierda</wi>,
-`
-<wi type="G" value="4198,7,">Aléjense</wi>
+`<wi type="G" value="4198,7,">Aléjense</wi>
 <wi type="G" value="575,8,">de</wi>
 <wi type="G" value="1700,9,">mi</wi>,
 <wi type="G" value="3588,10,"/><wi type="G" value="2672,11,">ustedes malditos</wi>,
@@ -25058,10 +24782,8 @@ you?´
 <wi type="G" value="2532,4,"/><wi type="G" value="846,3,">le</wi>
 <wi type="G" value="611,2,">contestarán</wi>
 <wi type="G" value="3004,6,">diciendo</wi>,
-`
-<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
-¿
-<wi type="G" value="4219,8,">Cuándo</wi>
+`<wi type="G" value="2962,7," sacred="yes">Señor</wi>,
+¿<wi type="G" value="4219,8,">Cuándo</wi>
 <wi type="G" value="4571,9,">te</wi>
 <wi type="G" value="1492,10,">vimos</wi>
 <wi type="G" value="3983,11,">hambriento</wi>,
@@ -25095,8 +24817,7 @@ you didn´t do it to me.´
 <wi type="G" value="846,3,">les</wi>
 <wi type="GC" value="2">contestará</wi>
 <wi type="G" value="3004,4,">diciendo</wi>,
-`
-<wi type="G" value="281,5,">En verdad</wi>
+`<wi type="G" value="281,5,">En verdad</wi>
 <wi type="G" value="5213,7,">les</wi>
 <wi type="G" value="3004,6,">digo</wi>,
 <wi type="G" value="1909,8,">así</wi>
@@ -25230,8 +24951,7 @@ the people.»
 <t xml:lang="es">
 <wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="3004,1,">dijeron</wi>,
-«
-<wi type="G" value="3361,3,">No</wi>
+«<wi type="G" value="3361,3,">No</wi>
 <wi type="G" value="1722,4,">durante</wi>
 <wi type="G" value="3588,5,">la</wi>
 <wi type="G" value="1859,6,">fiesta</wi>,
@@ -25297,8 +25017,7 @@ this, they were indignant, saying, «Why this waste?
 <wi type="GC" value="1">vieron</wi> esto,
 <wi type="G" value="23,6,">se indignaron</wi>,
 <wi type="G" value="3004,7,">diciendo</wi>,
-«¿
-<wi type="G" value="1519,8,">Para</wi>
+«¿<wi type="G" value="1519,8,">Para</wi>
 <wi type="G" value="5101,9,">qué</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="3778,12,">este</wi>
 <wi type="G" value="684,11,">desperdicio</wi>? 
@@ -25441,8 +25160,7 @@ should deliver him to you?» They weighed out for him thirty pieces of silver.
 <t xml:lang="es">
 y les
 <wi type="G" value="2036,1,">dijo</wi>,
-«¿
-<wi type="G" value="5101,2,">Que</wi>
+«¿<wi type="G" value="5101,2,">Que</wi>
 <wi type="G" value="1325,5,">me</wi>
 <wi type="G" value="2309,3,"><wi type="G" value="3427,4,">darán</wi></wi>, para que
 <wi type="G" value="2504,6,"/><wi type="G" value="846,9,">se</wi>
@@ -25498,8 +25216,7 @@ traduce como `pan sin levadura.´
 <wi type="G" value="3588,7,"/> 
 <wi type="G" value="3588,9,"/><wi type="G" value="2424,10,">donde Jesús</wi>,
 <wi type="G" value="3004,11,"><wi type="G" value="846,12,">diciéndole</wi></wi>,
-«¿
-<wi type="G" value="4226,13,">Dónde</wi>
+«¿<wi type="G" value="4226,13,">Dónde</wi>
 <wi type="G" value="2309,14,">quieres que</wi>
 <wi type="G" value="2090,15,">preparemos</wi>
 <wi type="G" value="4671,16,"><wi type="G" value="5315,17,">para que comas</wi></wi>
@@ -25528,8 +25245,7 @@ with my disciples.»´»
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="2036,12,"><wi type="G" value="846,13,">díganle</wi></wi>,
 <wi type="G" value="3588,14,"/>
-`
-<wi type="G" value="1320,15,">El Maestro</wi>
+`<wi type="G" value="1320,15,">El Maestro</wi>
 <wi type="G" value="3004,16,">dice</wi>,
 "
 <wi type="G" value="3450,19,">Mi</wi>
@@ -25611,8 +25327,7 @@ y
 <wi type="G" value="846,8,">de ellos</wi>
 <wi type="G" value="756,4,">comenzó</wi>
 <wi type="G" value="3004,5,"><wi type="G" value="846,6,">a preguntarle</wi></wi>,
-«¿
-<wi type="G" value="1510,11,">Seré</wi>
+«¿<wi type="G" value="1510,11,">Seré</wi>
 <wi type="G" value="3385,9,"/><wi type="G" value="1473,10,">yo</wi>
 <wi type="G" value="2962,12," sacred="yes">Señor</wi>?» 
 </t>
@@ -25662,8 +25377,7 @@ for that man if he had not been born.»
 <wi type="G" value="1125,8,">está escrito</wi>
 <wi type="G" value="4012,9,">sobre</wi>
 <wi type="G" value="846,10,">Él</wi>,
-¡
-<wi type="G" value="1161,12,">pero</wi>
+¡<wi type="G" value="1161,12,">pero</wi>
 <wi type="G" value="3759,11,">ay</wi>
 <wi type="G" value="1565,15,">de aquel</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="444,14,">hombre</wi>
@@ -25697,10 +25411,8 @@ Judas, who betrayed him, answered, «It isn´t me, is it, Rabbi?»
 <wi type="GC" value="5">había traicionado</wi>,
 <wi type="G" value="611,1,"><wi type="G" value="2036,7,">contestó</wi></wi>,
 <wi type="G" value="3385,8,"/>
-«
-<wi type="G" value="4461,11,">Maestro</wi>
-¿
-<wi type="G" value="1510,10,">Seré</wi>
+«<wi type="G" value="4461,11,">Maestro</wi>
+¿<wi type="G" value="1510,10,">Seré</wi>
 <wi type="G" value="1473,9,">yo</wi>?» 
 </t>
 <cl/>
@@ -25875,8 +25587,7 @@ the sheep of the flock will be scattered.´
 <wi type="G" value="3571,13,">noche</wi>,
 <wi type="G" value="1063,16,">pues</wi>
 <wi type="G" value="1125,15,">está escrito</wi>,
-`
-<wi type="G" value="3960,17,">Golpearé</wi>
+`<wi type="G" value="3960,17,">Golpearé</wi>
 <wi type="G" value="3588,18,">al</wi>
 <wi type="G" value="4166,19,">pastor</wi>
 <wi type="G" value="2532,20,">y</wi>
@@ -25914,8 +25625,7 @@ Pero <wi type="G" value="4074,4,">Pedro</wi>
 <wi type="G" value="611,1,">contestó</wi>
 <wi type="G" value="1161,2,"/> 
 <wi type="G" value="3588,3,"/><wi type="G" value="2036,5,">diciendo</wi>,
-«
-<wi type="G" value="1487,7,">Aunque</wi>
+«<wi type="G" value="1487,7,">Aunque</wi>
 <wi type="G" value="2532,8,"/><wi type="G" value="3956,9,">todos</wi> 
 </t>
 <rb xml:lang="es"><wi type="G" value="4624,10,">tropiecen</wi><rf>
@@ -25967,8 +25677,7 @@ All of the disciples also said likewise.
 <wi type="G" value="4074,4,">Pedro</wi>
 <wi type="G" value="846,2,">le</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="3004,1,">dijo</wi>,
-«
-<wi type="G" value="2579,5,">Aunque</wi>
+«<wi type="G" value="2579,5,">Aunque</wi>
 <wi type="G" value="1163,6,">tenga</wi>
 <wi type="G" value="599,10,">que morir</wi>
 <wi type="G" value="3165,7,"/><wi type="G" value="4862,8,"><wi type="G" value="4671,9,">contigo</wi></wi>
@@ -26307,8 +26016,7 @@ saying, «Whoever I kiss, he is the one. Seize him.»
 <wi type="G" value="1325,5,">dio</wi>
 <wi type="G" value="4592,7,">una señal</wi>,
 <wi type="G" value="3004,8,">diciendo</wi>,
-«
-<wi type="G" value="3739,9,">A quien</wi>
+«<wi type="G" value="3739,9,">A quien</wi>
 <wi type="G" value="302,10,"/><wi type="G" value="5368,11,">yo bese</wi>,
 <wi type="G" value="846,12,">ése</wi>
 <wi type="G" value="2076,13,">es</wi>.
@@ -26323,8 +26031,7 @@ Immediately he came to Jesus, and said, «Hail, Rabbi!» and kissed him.
 <wi type="G" value="3588,4,"/><wi type="G" value="2424,5,">Jesús</wi>,
 y le 
 <wi type="G" value="2036,6,">dijo</wi> ,
-«¡
-<wi type="G" value="5463,7,">Saludos</wi>,
+«¡<wi type="G" value="5463,7,">Saludos</wi>,
 <wi type="G" value="4461,8,">Rabi</wi>!»
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="846,11,">lo</wi>
@@ -26345,8 +26052,7 @@ Jesus said to him,
 <t xml:lang="es">
 «<wi type="G" value="2083,6,">Amigo</wi>,
 <wi type="G" value="1909,7,"/>
-¿
-<wi type="G" value="3739,8,">por qué</wi>
+¿<wi type="G" value="3739,8,">por qué</wi>
 <wi type="G" value="3918,9,">has venido</wi>?» 
 </t>
 </fr> Then they came and laid hands on Jesus, and took him.
@@ -26620,11 +26326,9 @@ and said, «This man said, `I am able to destroy the temple of God,
 and to build it in three days.´»
 <t xml:lang="es">
 <wi type="G" value="2036,1,">y dijeron</wi>,
-«
-<wi type="G" value="3778,2,">Este</wi> hombre
+«<wi type="G" value="3778,2,">Este</wi> hombre
 <wi type="G" value="5346,3,">dijo</wi>,
-`
-<wi type="G" value="1410,4,">Puedo</wi>
+`<wi type="G" value="1410,4,">Puedo</wi>
 <wi type="G" value="2647,5,">destruir</wi>
 <wi type="G" value="3588,6,">el</wi>
 <wi type="G" value="3485,7,">templo</wi>
@@ -26647,11 +26351,9 @@ this that these testify against you?»
 <wi type="G" value="450,2,">se levantó</wi>, y
 <wi type="G" value="3588,3,"/><wi type="G" value="846,6,">le</wi>
 <wi type="G" value="2036,5,">dijo</wi>,
-«¿
-<wi type="G" value="3762,7,">Nada</wi>
+«¿<wi type="G" value="3762,7,">Nada</wi>
 <wi type="G" value="611,8,">respondes</wi>?
-¿
-<wi type="G" value="5101,9,">Qué</wi> es esto que
+¿<wi type="G" value="5101,9,">Qué</wi> es esto que
 <wi type="G" value="3778,10,">estos</wi>
 <wi type="G" value="2649,12,">atestiguan en contra</wi>
 <wi type="G" value="4675,11,">tuya</wi>?» 
@@ -26676,8 +26378,7 @@ uno.
 <wi type="G" value="2532,5,"/><wi type="G" value="749,8,">El sumo sacerdote</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="846,10,">le</wi>
 <wi type="G" value="611,6,"><wi type="G" value="2036,9,">dijo</wi></wi>,
-«
-<wi type="G" value="4571,12,">Te</wi>
+«<wi type="G" value="4571,12,">Te</wi>
 <wi type="G" value="1844,11,">ordeno</wi>
 <wi type="G" value="2596,13,">por</wi>
 <wi type="G" value="3588,14,">el</wi>
@@ -26751,10 +26452,8 @@ his blasphemy.
 <wi type="G" value="2440,6,">vestido</wi>,
 <wi type="G" value="3004,8,">diciendo</wi>,
 <wi type="G" value="3754,9,"/>
-«¡
-<wi type="G" value="987,10,">Ha blasfemado</wi>!
-¿
-<wi type="G" value="5101,11,">Qué</wi>
+«¡<wi type="G" value="987,10,">Ha blasfemado</wi>!
+¿<wi type="G" value="5101,11,">Qué</wi>
 <wi type="G" value="2089,12,">más</wi>
 <wi type="G" value="5532,13,">necesidad</wi>
 <wi type="G" value="2192,14,">tenemos</wi> de
@@ -26778,8 +26477,7 @@ They answered, «He is worthy of death!»
 <wi type="G" value="611,6,">Le contestaron</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="1161,5,">y</wi>
 <wi type="G" value="2036,7,">dijeron</wi>,
-«¡
-<wi type="G" value="2076,10,">Es</wi>
+«¡<wi type="G" value="2076,10,">Es</wi>
 <wi type="G" value="1777,8,">culpable y merece</wi>
 <wi type="G" value="2288,9,">la muerte</wi>!» 
 </t>
@@ -26807,12 +26505,10 @@ saying, «Prophesy to
 us, you Christ! Who hit you?»
 <t xml:lang="es">
 <wi type="G" value="3004,1,">diciendo</wi>
-«¡
-<wi type="G" value="4395,2,">Profetiza</wi>
+«¡<wi type="G" value="4395,2,">Profetiza</wi>
 <wi type="G" value="2254,3,">para nosotros</wi>,
 <wi type="G" value="5547,4,">tu Cristo</wi>!
-¿
-<wi type="G" value="5101,5,">Quién</wi>
+¿<wi type="G" value="5101,5,">Quién</wi>
 <wi type="G" value="2076,6,">fue</wi> el que
 <wi type="G" value="3588,7,"/><wi type="G" value="4571,9,">te</wi>
 <wi type="G" value="3817,8,">golpeó</wi>? 
@@ -26835,8 +26531,7 @@ saying, «You were also with Jesus, the Galilean!»
 <wi type="G" value="4334,10,">fue</wi> donde
 <wi type="G" value="846,11,">él</wi>
 <wi type="G" value="3004,14,">diciendo</wi>,
-«¡
-<wi type="G" value="4771,16,">Tu</wi>
+«¡<wi type="G" value="4771,16,">Tu</wi>
 <wi type="G" value="2532,15,">también</wi>
 <wi type="G" value="2258,17,">estabas</wi>
 <wi type="G" value="3326,18,">con</wi>
@@ -26855,8 +26550,7 @@ talking about.»
 <wi type="G" value="720,3,">él lo negó</wi>
 <wi type="G" value="1715,4,">ante</wi>
 <wi type="G" value="3956,5,">todos</wi>,
-<wi type="G" value="3004,6,">diciendo</wi>, «
-<wi type="G" value="3756,7,">No</wi>
+<wi type="G" value="3004,6,">diciendo</wi>, «<wi type="G" value="3756,7,">No</wi>
 <wi type="G" value="1492,8,">se</wi>
 <wi type="G" value="5101,9,">de que</wi>
 <wi type="G" value="3004,10,">estás hablando</wi>.» 
@@ -26885,8 +26579,7 @@ más<rf>
 <wi type="G" value="3004,11,">dijo</wi>
 <wi type="G" value="3588,12,">a los</wi>
 <wi type="G" value="1563,13,">que estaban allí</wi>,
-«
-<wi type="G" value="3778,15,">Este</wi>
+«<wi type="G" value="3778,15,">Este</wi>
 hombre
 <wi type="G" value="2532,14,">también</wi>
 <wi type="G" value="2258,16,">estaba</wi>
@@ -26907,8 +26600,7 @@ Again he denied it with an oath, «I don´t know the man.»
 <wi type="G" value="3326,4,">con</wi>
 <wi type="G" value="3727,5,">un juramento</wi>,
 <wi type="G" value="3754,6,"/>
-«
-<wi type="G" value="3756,7,">No</wi>
+«<wi type="G" value="3756,7,">No</wi>
 <wi type="G" value="1492,8,">conozco</wi>
 <wi type="G" value="3588,9,">al</wi>
 <wi type="G" value="444,10,">hombre</wi>.» 
@@ -26927,8 +26619,7 @@ de
 <wi type="G" value="2036,7,">dijeron</wi>
 <wi type="G" value="3588,8,">a</wi>
 <wi type="G" value="4074,9,">Pedro</wi>,
-«
-<wi type="G" value="230,10,">Verdaderamente</wi>
+«<wi type="G" value="230,10,">Verdaderamente</wi>
 <wi type="G" value="4771,12,">tu</wi>
 <wi type="G" value="1488,15,">eres</wi>
 <wi type="G" value="2532,11,">también</wi>
@@ -26952,8 +26643,7 @@ Then he began to curse and to swear, «I don´t know the man!»
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="3660,5,">a jurar</wi>,
 <wi type="G" value="3754,6,"/>
-«¡
-<wi type="G" value="3756,7,">No</wi>
+«¡<wi type="G" value="3756,7,">No</wi>
 <wi type="G" value="1492,8,">conozco</wi>
 <wi type="G" value="3588,9,">al</wi>
 <wi type="G" value="444,10,">hombre</wi>!» 
@@ -26981,8 +26671,7 @@ went out and wept bitterly.
 <wi type="G" value="846,10,">le</wi>
 <wi type="G" value="2046,9,">dijo</wi>
 <wi type="G" value="3754,11,"/>
-«
-<wi type="G" value="4250,12,">Antes</wi> de que
+«<wi type="G" value="4250,12,">Antes</wi> de que
 <wi type="G" value="220,13,">el gallo</wi>
 <wi type="G" value="5455,14,">cante</wi>,
 <wi type="G" value="3165,17,">me</wi>
@@ -27068,8 +26757,7 @@ saying, «I have sinned in that I betrayed
 innocent blood.»
 <t xml:lang="es">
 <wi type="G" value="3004,1,">diciendo</wi>,
-«
-<wi type="G" value="264,2,">he pecado</wi>
+«<wi type="G" value="264,2,">he pecado</wi>
 <wi type="G" value="3860,3,">porque he traicionado</wi>
 <wi type="G" value="129,4,">sangre</wi>
 <wi type="G" value="121,5,">inocente</wi>.» 
@@ -27079,8 +26767,7 @@ But they said, «What is that to us? You see to it.»
 <t xml:lang="es">
 <wi type="G" value="1161,7,">Pero</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="2036,8,">ellos</wi> le
-<wi type="GC" value="8">dijeron</wi>, «
-</t>
+<wi type="GC" value="8">dijeron</wi>, «</t>
 <rb xml:lang="es">¿<wi type="G" value="5101,9,">Que</wi> tiene que ver
 <wi type="G" value="4314,10,">con</wi>
 <wi type="G" value="2248,11,">nosotros</wi>?<rf>
@@ -27126,8 +26813,7 @@ the price of blood.»
 <wi type="G" value="3588,5,">las</wi>
 <wi type="G" value="694,6,">monedas de plata</wi>
 <wi type="G" value="2036,7,">y dijeron</wi> ,
-«
-<wi type="G" value="3756,8,">No</wi>
+«<wi type="G" value="3756,8,">No</wi>
 es 
 <wi type="G" value="1832,9,">legal</wi>
 <wi type="G" value="906,10,"><wi type="G" value="846,11,">ponerlas</wi></wi> 
@@ -27172,8 +26858,7 @@ Field of Blood» to this day.
 <wi type="G" value="1565,5,">esto</wi> ese
 <wi type="G" value="3588,3,"/><wi type="G" value="68,4,">campo</wi>
 <wi type="G" value="2564,2,">se llamó</wi>
-«
-<wi type="G" value="68,6,">El campo</wi>
+«<wi type="G" value="68,6,">El campo</wi>
 <wi type="G" value="129,7,">de la sangre</wi>»
 <wi type="G" value="2193,8,">hasta</wi>
 <wi type="G" value="3588,9,">este</wi>
@@ -27203,8 +26888,7 @@ intermedio de
 «They took the thirty pieces of silver,
 <t xml:lang="es">
 cuando <wi type="G" value="3004,9,">dijo</wi>
-«
-<wi type="G" value="2532,10,">Y</wi> 
+«<wi type="G" value="2532,10,">Y</wi> 
 </t>
 <rb xml:lang="es"><wi type="G" value=",">tomaron</wi><rf>
 <citebib id="Peshitta"/> dice `tomé.´
@@ -27287,8 +26971,7 @@ saying, «Are you the King of the Jews?»
 <wi type="G" value="846,10,">le</wi>
 <wi type="G" value="1905,9,">preguntó</wi>,
 <wi type="G" value="3004,13,"/>
-«¿
-<wi type="G" value="1488,15,">Eres</wi>
+«¿<wi type="G" value="1488,15,">Eres</wi>
 <wi type="G" value="4771,14,">tu</wi>
 <wi type="G" value="3588,16,">el</wi>
 <wi type="G" value="935,17,">Rey</wi>
@@ -27336,8 +27019,7 @@ testify against you?»
 <wi type="G" value="4091,5,">Pilato</wi>
 <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="3004,2,">dijo</wi>,
-«¿
-<wi type="G" value="3756,6,">No</wi>
+«¿<wi type="G" value="3756,6,">No</wi>
 <wi type="G" value="191,7,">escuchas</wi>
 <wi type="G" value="4214,8,">cuantas cosas</wi>
 <wi type="G" value="2649,10,">dan como testimonio</wi> contra
@@ -27403,8 +27085,7 @@ to you? Barabbas, or Jesus, who is called Christ?»
 <wi type="G" value="3588,6,"/><wi type="G" value="4091,7,">Pilato</wi>
 <wi type="G" value="846,5,">les</wi>
 <wi type="G" value="2036,4,">dijo</wi>,
-«¿
-<wi type="G" value="5101,8,">A quien</wi>
+«¿<wi type="G" value="5101,8,">A quien</wi>
 <wi type="G" value="2309,9,">quieren</wi>
 <wi type="G" value="630,10,">que libere</wi>
 <wi type="G" value="5213,11,">para ustedes</wi>?
@@ -27446,8 +27127,7 @@ things this day in a dream because of him.»
 <wi type="G" value="4314,8,"><wi type="G" value="846,9,">le</wi></wi>
 <wi type="G" value="649,7,">envió</wi>,
 <wi type="G" value="3004,13,">diciendo</wi>,
-«
-<wi type="G" value="3367,14,"><wi type="G" value="4671,15,">No tengas</wi></wi> nada
+«<wi type="G" value="3367,14,"><wi type="G" value="4671,15,">No tengas</wi></wi> nada
 <wi type="G" value="2532,16,">con</wi>
 <wi type="G" value="3588,17,"/><wi type="G" value="1565,19,">este</wi>
 <wi type="G" value="1342,18,">hombre justo</wi>,
@@ -27493,8 +27173,7 @@ you want me to release to you?»
 <wi type="G" value="611,1,"/> 
 <wi type="G" value="1161,2,"/><wi type="G" value="846,6,">les</wi>
 <wi type="G" value="2036,5,">dijo</wi> ,
-«¿
-<wi type="G" value="5101,7,">A cuál</wi>
+«¿<wi type="G" value="5101,7,">A cuál</wi>
 <wi type="G" value="575,9,">de</wi>
 <wi type="G" value="3588,10,">los</wi>
 <wi type="G" value="1417,11,">dos</wi>
@@ -27508,8 +27187,7 @@ They said, «Barabbas!»
 <t xml:lang="es">
 <wi type="G" value="1161,15,">Y</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="2036,16,">ellos dijeron</wi>,
-«¡
-<wi type="G" value="912,17,">Barrabás</wi>!» 
+«¡<wi type="G" value="912,17,">Barrabás</wi>!» 
 </t>
 </sv>
 </cm>
@@ -27521,8 +27199,7 @@ Christ?»
 <wi type="G" value="3588,3,"/><wi type="G" value="4091,4,">Pilato</wi>
 <wi type="G" value="846,2,">les</wi>
 <wi type="G" value="3004,1,">dijo</wi>,
-«¿
-<wi type="G" value="5101,5,">Qué</wi>
+«¿<wi type="G" value="5101,5,">Qué</wi>
 <wi type="G" value="4160,7,">debo hacer</wi>
 <wi type="G" value="3767,6,">entonces</wi>
 <wi type="G" value="2424,8,">con Jesús</wi>,
@@ -27535,8 +27212,7 @@ They all said to him, «Let him be crucified!»
 <wi type="G" value="3956,14,">Todos</wi> ellos
 <wi type="G" value="846,13,">le</wi>
 <wi type="G" value="3004,12,">dijeron</wi>,
-«¡
-<wi type="G" value="4717,15,">Que sea crucificado</wi>!» 
+«¡<wi type="G" value="4717,15,">Que sea crucificado</wi>!» 
 </t>
 </sv>
 </cm>
@@ -27548,10 +27224,8 @@ But the governor said, «Why? What evil has he done?»
 <wi type="G" value="3588,1,">el</wi>
 <wi type="G" value="2232,3,">gobernador</wi>
 <wi type="G" value="5346,4,">dijo</wi>,
-«¿
-<wi type="G" value="5101,5,">Por qué</wi>?
-¿
-<wi type="G" value="1063,6,">Qué</wi>
+«¿<wi type="G" value="5101,5,">Por qué</wi>?
+¿<wi type="G" value="1063,6,">Qué</wi>
 <wi type="G" value="2556,7,">mal</wi>
 <wi type="G" value="4160,8,">ha hecho</wi>?»
 </t>
@@ -27562,8 +27236,7 @@ But they cried out exceedingly, saying, «Let him be crucified!»
 <wi type="G" value="3588,9,"/><wi type="G" value="2896,12,">gritaron</wi>
 <wi type="G" value="4057,11,">aún más</wi>
 <wi type="G" value="3004,13,">diciendo</wi>,
-«¡
-<wi type="G" value="4717,14,">Que lo crucifiquen</wi>!»
+«¡<wi type="G" value="4717,14,">Que lo crucifiquen</wi>!»
 </t>
 </sv>
 </cm>
@@ -27594,8 +27267,7 @@ Así que
 <wi type="G" value="3588,18,">la</wi>
 <wi type="G" value="3793,19,">multitud</wi>
 <wi type="G" value="3004,20,">diciendo</wi>,
-«
-<wi type="G" value="1510,22,">Soy</wi>
+«<wi type="G" value="1510,22,">Soy</wi>
 <wi type="G" value="121,21,">inocente</wi>
 <wi type="G" value="575,23,">de</wi>
 <wi type="G" value="3588,24,"/> 
@@ -27628,8 +27300,7 @@ children!»
 <wi type="G" value="3588,4,">la</wi>
 <wi type="G" value="2992,5,">gente</wi>
 <wi type="G" value="611,2,">contestó</wi>
-<wi type="G" value="2036,6,">diciendo</wi>, «
-</t>
+<wi type="G" value="2036,6,">diciendo</wi>, «</t>
 <rb xml:lang="es">¡<wi type="G" value="846,9,">Su</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="129,8,">sangre</wi>
 sea
@@ -27733,8 +27404,7 @@ y
 <wi type="G" value="846,22,">lo</wi>
 <wi type="G" value="1702,21,">ridiculizaban</wi>
 <wi type="G" value="3004,23,">diciendo</wi>,
-«¡
-</t>
+«¡</t>
 <rb xml:lang="es"><wi type="G" value="5463,24,">Salve</wi><rf>
 <citebib id="WEB"/> dice `Salve,´ <citebib id="Peshitta"/> dice `Paz.´
 </rf>
@@ -27827,12 +27497,10 @@ They came to a place called «Golgotha,» that is to say,
 <wi type="G" value="1519,3,">a</wi>
 <wi type="G" value="5117,4,">un lugar</wi>
 <wi type="G" value="3004,5,">llamado</wi>
-«
-<wi type="G" value="1115,6,">Gólgota</wi>»
+«<wi type="G" value="1115,6,">Gólgota</wi>»
 <wi type="G" value="3739,7,">que</wi>
 <wi type="G" value="2076,8,"><wi type="G" value="3004,9,">significa</wi></wi>,
-«
-<wi type="G" value="5117,11,">El lugar</wi>
+«<wi type="G" value="5117,11,">El lugar</wi>
 <wi type="G" value="2898,10,">de la calavera</wi>.» 
 </t>
 </sv>
@@ -27874,8 +27542,7 @@ clothing among them, casting lots,
 <wi type="G" value="5259,14,">por</wi>
 <wi type="G" value="3588,15,">el</wi>
 <wi type="G" value="4396,16,">profeta</wi>:
-`
-<wi type="G" value="1266,17,">Repartieron</wi>
+`<wi type="G" value="1266,17,">Repartieron</wi>
 <wi type="G" value="3450,20,">mi</wi>
 <wi type="G" value="3588,18,"/><wi type="G" value="2440,19,">ropa</wi>
 <wi type="G" value="1438,21,">entre ellos</wi>
@@ -27915,8 +27582,7 @@ accusation against him written, «THIS IS JESUS, THE KING OF THE JEWS.»
 <wi type="G" value="2007,2,">pusieron</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="846,9,">su</wi>
 <wi type="G" value="156,8,">acusación</wi>
-«
-<wi type="G" value="3778,11,">ESTE</wi>
+«<wi type="G" value="3778,11,">ESTE</wi>
 <wi type="G" value="2076,12,">ES</wi>
 <wi type="G" value="2424,13,">JESÚS</wi>,
 <wi type="G" value="3588,14,"/><wi type="G" value="935,15,">EL REY</wi>
@@ -27964,8 +27630,7 @@ days, save yourself! If you are the Son of God, come down from the cross!»
 <wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="3004,2,">diciendo</wi>,
 <wi type="G" value="3588,3,"/>
-«
-<wi type="G" value="2647,4,">Tu que destruyes</wi>
+«<wi type="G" value="2647,4,">Tu que destruyes</wi>
 <wi type="G" value="3588,5,">el</wi>
 <wi type="G" value="3485,6,">templo</wi>
 <wi type="G" value="2532,7,">y</wi>
@@ -27974,11 +27639,9 @@ vuelves a
 <wi type="G" value="1722,8,">en</wi>
 <wi type="G" value="5140,9,">tres</wi>
 <wi type="G" value="2250,10,">días</wi>,
-¡
-<wi type="G" value="4982,12,">sálvate</wi>
+¡<wi type="G" value="4982,12,">sálvate</wi>
 <wi type="G" value="4572,13,">a ti mismo</wi>!
-¡
-<wi type="G" value="1487,14,">Si</wi>
+¡<wi type="G" value="1487,14,">Si</wi>
 <wi type="G" value="1488,16,">eres</wi>
 <wi type="G" value="5207,15,">el Hijo</wi>
 <wi type="G" value="3588,17,">de</wi>
@@ -28059,8 +27722,7 @@ Dios
 <wi type="G" value="1063,12,">pues</wi>
 <wi type="G" value="2036,11,">Él dijo</wi>,
 <wi type="G" value="3754,13,"/>
-`
-<wi type="G" value="1510,15,">Soy</wi>
+`<wi type="G" value="1510,15,">Soy</wi>
 <wi type="G" value="5207,16,">el Hijo</wi>
 <wi type="G" value="2316,14,">de Dios</wi>.´» 
 </t>
@@ -28157,8 +27819,7 @@ dicen «lama sabactani», <citebib id="DieBibel"/> dice «lema sabachtani», <ci
 «<wi type="G" value="2316,18," sacred="yes">Dios</wi>
 <wi type="G" value="3450,19,">mio</wi>,
 <wi type="G" value="2316,20," sacred="yes">Dios</wi>
-<wi type="G" value="3450,21,">mio</wi>, ¿
-</t>
+<wi type="G" value="3450,21,">mio</wi>, ¿</t>
 <rb xml:lang="es"><wi type="G" value="2443,22,"><wi type="G" value="2444,23,">por qué</wi></wi><rf>
 Respecto al marcado Strong ver nota al pie de Mateo 9:4.
 </rf>
@@ -28181,8 +27842,7 @@ calling Elijah.»
 <wi type="G" value="191,6,">escucharon</wi>,
 <wi type="G" value="3004,7,">dijeron</wi>,
 <wi type="G" value="3754,8,"/>
-«
-<wi type="G" value="3778,11,">Este</wi> hombre
+«<wi type="G" value="3778,11,">Este</wi> hombre
 <wi type="G" value="5455,10,">está llamando</wi> a
 <wi type="G" value="2243,9,">Elías</wi>.» 
 </t>
@@ -28217,8 +27877,7 @@ The rest said, «Let him be. Let´s see whether Elijah comes to save him.»
 <wi type="G" value="3062,3,">Los demás</wi>
 <wi type="G" value="3588,1,"/> 
 <wi type="G" value="1161,2,"/><wi type="G" value="3004,4,">dijeron</wi>,
-«
-<wi type="G" value="863,5,">Déjalo</wi>.
+«<wi type="G" value="863,5,">Déjalo</wi>.
 <wi type="G" value="1492,6,">Veamos</wi>
 <wi type="G" value="1487,7,">si</wi>
 <wi type="G" value="2243,9,">Elías</wi>
@@ -28339,8 +27998,7 @@ God.»
 <wi type="G" value="5399,17,">se asustaron</wi>
 <wi type="G" value="4970,18,">en gran manera</wi> y
 <wi type="G" value="3004,19,">dijeron</wi>,
-«
-<wi type="G" value="230,20,">Verdaderamente</wi>
+«<wi type="G" value="230,20,">Verdaderamente</wi>
 <wi type="G" value="3778,24,">este</wi>
 <wi type="G" value="2258,23,">era</wi>
 <wi type="G" value="5207,22,">el Hijo</wi>
@@ -28528,8 +28186,7 @@ saying, «Sir, we remember what that deceiver said
 while he was still alive: `After three days I will rise again.´
 <t xml:lang="es">
 y le <wi type="G" value="3004,1,">dijeron</wi>,
-«
-<wi type="G" value="2962,2,">Señor</wi>
+«<wi type="G" value="2962,2,">Señor</wi>
 <wi type="G" value="3415,3,">recordamos</wi>
 <wi type="G" value="3754,4,">lo que</wi>
 <wi type="G" value="1565,5,">ese</wi>
@@ -28538,8 +28195,7 @@ y le <wi type="G" value="3004,1,">dijeron</wi>,
 <wi type="G" value="2198,10,">mientras</wi>
 <wi type="G" value="2089,9,">aún</wi>
 <wi type="GC" value="10">estaba vivo</wi>:
-`
-<wi type="G" value="3326,11,">Después</wi> de
+`<wi type="G" value="3326,11,">Después</wi> de
 <wi type="G" value="5140,12,">tres</wi>
 <wi type="G" value="2250,13,">días</wi>
 <wi type="G" value="1453,14,">resucitaré</wi>.´ 
@@ -28573,8 +28229,7 @@ el
 <wi type="G" value="2036,19,">digan</wi>
 <wi type="G" value="3588,20,">a la</wi>
 <wi type="G" value="2992,21,">gente</wi>,
-`
-<wi type="G" value="1453,22,">Ha resucitado</wi>
+`<wi type="G" value="1453,22,">Ha resucitado</wi>
 <wi type="G" value="575,23,">de</wi>
 <wi type="G" value="3588,24,">la</wi>
 <wi type="G" value="3498,25,">muerte</wi>;´
@@ -28596,8 +28251,7 @@ Go, make it as secure as you can.»
 <wi type="G" value="1161,2,"/> 
 <wi type="G" value="3588,4,"/><wi type="G" value="846,3,">les</wi>
 <wi type="G" value="5346,1,">dijo</wi>,
-«
-<wi type="G" value="2192,6,">Tienen</wi>
+«<wi type="G" value="2192,6,">Tienen</wi>
 <wi type="G" value="2892,7,">una guardia</wi>.
 <wi type="G" value="5217,8,">Vayan</wi>
 y 
@@ -28732,8 +28386,7 @@ I know that you seek Jesus, who has been crucified.
 <wi type="G" value="3588,3,"/><wi type="G" value="2036,5,">diciendo</wi>
 <wi type="G" value="3588,6,"/>a
 <wi type="G" value="1135,7,">las mujeres</wi>,
-«
-<wi type="G" value="3361,8,">No</wi>
+«<wi type="G" value="3361,8,">No</wi>
 <wi type="G" value="5399,9,"><wi type="G" value="5210,10,">tengan miedo</wi></wi>,
 <wi type="G" value="1063,12,">pues</wi>
 <wi type="G" value="1492,11,">se</wi>
@@ -28777,8 +28430,7 @@ Behold, I have told you.»
 <wi type="G" value="846,7,">sus</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="3101,6,">discípulos</wi>
 <wi type="G" value="3754,8,">que</wi>,
-`
-<wi type="G" value="1453,9,">Él ha resucitado</wi>
+`<wi type="G" value="1453,9,">Él ha resucitado</wi>
 <wi type="G" value="575,10,">de</wi>
 <wi type="G" value="3588,11,">la</wi>
 <wi type="G" value="3498,12,">muerte</wi>,
@@ -28949,11 +28601,9 @@ saying, «Say that his disciples
 came by night, and stole him away while we slept.
 <t xml:lang="es">
 y les <wi type="G" value="3004,1,">dijeron</wi>,
-«
-<wi type="G" value="2036,2,">Digan</wi>
+«<wi type="G" value="2036,2,">Digan</wi>
 <wi type="G" value="3754,3,"/>
-`
-<wi type="G" value="846,6,">Sus</wi>
+`<wi type="G" value="846,6,">Sus</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="3101,5,">discípulos</wi>
 <wi type="G" value="2064,8,">vinieron</wi>
 <wi type="G" value="3571,7,">en la noche</wi>,

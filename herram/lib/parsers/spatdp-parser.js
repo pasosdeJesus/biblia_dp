@@ -56,24 +56,6 @@ function checkTranslation(el) {
 }
 
 /**
- * Recorre recursivamente buscando t/rb xml:lang="es" para extraer Strongs
- */
-function walkForTranslation(el, strongType, strongs) {
-  if (!el || el.nodeType !== 1) return;
-  if (el.tagName === 'rf') return;
-
-  if ((el.tagName === 't' || el.tagName === 'rb') &&
-      el.getAttribute('xml:lang') === 'es') {
-    extractStrongs(el, strongType, strongs);
-    return;
-  }
-
-  for (const c of childNodesArr(el)) {
-    walkForTranslation(c, strongType, strongs);
-  }
-}
-
-/**
  * Parsea un archivo GBF de SpaTDP usando DOMParser (árbol).
  * @param {string} filepath - Ruta al archivo .gbfxml
  * @param {string} strongType - Tipo de Strong: 'G' (NT) o 'H' (AT, por defecto 'G')
