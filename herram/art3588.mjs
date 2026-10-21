@@ -195,6 +195,28 @@ function convertirBloque(texto) {
              `<wi type="${tipoInner}" value="${valorInner}"${si}>${resto}</wi>`;
     });
 
+  // ── Paso 6: G3588 vacío seguido de artículo suelto (sin <wi>) ──
+  // <wi ...3588,POS,"/> el|la|de|a|... [resto]
+  // → <wi ...3588,POS,">el</wi> [resto]
+  const articulosSuelto = [
+    'de los', 'de las', 'de la', 'de una', 'de un', 'de unos', 'de unas',
+    'a los', 'a las', 'a la', 'a una', 'a un',
+    'en los', 'en las', 'en el', 'en la',
+    'por los', 'por las', 'por el', 'por la',
+    'del', 'al',
+    'de', 'a', 'Los', 'Las', 'los', 'las', 'El', 'La', 'el', 'la',
+    'Un', 'Una', 'un', 'una', 'unos', 'unas',
+  ];
+  const regexSuelto = new RegExp(
+    `<wi type="G" value="3588,(\\d+),[^"]*"(\\s+sacred="yes")?/>[ \\t]*\\n?[ \\t]*(${articulosSuelto.join('|')})(?=[ \\t\\n]|<|$)`,
+    'gi'
+  );
+  resultado = resultado.replace(regexSuelto,
+    (match, pos3588, sacOuter, art) => {
+      const so = sacOuter || '';
+      return `<wi type="G" value="3588,${pos3588},"${so}>${art}</wi>`;
+    });
+
   return resultado;
 }
 
