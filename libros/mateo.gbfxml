@@ -1966,8 +1966,7 @@ Son of God, command that these stones become bread.»
 <wi type="G" value="3588,4,"/><wi type="G" value="4334,2,">vino</wi>
 <wi type="G" value="846,3,"/> y le
 <wi type="G" value="2036,6,">dijo</wi>,
-«
-<wi type="G" value="1487,7,">Si</wi>
+«<wi type="G" value="1487,7,">Si</wi>
 <wi type="G" value="1488,9,">eres</wi>
 <wi type="G" value="5207,8,">el Hijo</wi>
 <wi type="G" value="3588,10,">de</wi>
@@ -1994,8 +1993,7 @@ But he answered,
 but by every word that proceeds out of the mouth of God.´»
 <t xml:lang="es">
 «<wi type="G" value="1125,5,">Está escrito</wi>,
-`
-<wi type="G" value="444,11,">El hombre</wi>
+`<wi type="G" value="444,11,">El hombre</wi>
 <wi type="G" value="3756,6,">no</wi>
 <wi type="G" value="2198,10,">vivirá</wi>
 <wi type="G" value="3441,9,">sólo</wi>
@@ -2046,8 +2044,7 @@ you.´ and,
 <wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="3004,2,">dijo</wi>,
-«
-<wi type="G" value="1487,4,">Si</wi>
+«<wi type="G" value="1487,4,">Si</wi>
 <wi type="G" value="1488,6,">eres</wi>
 <wi type="G" value="5207,5,">el Hijo</wi>
 <wi type="G" value="3588,7,">de</wi>
@@ -2056,8 +2053,7 @@ you.´ and,
 <wi type="G" value="4572,10,"/><wi type="G" value="2736,11,">abajo</wi>
 <wi type="G" value="1063,13,">porque</wi>
 <wi type="G" value="1125,12,">está escrito</wi>,
-`
-<wi type="G" value="3754,14,"/><wi type="G" value="1781,18,">Él dará</wi>
+`<wi type="G" value="3754,14,"/><wi type="G" value="1781,18,">Él dará</wi>
 a
 <wi type="G" value="846,17,">sus</wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="32,16,">ángeles</wi> un
@@ -2098,8 +2094,7 @@ Lord, your God.´»
 <t xml:lang="es">
 «<wi type="G" value="1125,6,">Está escrito</wi>
 <wi type="G" value="3825,5,">también</wi>,
-`
-<wi type="G" value="3756,7,">No</wi>
+`<wi type="G" value="3756,7,">No</wi>
 <wi type="G" value="1598,8,">pondrás a prueba</wi>
 <wi type="G" value="2962,9,">al Señor</wi>,
 <wi type="G" value="4675,12,">tu</wi>
@@ -2144,8 +2139,7 @@ will give you all of these things, if you will fall down and worship me.»
 <wi type="G" value="2532,1,">Y</wi>
 <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="3004,2,">dijo</wi>,
-«
-<wi type="G" value="3956,5,">Todas</wi>
+«<wi type="G" value="3956,5,">Todas</wi>
 <wi type="G" value="5023,4,">estas cosas</wi>
 <wi type="G" value="4671,6,">te</wi>
 <wi type="G" value="1325,7,">daré</wi>,
@@ -2183,8 +2177,7 @@ worship the Lord your God, and him only shall you serve.´»
 <wi type="G" value="4567,7,">Satanás</wi>!
 <wi type="G" value="1063,9,">Porque</wi>
 <wi type="G" value="1125,8,">está escrito</wi>,
-`
-<wi type="G" value="4352,14,">Adorarás</wi>
+`<wi type="G" value="4352,14,">Adorarás</wi>
 <wi type="G" value="2962,10,">al Señor</wi>
 <wi type="G" value="4675,13,">tu</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="2316,12,">Dios</wi>,
@@ -2277,12 +2270,12 @@ fulfilled which was spoken through Isaiah the prophet, saying,
 <wi type="G" value="2443,1,">Para</wi>
 <wi type="G" value="4137,2,">que se cumpliera</wi>
 <wi type="G" value="3588,3,">lo que</wi>
-<wi type="G" value="4483,4,"><wi type="G" value="3004,9,">fue dicho</wi></wi>
+<wi type="G" value="4483,4,">fue dicho</wi>
 <wi type="G" value="1223,5,">por medio</wi>
 de 
 <wi type="G" value="2268,6,">Isaías</wi>
 <wi type="G" value="3588,7,">el</wi>
-<wi type="G" value="4396,8,">profeta</wi>, 
+<wi type="G" value="3004,9,"/><wi type="G" value="4396,8,">profeta</wi>, 
 </t>
 </sv>
 </cm>
@@ -2489,10 +2482,10 @@ them.
 <wi type="G" value="1417,6,">dos</wi>
 <wi type="G" value="80,7,">hermanos</wi>,
 <wi type="G" value="2385,8,">Santiago</wi>
-<wi type="G" value="3588,9,"/> 
-<wi type="G" value="3588,10,"/>
-el hijo 
-<wi type="G" value="2199,11,">de Zebedeo</wi>
+<wi type="G" value="3588,9,">el</wi>
+hijo 
+<wi type="G" value="3588,10,">de</wi>
+<wi type="G" value="2199,11,">Zebedeo</wi>
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="2491,13,">Juan</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="846,16,">su</wi>
