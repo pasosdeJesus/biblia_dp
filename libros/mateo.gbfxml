@@ -2665,10 +2665,7 @@ y
 <citebib id="KJV2003"/> la palabra griega `makarios´ se traduce como bendito o feliz.
 </rf>
 </rb>
-<t xml:lang="es">
-los 
-</t>
-<rb xml:lang="es"><wi type="G" value="3588,2,"/><wi type="G" value="4434,3,">pobres</wi>
+<rb xml:lang="es"><wi type="G" value="3588,2,">los</wi> <wi type="G" value="4434,3,">pobres</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="4151,5,">en espíritu</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `pobres en espíritu,´ <citebib id="DieBibel"/> dice `pobres,´ <citebib id="DiosHablaHoy"/> dice `los que
 reconocen su necesidad espiritual.´
@@ -2823,8 +2820,9 @@ For they shall see God.
 <sv id="Mateo-5-9">
 <fr>Blessed are the peacemakers,
 <t xml:lang="es">
-<wi type="G" value="3107,1,">Benditos</wi> quienes
-<wi type="G" value="3588,2,"/><wi type="G" value="1518,3,">hacen la paz</wi>, 
+<wi type="G" value="3107,1,">Benditos</wi>
+<wi type="G" value="3588,2,">los que</wi>
+<wi type="G" value="1518,3,">hacen la paz</wi>, 
 </t>
 <cl/>
 For they shall be called children of God.
@@ -2869,12 +2867,12 @@ all kinds of evil against you falsely, for my sake.
 <t xml:lang="es">
 <wi type="G" value="3107,1,">Benditos</wi>
 <wi type="G" value="2075,2,">sean ustedes</wi>
-<wi type="G" value="3752,3,">cuando</wi> la gente
+<wi type="G" value="3752,3,">cuando</wi>
 <wi type="G" value="5209,5,">los</wi>
-<wi type="G" value="3679,4,">reproche</wi>,
-<wi type="G" value="2532,6,"/><wi type="G" value="1377,7,">los persiga</wi>,
+<wi type="G" value="3679,4,">reprochen</wi>,
+<wi type="G" value="2532,6,"/><wi type="G" value="1377,7,">los persigan</wi>,
 <wi type="G" value="2532,8,">y</wi>
-<wi type="G" value="2036,9,">diga</wi>
+<wi type="G" value="2036,9,">digan</wi>
 <wi type="G" value="3956,10,">toda clase</wi>
 <wi type="G" value="4190,11,">de maldades</wi>
 <wi type="G" value="4487,12,"/><wi type="G" value="5574,15,">falsamente</wi>
@@ -3016,8 +3014,8 @@ para
 <wi type="G" value="2041,14,">obras</wi>,
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="1392,16,">den gloria</wi>
-<wi type="G" value="3588,17,"/> 
-<wi type="G" value="5216,19,"/> al
+<wi type="G" value="3588,17,">al</wi>
+<wi type="G" value="5216,19,"/>
 <wi type="G" value="3962,18,">Padre</wi>
 <wi type="G" value="3588,20,">que está</wi>
 <wi type="G" value="1722,21,">en</wi>
@@ -3069,7 +3067,7 @@ heaven and earth pass away, not even one
 <wi type="G" value="5213,4,">les</wi>
 <wi type="G" value="3004,3,">digo</wi>,
 <wi type="G" value="2193,5,">hasta</wi>
-<wi type="G" value="302,6,"/> que
+<wi type="G" value="302,6,">que</wi>
 <wi type="G" value="3588,8,"/><wi type="G" value="3588,11,">el</wi>
 <wi type="G" value="3772,9,">cielo</wi>
 <wi type="G" value="2532,10,">y</wi>
@@ -3082,9 +3080,9 @@ de
 </t>
 <rb>smallest letter
 <t xml:lang="es">
-<wi type="G" value="1520,14,"/>
 ni 
-<wi type="G" value="2503,13,"/>la letra más pequeña
+<wi type="G" value="1520,14,">una</wi>
+<wi type="G" value="2503,13,">letra</wi>
 </t><rf>
 literally, iota <t xml:lang="es"> Literalmente iota </t>
 </rf>
@@ -3108,7 +3106,7 @@ away from the law, until all things are accomplished.
 <wi type="G" value="3588,22,">la</wi>
 <wi type="G" value="3551,23,">ley</wi>,
 <wi type="G" value="2193,24,">hasta</wi>
-<wi type="G" value="302,25,"/> que
+<wi type="G" value="302,25,">que</wi>
 <wi type="G" value="3956,26,">todas las cosas</wi>
 <wi type="G" value="1096,27,">estén cumplidas</wi>. 
 </t>
@@ -3133,7 +3131,7 @@ Kingdom of Heaven.
 <wi type="G" value="1321,12,">enseñe</wi>
 <wi type="G" value="3588,14,">a</wi>
 <wi type="G" value="444,15,">otros</wi>
-<wi type="G" value="3779,13,"/> a hacerlo,
+<wi type="G" value="3779,13,">a hacerlo</wi>,
 <wi type="G" value="2564,17,">será llamado</wi>
 <wi type="G" value="1646,16,">pequeño</wi>
 <wi type="G" value="1722,18,">en</wi>
@@ -3167,12 +3165,11 @@ will enter into the Kingdom of Heaven.
 <wi type="G" value="3004,1,">digo</wi>
 <wi type="G" value="3754,4,">que</wi>
 <wi type="G" value="1437,5,">a menos</wi>
-<wi type="G" value="3361,6,"/> que
+<wi type="G" value="3361,6,">que</wi>
 <wi type="G" value="5216,10,">su</wi>
 <wi type="G" value="3588,8,"/><wi type="G" value="1343,9,">justicia</wi>
-<wi type="G" value="4052,7,">exceda</wi> a la
-<wi type="G" value="4119,11,"/> 
-<wi type="G" value="3588,12,">de</wi> 
+<wi type="G" value="4052,7,">exceda</wi>
+<wi type="G" value="4119,11,"/><wi type="G" value="3588,12,">la de</wi> 
 <wi type="G" value="1122,13,">los escribas</wi>
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="5330,15,">fariseos</wi>,
@@ -3249,10 +3246,10 @@ Ni <citebib id="LAT"/>, ni <citebib id="KJV2003"/> incluyen `sin una causa.´
 <wi type="G" value="302,19,"/><wi type="G" value="2036,20,">que le diga</wi>
 <wi type="G" value="3588,21,"/><wi type="G" value="80,22,">a</wi>
 <wi type="G" value="846,23,">su</wi>
-<wi type="GC" value="22">hermano</wi>, `¡</t>
+<wi type="GC" value="22">hermano</wi>, </t>
 <rb>Raca
 <t xml:lang="es">
-<wi type="G" value="4469,24,">Raca</wi>
+`¡<wi type="G" value="4469,24,">Raca</wi>
 </t><rf>
 «Raca» is an Ar amaic insult, related to the word for «empty» and conveying the
 idea of empty-headedness. <t xml:lang="es"> «Raca» es un insulto en Arameo, relacionado con
@@ -3399,7 +3396,7 @@ podría
 <wi type="G" value="3860,26,">entregarte</wi>
 <wi type="G" value="4571,25,"/><wi type="G" value="3588,27,">al</wi>
 <wi type="G" value="5257,28,">oficial</wi>,
-<wi type="G" value="2532,29,">y</wi> tu podrías
+<wi type="G" value="2532,29,">y</wi> tú podrías
 <wi type="G" value="906,32,">ser arrojado</wi>
 <wi type="G" value="1519,30,">a</wi> 
 </t>
@@ -3648,7 +3645,7 @@ completado el matrimonio al vivir en unión libre (concubinato).
 <wi type="G" value="3429,17,">una adúltera</wi>;
 <wi type="G" value="2532,18,">y</wi>
 <wi type="G" value="3739,19,">cualquiera</wi>
-<wi type="G" value="1437,20,"/> que
+<wi type="G" value="1437,20,">que</wi>
 <wi type="G" value="1060,22,">se case</wi>
 <wi type="G" value="630,21,">con ella cuando sea alejada</wi>
 <wi type="G" value="3429,23,">comete adulterio</wi>. 
@@ -3770,9 +3767,9 @@ white or black.
 Whatever is more than these is of the evil one.
 <t xml:lang="es">
 <wi type="G" value="1161,2,">En cambio</wi>
-<wi type="G" value="2077,1,">que</wi>
-<wi type="G" value="5216,5,">tu</wi>
-`<wi type="G" value="3483,6,">Si</wi>´ sea
+que <wi type="G" value="5216,5,">tu</wi>
+`<wi type="G" value="3483,6,">Si</wi>´
+<wi type="G" value="2077,1,">sea</wi>
 `<wi type="G" value="3483,7,">Si</wi>´ y que tu
 <wi type="G" value="3588,3,"/> 
 <wi type="G" value="3056,4,"/>

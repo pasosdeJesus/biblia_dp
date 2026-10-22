@@ -1,10 +1,16 @@
 #!/usr/bin/env node
 // -*- coding: utf-8 -*-
-// Analiza la profundidad máxima de anidación de <wi> en archivos GBF
+// Analiza la anidación de <wi> en archivos GBF, listando los versículos
+// que contienen <wi> anidados (un <wi> dentro de otro <wi>).
+//
+// Uso:
+//   node herram/analizar-anidacion.mjs           (todo el NT)
+//   node herram/analizar-anidacion.mjs mateo     (un libro)
 
 import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
+import { DOMParser } from '@xmldom/xmldom'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
@@ -16,105 +22,97 @@ const NT_BOOKS = [
   'pedro2', 'juan1', 'juan2', 'juan3', 'judas', 'apocalipsis'
 ]
 
-/**
- * Calcula la profundidad máxima de anidación de <wi> dentro de cada versículo
- */
-function findMaxWiNestingDepth(content) {
-  let maxDepthOverall = 0
-  let currentDepth = 0
-  
-  // Dividir por versículos (etiquetas <sv)
-  const svBlocks = content.match(/<sv id="[^"]+"[^>]*>[\s\S]*?<\/sv>/g) || []
-  
-  for (const block of svBlocks) {
-    let depth = 0
-    let maxInVerse = 0
-    let i = 0
-    const len = block.length
-    
-    while (i < len) {
-      // Buscar apertura <wi
-      if (block[i] === '<' && block[i+1] === 'w' && block[i+2] === 'i') {
-        // Verificar que no es cierre
-        if (block[i+3] !== '/') {
-          depth++
-          if (depth > maxInVerse) maxInVerse = depth
-          i += 3
-          continue
-        }
-      }
-      
-      // Buscar cierre </wi>
-      if (block[i] === '<' && block[i+1] === '/' && block[i+2] === 'w' && block[i+3] === 'i' && block[i+4] === '>') {
-        depth--
-        i += 5
-        continue
-      }
-      
-      i++
-    }
-    
-    if (maxInVerse > maxDepthOverall) {
-      maxDepthOverall = maxInVerse
-    }
-  }
-  
-  return maxDepthOverall
+function childNodesArr(el) {
+  const arr = []
+  for (let i = 0; i < el.childNodes.length; i++) arr.push(el.childNodes[i])
+  return arr
 }
 
 /**
- * Analiza un archivo
+ * Encuentra <wi> anidados en un <sv>: pares { outer, inner } donde un <wi>
+ * contiene directamente a otro <wi>.
  */
+function findNestedWi(sv) {
+  const nested = []
+  function walk(n) {
+    if (n.nodeType !== 1) return
+    if (n.tagName === 'wi') {
+      const value = n.getAttribute('value') || ''
+      for (const c of childNodesArr(n)) {
+        if (c.nodeType === 1 && c.tagName === 'wi') {
+          nested.push({ outer: value, inner: c.getAttribute('value') || '' })
+        }
+      }
+    }
+    for (const c of childNodesArr(n)) walk(c)
+  }
+  walk(sv)
+  return nested
+}
+
 function analyzeFile(filepath, bookName) {
-  if (!fs.existsSync(filepath)) {
+  if (!fs.existsSync(filepath)) return null
+  const content = fs.readFileSync(filepath, 'utf-8')
+  let doc
+  try {
+    doc = new DOMParser().parseFromString(content, 'application/xml')
+  } catch (e) {
+    console.error(`  Error parseando ${filepath}: ${e.message}`)
     return null
   }
-  
-  const content = fs.readFileSync(filepath, 'utf-8')
-  const maxDepth = findMaxWiNestingDepth(content)
-  
-  // Contar tags totales
-  const wiCount = (content.match(/<wi/g) || []).length
-  const closeWiCount = (content.match(/<\/wi>/g) || []).length
-  
-  return { book: bookName, maxDepth, wiCount, closeWiCount }
+
+  const verses = []
+  const svElements = doc.getElementsByTagName('sv')
+  for (let i = 0; i < svElements.length; i++) {
+    const sv = svElements[i]
+    const nested = findNestedWi(sv)
+    if (nested.length > 0) {
+      verses.push({ id: sv.getAttribute('id') || '', nested })
+    }
+  }
+  return { book: bookName, verses }
 }
 
 function main() {
-  console.log('='.repeat(60))
+  const args = process.argv.slice(2)
+  const books = args.length > 0 ? args : NT_BOOKS
+
+  console.log('='.repeat(70))
   console.log('  ANÁLISIS DE ANIDACIÓN DE <wi> POR VERSÍCULO')
-  console.log('='.repeat(60))
-  console.log()
-  
-  const results = []
-  let maxOverall = 0
-  let maxBook = ''
-  
-  for (const book of NT_BOOKS) {
-    const filepath = path.join(__dirname, '..', `${book}.gbfxml`)
+  console.log('='.repeat(70))
+
+  let totalVerses = 0
+  let totalNested = 0
+
+  for (const book of books) {
+    const filepath = path.join(__dirname, '..', 'libros', `${book}.gbfxml`)
     const result = analyzeFile(filepath, book)
-    if (result) {
-      results.push(result)
-      if (result.maxDepth > maxOverall) {
-        maxOverall = result.maxDepth
-        maxBook = book
+    if (!result) {
+      console.log(`\n${book}: archivo no encontrado o inválido`)
+      continue
+    }
+
+    if (result.verses.length === 0) continue
+
+    console.log(`\n📖 ${book} (${result.verses.length} versículo(s)):`)
+    for (const v of result.verses) {
+      console.log(`  ${v.id}:`)
+      for (const n of v.nested) {
+        console.log(`    <wi value="${n.outer}"> contiene <wi value="${n.inner}">`)
+        totalNested++
       }
+      totalVerses++
     }
   }
-  
-  console.log('📊 RESULTADOS:\n')
-  console.log('  Libro'.padEnd(20) + 'Profundidad'.padEnd(15) + 'Tags <wi>'.padEnd(12) + 'Cierre')
-  console.log('  ' + '-'.repeat(60))
-  
-  for (const r of results) {
-    const depthMarker = r.maxDepth > 0 ? '█'.repeat(Math.min(r.maxDepth, 10)) + ' ' + r.maxDepth : '0'
-    console.log(`  ${r.book.padEnd(20)} ${depthMarker.padEnd(15)} ${r.wiCount.toString().padEnd(12)} ${r.closeWiCount}`)
-  }
-  
+
   console.log()
-  console.log('='.repeat(60))
-  console.log(`📈 PROFUNDIDAD MÁXIMA EN TODO EL NT: ${maxOverall} (en ${maxBook})`)
-  console.log('='.repeat(60))
+  console.log('='.repeat(70))
+  if (totalVerses === 0) {
+    console.log('✅ No se encontraron <wi> anidados.')
+  } else {
+    console.log(`📈 Total: ${totalVerses} versículo(s) con ${totalNested} <wi> anidado(s).`)
+  }
+  console.log('='.repeat(70))
 }
 
 main()

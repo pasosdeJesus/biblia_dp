@@ -175,8 +175,8 @@ function structuralWarnings(sv) {
   return warns
 }
 
-// Advertencias de etiquetado: <wi> anidados y <wi> vacíos seguidos de texto
-// español sin etiquetar (sugiere mapeo Strong roto o palabra sin marcar).
+// Advertencias de etiquetado: <wi> vacíos seguidos de texto español sin
+// etiquetar (sugiere mapeo Strong roto o palabra sin marcar).
 const SKIP_VACIO = new Set(['3588', '846', '2532', '1161', '1063', '3754', '3767', '235'])
 
 function tagWarnings(sv) {
@@ -188,10 +188,7 @@ function tagWarnings(sv) {
       const value = n.getAttribute('value') || ''
       const m = value.match(/^[A-Za-z]*(\d+),(\d+),?/)
       const strong = m ? m[1] : ''
-      const hasWiChild = childNodesArr(n).some(c => c.nodeType === 1 && c.tagName === 'wi')
-      if (hasWiChild) {
-        warns.push(`<wi> anidado (revisar mapeo Strong): value="${value}"`)
-      } else if (!textOf(n).trim()) {
+      if (!textOf(n).trim()) {
         const next = n.nextSibling
         if (next && next.nodeType === 3) {
           const t = next.nodeValue.replace(/\s+/g, ' ').trim()
