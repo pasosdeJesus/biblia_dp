@@ -2316,12 +2316,50 @@ el <wi type="G" value="1228,7,">diablo</wi>,
 Withstand
 him steadfast in your faith, knowing that your brothers who are in the world
 are undergoing the same sufferings.
+<t xml:lang="es"><wi type="G" value="3739,1,"/><wi type="G" value="436,2,">Resístanlo</wi>
+<wi type="G" value="4731,3,">continuamente</wi>
+<wi type="G" value="3588,4,">en la</wi>
+<wi type="G" value="4102,5,">fe</wi>,
+<wi type="G" value="1492,6,">sabiendo</wi> que
+<wi type="G" value="5216,14,">sus</wi>
+<wi type="G" value="81,15,">hermanos</wi>
+<wi type="G" value="1722,12,">en</wi>
+<wi type="G" value="3588,11,">el</wi>
+<wi type="G" value="2889,13,">mundo</wi>
+<wi type="G" value="2005,16,">están bajo</wi>
+<wi type="G" value="3588,7,">los</wi>
+<wi type="G" value="846,8,">mismos</wi>
+<wi type="G" value="3588,9,"/><wi type="G" value="3804,10,">sufrimientos</wi>.
+</t>
 </sv>
 
 <sv id="b1_Peter-5-10">
 But may the God of all grace, who
 called you to his eternal glory by Christ Jesus, after you have suffered a
 little while, perfect, establish, strengthen, and settle you.
+<t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi> 
+<wi type="G" value="3588,1,">que</wi>
+<wi type="G" value="2316,3,">el Dios</wi>
+<wi type="G" value="3956,4,">de toda</wi>
+<wi type="G" value="5485,5,">gracia</wi>,
+<wi type="G" value="3588,6,">que</wi>
+<wi type="G" value="2248,8,">nos</wi>
+<wi type="G" value="2564,7,">ha llamado</wi>
+<wi type="G" value="1519,9,">a</wi>
+<wi type="G" value="846,12,">su</wi>
+<wi type="G" value="1391,13,">gloria</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="166,11,">eterna</wi>
+<wi type="G" value="1722,14,">por</wi>
+<wi type="G" value="5547,15,">Cristo</wi>
+<wi type="G" value="2424,16,">Jesús</wi>,
+<wi type="G" value="3958,18,">después de que hayan sufrido</wi>
+<wi type="G" value="3641,17,">un tiempo</wi>,
+<wi type="G" value="5209,21,">los</wi>
+<wi type="G" value="846,19,"/><wi type="G" value="2675,20,">perfeccione</wi>,
+<wi type="G" value="4741,22,">establezca</wi>,
+<wi type="G" value="4599,23,">fortalezca</wi>
+y <wi type="G" value="2311,24,">sostenga</wi>.
+</t>
 </sv>
 
 <sv id="b1_Peter-5-11">
