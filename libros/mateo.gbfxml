@@ -4876,9 +4876,7 @@ You can´t serve both God and Mammon.
 <citebib id="Peshitta"/> dice `al dinero,´ <citebib id="KJV2003"/> dice `mammon.´
 </rf>
 </rb>
-<t xml:lang="es">
-.
-<wi type="G" value="3126,28,"/>
+<t xml:lang="es">.
 </t>
 </fr>
 </sv>
@@ -5200,8 +5198,7 @@ propios de cada
 <t xml:lang="es">
 «<wi type="G" value="3361,1,">No</wi>
 <wi type="G" value="2919,2,">juzguen</wi>
-<wi type="G" value="2443,3,"/>
-y 
+<wi type="G" value="2443,3,">y</wi>
 <wi type="G" value="3361,4,">no</wi>
 <wi type="G" value="2919,5,">serán juzgados</wi>. 
 </t>
@@ -5279,9 +5276,9 @@ speck from your eye;´ and behold, the beam is in your own eye?
 <wi type="G" value="3588,12,"/><wi type="G" value="3788,13,">de</wi>
 <wi type="G" value="4675,14,">tu</wi>
 <wi type="GC" value="13">ojo</wi>;´
-<wi type="G" value="2532,15,"/> 
-<wi type="G" value="2400,16,"/>
-cuando ocurre que
+<wi type="G" value="2532,15,">y</wi>
+<wi type="G" value="2400,16,">he aquí</wi>
+que
 <wi type="G" value="3588,17,">la</wi>
 <wi type="G" value="1385,18,">viga</wi> está
 <wi type="G" value="1722,19,">en</wi>
@@ -5578,10 +5575,11 @@ es
 <wi type="G" value="1519,11,">a</wi>
 <wi type="G" value="3588,12,">la</wi>
 <wi type="G" value="2222,13,">vida</wi>!
-<wi type="G" value="2532,14,">Y</wi> son
+<wi type="G" value="2532,14,">Y</wi>
+<wi type="G" value="1526,16,">son</wi>
 <wi type="G" value="3641,15,">pocos</wi>
-<wi type="G" value="1526,16,"/> los que
-<wi type="G" value="3588,17,"/><wi type="G" value="846,19,">lo</wi>
+<wi type="G" value="3588,17,">los</wi> que
+<wi type="G" value="846,19,">lo</wi>
 <wi type="G" value="2147,18,">encuentran</wi>. 
 </t>
 <cl/>
