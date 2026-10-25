@@ -2411,11 +2411,35 @@ lo <wi type="G" value="3049,8,">considero</wi>, les
 <sv id="b1_Peter-5-13">
 She who is in Babylon, chosen together
 with you, greets you; and so does Mark, my son.
+<t xml:lang="es"><wi type="G" value="3588,3,">La</wi> iglesia 
+<wi type="G" value="1722,4,">en</wi> 
+<wi type="G" value="897,5,">Babilonia</wi>, 
+<wi type="G" value="4899,6,">elegida junto con</wi> ustedes,
+<wi type="G" value="5209,2,">los</wi> 
+<wi type="G" value="782,1,">saluda</wi>, 
+<wi type="G" value="2532,7,">y</wi> también
+<wi type="G" value="3138,8,">Marcos</wi>, 
+<wi type="G" value="3450,11,">mi</wi> 
+<wi type="G" value="3588,9,"/><wi type="G" value="5207,10,">hijo</wi>. </t>
 </sv>
 
 <sv id="b1_Peter-5-14">
 Greet one another with
 a kiss of love. Peace be to you all who are in Christ Jesus. Amen.
+<t xml:lang="es"><wi type="G" value="782,1,">Salúdense</wi> 
+<wi type="G" value="240,2,">unos a otros</wi> 
+<wi type="G" value="1722,3,">con</wi> 
+<wi type="G" value="5370,4,">un beso</wi> 
+<wi type="G" value="26,5,">fraterno</wi>.
+<wi type="G" value="1515,6,">Paz</wi> 
+sea 
+<wi type="G" value="5213,7,">con ustedes</wi> 
+<wi type="G" value="3956,8,">todos</wi> 
+<wi type="G" value="3588,9,">los que</wi> están 
+<wi type="G" value="1722,10,">en</wi> 
+<wi type="G" value="5547,11,">Cristo</wi> 
+<wi type="G" value="2424,12,">Jesús</wi>. 
+<wi type="G" value="281,13,">Amén</wi>.</t>
 <cl/>
 <cl/>
 </sv>
