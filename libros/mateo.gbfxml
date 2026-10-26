@@ -702,7 +702,6 @@ lo <wi type="G" value="2564,14,">llamó</wi>
 <sc id="Mateo-2">
 
 <cm>
-
 <sv id="Mateo-2-1">
 Now when Jesus was born in Bethlehem of Judea in the days of Herod
 the king, behold,
@@ -6682,6 +6681,8 @@ great calm.
 <wi type="G" value="3173,19,">una gran</wi>
 <wi type="G" value="1055,18,">calma</wi>. 
 </t>
+</sv>
+</cm>
 <cm>
 
 <sv id="Mateo-8-27">
@@ -6804,8 +6805,8 @@ The demons begged him, saying,
 </t>
 </sv>
 </cm>
-<cm>
 
+<cm>
 <sv id="Mateo-8-32">
 He said to them,
 <t xml:lang="es">
@@ -6849,6 +6850,7 @@ que
 <wi type="G" value="3588,31,">las</wi>
 <wi type="G" value="5204,32,">aguas</wi>. 
 </t>
+</sv>
 <sv id="Mateo-8-33">
 Those who fed them fled, and went away into the city, and told everything,
 including what happened to those who were possessed with demons.
@@ -6889,6 +6891,8 @@ begged that he would depart from their borders.
 <wi type="G" value="3725,19,">región</wi>. 
 </t>
 </sv>
+</cm>
+</sc>
 <sc id="Mateo-9">
 <cm>
 <sv id="Mateo-9-1">
@@ -17440,6 +17444,7 @@ beginning made them male and female,
 <wi type="G" value="2338,15,">mujer</wi>, 
 </t>
 </fr>
+</sv>
 <sv id="Mateo-19-5">
 <fr>
 and said, `For this cause a man
@@ -17493,6 +17498,7 @@ What therefore God has joined together, don´t let man tear apart.»
 </t>
 </fr>
 </sv>
+</cm>
 <cm>
 <sv id="Mateo-19-7">
 They asked him, «Why then did Moses command us to give her a bill of
@@ -18195,6 +18201,7 @@ But many will be last who are first; and first who are last.
 </fr>
 </sv>
 </cm>
+</sc>
 <sc id="Mateo-20">
 <cm>
 <sv id="Mateo-20-1">
@@ -26041,6 +26048,7 @@ Jesus said to him,
 <wi type="G" value="846,20,">lo</wi>
 <wi type="G" value="2902,19,">atraparon</wi>. 
 </t>
+</sv>
 <sv id="Mateo-26-51">
 Behold, one of those who were
 with Jesus stretched out his hand, and drew his sword, and struck the servant
@@ -26137,6 +26145,7 @@ How then would the Scriptures be fulfilled that it must be so?»
 </t>
 </fr>
 </sv>
+</cm>
 <cm>
 <sv id="Mateo-26-55">
 In that hour Jesus said to the multitudes,
@@ -26659,6 +26668,7 @@ went out and wept bitterly.
 </t>
 </sv>
 </cm>
+</sc>
 <sc id="Mateo-27">
 <cm>
 <sv id="Mateo-27-1">
@@ -28212,7 +28222,6 @@ que
 <wi type="G" value="3588,32,"/><wi type="G" value="4413,33,">que el primero</wi>.» 
 </t>
 </sv>
-</cm><cm>
 <sv id="Mateo-27-65">
 Pilate said to them, «You have a guard.
 Go, make it as secure as you can.»
@@ -28230,6 +28239,8 @@ y
 <wi type="G" value="1492,11,">puedan</wi>.» 
 </t>
 </sv>
+</cm>
+<cm>
 <sv id="Mateo-27-66">
 So they went with the guard and made the tomb secure,
 sealing the stone.
@@ -28771,17 +28782,6 @@ you always, even to the end of the age.»
 <t xml:lang="es">
 <wi type="G" value="281,22,">Amén</wi>.
 </t>
-</sv>
-</cm>
-</sc>
-</sv>
-</cm>
-</sc>
-</sv>
-</cm>
-</sc>
-</sv>
-</cm>
 </sv>
 </cm>
 </sc>
