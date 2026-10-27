@@ -2,7 +2,7 @@
 
 <sb id="b1_Peter" type="" xml:lang="">
 
-<tt>Peter´s First Letter<t xml:lang="es"/></tt>
+<tt>Peter´s First Letter<t xml:lang="es">Primera carta de Pedro</t></tt>
 
 <sc id="b1_Peter-1">
 
@@ -32,7 +32,7 @@ versículo 1.
 <wi type="G" value="2587,10,">Capadocia</wi>,
 <wi type="G" value="773,11,">Asia</wi>
 <wi type="G" value="2532,12,">y</wi>
-<wi type="G" value="978,13,">Bitinia</wi>.
+<wi type="G" value="978,13,">Bitinia</wi>,
 </t>
 </sv>
 
@@ -93,7 +93,7 @@ from the dead,
 <wi type="G" value="2424,24,">de Jesús</wi>
 <wi type="G" value="5547,25,">Cristo</wi>
 <wi type="G" value="1537,26,">de</wi>
-<wi type="G" value="3498,27,">los muertos</wi>.
+<wi type="G" value="3498,27,">los muertos</wi>,
 </t>
 </sv>
 
@@ -307,7 +307,8 @@ out from heaven; which things angels desire to look into.
 Therefore,
 <t xml:lang="es"><wi type="G" value="1352,1,">Entonces</wi></t>
 <rb>prepare your minds for action,
-<t xml:lang="es"><wi type="G" value="328,2,">ciñan</wi>
+<t xml:lang="es">
+<wi type="G" value="328,2,">ciñan</wi>
 <wi type="G" value="3588,3,">los</wi>
 <wi type="G" value="3751,4,">lomos</wi>
 <wi type="G" value="5216,7,">de su</wi>
@@ -315,7 +316,7 @@ Therefore,
 </t><rf>
 Literally, «gird up the waist of your mind» <t xml:lang="es">
 <citebib id="WEB"/> traduce `preparen su mente para la acción,´
-con nota al pie `Literalmente «ciñan los lomos de tu mente.»´</t>
+con nota al pie `Literalmente «ciñan los lomos de su mente.»´</t>
 </rf>
 </rb>
  be sober and set your hope fully on the grace
@@ -375,7 +376,7 @@ you
 because it is
 written, «You
 <wi type="T" value="P"/> shall be holy; for I am holy.»
-<t xml:lang="es"><wi type="G" value="1360,1,">Porque</wi>
+<t xml:lang="es"><wi type="G" value="1360,1,">porque</wi>
 <wi type="G" value="1125,2,">está escrito</wi>,
 «<wi type="G" value="1096,4,">Sean</wi>
 <wi type="G" value="40,3,">santos</wi>
