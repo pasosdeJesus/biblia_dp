@@ -653,7 +653,7 @@ tasted that the Lord is gracious:
 <wi type="G" value="3754,3,">que</wi>
 <wi type="G" value="3588,5,">el</wi>
 <wi type="G" value="2962,6,">Señor</wi>
-<wi type="G" value="5543,4,">tiene gracia</wi> </t>
+<wi type="G" value="5543,4,">tiene gracia</wi>: </t>
 </sv>
 
 <sv id="b1_Peter-2-4">
@@ -1082,7 +1082,8 @@ dice `dejandolos,´ pero
 </rb>
  an example, that you
 <wi type="T" value="P"/> should follow his steps,
-<t xml:lang="es"><wi type="G" value="5261,13,">ejemplo</wi>,
+<t xml:lang="es">
+<wi type="G" value="5261,13,">ejemplo</wi>,
 <wi type="G" value="2443,14,">para</wi>
 <wi type="G" value="1872,15,">seguir</wi>
 <wi type="G" value="846,18,">Sus</wi>
@@ -1181,7 +1182,8 @@ superintendente, en la iglesia obispo.
 </rf>
 </rb>
 of your souls.
-<t xml:lang="es"><wi type="G" value="5216,16,">de sus</wi>
+<t xml:lang="es">
+<wi type="G" value="5216,16,">de sus</wi>
 <wi type="G" value="3588,14,"/><wi type="G" value="5590,15,">almas</wi>.</t>
 <cl/>
 </sv>
