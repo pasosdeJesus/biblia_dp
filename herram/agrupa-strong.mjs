@@ -83,9 +83,13 @@ function procesarLi(liHtml) {
     return `<li>\n${nameAnchor}${numStr}: ${word} ${g.links.join(', ')}\n</li>`;
   }
 
-  const sorted = [...grupos.entries()].sort((a, b) =>
-    a[0].localeCompare(b[0], 'es')
-  );
+  // Ordenar traducciones por número de usos (descendente); ante empate,
+  // alfabéticamente.
+  const sorted = [...grupos.entries()].sort((a, b) => {
+    const d = b[1].links.length - a[1].links.length;
+    if (d !== 0) return d;
+    return a[0].localeCompare(b[0], 'es');
+  });
 
   let subHtml = `<ul>\n`;
   for (const [key, g] of sorted) {
