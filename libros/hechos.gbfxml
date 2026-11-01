@@ -1529,9 +1529,9 @@ For David didn´t ascend into the heavens, but he says himself,
 `The Lord said to my Lord, «Sit by my right hand,
 <t xml:lang="es">`<wi type="G" value="2962,13,">El Señor</wi>
 <wi type="G" value="3588,12,"/><wi type="G" value="2036,11,">le dijo</wi>
-<wi type="G" value="3588,14,"/><wi type="G" value="2962,15,">a</wi>
+<wi type="G" value="3588,14,">a</wi>
 <wi type="G" value="3450,16,">mi</wi>
-<wi type="GC" value="15">Señor</wi>,
+<wi type="G" value="2962,15,">Señor</wi>,
 «<wi type="G" value="2521,17,">Siéntate</wi>
 <wi type="G" value="1537,18,">a</wi>
 <wi type="G" value="3450,20,">mi</wi>
@@ -2196,9 +2196,9 @@ through him has
 given him this perfect soundness in the presence of you all.
 <t xml:lang="es"><wi type="G" value="2532,1,"/><wi type="G" value="1909,2,">Por</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="4102,4,">fe</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="3686,6,">en</wi>
+<wi type="G" value="3588,5,">en</wi>
 <wi type="G" value="846,7,">su</wi>
-<wi type="GC" value="6">nombre</wi>,
+<wi type="G" value="3686,6,">nombre</wi>,
 <wi type="G" value="846,16,">su</wi>
 <wi type="G" value="3686,15,">nombre</wi>
 <wi type="G" value="4732,13,">ha hecho fuerte</wi> a
@@ -5732,9 +5732,9 @@ back in their hearts to Egypt,
 <wi type="G" value="1096,5,"/><wi type="G" value="235,9,">sino</wi> que lo
 <wi type="G" value="683,10,">rechazaron</wi>,
 <wi type="G" value="2532,11,">y</wi>
-<wi type="G" value="3588,13,"/><wi type="G" value="2588,14,">en</wi>
+<wi type="G" value="3588,13,">en</wi>
 <wi type="G" value="846,15,">sus</wi>
-<wi type="GC" value="14">corazones</wi>
+<wi type="G" value="2588,14,">corazones</wi>
 <wi type="G" value="4762,12,">dieron vuelta</wi>
 <wi type="G" value="1519,16,">hacia</wi>
 <wi type="G" value="125,17,">Egipto</wi>, </t>
@@ -6669,7 +6669,7 @@ money!
 <wi type="G" value="2036,3,">dijo</wi>,
 «¡<wi type="G" value="4675,8,">Tu</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="694,7,">dinero</wi>
-<wi type="G" value="1498,11,"/><wi type="G" value="1519,12,"></wi>
+<wi type="G" value="1498,11,"/><wi type="G" value="1519,12,"/>
 <wi type="G" value="684,13,">perezca</wi>
 <wi type="G" value="4862,9,"><wi type="G" value="4671,10,">contigo</wi></wi>,
 <wi type="G" value="3754,14,">porque</wi>

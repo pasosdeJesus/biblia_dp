@@ -4,6 +4,7 @@
 import fs from 'fs';
 import { fileURLToPath } from 'url';
 import path from 'path';
+import { DOMParser } from '@xmldom/xmldom';
 import { parseSpaTdp } from './lib/parsers/spatdp-parser.js';
 import { parseKjv2003 } from './lib/parsers/kjv2003-parser.js';
 import { parseWlc } from './lib/parsers/wlc-parser.js';
@@ -48,6 +49,98 @@ function validateBookFormat(bookLower, bookInfo) {
   if (!hasIssues) {
     console.log("  Sin problemas de formato.");
   }
+}
+
+// --- Validación de sustantivos etiquetados con palabra funcional ---
+// Detecta <wi value="N,pos,">palabra-funcional</wi> cuando N es un sustantivo,
+// p. ej. <wi value="5590,8,">por</wi> (ψυχή «vida/alma») o
+// <wi value="11,18,">de</wi> (Ἀβραάμ «Abraham»). El artículo o preposición
+// no debería ser el contenido de un <wi> cuyo Strong es un sustantivo.
+const FUNCION_ETIQUETA = new Set(['de', 'del', 'el', 'la', 'lo', 'los', 'las', 'a', 'al', 'un', 'una', 'unos', 'unas', 'por', 'para', 'en', 'con', 'sin', 'sobre', 'hacia', 'según', 'contra', 'desde', 'hasta', 'entre', 'ante', 'tras', 'mediante', 'durante']);
+
+function childNodesArr(el) {
+  const a = [];
+  for (let i = 0; i < el.childNodes.length; i++) a.push(el.childNodes[i]);
+  return a;
+}
+
+function textOfWi(node) {
+  const p = [];
+  function w(x) {
+    if (x.nodeType === 3) { p.push(x.nodeValue); return; }
+    if (x.nodeType !== 1) return;
+    if (x.tagName === 'rf') return;
+    for (const c of childNodesArr(x)) w(c);
+  }
+  w(node);
+  return p.join('');
+}
+
+// Mapa Strong → morfologías, construido una vez desde KJV OSIS.
+let strongMorphMap = null;
+function buildStrongMorphMap() {
+  if (strongMorphMap) return strongMorphMap;
+  strongMorphMap = new Map();
+  const dir = path.join(__dirname, '..', 'ref', 'sword_kjv');
+  for (const f of fs.readdirSync(dir).filter(f => f.endsWith('.osis.xml'))) {
+    const text = fs.readFileSync(path.join(dir, f), 'utf-8');
+    const re = /<w\b([^>]*?)(?:\/>|>)/g;
+    let m;
+    while ((m = re.exec(text))) {
+      const lm = m[1].match(/lemma="([^"]*)"/);
+      const mo = m[1].match(/morph="robinson:([^"]*)"/);
+      if (!lm || !mo) continue;
+      const strongs = [...lm[1].matchAll(/strong:G(\d+)/g)].map(x => x[1]);
+      const codes = mo[1].split(/\s+/).map(s => s.replace(/^robinson:/, '')).filter(Boolean);
+      if (strongs.length !== codes.length) continue; // apareo posicional defensivo
+      strongs.forEach((g, i) => {
+        if (!strongMorphMap.has(g)) strongMorphMap.set(g, new Set());
+        strongMorphMap.get(g).add(codes[i]);
+      });
+    }
+  }
+  return strongMorphMap;
+}
+
+function isNounStrong(strong) {
+  const ms = buildStrongMorphMap().get(strong);
+  if (!ms) return false;
+  return [...ms].every(m => m === 'ARAM' || /^N-/.test(m));
+}
+
+function validateArticleTagging(bookLower, bookInfo) {
+  const bookFilepath = path.join(__dirname, '..', `libros/${bookLower}.gbfxml`);
+  if (!fs.existsSync(bookFilepath)) return 0;
+
+  const doc = new DOMParser().parseFromString(fs.readFileSync(bookFilepath, 'utf-8'), 'application/xml');
+  const wis = doc.getElementsByTagName('wi');
+  const found = [];
+
+  for (let i = 0; i < wis.length; i++) {
+    const wi = wis[i];
+    if (wi.getAttribute('type') !== 'G') continue;
+    const value = wi.getAttribute('value') || '';
+    const m = value.match(/^[A-Za-z]*(\d+),(\d+),?/);
+    if (!m) continue;
+    const strong = m[1];
+    const txt = textOfWi(wi).replace(/\s+/g, ' ').trim().toLowerCase();
+    if (!FUNCION_ETIQUETA.has(txt)) continue;
+    if (!isNounStrong(strong)) continue;
+    let sv = null, cur = wi;
+    while (cur) {
+      if (cur.tagName === 'sv') { sv = cur.getAttribute('id'); break; }
+      cur = cur.parentNode;
+    }
+    found.push(`  [${sv || '?'}] <wi G${strong}> etiqueta «${txt}» (sustantivo mal etiquetado)`);
+  }
+
+  console.log(`\n--- Validación de sustantivos etiquetados con palabra funcional: ${bookInfo.display} ---`);
+  if (found.length === 0) {
+    console.log('  Sin problemas.');
+  } else {
+    found.forEach(f => console.log(f));
+  }
+  return found.length;
 }
 
 // --- Concordance Analysis ---
@@ -175,7 +268,7 @@ async function analyzeBookConcordance(bookLower, targetChapter, targetVerse) {
 async function main() {
   const args = process.argv.slice(2);
   const validationModeArg = args.find(arg => arg.startsWith('--modo-de-validacion='));
-  const validationMode = validationModeArg ? validationModeArg.split('=')[1] : 'concordancia';
+  const validationMode = validationModeArg ? validationModeArg.split('=')[1] : 'todo';
   
   const booksToValidate = args.filter(arg => !arg.startsWith('--'));
   const ntOnly = args.includes('--nt');
@@ -198,12 +291,17 @@ async function main() {
   // Cargar excepciones al inicio
   loadExceptions();
 
+  let grandTotalArticle = 0;
+
   if (validationMode === 'formato' || validationMode === 'todo') {
     const booksToProcess = targetBook ? [targetBook] : Object.keys(BOOK_MAP);
     const filtered = ntOnly ? booksToProcess.filter(b => BOOK_MAP[b]?.strongType === 'G') : booksToProcess;
     for (const book of filtered) {
       const bookInfo = BOOK_MAP[book];
-      if (bookInfo) validateBookFormat(book, bookInfo);
+      if (bookInfo) {
+        validateBookFormat(book, bookInfo);
+        grandTotalArticle += validateArticleTagging(book, bookInfo);
+      }
     }
   }
   
@@ -244,6 +342,7 @@ async function main() {
     console.log(`Versículos sin traducir: ${grandTotalUntranslated}`);
     console.log(`Excepciones documentadas: ${grandTotalExceptions}`);
     console.log(`Discrepancias reales: ${grandTotalMismatches}`);
+    console.log(`Sustantivos etiquetados con palabra funcional: ${grandTotalArticle}`);
     if (booksWithIssues.size > 0) {
       console.log(`  (Problemas encontrados en: ${Array.from(booksWithIssues).join(', ')})`);
     }
