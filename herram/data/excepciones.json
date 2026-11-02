@@ -203,5 +203,13 @@
    "13": {
       "20": { "missingKjv2003": ["G3588-1"], "reason": "SpaTDP correctly includes the article [τοῦ] based on Textus Receptus." }
     }
+  },
+  "pedro1": {
+    "1": {
+      "1": {
+        "missingKjv2003": ["G1588-5"],
+        "reason": "SpaTDP sigue el TR, que tiene ἐκλεκτός (G1588) como quinta palabra del v. 1. La base KJV2003 la ubica en el versículo siguiente."
+      }
+    }
   }
 }
