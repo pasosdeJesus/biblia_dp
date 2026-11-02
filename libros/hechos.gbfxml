@@ -1195,7 +1195,7 @@ on the name of the Lord will be saved.´
 <t xml:lang="es">
 <wi type="G" value="3588,7,">el</wi>
 <wi type="G" value="3686,8,">nombre</wi>
-<wi type="G" value="2962,9,">del</wi> Señor
+del <wi type="G" value="2962,9,">Señor</wi>
 <wi type="G" value="4982,10,">será salvado</wi>.´ </t>
 </sv></cm><cm>
 
@@ -1662,10 +1662,10 @@ will call to himself.»
 With many other words he testified, and exhorted
 them, saying, «Save yourselves from this crooked generation!»
 <t xml:lang="es"><wi type="G" value="5037,2,">Y</wi>
-<wi type="G" value="3056,3,">con</wi>
+con
 <wi type="G" value="4119,4,">muchas</wi>
 <wi type="G" value="2087,1,">otras</wi>
-<wi type="GC" value="3">palabras</wi>
+<wi type="G" value="3056,3,">palabras</wi>
 <wi type="G" value="1263,5,">él dio testimonio</wi>,
 <wi type="G" value="2532,6,">y</wi>
 los <wi type="G" value="3870,7,">exhortó</wi>,
@@ -4087,9 +4087,9 @@ The God of our fathers raised up Jesus, whom you
 killed, hanging him on a tree.
 <t xml:lang="es"><wi type="G" value="3588,1,">El</wi>
 <wi type="G" value="2316,2,">Dios</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="3962,4,">de</wi>
+<wi type="G" value="3588,3,">de</wi>
 <wi type="G" value="2257,5,">nuestros</wi>
-<wi type="GC" value="3">padres</wi>,
+<wi type="G" value="3962,4,">padres</wi>,
 <wi type="G" value="1453,6,">resucitó</wi> a
 <wi type="G" value="2424,7,">Jesús</wi>, a
 <wi type="G" value="3739,8,">quien</wi>
@@ -4392,7 +4392,7 @@ preaching Jesus, the Christ.
 <wi type="G" value="2532,13,">y</wi>
 <wi type="G" value="2097,14,">predicar</wi>
 sobre <wi type="G" value="2424,15,">Jesús</wi>,
-<wi type="G" value="3588,16,"/><wi type="G" value="5547,17,">el</wi> Cristo. </t>
+<wi type="G" value="3588,16,">el</wi> <wi type="G" value="5547,17,">Cristo</wi>. </t>
 
 <cl/>
 
@@ -6176,9 +6176,9 @@ But they cried out with a loud voice, and stopped their ears, and
 rushed at him with one accord.
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="2896,1,">ellos gritaron</wi>
-<wi type="G" value="5456,3,">con</wi>
+con
 <wi type="G" value="3173,4,">fuerte</wi>
-<wi type="GC" value="3">voz</wi>,
+<wi type="G" value="5456,3,">voz</wi>,
 <wi type="G" value="4912,5,">taparon</wi>
 <wi type="G" value="846,8,">sus</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="3775,7,">oídos</wi>
@@ -6239,9 +6239,9 @@ asleep.
 <wi type="G" value="1119,4,">rodillas</wi>,
 <wi type="G" value="1161,2,">y</wi>
 <wi type="G" value="2896,5,">gritó</wi>
-<wi type="G" value="5456,6,">con</wi>
+con
 <wi type="G" value="3173,7,">fuerte</wi>
-<wi type="GC" value="6">voz</wi>,
+<wi type="G" value="5456,6,">voz</wi>,
 «¡<wi type="G" value="2962,8," sacred="yes">Señor</wi>, </t>
 <rb xml:lang="es"><wi type="G" value="3361,9,">no</wi>
 <wi type="G" value="2476,10,">pongas</wi><rf>
@@ -17419,7 +17419,7 @@ cuando
 <wi type="G" value="3905,21,">continuó</wi> con
 <wi type="G" value="3588,23,"/><wi type="G" value="3056,24,">su predica</wi>
 <wi type="G" value="3360,25,">hasta</wi>
-<wi type="G" value="3317,26,">la</wi> medianoche.
+la <wi type="G" value="3317,26,">medianoche</wi>.
 </t>
 </sv>
 
@@ -22312,8 +22312,8 @@ from the chief priests,
 at noon, O king, I saw on the way a light from
 the sky, brighter than the sun, shining around me and those who traveled with
 me.
-<t xml:lang="es"><wi type="G" value="2250,1,">a</wi>
-<wi type="G" value="3319,2,">medio día</wi>,
+<t xml:lang="es">a
+<wi type="G" value="3319,2,">medio</wi> <wi type="G" value="2250,1,">día</wi>,
 <wi type="G" value="935,7,">oh rey</wi>,
 <wi type="G" value="1492,6,">vi</wi>
 <wi type="G" value="2596,3,">en</wi>

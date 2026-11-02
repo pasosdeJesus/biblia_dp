@@ -9014,7 +9014,7 @@ que
 <wi type="G" value="3307,29,">ha distribuido</wi>
 <wi type="G" value="1538,25,">para cada persona</wi>
 <wi type="G" value="3358,30,">una medida</wi>
-<wi type="G" value="4102,31,">de</wi> fe. 
+de <wi type="G" value="4102,31,">fe</wi>. 
 </t>
 </sv>
 
@@ -9552,8 +9552,7 @@ praise from the same,
 <wi type="G" value="3756,4,">no</wi>
 <wi type="G" value="1526,5,">son</wi>
 para <wi type="G" value="5401,6,">terror</wi>
-<wi type="G" value="2041,9,">a</wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="18,8,">lo bueno</wi>
+<wi type="G" value="3588,7,">a la</wi> <wi type="G" value="18,8,">buena</wi> <wi type="G" value="2041,9,">obra</wi>
 <wi type="G" value="235,10,">sino</wi> a
 <wi type="G" value="3588,11,"/><wi type="G" value="2556,12,">lo malo</wi><rf>
 <citebib id="WEB"/> dice `los que mandan no son un terror para la buena obra, sino para el

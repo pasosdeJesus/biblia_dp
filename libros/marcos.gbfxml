@@ -2951,9 +2951,9 @@ the multitude were on the land by the sea.
 <wi type="G" value="3588,6,">el</wi>
 <wi type="G" value="2281,7,">mar</wi>.
 <wi type="G" value="2532,8,">Y</wi>
-<wi type="G" value="3793,12,">una</wi>
+una
 <wi type="G" value="4183,13,">gran</wi>
-<wi type="GC" value="12">multitud</wi>
+<wi type="G" value="3793,12,">multitud</wi>
 <wi type="G" value="4863,9,">se reunió</wi>
 <wi type="G" value="4314,10,">cerca</wi>
 <wi type="G" value="846,11,">a Él</wi>,
@@ -3924,9 +3924,9 @@ even as he was, in the boat. Other small boats were also with him.
 There arose a great wind storm, and the waves beat into the boat, so
 much that the boat was already filled.
 <t xml:lang="es">
-<wi type="G" value="2532,1,"/><wi type="G" value="2978,3,">Una</wi>
+<wi type="G" value="2532,1,"/>Una
 <wi type="G" value="3173,5,">gran</wi>
-<wi type="GC" value="3">tormenta</wi>
+<wi type="G" value="2978,3,">tormenta</wi>
 <wi type="G" value="417,4,">de viento</wi>
 <wi type="G" value="1096,2,">se levantó</wi>,
 <wi type="G" value="3588,6,"/><wi type="G" value="1161,7,">y</wi>
@@ -9003,9 +9003,9 @@ scribes questioning them.
 <wi type="G" value="3588,4,">los</wi>
 <wi type="G" value="3101,5,">discípulos</wi>,
 <wi type="G" value="1492,6,">vio</wi>
-<wi type="G" value="3793,7,">una</wi>
+una
 <wi type="G" value="4183,8,">gran</wi>
-<wi type="GC" value="7">multitud</wi>
+<wi type="G" value="3793,7,">multitud</wi>
 <wi type="G" value="4012,9,">alrededor</wi>
 <wi type="G" value="846,10,">de ellos</wi>,
 <wi type="G" value="2532,11,">y</wi>
@@ -11307,9 +11307,9 @@ sitting by the road.
 <wi type="G" value="846,13,">sus</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="3101,12,">discípulos</wi>
 <wi type="G" value="2532,14,">y</wi>
-<wi type="G" value="3793,15,">una</wi>
+una
 <wi type="G" value="2425,16,">gran</wi>
-<wi type="GC" value="15">multitud</wi>,
+<wi type="G" value="3793,15,">multitud</wi>,
 <wi type="G" value="3588,20,">el</wi>
 <wi type="G" value="5185,21,">ciego</wi>
 <wi type="G" value="924,19,">Bartimeo</wi>,
@@ -14452,7 +14452,7 @@ of the earth to the ends of the sky.
 <wi type="G" value="1093,18,">de la tierra</wi>
 <wi type="G" value="2193,19,">a</wi>
 <wi type="G" value="206,20,">los confines</wi>
-<wi type="G" value="3772,21,">del</wi> cielo. 
+del <wi type="G" value="3772,21,">cielo</wi>. 
 </t>
 <cl/>
 </fr>

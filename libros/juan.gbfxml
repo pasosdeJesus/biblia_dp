@@ -448,7 +448,7 @@ En <citebib id="DiosHablaHoy"/> dice `El amor y la verdad.´
 <wi type="G" value="1096,15,">vinieron</wi>
 <wi type="G" value="1223,12,">mediante</wi>
 <wi type="G" value="2424,13,">Jesús</wi>
-<wi type="G" value="5547,14,">el</wi> Cristo. 
+el <wi type="G" value="5547,14,">Cristo</wi>. 
 </t>
 </sv>
 
@@ -18641,7 +18641,7 @@ have been with me from the beginning.
 <wi type="G" value="2075,10,">han estado</wi>
 <wi type="G" value="3326,8,"><wi type="G" value="1700,9,">conmigo</wi></wi>
 <wi type="G" value="575,6,">desde</wi>
-<wi type="G" value="746,7,">el</wi> comienzo. 
+el <wi type="G" value="746,7,">comienzo</wi>. 
 </t>
 </fr>
 <cl/>
@@ -18865,7 +18865,7 @@ culpable al mundo,´ <citebib id="Peshitta"/> y <citebib id="WEB"/> coinciden.
 <wi type="G" value="1343,11,">la rectitud</wi>
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="4012,13,">por</wi>
-<wi type="G" value="2920,14,">el</wi> juicio; 
+el <wi type="G" value="2920,14,">juicio</wi>; 
 </t>
 </fr>
 </sv>

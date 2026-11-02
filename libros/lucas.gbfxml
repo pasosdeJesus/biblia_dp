@@ -1735,10 +1735,10 @@ old),
 <wi type="G" value="2980,2,">ha dicho</wi>
 <wi type="G" value="1223,3,">por</wi>
 <wi type="G" value="4750,4,">boca</wi>
-<wi type="G" value="4396,10,">de</wi>
+<wi type="G" value="3588,5,">de</wi>
 <wi type="G" value="846,11,">sus</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="40,6,">santos</wi>
-<wi type="GC" value="10">profetas</wi>
+<wi type="G" value="40,6,">santos</wi>
+<wi type="G" value="4396,10,">profetas</wi>
 <wi type="G" value="3588,7,">quienes</wi>
 <wi type="G" value="575,8,">han estado desde</wi> 
 </t>
@@ -1973,9 +1973,9 @@ desert until the day of his public appearance to Israel.
 <wi type="G" value="2048,12,">desierto</wi>
 <wi type="G" value="2193,13,">hasta</wi>
 <wi type="G" value="2250,14,">el día</wi>
-<wi type="G" value="323,15,">de</wi>
+de
 <wi type="G" value="846,16,">su</wi>
-<wi type="GC" value="15">aparición</wi>
+<wi type="G" value="323,15,">aparición</wi>
 <wi type="G" value="4314,17,">ante</wi>
 <wi type="G" value="3588,18,"/><wi type="G" value="2474,19,">Israel</wi>. 
 </t>
@@ -2222,9 +2222,9 @@ good news of great joy which will be to all the people.
 <wi type="G" value="2097,10,">traigo buenas noticias</wi>,
 <wi type="G" value="3748,14,">que</wi>
 <wi type="G" value="2071,15,">serán</wi>
-<wi type="G" value="5479,12,">de</wi>
+de
 <wi type="G" value="3173,13,">gran</wi>
-<wi type="GC" value="12">regocijo</wi>
+<wi type="G" value="5479,12,">regocijo</wi>
 para 
 <wi type="G" value="3956,16,">toda</wi>
 <wi type="G" value="3588,17,">la</wi>
@@ -24601,7 +24601,7 @@ the baptism of John, was it from heaven, or from men?»
 <wi type="G" value="3772,5,">cielo</wi>
 <wi type="G" value="2228,7,">o</wi>
 <wi type="G" value="1537,8,">de</wi>
-<wi type="G" value="444,9,">los</wi> hombres?» 
+los <wi type="G" value="444,9,">hombres</wi>?» 
 </t>
 </fr>
 </sv>
