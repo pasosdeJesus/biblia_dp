@@ -120,11 +120,43 @@ el <wi type="G" value="2889,20,">mundo</wi>
 Yes, and for this very
 cause adding on your part all diligence, in your faith supply moral
 excellence; and in moral excellence, knowledge;
+<t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
+<wi type="G" value="1161,4,">además</wi>
+<wi type="G" value="5124,3,">de esto</wi>
+<wi type="G" value="846,2,">ustedes</wi>
+<wi type="G" value="3923,7,">al poner</wi>
+<wi type="G" value="3956,6,">toda</wi>
+<wi type="G" value="4710,5,">diligencia</wi>,
+<wi type="G" value="2023,8,">añaden</wi>
+<wi type="G" value="1722,9,">a</wi>
+<wi type="G" value="5216,12,">su</wi>
+<wi type="G" value="3588,10,"/><wi type="G" value="4102,11,">fe</wi>
+<wi type="G" value="3588,13,"/><wi type="G" value="703,14,">virtud</wi>;
+<wi type="G" value="1161,16,">y</wi>
+<wi type="G" value="1722,15,">a</wi>
+<wi type="G" value="3588,17,">la</wi>
+<wi type="G" value="703,18,">virtud</wi>,
+<wi type="G" value="3588,19,"/><wi type="G" value="1108,20,">conocimiento</wi>;
+</t>
 </sv>
 
 <sv id="2_Pedro-1-6">
 and in knowledge,
 self-control; and in self-control patience; and in patience godliness;
+<t xml:lang="es"><wi type="G" value="1161,2,">y</wi>
+<wi type="G" value="1722,1,">al</wi>
+<wi type="G" value="3588,3,"/><wi type="G" value="1108,4,">conocimiento</wi>,
+<wi type="G" value="3588,5,"/><wi type="G" value="1466,6,">dominio propio</wi>;
+<wi type="G" value="1161,8,">y</wi>
+<wi type="G" value="1722,7,"><wi type="G" value="3588,9,">al</wi></wi>
+<wi type="G" value="1466,10,">dominio propio</wi>
+<wi type="G" value="3588,11,"/><wi type="G" value="5281,12,">paciencia</wi>;
+<wi type="G" value="1161,14,">y</wi>
+<wi type="G" value="1722,13,">a</wi>
+<wi type="G" value="3588,15,">la</wi>
+<wi type="G" value="5281,16,">paciencia</wi>
+<wi type="G" value="3588,17,"/><wi type="G" value="2150,18,">piedad</wi>;
+</t>
 </sv>
 
 <sv id="2_Pedro-1-7">
