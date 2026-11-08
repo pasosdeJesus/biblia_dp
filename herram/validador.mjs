@@ -27,9 +27,6 @@ function validateBookFormat(bookLower, bookInfo) {
 
   const strongType = bookInfo.strongType || 'G';
   const issues = {
-    "Espacios horizontales que posiblemente deben omitirse": /<t xml:lang="es">[^/]*\/>[ ]*$/,
-    "Espacios horizontales que posiblemente deben añadirse": /<wi[^/]*\/><wi[^/]*\/>/,
-    "Marcado errado (wi pegado a wi)": /\/wi><wi/,
     "Marcado errado (type=\"G\" value=\"[0-9]*\")": new RegExp(`type="${strongType}" value="[0-9]*"`),
     "Apostrofes por cambiar por ´": /\`[^\´']*\'/,
     "Signos de puntuación fuera de \` \´": /\´[\.,]/,
