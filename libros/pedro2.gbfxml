@@ -160,18 +160,51 @@ self-control; and in self-control patience; and in patience godliness;
 <wi type="G" value="1161,14,">y</wi>
 <wi type="G" value="1722,13,">a</wi>
 <wi type="G" value="3588,15,">la</wi>
-<wi type="G" value="5281,16,">paciencia</wi>
-<wi type="G" value="3588,17,"/><wi type="G" value="2150,18,">piedad</wi>;
-</t>
+<wi type="G" value="5281,16,">paciencia</wi> </t>
+<rb xml:lang="es"><wi type="G" value="3588,17,"/><wi type="G" value="2150,18,">temor de Dios</wi><rf>
+<citebib id="WEB"/> dice `piedad,´
+<citebib id="RVG2012"/> dice `temor de Dios.´
+Según <citebib id="Thayer-BLB"/> la palabra griega `εὐσέβεια´
+se puede traducir como reverencia, respeto y piedad hacia Dios.</rf></rb>
+<t xml:lang="es">;</t>
 </sv>
 
 <sv id="2_Pedro-1-7">
 and in godliness brotherly affection; and in brotherly affection, love.
+<t xml:lang="es"><wi type="G" value="1161,2,">y</wi>
+<wi type="G" value="1722,1,"><wi type="G" value="3588,3,">al</wi></wi>
+<wi type="G" value="2150,4,">temor de Dios</wi>,
+<wi type="G" value="3588,5,"/><wi type="G" value="5360,6,">afecto filial</wi>;
+<wi type="G" value="1161,8,">y</wi>
+<wi type="G" value="1722,7,"><wi type="G" value="3588,9,">al</wi></wi>
+<wi type="G" value="5360,10,">afecto filial</wi>,
+<wi type="G" value="3588,11,"/><wi type="G" value="26,12,">amor</wi>.
+</t>
 </sv>
 
 <sv id="2_Pedro-1-8">
 For if these things are yours and abound, they make you to be not idle
 nor unfruitful to the knowledge of our Lord Jesus Christ.
+<t xml:lang="es"><wi type="G" value="1063,2,">Porque</wi>
+<wi type="G" value="5225,4,">si</wi>
+<wi type="G" value="5023,1,">estas cosas</wi>
+<wi type="GC" value="4">están</wi>
+<wi type="G" value="5213,3,">en ustedes</wi>
+<wi type="G" value="2532,5,">y</wi>
+<wi type="G" value="4121,6,">abundan</wi>,
+<wi type="G" value="3756,7,">no</wi> 
+los <wi type="G" value="2525,11,">dejan</wi>
+estar <wi type="G" value="692,8,">desocupados</wi>
+<wi type="G" value="3761,9,">ni</wi>
+<wi type="G" value="175,10,">infructuosos</wi>
+<wi type="G" value="1519,12,">en</wi>
+<wi type="G" value="3588,13,">el</wi>
+<wi type="G" value="1922,19,">conocimiento</wi>
+<wi type="G" value="3588,14,">de</wi>
+<wi type="G" value="2257,16,">nuestro</wi>
+<wi type="G" value="2962,15,">Señor</wi>
+<wi type="G" value="2424,17,">Jesús</wi>
+<wi type="G" value="5547,18,">Cristo</wi>.</t>
 </sv>
 
 <sv id="2_Pedro-1-9">
