@@ -192,7 +192,7 @@ nor unfruitful to the knowledge of our Lord Jesus Christ.
 <wi type="G" value="5213,3,">en ustedes</wi>
 <wi type="G" value="2532,5,">y</wi>
 <wi type="G" value="4121,6,">abundan</wi>,
-<wi type="G" value="3756,7,">no</wi> 
+<wi type="G" value="3756,7,">no</wi>
 los <wi type="G" value="2525,11,">dejan</wi>
 estar <wi type="G" value="692,8,">desocupados</wi>
 <wi type="G" value="3761,9,">ni</wi>
@@ -211,22 +211,56 @@ estar <wi type="G" value="692,8,">desocupados</wi>
 For he who
 lacks these things is blind, seeing only what is near, having forgotten the
 cleansing from his old sins.
+<t xml:lang="es"><wi type="G" value="1063,2,">Pero</wi>
+<wi type="G" value="3739,1,">el que</wi> le
+<wi type="G" value="3361,3,">no</wi>
+<wi type="G" value="3918,4,">tiene</wi>
+<wi type="G" value="5023,5,">estas cosas</wi>
+<wi type="G" value="2076,7,">es</wi>
+<wi type="G" value="5185,6,">ciego</wi>,
+<wi type="G" value="3467,8,">no ve de lejos</wi>,
+<wi type="G" value="2983,10,">habiendo</wi>
+<wi type="G" value="3024,9,">olvidado</wi>
+<wi type="G" value="3588,11,">la</wi>
+<wi type="G" value="2512,12,">limpieza</wi>
+<wi type="G" value="3588,13,">de</wi>
+<wi type="G" value="846,15,">sus</wi>
+<wi type="G" value="266,16,">pecados</wi>
+<wi type="G" value="3819,14,">antiguos</wi>.
+</t>
 </sv>
 
 <sv id="2_Pedro-1-10">
 Therefore,
+<t xml:lang="es"><wi type="G" value="1352,1,">Por tanto</wi></t>
 <rb>brothers,
-<t xml:lang="es">
-</t><rf>
+<t xml:lang="es"><wi type="G" value="80,3,">hermanos</wi></t><rf>
 The word for «brothers» here and where context allows may also be correctly
-translated «brothers and sisters» or «siblings.» <t xml:lang="es"> </t>
+translated «brothers and sisters» or «siblings.»
+<t xml:lang="es">La palabra para «hermanos»  aquí y donde el contexto
+lo permita puede traducirse también como «hermanos y hermanas.»
+</t>
 </rf>
 </rb>
  be more diligent to make your
 calling and election sure. For if you
 do these things, you
-will
-never stumble.
+will never stumble.
+<t xml:lang="es">
+<wi type="G" value="3123,2,">más bien</wi>
+<wi type="G" value="4704,4,">sean</wi>
+<wi type="G" value="4160,11,">en hacer</wi>
+<wi type="G" value="5216,6,">su</wi>
+<wi type="G" value="3588,7,"/><wi type="G" value="2821,8,">llamado</wi>
+<wi type="G" value="2532,9,">y</wi>
+<wi type="G" value="1589,10,">elección</wi>
+<wi type="G" value="949,5,">segura</wi>.
+<wi type="G" value="1063,13,">Pues</wi>
+<wi type="G" value="4160,14,">si hacen</wi>
+<wi type="G" value="5023,12,">estas cosas</wi>,
+<wi type="G" value="3361,16,"/><wi type="G" value="3756,15,">nunca</wi>
+<wi type="G" value="4218,18,"/><wi type="G" value="4417,17,">tropezarán</wi>.
+</t>
 </sv>
 
 <sv id="2_Pedro-1-11">
