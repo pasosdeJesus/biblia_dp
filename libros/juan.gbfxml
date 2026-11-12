@@ -2976,8 +2976,9 @@ heaven is above all.
 <wi type="G" value="3588,10,">la</wi>
 <wi type="G" value="1093,11,">tierra</wi>
 <wi type="G" value="2076,15,">pertenece</wi>
-<wi type="G" value="1537,12,"><wi type="G" value="3588,13,">a la</wi>
-<wi type="G" value="1093,14,">tierra</wi></wi>
+<wi type="G" value="1537,12,">a</wi>
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="1093,14,">tierra</wi>
 <wi type="G" value="2532,16,">y</wi>
 <wi type="G" value="2980,20,">habla</wi>
 <wi type="G" value="1537,17,">sobre</wi>

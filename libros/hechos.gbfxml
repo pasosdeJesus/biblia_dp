@@ -4226,9 +4226,9 @@ nothing.
 <wi type="G" value="3588,4,"/><wi type="G" value="2250,5,">días</wi>,
 <wi type="G" value="2333,7,">Teudas</wi>
 <wi type="G" value="450,6,">se levantó</wi>,
-<wi type="G" value="3004,8,"><wi type="G" value="1438,11,">haciéndose pasar</wi></wi>
-<wi type="G" value="1511,9,">por</wi>
-<wi type="G" value="5100,10,">alguien</wi>;
+<wi type="G" value="3004,8,"><wi type="G" value="1438,11,">llamándose</wi></wi>
+<wi type="G" value="1511,9,">como</wi>
+<wi type="G" value="5100,10,">alguien</wi> importante;
 <wi type="G" value="3739,12,">a este</wi>
 <wi type="G" value="4347,13,">se unieron</wi>
 <wi type="G" value="706,14,">un grupo</wi>
@@ -23683,8 +23683,8 @@ In all, we were two hundred seventy-six souls on the ship.
 <t xml:lang="es"><wi type="G" value="3956,7,">En total</wi>,
 <wi type="G" value="1161,2,"/><wi type="G" value="1510,1,">eramos</wi>
 <wi type="G" value="1250,9,">doscientas</wi>
-<wi type="G" value="3588,6,"/><wi type="G" value="1440,10,"><wi type="G" value="1803,11,">setenta
-y seis</wi></wi>
+<wi type="G" value="3588,6,"/><wi type="G" value="1440,10,">setenta</wi> y 
+<wi type="G" value="1803,11,">seis</wi>
 <wi type="G" value="5590,8,">almas</wi>
 <wi type="G" value="1722,3,">en</wi>
 <wi type="G" value="3588,4,">el</wi>

@@ -114,6 +114,51 @@ function detectarPreposiciones(preps, words) {
   return flags
 }
 
+// Participios adjetivales (sustantivados/atributivos) con artículo G3588:
+// deben verterse como cláusula relativa «el que/que + verbo». Marca cuando el
+// español del participio no contiene un relativo (posible gerundio, participio
+// o sustantivo en lugar de relativa). Ver doc/morfologia-Robinson.md,
+// «Participio adjetival → cláusula relativa».
+const RELATIVO = /\b(que|quien|quienes|cual|cuales)\b/
+
+function detectarParticipioAdjetival(words, spaWords) {
+  const flags = []
+  if (!words || !spaWords) return flags
+
+  // Mapa posición → { strong, morph } con morfología limpia por posición.
+  // Las posiciones reflejan el orden griego (aunque el OSIS reordene los
+  // artículos al inicio de la línea).
+  const porPos = {}
+  for (const w of words) {
+    const morphs = (w.morph || '').split(/robinson:/).map(x => x.trim()).filter(Boolean)
+    for (let j = 0; j < w.positions.length; j++) {
+      porPos[w.positions[j]] = { strong: w.strongs[j], morph: morphs[j] || '' }
+    }
+  }
+
+  for (const w of words) {
+    const morph = w.morph || ''
+    if (!/V-.*P-[A-Z]{2,3}/.test(morph)) continue
+    // Posición del participio (la última si está combinado con artículo).
+    const idx = w.strongs.length > 1 ? w.positions.length - 1 : 0
+    const pos = w.positions[idx]
+    // Artículo G3588 inmediatamente antes (pos-1) o en el mismo <w>.
+    const prev = porPos[pos - 1]
+    const conArticulo = w.strongs.includes(3588) || (prev && prev.strong === 3588)
+    if (!conArticulo) continue
+    // Participio atributivo: le sigue un sustantivo (pos+1) al que modifica;
+    // el adjetivo español es válido y no exige relativa.
+    const sig = porPos[pos + 1]
+    if (sig && /^N-/.test(sig.morph)) continue
+    const spa = (spaWords[String(pos)] || '').trim()
+    if (spa && !RELATIVO.test(spa.toLowerCase())) {
+      const greek = (w.greeks && w.greeks[idx]) || w.greek || '?'
+      flags.push(`⚙️ Participio sustantivado «${greek}» (con artículo G3588) → «${spa}»; se espera relativa «el que/que + verbo».`)
+    }
+  }
+  return flags
+}
+
 // Palabras funcionales con variación legítima (no se marcan por léxico).
 const SKIP_LEXICO = new Set([
   3588, 846, 2532, 1161, 1063, 3754, 1722, 1519, 1909, 5259, 575, 1537,
@@ -164,7 +209,7 @@ out.push('- `ref/reina_valera_geiger_nt/capitulos/*.usfm` (RVG2012)')
 out.push('')
 out.push('## Nota de morfología')
 out.push('')
-out.push('Reglas: aoristo narrativo (genealogías, hechos puntuales) → pretérito simple; «he X» para afirmaciones teológicas/exhortaciones. Perfecto → «he X»/estado resultante; imperfecto → «-aba/-ía»; presente → presente (el presente histórico puede verterse como pasado, opción del traductor); futuro → futuro.')
+out.push('Reglas: aoristo narrativo (genealogías, hechos puntuales) → pretérito simple; «he X» para afirmaciones teológicas/exhortaciones. Perfecto → «he X»/estado resultante; imperfecto → «-aba/-ía»; presente → presente (el presente histórico puede verterse como pasado, opción del traductor); futuro → futuro. Participio adverbial → gerundio; participio adjetival con artículo (sustantivado) → relativa «el que/que + verbo» (ver doc/morfologia-Robinson.md).')
 out.push('')
 for (const v of Object.keys(gbf).sort((a, b) => a - b)) {
   const g = gbf[v]
@@ -207,12 +252,14 @@ for (const v of Object.keys(gbf).sort((a, b) => a - b)) {
   }
   const auto = detectarMorfologia(k.verbs, g.words)
   const preps = detectarPreposiciones(k.preps, g.words)
+  const partAdj = detectarParticipioAdjetival(k.words, g.words)
   const lex = detectarLexico(g.strongs, g.words, glosario, strongToGreek)
   const warns = g.warnings || []
-  if (fs2.length === 0 && auto.length === 0 && preps.length === 0 && lex.length === 0 && warns.length === 0) out.push('(sin hallazgos registrados)')
+  if (fs2.length === 0 && auto.length === 0 && preps.length === 0 && partAdj.length === 0 && lex.length === 0 && warns.length === 0) out.push('(sin hallazgos registrados)')
   for (const f of fs2) out.push(`- ${f}`)
   for (const a of auto) out.push(`- ${a}`)
   for (const p of preps) out.push(`- ${p}`)
+  for (const pa of partAdj) out.push(`- ${pa}`)
   for (const l of lex) out.push(`- ${l}`)
   for (const w of warns) out.push(`- ⚠️ ${w}`)
   if (g.missing.length || g.extra.length) {

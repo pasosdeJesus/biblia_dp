@@ -270,7 +270,11 @@ Robinson junto a cada palabra griega. Ejemplo:
    - Imperfecto indicativo (`V-I.I-`): verificar que SpaTDP use «-aba/-ía»
      (acción continua en pasado). Reportar si usa pretérito simple (-ó)
 4. **No aplicar a**: subjuntivos (`S`), imperativos (`M`), infinitivos (`N`),
-   participios (`P`)
+   participios (`P`).
+   Para los participios rige su propia regla: adverbial → gerundio;
+   adjetival con artículo (sustantivado) → cláusula relativa «el que/que +
+   verbo». Ver `doc/morfologia-Robinson.md`, subsección «Participio adjetival
+   (sustantivado/atributivo) → cláusula relativa».
 5. **Citar el código Robinson** en el reporte (ej: `V-AMI-3S`) para
    trazabilidad
 
@@ -470,8 +474,24 @@ Ejemplo: G2150 aparece en 1 Tim 2:2, 3:16, 4:7,8, 6:3,5,6,11 - debe ser siempre
 
 ### Convención para G3588 (artículo griego ὁ/ἡ/τό)
 
-A partir de 2026, G3588 **no se anida** dentro de otro `<wi>`. En su lugar,
-se separa como elemento independiente según su traducción al español:
+A partir de 2026, G3588 **no se anida** dentro de otro `<wi>` **cuando cada
+palabra griega se traduce como una palabra española separada**. En ese caso se
+separa como elemento independiente según su traducción al español.
+
+**Excepción (anidación correcta):** Cuando una sola palabra en español
+corresponde a dos o más palabras en griego, el `<wi>` anidado es correcto: el
+`<wi>` externo envuelve la palabra española completa y el interno marca la
+subpalabra griega que le corresponde. Casos típicos: contracción de preposición
++ artículo («al», «del») y pronombre enclítico fusionado con el verbo
+(«recordarles»). Ejemplos:
+
+```xml
+<!-- «al» = G1519 (εἰς «a») + G3588 (τήν «el»): anidación correcta -->
+<wi type="G" value="1519,8,"><wi type="G" value="3588,9,">al</wi></wi>
+
+<!-- «recordarles» = G5279 (ὑπομιμνήσκειν «recordar») + G5209 (ὑμᾶς «les») -->
+<wi type="G" value="5279,6,"><wi type="G" value="5209,4,">recordarles</wi></wi>
+```
 
 **Regla general:** El artículo se extrae del texto de la palabra que modifica.
 

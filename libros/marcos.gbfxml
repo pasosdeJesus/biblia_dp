@@ -2479,7 +2479,8 @@ authority to heal sicknesses and to cast out demons:
 Simon, to whom he
 gave the name Peter;
 <t xml:lang="es">
-<wi type="G" value="2532,1,"/><wi type="G" value="3588,3,">A <wi type="G" value="4613,4,">Simón</wi></wi>,
+<wi type="G" value="2532,1,"/><wi type="G" value="3588,3,">A</wi>
+<wi type="G" value="4613,4,">Simón</wi>,
 <wi type="G" value="2007,2,">le dio</wi>
 <wi type="G" value="3686,5,">el nombre</wi>
 <wi type="G" value="4074,6,">de Pedro</wi>;
@@ -6077,7 +6078,7 @@ for they have nothing to eat.»
 <wi type="G" value="2968,10,">pueblos</wi>
 <wi type="G" value="2532,9,">y</wi>
 <wi type="G" value="68,8,"><wi type="G" value="2945,7,">alrededores</wi></wi>
-<wi type="G" value="59,11,"><wi type="G" value="1438,12,">a comprarse</wi></wi>
+a <wi type="G" value="59,11,"><wi type="G" value="1438,12,">comprarse</wi></wi>
 <wi type="G" value="740,13,">pan</wi>,
 <wi type="G" value="5101,14,"/><wi type="G" value="1063,15,">pues</wi>
 <wi type="G" value="3756,17,">no</wi>

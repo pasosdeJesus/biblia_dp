@@ -152,10 +152,10 @@ Verificar que se traduce con un imperativo español ("den", "traigan", "ven"). |
 | **2. Subjuntivo/aoristo griego → subjuntivo español** | **Mateo 14:15**<br>G59
 (ἀγοράσωσιν, aoristo subjuntivo 3p) | Confirmar que se usa subjuntivo ("puedan
 comprar") o una forma equivalente. |
-| **3. Participios griegos → gerundios o participios españoles** | **Mateo
+| **3. Participios griegos → gerundios o cláusulas relativas** | **Mateo
 14:13, 19, 25**<br>G191 (ἀκούσαντες, part. aoristo), G4043 (περιπατῶν, part.
-presente) | Verificar que se traduce con gerundio ("escuchando", "caminando") o
-frase equivalente. |
+presente) | Adverbial → gerundio ("escuchando", "caminando"). Adjetival con
+artículo → relativa "el que/que + verbo" (ver subsección siguiente). |
 | **4. Pasivos griegos → voz pasiva española** | **Mateo 14:11, 36**<br>G5342
 (ἠνέχθη, aoristo pasivo), G1295 (διεσώθησαν, aoristo pasivo) | Confirmar que se
 usa voz pasiva ("fue traída", "fueron sanados"). |
@@ -189,7 +189,33 @@ el matiz correcto (hecho vs. prohibición). |
 
 
 
+### Participio adjetival (sustantivado/atributivo) → cláusula relativa
+
+El participio adjetival con artículo (ὁ/ἡ/τό + participio) funciona como
+sustantivo o adjetivo y se vierte al español como cláusula relativa
+«el que / que + verbo». El artículo G3588 recibe su traducción (o la
+preposición si hay contracción: «del», «al»), y el participio recibe el
+relativo «que» y el verbo, marcando con `type="GC"` la parte dividida.
+
+Ejemplo (Gálatas 5:8): «τοῦ καλοῦντος» = G3588 `τοῦ` (artículo) + G2564
+`καλοῦντος` (V-PAP-GSM, participio presente activo genitivo) = «del que
+llama»:
+
+```xml
+<wi type="G" value="1537,4,"><wi type="G" value="3588,5,">del</wi></wi>
+<wi type="G" value="2564,6,">que</wi>
+<wi type="G" value="5209,7,">los</wi>
+<wi type="GC" value="6">llamó</wi>
+```
+
+Fuente: Daniel B. Wallace, *Greek Grammar Beyond the Basics* (Zondervan,
+1996), capítulo sobre el participio, sección «The Adjectival Participle»
+(substantival y atributivo).
+
+
+
 Fuentes:
 - Robinson Morphology (Logos Wiki): https://wiki.logos.com/Robinson_Morphology
 - CCAT Greek Morph Codes: http://ccat.sas.upenn.edu/gopher/text/religion/biblical/greekmorph/
 - OSIS KJV/TR de John 17 (repo del proyecto)
+- Daniel B. Wallace, *Greek Grammar Beyond the Basics* (Zondervan, 1996)

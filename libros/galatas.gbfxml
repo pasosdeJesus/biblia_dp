@@ -2416,9 +2416,10 @@ This persuasion is not from him who calls you.
 <t xml:lang="es"><wi type="G" value="3588,1,">Esta</wi>
 <wi type="G" value="3988,2,">persuación</wi>
 <wi type="G" value="3756,3,">no</wi> es
-<wi type="G" value="1537,4,"><wi type="G" value="3588,5,">del que</wi></wi>
+<wi type="G" value="1537,4,"><wi type="G" value="3588,5,">del</wi></wi> 
+<wi type="G" value="2564,6,">que</wi>
 <wi type="G" value="5209,7,">los</wi>
-<wi type="G" value="2564,6,">llamó</wi>.</t>
+<wi type="GC" value="6">llamó</wi>.</t>
 </sv>
 
 <sv id="Gálatas-5-9">
