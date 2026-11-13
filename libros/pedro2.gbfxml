@@ -371,7 +371,7 @@ of his majesty.
 <wi type="G" value="3756,1,">no</wi>
 <wi type="G" value="1811,5,">hemos seguido</wi>
 <wi type="G" value="3454,4,">fábulas</wi>
-<wi type="G" value="4679,3,">ingeniosas</wi>,
+<wi type="G" value="4679,3,">hábilmente inventadas</wi>,
 <wi type="G" value="1107,6,">cuando</wi>
 <wi type="G" value="5213,7,">les</wi>
 <wi type="GC" value="6,">dimos a conocer</wi>
@@ -416,12 +416,17 @@ in whom I am well pleased.»
  «<wi type="G" value="3778,17,">Este</wi>
 <wi type="G" value="2076,18,">es</wi>
 <wi type="G" value="3450,21,">mi</wi>
-<wi type="G" value="3588,19,"/><wi type="G" value="5207,20,">hijo</wi>
+<wi type="G" value="3588,19,"/><wi type="G" value="5207,20,">Hijo</wi>
 <wi type="G" value="3588,22,"/><wi type="G" value="27,23,">amado</wi>,
-<wi type="G" value="1519,24,">en</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="1519,24,">en</wi>
 <wi type="G" value="3739,25,">quien</wi>
 <wi type="G" value="1473,26,">Yo</wi>
-<wi type="G" value="2106,27,">estoy bien complacido</wi>.»
+<wi type="G" value="2106,27,">estoy bien complacido</wi><rf>
+Ver la nota en Lucas 3:22 sobre el tiempo de «estoy bien complacido».
+</rf>
+</rb>
+<t xml:lang="es">.»
 </t>
 </sv>
 

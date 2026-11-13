@@ -3949,11 +3949,18 @@ I am well pleased.»
 «<wi type="G" value="4771,19,">Tu</wi>
 <wi type="G" value="1488,20,">eres</wi>
 <wi type="G" value="3450,23,">mi</wi>
-<wi type="G" value="3588,21,"/><wi type="G" value="5207,22,">hijo</wi>
+<wi type="G" value="3588,21,"/><wi type="G" value="5207,22,">Hijo</wi>
 <wi type="G" value="3588,24,"/><wi type="G" value="27,25,">amado</wi>.
-<wi type="G" value="1722,26,">En</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="1722,26,">En</wi>
 <wi type="G" value="4671,27,">ti</wi>
-<wi type="G" value="2106,28,">estoy bien complacido</wi>.» 
+<wi type="G" value="2106,28,">estoy bien complacido</wi><rf>
+El verbo griego en <citebib id="TR"/> es εὐδόκησα (aoristo indicativo:
+«me complací»), pero se vierte en presente por ser fórmula de decreto
+divino (cf. Salmo 2:7; Isaías 42:1).
+</rf>
+</rb>
+<t xml:lang="es">.» 
 </t>
 </sv>
 </cm>
