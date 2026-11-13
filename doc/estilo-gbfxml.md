@@ -59,6 +59,36 @@ La coma, punto o punto y coma se queda en la línea del `<wi>` que la precede:
 <wi type="G" value="1161,6,">e</wi>
 ```
 
+### 2.5 Preposiciones y artículos exigidos por el español
+
+Cuando el español necesita una preposición (o un artículo) que el griego no
+expresa con palabra propia, se incluye dentro del `<wi>` del Strong que la
+rige. Nunca se deja suelta fuera de todo `<wi>`, y nunca se inventa un número
+Strong que no esté en el TR.
+
+Casos:
+
+- **Caso oblicuo del artículo**: `τῷ → «al»`, `τοῦ → «del»` (ya cubierto en
+  `herram/art3588.mjs`).
+- **Dativo sin preposición**: el dativo griego se vierte con «en» en español.
+  *Lucas 3:22* — `σωματικῷ εἴδει` (G4984 + G1491, ambos dativos):
+
+```xml
+<!-- [FAIL] «en» suelto, sin <wi> -->
+<wi type="G" value="4984,7,">corporal</wi>
+Él en forma ...
+
+<!-- [OK] «en» dentro del <wi> del Strong que lo rige (G1491) -->
+<wi type="G" value="846,12,">Él</wi>
+<wi type="G" value="1491,8,">en forma</wi>
+<wi type="G" value="4984,7,">corporal</wi>
+```
+
+Verificación: G1491 `εἴδει` tiene `src="8"` en el OSIS KJV/TR. El otro
+G1722 del versículo (`src="26"`) ya está usado en «En ti» (la fórmula
+«en ti me he complacido»), así que no puede justificar este «en».
+
+
 ---
 
 ## 3. Etiquetas `<rb>`, `<rf>` y `<t>` en notas

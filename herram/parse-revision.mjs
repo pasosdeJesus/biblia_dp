@@ -206,6 +206,8 @@ function tagWarnings(sv) {
 
 // Advertencias de texto español fuera de <wi> (palabras sin marcar, suelen ser
 // añadidos o palabras que deberían llevar su número Strong).
+// El bloque <rb xml:lang="es"> es texto bíblico en español (no nota), así que
+// se recorre igual que <t xml:lang="es">.
 function untaggedWarnings(sv) {
   const frags = []
   function walk(n, es, inWi) {
@@ -216,7 +218,12 @@ function untaggedWarnings(sv) {
     if (n.nodeType !== 1) return
     if (n.tagName === 'rf') return
     let childEs = es
-    if (n.tagName === 't' || n.tagName === 'rb') {
+    if (n.tagName === 't') {
+      childEs = n.getAttribute(XML_LANG) === 'es'
+    } else if (n.tagName === 'rb') {
+      // <rb> nunca debe heredar el estado español: <rb> sin xml:lang es
+      // inglés (WEB) y <rb xml:lang="es"> es traducción. Heredar hacía que
+      // un <rb> en inglés se leyera como español (falso positivo).
       childEs = n.getAttribute(XML_LANG) === 'es'
     }
     const childWi = inWi || n.tagName === 'wi'

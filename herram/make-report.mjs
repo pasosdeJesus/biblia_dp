@@ -82,19 +82,29 @@ function detectarMorfologia(verbs, words) {
 
 // Preposiciones griegas → traducción española esperada (por Strong).
 const PREP_ES = {
-  575: ['de', 'desde'],        // ἀπό
-  1537: ['de', 'desde', 'del'],// ἐκ
-  1722: ['en'],                // ἐν
-  1519: ['a', 'en', 'al'],     // εἰς
-  1909: ['sobre', 'en'],       // ἐπί
-  4314: ['a', 'hacia', 'al'],  // πρός
+  575: ['de', 'desde', 'del'], // ἀπό
+  1537: ['de', 'desde', 'del', 'por'], // ἐκ (+ genitivo; «por» instrumental)
+  1722: ['en', 'por', 'con', 'entre'], // ἐν (+ dativo: locativo, instrumental, asociativo)
+  1519: ['a', 'en', 'al', 'del', 'para', 'por'], // εἰς (valores: destino, final, instrumental)
+  1909: ['sobre', 'en', 'contra'],       // ἐπί
+  4314: ['a', 'hacia', 'al', 'con'], // πρός (con = trato/relación)
   1223: ['por', 'mediante'],   // διά
-  2596: ['según', 'contra'],   // κατά
-  5259: ['por', 'de'],         // ὑπό
-  4012: ['acerca', 'alrededor', 'por'], // περί
-  3326: ['con'],               // μετά
-  3844: ['junto', 'al lado', 'a orillas'], // παρά
+  2596: ['según', 'contra', 'en contra', 'de acuerdo', 'por'], // κατά
+  5259: ['por', 'de', 'debajo', 'desde'], // ὑπό (+ dativo = «por»; + acusativo = «bajo»)
+  4012: ['acerca', 'alrededor', 'por', 'con respecto', 'sobre'], // περί
+  3326: ['con', 'tras', 'después'], // μετά (+ acusativo = «después de»)
+  3844: ['junto', 'al lado', 'a orillas', 'de', 'ante', 'en lugar', 'contrario', 'contrarío'], // παρά
   4862: ['con']                // σύν
+}
+
+// Traducciones que dependen del caso griego, no del significado básico de la
+// preposición. Se aceptan sin reportar.
+const PREP_ES_CASO = {
+  1722: ['a', 'al', 'de'],     // ἐν: locativo «a», partitivo «de»
+  3326: ['tras', 'después'],   // μετά + acusativo
+  3844: ['de', 'ante'],        // παρά + genitivo («de parte de»)
+  4314: ['para', 'donde'],     // πρός final / relativo («hacia donde»)
+  1519: ['para', 'por', 'entre'] // εἰς final/instrumental/distributivo
 }
 
 function detectarPreposiciones(preps, words) {
@@ -107,7 +117,14 @@ function detectarPreposiciones(preps, words) {
     const esperados = PREP_ES[p.strong] || []
     if (!esperados.length) continue
     const first = w.split(/\s+/)[0].replace(/[.,;:!?»«()"]/g, '')
-    if (!esperados.some(e => first === e || first.startsWith(e))) {
+    // Aceptar tanto coincidencia exacta como que la traducción empiece por el
+    // valor esperado («en contra» empieza por «en»). Se exige que la primera
+    // palabra sea igual o que el valor esperado sea prefijo de la traducción
+    // completa.
+    const aceptados = esperados.concat(PREP_ES_CASO[p.strong] || [])
+    const wLimpio = w.replace(/[.,;:!?»«()"]/g, '').trim()
+    const ok = aceptados.some(e => first === e || wLimpio === e || wLimpio.startsWith(e + ' '))
+    if (!ok) {
       flags.push(`⚙️ Preposición G${p.strong} «${p.greek}» → «${w}»; se espera ${esperados.join('/')}.`)
     }
   }
@@ -151,6 +168,10 @@ function detectarParticipioAdjetival(words, spaWords) {
     const sig = porPos[pos + 1]
     if (sig && /^N-/.test(sig.morph)) continue
     const spa = (spaWords[String(pos)] || '').trim()
+    // Si el artículo anterior ya trae el relativo («el que», «a quien»), la
+    // relativa está resuelta y no hay nada que reportar.
+    const spaArticulo = (spaWords[String(pos - 1)] || '').trim().toLowerCase()
+    if (spaArticulo && RELATIVO.test(spaArticulo)) continue
     if (spa && !RELATIVO.test(spa.toLowerCase())) {
       const greek = (w.greeks && w.greeks[idx]) || w.greek || '?'
       flags.push(`⚙️ Participio sustantivado «${greek}» (con artículo G3588) → «${spa}»; se espera relativa «el que/que + verbo».`)
