@@ -493,6 +493,19 @@ subpalabra griega que le corresponde. Casos típicos: contracción de preposici�
 <wi type="G" value="5279,6,"><wi type="G" value="5209,4,">recordarles</wi></wi>
 ```
 
+**Caso 3: sujeto pronominal implícito.** En español la desinencia verbal
+contiene el sujeto («escuchamos» = «nosotros escuchamos»), mientras el griego
+puede añadir el pronombre enfático. El pronombre se anida dentro del verbo que
+lo absorbe:
+
+```xml
+<!-- «escuchamos» = G2249 (ἡμεῖς «nosotros») + G191 (ἠκούσαμεν «escuchamos») -->
+<wi type="G" value="2249,5,"><wi type="G" value="191,6,">escuchamos</wi></wi>
+```
+
+*2 Pedro 1:18 — καὶ ταύτην τὴν φωνὴν ἡμεῖς ἠκούσαμεν: el ἡμεῖς enfático no
+tiene palabra española propia porque el verbo ya la expresa.*
+
 **Regla general:** El artículo se extrae del texto de la palabra que modifica.
 
 **Cuando el artículo tiene traducción explícita:**
