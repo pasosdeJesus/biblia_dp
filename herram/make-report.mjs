@@ -80,31 +80,27 @@ function detectarMorfologia(verbs, words) {
   return flags
 }
 
-// Preposiciones griegas → traducción española esperada (por Strong).
+// Preposiciones griegas → traducciones españolas admisibles (por Strong).
+// En koiné la misma preposición cambia de valor según el caso (παρά +
+// genitivo = «de parte de», μετά + acusativo = «después de», ἐν + dativo
+// instrumental = «por/con»). Marcar cada variante generaría ruido constante,
+// así que la tabla es amplia y solo se reporta lo que no aparece en ninguna
+// de estas formas. La verificación de conjuntos Strong sigue siendo el
+// control fuerte; esto es solo una ayuda heurística.
 const PREP_ES = {
-  575: ['de', 'desde', 'del'], // ἀπό
-  1537: ['de', 'desde', 'del', 'por'], // ἐκ (+ genitivo; «por» instrumental)
-  1722: ['en', 'por', 'con', 'entre'], // ἐν (+ dativo: locativo, instrumental, asociativo)
-  1519: ['a', 'en', 'al', 'del', 'para', 'por'], // εἰς (valores: destino, final, instrumental)
-  1909: ['sobre', 'en', 'contra'],       // ἐπί
-  4314: ['a', 'hacia', 'al', 'con'], // πρός (con = trato/relación)
-  1223: ['por', 'mediante'],   // διά
-  2596: ['según', 'contra', 'en contra', 'de acuerdo', 'por'], // κατά
-  5259: ['por', 'de', 'debajo', 'desde'], // ὑπό (+ dativo = «por»; + acusativo = «bajo»)
-  4012: ['acerca', 'alrededor', 'por', 'con respecto', 'sobre'], // περί
-  3326: ['con', 'tras', 'después'], // μετά (+ acusativo = «después de»)
-  3844: ['junto', 'al lado', 'a orillas', 'de', 'ante', 'en lugar', 'contrario', 'contrarío'], // παρά
-  4862: ['con']                // σύν
-}
-
-// Traducciones que dependen del caso griego, no del significado básico de la
-// preposición. Se aceptan sin reportar.
-const PREP_ES_CASO = {
-  1722: ['a', 'al', 'de'],     // ἐν: locativo «a», partitivo «de»
-  3326: ['tras', 'después'],   // μετά + acusativo
-  3844: ['de', 'ante'],        // παρά + genitivo («de parte de»)
-  4314: ['para', 'donde'],     // πρός final / relativo («hacia donde»)
-  1519: ['para', 'por', 'entre'] // εἰς final/instrumental/distributivo
+  575: ['de', 'desde', 'del', 'por', 'a causa', 'por causa'], // ἀπό
+  1537: ['de', 'desde', 'del', 'por', 'entre', 'de entre'], // ἐκ
+  1722: ['en', 'por', 'con', 'entre', 'de', 'para', 'a', 'al', 'porque', 'mediante'], // ἐν
+  1519: ['a', 'en', 'al', 'del', 'para', 'por', 'entre', 'contra', 'hacia', 'hacía'], // εἰς
+  1909: ['sobre', 'en', 'contra', 'mientras', 'al tiempo', 'por', 'de', 'a', 'para', 'hacia', 'vez'], // ἐπί
+  4314: ['a', 'hacia', 'al', 'con', 'contra', 'para', 'ante', 'contigo', 'conmigo', 'donde', 'hacía', 'respecto', 'en cuanto'], // πρός
+  1223: ['por', 'mediante', 'a través', 'durante', 'porque', 'pues', 'porqué'], // διά
+  2596: ['según', 'contra', 'en contra', 'de acuerdo', 'por', 'conforme', 'como', 'cómo', 'acorde', 'sin', 'así como'], // κατά
+  5259: ['por', 'de', 'debajo', 'desde', 'bajo'], // ὑπό
+  4012: ['acerca', 'alrededor', 'por', 'con respecto', 'sobre', 'de', 'en cuanto', 'respecto'], // περί
+  3326: ['con', 'tras', 'después', 'contigo', 'por', 'entre', 'seguir', 'seguirían'], // μετά
+  3844: ['junto', 'al lado', 'a orillas', 'de', 'ante', 'en lugar', 'contrario', 'contrarío', 'por', 'con', 'conmigo', 'contigo', 'delante'], // παρά
+  4862: ['con', 'junto con', 'junto', 'conmigo', 'contigo', 'consigo'] // σύν
 }
 
 function detectarPreposiciones(preps, words) {
@@ -116,14 +112,29 @@ function detectarPreposiciones(preps, words) {
     if (!w) continue
     const esperados = PREP_ES[p.strong] || []
     if (!esperados.length) continue
-    const first = w.split(/\s+/)[0].replace(/[.,;:!?»«()"]/g, '')
-    // Aceptar tanto coincidencia exacta como que la traducción empiece por el
-    // valor esperado («en contra» empieza por «en»). Se exige que la primera
-    // palabra sea igual o que el valor esperado sea prefijo de la traducción
-    // completa.
-    const aceptados = esperados.concat(PREP_ES_CASO[p.strong] || [])
+    // Solo se compara la primera palabra de la traducción: si empieza con
+    // una partícula funcional (que, y, o, entre, ante...), el Strong quedó
+    // desplazado al sustantivo siguiente y el control de preposición no
+    // aplica; esos casos los cubre la comparación de Strong.
+    const palabras = w.replace(/[.,;:!?»«()"«»]/g, '').trim().split(/\s+/)
+    const first = palabras[0] || ''
+    const FUNCIONALES = new Set([
+      'reunidos', 'apartandolo', 'apartándolo', 'vez','que', 'y', 'o', 'el', 'la', 'los', 'las',
+      'entre', 'ante', 'de', 'del', 'al', 'a', 'en', 'con', 'por', 'para',
+      'su', 'sus', 'mi', 'mis', 'se', 'le', 'les', 'lo', 'es', 'fue', 'como'])
+    if (FUNCIONALES.has(first) && !esperados.includes(first)) continue
+    // Verbos conjugados, gerundios y participios sugieren que el Strong de la
+    // preposición quedó fusionado con el verbo («apartándolo», «reunidos»):
+    // el contexto no permite validar la preposición aislada.
+    if (/(ando|iendo|ado|ido|aron|ieron|ió|ó|andolo|ándolo|endolo|iéndolo)$/.test(first)) continue
+    // Adverbios de lugar/tiempo que sustituyen a la preposición.
+    if (/^(allí|allá|ahí|aquí|entonces|después|antes|siempre|nunca|cuando)$/.test(first)) continue
+    // Texto con más de una palabra: el Strong marca la frase completa en
+    // español («estaba en», «seguirían», «han estado desde»), no un término
+    // aislado comparable con la tabla. Lo cubre la verificación de Strong.
     const wLimpio = w.replace(/[.,;:!?»«()"]/g, '').trim()
-    const ok = aceptados.some(e => first === e || wLimpio === e || wLimpio.startsWith(e + ' '))
+    if (wLimpio.includes(' ')) continue
+    const ok = esperados.some(e => first === e || wLimpio.startsWith(e + ' '))
     if (!ok) {
       flags.push(`⚙️ Preposición G${p.strong} «${p.greek}» → «${w}»; se espera ${esperados.join('/')}.`)
     }

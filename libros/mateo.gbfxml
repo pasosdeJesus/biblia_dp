@@ -1960,7 +1960,7 @@ Son of God, command that these stones become bread.»
 <wi type="G" value="3985,5,">El tentador</wi>
 <wi type="G" value="2532,1,"/>
 <wi type="G" value="3588,4,"/><wi type="G" value="4334,2,">vino</wi>
-<wi type="G" value="846,3,"/> y le
+y <wi type="G" value="846,3,">le</wi>
 <wi type="G" value="2036,6,">dijo</wi>,
 «<wi type="G" value="1487,7,">Si</wi>
 <wi type="G" value="1488,9,">eres</wi>
@@ -4202,7 +4202,7 @@ your left hand know what your right hand does,
 <wi type="G" value="4675,1,"/><wi type="G" value="1654,4,">actos de caridad</wi>,
 <wi type="G" value="3361,5,">no</wi>
 <wi type="G" value="1097,6,">permitas</wi>
-<wi type="G" value="3588,7,"/> que
+<wi type="G" value="3588,7,">que</wi>
 </t>
 <rb xml:lang="es"><wi type="G" value="4675,9,">tu</wi>
 <wi type="G" value="710,8,">mano izquierda</wi>
