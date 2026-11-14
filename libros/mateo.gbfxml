@@ -1901,15 +1901,13 @@ Behold, a voice out of the heavens said,
 <wi type="G" value="3588,10,"/><wi type="G" value="3450,12,">mi</wi>
 <wi type="G" value="5207,11,">Hijo</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="27,14,">amado</wi>,
-</t>
-<rb xml:lang="es"><wi type="G" value="1722,15,">en</wi>
+<wi type="G" value="1722,15,">en</wi>
 <wi type="G" value="3739,16,">quien</wi>
-<wi type="G" value="2106,17,">estoy bien complacido</wi><rf>
+</t>
+<rb xml:lang="es"><wi type="G" value="2106,17,">estoy bien complacido</wi><rf>
 <citebib id="DiosHablaHoy"/> dice `a quien he elegido.´
-</rf><rf>
 Ver la nota en Lucas 3:22 sobre el tiempo de «estoy bien complacido».
-</rf>
-</rb>
+</rf></rb>
 <t xml:lang="es">
 .»
 </t>
@@ -10385,7 +10383,12 @@ My beloved in whom my soul is well pleased:
 <wi type="G" value="3739,11,">quien</wi>
 <wi type="G" value="3450,15,">mi</wi>
 <wi type="G" value="3588,13,"/><wi type="G" value="5590,14,">alma</wi>
-<wi type="G" value="2106,12,">está bien complacida</wi>:
+</t>
+<rb xml:lang="es"><wi type="G" value="2106,12,">está bien complacida</wi><rf>
+<citebib id="DiosHablaHoy"/> dice `a quien he elegido.´
+Ver la nota en Lucas 3:22 sobre el tiempo de «esta bien complacida».
+</rf></rb>
+<t xml:lang="es">:
 </t>
 <cl/>
 I will put my Spirit on him.
@@ -15716,7 +15719,11 @@ Mientras
 <wi type="G" value="3588,21,"/><wi type="G" value="27,22,">amado</wi>,
 <wi type="G" value="1722,23,">en</wi>
 <wi type="G" value="3739,24,">quien</wi>
-<wi type="G" value="2106,25,">estoy bien complacido</wi>.
+</t>
+<rb xml:lang="es"><wi type="G" value="2106,12,">estoy bien complacido</wi><rf>
+Ver la nota en Lucas 3:22 sobre el tiempo de «estoy bien complacido».
+</rf></rb>
+<t xml:lang="es">.
 <wi type="G" value="191,27,"><wi type="G" value="846,26,">Escúchenlo</wi></wi>.»
 </t>
 </sv>
