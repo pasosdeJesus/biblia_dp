@@ -114,6 +114,47 @@ session, call `crush_info` and read the `[model]` section (`large` / `small`).
 The hard guarantee is the model catalogue in `~/.config/crush/crush.json` (only
 `deepseek-v4-flash` should be listed); this rule is the safety net for other machines.
 
+### 10. Marcado `<wi>`: anidar o separar
+
+Detalle completo en `doc/REVISION-NT.md` («Convención para G3588»). Resumen
+operativo:
+
+**Anidar** (`<wi externo><wi interno>texto</wi></wi>`) solo cuando el español
+funde las dos palabras griegas en **una sola palabra**:
+
+- Contracciones `al`/`del` (G1519/G1537 + G3588).
+- Enclíticos: «recordarles» (G5279 + G5209), «minístrelo».
+- Sujeto pronominal implícito: «escuchamos» (G2249 ἡμεῖς + G191).
+
+**Separar** en `<wi>` hermanos cuando cada Strong tiene traducción propia:
+
+- Verbo auxiliar + participio: `se había` (G1096) + `ocultado` (G1416).
+- Preposición + demostrativo: `para` (G1519) + `esto` (G5124).
+- Verbo + pronombre: `estaba sentado` → verbo y pronombre por separado.
+
+**Nota al pie en texto español.** El `<rb xml:lang="es">` ya indica que el
+bloque es traducción, así que el `<rf>` lleva **solo** el texto de la nota, sin
+duplicarlo en un `<t xml:lang="es">` interno:
+
+```xml
+</t>
+<rb xml:lang="es"><wi type="G" value="4286,16,">de la proposición</wi><rf>
+Doce panes consagrados que cada sábado se ponían delante de Yahvé en el
+Tabernáculo y luego en el Templo (Levítico 24:5-9).</rf></rb>
+<t xml:lang="es">,
+```
+
+El contenido de `<rf>` empieza en línea nueva y `</rf></rb>` cierra en la
+misma línea.
+
+**Antes de editar** `libros/*.gbfxml` verificar con:
+
+```sh
+python3 -c "import xml.etree.ElementTree as ET; ET.parse('libros/LIBRO.gbfxml')"
+node herram/parse-revision.mjs LIBRO CAP   # missing/extra deben quedar vacíos
+node herram/analizar-anidacion.mjs LIBRO
+```
+
 ---
 
 > "Con seguridad les digo, donde quiera que esta Buena Nueva se predique por
