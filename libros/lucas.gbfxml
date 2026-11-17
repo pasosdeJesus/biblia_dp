@@ -20652,7 +20652,9 @@ You
 <wi type="G" value="2706,22,">despreciará</wi>
 <wi type="G" value="3588,20,">al</wi>
 <wi type="G" value="2087,21,">otro</wi>.
-<wi type="G" value="3756,23,"><wi type="G" value="1410,24,">Ustedes no pueden</wi></wi>
+<wi type="G" value="1410,24,">Ustedes</wi>
+<wi type="G" value="3756,23,">no</wi>
+<wi type="GC" value="24">pueden</wi>
 <wi type="G" value="1398,26,">servir</wi>
 <wi type="G" value="2316,25,">a Dios</wi>
 <wi type="G" value="2532,27,">y</wi>

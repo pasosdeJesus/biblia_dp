@@ -2247,7 +2247,8 @@ water and spirit, he can´t enter into the Kingdom of God!
 <wi type="G" value="5204,13,">agua</wi>
 <wi type="G" value="2532,14,">y</wi>
 <wi type="G" value="4151,15,">del Espíritu</wi>,
-¡<wi type="G" value="3756,16,"><wi type="G" value="1410,17,">No se puede</wi></wi>
+¡<wi type="G" value="3756,16,">No</wi>
+<wi type="G" value="1410,17,">se puede</wi>
 <wi type="G" value="1525,18,">entrar</wi>
 <wi type="G" value="1519,19,">al</wi>
 <wi type="G" value="3588,20,"/><wi type="G" value="932,21,">Reino</wi>
@@ -12867,7 +12868,8 @@ can´t be broken),
 <wi type="G" value="2532,12,">y</wi>
 <wi type="G" value="3588,16,">la</wi>
 <wi type="G" value="1124,17,">Escritura</wi>
-<wi type="G" value="3756,13,"><wi type="G" value="1410,14,">no puede</wi></wi>
+<wi type="G" value="3756,13,">no</wi>
+<wi type="G" value="1410,14,">puede</wi>
 <wi type="G" value="3089,15,">quebrantarse</wi>), 
 </t>
 </fr>
