@@ -71,6 +71,13 @@ function childNodesArr(el) {
   return arr
 }
 
+// Pronombres griegos personales (G846 αὐτός y familia): cuando van pegados al
+// verbo en español forman una sola palabra y no se separan.
+const PRONOMBRES = new Set([
+  846, 1473, 4771, 5210, 5216, 2249, 2257, 2254, 2248, 3165, 3427, 4671,
+  4571, 5209, 5213, 4771, 4675, 4674, 1438, 4572, 1439
+])
+
 // Texto completo de un nodo (concatenando nodos de texto descendientes).
 function textOf(node) {
   const parts = []
@@ -86,6 +93,10 @@ function textOf(node) {
 /**
  * Clasifica un <wi> anidado (externo → interno).
  * Devuelve: 'fusion' | 'separar' | 'locucion' | 'especial'.
+ *
+ * Criterio (doc/REVISION-NT.md y AGENTS.md §10): se anida cuando el español
+ * une las dos palabras griegas en una unidad indivisible; se separa solo
+ * cuando cada Strong tiene su propia palabra española independiente.
  */
 function classify(outerStrong, innerStrong, fullText) {
   const singleWord = !/\s/.test(fullText)
@@ -93,7 +104,33 @@ function classify(outerStrong, innerStrong, fullText) {
   // 1. Fusión correcta: una sola palabra = dos Strong (y no es artículo externo).
   if (singleWord && outerStrong !== 3588) return 'fusion'
 
-  // 2. Especial: requiere revisión manual.
+  // 2. Pronombre enclítico (pegado al verbo): «decirle», «diciéndole»,
+  // «díganles» son UNA palabra española, no se pueden separar.
+  // En cambio «les digo» sí es separable: son dos palabras.
+  // El regex exige que el verbo y el pronombre estén unidos, sin espacio.
+  if (PRONOMBRES.has(outerStrong) || PRONOMBRES.has(innerStrong)) {
+    if (/\b[a-záéíóúñ]+(le|les|lo|la|los|las|me|nos|te|se)\b/i.test(fullText) &&
+        !/\s+(le|les|lo|la|los|las|me|nos|te|se)\s/i.test(fullText)) {
+      return 'fusion'
+    }
+  }
+
+  // 2b. Cláusula relativa: el texto empieza por relativo («a quien», «quienes»,
+  // «lo que», «que»), así que el participio griego se vierte como relativa y
+  // el pronombre interno funciona como objeto dentro de ella.
+  if (/^\s*(a\s+)?(quien|quienes|el\s+que|la\s+que|los\s+que|las\s+que|lo\s+que|que)\b/i.test(fullText)) {
+    return 'fusion'
+  }
+
+  // 2c. Hebraísmo ἀποκριθεὶς εἶπεν (G611 «responder» + G2036 «decir»): el
+  // griego no tiene pronombre propio para el sujeto ni para el destinatario,
+  // así que «Él le contestó» o «le dijo» son añadidos exigidos por el español.
+  // Se acepta tanto la fusión («contestó») como la forma ampliada.
+  if (outerStrong === 611 && (innerStrong === 2036 || innerStrong === 3004)) {
+    return 'fusion'
+  }
+
+  // 3. Especial: requiere revisión manual.
   if (outerStrong === 3588) return 'especial' // artículo envuelve (convención antigua)
   if (innerStrong === 3588) return 'especial' // artículo envuelto multi-palabra
   if (outerStrong === 1438 || innerStrong === 1438) return 'especial' // reflexivo ἑαυτόν
@@ -101,10 +138,10 @@ function classify(outerStrong, innerStrong, fullText) {
   if (outerStrong === 846 && innerStrong === 846) return 'especial'   // doble pronombre
   if (outerStrong === 1440 && innerStrong === 1803) return 'especial' // numeral «setenta y seis»
 
-  // 3. Locución fija: expresión idiomática, no separar.
+  // 4. Locución fija: expresión idiomática, no separar.
   if (LOCUCIONES.has(`${outerStrong},${innerStrong}`)) return 'locucion'
 
-  // 4. Separar: cada palabra española corresponde a un Strong.
+  // 5. Separar: cada palabra española corresponde a un Strong.
   return 'separar'
 }
 

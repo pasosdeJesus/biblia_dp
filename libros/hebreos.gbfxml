@@ -5258,7 +5258,8 @@ grace?
 <wi type="G" value="129,14,">sangre</wi>
 <wi type="G" value="3588,15,">del</wi>
 <wi type="G" value="1242,16,">pacto</wi>
-<wi type="G" value="1722,19,"><wi type="G" value="3739,20,">con la que</wi></wi>
+<wi type="G" value="1722,19,">con</wi>
+<wi type="G" value="3739,20,">la que</wi>
 <wi type="G" value="37,21,">fue santificado</wi>
 <wi type="G" value="2532,22,">y</wi>
 que 

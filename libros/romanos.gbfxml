@@ -1023,7 +1023,8 @@ practice the same things.
 <wi type="G" value="3956,6,">todos los</wi>
 <wi type="G" value="3588,7,"/><wi type="G" value="2919,8,">que juzguen</wi>.
 <wi type="G" value="1063,11,">Pues</wi>
-<wi type="G" value="1722,9,"><wi type="G" value="3739,10,">en aquello</wi></wi>
+<wi type="G" value="1722,9,">en</wi>
+<wi type="G" value="3739,10,">aquello</wi>
 <wi type="G" value="2919,12,">que juzgas</wi>
 <wi type="G" value="3588,13,">a</wi>
 <wi type="G" value="2087,14,">otro</wi>,
@@ -4676,7 +4677,8 @@ of the spirit, and not in oldness of the letter.
 <rb xml:lang="es"><wi type="G" value="3588,5,">la</wi>
 <wi type="G" value="3551,6,">ley</wi>
 <wi type="G" value="599,7,">habiendo muerto</wi>
-<wi type="G" value="1722,8,"><wi type="G" value="3739,9,">en aquello</wi></wi>
+<wi type="G" value="1722,8,">en</wi>
+<wi type="G" value="3739,9,">aquello</wi>
 <wi type="G" value="2722,10,">que nos mantenía</wi><rf>
 <citebib id="SE"/> dice `Pero ahora somos libres de la ley de la muerte en la cual estábamos
 detenidos.´

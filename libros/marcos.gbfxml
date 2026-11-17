@@ -1368,7 +1368,8 @@ lying on.
 <wi type="G" value="5465,16,">bajaron</wi>
 <wi type="G" value="3588,17,">la</wi>
 <wi type="G" value="2895,18,">camilla</wi>
-<wi type="G" value="1909,19,"><wi type="G" value="3739,20,">en la que</wi></wi>
+<wi type="G" value="1909,19,">en</wi>
+<wi type="G" value="3739,20,">la que</wi>
 <wi type="G" value="2621,23,">yacía</wi>
 <wi type="G" value="3588,21,">el</wi>
 <wi type="G" value="3885,22,">paralítico</wi>. 

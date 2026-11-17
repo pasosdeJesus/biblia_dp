@@ -1100,7 +1100,8 @@ who raised him from the dead.
 <wi type="G" value="1722,3,">en</wi>
 <wi type="G" value="3588,4,">el</wi>
 <wi type="G" value="908,5,">bautismo</wi>,
-<wi type="G" value="1722,6,"><wi type="G" value="3739,7,">en el que</wi></wi>
+<wi type="G" value="1722,6,">en</wi>
+<wi type="G" value="3739,7,">el que</wi>
 <wi type="G" value="2532,8,">también</wi>
 <wi type="G" value="4891,9,">resucitaron</wi>
 <wi type="G" value="1223,10,">mediante</wi>
