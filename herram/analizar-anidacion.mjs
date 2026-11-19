@@ -63,6 +63,9 @@ const LOCUCIONES = new Set([
   '3767,3739', // οὖν ὅς → «lo que»
   '3754,3778', // ὅτι οὗτος → «este hombre»
   '2596,3778', // κατά οὗτος → «así mismo»
+  '686,3767',  // ἄρα οὖν → «así que, entonces»
+  '5087,1119', // τίθημι γόνυ → «poner la rodilla» = «arrodillarse»
+  '2955,2736', // κύπτω κάτω → «agacharse hacia abajo» = «agacharse»
 ])
 
 function childNodesArr(el) {
@@ -76,6 +79,18 @@ function childNodesArr(el) {
 const PRONOMBRES = new Set([
   846, 1473, 4771, 5210, 5216, 2249, 2257, 2254, 2248, 3165, 3427, 4671,
   4571, 5209, 5213, 4771, 4675, 4674, 1438, 4572, 1439
+])
+
+// Pronombres personales que pueden quedar implícitos en la desinencia verbal
+// española (sujeto): «llegó» = «él llegó», «escuchamos» = «nosotros».
+const PERSONALES = new Set([846, 1473, 4771, 5210, 2249, 2248, 5209, 5213, 5201])
+
+// Verbos de movimiento que, con G846 como sujeto, forman una unidad en
+// español porque el sujeto va implícito en la desinencia: «se iban»,
+// «habían vuelto», «ha concebido».
+const VERBOS_MOVIMIENTO = new Set([
+  1831, 4815, 2064, 4334, 565, 4198, 3854, 1525, 2597, 305, 402, 1910,
+  399, 424, 4863, 4313, 4314, 4260, 1279, 1350, 4198
 ])
 
 // Texto completo de un nodo (concatenando nodos de texto descendientes).
@@ -127,6 +142,21 @@ function classify(outerStrong, innerStrong, fullText) {
   // así que «Él le contestó» o «le dijo» son añadidos exigidos por el español.
   // Se acepta tanto la fusión («contestó») como la forma ampliada.
   if (outerStrong === 611 && (innerStrong === 2036 || innerStrong === 3004)) {
+    return 'fusion'
+  }
+
+  // 2d. Sujeto pronominal implícito (doc/REVISION-NT.md, caso 3): en español
+  // la desinencia verbal contiene el sujeto («llegó» = «él llegó»,
+  // «escuchamos» = «nosotros escuchamos»), así que el pronombre griego no
+  // tiene palabra propia y se anida dentro del verbo.
+  if (PERSONALES.has(innerStrong) && /^(cuando|al|después de|mientras|habiendo)\b/i.test(fullText)) {
+    return 'fusion'
+  }
+
+  // 2e. Genitivo absoluto o sujeto pronominal en participio: G846 αὐτός como
+  // sujeto del verbo en «se iban», «habían vuelto», «ha concebido». El
+  // español lleva el sujeto en la desinencia, así que se anida.
+  if (PERSONALES.has(outerStrong) && VERBOS_MOVIMIENTO.has(innerStrong)) {
     return 'fusion'
   }
 

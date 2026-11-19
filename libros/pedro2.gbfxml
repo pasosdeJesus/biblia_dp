@@ -569,20 +569,20 @@ Many will follow their
 <wi type="G" value="846,4,">sus</wi>
 </t>
 <rb>immoral
-<t xml:lang="es"><wi type="G" value="3588,5,"/><wi type="G" value="684,6,">caminos destructivos</wi></t><rf>
+<t xml:lang="es"><wi type="G" value="3588,5,"/><wi type="G" value="684,6,">caminos de destrucción</wi></t><rf>
 TR reads «destructive» instead of «immoral»
 <t xml:lang="es"><citebib id="WEB"/> dice `inmorales,´ con nota al pie
 que dice `TR dice «destructivos» en lugar de «inmorales»´.</t>
 </rf></rb>
  ways, and as a result, the way of the
 truth will be maligned.
-<t xml:lang="es">, y <wi type="G" value="3739,8,">como</wi>
-<wi type="G" value="1223,7,">resultado</wi>
+<t xml:lang="es">, <wi type="G" value="1223,7,">por</wi>
+<wi type="G" value="3739,8,">los cuales</wi>
 <wi type="G" value="3588,9,">el</wi>
 <wi type="G" value="3598,10,">camino</wi>
 <wi type="G" value="3588,11,">de la</wi>
 <wi type="G" value="225,12,">verdad</wi>
-<wi type="G" value="987,13,">será blasfemada</wi>.
+<wi type="G" value="987,13,">será blasfemado</wi>.
 </t>
 </sv>
 
@@ -606,7 +606,7 @@ destruction will not slumber.
 <wi type="G" value="846,17,">su</wi>
 <wi type="G" value="3588,15,"/><wi type="G" value="684,16,">destrucción</wi>
 <wi type="G" value="3756,18,">no</wi>
-<wi type="G" value="3573,19,">se duerme</wi>.
+<wi type="G" value="3573,19,">duerme</wi>.
 </t>
 </sv>
 

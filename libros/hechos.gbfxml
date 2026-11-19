@@ -19989,7 +19989,8 @@ judged!»
 <wi type="G" value="2532,28,">y</wi>
 <wi type="G" value="386,29,">a la resurrección</wi>
 <wi type="G" value="3498,30,">de los muertos</wi>
-<wi type="G" value="1473,31,"><wi type="G" value="2919,32,">estoy siendo juzgado</wi></wi>!» </t>
+<wi type="G" value="1473,31,">yo</wi>
+<wi type="G" value="2919,32,">estoy siendo juzgado</wi>!» </t>
 
 </sv></cm><cm>
 
@@ -21179,7 +21180,8 @@ resurrection of the dead I am being judged before you today!´»
 `¡<wi type="G" value="4012,12,">Con respecto</wi>
 <wi type="G" value="386,13,">a la resurrección</wi>
 <wi type="G" value="3498,14,">de los muertos</wi>
-<wi type="G" value="1473,15,"><wi type="G" value="2919,16,">estoy siendo juzgado</wi></wi>
+<wi type="G" value="1473,15,">yo</wi>
+<wi type="G" value="2919,16,">estoy siendo juzgado</wi>
 <wi type="G" value="5259,18,">por</wi>
 <wi type="G" value="5216,19,">ustedes</wi>
 <wi type="G" value="4594,17,">hoy</wi>!´» </t>
@@ -22217,9 +22219,9 @@ Why is it judged incredible with you, if God does raise the dead?
 <wi type="G" value="3588,7,"/><wi type="G" value="2316,8,">Dios</wi>
 <wi type="G" value="1453,10,">resucite</wi> de
 <wi type="G" value="3498,9,">la muerte</wi>? </t>
+</sv></cm>
 
-</sv></cm><cm>
-
+<cm>
 <sv id="Hechos-26-9">
 «I myself most assuredly thought that I ought to do many things contrary
 to the name of Jesus of Nazareth.

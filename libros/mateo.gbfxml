@@ -8279,7 +8279,9 @@ come on it, but if it isn´t worthy, let your peace return to you.
 </rf>
 </rb>
 <t xml:lang="es">
-<wi type="G" value="5600,4,"><wi type="G" value="514,7,">lo merece</wi></wi>
+<wi type="G" value="5600,4,">es</wi>
+<wi type="G" value="3303,3,">verdaderamente</wi>
+<wi type="G" value="514,7,">digna</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="2064,8,">que</wi>
 <wi type="G" value="3588,9,"/><wi type="G" value="5216,11,">su</wi>
 <wi type="G" value="1515,10,">paz</wi>
@@ -8289,7 +8291,8 @@ come on it, but if it isn´t worthy, let your peace return to you.
 <wi type="G" value="1161,15,">pero</wi>
 <wi type="G" value="1437,14,">si</wi>
 <wi type="G" value="3361,16,">no</wi>
-<wi type="G" value="5600,17,"><wi type="G" value="514,18,">lo merece</wi></wi>
+<wi type="G" value="5600,17,">es</wi>
+<wi type="G" value="514,18,">digna</wi>
 <wi type="G" value="3588,19,"/><wi type="G" value="1994,24,">que</wi>
 <wi type="G" value="5216,21,">su</wi>
 <wi type="G" value="1515,20,">paz</wi>
@@ -18087,7 +18090,8 @@ you. What then will we have?»
 <wi type="G" value="611,2,">contestó</wi>
 <wi type="G" value="2036,5,"><wi type="G" value="846,6,">diciendole</wi></wi>,
 «<wi type="G" value="2400,7,">Observa</wi>,
-<wi type="G" value="2249,8,"><wi type="G" value="863,9,">hemos dejado</wi></wi>
+<wi type="G" value="2249,8,">nosotros</wi>
+<wi type="G" value="863,9,">hemos dejado</wi>
 <wi type="G" value="3956,10,">todo</wi>,
 <wi type="G" value="2532,11,">y</wi>
 <wi type="G" value="4671,13,">te</wi>
@@ -19578,7 +19582,7 @@ He left them, and went out of the city to Bethany, and lodged there.
 <t xml:lang="es">
 <wi type="G" value="2532,1,"/><wi type="G" value="846,3,">Los</wi>
 <wi type="G" value="2641,2,">dejó</wi>,
-<wi type="G" value="1831,4,"><wi type="G" value="1854,5,">y salió</wi></wi>
+y <wi type="G" value="1831,4,"><wi type="G" value="1854,5,">salió</wi></wi>
 <wi type="G" value="3588,6,">de la</wi>
 <wi type="G" value="4172,7,">ciudad</wi> para ir
 <wi type="G" value="1519,8,">a</wi>
@@ -20610,7 +20614,8 @@ many as they found, both bad and good. The wedding was filled with guests.
 <wi type="G" value="3588,7,">los</wi>
 <wi type="G" value="3598,8,">caminos</wi>,
 <wi type="G" value="4863,9,">y reunieron</wi> a
-<wi type="G" value="3956,10,"><wi type="G" value="3745,11,">todos los que</wi></wi>
+<wi type="G" value="3956,10,">todos</wi>
+<wi type="G" value="3745,11,">los que</wi>
 <wi type="G" value="2147,12,">encontraron</wi>,
 <wi type="G" value="5037,14,">tanto</wi> a
 <wi type="G" value="4190,13,">malos</wi>
@@ -28768,7 +28773,8 @@ you always, even to the end of the age.»
 <t xml:lang="es">
 <wi type="G" value="1321,1,"><wi type="G" value="846,2,">enseñándoles</wi></wi>
 <wi type="G" value="5083,3,">a seguir</wi>
-<wi type="G" value="3956,4,"><wi type="G" value="3745,5,">todas las cosas que</wi></wi>
+<wi type="G" value="3956,4,">todas</wi>
+<wi type="G" value="3745,5,">las cosas que</wi>
 <wi type="G" value="5213,7,">les</wi>
 <wi type="G" value="1781,6,">he ordenado</wi>.
 <wi type="G" value="2532,8,"/><wi type="G" value="2400,9,">Miren</wi>,
