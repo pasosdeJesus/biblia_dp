@@ -617,38 +617,34 @@ sinned, but cast them down to
 <wi type="G" value="1487,1,">si</wi>
 <wi type="G" value="3588,3,"/><wi type="G" value="2316,4,">Dios</wi>
 <wi type="G" value="3756,7,">no</wi>
-<wi type="G" value="5339,8,">guardo</wi> a
+<wi type="G" value="5339,8,">libró</wi> a
 <wi type="G" value="32,5,">los ángeles</wi>
 <wi type="G" value="264,6,">que pecaron</wi>,
-<wi type="G" value="235,9,">sino</wi>
-<wi type="G" value="5020,12,">que</wi> los
-<wi type="GC" value="12">envió al</wi></t>
+<wi type="G" value="235,9,">sino que</wi>
+los
+</t>
 <rb>Tartarus
-<t xml:lang="es"><wi type="G" value="5020,12,">Tártaro</wi></t><rf>
+<t xml:lang="es"><wi type="G" value="5020,12,">envió al Tártaro</wi></t><rf>
 Tartarus is another name for Hell
-<t xml:lang="es">Así como los seres humanos tienen el Seol 
-(hebreo: שְׁאוֹל, sheol), que es el lugar de espera mientras llega el juicio 
-final y/o la resurrección (por ejemplo, Génesis 37:35; Salmo 16:10; Jonás 2:2),
-y que en el Nuevo Testamento se designa con el término griego Hades 
-(ᾅδης, hadēs), el mismo lugar de espera (Lucas 16:23; Hechos 2:27, 31; 
-Apocalipsis 20:13) como atestigua la Septuaginta.
-Los ángeles que pecaron descritos en este versículo podrían tener el 
-Tártaro (ταρταρώσας) como sitio de reclusión temporal. 
-O bien el cielo con Dios o bien el infierno (también llamado Gehena 
---Mateo 5:22-- y lago de fuego --Apocalipsis 20:10,14-15) serían los dos 
-únicos estados/lugares finales y eternos posibles tras el juicio 
-(Marcos 9:43-48; Apocalipsis 20:10, 15; 21:8), e incluso el Hades 
-y la muerte serán lanzados al infierno (Apocalipsis 20:14). 
-<citebib id="WEB"/> incluye una nota al pie que propone una interpretación
-diferente: `Tartaro es otro nombre para infierno.´</t>
+<t xml:lang="es">Concordamos con <citebib id="WEB"/> en
+mantener `enviar al Tártaro´ por similitud con el verbo 
+griego original ταρταρώσας, palabra que no vuelve a aparecer en el 
+Nuevo Testamento.
+Diferimos de la nota al pie de <citebib id="WEB"/> que dice
+`Tártaro es otro nombre para infierno´, porque Apocalipsis 20:10,14-15 o
+Mateo 25:41, entre otros, indican que el infierno (o Gehena o Lago de Fuego) 
+es un destino final y eterno posterior al juicio, mientras que 2 Pedro 2:4
+habla de un destino temporal para unos ángeles donde quedan confinados hasta
+el juicio --análogo al Seol/Hades  para los seres humanos (Génesis 37:35, 
+Lucas 16:23).</t>
 </rf>
 </rb>
 , and committed them to pits of darkness, to be reserved to judgment;
-<t xml:lang="es">, <wi type="G" value=",">y</wi> los
-<wi type="G" value="3860,13,">confinó</wi> a
-<wi type="G" value="4577,10,">pozos</wi>
+<t xml:lang="es">
+<wi type="G" value="3860,13,">confinándolos</wi> a
+<wi type="G" value="4577,10,">prisiones</wi>
 <wi type="G" value="2217,11,">de oscuridad</wi>,
-<wi type="G" value="5083,16,">para ser reservados</wi>
+<wi type="G" value="5083,16,">reservándolos</wi>
 <wi type="G" value="1519,14,">para</wi>
 <wi type="G" value="2920,15,">el juicio</wi>;</t>
 </sv>
