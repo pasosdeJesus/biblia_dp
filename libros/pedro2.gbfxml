@@ -627,15 +627,15 @@ los
 <t xml:lang="es"><wi type="G" value="5020,12,">envió al Tártaro</wi></t><rf>
 Tartarus is another name for Hell
 <t xml:lang="es">Concordamos con <citebib id="WEB"/> en
-mantener `enviar al Tártaro´ por similitud con el verbo 
-griego original ταρταρώσας, palabra que no vuelve a aparecer en el 
+mantener `enviar al Tártaro´ por similitud con el verbo
+griego original ταρταρώσας, palabra que no vuelve a aparecer en el
 Nuevo Testamento.
 Diferimos de la nota al pie de <citebib id="WEB"/> que dice
 `Tártaro es otro nombre para infierno´, porque Apocalipsis 20:10,14-15 o
-Mateo 25:41, entre otros, indican que el infierno (o Gehena o Lago de Fuego) 
+Mateo 25:41, entre otros, indican que el infierno (o Gehena o Lago de Fuego)
 es un destino final y eterno posterior al juicio, mientras que 2 Pedro 2:4
 habla de un destino temporal para unos ángeles donde quedan confinados hasta
-el juicio --análogo al Seol/Hades  para los seres humanos (Génesis 37:35, 
+el juicio --análogo al Seol/Hades  para los seres humanos (Génesis 37:35,
 Lucas 16:23).</t>
 </rf>
 </rb>
@@ -653,12 +653,46 @@ Lucas 16:23).</t>
 and didn´t spare the ancient world, but preserved Noah with seven
 others, a preacher of righteousness, when he brought a flood on the world of
 the ungodly;
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="3756,4,">no</wi>
+<wi type="G" value="5339,5,">perdonó</wi> al
+<wi type="G" value="2889,3,">mundo</wi>
+<wi type="G" value="744,2,">antiguo</wi>,
+<wi type="G" value="235,6,">pero</wi>
+<wi type="G" value="5442,11,">preservó a</wi>
+<wi type="G" value="3575,8,">Noé</wi>
+</t>
+<rb xml:lang="es">como <wi type="G" value="3590,7,">octavo</wi><rf>
+<citebib id="WEB"/> dice `con otros siete,´
+<citebib id="KJV2003"/> dice `la octava persona,´
+<citebib id="RVG2012"/> dice `con otras siete personas,´
+<citebib id="TR"/> dice `el octavo.´</rf></rb>
+<t xml:lang="es">,
+<wi type="G" value="2783,10,">un predicador</wi>
+<wi type="G" value="1343,9,">de rectitud</wi>,
+<wi type="G" value="1863,15,">trayendo</wi>
+el <wi type="G" value="2627,12,">diluvio</wi> al
+<wi type="G" value="2889,13,">mundo</wi>
+<wi type="G" value="765,14,">de los impíos</wi>;</t>
 </sv>
 
 <sv id="2_Pedro-2-6">
 and turning the cities of Sodom and Gomorrah into ashes,
 condemned them to destruction, having made them an example to those who would
 live ungodly;
+<t xml:lang="es"><wi type="G" value="2532,1,">y</wi>
+<wi type="G" value="5077,6,">volviendo cenizas</wi>
+<wi type="G" value="4172,2,">las ciudades</wi>
+<wi type="G" value="4670,3,">de Sodoma</wi>
+<wi type="G" value="2532,4,">y</wi>
+<wi type="G" value="1116,5,">Gomorra</wi>,
+<wi type="G" value="2632,8,">condenadas</wi> a
+<wi type="G" value="2692,7,">destrucción</wi>,
+<wi type="G" value="5087,12,">haciéndolas</wi>
+<wi type="G" value="5262,9,">un ejemplo</wi>
+<wi type="G" value="3195,10,">para los que fueran a</wi>
+<wi type="G" value="764,11,">vivir impíamente</wi>.
+</t>
 </sv>
 
 <sv id="2_Pedro-2-7">
