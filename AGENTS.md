@@ -44,7 +44,7 @@ Jesus is God incarnated, the Truth and the Logos.
 | **[SACRED.md](SACRED.md)** | Sacred invocation marking (`sacred="yes"`): completed books and pending, extraction commands from OSIS morphology |
 | **[doc/FORMATO.md](doc/FORMATO.md)** | Format conversion pipeline: GBF → GBFXML → DocBook → HTML/TeX/PS/PDF |
 | **[doc/NOMBRES.md](doc/NOMBRES.md)** | Name conventions: Yahvé for YHWH, RV1960 standard for other proper names |
-| **[doc/estilo-gbfxml.md](doc/estilo-gbfxml.md)** | Guía de estilo: formato GBFXML, indentación, convención de tags `<wi>`, líneas, `<rb><rf>` |
+| **[doc/estilo-gbfxml.md](doc/estilo-gbfxml.md)** | Formato visual: indentación, líneas, `<rb>`/`<rf>` |
 | **[doc/AT.md](doc/AT.md)** | OT translation plan: phases, sources (WEB Classic Yahweh Edition), Strong type H |
 
 ### 4.2 Project structure
@@ -114,46 +114,27 @@ session, call `crush_info` and read the `[model]` section (`large` / `small`).
 The hard guarantee is the model catalogue in `~/.config/crush/crush.json` (only
 `deepseek-v4-flash` should be listed); this rule is the safety net for other machines.
 
-### 10. Marcado `<wi>`: anidar o separar
+### 10. Marcado GBFXML
 
-Detalle completo en `doc/REVISION-NT.md` («Convención para G3588»). Resumen
-operativo:
+La especificación normativa del marcado está en **[`doc/gbfxml.md`](doc/gbfxml.md)**:
+§3 `<wi>` (anidar/separar, `GC`, vacíos, orden de posiciones) y §4 notas
+(`<rb>`/`<rf>`, los dos usos de `<rb>`).
 
-**Anidar** (`<wi externo><wi interno>texto</wi></wi>`) solo cuando el español
-funde las dos palabras griegas en **una sola palabra**:
+Documentos auxiliares:
 
-- Contracciones `al`/`del` (G1519/G1537 + G3588).
-- Enclíticos: «recordarles» (G5279 + G5209), «minístrelo».
-- Sujeto pronominal implícito: «escuchamos» (G2249 ἡμεῖς + G191).
+- **[`doc/estilo-gbfxml.md`](doc/estilo-gbfxml.md)** — formato visual (indentación, líneas, wrapping).
+- **[`doc/REVISION-NT.md`](doc/REVISION-NT.md)** — protocolo de revisión por versículo.
+- **[`herram/analizar-anidacion.mjs`](herram/analizar-anidacion.mjs)** — clasificador de anidaciones.
 
-**Separar** en `<wi>` hermanos cuando cada Strong tiene traducción propia:
-
-- Verbo auxiliar + participio: `se había` (G1096) + `ocultado` (G1416).
-- Preposición + demostrativo: `para` (G1519) + `esto` (G5124).
-- Verbo + pronombre: `estaba sentado` → verbo y pronombre por separado.
-
-**Nota al pie en texto español.** El `<rb xml:lang="es">` ya indica que el
-bloque es traducción, así que el `<rf>` lleva **solo** el texto de la nota, sin
-duplicarlo en un `<t xml:lang="es">` interno:
-
-```xml
-</t>
-<rb xml:lang="es"><wi type="G" value="4286,16,">de la proposición</wi><rf>
-Doce panes consagrados que cada sábado se ponían delante de Yahvé en el
-Tabernáculo y luego en el Templo (Levítico 24:5-9).</rf></rb>
-<t xml:lang="es">,
-```
-
-El contenido de `<rf>` empieza en línea nueva y `</rf></rb>` cierra en la
-misma línea.
-
-**Antes de editar** `libros/*.gbfxml` verificar con:
+**Regla dura:** toda edición de `libros/*.gbfxml` requiere leer antes
+`doc/gbfxml.md` §3-4. La verificación posterior es obligatoria:
 
 ```sh
 python3 -c "import xml.etree.ElementTree as ET; ET.parse('libros/LIBRO.gbfxml')"
 node herram/parse-revision.mjs LIBRO CAP   # missing/extra deben quedar vacíos
 node herram/analizar-anidacion.mjs LIBRO
 ```
+
 
 ---
 

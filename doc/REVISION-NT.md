@@ -474,79 +474,17 @@ Ejemplo: G2150 aparece en 1 Tim 2:2, 3:16, 4:7,8, 6:3,5,6,11 - debe ser siempre
 
 ### Convención para G3588 (artículo griego ὁ/ἡ/τό)
 
-A partir de 2026, G3588 **no se anida** dentro de otro `<wi>` **cuando cada
-palabra griega se traduce como una palabra española separada**. En ese caso se
-separa como elemento independiente según su traducción al español.
+> **La regla normativa de anidar/separar está en
+> [`doc/gbfxml.md`](gbfxml.md) §3.3.** Aquí se resume solo lo específico del
+> artículo y del procesamiento automatizado.
 
-**Excepción (anidación correcta):** Cuando una sola palabra en español
-corresponde a dos o más palabras en griego, el `<wi>` anidado es correcto: el
-`<wi>` externo envuelve la palabra española completa y el interno marca la
-subpalabra griega que le corresponde. Casos típicos: contracción de preposición
-+ artículo («al», «del») y pronombre enclítico fusionado con el verbo
-(«recordarles»). Ejemplos:
+A partir de 2026, G3588 **no se anida** dentro de otro `<wi>` cuando cada
+palabra griega se traduce como una palabra española separada: se separa como
+elemento independiente según su traducción al español.
 
-```xml
-<!-- «al» = G1519 (εἰς «a») + G3588 (τήν «el»): anidación correcta -->
-<wi type="G" value="1519,8,"><wi type="G" value="3588,9,">al</wi></wi>
-
-<!-- «recordarles» = G5279 (ὑπομιμνήσκειν «recordar») + G5209 (ὑμᾶς «les») -->
-<wi type="G" value="5279,6,"><wi type="G" value="5209,4,">recordarles</wi></wi>
-```
-
-**Caso 3: sujeto pronominal implícito.** En español la desinencia verbal
-contiene el sujeto («escuchamos» = «nosotros escuchamos»), mientras el griego
-puede añadir el pronombre enfático. El pronombre se anida dentro del verbo que
-lo absorbe:
-
-```xml
-<!-- «escuchamos» = G2249 (ἡμεῖς «nosotros») + G191 (ἠκούσαμεν «escuchamos») -->
-<wi type="G" value="2249,5,"><wi type="G" value="191,6,">escuchamos</wi></wi>
-```
-
-*2 Pedro 1:18 — καὶ ταύτην τὴν φωνὴν ἡμεῖς ἠκούσαμεν: el ἡμεῖς enfático no
-tiene palabra española propia porque el verbo ya la expresa.*
-
-**Regla general:** El artículo se extrae del texto de la palabra que modifica.
-
-**Cuando el artículo tiene traducción explícita:**
-```xml
-<!-- ANTES (anidado): -->
-<wi type="G" value="3588,5,"><wi type="G" value="4864,6,">la sinagoga</wi></wi>
-
-<!-- AHORA (separado): -->
-<wi type="G" value="3588,5,">la</wi>
-<wi type="G" value="4864,6,">sinagoga</wi>
-```
-
-**Cuando el artículo no se traduce al español** (ej. ante nombres propios,
-sustantivos sin artículo en español):
-```xml
-<!-- ANTES (anidado): -->
-<wi type="G" value="3588,3,"><wi type="G" value="2424,4,">Jesús</wi></wi>
-
-<!-- AHORA (vacío, sin espacio con la siguiente palabra): -->
-<wi type="G" value="3588,3,"/><wi type="G" value="2424,4,">Jesús</wi>
-```
-
-**Contracciones y preposiciones:** Cuando el artículo griego en caso oblicuo
-(dativo, genitivo) funciona como preposición en español, G3588 recibe esa
-preposición:
-- τῷ → «al», «a la», «a los»  |  τοῦ → «del», «de la», «de los», «de»
-- Ej: `<wi type="G" value="3588,16,">a</wi> <wi type="G" value="2316,17,">Dios</wi>`
-- Ej: `<wi type="G" value="3588,6,">de</wi> <wi type="G" value="2316,7,">Dios</wi>`
-
-**Artículos que se extraen** (en orden de prioridad, coincidencia más larga):
-`de los`, `de las`, `de la`, `a los que`, `a los`, `a las`, `a la`,
-`en los`, `en las`, `en el`, `en la`, `por los`, `por las`, `por el`, `por la`,
-`los que`, `las que`, `del`, `al`, `de`, `a`,
-`Los`, `Las`, `los`, `las`, `El`, `La`, `el`, `la`,
-`Un`, `Una`, `un`, `una`, `unos`, `unas`.
-
-**Script de conversión:** `herram/art3588.mjs` automatiza esta transformación
-por capítulo:
-```bash
-node herram/art3588.mjs <libro> <capítulo>
-```
+**Excepción (anidación correcta):** cuando una sola palabra en español
+corresponde a dos o más palabras en griego (contracción «al»/«del», enclítico
+«recordarles», sujeto implícito «escuchamos»). Ver `doc/gbfxml.md` §3.3.
 
 ### Uso demostrativo del artículo (G3588)
 

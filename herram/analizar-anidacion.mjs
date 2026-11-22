@@ -11,6 +11,11 @@
 //   🔍 Especial: artículo G3588, reflexivo G1438, arameo, doble pronombre o
 //     numeral; requiere revisión manual.
 //
+// Además señala <wi/> vacíos seguidos de una palabra traducida (➕): el Strong
+// sin palabra propia debe anidarse dentro del <wi> que sí la tiene, para que no
+// parezca omitido en la traducción y para que la concordancia no lo asigne a
+// la palabra española equivocada.
+//
 // Uso:
 //   node herram/analizar-anidacion.mjs           (todo el NT)
 //   node herram/analizar-anidacion.mjs mateo     (un libro)
@@ -205,6 +210,40 @@ function findNestedWi(sv) {
   return nested
 }
 
+// <wi/> vacío seguido de una palabra traducida que no lleva su propio <wi>.
+// Esos Strong se anidan dentro del <wi> siguiente (o de la palabra que traduce
+// el conjunto) en lugar de quedar como <wi/> suelto.
+const SIN_PALABRA_PROPIA = new Set([
+  3588, 846, 2532, 1161, 1063, 3754, 3767, 235, 3303, 1065, 686, 2228,
+  3361, 3756, 5101, 302, 1437, 1487, 2443, 3739
+])
+
+function findSoloVacioSeguido(sv) {
+  const candidatos = []
+  function walk(n) {
+    if (n.nodeType !== 1) return
+    if (n.tagName === 'wi') {
+      const value = n.getAttribute('value') || ''
+      const m = value.match(/^[A-Za-z]*(\d+),/)
+      const strong = m ? parseInt(m[1], 10) : 0
+      if (!textOf(n).trim() && strong && !SIN_PALABRA_PROPIA.has(strong)) {
+        let next = n.nextSibling
+        while (next && next.nodeType === 3 && !next.nodeValue.trim()) next = next.nextSibling
+        if (next && next.nodeType === 1 && next.tagName === 'wi' && textOf(next).trim()) {
+          candidatos.push({
+            outer: value,
+            inner: next.getAttribute('value') || '',
+            text: textOf(next).trim()
+          })
+        }
+      }
+    }
+    for (const c of childNodesArr(n)) walk(c)
+  }
+  walk(sv)
+  return candidatos
+}
+
 function analyzeFile(filepath, bookName) {
   if (!fs.existsSync(filepath)) return null
   const content = fs.readFileSync(filepath, 'utf-8')
@@ -221,8 +260,9 @@ function analyzeFile(filepath, bookName) {
   for (let i = 0; i < svElements.length; i++) {
     const sv = svElements[i]
     const nested = findNestedWi(sv)
-    if (nested.length > 0) {
-      verses.push({ id: sv.getAttribute('id') || '', nested })
+    const solo = findSoloVacioSeguido(sv)
+    if (nested.length > 0 || solo.length > 0) {
+      verses.push({ id: sv.getAttribute('id') || '', nested, solo })
     }
   }
   return { book: bookName, verses }
@@ -245,6 +285,7 @@ function main() {
 
   let totalVerses = 0
   const totales = { fusion: 0, separar: 0, locucion: 0, especial: 0 }
+  let totalSugeridos = 0
 
   for (const book of books) {
     const filepath = path.join(__dirname, '..', 'libros', `${book}.gbfxml`)
@@ -263,6 +304,10 @@ function main() {
         console.log(`    ${ETIQUETAS[n.category]} <wi value="${n.outer}"> contiene <wi value="${n.inner}">  [«${n.text}»]`)
         totales[n.category]++
       }
+      for (const n of v.solo) {
+        console.log(`    ➕ anidar <wi value="${n.outer}"/> en <wi value="${n.inner}">  [«${n.text}»]`)
+        totalSugeridos++
+      }
       totalVerses++
     }
   }
@@ -278,6 +323,7 @@ function main() {
     console.log(`   ⚠ A separar: ${totales.separar}`)
     console.log(`   🔗 Locución fija (no separar): ${totales.locucion}`)
     console.log(`   🔍 Especial (revisar manual): ${totales.especial}`)
+    console.log(`   ➕ <wi/> vacío a anidar en la palabra siguiente: ${totalSugeridos}`)
   }
   console.log('='.repeat(70))
 }
