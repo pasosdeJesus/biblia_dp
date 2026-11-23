@@ -777,7 +777,7 @@ to speak evil of dignitaries;
 <wi type="G" value="829,14,">voluntariosos</wi>,
 <wi type="G" value="3756,16,">no</wi>
 <wi type="G" value="5141,17,">temen</wi>
-<wi type="G" value="987,18,">hablar mal</wi>
+<wi type="G" value="987,18,">blasfemar</wi>
 de <wi type="G" value="1391,15,">las dignidades</wi>.
 </t>
 </sv>
@@ -785,19 +785,19 @@ de <wi type="G" value="1391,15,">las dignidades</wi>.
 <sv id="2_Pedro-2-11">
 whereas angels, though greater in might
 and power, don´t bring a railing judgment against them before the Lord.
-<t xml:lang="es"><wi type="G" value="3699,1,">En cuanto a</wi>
+<t xml:lang="es"><wi type="G" value="3699,1,">Mientras que</wi>
 <wi type="G" value="32,2,">los ángeles</wi>,
-<wi type="G" value="5607,7,">aunque</wi>
+<wi type="G" value="5607,7,">aun siendo</wi>
 <wi type="G" value="3173,6,">mayores</wi> en
 <wi type="G" value="2479,3,">fuerza</wi>
 <wi type="G" value="2532,4,">y</wi>
 <wi type="G" value="1411,5,">potencia</wi>,
 <wi type="G" value="3756,8,">no</wi>
 <wi type="G" value="5342,9,">traen</wi>
-<wi type="G" value="2920,15,">un juicio</wi>
-<wi type="G" value="989,14,">de maldición</wi>
 <wi type="G" value="2596,10,">contra</wi>
 <wi type="G" value="846,11,">ellos</wi>
+<wi type="G" value="2920,15,">un juicio</wi>
+<wi type="G" value="989,14,">por blasfemia</wi>
 <wi type="G" value="3844,12,">ante</wi>
 <wi type="G" value="2962,13,">el Señor</wi>.</t>
 </sv>
@@ -809,23 +809,22 @@ in their destroying surely be destroyed,
 <t xml:lang="es"><wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="3778,1,">estos</wi>,
 <wi type="G" value="5613,3,">como</wi>
-<wi type="G" value="2226,5,">criaturas</wi>
-<wi type="G" value="249,4,">irracionales</wi>
-<wi type="G" value="5446,6,">naturalmente</wi>
-<wi type="G" value="1080,7,">nacidos</wi>
+<wi type="G" value="2226,5,">animales</wi>
+<wi type="G" value="249,4,">irracionales</wi>,
+<wi type="G" value="1080,7,">hechos</wi>
+<wi type="G" value="5446,6,">por naturaleza</wi>
 <wi type="G" value="1519,8,">para</wi>
-<wi type="G" value="259,9,">ser sujetados</wi>
+<wi type="G" value="259,9,">ser capturados</wi>
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="5356,11,">destruidos</wi>,
-<wi type="G" value="987,15,">hablan mal</wi>
+<wi type="G" value="987,15,">blasfemando</wi>
 <wi type="G" value="1722,12,">de</wi>
-<wi type="G" value="3739,13,">cosas</wi> que
-<wi type="G" value="50,14,">ignoran</wi>,
-y
-<wi type="G" value="2704,20,">perecerán</wi>
+<wi type="G" value="3739,13,">lo que</wi>
+<wi type="G" value="50,14,">no conocen</wi>,
+<wi type="G" value="2704,20,">se corromperán</wi>
 <wi type="G" value="1722,16,">en</wi>
 <wi type="G" value="846,19,">su propia</wi>
-<wi type="G" value="3588,17,"/><wi type="G" value="5356,18,">corrupción</wi>,</t>
+<wi type="G" value="3588,17,"/><wi type="G" value="5356,18,">destrucción</wi>,</t>
 </sv>
 
 <sv id="2_Pedro-2-13">
