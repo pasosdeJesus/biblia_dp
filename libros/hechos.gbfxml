@@ -8692,20 +8692,21 @@ house, stood before the gate,
 <wi type="G" value="5613,1,">mientras</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="4074,7,">Pedro</wi>
 </t>
-<rb xml:lang="es"><wi type="G" value="1280,5,"><wi type="G" value="1438,4,">estaba perplejo</wi></wi><rf>
-<citebib id="WEB"/> dice `estaba perplejo en si mismo,´ <citebib id="KJV2003"/> dice `dudaba,´ según <citebib id="Thayer-BLB"/> la
+<rb xml:lang="es"><wi type="G" value="1280,5,">se preguntaba</wi>
+<wi type="G" value="1722,3,">a</wi>
+<wi type="G" value="1438,4,">sí mismo</wi><rf>
+<citebib id="WEB"/> dice `estaba perplejo en sí mismo,´ <citebib id="KJV2003"/> dice `dudaba,´ según <citebib id="Thayer-BLB"/> la
 palabra griega `διαπορέω´ se traduce como estar totalmente perdido o estar
 perplejo.
 </rf></rb>
 <t xml:lang="es">
-<wi type="G" value="1722,3,">por</wi>
 <wi type="G" value="5101,8,">lo que</wi>
 <wi type="G" value="302,9,"/><wi type="G" value="1498,10,">podría significar</wi>
 <wi type="G" value="3588,11,">la</wi>
 <wi type="G" value="3705,12,">visión</wi>
 <wi type="G" value="3739,13,">que</wi>
 <wi type="G" value="1492,14,">tuvo</wi>,
-<wi type="G" value="2400,16,">observe que</wi>
+<wi type="G" value="2400,16,">he aquí</wi>
 <wi type="G" value="3588,17,">los</wi>
 <wi type="G" value="435,18,">hombres</wi>
 <wi type="G" value="3588,19,">que</wi>
