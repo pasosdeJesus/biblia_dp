@@ -2664,7 +2664,8 @@ y
 <citebib id="KJV2003"/> la palabra griega `makarios´ se traduce como bendito o feliz.
 </rf>
 </rb>
-<rb xml:lang="es"><wi type="G" value="3588,2,">los</wi> <wi type="G" value="4434,3,">pobres</wi>
+<rb xml:lang="es"><wi type="G" value="3588,2,">los</wi>
+<wi type="G" value="4434,3,">pobres</wi>
 <wi type="G" value="3588,4,"/><wi type="G" value="4151,5,">en espíritu</wi><rf>
 <citebib id="WEB"/> y <citebib id="KJV2003"/> dicen `pobres en espíritu,´ <citebib id="DieBibel"/> dice `pobres,´ <citebib id="DiosHablaHoy"/> dice `los que
 reconocen su necesidad espiritual.´
@@ -5284,7 +5285,8 @@ que
 <wi type="G" value="3588,17,">la</wi>
 <wi type="G" value="1385,18,">viga</wi> está
 <wi type="G" value="1722,19,">en</wi>
-<wi type="G" value="3588,20,"/><wi type="G" value="4675,22,"><wi type="G" value="3788,21,">el tuyo</wi></wi>?
+<wi type="G" value="3588,20,">el</wi>
+<wi type="G" value="4675,22,"><wi type="G" value="3788,21,"/>tuyo</wi>?
 </t>
 </fr>
 </sv>
@@ -10074,7 +10076,13 @@ for those who were with him, but only for the priests?
 <wi type="G" value="2316,7,">Dios</wi>
 <wi type="G" value="2532,8,">y</wi>
 <wi type="G" value="5315,13,">comió</wi>
-<wi type="G" value="3588,9,"/><wi type="G" value="740,10,"><wi type="G" value="4286,12,">del pan sagrado</wi></wi>
+<wi type="G" value="3588,9,">los</wi>
+<wi type="G" value="740,10,">panes</wi>
+</t>
+<rb xml:lang="es"><wi type="G" value="4286,12,">de la proposición</wi><rf>
+Doce panes consagrados que cada sábado se ponían delante de Yahvé en el
+Tabernáculo y luego en el Templo (Levítico 24:5-9).</rf></rb>
+<t xml:lang="es">
 <wi type="G" value="3588,11,">el</wi>
 <wi type="G" value="3739,14,">cual</wi>
 <wi type="G" value="3756,15,">no</wi>
@@ -14055,7 +14063,8 @@ proceeds out of the mouth, this defiles the man.»
 <wi type="G" value="235,10,">sino</wi>
 <wi type="G" value="3588,11,"/><wi type="G" value="1607,12,">lo que sale</wi>
 <wi type="G" value="1537,13,">de</wi>
-<wi type="G" value="3588,14,">la</wi> <wi type="G" value="4750,15,">boca</wi>,
+<wi type="G" value="3588,14,">la</wi>
+<wi type="G" value="4750,15,">boca</wi>,
 <wi type="G" value="5124,16,">eso</wi>
 es
 <wi type="G" value="2840,17,">lo que hace impuro</wi>
@@ -15380,7 +15389,9 @@ scribes, and be killed, and the third day be raised up.
 <wi type="G" value="2532,26,"/> que
 <wi type="G" value="615,27,">sería asesinado</wi>
 <wi type="G" value="2532,28,">y</wi>
-<wi type="G" value="3588,29,"/><wi type="G" value="2250,31,"><wi type="G" value="5154,30,">al tercer día</wi></wi>
+<wi type="G" value="3588,29,">al</wi>
+<wi type="G" value="5154,30,">tercer</wi>
+<wi type="G" value="2250,31,">día</wi>
 <wi type="G" value="1453,32,">resucitaría</wi>.
 </t>
 </sv>
@@ -18419,7 +18430,8 @@ and you will receive whatever is right.´
 `<wi type="G" value="5217,9,"><wi type="G" value="5210,11,">Vayan</wi></wi>
 <wi type="G" value="2532,10,">también</wi>
 <wi type="G" value="1519,12,">a</wi>
-<wi type="G" value="3588,13,">la</wi> <wi type="G" value="290,14,">viña</wi>,
+<wi type="G" value="3588,13,">la</wi>
+<wi type="G" value="290,14,">viña</wi>,
 <wi type="G" value="2532,15,">y</wi>
 <wi type="G" value="2983,20,">recibirán</wi>
 <wi type="G" value="3739,16,">lo que</wi>
@@ -21379,7 +21391,8 @@ Sit on my right hand,
 Until I make your enemies a footstool for your feet?´
 <rb xml:lang="es"><wi type="G" value="2193,11,">Hasta</wi>
 <wi type="G" value="302,12,"/><wi type="G" value="5087,13,">que haga</wi>
-<wi type="G" value="3588,14,">de</wi> <wi type="G" value="4675,16,">tus</wi>
+<wi type="G" value="3588,14,">de</wi>
+<wi type="G" value="4675,16,">tus</wi>
 <wi type="G" value="2190,15,">enemigos</wi><cl/><wi type="G" value="5286,17,">un estrado</wi>
 <wi type="G" value="4228,19,"/><wi type="G" value="4675,20,">para tus</wi>
 <wi type="GC" value="17">pies</wi>
@@ -25273,7 +25286,8 @@ Passover.
 <wi type="G" value="3588,8,"/><wi type="G" value="4929,6,">ordenó</wi>,
 <wi type="G" value="2532,10,">y</wi>
 <wi type="G" value="2090,11,">prepararon</wi>
-<wi type="G" value="3588,12,">la</wi> <wi type="G" value="3957,13,">Pascua</wi>.
+<wi type="G" value="3588,12,">la</wi>
+<wi type="G" value="3957,13,">Pascua</wi>.
 </t>
 </sv>
 <sv id="Mateo-26-20">
@@ -27583,8 +27597,10 @@ accusation against him written, «THIS IS JESUS, THE KING OF THE JEWS.»
 «<wi type="G" value="3778,11,">ESTE</wi>
 <wi type="G" value="2076,12,">ES</wi>
 <wi type="G" value="2424,13,">JESÚS</wi>,
-<wi type="G" value="3588,14,"/><wi type="G" value="935,15,">EL REY</wi>
-<wi type="G" value="3588,16,"/><wi type="G" value="2453,17,">DE LOS JUDÍOS</wi>.»
+<wi type="G" value="3588,14,">EL</wi>
+<wi type="G" value="935,15,">REY</wi>
+<wi type="G" value="3588,16,">DE LOS</wi>
+<wi type="G" value="2453,17,">JUDÍOS</wi>.»
 </t>
 </sv>
 </cm>
@@ -28787,7 +28803,8 @@ you always, even to the end of the age.»
 </t>
 <rb xml:lang="es"><wi type="G" value="3588,18,">el</wi>
 <wi type="G" value="4930,19,">fin</wi>
-<wi type="G" value="3588,20,">del</wi> <wi type="G" value="165,21,">mundo</wi><rf>
+<wi type="G" value="3588,20,">del</wi>
+<wi type="G" value="165,21,">mundo</wi><rf>
 <citebib id="Peshitta"/> y <citebib id="KJV2003"/> dicen `el fin del mundo,´ <citebib id="WEB"/> dice `fin de la epoca.´
 </rf>
 </rb>

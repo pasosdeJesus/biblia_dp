@@ -2124,7 +2124,8 @@ follow later.
 <t xml:lang="es">
 <wi type="G" value="3588,3,">Los</wi>
 <wi type="G" value="266,4,">pecados</wi>
-de <wi type="G" value="5100,1,">algunos</wi> <wi type="G" value="444,2,">hombres</wi>
+de <wi type="G" value="5100,1,">algunos</wi>
+<wi type="G" value="444,2,">hombres</wi>
 <wi type="G" value="1526,6,">son</wi>
 <wi type="G" value="4271,5,">evidentes</wi>,
 <wi type="G" value="4254,7,">precediendolos</wi>
