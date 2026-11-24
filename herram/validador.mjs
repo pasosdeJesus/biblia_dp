@@ -278,6 +278,13 @@ async function main() {
   if (booksToValidate.length >= 1) {
     targetBook = booksToValidate[0].toLowerCase();
   }
+  if (targetBook && !BOOK_MAP[targetBook]) {
+    // Sin esta salida el libro inexistente se saltaba y el resultado parecía
+    // limpio (todo en 0), que es peor que fallar.
+    console.error(`Libro desconocido: ${targetBook}`);
+    console.error(`Nombres válidos: ${Object.keys(BOOK_MAP).join(', ')}`);
+    process.exit(1);
+  }
   if (booksToValidate.length >= 2) {
     targetChapter = parseInt(booksToValidate[1], 10);
   }

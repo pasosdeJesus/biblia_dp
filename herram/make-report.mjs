@@ -14,6 +14,7 @@
 // SpaTDP/KJV y la verificación (hallazgos + diferencias Strong).
 
 import fs from 'fs'
+import { isException } from './lib/exceptions.js'
 
 const jsonPath = process.argv[2]
 const findingsPath = process.argv[3]
@@ -25,6 +26,8 @@ if (!jsonPath) {
 }
 
 const d = JSON.parse(fs.readFileSync(jsonPath, 'utf-8'))
+const libro = d.libro || ''
+const cap = d.cap || ''
 const gbf = d.gbf
 const kjv = d.kjv
 const rvg = d.rvg
@@ -295,7 +298,24 @@ for (const v of Object.keys(gbf).sort((a, b) => a - b)) {
   for (const l of lex) out.push(`- ${l}`)
   for (const w of warns) out.push(`- ⚠️ ${w}`)
   if (g.missing.length || g.extra.length) {
-    out.push(`- Diferencia Strong: faltan [${strongs(g.missing)}]; sobran [${strongs(g.extra)}]`)
+    // Las diferencias respecto al KJV pueden venir de seguir el Textus
+    // Receptus. herram/data/excepciones.json documenta esos casos con su
+    // razón; si coinciden, no se reportan como problema.
+    const marca = (lista) => new Set(lista.map(x => `G${x[0]}-${x[1]}`))
+    // Nota: g.missing son los del KJV que faltan en SpaTDP; g.extra son los de
+    // SpaTDP que no están en el KJV. Se pasan a isException tal como espera
+    // el JSON (missingInSpatdp / missingKjv2003), invirtiendo el criterio:
+    // lo que SpaTDP tiene de más equivale a lo que «falta» respecto al TR.
+    // g.missing = Strong del KJV que no están en SpaTDP (missingInSpatdp).
+    // g.extra   = Strong de SpaTDP que no están en el KJV (missingKjv2003).
+    const registrada = libro
+      ? isException(libro, String(cap), String(v), marca(g.missing), marca(g.extra))
+      : false
+    if (registrada) {
+      out.push(`- ℹ️ Diferencia Strong respecto al KJV cubierta por excepción (fidelidad al TR): faltan [${strongs(g.missing)}]; sobran [${strongs(g.extra)}]`)
+    } else {
+      out.push(`- Diferencia Strong: faltan [${strongs(g.missing)}]; sobran [${strongs(g.extra)}]`)
+    }
   }
   out.push('')
 }

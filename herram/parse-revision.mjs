@@ -326,4 +326,4 @@ for (const v of Object.keys(gbf)) {
   gbf[v].extra = [...gs].filter(x => !ks.has(x)).map(x => x.split(',').map(Number))
 }
 
-console.log(JSON.stringify({ gbf, kjv, rvg }, null, 2))
+console.log(JSON.stringify({ libro, cap: ch, gbf, kjv, rvg }, null, 2))

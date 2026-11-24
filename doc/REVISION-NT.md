@@ -132,7 +132,16 @@ fidelidad respecto al Textus Receptus.
   - Estructural y tipografía (marca `⚠️`): `<wi>` fuera de
     `<t xml:lang="es">`, `<wi>` anidados, `<wi>` vacío seguido de texto sin
     etiquetar, espacio tras comilla, mayúscula indebida tras coma.
+  - Excepciones de concordancia (marca `ℹ️`): si el `missing`/`extra` de un
+    versículo coincide exactamente con una entrada de
+    `herram/data/excepciones.json`, la diferencia Strong no se reporta como
+    problema sino como fidelidad al TR, con la `reason` documentada. Requiere
+    que el JSON traiga `libro` y `cap`, que añade `parse-revision.mjs`.
   Paso 2 del flujo de revisión.
+- `herram/lib/exceptions.js` - Carga `herram/data/excepciones.json` y expone
+  `isException(libro, cap, versículo, faltanEnSpaTDP, faltanEnKJV)`. Lo usan
+  `validador.mjs` (vía `lib/validators/concordance.js`) y `make-report.mjs`.
+  Formato y flujo: [`REQ/10.md`](../REQ/10.md) §6.
 - `herram/build-glosario.mjs [libro]` - Construye el glosario
   Strong → { traducción: frecuencia } desde los `<wi>` de `libros/*.gbfxml`
   (o de un solo libro). Paso 0, se ejecuta una vez.

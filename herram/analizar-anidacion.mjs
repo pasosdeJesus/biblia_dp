@@ -366,7 +366,30 @@ const ETIQUETAS = {
 
 function main() {
   const args = process.argv.slice(2)
-  const books = args.length > 0 ? args : NT_BOOKS
+  if (args.includes('--help') || args.includes('-h')) {
+    console.log(`Uso: node herram/analizar-anidacion.mjs [libro...] [--solo CATEGORÍA]
+
+Sin libro analiza todo el NT. Categorías para --solo:
+  separar     solo los «⚠ a separar»
+  fusion      solo las fusiones correctas
+  locucion    solo las locuciones fijas
+  especial    solo los casos de revisión manual
+  anidar      solo los <wi/> vacíos candidatos a anidar (➕)`)
+    return
+  }
+
+  const soloIdx = args.indexOf('--solo')
+  const validas = ['separar', 'fusion', 'locucion', 'especial', 'anidar']
+  let solo = null
+  if (soloIdx !== -1) {
+    solo = args[soloIdx + 1]
+    if (!validas.includes(solo)) {
+      console.error(`--solo requiere una de: ${validas.join(', ')}`)
+      process.exit(1)
+    }
+  }
+  const books = args.filter((a, i) => !a.startsWith('-') && i !== soloIdx + 1)
+  const booksToScan = books.length > 0 ? books : NT_BOOKS
 
   console.log('='.repeat(70))
   console.log('  ANÁLISIS DE ANIDACIÓN DE <wi> POR VERSÍCULO')
@@ -377,7 +400,7 @@ function main() {
   let totalSugeridos = 0
   let totalNoAbsorben = 0
 
-  for (const book of books) {
+  for (const book of booksToScan) {
     const filepath = path.join(__dirname, '..', 'libros', `${book}.gbfxml`)
     const result = analyzeFile(filepath, book)
     if (!result) {
@@ -387,22 +410,28 @@ function main() {
 
     if (result.verses.length === 0) continue
 
-    console.log(`\n📖 ${book} (${result.verses.length} versículo(s)):`)
+    const visibles = []
     for (const v of result.verses) {
+      const nested = solo && ETIQUETAS[solo] ? v.nested.filter(n => n.category === solo) : (solo === 'anidar' ? [] : v.nested)
+      const sugeridos = solo === 'anidar' ? v.solo.filter(n => n.absorbe) : (solo ? [] : v.solo)
+      if (nested.length > 0 || sugeridos.length > 0) visibles.push({ ...v, nested, solo: sugeridos })
+    }
+
+    for (const v of result.verses) {
+      for (const n of v.nested) totales[n.category]++
+      for (const n of v.solo) n.absorbe ? totalSugeridos++ : totalNoAbsorben++
+    }
+
+    if (visibles.length === 0) continue
+
+    console.log(`\n📖 ${book} (${visibles.length} versículo(s)):`)
+    for (const v of visibles) {
       console.log(`  ${v.id}:`)
       for (const n of v.nested) {
         console.log(`    ${ETIQUETAS[n.category]} <wi value="${n.outer}"> contiene <wi value="${n.inner}">  [«${n.text}»]`)
-        totales[n.category]++
       }
       for (const n of v.solo) {
-        if (n.absorbe) {
-          console.log(`    ➕ anidar <wi value="${n.outer}"/> en <wi value="${n.inner}">  [«${n.text}»]`)
-          totalSugeridos++
-        } else {
-          // El artículo griego no se traduce ante nombre propio, verbo o
-          // pronombre: dejarlo suelto es lo correcto.
-          totalNoAbsorben++
-        }
+        console.log(`    ➕ anidar <wi value="${n.outer}"/> en <wi value="${n.inner}">  [«${n.text}»]`)
       }
       totalVerses++
     }

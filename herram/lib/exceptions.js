@@ -15,10 +15,8 @@ export function loadExceptions() {
           if (fs.existsSync(EXCEPTIONS_PATH)) {
                   const content = fs.readFileSync(EXCEPTIONS_PATH, 'utf-8');
                   cachedExceptions = JSON.parse(content);
-                  console.error(`[DEBUG] Exceptions loaded from ${EXCEPTIONS_PATH}`);
                   return cachedExceptions;
                 } else {
-                        console.error(`[DEBUG] Exceptions file not found at ${EXCEPTIONS_PATH}`);
                       }
         } catch (e) {
               console.error(`Error loading exceptions from ${EXCEPTIONS_PATH}:`, e);
