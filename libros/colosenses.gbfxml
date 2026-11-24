@@ -121,7 +121,8 @@ word of the truth of the Good News,
 <wi type="G" value="1223,1,">por</wi>
 <wi type="G" value="3588,2,">la</wi>
 <wi type="G" value="1680,3,">esperanza</wi>
-<wi type="G" value="3588,4,"/><wi type="G" value="606,5,">que fue puesta</wi>
+<wi type="G" value="3588,4,">que</wi>
+<wi type="G" value="606,5,">fue puesta</wi>
 <wi type="G" value="5213,6,">para ustedes</wi>
 <wi type="G" value="1722,7,">en</wi>
 <wi type="G" value="3588,8,">los</wi>
@@ -624,7 +625,8 @@ Paul, was made a servant.
 <wi type="G" value="2098,15,">evangelio</wi>
 <wi type="G" value="3739,16,">que</wi>
 <wi type="G" value="191,17,">han oído</wi>,
-<wi type="G" value="3588,18,"/><wi type="G" value="2784,19,">que ha sido proclamado</wi>
+<wi type="G" value="3588,18,">que</wi>
+<wi type="G" value="2784,19,">ha sido proclamado</wi>
 <wi type="G" value="1722,20,">a</wi>
 <wi type="G" value="3956,21,">toda</wi>
 <wi type="G" value="3588,22,"/><wi type="G" value="2937,23,">criatura</wi>
@@ -1630,7 +1632,8 @@ knowledge after the image of his Creator,
 <wi type="G" value="1746,2,">se han revistido</wi>
 <wi type="G" value="3588,3,">del</wi>
 <wi type="G" value="3501,4,">nuevo</wi>,
-<wi type="G" value="3588,5,"/><wi type="G" value="341,6,">que ha sido renovado</wi>
+<wi type="G" value="3588,5,">que</wi>
+<wi type="G" value="341,6,">ha sido renovado</wi>
 <wi type="G" value="1519,7,">en</wi>
 <wi type="G" value="1922,8,">el conocimiento</wi>
 <wi type="G" value="2596,9,">acorde a</wi>
@@ -2274,7 +2277,8 @@ God, men who have been a comfort to me.
 <t xml:lang="es">
 <wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="2424,2,">Jesús</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="3004,4,">que es llamado</wi>
+<wi type="G" value="3588,3,">que</wi>
+<wi type="G" value="3004,4,">es llamado</wi>
 <wi type="G" value="2459,5,">Justo</wi>,
 <wi type="G" value="3588,6,"/><wi type="G" value="5607,7,">quienes son</wi>
 <wi type="G" value="1537,8,">de</wi>

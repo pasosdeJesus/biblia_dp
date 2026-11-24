@@ -47,7 +47,8 @@ and ours:
 <wi type="G" value="1577,2,">iglesia</wi>
 <wi type="G" value="3588,3,">de</wi>
 <wi type="G" value="2316,4,">Dios</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="5607,6,">que está</wi>
+<wi type="G" value="3588,5,">que</wi>
+<wi type="G" value="5607,6,">está</wi>
 <wi type="G" value="1722,7,">en</wi>
 <wi type="G" value="2882,8,">Corinto</wi>; a
 <wi type="G" value="37,9,">los santificados</wi>

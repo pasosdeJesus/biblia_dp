@@ -28,7 +28,8 @@ To all the saints in Christ Jesus who are at Philippi, with the
 <wi type="G" value="1722,10,">en</wi>
 <wi type="G" value="5547,11,">Cristo</wi>
 <wi type="G" value="2424,12,">Jesús</wi>
-<wi type="G" value="3588,13,"/><wi type="G" value="5607,14,">que están</wi>
+<wi type="G" value="3588,13,">que</wi>
+<wi type="G" value="5607,14,">están</wi>
 <wi type="G" value="1722,15,">en</wi>
 <wi type="G" value="5375,16,">Filipos</wi>,
 <wi type="G" value="4862,17,">con</wi> 
@@ -77,7 +78,8 @@ I thank my God whenever I remember you,
 <wi type="G" value="3588,2,"/><wi type="G" value="2316,3,">Dios</wi>
 <wi type="G" value="3956,6,">cada</wi>
 <wi type="G" value="1909,5,">vez</wi>
-<wi type="G" value="3588,7,"/><wi type="G" value="3417,8,">que me acuerdo</wi>
+<wi type="G" value="3588,7,">que</wi>
+<wi type="G" value="3417,8,">me acuerdo</wi>
 <wi type="G" value="5216,9,">de ustedes</wi>,
 </t>
 </sv>
@@ -2147,7 +2149,8 @@ Christ Jesus.
 <wi type="G" value="1515,3,">paz</wi>
 <wi type="G" value="3588,4,">de</wi>
 <wi type="G" value="2316,5,">Dios</wi>
-<wi type="G" value="3588,6,"/><wi type="G" value="5242,7,">que sobrepasa</wi>
+<wi type="G" value="3588,6,">que</wi>
+<wi type="G" value="5242,7,">sobrepasa</wi>
 <wi type="G" value="3956,8,">todo</wi>
 <wi type="G" value="3563,9,">entendimiento</wi>,
 <wi type="G" value="5432,10,">guardará</wi>
@@ -2401,7 +2404,8 @@ es
 <wi type="G" value="1934,7,">quiero</wi>
 <wi type="G" value="3588,8,">el</wi>
 <wi type="G" value="2590,9,">fruto</wi>
-<wi type="G" value="3588,10,"/><wi type="G" value="4121,11,">que abunda</wi>
+<wi type="G" value="3588,10,">que</wi>
+<wi type="G" value="4121,11,">abunda</wi>
 <wi type="G" value="1519,12,">para</wi>
 <wi type="G" value="5216,14,">su</wi>
 <wi type="G" value="3056,13,">cuenta</wi>.
