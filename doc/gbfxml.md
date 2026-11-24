@@ -174,6 +174,24 @@ anterior con esa posición.
 **que**», «los pájaros **que**»), es relativo y **sí** puede quedar suelto: el
 español lo exige y no corresponde a ningún Strong.
 
+**El «que» del artículo y su participio.** Cuando el griego lleva artículo +
+participio (ἡ ὀργὴ **ἡ ἐρχομένη** = «la ira **que** viene»), el «que» pertenece
+al **artículo del participio**, no al del sustantivo. Como artículo y participio
+son contiguos, el «que» va directamente en el `<wi>` del artículo:
+
+```xml
+<!-- 1 Ts 1:10: τῆς ὀργῆς τῆς ἐρχομένης -->
+<wi type="G" value="3588,18,">la</wi>      <!-- τῆς de ὀργῆς -->
+<wi type="G" value="3709,19,">ira</wi>
+<wi type="G" value="3588,20,">que</wi>     <!-- τῆς de ἐρχομένης -->
+<wi type="G" value="2064,21,">vendrá</wi>
+```
+
+`GC` solo haría falta si ese segundo artículo **no** estuviera contiguo a su
+participio, cosa que no ocurre en la construcción griega normal. **Antes de
+usar `GC`, comprobar que en el griego hay otra palabra intercalada**; si no la
+hay, el «que» va en el `<wi>` del artículo sin más.
+
 `herram/diagnostico-formato.mjs` marca los dos casos por separado: «completivo
 suelto» (hay que moverlo) y «relativo suelto» (a revisar).
 

@@ -322,7 +322,8 @@ a
 <wi type="G" value="575,17,">de</wi>
 <wi type="G" value="3588,18,">la</wi>
 <wi type="G" value="3709,19,">ira</wi>
-<wi type="G" value="3588,20,"/><wi type="G" value="2064,21,">que vendrá</wi>.
+<wi type="G" value="3588,20,">que</wi>
+<wi type="G" value="2064,21,">vendrá</wi>.
 </t>
 <cl/>
 </sv>

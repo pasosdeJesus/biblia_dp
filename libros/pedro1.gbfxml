@@ -1283,7 +1283,8 @@ in subjection to their own husbands:
 <wi type="G" value="1135,7,">las mujeres</wi>
 <wi type="G" value="3588,5,"/><wi type="G" value="40,6,">santas</wi>
 <wi type="G" value="4218,3,">de antes</wi>,
-<wi type="G" value="3588,8,"/><wi type="G" value="1679,9,">que esperaban</wi>
+<wi type="G" value="3588,8,">que</wi>
+<wi type="G" value="1679,9,">esperaban</wi>
 <wi type="G" value="1909,10,">en</wi>
 <wi type="G" value="3588,11,">el</wi>
 <wi type="G" value="2316,12,">Señor</wi>,
