@@ -66,6 +66,9 @@ todos los demás casos se **separa** en `<wi>` hermanos, cada uno con su palabra
 | Pronombre enclítico pegado al verbo | `recordarles`, `minístrelo`, `diciéndole` | G5279 + G5209 |
 | Sujeto pronominal implícito | `escuchamos` (= nosotros escuchamos) | G2249 + G191 |
 | Relativo indefinido | `aquel que` | G3739/G3745 + G302 |
+| Preposición + reflexivo fundidos en «consigo» | `consigo mismo` (Lucas 12:17, ἐν ἑαυτῷ) | G1722 + G1438 |
+| Reflexivo incorporado al imperativo | `Ten cuidado` (Lucas 17:3, προσέχετε ἑαυτοῖς) | G4337 + G1438 |
+| Término arameo con Strong duplicado | `Ven Señor` (1 Co 16:22, μαραναθά) | G3134 + G3134 |
 | Locución fija | `de ninguna manera`, `a menos que`, `por qué` | ver `herram/analizar-anidacion.mjs` |
 
 ```xml
@@ -74,7 +77,16 @@ todos los demás casos se **separa** en `<wi>` hermanos, cada uno con su palabra
 
 <!-- «escuchamos» = G2249 (ἡμεῖς «nosotros») + G191 (ἠκούσαμεν) -->
 <wi type="G" value="2249,5,"><wi type="G" value="191,6,">escuchamos</wi></wi>
+
+<!-- «consigo mismo» = G1722 (ἐν «en») + G1438 (ἑαυτῷ «sí mismo») -->
+<wi type="G" value="1722,3,"><wi type="G" value="1438,4,">consigo mismo</wi></wi>
 ```
+
+**El caso arameo con Strong duplicado merece nota.** En 1 Co 16:22 el KJV
+desdobla el único término arameo μαραναθά («¡Ven, Señor!») en dos Strong
+iguales, G3134 y G3134. El español lo vierte como una sola expresión, así que
+se anida; conviene acompañarlo de una nota `<rb><rf>` que explique la
+transliteración.
 
 **Se separa:**
 

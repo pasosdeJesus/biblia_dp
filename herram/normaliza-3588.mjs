@@ -7,13 +7,22 @@
 //   2. Vacío:             <wi 935,15><wi 3588,14/>REY</wi>
 //   3. Dudoso:            se deja intacto y se informa.
 //
-// Trabaja con el DOM de @xmldom/xmldom. Solo serializa el <sv> tocado y lo
-// sustituye en el texto original, para conservar el formato del archivo.
+// Localiza cada <sv> por líneas (abre en la de «<sv …>», cierra en la de
+// «</sv>») y parsea solo ese bloque: una regex sobre el archivo completo se
+// trunca cuando el versículo lleva «</sv>» dentro de <rb>, <rf> o <fr>.
 //
 // Uso:
-//   node herram/normaliza-3588.mjs mateo            (simulación)
+//   node herram/normaliza-3588.mjs mateo            (simulación, todo)
 //   node herram/normaliza-3588.mjs mateo --apply    (escribe)
 //   node herram/normaliza-3588.mjs mateo --verbose  (lista cada caso)
+//
+// Modos (sin modo se ejecuta todo; con modo se restringe el tipo de arreglo):
+//   --solo-articulos      extrae artículos simples («el», «la», «los»…)
+//   --solo-que            extrae el relativo «que»
+//   --solo-contracciones  extrae «del», «al», «en el», «por el»…
+//
+// Verificación: el número de <wi> y el conjunto Strong,posición de cada
+// versículo deben quedar idénticos; si no, aborta sin escribir.
 
 import fs from 'fs'
 import path from 'path'
@@ -165,13 +174,14 @@ function descendientes(nodo, salida = []) {
 }
 
 // ── Procesa un verso ──
-function procesarVerso(sv, doc, libro, cap, versiculo, verbose) {
+function procesarVerso(sv, doc, libro, cap, versiculo, verbose, modo) {
   const morph = morfo(libro, cap).filter(e => e.vers === versiculo)
   const entradaDe = (strong, orden) =>
     morph.filter(e => e.strong === strong).find(e => e.src === orden) || null
 
   const informe = { conTexto: 0, anidados: 0, desanidados: 0, sinDestino: 0, yaAnidado: 0,
-                    articuloDelSiguiente: 0, textoEnHijo: 0, sinMorfologia: 0, noAbsorbe: 0 }
+                    articuloDelSiguiente: 0, textoEnHijo: 0, sinMorfologia: 0, noAbsorbe: 0,
+                    fueraDeModo: 0 }
   // getElementsByTagName devuelve una vista viva: al mover nodos la lista
   // cambia y se saltan elementos. Se congelan los nodos en un arreglo.
   const wis = descendientes(sv).filter(n => n.tagName === 'wi')
@@ -230,6 +240,10 @@ function procesarVerso(sv, doc, libro, cap, versiculo, verbose) {
       const [art, resto] = extraerArticulo(texto)
       const mayusculas = texto === texto.toUpperCase()
       if (art && resto && !/^(de|a)$/i.test(art) && (mayusculas || resto !== texto)) {
+        if (modo !== 'todo' && grupoDe(art) !== modo) {
+          informe.fueraDeModo++
+          continue
+        }
         // ponerTexto vacía los hijos: si «siguiente» tenía a su vez un <wi>
         // interior (Strong vacío), se perdería. Se leen los valores ANTES de
         // reescribir el texto y se reinsertan.
@@ -292,12 +306,40 @@ function contarWi(texto) {
   return doc.getElementsByTagName('wi').length
 }
 
+// Modos de trabajo. Sin modo se ejecuta todo. Los modos restringen qué tipo de
+// arreglo se aplica, para poder revisarlos por separado:
+//   --solo-articulos      extrae artículos simples («el», «la», «los»…)
+//   --solo-que            extrae el relativo «que»
+//   --solo-contracciones  extrae «del», «al», «en el», «por el»…
+// Los tres exigen combinarse con --apply para escribir.
+function modoDesde(argv) {
+  if (argv.includes('--solo-articulos')) return 'articulos'
+  if (argv.includes('--solo-que')) return 'que'
+  if (argv.includes('--solo-contracciones')) return 'contracciones'
+  return 'todo'
+}
+
+// Clasifica el artículo que se extrajo de la palabra siguiente, para saber si
+// el modo activo permite aplicarlo.
+const CONTRACCIONES = new Set(['del', 'al', 'en el', 'en la', 'en los', 'en las',
+  'por el', 'por la', 'por los', 'por las', 'de los', 'de las', 'de la', 'a los',
+  'a las', 'a la'])
+function grupoDe(art) {
+  if (!art) return 'ninguno'
+  const a = art.toLowerCase()
+  if (a === 'que' || a.endsWith(' que')) return 'que'
+  if (CONTRACCIONES.has(a)) return 'contracciones'
+  return 'articulos'
+}
+
 function main() {
   const libro = process.argv[2]
   const apply = process.argv.includes('--apply')
   const verbose = process.argv.includes('--verbose')
+  const modo = modoDesde(process.argv)
   if (!libro) {
     console.log('Uso: node herram/normaliza-3588.mjs <libro> [--apply] [--verbose]')
+    console.log('     [--solo-articulos | --solo-que | --solo-contracciones]')
     process.exit(1)
   }
   const archivo = path.join(ROOT, 'libros', `${libro}.gbfxml`)
@@ -310,7 +352,8 @@ function main() {
   // (que falla con «</sv>» dentro de <rb>/<rf>/<fr> ni para serializar).
   const lineas = original.split(String.fromCharCode(10))
   const total = { conTexto: 0, anidados: 0, desanidados: 0, sinDestino: 0, yaAnidado: 0,
-                  articuloDelSiguiente: 0, textoEnHijo: 0, sinMorfologia: 0, noAbsorbe: 0 }
+                  articuloDelSiguiente: 0, textoEnHijo: 0, sinMorfologia: 0, noAbsorbe: 0,
+                    fueraDeModo: 0 }
   let modificados = 0
   let i = 0
   while (i < lineas.length) {
@@ -332,9 +375,11 @@ function main() {
       continue
     }
     const sv = doc.documentElement
-    const r = procesarVerso(sv, doc, libro, Number(mv[1]), Number(mv[2]), verbose)
+    const r = procesarVerso(sv, doc, libro, Number(mv[1]), Number(mv[2]), verbose, modo)
     for (const k of Object.keys(total)) total[k] += r[k]
-    if (r.anidados + r.desanidados + r.conTexto + r.articuloDelSiguiente > 0) {
+    // «conTexto» cuenta estados ya correctos, no cambios: no debe provocar
+    // escritura. Solo se reescribe el <sv> si hubo una modificación real.
+    if (r.anidados + r.desanidados + r.articuloDelSiguiente > 0) {
       const nuevoBloque = sv.toString().trimEnd()
       lineas.splice(i, fin - i + 1, ...nuevoBloque.split(String.fromCharCode(10)))
       modificados++
@@ -348,7 +393,7 @@ function main() {
   if (process.env.DUMP_3588) fs.writeFileSync(path.join(ROOT,'out3588.tmp'), salida)
   fs.writeFileSync(path.join(ROOT,'out3588.tmp'), salida)
 
-  console.log(`${libro}:`)
+  console.log(`${libro}:${modo === 'todo' ? '' : ` (modo: ${modo})`}`)
   console.log(`  con contenido:      ${total.conTexto}`)
   console.log(`  ya anidados:        ${total.yaAnidado}`)
   console.log(`  anidados nuevos:    ${total.anidados}`)
@@ -357,6 +402,7 @@ function main() {
   console.log(`  art. del siguiente: ${total.articuloDelSiguiente}`)
   console.log(`  sin morfología:     ${total.sinMorfologia}`)
   console.log(`  no absorben art.:   ${total.noAbsorbe}`)
+  if (modo !== 'todo') console.log(`  fuera del modo «${modo}»: ${total.fueraDeModo}`)
   console.log(`  versículos tocados: ${modificados}`)
 
   // El conjunto Strong,posición por versículo no debe cambiar: G3588 solo se

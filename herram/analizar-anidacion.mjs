@@ -88,6 +88,10 @@ const PRONOMBRES = new Set([
 
 // Pronombres personales que pueden quedar implícitos en la desinencia verbal
 // española (sujeto): «llegó» = «él llegó», «escuchamos» = «nosotros».
+// Reflexivos y preposiciones usados en las fusiones «consigo mismo».
+const REFLEXIVOS = new Set([1438, 848])
+const PREPOSICIONES = new Set([1722, 1519, 1537, 4314, 3326, 1909])
+
 const PERSONALES = new Set([846, 1473, 4771, 5210, 2249, 2248, 5209, 5213, 5201])
 
 // Verbos de movimiento que, con G846 como sujeto, forman una unidad en
@@ -164,6 +168,27 @@ function classify(outerStrong, innerStrong, fullText) {
   if (PERSONALES.has(outerStrong) && VERBOS_MOVIMIENTO.has(innerStrong)) {
     return 'fusion'
   }
+
+  // 2f. Preposición + reflexivo fundidos en «consigo» (Lucas 12:17,
+  // ἐν ἑαυτῷ): el español une las dos palabras griegas en un solo pronombre,
+  // así que se anida. Igual que «al»/«del», una palabra = dos Strong.
+  if (REFLEXIVOS.has(innerStrong) && PREPOSICIONES.has(outerStrong) &&
+      /^consigo\b/i.test(fullText)) {
+    return 'fusion'
+  }
+
+  // 2g. Reflexivo incorporado al imperativo (Lucas 17:3, προσέχετε ἑαυτοῖς):
+  // «ten cuidado» no tiene pronombre propio porque la desinencia y el
+  // reflexivo español lo absorben. Una palabra = dos Strong.
+  if (REFLEXIVOS.has(innerStrong) && /^(ten|tened|tengan|cuidado|mirad|estad)\b/i.test(fullText) &&
+      !/\s+mismo\b/i.test(fullText)) {
+    return 'fusion'
+  }
+
+  // 2h. Término arameo transliterado con Strong duplicado (1 Corintios 16:22,
+  // μαραναθά): el KJV desdobla un solo término en dos Strong iguales, y el
+  // español lo vierte como una sola expresión. Se anida y se documenta en nota.
+  if (outerStrong === 3134 && innerStrong === 3134) return 'fusion'
 
   // 3. Especial: requiere revisión manual.
   if (outerStrong === 3588) return 'especial' // artículo envuelve (convención antigua)
