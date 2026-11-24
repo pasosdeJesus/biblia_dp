@@ -3393,7 +3393,8 @@ perhaps for a righteous person someone would even dare to die.
 <wi type="G" value="5029,11,">tal vez</wi>
 <wi type="G" value="5228,7,">por</wi> 
 </t>
-<rb xml:lang="es"><wi type="G" value="3588,9,"/><wi type="G" value="18,10,">una persona justa</wi>
+<rb xml:lang="es"><wi type="G" value="3588,9,">una</wi>
+<wi type="G" value="18,10,">persona justa</wi>
 <wi type="G" value="5100,12,">alguién</wi>
 <wi type="G" value="2532,13,">aún</wi>
 <wi type="G" value="5111,14,">tendría el valor</wi>
@@ -9310,7 +9311,8 @@ conceits.
 <t xml:lang="es">
 Sean de 
 </t>
-<rb xml:lang="es"><wi type="G" value="3588,1,"/><wi type="G" value="846,2,">una misma</wi>
+<rb xml:lang="es"><wi type="G" value="3588,1,">una</wi>
+<wi type="G" value="846,2,">misma</wi>
 <wi type="G" value="5426,5,">mente</wi>
 <wi type="G" value="240,4,">unos</wi>
 <wi type="G" value="1519,3,">con</wi>

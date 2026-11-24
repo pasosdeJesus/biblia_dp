@@ -10132,7 +10132,8 @@ commits sin is the bondservant of sin.
 A bondservant doesn´t live in the house forever. A son remains forever.
 <t xml:lang="es">
 <wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="3588,1,"/><wi type="G" value="1401,3,">un esclavo</wi>
+<wi type="G" value="3588,1,">un</wi>
+<wi type="G" value="1401,3,">esclavo</wi>
 <wi type="G" value="3756,4,">no</wi>
 <wi type="G" value="3306,5,">vive</wi>
 <wi type="G" value="1722,6,">en</wi> 
@@ -16655,7 +16656,8 @@ Now no man at the table knew why he said this to him.
 <t xml:lang="es">
 <wi type="G" value="1161,2,">Pero</wi>
 <wi type="G" value="3762,3,">ninguno</wi>
-<wi type="G" value="3588,5,"/><wi type="G" value="345,6,">en la mesa</wi>
+<wi type="G" value="3588,5,">en la</wi>
+<wi type="G" value="345,6,">mesa</wi>
 <wi type="G" value="1097,4,">sabía</wi>
 <wi type="G" value="4314,7,"/><wi type="G" value="5101,8,">porque</wi>
 <wi type="G" value="846,10,">le</wi>
@@ -19126,7 +19128,8 @@ They said therefore, «What is this that he says,
 <wi type="G" value="5124,3,">esto</wi>
 <wi type="G" value="3739,6,">que</wi>
 <wi type="G" value="3004,7,">dijo</wi>,
-`<wi type="G" value="3588,8,"/><wi type="G" value="3397,9,">Un poco más</wi>?´
+`<wi type="G" value="3588,8,">Un</wi>
+<wi type="G" value="3397,9,">poco más</wi>?´
 <wi type="G" value="3756,10,">No</wi>
 <wi type="G" value="1492,11,">sabemos</wi>
 <wi type="G" value="5101,12,">lo que</wi>
@@ -22045,8 +22048,10 @@ was written, «JESUS OF NAZARETH, THE KING OF THE JEWS.»
 <wi type="G" value="2258,12,">era</wi>,
 «<wi type="G" value="2424,15,">JESÚS</wi>
 <wi type="G" value="3588,16,"/><wi type="G" value="3480,17,">DE NAZARET</wi>,
-<wi type="G" value="3588,18,"/><wi type="G" value="935,19,">EL REY</wi>
-<wi type="G" value="3588,20,"/><wi type="G" value="2453,21,">DE LOS JUDÍOS</wi>.» 
+<wi type="G" value="3588,18,">EL</wi>
+<wi type="G" value="935,19,">REY</wi>
+<wi type="G" value="3588,20,">DE LOS</wi>
+<wi type="G" value="2453,21,">JUDÍOS</wi>.» 
 </t>
 </sv>
 
