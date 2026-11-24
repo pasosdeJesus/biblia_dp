@@ -105,6 +105,51 @@ transliteración.
 <wi type="G" value="1416,5,">ocultado</wi>
 ```
 
+### 3.3.1 Conjunción completiva añadida
+
+Cuando el español necesita un «que» para completar un verbo o una partícula
+(«cuando vio **que**», «ordena **que**», «he aquí **que**»), y el griego no lo
+tiene (usa infinitivo o yuxtaposición sin ὅτι), ese «que» **no se deja suelto**:
+
+El criterio es la **adyacencia**, no el tipo de palabra:
+
+| Situación | Marcado |
+| :--- | :--- |
+| La continuación queda **pegada** al `<wi>` que la rige | Se mete en ese `<wi>`: `<wi 991,1>cuando vio que</wi>` |
+| La continuación queda **separada** por otro Strong | `<wi type="GC" value="posición">que</wi>`, con la posición del verbo |
+| Ante artículo + sustantivo, pegado | Puede ir con el artículo: `<wi 3588,17>que la</wi>` |
+
+**Cuándo se usa `type="GC"`.** `GC` marca la continuación de un Strong cuya
+traducción española se partió y cuyas piezas **no quedaron adyacentes**. El
+caso típico es justo el de una completiva:
+
+```
+Griego:  λέγω (1) ... σήμερον (2) ...
+Español: digo ... hoy que ...
+```
+
+Aquí «que» completa a λέγω pero no puede ir en su `<wi>`, porque σήμερον se
+interpone:
+
+```xml
+<wi type="G" value="3004,1,">digo</wi>
+<wi type="G" value="4594,2,">hoy</wi>
+<wi type="GC" value="1">que</wi>
+```
+
+Cuando las piezas sí son contiguas, basta el mismo `<wi>` y no hace falta
+`GC` («cuando vio que» = G991 en una sola etiqueta). `GC` no afirma que la
+palabra griega se haya dividido en sentido morfológico: afirma que **ese
+segmento español sigue traduciendo el mismo Strong** que el `<wi type="G">`
+anterior con esa posición.
+
+**Distinción con el «que» relativo.** Si el «que» tiene antecedente («la piara
+**que**», «los pájaros **que**»), es relativo y **sí** puede quedar suelto: el
+español lo exige y no corresponde a ningún Strong.
+
+`herram/diagnostico-formato.mjs` marca los dos casos por separado: «completivo
+suelto» (hay que moverlo) y «relativo suelto» (a revisar).
+
 **Separable pero dependiente del traductor.** Hay casos donde ambos tratamientos
 son válidos y no se fuerza la uniformidad. Ejemplo: el hebraísmo ἀποκριθεὶς
 εἶπεν puede verterse como `<wi 611,1><wi 2036,5>respondió</wi></wi>` o como
