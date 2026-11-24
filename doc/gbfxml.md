@@ -105,6 +105,33 @@ transliteración.
 <wi type="G" value="1416,5,">ocultado</wi>
 ```
 
+### 3.3.0 El artículo y las marcas de caso
+
+El griego marca el caso con la desinencia; el español necesita preposición. Por
+eso G3588 puede llevar en su `<wi>` la preposición que corresponde al caso, sin
+que eso sea un Strong adicional:
+
+| Caso griego | Español | Ejemplo | Strong |
+| :--- | :--- | :--- | :--- |
+| Genitivo | «de» | «el amor **de** Dios» = ἡ ἀγάπη τοῦ θεοῦ | G3588 «de» |
+| Dativo (locativo) | «en» | «tribulación **en la** carne» = θλῖψιν τῇ σαρκί (1 Co 7:28) | G3588 «en la» |
+| Dativo (objeto indirecto) | «a» | «dijo **a los** discípulos» = τοῖς μαθηταῖς | G3588 «a los» |
+| Acusativo con preposición | la preposición ya tiene Strong | «entró **a la** casa» = εἰς τόν οἶκον | G1519 + G3588 |
+
+**Regla:** si el versículo tiene la preposición griega con su `<wi>` (G1722,
+G1519, G1537…), la preposición va ahí y G3588 lleva solo el artículo. Si el
+griego usa **caso sin preposición**, la preposición española va en el `<wi>` de
+G3588, porque es la marca del caso.
+
+**No confundir con la convención de anidar:** en estos casos no se está
+afirmando que el artículo «sea» la preposición, sino que el `<wi>` de G3588
+traduce el sintagma completo (artículo + caso) tal como el español lo requiere.
+
+**Caso especial: dativo con artículo determinado + «un/una».** En 1 Co 1:10 el
+griego dice τῇ αὐτῇ γνώμῃ («la misma mente») y el español idiomático es «una
+misma mente». Aquí «una» no traduce el artículo: es elección del español. El
+`<wi>` de G3588 queda vacío y G846 (αὐτός «mismo») lleva «una misma».
+
 ### 3.3.1 Conjunción completiva añadida
 
 Cuando el español necesita un «que» para completar un verbo o una partícula

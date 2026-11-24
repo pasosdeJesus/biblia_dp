@@ -316,8 +316,9 @@ for the traditions of my fathers.
 <wi type="G" value="3588,10,"/><wi type="G" value="1085,11,">nación</wi>,
 <wi type="G" value="5225,15,">siendo</wi>
 <wi type="G" value="4056,13,">más</wi>
-<wi type="G" value="2207,14,">celoso</wi>
-<wi type="G" value="3588,16,"/><wi type="G" value="3967,17,">por las tradiciones</wi>
+<wi type="G" value="2207,14,">celoso por</wi>
+<wi type="G" value="3588,16,">las</wi>
+<wi type="G" value="3967,17,">tradiciones</wi>
 <wi type="G" value="3450,18,">de mis</wi>
 <wi type="G" value="3862,19,">padres</wi>.</t>
 </sv>

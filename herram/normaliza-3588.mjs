@@ -183,7 +183,7 @@ function procesarVerso(sv, doc, libro, cap, versiculo, verbose, modo) {
 
   const informe = { conTexto: 0, anidados: 0, desanidados: 0, sinDestino: 0, yaAnidado: 0,
                     articuloDelSiguiente: 0, textoEnHijo: 0, sinMorfologia: 0, noAbsorbe: 0, textoFueraEntre: 0,
-                    fueraDeModo: 0, textoFueraEntre: 0 }
+                    fueraDeModo: 0, textoFueraEntre: 0, articuloInexistente: 0, articuloNoContiguo: 0, indeterminado: 0 }
   // getElementsByTagName devuelve una vista viva: al mover nodos la lista
   // cambia y se saltan elementos. Se congelan los nodos en un arreglo.
   const wis = descendientes(sv).filter(n => n.tagName === 'wi')
@@ -254,6 +254,28 @@ function procesarVerso(sv, doc, libro, cap, versiculo, verbose, modo) {
       continue
     }
     if (siguiente) {
+      // Solo se extrae artículo si el G3588 de esta posición es de verdad un
+      // artículo según la morfología Robinson (T-). Si en el griego esa
+      // posición es otra cosa, «el/la/los» del texto español es añadido y no
+      // debe asignarse a G3588 (Filipenses 3:3, 2 Co 6:7 y 12:18, 1 Co 1:10).
+      const entradaArt = entradaDe(3588, v.orden)
+      if (entradaArt && entradaArt.morph && !/^T-/.test(entradaArt.morph)) {
+        informe.articuloInexistente = (informe.articuloInexistente || 0) + 1
+        if (verbose) console.log(`  ${cap}:${versiculo} 3588,${v.orden} no es articulo (${entradaArt.morph}); no se extrae`)
+        continue
+      }
+      // El artículo debe ser contiguo en el orden griego a la palabra que lo
+      // absorbe. En Filipenses 3:3 el G3588 src=6 va al final («οἱ ... καίπερ»),
+      // no junto a πνεύματι (src=7): esa posición es un error de marcado.
+      const valsSig = valorDe(siguiente)
+      if (entradaArt && valsSig) {
+        const posArt = entradaArt.src
+        if (posArt && Math.abs(posArt - valsSig.orden) !== 1) {
+          informe.articuloNoContiguo = (informe.articuloNoContiguo || 0) + 1
+          if (verbose) console.log(`  ${cap}:${versiculo} 3588,${v.orden} (src ${posArt}) no es contiguo a ${valsSig.strong},${valsSig.orden}; no se extrae`)
+          continue
+        }
+      }
       const texto = textoDe(siguiente).trim()
       const [art, resto] = extraerArticulo(texto)
       const mayusculas = texto === texto.toUpperCase()
@@ -262,7 +284,19 @@ function procesarVerso(sv, doc, libro, cap, versiculo, verbose, modo) {
       // debe cambiar la capitalización ni el orden del texto en español.
       const soloDentro = texto === textoDe(siguiente).trim()
       if (art && resto && soloDentro && !/^(de|a)$/i.test(art) && (mayusculas || resto !== texto)) {
-        if (modo !== 'todo' && grupoDe(art) !== modo) {
+        const grupo = grupoDe(art)
+        // «un/una» delante del articulo griego determinado es uso idiomatico
+        // del espanol (1 Co 1:10 «en una misma mente» para τῇ αὐτῇ): se
+        // informa y no se toca, ni siquiera en modo «todo».
+        if (grupo === 'indeterminado') {
+          informe.indeterminado++
+          if (verbose) console.log(`  ${cap}:${versiculo} «${art}» delante de articulo determinado (3588,${v.orden}); idiomatico, no se extrae`)
+          continue
+        }
+        const coincide = modo === 'articulos'
+          ? grupo === 'determinados'
+          : grupo === modo
+        if (modo !== 'todo' && !coincide) {
           informe.fueraDeModo++
           continue
         }
@@ -337,6 +371,8 @@ function contarWi(texto) {
 //   --solo-contracciones  extrae «del», «al», «en el», «por el»…
 // Los tres exigen combinarse con --apply para escribir.
 function modoDesde(argv) {
+  if (argv.includes('--solo-determinados')) return 'determinados'
+  if (argv.includes('--solo-indeterminados')) return 'indeterminado'
   if (argv.includes('--solo-articulos')) return 'articulos'
   if (argv.includes('--solo-que')) return 'que'
   if (argv.includes('--solo-contracciones')) return 'contracciones'
@@ -353,7 +389,11 @@ function grupoDe(art) {
   const a = art.toLowerCase()
   if (a === 'que' || a.endsWith(' que')) return 'que'
   if (CONTRACCIONES.has(a)) return 'contracciones'
-  return 'articulos'
+  // «un/una» no es traduccion del articulo griego determinado: el espanol
+  // idiomatico lo usa donde el griego lleva el articulo (1 Co 1:10
+  // «en una misma mente» para τῇ αὐτῇ). No se extrae: se deja el <wi/> vacio.
+  if (/^(un|una|unos|unas)$/i.test(a)) return 'indeterminado'
+  return 'determinados'
 }
 
 function main() {
@@ -377,7 +417,7 @@ function main() {
   const lineas = original.split(String.fromCharCode(10))
   const total = { conTexto: 0, anidados: 0, desanidados: 0, sinDestino: 0, yaAnidado: 0,
                   articuloDelSiguiente: 0, textoEnHijo: 0, sinMorfologia: 0, noAbsorbe: 0, textoFueraEntre: 0,
-                    fueraDeModo: 0, textoFueraEntre: 0 }
+                    fueraDeModo: 0, textoFueraEntre: 0, articuloInexistente: 0, articuloNoContiguo: 0, indeterminado: 0 }
   let modificados = 0
   let i = 0
   while (i < lineas.length) {
@@ -434,6 +474,9 @@ function main() {
   console.log(`  no absorben art.:   ${total.noAbsorbe}`)
   if (modo !== 'todo') console.log(`  fuera del modo «${modo}»: ${total.fueraDeModo}`)
   if (total.textoFueraEntre) console.log(`  omitidos (texto suelto entre <wi>): ${total.textoFueraEntre}`)
+  if (total.articuloInexistente) console.log(`  omitidos (G3588 no es articulo en la morfologia): ${total.articuloInexistente}`)
+  if (total.articuloNoContiguo) console.log(`  omitidos (G3588 no contiguo en el griego): ${total.articuloNoContiguo}`)
+  if (total.indeterminado) console.log(`  omitidos (un/una idiomatico): ${total.indeterminado}`)
   console.log(`  versículos tocados: ${modificados}`)
 
   // El conjunto Strong,posición por versículo no debe cambiar: G3588 solo se
