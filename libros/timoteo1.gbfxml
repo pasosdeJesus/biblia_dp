@@ -429,7 +429,8 @@ warfare;
 <wi type="G" value="5095,7,">Timoteo</wi>,
 <wi type="G" value="2596,8,">de acuerdo a</wi>
 <wi type="G" value="4394,13,">las profecías</wi>
-<wi type="G" value="3588,9,"/><wi type="G" value="4254,10,">que fueron delante</wi>
+<wi type="G" value="3588,9,">que</wi>
+<wi type="G" value="4254,10,">fueron delante</wi>
 <wi type="G" value="1909,11,">de</wi>
 <wi type="G" value="4571,12,">ti</wi>,
 <wi type="G" value="2443,14,">que</wi>
@@ -1401,7 +1402,7 @@ that which is to come.
 <wi type="G" value="2192,17,">teniendo</wi>
 <wi type="G" value="1860,16,">promesa</wi>
 <wi type="G" value="2222,18,">de la vida</wi>
-<wi type="G" value="3588,19,"/><wi type="G" value="3568,20,">que es ahora</wi>,
+<wi type="G" value="3588,19,"/><wi type="G" value="3568,20,">presente</wi>,
 <wi type="G" value="2532,21,">y</wi>
 <wi type="G" value="3588,22,">de la</wi>
 <wi type="G" value="3195,23,">venidera</wi>.

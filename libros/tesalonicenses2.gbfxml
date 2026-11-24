@@ -183,7 +183,8 @@ fire,
 <t xml:lang="es">
 <wi type="G" value="2532,1,">y</wi>
 <wi type="G" value="5213,2,">a ustedes</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="2346,4,">que están afligidos</wi>
+<wi type="G" value="3588,3,">que</wi>
+<wi type="G" value="2346,4,">están afligidos</wi>
 <wi type="G" value="425,5,">darles alivio</wi>
 <wi type="G" value="3326,6,">junto con</wi>
 <wi type="G" value="2257,7,">nosotros</wi>,
