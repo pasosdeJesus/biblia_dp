@@ -9661,7 +9661,8 @@ parable.
 fell along the road, and it was trampled under foot, and the birds of the sky
 devoured it.
 <t xml:lang="es">
-«<wi type="G" value="3588,2,"/><wi type="G" value="4687,3,">Un campesino</wi>
+«<wi type="G" value="3588,2,">Un</wi>
+<wi type="G" value="4687,3,">campesino</wi>
 <wi type="G" value="1831,1,">salió</wi>
 <wi type="G" value="3588,4,">a</wi>
 <wi type="G" value="4687,5,">sembrar</wi>
@@ -14776,7 +14777,8 @@ palabra griega `ἐπί´ se traduce como sobre, en, por, ante.
 are safe.
 <t xml:lang="es">
 «<wi type="G" value="3752,1,">Cuando</wi>
-<wi type="G" value="3588,2,"/><wi type="G" value="2478,3,">un hombre fuerte</wi> y
+<wi type="G" value="3588,2,">un</wi>
+<wi type="G" value="2478,3,">hombre fuerte</wi> y
 <wi type="G" value="2528,4,">armado</wi>,
 <wi type="G" value="5442,5,">cuida</wi>
 <wi type="G" value="3588,6,"/><wi type="G" value="1438,7,">su</wi>
@@ -22519,7 +22521,8 @@ away, wouldn´t even lift up his eyes to heaven, but beat his breast, saying,
 `¡<wi type="G" value="3588,22,"/><wi type="G" value="2316,23," sacred="yes">Dios</wi>,
 <wi type="G" value="2433,24,">se piadoso</wi>
 <wi type="G" value="3427,25,">conmigo</wi>
-<wi type="G" value="3588,26,"/><wi type="G" value="268,27,">un pecador</wi>!´ 
+<wi type="G" value="3588,26,">un</wi>
+<wi type="G" value="268,27,">pecador</wi>!´ 
 </t>
 </fr>
 </sv>
@@ -29449,8 +29452,10 @@ and Hebrew: «THIS IS THE KING OF THE JEWS.»
 <wi type="G" value="1444,13,">Hebreo</wi>:
 «<wi type="G" value="3778,14,">ESTE</wi>
 <wi type="G" value="2076,15,">ES</wi>
-<wi type="G" value="3588,16,"/><wi type="G" value="935,17,">EL REY</wi>
-<wi type="G" value="3588,18,"/><wi type="G" value="2453,19,">DE LOS JUDÍOS</wi>.» 
+<wi type="G" value="3588,16,">EL</wi>
+<wi type="G" value="935,17,">REY</wi>
+<wi type="G" value="3588,18,">DE LOS</wi>
+<wi type="G" value="2453,19,">JUDÍOS</wi>.» 
 </t>
 </sv>
 </cm><cm>

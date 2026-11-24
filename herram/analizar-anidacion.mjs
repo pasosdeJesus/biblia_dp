@@ -238,10 +238,66 @@ function findNestedWi(sv) {
 // <wi/> vacío seguido de una palabra traducida que no lleva su propio <wi>.
 // Esos Strong se anidan dentro del <wi> siguiente (o de la palabra que traduce
 // el conjunto) en lugar de quedar como <wi/> suelto.
+// Strong que no llevan palabra propia en español por su función gramatical
+// (conjunción, partícula, pronombre relativo). G3588 no esta aquí: el articulo
+// se evalua aparte con absorbeArticulo, porque ante un sustantivo si debe
+// recibir su palabra.
 const SIN_PALABRA_PROPIA = new Set([
-  3588, 846, 2532, 1161, 1063, 3754, 3767, 235, 3303, 1065, 686, 2228,
+  846, 2532, 1161, 1063, 3754, 3767, 235, 3303, 1065, 686, 2228,
   3361, 3756, 5101, 302, 1437, 1487, 2443, 3739
 ])
+
+
+// ── Morfología Robinson de la KJV, por capítulo ──
+// Se usa para saber si la palabra española que sigue a un <wi/> vacío puede
+// absorber el artículo griego. Ante nombre propio, verbo o pronombre no se
+// absorbe: «ὁ Ἰησοῦς» es «Jesús», no «el Jesús».
+const NOMBRE_KJV = {
+  mateo: 'Matthew', marcos: 'Mark', lucas: 'Luke', juan: 'John', hechos: 'Acts',
+  romanos: 'Romans', corintios1: 'I_Corinthians', corintios2: 'II_Corinthians',
+  galatas: 'Galatians', efesios: 'Ephesians', filipenses: 'Philippians',
+  colosenses: 'Colossians', tesalonicenses1: 'I_Thessalonians',
+  tesalonicenses2: 'II_Thessalonians', timoteo1: 'I_Timothy',
+  timoteo2: 'II_Timothy', tito: 'Titus', filemon: 'Philemon', hebreos: 'Hebrews',
+  santiago: 'James', pedro1: 'I_Peter', pedro2: 'II_Peter', juan1: 'I_John',
+  juan2: 'II_John', juan3: 'III_John', judas: 'Jude', apocalipsis: 'Revelation'
+}
+
+const cacheMorfo = new Map()
+function morfo(libro, cap) {
+  const clave = `${libro}-${cap}`
+  if (cacheMorfo.has(clave)) return cacheMorfo.get(clave)
+  const archivo = path.join(__dirname, '..', 'ref', 'sword_kjv', 'capitulos2003',
+    `${NOMBRE_KJV[libro]}-${String(cap).padStart(2, '0')}.osis.xml`)
+  if (!NOMBRE_KJV[libro] || !fs.existsSync(archivo)) { cacheMorfo.set(clave, []); return [] }
+  const texto = fs.readFileSync(archivo, 'utf-8').split(/[\r\n]+/).join(' ')
+  const re = /<w\b([^>]*)>/g
+  const salida = []
+  let verso = 0
+  let m2
+  let pos = 0
+  while ((m2 = re.exec(texto))) {
+    const attrs = m2[1]
+    const lemma = (attrs.match(/lemma="([^"]*)"/) || [])[1] || ''
+    const src = (attrs.match(/src="([^"]*)"/) || [])[1] || ''
+    const morphs = (attrs.match(/robinson:[A-Z0-9-]+/g) || []).map(x => x.slice(9))
+    const srcs = src.trim().split(/\s+/).filter(Boolean).map(Number).filter(Number.isFinite)
+    const strongs = [...lemma.matchAll(/strong:G(\d+)/g)].map(x => Number(x[1]))
+    strongs.forEach((strong, k) => {
+      salida.push({ strong, morph: morphs[k] || '', src: srcs[k] || srcs[0] || 0, vers: 0 })
+    })
+  }
+  // Los versículos se asignan al recorrer el documento GBFXML; aquí basta la
+  // lista por capítulo, y el destino se busca por strong+orden del gbfxml.
+  cacheMorfo.set(clave, salida)
+  return salida
+}
+
+// ¿Puede la palabra española absorber el artículo? Mismo criterio que
+// normaliza-3588.mjs (absorbeArticulo).
+function absorbeArticulo(texto) {
+  return /^(el|la|los|las|lo)\b/i.test((texto || '').trim())
+}
 
 function findSoloVacioSeguido(sv) {
   const candidatos = []
@@ -255,10 +311,18 @@ function findSoloVacioSeguido(sv) {
         let next = n.nextSibling
         while (next && next.nodeType === 3 && !next.nodeValue.trim()) next = next.nextSibling
         if (next && next.nodeType === 1 && next.tagName === 'wi' && textOf(next).trim()) {
+          const texto = textOf(next).trim()
           candidatos.push({
             outer: value,
             inner: next.getAttribute('value') || '',
-            text: textOf(next).trim()
+            text: texto,
+            // Se anida solo si la palabra siguiente puede absorber este Strong:
+            //   G3588 -> cuando empieza por artículo o relativo («el», «la»...)
+            //   resto -> cuando es una palabra que puede llevar preposición o
+            //            conjunción fundida; ante nombre propio no se anida.
+            absorbe: Number(strong) === 3588
+              ? absorbeArticulo(texto)
+              : !/^[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+$/.test(texto)
           })
         }
       }
@@ -311,6 +375,7 @@ function main() {
   let totalVerses = 0
   const totales = { fusion: 0, separar: 0, locucion: 0, especial: 0 }
   let totalSugeridos = 0
+  let totalNoAbsorben = 0
 
   for (const book of books) {
     const filepath = path.join(__dirname, '..', 'libros', `${book}.gbfxml`)
@@ -330,8 +395,14 @@ function main() {
         totales[n.category]++
       }
       for (const n of v.solo) {
-        console.log(`    ➕ anidar <wi value="${n.outer}"/> en <wi value="${n.inner}">  [«${n.text}»]`)
-        totalSugeridos++
+        if (n.absorbe) {
+          console.log(`    ➕ anidar <wi value="${n.outer}"/> en <wi value="${n.inner}">  [«${n.text}»]`)
+          totalSugeridos++
+        } else {
+          // El artículo griego no se traduce ante nombre propio, verbo o
+          // pronombre: dejarlo suelto es lo correcto.
+          totalNoAbsorben++
+        }
       }
       totalVerses++
     }
@@ -349,6 +420,7 @@ function main() {
     console.log(`   🔗 Locución fija (no separar): ${totales.locucion}`)
     console.log(`   🔍 Especial (revisar manual): ${totales.especial}`)
     console.log(`   ➕ <wi/> vacío a anidar en la palabra siguiente: ${totalSugeridos}`)
+    console.log(`   ⬜ <wi/> vacío cuya palabra no absorbe artículo (correcto): ${totalNoAbsorben}`)
   }
   console.log('='.repeat(70))
 }

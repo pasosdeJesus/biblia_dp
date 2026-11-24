@@ -6848,7 +6848,8 @@ que
 <wi type="G" value="5519,21,">cerdos</wi>
 <wi type="G" value="3729,16,">corrió</wi> hasta
 <wi type="G" value="2596,22,">caer</wi>
-<wi type="G" value="3588,23,"/><wi type="G" value="2911,24,">por el precipicio</wi>
+<wi type="G" value="3588,23,">por el</wi>
+<wi type="G" value="2911,24,">precipicio</wi>
 <wi type="G" value="1519,25,">al</wi>
 <wi type="G" value="3588,26,"/><wi type="G" value="2281,27,">mar</wi>
 <wi type="G" value="2532,28,">y</wi>
@@ -9471,8 +9472,8 @@ take it by force.
 <t xml:lang="es">
 <wi type="G" value="1161,2,">Y</wi>
 <wi type="G" value="575,1,">desde</wi>
-<wi type="G" value="3588,3,">los</wi>
-<wi type="G" value="2250,4,">días</wi>
+<wi type="G" value="3588,3,"/>
+en los <wi type="G" value="2250,4,">días</wi>
 <wi type="G" value="2491,5,">de Juan</wi>
 <wi type="G" value="3588,6,">el</wi>
 <wi type="G" value="910,7,">Bautista</wi>
@@ -10117,7 +10118,8 @@ Sabbath day, the priests in the temple profane the Sabbath, and are guiltless?
 <wi type="G" value="3588,5,">la</wi>
 <wi type="G" value="3551,6,">ley</wi>
 <wi type="G" value="3754,7,">que</wi>
-<wi type="G" value="3588,8,"/><wi type="G" value="4521,9,">en el día sabático</wi>
+<wi type="G" value="3588,8,">en el</wi>
+<wi type="G" value="4521,9,">día sabático</wi>
 <wi type="G" value="3588,10,">los</wi>
 <wi type="G" value="2409,11,">sacerdotes</wi>
 <wi type="G" value="1722,12,">en</wi>
@@ -10285,7 +10287,8 @@ Therefore it is lawful to do good on the Sabbath day.»
 <wi type="G" value="1832,7,">es legal</wi>
 <wi type="G" value="4160,11,">hacer</wi>
 <wi type="G" value="2573,10,">el bien</wi>
-<wi type="G" value="3588,8,"/><wi type="G" value="4521,9,">en el día sabático</wi>.»
+<wi type="G" value="3588,8,">en el</wi>
+<wi type="G" value="4521,9,">día sabático</wi>.»
 </t>
 </fr>
 </sv>
@@ -11958,7 +11961,8 @@ deceitfulness of riches choke the word, and he becomes unfruitful.
 <wi type="G" value="2532,19,">y</wi>
 <wi type="G" value="3588,20,">la</wi>
 <wi type="G" value="539,21,">inclinación</wi>
-<wi type="G" value="3588,22,"/><wi type="G" value="4149,23,">por las riquezas</wi>
+<wi type="G" value="3588,22,"/>
+por las <wi type="G" value="4149,23,">riquezas</wi>
 <wi type="G" value="4846,24,">sofocan</wi>
 <wi type="G" value="3588,25,">la</wi>
 <wi type="G" value="3056,26,">palabra</wi>,
@@ -12417,7 +12421,8 @@ the field.»
 <wi type="G" value="3850,21,">parábola</wi>
 <wi type="G" value="3588,22,">de la</wi>
 <wi type="G" value="2215,23,">maleza</wi>
-<wi type="G" value="3588,24,"/><wi type="G" value="68,25,">en el campo</wi>.»
+<wi type="G" value="3588,24,">en el</wi>
+<wi type="G" value="68,25,">campo</wi>.»
 </t>
 </sv>
 </cm><cm>
@@ -23408,7 +23413,8 @@ Tanto <citebib id="DieBibel"/> como <citebib id="DiosHablaHoy"/> agregan `ni el 
 <t xml:lang="es">
 «<wi type="G" value="5618,1,">Así como</wi>
 <wi type="G" value="1161,2,"/>fue
-<wi type="G" value="3588,3,"/><wi type="G" value="2250,4,">en los días</wi>
+<wi type="G" value="3588,3,"/>
+en los <wi type="G" value="2250,4,">días</wi>
 <wi type="G" value="3588,5,">de</wi>
 <wi type="G" value="3575,6,">Noé</wi>,
 <wi type="G" value="3779,7,">así</wi>

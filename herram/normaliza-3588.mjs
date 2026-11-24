@@ -149,6 +149,8 @@ function valorDe(nodo) {
   const m = (nodo.getAttribute('value') || '').match(/^([0-9]+),([0-9]+),/)
   return m ? { strong: Number(m[1]), orden: Number(m[2]) } : null
 }
+const NL = String.fromCharCode(10)
+
 function crearWi(doc, valor, texto) {
   const wi = doc.createElement('wi')
   wi.setAttribute('type', 'G')
@@ -180,8 +182,8 @@ function procesarVerso(sv, doc, libro, cap, versiculo, verbose, modo) {
     morph.filter(e => e.strong === strong).find(e => e.src === orden) || null
 
   const informe = { conTexto: 0, anidados: 0, desanidados: 0, sinDestino: 0, yaAnidado: 0,
-                    articuloDelSiguiente: 0, textoEnHijo: 0, sinMorfologia: 0, noAbsorbe: 0,
-                    fueraDeModo: 0 }
+                    articuloDelSiguiente: 0, textoEnHijo: 0, sinMorfologia: 0, noAbsorbe: 0, textoFueraEntre: 0,
+                    fueraDeModo: 0, textoFueraEntre: 0 }
   // getElementsByTagName devuelve una vista viva: al mover nodos la lista
   // cambia y se saltan elementos. Se congelan los nodos en un arreglo.
   const wis = descendientes(sv).filter(n => n.tagName === 'wi')
@@ -233,13 +235,33 @@ function procesarVerso(sv, doc, libro, cap, versiculo, verbose, modo) {
     // palabra siguiente si esta lo arrastra («EL REY» -> «el» + «REY»).
     const hermanos = hijos(wi.parentNode)
     const idx = hermanos.indexOf(wi)
-    const siguiente = hermanos.slice(idx + 1)
-      .find(n => n.nodeType === 1 && n.tagName === 'wi' && textoDe(n).trim())
+    // Solo bloquea si hay TEXTO con contenido entre el <wi/> y el <wi>
+    // siguiente. Las etiquetas y los espacios en blanco son normales.
+    let posSig = -1
+    for (let k = idx + 1; k < hermanos.length; k++) {
+      const n = hermanos[k]
+      if (n.nodeType === 1 && n.tagName === 'wi' && textoDe(n).trim()) { posSig = k; break }
+    }
+    const intermedios = posSig === -1 ? [] : hermanos.slice(idx + 1, posSig)
+      .filter(n => n.nodeType === 3 && n.nodeValue.trim())
+    const siguiente = posSig === -1 ? null : hermanos[posSig]
+    // Si entre el <wi/> vacío y la palabra hay texto o etiquetas sueltas
+    // («<wi 3588,1/>En»), extraer el artículo movería texto de fuera del
+    // <wi>: se omite y se informa.
+    if (siguiente && intermedios.length > 0) {
+      informe.textoFueraEntre++
+      if (verbose) console.log(`  ${cap}:${versiculo} 3588,${v.orden} con texto suelto entre <wi>; se omite`)
+      continue
+    }
     if (siguiente) {
       const texto = textoDe(siguiente).trim()
       const [art, resto] = extraerArticulo(texto)
       const mayusculas = texto === texto.toUpperCase()
-      if (art && resto && !/^(de|a)$/i.test(art) && (mayusculas || resto !== texto)) {
+      // Salvaguarda: el texto fuera de los <wi> no se toca. Si el original trae
+      // palabras sueltas pegadas al <wi> («<wi/>En»), el artículo extraído no
+      // debe cambiar la capitalización ni el orden del texto en español.
+      const soloDentro = texto === textoDe(siguiente).trim()
+      if (art && resto && soloDentro && !/^(de|a)$/i.test(art) && (mayusculas || resto !== texto)) {
         if (modo !== 'todo' && grupoDe(art) !== modo) {
           informe.fueraDeModo++
           continue
@@ -253,6 +275,8 @@ function procesarVerso(sv, doc, libro, cap, versiculo, verbose, modo) {
         ponerTexto(doc, wi, art)
         ponerTexto(doc, siguiente, resto)
         for (const val of interiores) siguiente.insertBefore(crearWi(doc, val, ''), siguiente.firstChild)
+        // Un <wi> por línea en el texto español (doc/estilo-gbfxml.md).
+        siguiente.parentNode.insertBefore(doc.createTextNode(NL), siguiente)
         informe.articuloDelSiguiente++
         if (verbose) console.log(`  ${cap}:${versiculo} extraer «${art}» de «${texto}» (3588,${v.orden})`)
         continue
@@ -352,8 +376,8 @@ function main() {
   // (que falla con «</sv>» dentro de <rb>/<rf>/<fr> ni para serializar).
   const lineas = original.split(String.fromCharCode(10))
   const total = { conTexto: 0, anidados: 0, desanidados: 0, sinDestino: 0, yaAnidado: 0,
-                  articuloDelSiguiente: 0, textoEnHijo: 0, sinMorfologia: 0, noAbsorbe: 0,
-                    fueraDeModo: 0 }
+                  articuloDelSiguiente: 0, textoEnHijo: 0, sinMorfologia: 0, noAbsorbe: 0, textoFueraEntre: 0,
+                    fueraDeModo: 0, textoFueraEntre: 0 }
   let modificados = 0
   let i = 0
   while (i < lineas.length) {
@@ -363,9 +387,13 @@ function main() {
     const id = apertura[2]
     const mv = id.match(/-(\d+)-(\d+)$/)
     if (!mv) { i++; continue }
+    // El cierre puede venir en la misma línea que otra etiqueta
+    // («</sv></cm>»). Se toma solo hasta «</sv>» y se guarda el resto para
+    // reinsertarlo, o se perdería el </cm>.
     let fin = i
     while (fin < lineas.length && !/^\s*<\/sv>/.test(lineas[fin])) fin++
     if (fin >= lineas.length) break
+    const colaDeFin = (lineas[fin].match(/^\s*<\/sv>([\s\S]*)$/) || [])[1] || ''
 
     const bloque = lineas.slice(i, fin + 1).join(String.fromCharCode(10))
     const doc = new DOMParser().parseFromString(bloque, 'application/xml')
@@ -381,7 +409,9 @@ function main() {
     // escritura. Solo se reescribe el <sv> si hubo una modificación real.
     if (r.anidados + r.desanidados + r.articuloDelSiguiente > 0) {
       const nuevoBloque = sv.toString().trimEnd()
-      lineas.splice(i, fin - i + 1, ...nuevoBloque.split(String.fromCharCode(10)))
+      const nuevas = nuevoBloque.split(String.fromCharCode(10))
+      if (colaDeFin) nuevas[nuevas.length - 1] += colaDeFin
+      lineas.splice(i, fin - i + 1, ...nuevas)
       modificados++
       i += nuevoBloque.split(String.fromCharCode(10)).length
       continue
@@ -403,6 +433,7 @@ function main() {
   console.log(`  sin morfología:     ${total.sinMorfologia}`)
   console.log(`  no absorben art.:   ${total.noAbsorbe}`)
   if (modo !== 'todo') console.log(`  fuera del modo «${modo}»: ${total.fueraDeModo}`)
+  if (total.textoFueraEntre) console.log(`  omitidos (texto suelto entre <wi>): ${total.textoFueraEntre}`)
   console.log(`  versículos tocados: ${modificados}`)
 
   // El conjunto Strong,posición por versículo no debe cambiar: G3588 solo se
