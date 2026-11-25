@@ -94,6 +94,18 @@ const PREPOSICIONES = new Set([1722, 1519, 1537, 4314, 3326, 1909])
 
 const PERSONALES = new Set([846, 1473, 4771, 5210, 2249, 2248, 5209, 5213, 5201])
 
+// Partículas que no llevan palabra propia en español: si G846 envuelve una de
+// ellas no hay palabra que separar. Cualquier otro Strong dentro de G846 es
+// una palabra con contenido, y si el español la escribe hay que separarla.
+const PALABRAS_FUNCIONALES = new Set([
+  2532, 1161, 1063, 3767, 235, 3303, 1065, 686, 2228, 3361, 3756, 302,
+  1437, 1487, 2443
+])
+
+// Piloto de la Fase 3 de REQ/10: pares Strong externo/interno cuya separacion
+// se prueba de uno en uno. La regla 2i solo actua sobre estos.
+const PILOTO_SOLO = new Set(['1473,3004'])
+
 // Verbos de movimiento que, con G846 como sujeto, forman una unidad en
 // español porque el sujeto va implícito en la desinencia: «se iban»,
 // «habían vuelto», «ha concebido».
@@ -189,6 +201,16 @@ function classify(outerStrong, innerStrong, fullText) {
   // μαραναθά): el KJV desdobla un solo término en dos Strong iguales, y el
   // español lo vierte como una sola expresión. Se anida y se documenta en nota.
   if (outerStrong === 3134 && innerStrong === 3134) return 'fusion'
+
+  // 2i. Sujeto explícito absorbido por el verbo: G846 (αὐτός «él/ellos»)
+  // seguido del verbo. El español no repite el sujeto («él recompensará»
+  // suena a énfasis no presente en el griego). La fusión solo vale cuando el
+  // texto griego traducido es el verbo solo; si el español dice «ellos lo
+  // ridiculizaron», G846 es el sujeto pero el español lo escribe, y entonces
+  // corresponde separar.
+  if (PERSONALES.has(outerStrong) && PILOTO_SOLO.has(outerStrong + "," + innerStrong)) {
+    return 'separar'
+  }
 
   // 3. Especial: requiere revisión manual.
   if (outerStrong === 3588) return 'especial' // artículo envuelve (convención antigua)

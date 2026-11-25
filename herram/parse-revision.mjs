@@ -235,7 +235,7 @@ function untaggedWarnings(sv) {
     if (tok.length > 1) words.add(tok)
   }
   if (words.size === 0) return []
-  return [`Sin <wi>: ${[...words].map(w => `«${w}»`).join(', ')}`]
+  return [`ℹ️ Palabra del español sin <wi> (puede ser añadido legítimo): ${[...words].map(w => `«${w}»`).join(', ')}`]
 }
 
 // Advertencias de tipografía sobre el texto español sin normalizar

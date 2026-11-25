@@ -1,0 +1,2232 @@
+{
+  "_comment": "Destinos de los pares <wi> anidados clasificados como «⚠ a separar» por analizar-anidacion.mjs. decision: null = pendiente; \"separar\" = cada Strong con su propia palabra; \"fusion\" = se queda anidado y se justifica; \"locucion\" = expresión fija.",
+  "_generado": "2026-11-24",
+  "_origen": "node herram/analizar-anidacion.mjs --solo separar",
+  "libros": {
+    "mateo": {
+      "5": {
+        "13": {
+          "cases": [
+            {
+              "outer": "906,21,",
+              "inner": "1854,22,",
+              "texto": "para ser arrojada",
+              "decision": null
+            }
+          ]
+        },
+        "44": {
+          "cases": [
+            {
+              "outer": "1377,25,",
+              "inner": "5209,26,",
+              "texto": "los persigan",
+              "decision": null
+            }
+          ]
+        },
+        "34": {
+          "cases": [
+            {
+              "outer": "1473,1,",
+              "inner": "3004,3,",
+              "texto": "digo",
+              "decision": "separar",
+              "razon": "«les digo»: G1473 es el sujeto explícito («yo») y G3004 el verbo con su traducción propia; cada Strong tiene palabra propia."
+            }
+          ]
+        }
+      },
+      "6": {
+        "4": {
+          "cases": [
+            {
+              "outer": "846,18,",
+              "inner": "591,19,",
+              "texto": "te recompensará",
+              "decision": null
+            },
+            {
+              "outer": "591,19,",
+              "inner": "4671,20,",
+              "texto": "te recompensará",
+              "decision": null
+            }
+          ]
+        },
+        "5": {
+          "cases": [
+            {
+              "outer": "302,23,",
+              "inner": "5316,24,",
+              "texto": "poder ser vistos",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "7": {
+        "2": {
+          "cases": [
+            {
+              "outer": "488,12,",
+              "inner": "5213,13,",
+              "texto": "serán medidos",
+              "decision": null
+            }
+          ]
+        },
+        "7": {
+          "cases": [
+            {
+              "outer": "1325,3,",
+              "inner": "5213,4,",
+              "texto": "se les dará",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "8": {
+        "4": {
+          "cases": [
+            {
+              "outer": "2036,8,",
+              "inner": "3367,7,",
+              "texto": "no le digas a nadie",
+              "decision": null
+            }
+          ]
+        },
+        "26": {
+          "cases": [
+            {
+              "outer": "2075,6,",
+              "inner": "1169,5,",
+              "texto": "tienen miedo",
+              "decision": null
+            }
+          ]
+        },
+        "29": {
+          "cases": [
+            {
+              "outer": "2254,6,",
+              "inner": "2532,7,",
+              "texto": "tenemos que ver",
+              "decision": null
+            }
+          ]
+        },
+        "34": {
+          "cases": [
+            {
+              "outer": "3327,16,",
+              "inner": "575,17,",
+              "texto": "se fuera",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "9": {
+        "15": {
+          "cases": [
+            {
+              "outer": "5207,9,",
+              "inner": "3567,11,",
+              "texto": "amigos del novio",
+              "decision": null
+            }
+          ]
+        },
+        "18": {
+          "cases": [
+            {
+              "outer": "5053,16,",
+              "inner": "737,15,",
+              "texto": "acaba de morir",
+              "decision": null
+            }
+          ]
+        },
+        "24": {
+          "cases": [
+            {
+              "outer": "2606,12,",
+              "inner": "846,13,",
+              "texto": "ellos lo ridiculizaron",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "10": {
+        "11": {
+          "cases": [
+            {
+              "outer": "2076,14,",
+              "inner": "514,13,",
+              "texto": "lo merece",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "11": {
+        "7": {
+          "cases": [
+            {
+              "outer": "5130,1,",
+              "inner": "4198,3,",
+              "texto": "se iban",
+              "decision": null
+            }
+          ]
+        },
+        "19": {
+          "cases": [
+            {
+              "outer": "444,12,",
+              "inner": "5314,13,",
+              "texto": "un glotón",
+              "decision": null
+            }
+          ]
+        },
+        "20": {
+          "cases": [
+            {
+              "outer": "3739,7,",
+              "inner": "1722,6,",
+              "texto": "en las que",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "13": {
+        "50": {
+          "cases": [
+            {
+              "outer": "906,2,",
+              "inner": "846,3,",
+              "texto": "serán arrojados",
+              "decision": null
+            }
+          ]
+        },
+        "52": {
+          "cases": [
+            {
+              "outer": "444,17,",
+              "inner": "3617,18,",
+              "texto": "un dueño de casa",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "14": {
+        "5": {
+          "cases": [
+            {
+              "outer": "2309,2,",
+              "inner": "846,3,",
+              "texto": "lo hubiera hecho matar",
+              "decision": null
+            },
+            {
+              "outer": "846,3,",
+              "inner": "615,4,",
+              "texto": "lo hubiera hecho matar",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "15": {
+        "32": {
+          "cases": [
+            {
+              "outer": "4357,17,",
+              "inner": "3427,18,",
+              "texto": "han continuado conmigo",
+              "decision": null
+            },
+            {
+              "outer": "2192,21,",
+              "inner": "3756,20,",
+              "texto": "no tienen nada",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "17": {
+        "18": {
+          "cases": [
+            {
+              "outer": "1831,7,",
+              "inner": "575,8,",
+              "texto": "salió del",
+              "decision": null
+            }
+          ]
+        },
+        "20": {
+          "cases": [
+            {
+              "outer": "2848,18,",
+              "inner": "4615,19,",
+              "texto": "una semilla de mostaza",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "18": {
+        "27": {
+          "cases": [
+            {
+              "outer": "630,8,",
+              "inner": "846,9,",
+              "texto": "lo liberó",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "19": {
+        "7": {
+          "cases": [
+            {
+              "outer": "3004,1,",
+              "inner": "846,2,",
+              "texto": "Le preguntaron",
+              "decision": null
+            }
+          ]
+        },
+        "26": {
+          "cases": [
+            {
+              "outer": "2036,5,",
+              "inner": "846,6,",
+              "texto": "les dijo",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "21": {
+        "19": {
+          "cases": [
+            {
+              "outer": "1519,28,",
+              "inner": "165,30,",
+              "texto": "desde ahora",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "22": {
+        "12": {
+          "cases": [
+            {
+              "outer": "3361,8,",
+              "inner": "2192,9,",
+              "texto": "sin ponerte",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "23": {
+        "30": {
+          "cases": [
+            {
+              "outer": "302,12,",
+              "inner": "1510,13,",
+              "texto": "hubiéramos sido",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "24": {
+        "3": {
+          "cases": [
+            {
+              "outer": "846,3,",
+              "inner": "2521,1,",
+              "texto": "Mientras estaba sentado",
+              "decision": null
+            }
+          ]
+        },
+        "27": {
+          "cases": [
+            {
+              "outer": "575,6,",
+              "inner": "395,7,",
+              "texto": "del oriente",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "25": {
+        "6": {
+          "cases": [
+            {
+              "outer": "3319,1,",
+              "inner": "3571,3,",
+              "texto": "a medianoche",
+              "decision": null
+            }
+          ]
+        },
+        "7": {
+          "cases": [
+            {
+              "outer": "1565,6,",
+              "inner": "3933,5,",
+              "texto": "esas vírgenes",
+              "decision": null
+            }
+          ]
+        },
+        "27": {
+          "cases": [
+            {
+              "outer": "1473,12,",
+              "inner": "2865,13,",
+              "texto": "hubiera recibido",
+              "decision": null
+            }
+          ]
+        },
+        "29": {
+          "cases": [
+            {
+              "outer": "142,16,",
+              "inner": "575,17,",
+              "texto": "se le quitará",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "26": {
+        "17": {
+          "cases": [
+            {
+              "outer": "4671,16,",
+              "inner": "5315,17,",
+              "texto": "para que comas",
+              "decision": null
+            }
+          ]
+        },
+        "21": {
+          "cases": [
+            {
+              "outer": "846,3,",
+              "inner": "2068,2,",
+              "texto": "mientras comían",
+              "decision": null
+            }
+          ]
+        },
+        "58": {
+          "cases": [
+            {
+              "outer": "3113,7,",
+              "inner": "575,6,",
+              "texto": "a distancia",
+              "decision": null
+            }
+          ]
+        },
+        "75": {
+          "cases": [
+            {
+              "outer": "1831,19,",
+              "inner": "1854,20,",
+              "texto": "se fue",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "27": {
+        "12": {
+          "cases": [
+            {
+              "outer": "846,5,",
+              "inner": "2723,4,",
+              "texto": "fue acusado",
+              "decision": null
+            }
+          ]
+        },
+        "19": {
+          "cases": [
+            {
+              "outer": "2521,1,",
+              "inner": "846,3,",
+              "texto": "se sentaba",
+              "decision": null
+            },
+            {
+              "outer": "3367,14,",
+              "inner": "4671,15,",
+              "texto": "No tengas",
+              "decision": null
+            }
+          ]
+        },
+        "55": {
+          "cases": [
+            {
+              "outer": "575,6,",
+              "inner": "3113,7,",
+              "texto": "cierta distancia",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "28": {
+        "5": {
+          "cases": [
+            {
+              "outer": "5399,9,",
+              "inner": "5210,10,",
+              "texto": "tengan miedo",
+              "decision": null
+            }
+          ]
+        },
+        "13": {
+          "cases": [
+            {
+              "outer": "2257,11,",
+              "inner": "2837,12,",
+              "texto": "mientras dormíamos",
+              "decision": null
+            }
+          ]
+        }
+      }
+    },
+    "marcos": {
+      "2": {
+        "15": {
+          "cases": [
+            {
+              "outer": "2621,5,",
+              "inner": "846,6,",
+              "texto": "estaba sentado",
+              "decision": null
+            }
+          ]
+        },
+        "23": {
+          "cases": [
+            {
+              "outer": "4160,17,",
+              "inner": "5089,18,",
+              "texto": "a arrancar",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "3": {
+        "25": {
+          "cases": [
+            {
+              "outer": "1410,8,",
+              "inner": "3756,7,",
+              "texto": "no podrá",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "4": {
+        "24": {
+          "cases": [
+            {
+              "outer": "3739,8,",
+              "inner": "3358,9,",
+              "texto": "la medida",
+              "decision": null
+            },
+            {
+              "outer": "3354,11,",
+              "inner": "5213,12,",
+              "texto": "serán medidos",
+              "decision": null
+            }
+          ]
+        },
+        "35": {
+          "cases": [
+            {
+              "outer": "1096,9,",
+              "inner": "3798,8,",
+              "texto": "cuando atardeció",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "5": {
+        "4": {
+          "cases": [
+            {
+              "outer": "846,3,",
+              "inner": "1210,8,",
+              "texto": "había sido atado",
+              "decision": null
+            }
+          ]
+        },
+        "25": {
+          "cases": [
+            {
+              "outer": "4511,6,",
+              "inner": "129,7,",
+              "texto": "una hemorragia",
+              "decision": null
+            }
+          ]
+        },
+        "41": {
+          "cases": [
+            {
+              "outer": "2076,12,",
+              "inner": "3177,13,",
+              "texto": "traducido significa",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "6": {
+        "40": {
+          "cases": [
+            {
+              "outer": "4237,3,",
+              "inner": "4237,4,",
+              "texto": "en grupos",
+              "decision": null
+            }
+          ]
+        },
+        "51": {
+          "cases": [
+            {
+              "outer": "1537,14,",
+              "inner": "4053,15,",
+              "texto": "sin medida",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "7": {
+        "15": {
+          "cases": [
+            {
+              "outer": "1410,10,",
+              "inner": "2840,12,",
+              "texto": "hacerlo impuro",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "9": {
+        "9": {
+          "cases": [
+            {
+              "outer": "3361,15,",
+              "inner": "3752,16,",
+              "texto": "sino hasta",
+              "decision": null
+            }
+          ]
+        },
+        "28": {
+          "cases": [
+            {
+              "outer": "2398,12,",
+              "inner": "2596,11,",
+              "texto": "en privado",
+              "decision": null
+            }
+          ]
+        },
+        "42": {
+          "cases": [
+            {
+              "outer": "3037,18,",
+              "inner": "3457,19,",
+              "texto": "una piedra",
+              "decision": null
+            }
+          ]
+        },
+        "50": {
+          "cases": [
+            {
+              "outer": "1096,9,",
+              "inner": "358,8,",
+              "texto": "pierde su sabor",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "10": {
+        "15": {
+          "cases": [
+            {
+              "outer": "14",
+              "inner": "15",
+              "texto": "de forma alguna",
+              "decision": "fusion",
+              "razon": "Doble negación griega (οὐ μή) que el español funde en «de ningún modo»; se queda anidada."
+            }
+          ]
+        }
+      },
+      "11": {
+        "23": {
+          "cases": [
+            {
+              "outer": "3004,29,",
+              "inner": "846,32,",
+              "texto": "ha dicho",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "13": {
+        "23": {
+          "cases": [
+            {
+              "outer": "5210,1,",
+              "inner": "991,3,",
+              "texto": "estén atentos",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "14": {
+        "21": {
+          "cases": [
+            {
+              "outer": "1080,28,",
+              "inner": "846,25,",
+              "texto": "hubiera nacido",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "15": {
+        "16": {
+          "cases": [
+            {
+              "outer": "3739,9,",
+              "inner": "2076,10,",
+              "texto": "es decir",
+              "decision": null
+            }
+          ]
+        },
+        "39": {
+          "cases": [
+            {
+              "outer": "1537,7,",
+              "inner": "1727,8,",
+              "texto": "al frente",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "16": {
+        "7": {
+          "cases": [
+            {
+              "outer": "3700,18,",
+              "inner": "846,17,",
+              "texto": "ustedes lo verán",
+              "decision": null
+            }
+          ]
+        },
+        "8": {
+          "cases": [
+            {
+              "outer": "2192,8,",
+              "inner": "5156,11,",
+              "texto": "estaban temblando",
+              "decision": null
+            }
+          ]
+        },
+        "11": {
+          "cases": [
+            {
+              "outer": "2548,1,",
+              "inner": "191,2,",
+              "texto": "Cuando escucharon",
+              "decision": null
+            }
+          ]
+        },
+        "18": {
+          "cases": [
+            {
+              "outer": "2573,16,",
+              "inner": "2192,17,",
+              "texto": "ellos sanarán",
+              "decision": null
+            }
+          ]
+        }
+      }
+    },
+    "lucas": {
+      "1": {
+        "1": {
+          "cases": [
+            {
+              "outer": "2254,10,",
+              "inner": "4135,8,",
+              "texto": "estamos convencidos",
+              "decision": null
+            }
+          ]
+        },
+        "57": {
+          "cases": [
+            {
+              "outer": "846,9,",
+              "inner": "5088,8,",
+              "texto": "dar a luz",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "2": {
+        "33": {
+          "cases": [
+            {
+              "outer": "2258,2,",
+              "inner": "2296,8,",
+              "texto": "estaban maravillados",
+              "decision": null
+            }
+          ]
+        },
+        "37": {
+          "cases": [
+            {
+              "outer": "3589,6,",
+              "inner": "5064,7,",
+              "texto": "ochenta y cuatro",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "3": {
+        "5": {
+          "cases": [
+            {
+              "outer": "2071,11,",
+              "inner": "2117,15,",
+              "texto": "se enderezará",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "4": {
+        "2": {
+          "cases": [
+            {
+              "outer": "4931,16,",
+              "inner": "846,17,",
+              "texto": "se completaron",
+              "decision": null
+            }
+          ]
+        },
+        "8": {
+          "cases": [
+            {
+              "outer": "5217,7,",
+              "inner": "3694,8,",
+              "texto": "Vete lejos",
+              "decision": null
+            }
+          ]
+        },
+        "21": {
+          "cases": [
+            {
+              "outer": "3004,3,",
+              "inner": "4314,4,",
+              "texto": "a decirles",
+              "decision": null
+            }
+          ]
+        },
+        "40": {
+          "cases": [
+            {
+              "outer": "71,11,",
+              "inner": "846,12,",
+              "texto": "fueron llevados",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "5": {
+        "1": {
+          "cases": [
+            {
+              "outer": "846,16,",
+              "inner": "2476,18,",
+              "texto": "Él estaba",
+              "decision": null
+            }
+          ]
+        },
+        "2": {
+          "cases": [
+            {
+              "outer": "846,14,",
+              "inner": "637,15,",
+              "texto": "estaban lavando",
+              "decision": null
+            }
+          ]
+        },
+        "7": {
+          "cases": [
+            {
+              "outer": "1036,22,",
+              "inner": "846,23,",
+              "texto": "se hundían",
+              "decision": null
+            }
+          ]
+        },
+        "17": {
+          "cases": [
+            {
+              "outer": "2258,18,",
+              "inner": "2064,19,",
+              "texto": "habían llegado",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "6": {
+        "12": {
+          "cases": [
+            {
+              "outer": "2258,13,",
+              "inner": "1273,14,",
+              "texto": "paso toda la noche",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "8": {
+        "29": {
+          "cases": [
+            {
+              "outer": "4183,11,",
+              "inner": "5550,13,",
+              "texto": "con frecuencia",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "9": {
+        "13": {
+          "cases": [
+            {
+              "outer": "4119,15,",
+              "inner": "2228,16,",
+              "texto": "más que",
+              "decision": null
+            }
+          ]
+        },
+        "33": {
+          "cases": [
+            {
+              "outer": "846,6,",
+              "inner": "1316,5,",
+              "texto": "se alejaban",
+              "decision": null
+            }
+          ]
+        },
+        "52": {
+          "cases": [
+            {
+              "outer": "846,6,",
+              "inner": "4383,5,",
+              "texto": "de si",
+              "decision": null
+            }
+          ]
+        },
+        "53": {
+          "cases": [
+            {
+              "outer": "2258,9,",
+              "inner": "4198,10,",
+              "texto": "se dirigía",
+              "decision": null
+            }
+          ]
+        },
+        "57": {
+          "cases": [
+            {
+              "outer": "3699,14,",
+              "inner": "302,15,",
+              "texto": "donde quiera",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "11": {
+        "11": {
+          "cases": [
+            {
+              "outer": "3361,17,",
+              "inner": "473,18,",
+              "texto": "en lugar",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "12": {
+        "1": {
+          "cases": [
+            {
+              "outer": "1722,1,",
+              "inner": "3739,2,",
+              "texto": "Mientras tanto",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "13": {
+        "9": {
+          "cases": [
+            {
+              "outer": "1581,11,",
+              "inner": "846,12,",
+              "texto": "será cortada",
+              "decision": null
+            }
+          ]
+        },
+        "17": {
+          "cases": [
+            {
+              "outer": "846,4,",
+              "inner": "3004,3,",
+              "texto": "habiendo dicho",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "15": {
+        "14": {
+          "cases": [
+            {
+              "outer": "846,3,",
+              "inner": "1159,1,",
+              "texto": "se gastó",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "16": {
+        "22": {
+          "cases": [
+            {
+              "outer": "667,7,",
+              "inner": "846,8,",
+              "texto": "fue llevado",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "17": {
+        "2": {
+          "cases": [
+            {
+              "outer": "3458,4,",
+              "inner": "3684,5,",
+              "texto": "una piedra de un molino",
+              "decision": null
+            }
+          ]
+        },
+        "14": {
+          "cases": [
+            {
+              "outer": "846,15,",
+              "inner": "2511,16,",
+              "texto": "fueron limpiados",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "18": {
+        "24": {
+          "cases": [
+            {
+              "outer": "846,3,",
+              "inner": "1096,7,",
+              "texto": "se había puesto",
+              "decision": null
+            }
+          ]
+        },
+        "40": {
+          "cases": [
+            {
+              "outer": "1448,10,",
+              "inner": "846,12,",
+              "texto": "estuvo cerca",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "19": {
+        "11": {
+          "cases": [
+            {
+              "outer": "846,11,",
+              "inner": "1511,12,",
+              "texto": "se encontraba",
+              "decision": null
+            }
+          ]
+        },
+        "23": {
+          "cases": [
+            {
+              "outer": "302,17,",
+              "inner": "4238,18,",
+              "texto": "hubiera ganado",
+              "decision": null
+            }
+          ]
+        },
+        "44": {
+          "cases": [
+            {
+              "outer": "1474,2,",
+              "inner": "4571,3,",
+              "texto": "tirarán al piso",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "21": {
+        "15": {
+          "cases": [
+            {
+              "outer": "3756,9,",
+              "inner": "3956,14,",
+              "texto": "ninguno de",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "22": {
+        "16": {
+          "cases": [
+            {
+              "outer": "1537,9,",
+              "inner": "846,10,",
+              "texto": "de esta",
+              "decision": null
+            }
+          ]
+        },
+        "32": {
+          "cases": [
+            {
+              "outer": "1473,1,",
+              "inner": "1189,3,",
+              "texto": "he orado",
+              "decision": null
+            }
+          ]
+        },
+        "34": {
+          "cases": [
+            {
+              "outer": "533,15,",
+              "inner": "3361,16,",
+              "texto": "hallas negado",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "23": {
+        "8": {
+          "cases": [
+            {
+              "outer": "2258,9,",
+              "inner": "2309,11,",
+              "texto": "había querido",
+              "decision": null
+            }
+          ]
+        },
+        "9": {
+          "cases": [
+            {
+              "outer": "1905,1,",
+              "inner": "846,7,",
+              "texto": "hacía preguntas",
+              "decision": null
+            }
+          ]
+        },
+        "14": {
+          "cases": [
+            {
+              "outer": "1473,15,",
+              "inner": "350,18,",
+              "texto": "he examinado",
+              "decision": null
+            }
+          ]
+        },
+        "15": {
+          "cases": [
+            {
+              "outer": "2076,14,",
+              "inner": "4238,15,",
+              "texto": "ha hecho",
+              "decision": null
+            }
+          ]
+        },
+        "17": {
+          "cases": [
+            {
+              "outer": "318,1,",
+              "inner": "2192,3,",
+              "texto": "era necesario",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "24": {
+        "4": {
+          "cases": [
+            {
+              "outer": "1280,5,",
+              "inner": "846,6,",
+              "texto": "estaban perplejas",
+              "decision": null
+            }
+          ]
+        }
+      }
+    },
+    "juan": {
+      "3": {
+        "26": {
+          "cases": [
+            {
+              "outer": "4771,18,",
+              "inner": "3140,19,",
+              "texto": "has dado testimonio",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "4": {
+        "4": {
+          "cases": [
+            {
+              "outer": "846,3,",
+              "inner": "1163,1,",
+              "texto": "tuvo que",
+              "decision": null
+            }
+          ]
+        },
+        "31": {
+          "cases": [
+            {
+              "outer": "3342,4,",
+              "inner": "1722,1,",
+              "texto": "mientras tanto",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "5": {
+        "31": {
+          "cases": [
+            {
+              "outer": "1473,2,",
+              "inner": "3140,3,",
+              "texto": "doy testimonio",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "7": {
+        "51": {
+          "cases": [
+            {
+              "outer": "3361,9,",
+              "inner": "4386,13,",
+              "texto": "antes de",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "9": {
+        "9": {
+          "cases": [
+            {
+              "outer": "2076,11,",
+              "inner": "3664,9,",
+              "texto": "se parece",
+              "decision": null
+            }
+          ]
+        },
+        "35": {
+          "cases": [
+            {
+              "outer": "1544,5,",
+              "inner": "1854,7,",
+              "texto": "habían expulsado",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "10": {
+        "12": {
+          "cases": [
+            {
+              "outer": "1526,10,",
+              "inner": "2398,13,",
+              "texto": "le pertenecen",
+              "decision": null
+            }
+          ]
+        },
+        "25": {
+          "cases": [
+            {
+              "outer": "5023,21,",
+              "inner": "3140,22,",
+              "texto": "dan testimonio",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "11": {
+        "43": {
+          "cases": [
+            {
+              "outer": "1204,8,",
+              "inner": "1854,9,",
+              "texto": "ven aqui",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "12": {
+        "34": {
+          "cases": [
+            {
+              "outer": "2249,5,",
+              "inner": "191,6,",
+              "texto": "Hemos escuchado",
+              "decision": null
+            }
+          ]
+        },
+        "39": {
+          "cases": [
+            {
+              "outer": "1223,1,",
+              "inner": "5124,2,",
+              "texto": "Por esta causa",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "13": {
+        "11": {
+          "cases": [
+            {
+              "outer": "5124,7,",
+              "inner": "1223,6,",
+              "texto": "por esto",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "15": {
+        "19": {
+          "cases": [
+            {
+              "outer": "1223,26,",
+              "inner": "5124,27,",
+              "texto": "por esto",
+              "decision": null
+            }
+          ]
+        },
+        "24": {
+          "cases": [
+            {
+              "outer": "3762,9,",
+              "inner": "243,10,",
+              "texto": "nadie más",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "17": {
+        "5": {
+          "cases": [
+            {
+              "outer": "3844,7,",
+              "inner": "4572,8,",
+              "texto": "contigo mismo",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "19": {
+        "13": {
+          "cases": [
+            {
+              "outer": "71,8,",
+              "inner": "1854,9,",
+              "texto": "sacó a",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "20": {
+        "26": {
+          "cases": [
+            {
+              "outer": "2258,6,",
+              "inner": "2080,7,",
+              "texto": "estaban juntos",
+              "decision": null
+            }
+          ]
+        }
+      }
+    },
+    "hechos": {
+      "1": {
+        "9": {
+          "cases": [
+            {
+              "outer": "846,5,",
+              "inner": "1869,6,",
+              "texto": "fue elevado",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "2": {
+        "20": {
+          "cases": [
+            {
+              "outer": "4250,11,",
+              "inner": "2228,12,",
+              "texto": "antes de que",
+              "decision": null
+            }
+          ]
+        },
+        "47": {
+          "cases": [
+            {
+              "outer": "2192,5,",
+              "inner": "5485,6,",
+              "texto": "siendo bondadosos",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "4": {
+        "9": {
+          "cases": [
+            {
+              "outer": "350,4,",
+              "inner": "2249,2,",
+              "texto": "somos examinados",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "5": {
+        "9": {
+          "cases": [
+            {
+              "outer": "5213,10,",
+              "inner": "4856,9,",
+              "texto": "han acordado juntos",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "7": {
+        "6": {
+          "cases": [
+            {
+              "outer": "2071,7,",
+              "inner": "3941,11,",
+              "texto": "vivirían como extranjeros",
+              "decision": null
+            },
+            {
+              "outer": "846,17,",
+              "inner": "1402,16,",
+              "texto": "serían esclavizados",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "10": {
+        "21": {
+          "cases": [
+            {
+              "outer": "3739,24,",
+              "inner": "3918,25,",
+              "texto": "han venido",
+              "decision": null
+            }
+          ]
+        },
+        "48": {
+          "cases": [
+            {
+              "outer": "846,3,",
+              "inner": "907,4,",
+              "texto": "fueran bautizados",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "13": {
+        "34": {
+          "cases": [
+            {
+              "outer": "450,3,",
+              "inner": "846,4,",
+              "texto": "fue resucitado",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "14": {
+        "19": {
+          "cases": [
+            {
+              "outer": "846,21,",
+              "inner": "2348,22,",
+              "texto": "había muerto",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "16": {
+        "15": {
+          "cases": [
+            {
+              "outer": "3165,12,",
+              "inner": "1511,16,",
+              "texto": "he sido",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "17": {
+        "4": {
+          "cases": [
+            {
+              "outer": "4576,15,",
+              "inner": "1672,16,",
+              "texto": "de griegos",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "21": {
+        "7": {
+          "cases": [
+            {
+              "outer": "2249,1,",
+              "inner": "1274,5,",
+              "texto": "Cuando habíamos terminado",
+              "decision": null
+            }
+          ]
+        },
+        "14": {
+          "cases": [
+            {
+              "outer": "3982,2,",
+              "inner": "846,4,",
+              "texto": "era persuadido",
+              "decision": null
+            }
+          ]
+        },
+        "17": {
+          "cases": [
+            {
+              "outer": "2257,3,",
+              "inner": "1096,1,",
+              "texto": "habíamos llegado",
+              "decision": null
+            }
+          ]
+        },
+        "25": {
+          "cases": [
+            {
+              "outer": "2249,6,",
+              "inner": "1989,7,",
+              "texto": "hemos escrito",
+              "decision": null
+            }
+          ]
+        },
+        "28": {
+          "cases": [
+            {
+              "outer": ",",
+              "inner": "2475,3,",
+              "texto": "de Israel",
+              "decision": "separar",
+              "razon": "El <wi> externo no tiene Strong (value vacío): al separar se elimina el externo sin valor y queda el interno con su palabra."
+            }
+          ]
+        },
+        "29": {
+          "cases": [
+            {
+              "outer": "2258,1,",
+              "inner": "4308,3,",
+              "texto": "habían visto",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "22": {
+        "3": {
+          "cases": [
+            {
+              "outer": "435,4,",
+              "inner": "2453,5,",
+              "texto": "un Judío",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "23": {
+        "1": {
+          "cases": [
+            {
+              "outer": "1473,10,",
+              "inner": "4176,14,",
+              "texto": "he vivido",
+              "decision": null
+            }
+          ]
+        },
+        "7": {
+          "cases": [
+            {
+              "outer": "846,3,",
+              "inner": "2980,4,",
+              "texto": "habiá dicho",
+              "decision": null
+            }
+          ]
+        },
+        "12": {
+          "cases": [
+            {
+              "outer": "4160,4,",
+              "inner": "4963,8,",
+              "texto": "se unieron",
+              "decision": null
+            }
+          ]
+        },
+        "15": {
+          "cases": [
+            {
+              "outer": "846,28,",
+              "inner": "1448,27,",
+              "texto": "se acerque",
+              "decision": null
+            }
+          ]
+        },
+        "35": {
+          "cases": [
+            {
+              "outer": "5442,18,",
+              "inner": "846,12,",
+              "texto": "fuera mantenido",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "24": {
+        "10": {
+          "cases": [
+            {
+              "outer": "5607,13,",
+              "inner": "4571,14,",
+              "texto": "haz sido",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "25": {
+        "20": {
+          "cases": [
+            {
+              "outer": "1014,11,",
+              "inner": "4198,12,",
+              "texto": "estaba dispuesto a ir",
+              "decision": null
+            }
+          ]
+        },
+        "25": {
+          "cases": [
+            {
+              "outer": "846,7,",
+              "inner": "4238,8,",
+              "texto": "había cometido",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "26": {
+        "14": {
+          "cases": [
+            {
+              "outer": "2667,3,",
+              "inner": "2257,4,",
+              "texto": "habíamos caído",
+              "decision": null
+            }
+          ]
+        },
+        "18": {
+          "cases": [
+            {
+              "outer": "846,20,",
+              "inner": "2983,19,",
+              "texto": "puedan recibir",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "27": {
+        "1": {
+          "cases": [
+            {
+              "outer": "2248,6,",
+              "inner": "636,5,",
+              "texto": "debíamos zarpar",
+              "decision": null
+            }
+          ]
+        },
+        "18": {
+          "cases": [
+            {
+              "outer": "2257,4,",
+              "inner": "5492,3,",
+              "texto": "fuimos afligidos",
+              "decision": null
+            },
+            {
+              "outer": "1546,7,",
+              "inner": "4160,8,",
+              "texto": "aligeraron el barco",
+              "decision": null
+            }
+          ]
+        },
+        "33": {
+          "cases": [
+            {
+              "outer": "3195,4,",
+              "inner": "1096,6,",
+              "texto": "se acercaba",
+              "decision": null
+            }
+          ]
+        }
+      }
+    },
+    "romanos": {
+      "6": {
+        "4": {
+          "cases": [
+            {
+              "outer": "2249,23,",
+              "inner": "4043,27,",
+              "texto": "podamos caminar",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "11": {
+        "13": {
+          "cases": [
+            {
+              "outer": "1909,6,",
+              "inner": "3745,7,",
+              "texto": "Y como",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "16": {
+        "25": {
+          "cases": [
+            {
+              "outer": "5550,18,",
+              "inner": "166,19,",
+              "texto": "desde el principio",
+              "decision": null
+            }
+          ]
+        }
+      }
+    },
+    "corintios1": {
+      "1": {
+        "23": {
+          "cases": [
+            {
+              "outer": "2249,1,",
+              "inner": "2784,3,",
+              "texto": "predicamos a",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "5": {
+        "7": {
+          "cases": [
+            {
+              "outer": "2075,11,",
+              "inner": "106,12,",
+              "texto": "sin levadura",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "14": {
+        "10": {
+          "cases": [
+            {
+              "outer": "1487,2,",
+              "inner": "5177,3,",
+              "texto": "tal vez",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "15": {
+        "30": {
+          "cases": [
+            {
+              "outer": "2249,3,",
+              "inner": "2793,4,",
+              "texto": "estamos en peligro",
+              "decision": null
+            }
+          ]
+        },
+        "34": {
+          "cases": [
+            {
+              "outer": "2192,10,",
+              "inner": "56,6,",
+              "texto": "no tienen conocimiento",
+              "decision": null
+            }
+          ]
+        },
+        "52": {
+          "cases": [
+            {
+              "outer": "2249,18,",
+              "inner": "236,19,",
+              "texto": "seremos transformados",
+              "decision": null
+            }
+          ]
+        }
+      }
+    },
+    "corintios2": {
+      "1": {
+        "8": {
+          "cases": [
+            {
+              "outer": "1820,24,",
+              "inner": "2248,25,",
+              "texto": "perdimos la esperanza",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "5": {
+        "4": {
+          "cases": [
+            {
+              "outer": "1909,10,",
+              "inner": "3739,11,",
+              "texto": "es que",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "7": {
+        "5": {
+          "cases": [
+            {
+              "outer": "2257,12,",
+              "inner": "2346,16,",
+              "texto": "estuvimos afligidos",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "8": {
+        "14": {
+          "cases": [
+            {
+              "outer": "5216,17p,",
+              "inner": "4051,18p,",
+              "texto": "su abundancia",
+              "decision": null
+            },
+            {
+              "outer": "3568,14p,",
+              "inner": "2540,15p,",
+              "texto": "este tiempo",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "10": {
+        "1": {
+          "cases": [
+            {
+              "outer": "1473,3,",
+              "inner": "846,1,",
+              "texto": "yo mismo",
+              "decision": null
+            }
+          ]
+        }
+      }
+    },
+    "galatas": {
+      "4": {
+        "16": {
+          "cases": [
+            {
+              "outer": "226,5,",
+              "inner": "5213,6,",
+              "texto": "decirles la verdad",
+              "decision": null
+            }
+          ]
+        }
+      }
+    },
+    "efesios": {
+      "2": {
+        "12": {
+          "cases": [
+            {
+              "outer": "2192,22,",
+              "inner": "3361,21,",
+              "texto": "carentes de",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "5": {
+        "33": {
+          "cases": [
+            {
+              "outer": "2596,5,",
+              "inner": "1520,6,",
+              "texto": "cada uno",
+              "decision": null
+            }
+          ]
+        }
+      }
+    },
+    "timoteo1": {
+      "2": {
+        "7": {
+          "cases": [
+            {
+              "outer": "1519,1,",
+              "inner": "3739,2,",
+              "texto": "por lo cual",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "4": {
+        "16": {
+          "cases": [
+            {
+              "outer": "4160,10,",
+              "inner": "5124,8,",
+              "texto": "al hacerlo",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "5": {
+        "25": {
+          "cases": [
+            {
+              "outer": "3756,13,",
+              "inner": "1410,14,",
+              "texto": "no pueden",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "6": {
+        "4": {
+          "cases": [
+            {
+              "outer": "1537,10,",
+              "inner": "3739,11,",
+              "texto": "de lo que",
+              "decision": null
+            }
+          ]
+        },
+        "12": {
+          "cases": [
+            {
+              "outer": "1519,11,",
+              "inner": "3739,12,",
+              "texto": "a la cual",
+              "decision": null
+            }
+          ]
+        }
+      }
+    },
+    "hebreos": {
+      "3": {
+        "3": {
+          "cases": [
+            {
+              "outer": "2596,8,",
+              "inner": "3745,9,",
+              "texto": "en cuanto",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "9": {
+        "3": {
+          "cases": [
+            {
+              "outer": "39,9,",
+              "inner": "39,10,",
+              "texto": "el Lugar Santísimo",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "10": {
+        "26": {
+          "cases": [
+            {
+              "outer": "264,3,",
+              "inner": "2257,4,",
+              "texto": "si pecamos",
+              "decision": null
+            }
+          ]
+        },
+        "37": {
+          "cases": [
+            {
+              "outer": "3745,4,",
+              "inner": "3745,5,",
+              "texto": "muy, muy",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "11": {
+        "15": {
+          "cases": [
+            {
+              "outer": "302,10,",
+              "inner": "2192,9,",
+              "texto": "habrían tenido",
+              "decision": null
+            }
+          ]
+        },
+        "37": {
+          "cases": [
+            {
+              "outer": "122,12,",
+              "inner": "1192,13,",
+              "texto": "pieles de cabras",
+              "decision": null
+            }
+          ]
+        }
+      },
+      "13": {
+        "10": {
+          "cases": [
+            {
+              "outer": "1537,3,",
+              "inner": "3739,4,",
+              "texto": "del cual",
+              "decision": null
+            }
+          ]
+        }
+      }
+    },
+    "pedro1": {
+      "2": {
+        "24": {
+          "cases": [
+            {
+              "outer": "3739,21,",
+              "inner": "846,24,",
+              "texto": "por cuya",
+              "decision": null
+            }
+          ]
+        }
+      }
+    }
+  }
+}
