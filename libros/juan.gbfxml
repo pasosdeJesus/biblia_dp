@@ -10132,13 +10132,13 @@ commits sin is the bondservant of sin.
 A bondservant doesn´t live in the house forever. A son remains forever.
 <t xml:lang="es">
 <wi type="G" value="1161,2,">Y</wi>
-<wi type="G" value="3588,1,">un</wi>
+<wi type="G" value="3588,1,">el</wi>
 <wi type="G" value="1401,3,">esclavo</wi>
 <wi type="G" value="3756,4,">no</wi>
 <wi type="G" value="3306,5,">vive</wi>
 <wi type="G" value="1722,6,">en</wi> 
 </t>
-<rb xml:lang="es"><wi type="G" value="3588,7,">una</wi>
+<rb xml:lang="es"><wi type="G" value="3588,7,">la</wi>
 <wi type="G" value="3614,8,">casa</wi><rf>
 <citebib id="DiosHablaHoy"/> no dice `casa´ sino `familia.´
 </rf>
@@ -10146,7 +10146,7 @@ A bondservant doesn´t live in the house forever. A son remains forever.
 <t xml:lang="es">
 <wi type="G" value="1519,9,">por</wi>
 <wi type="G" value="3588,10,"/><wi type="G" value="165,11,">siempre</wi>.
-<wi type="G" value="3588,12,">Un</wi>
+<wi type="G" value="3588,12,">El</wi>
 <wi type="G" value="5207,13,">hijo</wi>
 <wi type="G" value="3306,14,">vive</wi>
 <wi type="G" value="1519,15,">por</wi>
@@ -19217,9 +19217,9 @@ sorrow, because her time has come. But when she has delivered the child, she
 doesn´t remember the anguish any more, for the joy that a human being is born
 into the world.
 <t xml:lang="es">
-<wi type="G" value="3588,1,">Una</wi>
+<wi type="G" value="3752,3,">Cuando</wi>
+<wi type="G" value="3588,1,">la</wi>
 <wi type="G" value="1135,2,">mujer</wi>
-<wi type="G" value="3752,3,">cuando</wi>
 <wi type="G" value="5088,4,">da a luz</wi>
 <wi type="G" value="2192,6,">tiene</wi>
 <wi type="G" value="3077,5,">preocupación</wi>
