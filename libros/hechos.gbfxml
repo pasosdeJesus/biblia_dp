@@ -735,18 +735,21 @@ a <wi type="G" value="3159,10,">Matias</wi>,
 Now when the day of Pentecost had come, they were all with one
 accord in one place.
 <t xml:lang="es"><wi type="G" value="2532,1,">Y</wi>
-<wi type="G" value="4845,4,">cuando llegó</wi>
-<wi type="G" value="3588,3,"/><wi type="G" value="3588,5,">el</wi>
+<wi type="G" value="1722,2,">a</wi>
+<wi type="G" value="3588,3,">la</wi>
+<wi type="G" value="4845,4,">llegada</wi>
+<wi type="G" value="3588,5,">del</wi>
 <wi type="G" value="2250,6,">día</wi>
 <wi type="G" value="3588,7,">de</wi>
 <wi type="G" value="4005,8,">Pentecostés</wi>,
 <wi type="G" value="537,10,">todos</wi>
-<wi type="G" value="846,14,">ellos</wi>
 <wi type="G" value="2258,9,">estaban</wi>
 <wi type="G" value="3661,11,">reunidos</wi>
-<wi type="G" value="1722,2,">en</wi>
-<wi type="G" value="1909,12,">un mismo sitio</wi>.
-<wi type="G" value="3588,13,"/> </t>
+<wi type="G" value="1909,12,">en</wi>
+<wi type="G" value="3588,13,">el</wi>
+<wi type="G" value="846,14,">mismo</wi>
+<wi type="GC" value="12">sitio</wi>.
+ </t>
 </sv>
 
 <sv id="Hechos-2-2">
